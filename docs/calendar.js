@@ -357,8 +357,9 @@
     if(!force && accountUser?.id===user?.id)return;
     const changingAccount=!!accountUser;
     ++accountEpoch;clearTimeout(syncTimer);cloudEngine?.stop();cloudEngine=null;accountUser=user || null;
-    $('account-name').textContent=user?'Signed in as '+(user.user_metadata?.user_name || user.email || 'GitHub user'):'Use without an account, or sync across devices.';
+    $('account-name').textContent=user?'Signed in as '+(user.user_metadata?.user_name || user.email || user.user_metadata?.full_name || 'your account'):'Use without an account, or sync across devices.';
     $('sign-in').hidden=!!user;
+    $('sign-in-google').hidden=!!user;
     for(const id of ['sign-out','sync-account','copy-device'])$(id).hidden=!user;
     $('reload-account').hidden=true;
     $('saved-scope').textContent=user?'Saved to your account':'Saved on this device';
@@ -390,15 +391,17 @@
       if(user)syncAccount();else $('account-status').textContent='Device-only calendars are active.';
     }catch(error){libraryWritable=false;drawSaved();$('account-status').textContent=error.message+' Export recovery data in Manage before changing storage.';}
   }
-  $('sign-in').onclick=async()=>{
+  async function signIn(provider){
     if(!account?.client)return;
-    persist();$('account-status').textContent='Opening GitHub sign-in…';
+    persist();$('account-status').textContent=`Opening ${provider==='google'?'Google':'GitHub'} sign-in…`;
     try{
       const redirect=new URL('calendar.html',location.href);redirect.search='';redirect.hash='';
-      const {error}=await account.client.auth.signInWithOAuth({provider:'github',options:{redirectTo:redirect.href}});
+      const {error}=await account.client.auth.signInWithOAuth({provider,options:{redirectTo:redirect.href}});
       if(error)throw error;
     }catch(error){$('account-status').textContent='Could not sign in: '+error.message;}
-  };
+  }
+  $('sign-in').onclick=()=>signIn('github');
+  $('sign-in-google').onclick=()=>signIn('google');
   $('sign-out').onclick=async()=>{
     if(cloudEngine?.pending() && !confirm('Some changes have not synced. They will stay cached for this account on this device. Sign out?'))return;
     try{const {error}=await account.client.auth.signOut({scope:'local'});if(error)throw error;switchAccount(null);}
@@ -432,5 +435,5 @@
   if(initial?.data?.session?.user)switchAccount(initial.data.session.user);
   else{persist();drawSelections();drawFilters();drawCalendar();load();}
   if(initial?.error){$('account-status').textContent=initial.error.message;}
-  if(!account?.client){$('sign-in').disabled=true;$('account-status').textContent='Sign-in is unavailable. Device-only calendars still work.';}
+  if(!account?.client){$('sign-in').disabled=true;$('sign-in-google').disabled=true;$('account-status').textContent='Sign-in is unavailable. Device-only calendars still work.';}
 })();

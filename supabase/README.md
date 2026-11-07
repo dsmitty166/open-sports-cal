@@ -1,6 +1,6 @@
 # Account calendar setup
 
-The website remains on GitHub Pages. Supabase provides optional GitHub login and
+The website remains on GitHub Pages. Supabase provides optional Google/GitHub login and
 private saved libraries; sports schedules still come from the existing feeds.
 
 1. Run `migrations/202611070001_calendar_libraries.sql` once in the Supabase SQL
@@ -19,6 +19,17 @@ private saved libraries; sports schedules still come from the existing feeds.
 6. Sign out: device-only calendars should return. In a second account, the first
    account's calendars must not appear. Anonymous API access to this table is
    intentionally denied. Do not grant `anon` table access to silence that error.
+
+## Google sign-in
+
+Create a Web application OAuth client in Google Cloud with authorized redirect URI
+`https://mmrqhwxuasrxwajxulms.supabase.co/auth/v1/callback`. Configure the consent
+screen and audience for the intended users. Enter the client ID and secret in
+Supabase Authentication → Sign In / Providers → Google, enable and save.
+The website's existing Site URL and Redirect URL settings apply to both providers.
+Google login uses the same account libraries and owner-only RLS policies.
+Supabase can automatically link verified matching email identities; different
+emails can produce separate accounts, so use the same email to access one library.
 
 ## Storage and conflicts
 

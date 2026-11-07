@@ -46,4 +46,11 @@ test('settings dialog hands off actions and signout clears account data even if 
  release({data:{calendars:[{id:'secret',name:'Private name',teams:['nba:test-team'],view:'agenda'}],revision:1}});
  await new Promise(resolve=>setImmediate(resolve));
  assert.equal(get('selections').innerHTML,'');assert.equal(get('games').innerHTML.includes('Private game'),false);
+ const calls=[];
+ context.CalendarAccount.client.auth.signInWithOAuth=async options=>{calls.push(options);return {};};
+ assert.equal(get('sign-in-google').hidden,false);
+ await get('sign-in-google').onclick();await get('sign-in').onclick();
+ assert.deepEqual(calls.map(c=>c.provider),['google','github']);
+ assert.equal(calls[0].options.redirectTo,'https://example.test/calendar.html');
+ assert.equal(calls[1].options.redirectTo,calls[0].options.redirectTo);
 });
