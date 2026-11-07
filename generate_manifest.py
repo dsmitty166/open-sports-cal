@@ -14,6 +14,7 @@ site works without a build step — just open docs/index.html.
 
 import json
 import re
+from html import escape
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -253,4 +254,39 @@ OUT.write_text(
     encoding="utf-8",
 )
 
-print(f"✓  Wrote {OUT.relative_to(ROOT)}  ({len(leagues)} leagues)")
+# Keep visible counts, crawler listings, and structured data in sync with files.
+# This also runs during the daily refresh, so adding a league cannot leave the
+# homepage advertising an old team/calendar total.
+index_path = ROOT / "docs" / "index.html"
+homepage = index_path.read_text(encoding="utf-8")
+league_count = len({lg["path"].rsplit("/", 1)[0] for lg in leagues})
+calendar_count = sum(1 for _ in ROOT.glob("*/*/*/*.ics"))
+sport_count = len({lg["sport"] for lg in leagues})
+for element_id, label in {
+    "leagueCount": f"{league_count} leagues",
+    "calendarCount": f"{calendar_count:,} calendars",
+    "sportCount": f"{sport_count} sports",
+}.items():
+    homepage = re.sub(rf'(<span[^>]*id="{element_id}"[^>]*>)[^<]*(</span>)',
+                      lambda m: m[1] + label + m[2], homepage)
+
+schema_match = re.search(r'(<script type="application/ld\+json">)(.*?)(</script>)', homepage, re.S)
+if schema_match:
+    schema = json.loads(schema_match[2])
+    raw_base = "https://raw.githubusercontent.com/dsmitty166/open-sports-cal/main/"
+    items = [{"@type": "ListItem", "position": i + 1,
+              "name": f"{lg['name']} {lg['season']} Calendar (.ics)",
+              "url": raw_base + lg["path"] + "/" + lg["allFile"]}
+             for i, lg in enumerate(leagues)]
+    for node in schema.get("@graph", []):
+        if node.get("@type") == "ItemList":
+            node["description"] = f"Free iCalendar files covering {league_count} leagues across {sport_count} sports, including NCAA football and men's and women's basketball."
+            node["itemListElement"] = items
+        elif node.get("@type") == "WebSite":
+            node["description"] = "Free sports calendars for NCAA basketball and football, NFL, NBA, MLB, NHL, PWHL, soccer, IPL, motorsport and tennis."
+    homepage = homepage[:schema_match.start(2)] + "\n" + json.dumps(schema, ensure_ascii=False, indent=2) + "\n        " + homepage[schema_match.end(2):]
+    listing = "\n".join(f'<li><a href="{escape(item["url"], quote=True)}">{escape(item["name"])}</a></li>' for item in items)
+    homepage = re.sub(r'(<noscript>.*?<ul>).*?(</ul>)', lambda m: m[1] + "\n" + listing + "\n" + m[2], homepage, count=1, flags=re.S)
+index_path.write_text(homepage, encoding="utf-8")
+
+print(f"✓  Wrote {OUT.relative_to(ROOT)} and homepage counts ({league_count} leagues, {calendar_count} calendars)")
