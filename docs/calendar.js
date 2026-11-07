@@ -5,8 +5,8 @@
   if (!core || !window.SPORTS_DATA) { $('notice').textContent = 'Calendar data could not load. Please refresh the page.'; return; }
   const esc = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const catalog = core.buildCatalog(window.SPORTS_DATA.leagues), byId = new Map(catalog.map(c => [c.id,c]));
-  const defaults = ['ncaa-fbs:iowa-hawkeyes','ncaa-men:iowa-hawkeyes','ncaa-women:iowa-hawkeyes'];
-  const aliases = {'iowa-football':defaults[0],'iowa-men':defaults[1],'iowa-women':defaults[2]};
+  const defaults = [];
+  const aliases = {'iowa-football':'ncaa-fbs:iowa-hawkeyes','iowa-men':'ncaa-men:iowa-hawkeyes','iowa-women':'ncaa-women:iowa-hawkeyes'};
   const params = new URLSearchParams(location.search);
   let saved = {};
   try { saved = JSON.parse(localStorage.getItem('osc-my-calendar') || '{}') || {}; } catch (_) { /* Private browsing can disable storage. */ }
@@ -19,7 +19,7 @@
   let year = +today.slice(0,4), month = +today.slice(5,7)-1, day = +today.slice(8,10);
   let events = [], sequence = 0, lastFetch = 0, dayEvents = new Map();
   const cache = new Map(), colors = ['#c6a340','#79a5db','#ba97cc','#7cbe99','#e59b83','#8fbfc4'];
-  const colorAssignments = new Map(defaults.map((id,i)=>[id,colors[i]]));
+  const colorAssignments = new Map(Object.values(aliases).map((id,i)=>[id,colors[i]]));
   const color = id => { if(!colorAssignments.has(id)) colorAssignments.set(id,colors[colorAssignments.size % colors.length]); return colorAssignments.get(id); };
   const timeFormatter = new Intl.DateTimeFormat(undefined,{timeZone:zone,hour:'numeric',minute:'2-digit'});
   const url = () => { const u = new URL(location.href); u.hash = ''; u.search = ''; u.searchParams.set('teams',selected.join(',')); u.searchParams.set('view',view); return u; };
