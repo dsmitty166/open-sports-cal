@@ -1,0 +1,426 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Northwestern Wildcats
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401920732@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:Binghamton Bearcats @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBinghamton Bearcats @ Northweste
+ rn Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920733@open-sports-cal
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Stony Brook Seawolves @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStony Brook Seawolves @ Northwes
+ tern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920734@open-sports-cal
+DTSTART:20261110T010000Z
+DTEND:20261110T040000Z
+SUMMARY:Boston University Terriers @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Nor
+ thwestern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909503@open-sports-cal
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:DePaul Blue Demons @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Northwester
+ n Wildcats\nWelsh-Ryan Arena\, Evanston\, IL\nStart time TBD
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920735@open-sports-cal
+DTSTART:20261117T010000Z
+DTEND:20261117T040000Z
+SUMMARY:Columbia Lions @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nColumbia Lions @ Northwestern Wi
+ ldcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920380@open-sports-cal
+DTSTART:20261120T200000Z
+DTEND:20261120T230000Z
+SUMMARY:Northwestern Wildcats @ Virginia Tech Hokies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Virginia
+  Tech Hokies\nTD Arena\, Charleston\, SC\nNeutral site
+LOCATION:TD Arena\, Charleston\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920736@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Dayton Flyers @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDayton Flyers @ Northwestern Wil
+ dcats\nTD Arena\, Charleston\, SC\nNeutral site
+LOCATION:TD Arena\, Charleston\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920737@open-sports-cal
+DTSTART:20261128T010000Z
+DTEND:20261128T040000Z
+SUMMARY:Northeastern Huskies @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNortheastern Huskies @ Northwest
+ ern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921876@open-sports-cal
+DTSTART:20261202T020000Z
+DTEND:20261202T050000Z
+SUMMARY:Wisconsin Badgers @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWisconsin Badgers @ Northwestern
+  Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920738@open-sports-cal
+DTSTART:20261205T210000Z
+DTEND:20261206T000000Z
+SUMMARY:Northwestern Wildcats @ BYU Cougars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ BYU Coug
+ ars\nDelta Center\, Salt Lake City\, UT\nNeutral site
+LOCATION:Delta Center\, Salt Lake City\, UT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921889@open-sports-cal
+DTSTART:20261212T213000Z
+DTEND:20261213T003000Z
+SUMMARY:Northwestern Wildcats @ Michigan Wolverines
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Michigan
+  Wolverines\nCrisler Center\, Ann Arbor\, MI
+LOCATION:Crisler Center\, Ann Arbor\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919834@open-sports-cal
+DTSTART:20261217T010000Z
+DTEND:20261217T040000Z
+SUMMARY:Mercyhurst Lakers @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Northwestern
+  Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919045@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Northwestern Wildcats @ Oklahoma State Cowboys
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Oklahoma
+  State Cowboys\nBOK Center\, Tulsa\, OK\nNeutral site
+LOCATION:BOK Center\, Tulsa\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919743@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:Chicago State Cougars @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nChicago State Cougars @ Northwes
+ tern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921899@open-sports-cal
+DTSTART:20270104T003000Z
+DTEND:20270104T033000Z
+SUMMARY:Minnesota Golden Gophers @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMinnesota Golden Gophers @ North
+ western Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921906@open-sports-cal
+DTSTART:20270106T233000Z
+DTEND:20270107T023000Z
+SUMMARY:Northwestern Wildcats @ Ohio State Buckeyes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Ohio Sta
+ te Buckeyes\nSchottenstein Center\, Columbus\, OH
+LOCATION:Schottenstein Center\, Columbus\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921913@open-sports-cal
+DTSTART:20270110T170000Z
+DTEND:20270110T200000Z
+SUMMARY:Northwestern Wildcats @ Penn State Nittany Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Penn Sta
+ te Nittany Lions\nBryce Jordan Center\, University Park\, PA
+LOCATION:Bryce Jordan Center\, University Park\, PA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921918@open-sports-cal
+DTSTART:20270114T020000Z
+DTEND:20270114T050000Z
+SUMMARY:Illinois Fighting Illini @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ North
+ western Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921923@open-sports-cal
+DTSTART:20270116T180000Z
+DTEND:20270116T210000Z
+SUMMARY:Rutgers Scarlet Knights @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Northw
+ estern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921931@open-sports-cal
+DTSTART:20270121T033000Z
+DTEND:20270121T063000Z
+SUMMARY:Northwestern Wildcats @ Washington Huskies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Washingt
+ on Huskies\nAlaska Airlines Arena\, Seattle\, WA
+LOCATION:Alaska Airlines Arena\, Seattle\, WA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921935@open-sports-cal
+DTSTART:20270124T000000Z
+DTEND:20270124T030000Z
+SUMMARY:Northwestern Wildcats @ Oregon Ducks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Oregon D
+ ucks\nMatthew Knight Arena\, Eugene\, OR
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921789@open-sports-cal
+DTSTART:20270128T000000Z
+DTEND:20270128T030000Z
+SUMMARY:Indiana Hoosiers @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana Hoosiers @ Northwestern 
+ Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921949@open-sports-cal
+DTSTART:20270130T190000Z
+DTEND:20270130T220000Z
+SUMMARY:USC Trojans @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUSC Trojans @ Northwestern Wildc
+ ats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921958@open-sports-cal
+DTSTART:20270206T170000Z
+DTEND:20270206T200000Z
+SUMMARY:Northwestern Wildcats @ Purdue Boilermakers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Purdue B
+ oilermakers\nMackey Arena\, West Lafayette\, IN
+LOCATION:Mackey Arena\, West Lafayette\, IN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921793@open-sports-cal
+DTSTART:20270210T003000Z
+DTEND:20270210T033000Z
+SUMMARY:Northwestern Wildcats @ Indiana Hoosiers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Indiana 
+ Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921972@open-sports-cal
+DTSTART:20270213T190000Z
+DTEND:20270213T220000Z
+SUMMARY:Iowa Hawkeyes @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Northwestern Wil
+ dcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921975@open-sports-cal
+DTSTART:20270217T020000Z
+DTEND:20270217T050000Z
+SUMMARY:Northwestern Wildcats @ Illinois Fighting Illini
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Illinois
+  Fighting Illini\nState Farm Center\, Champaign\, IL
+LOCATION:State Farm Center\, Champaign\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921988@open-sports-cal
+DTSTART:20270221T190000Z
+DTEND:20270221T220000Z
+SUMMARY:Northwestern Wildcats @ Minnesota Golden Gophers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Minnesot
+ a Golden Gophers\nThe Barn by Blue Cross and Blue Shield of Minnesota\, Mi
+ nneapolis\, MN
+LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
+ , MN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921994@open-sports-cal
+DTSTART:20270225T013000Z
+DTEND:20270225T043000Z
+SUMMARY:UCLA Bruins @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUCLA Bruins @ Northwestern Wildc
+ ats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921999@open-sports-cal
+DTSTART:20270227T200000Z
+DTEND:20270227T230000Z
+SUMMARY:Nebraska Cornhuskers @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Northwest
+ ern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922005@open-sports-cal
+DTSTART:20270303T013000Z
+DTEND:20270303T043000Z
+SUMMARY:Michigan State Spartans @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ Northw
+ estern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922014@open-sports-cal
+DTSTART:20270307T180000Z
+DTEND:20270307T210000Z
+SUMMARY:Northwestern Wildcats @ Maryland Terrapins
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Maryland
+  Terrapins\nXFINITY Center\, College Park\, MD
+LOCATION:XFINITY Center\, College Park\, MD
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

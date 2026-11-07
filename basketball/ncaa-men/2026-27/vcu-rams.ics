@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - VCU Rams
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401920201@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:Little Rock Trojans @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ VCU Rams\n
+ Siegel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401918986@open-sports-cal
+DTSTART:20261107T200000Z
+DTEND:20261107T230000Z
+SUMMARY:VCU Rams @ Memphis Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Memphis Tigers\nFedEx
+ Forum\, Memphis\, TN
+LOCATION:FedExForum\, Memphis\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920202@open-sports-cal
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+SUMMARY:NJIT Highlanders @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNJIT Highlanders @ VCU Rams\nSie
+ gel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917536@open-sports-cal
+DTSTART:20261120T033000Z
+DTEND:20261120T063000Z
+SUMMARY:VCU Rams @ Santa Clara Broncos
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Santa Clara Broncos\n
+ Leavey Center\, Santa Clara\, CA
+LOCATION:Leavey Center\, Santa Clara\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909536@open-sports-cal
+DTSTART:20261124T020000Z
+DTEND:20261124T050000Z
+SUMMARY:VCU Rams @ Providence Friars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Providence Friars\nLa
+ haina Civic Center\, Maui\, HI\nNeutral site
+LOCATION:Lahaina Civic Center\, Maui\, HI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:Pacific/Honolulu
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920203@open-sports-cal
+DTSTART:20261204T000000Z
+DTEND:20261204T030000Z
+SUMMARY:Coppin State Eagles @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCoppin State Eagles @ VCU Rams\n
+ Siegel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920204@open-sports-cal
+DTSTART:20261208T000000Z
+DTEND:20261208T030000Z
+SUMMARY:North Carolina Central Eagles @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Central Eagles @ 
+ VCU Rams\nSiegel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920205@open-sports-cal
+DTSTART:20261212T193000Z
+DTEND:20261212T223000Z
+SUMMARY:VCU Rams @ Florida Atlantic Owls
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Florida Atlantic Owls
+ \nKia Center\, Orlando\, FL\nNeutral site
+LOCATION:Kia Center\, Orlando\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920206@open-sports-cal
+DTSTART:20261216T000000Z
+DTEND:20261216T030000Z
+SUMMARY:Central Connecticut Blue Devils @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Connecticut Blue Devils 
+ @ VCU Rams\nSiegel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920207@open-sports-cal
+DTSTART:20261219T200000Z
+DTEND:20261219T230000Z
+SUMMARY:VCU Rams @ Mississippi State Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Mississippi State Bul
+ ldogs\nPropst Arena\, Huntsville\, AL\nNeutral site
+LOCATION:Propst Arena\, Huntsville\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920208@open-sports-cal
+DTSTART:20261223T000000Z
+DTEND:20261223T030000Z
+SUMMARY:Morgan State Bears @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ VCU Rams\nS
+ iegel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927340@open-sports-cal
+DTSTART:20261231T010000Z
+DTEND:20261231T040000Z
+SUMMARY:VCU Rams @ St. Bonaventure Bonnies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ St. Bonaventure Bonni
+ es\nReilly Center\, Saint Bonaventure\, NY
+LOCATION:Reilly Center\, Saint Bonaventure\, NY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927217@open-sports-cal
+DTSTART:20270103T000000Z
+DTEND:20270103T030000Z
+SUMMARY:Duquesne Dukes @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDuquesne Dukes @ VCU Rams\nSiege
+ l Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927223@open-sports-cal
+DTSTART:20270106T230000Z
+DTEND:20270107T020000Z
+SUMMARY:Davidson Wildcats @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ VCU Rams\nSi
+ egel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927236@open-sports-cal
+DTSTART:20270109T190000Z
+DTEND:20270109T220000Z
+SUMMARY:VCU Rams @ George Washington Revolutionaries
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ George Washington Rev
+ olutionaries\nCharles E. Smith Center\, Washington\, DC
+LOCATION:Charles E. Smith Center\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927238@open-sports-cal
+DTSTART:20270113T230000Z
+DTEND:20270114T020000Z
+SUMMARY:La Salle Explorers @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLa Salle Explorers @ VCU Rams\nS
+ iegel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927248@open-sports-cal
+DTSTART:20270118T200000Z
+DTEND:20270118T230000Z
+SUMMARY:VCU Rams @ Saint Joseph's Hawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Saint Joseph's Hawks\
+ nMichael J. Hagan '85 Arena\, Philadelphia\, PA
+LOCATION:Michael J. Hagan '85 Arena\, Philadelphia\, PA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927252@open-sports-cal
+DTSTART:20270123T000000Z
+DTEND:20270123T030000Z
+SUMMARY:VCU Rams @ Dayton Flyers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Dayton Flyers\nUD Are
+ na\, Dayton\, OH
+LOCATION:UD Arena\, Dayton\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927260@open-sports-cal
+DTSTART:20270127T230000Z
+DTEND:20270128T020000Z
+SUMMARY:George Mason Patriots @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorge Mason Patriots @ VCU Rams
+ \nSiegel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927269@open-sports-cal
+DTSTART:20270131T010000Z
+DTEND:20270131T040000Z
+SUMMARY:Richmond Spiders @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ VCU Rams\nSie
+ gel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927277@open-sports-cal
+DTSTART:20270206T000000Z
+DTEND:20270206T030000Z
+SUMMARY:VCU Rams @ Saint Louis Billikens
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Saint Louis Billikens
+ \nChaifetz Arena\, St. Louis\, MO
+LOCATION:Chaifetz Arena\, St. Louis\, MO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927288@open-sports-cal
+DTSTART:20270211T000000Z
+DTEND:20270211T030000Z
+SUMMARY:Rhode Island Rams @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nRhode Island Rams @ VCU Rams\nSi
+ egel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927296@open-sports-cal
+DTSTART:20270213T170000Z
+DTEND:20270213T200000Z
+SUMMARY:VCU Rams @ Richmond Spiders
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Richmond Spiders\nRob
+ ins Center\, Richmond\, VA
+LOCATION:Robins Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927300@open-sports-cal
+DTSTART:20270217T000000Z
+DTEND:20270217T030000Z
+SUMMARY:VCU Rams @ Fordham Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Fordham Rams\nRose Hi
+ ll Gym\, Bronx\, NY
+LOCATION:Rose Hill Gym\, Bronx\, NY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927304@open-sports-cal
+DTSTART:20270220T000000Z
+DTEND:20270220T030000Z
+SUMMARY:Saint Louis Billikens @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ VCU Rams
+ \nSiegel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927310@open-sports-cal
+DTSTART:20270223T233000Z
+DTEND:20270224T023000Z
+SUMMARY:St. Bonaventure Bonnies @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ VCU Ra
+ ms\nSiegel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927314@open-sports-cal
+DTSTART:20270227T000000Z
+DTEND:20270227T030000Z
+SUMMARY:VCU Rams @ George Mason Patriots
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ George Mason Patriots
+ \nEagleBank Arena\, Fairfax\, VA
+LOCATION:EagleBank Arena\, Fairfax\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927322@open-sports-cal
+DTSTART:20270303T010000Z
+DTEND:20270303T040000Z
+SUMMARY:VCU Rams @ Loyola Chicago Ramblers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Loyola Chicago Ramble
+ rs\nGentile Arena\, Chicago\, IL
+LOCATION:Gentile Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927327@open-sports-cal
+DTSTART:20270306T000000Z
+DTEND:20270306T030000Z
+SUMMARY:Dayton Flyers @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDayton Flyers @ VCU Rams\nSiegel
+  Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - North Carolina Central Eagles
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401867977@open-sports-cal
+DTSTART:20260829T230000Z
+DTEND:20260830T020000Z
+SUMMARY:North Carolina Central Eagles @ Texas Southern Tigers
+DESCRIPTION:NCAA FCS Football 2026\nNorth Carolina Central Eagles @ Texas S
+ outhern Tigers\nShell Energy Stadium\, Houston\, TX
+LOCATION:Shell Energy Stadium\, Houston\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867978@open-sports-cal
+DTSTART:20260905T220000Z
+DTEND:20260906T010000Z
+SUMMARY:Elizabeth City State Vikings @ North Carolina Central Eagles
+DESCRIPTION:NCAA FCS Football 2026\nElizabeth City State Vikings @ North Ca
+ rolina Central Eagles\nO'Kelly-Riddick Stadium\, Durham\, NC
+LOCATION:O'Kelly-Riddick Stadium\, Durham\, NC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401866633@open-sports-cal
+DTSTART:20260912T160000Z
+DTEND:20260912T190000Z
+SUMMARY:North Carolina A&T Aggies @ North Carolina Central Eagles
+DESCRIPTION:NCAA FCS Football 2026\nNorth Carolina A&T Aggies @ North Carol
+ ina Central Eagles\nO'Kelly-Riddick Stadium\, Durham\, NC
+LOCATION:O'Kelly-Riddick Stadium\, Durham\, NC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867979@open-sports-cal
+DTSTART:20260919T220000Z
+DTEND:20260920T010000Z
+SUMMARY:North Carolina Central Eagles @ Gardner-Webb Runnin' Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nNorth Carolina Central Eagles @ Gardner
+ -Webb Runnin' Bulldogs\nErnest W. Spangler Stadium\, Boiling Springs\, NC
+LOCATION:Ernest W. Spangler Stadium\, Boiling Springs\, NC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401862781@open-sports-cal
+DTSTART:20260926T200000Z
+DTEND:20260926T230000Z
+SUMMARY:North Carolina Central Eagles @ East Carolina Pirates
+DESCRIPTION:NCAA FCS Football 2026\nNorth Carolina Central Eagles @ East Ca
+ rolina Pirates\nDowdy-Ficklen Stadium\, Greenville\, NC
+LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401866657@open-sports-cal
+DTSTART:20261003T220000Z
+DTEND:20261004T010000Z
+SUMMARY:Campbell Fighting Camels @ North Carolina Central Eagles
+DESCRIPTION:NCAA FCS Football 2026\nCampbell Fighting Camels @ North Caroli
+ na Central Eagles\nO'Kelly-Riddick Stadium\, Durham\, NC
+LOCATION:O'Kelly-Riddick Stadium\, Durham\, NC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867980@open-sports-cal
+DTSTART:20261010T170000Z
+DTEND:20261010T200000Z
+SUMMARY:William & Mary Tribe @ North Carolina Central Eagles
+DESCRIPTION:NCAA FCS Football 2026\nWilliam & Mary Tribe @ North Carolina C
+ entral Eagles\nO'Kelly-Riddick Stadium\, Durham\, NC
+LOCATION:O'Kelly-Riddick Stadium\, Durham\, NC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867955@open-sports-cal
+DTSTART:20261023T210000Z
+DTEND:20261024T000000Z
+SUMMARY:North Carolina Central Eagles @ Delaware State Hornets
+DESCRIPTION:NCAA FCS Football 2026\nNorth Carolina Central Eagles @ Delawar
+ e State Hornets\nAlumni Stadium (DE)\, Dover\, DE
+LOCATION:Alumni Stadium (DE)\, Dover\, DE
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867963@open-sports-cal
+DTSTART:20261031T180000Z
+DTEND:20261031T210000Z
+SUMMARY:Howard Bison @ North Carolina Central Eagles
+DESCRIPTION:NCAA FCS Football 2026\nHoward Bison @ North Carolina Central E
+ agles\nO'Kelly-Riddick Stadium\, Durham\, NC
+LOCATION:O'Kelly-Riddick Stadium\, Durham\, NC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867976@open-sports-cal
+DTSTART:20261107T170000Z
+DTEND:20261107T200000Z
+SUMMARY:North Carolina Central Eagles @ Norfolk State Spartans
+DESCRIPTION:NCAA FCS Football 2026\nNorth Carolina Central Eagles @ Norfolk
+  State Spartans\nWilliam "Dick" Price Stadium\, Norfolk\, VA
+LOCATION:William "Dick" Price Stadium\, Norfolk\, VA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867981@open-sports-cal
+DTSTART:20261114T183000Z
+DTEND:20261114T213000Z
+SUMMARY:North Carolina Central Eagles @ South Carolina State Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nNorth Carolina Central Eagles @ South C
+ arolina State Bulldogs\nOliver C. Dawson Stadium\, Orangeburg\, SC
+LOCATION:Oliver C. Dawson Stadium\, Orangeburg\, SC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867971@open-sports-cal
+DTSTART:20261121T190000Z
+DTEND:20261121T220000Z
+SUMMARY:Morgan State Bears @ North Carolina Central Eagles
+DESCRIPTION:NCAA FCS Football 2026\nMorgan State Bears @ North Carolina Cen
+ tral Eagles\nO'Kelly-Riddick Stadium\, Durham\, NC
+LOCATION:O'Kelly-Riddick Stadium\, Durham\, NC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

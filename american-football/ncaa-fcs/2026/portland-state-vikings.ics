@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Portland State Vikings
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401868154@open-sports-cal
+DTSTART:20260829T190000Z
+DTEND:20260829T220000Z
+SUMMARY:UC Davis Aggies @ Portland State Vikings
+DESCRIPTION:NCAA FCS Football 2026\nUC Davis Aggies @ Portland State Viking
+ s\nHillsboro Stadium\, Portland\, OR
+LOCATION:Hillsboro Stadium\, Portland\, OR
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401860879@open-sports-cal
+DTSTART:20260906T013000Z
+DTEND:20260906T043000Z
+SUMMARY:Portland State Vikings @ San Diego State Aztecs
+DESCRIPTION:NCAA FCS Football 2026\nPortland State Vikings @ San Diego Stat
+ e Aztecs\nSnapdragon Stadium\, San Diego\, CA
+LOCATION:Snapdragon Stadium\, San Diego\, CA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867876@open-sports-cal
+DTSTART:20260913T020000Z
+DTEND:20260913T050000Z
+SUMMARY:North Dakota Fighting Hawks @ Portland State Vikings
+DESCRIPTION:NCAA FCS Football 2026\nNorth Dakota Fighting Hawks @ Portland 
+ State Vikings\nHillsboro Stadium\, Portland\, OR
+LOCATION:Hillsboro Stadium\, Portland\, OR
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401858455@open-sports-cal
+DTSTART:20260919T023000Z
+DTEND:20260919T053000Z
+SUMMARY:Portland State Vikings @ Oregon Ducks
+DESCRIPTION:NCAA FCS Football 2026\nPortland State Vikings @ Oregon Ducks\n
+ Autzen Stadium\, Eugene\, OR
+LOCATION:Autzen Stadium\, Eugene\, OR
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868155@open-sports-cal
+DTSTART:20260927T000000Z
+DTEND:20260927T030000Z
+SUMMARY:Portland State Vikings @ Weber State Wildcats
+DESCRIPTION:NCAA FCS Football 2026\nPortland State Vikings @ Weber State Wi
+ ldcats\nStewart Stadium\, Ogden\, UT
+LOCATION:Stewart Stadium\, Ogden\, UT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868156@open-sports-cal
+DTSTART:20261010T200000Z
+DTEND:20261010T230000Z
+SUMMARY:Utah Tech Trailblazers @ Portland State Vikings
+DESCRIPTION:NCAA FCS Football 2026\nUtah Tech Trailblazers @ Portland State
+  Vikings\nHillsboro Stadium\, Portland\, OR
+LOCATION:Hillsboro Stadium\, Portland\, OR
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868125@open-sports-cal
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+SUMMARY:Portland State Vikings @ Northern Arizona Lumberjacks
+DESCRIPTION:NCAA FCS Football 2026\nPortland State Vikings @ Northern Arizo
+ na Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868106@open-sports-cal
+DTSTART:20261024T220000Z
+DTEND:20261025T010000Z
+SUMMARY:Portland State Vikings @ Idaho State Bengals
+DESCRIPTION:NCAA FCS Football 2026\nPortland State Vikings @ Idaho State Be
+ ngals\nICCU Dome\, Pocatello\, ID
+LOCATION:ICCU Dome\, Pocatello\, ID
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868098@open-sports-cal
+DTSTART:20261031T200000Z
+DTEND:20261031T230000Z
+SUMMARY:Idaho Vandals @ Portland State Vikings
+DESCRIPTION:NCAA FCS Football 2026\nIdaho Vandals @ Portland State Vikings\
+ nHillsboro Stadium\, Portland\, OR
+LOCATION:Hillsboro Stadium\, Portland\, OR
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868116@open-sports-cal
+DTSTART:20261107T200000Z
+DTEND:20261107T230000Z
+SUMMARY:Portland State Vikings @ Montana Grizzlies
+DESCRIPTION:NCAA FCS Football 2026\nPortland State Vikings @ Montana Grizzl
+ ies\nWashington-Grizzly Stadium\, Missoula\, MT
+LOCATION:Washington-Grizzly Stadium\, Missoula\, MT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868157@open-sports-cal
+DTSTART:20261114T030000Z
+DTEND:20261114T060000Z
+SUMMARY:Southern Utah Thunderbirds @ Portland State Vikings
+DESCRIPTION:NCAA FCS Football 2026\nSouthern Utah Thunderbirds @ Portland S
+ tate Vikings\nHillsboro Stadium\, Portland\, OR
+LOCATION:Hillsboro Stadium\, Portland\, OR
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868092@open-sports-cal
+DTSTART:20261121T210000Z
+DTEND:20261122T000000Z
+SUMMARY:Portland State Vikings @ Eastern Washington Eagles
+DESCRIPTION:NCAA FCS Football 2026\nPortland State Vikings @ Eastern Washin
+ gton Eagles\nRoos Field\, Cheney\, WA
+LOCATION:Roos Field\, Cheney\, WA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

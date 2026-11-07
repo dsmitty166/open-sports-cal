@@ -22,13 +22,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 **Sport folder names in use:**
 - `cricket/ipl/`
 - `football/world-cup/`, `football/premier-league/`, `football/la-liga/`, `football/bundesliga/`, `football/serie-a/`, `football/ligue-1/`
-- `basketball/nba/`
+- `basketball/nba/`, `basketball/ncaa-men/`, `basketball/ncaa-women/`
 - `baseball/mlb/`
 - `hockey/nhl/`
 - `hockey/pwhl/`
 - `tennis/grand-slams/`
 - `motorsport/formula-1/`, `motorsport/motogp/`
-- `american-football/nfl/`
+- `american-football/nfl/`, `american-football/ncaa-fbs/`, `american-football/ncaa-fcs/`
 
 **Season naming convention:**
 - Single-year seasons: `2026` (NFL, F1, MotoGP), `2027` (MLB)
@@ -46,7 +46,7 @@ python3 validate.py                                   # validate all files
 python3 validate.py football/premier-league/2025-26   # validate one folder
 ```
 
-CI runs the same script on every PR via `.github/workflows/validate.yml`. All 527 current files pass.
+CI runs the same script on every PR via `.github/workflows/validate.yml`. All calendar files must pass.
 
 ---
 
@@ -123,7 +123,7 @@ def make_calendar(events, cal_name, prodid_label):
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:{cal_name}",
         "X-WR-TIMEZONE:UTC",
-        "X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/",
+        "X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/",
     ])
     return f"{header}\r\n" + "\r\n".join(events) + "\r\nEND:VCALENDAR\r\n"
 
@@ -156,7 +156,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:<Calendar display name>
 X-WR-TIMEZONE:UTC
-X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
 <VTIMEZONE block — only for IST leagues>
 <VEVENT blocks>
 END:VCALENDAR
@@ -504,3 +504,27 @@ The root `README.md` maintains:
 | `README.md` | Add row to Available Calendars + Data Sources tables |
 | `CLAUDE.md` | Add to folder structure list + data sources table |
 | `validate.py` | No change needed — automatically picks up new `.ics` files |
+
+
+### NCAA Division I calendars
+
+| League | Source | Fetch method |
+|--------|--------|--------------|
+| NCAA Men's Basketball | ESPN public JSON API | Per-team schedules, season=2027 for 2026-27; Division I group 50 |
+| NCAA Women's Basketball | ESPN public JSON API | Per-team schedules, season=2027 for 2026-27; Division I group 50 |
+| NCAA FBS Football | ESPN public JSON API | Per-team schedules, season=2026; division group 80 |
+| NCAA FCS Football | ESPN public JSON API | Per-team schedules, season=2026; division group 81 |
+
+`python scripts/update_ncaa.py` updates all four calendars daily via the existing auto-update workflow. ESPN is a broadcaster source, used as for NFL; it is not an official NCAA API.
+
+Roster: `https://sports.core.api.espn.com/v2/sports/{sport}/leagues/{league}/seasons/{year}/types/2/groups/{group}/teams?limit=1000`.
+Schedule: `https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/teams/{id}/schedule?season={year}`.
+Basketball league codes: `mens-college-basketball`, `womens-college-basketball`; football: `college-football`. Sport is `basketball` or `football` (output folder `american-football` for football).
+
+Follow the group hierarchy through every level: Sun Belt and SWAC teams have an extra conference-division level. Exclude historical entries outside the requested division and unresolved bracket teams. Include only season type 2 (regular season). Division aggregates include interdivision games; only member teams receive individual files. Iowa (ESPN team ID 2294) must be present in FBS and both basketball outputs.
+
+NCAA UID format: `<league-key>-<ESPN-event-id>@open-sports-cal` (for example `ncaa-fbs-401858426@open-sports-cal`). Never include the date in these UIDs: it can change. Team filenames normalize punctuation/diacritics to lowercase ASCII letters, numbers, and hyphens; collisions abort generation.
+
+Use UTC for announced times and resolve `X-TIMEZONE` from the actual venue address, including neutral sites. Unknown timezones abort the update rather than defaulting to a potentially wrong zone. Games with ESPN `timeValid: false` have confirmed dates but unannounced times: emit all-day events with a `Start time TBD` note, using the UTC date of ESPN's midnight-Eastern placeholder. This extends the existing NFL/MLB TBD-time exception to NCAA games. Event duration is three hours for basketball and football. Fold content lines at 75 UTF-8 octets and write CRLF bytes.
+
+Fetch and check all four feeds before replacing calendars; a network error, empty active-team schedule, or wrong season aborts the run. When adding future seasons, change `CONFIGS` in the updater, keep completed folders untouched, create the new season READMEs, and update the root tables.

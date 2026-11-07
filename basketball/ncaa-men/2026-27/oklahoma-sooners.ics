@@ -1,0 +1,425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Oklahoma Sooners
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401906801@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:East Texas A&M Lions @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Oklahoma 
+ Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906802@open-sports-cal
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Mississippi Valley State Delta Devils @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi Valley State Delta D
+ evils @ Oklahoma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906803@open-sports-cal
+DTSTART:20261110T010000Z
+DTEND:20261110T040000Z
+SUMMARY:North Alabama Lions @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Alabama Lions @ Oklahoma S
+ ooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906804@open-sports-cal
+DTSTART:20261114T010000Z
+DTEND:20261114T040000Z
+SUMMARY:Fairleigh Dickinson Knights @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFairleigh Dickinson Knights @ Ok
+ lahoma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906805@open-sports-cal
+DTSTART:20261119T010000Z
+DTEND:20261119T040000Z
+SUMMARY:Campbell Fighting Camels @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Oklah
+ oma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906806@open-sports-cal
+DTSTART:20261124T183000Z
+DTEND:20261124T213000Z
+SUMMARY:Oklahoma Sooners @ Pittsburgh Panthers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Pittsburgh Pa
+ nthers\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site
+LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906807@open-sports-cal
+DTSTART:20261126T170000Z
+DTEND:20261126T200000Z
+SUMMARY:Oklahoma Sooners @ Purdue Boilermakers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Purdue Boiler
+ makers\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site
+LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906808@open-sports-cal
+DTSTART:20261202T020000Z
+DTEND:20261202T050000Z
+SUMMARY:Syracuse Orange @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSyracuse Orange @ Oklahoma Soone
+ rs\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906809@open-sports-cal
+DTSTART:20261205T170000Z
+DTEND:20261205T200000Z
+SUMMARY:Arizona State Sun Devils @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArizona State Sun Devils @ Oklah
+ oma Sooners\nBOK Center\, Tulsa\, OK\nNeutral site
+LOCATION:BOK Center\, Tulsa\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906810@open-sports-cal
+DTSTART:20261208T020000Z
+DTEND:20261208T050000Z
+SUMMARY:Alabama State Hornets @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama State Hornets @ Oklahoma
+  Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906811@open-sports-cal
+DTSTART:20261212T193000Z
+DTEND:20261212T223000Z
+SUMMARY:Oklahoma State Cowboys @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma State Cowboys @ Oklahom
+ a Sooners\nPaycom Center\, Oklahoma City\, OK\nNeutral site
+LOCATION:Paycom Center\, Oklahoma City\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906812@open-sports-cal
+DTSTART:20261218T020000Z
+DTEND:20261218T050000Z
+SUMMARY:Jackson State Tigers @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Oklahoma 
+ Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906813@open-sports-cal
+DTSTART:20261223T013000Z
+DTEND:20261223T043000Z
+SUMMARY:Oklahoma Sooners @ SMU Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ SMU Mustangs\
+ nMoody Coliseum (Dallas)\, Dallas\, TX
+LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906814@open-sports-cal
+DTSTART:20261229T010000Z
+DTEND:20261229T040000Z
+SUMMARY:UL Monroe Warhawks @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUL Monroe Warhawks @ Oklahoma So
+ oners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902306@open-sports-cal
+DTSTART:20270102T170000Z
+DTEND:20270102T200000Z
+SUMMARY:Kentucky Wildcats @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Oklahoma Soo
+ ners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902313@open-sports-cal
+DTSTART:20270107T020000Z
+DTEND:20270107T050000Z
+SUMMARY:Oklahoma Sooners @ Florida Gators
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Florida Gator
+ s\nStephen C. O'Connell Center\, Gainesville\, FL
+LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902323@open-sports-cal
+DTSTART:20270109T230000Z
+DTEND:20270110T020000Z
+SUMMARY:Mississippi State Bulldogs @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi State Bulldogs @ Okl
+ ahoma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902328@open-sports-cal
+DTSTART:20270113T000000Z
+DTEND:20270113T030000Z
+SUMMARY:Oklahoma Sooners @ Georgia Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Georgia Bulld
+ ogs\nStegeman Coliseum\, Athens\, GA
+LOCATION:Stegeman Coliseum\, Athens\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902342@open-sports-cal
+DTSTART:20270116T170000Z
+DTEND:20270116T200000Z
+SUMMARY:Oklahoma Sooners @ Texas Longhorns
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Texas Longhor
+ ns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902347@open-sports-cal
+DTSTART:20270120T000000Z
+DTEND:20270120T030000Z
+SUMMARY:Missouri Tigers @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMissouri Tigers @ Oklahoma Soone
+ rs\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902350@open-sports-cal
+DTSTART:20270124T013000Z
+DTEND:20270124T043000Z
+SUMMARY:Oklahoma Sooners @ Alabama Crimson Tide
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Alabama Crims
+ on Tide\nColeman Coliseum\, Tuscaloosa\, AL
+LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902367@open-sports-cal
+DTSTART:20270130T180000Z
+DTEND:20270130T210000Z
+SUMMARY:South Carolina Gamecocks @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Oklah
+ oma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902376@open-sports-cal
+DTSTART:20270203T020000Z
+DTEND:20270203T050000Z
+SUMMARY:Oklahoma Sooners @ Texas A&M Aggies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Texas A&M Agg
+ ies\nReed Arena\, College Station\, TX
+LOCATION:Reed Arena\, College Station\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902379@open-sports-cal
+DTSTART:20270206T203000Z
+DTEND:20270206T233000Z
+SUMMARY:Oklahoma Sooners @ Auburn Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Auburn Tigers
+ \nNeville Arena\, Auburn\, AL
+LOCATION:Neville Arena\, Auburn\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902390@open-sports-cal
+DTSTART:20270211T000000Z
+DTEND:20270211T030000Z
+SUMMARY:Tennessee Volunteers @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Volunteers @ Oklahoma 
+ Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902393@open-sports-cal
+DTSTART:20270213T180000Z
+DTEND:20270213T210000Z
+SUMMARY:LSU Tigers @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Oklahoma Sooners\nL
+ loyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902404@open-sports-cal
+DTSTART:20270217T000000Z
+DTEND:20270217T030000Z
+SUMMARY:Oklahoma Sooners @ Missouri Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Missouri Tige
+ rs\nMizzou Arena\, Columbia\, MO
+LOCATION:Mizzou Arena\, Columbia\, MO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902409@open-sports-cal
+DTSTART:20270221T013000Z
+DTEND:20270221T043000Z
+SUMMARY:Texas Longhorns @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Longhorns @ Oklahoma Soone
+ rs\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902418@open-sports-cal
+DTSTART:20270225T020000Z
+DTEND:20270225T050000Z
+SUMMARY:Georgia Bulldogs @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Bulldogs @ Oklahoma Soon
+ ers\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902428@open-sports-cal
+DTSTART:20270227T203000Z
+DTEND:20270227T233000Z
+SUMMARY:Oklahoma Sooners @ Ole Miss Rebels
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Ole Miss Rebe
+ ls\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+LOCATION:The Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902432@open-sports-cal
+DTSTART:20270304T020000Z
+DTEND:20270304T050000Z
+SUMMARY:Vanderbilt Commodores @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVanderbilt Commodores @ Oklahoma
+  Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902439@open-sports-cal
+DTSTART:20270306T170000Z
+DTEND:20270306T200000Z
+SUMMARY:Oklahoma Sooners @ Arkansas Razorbacks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Arkansas Razo
+ rbacks\nBud Walton Arena\, Fayetteville\, AR
+LOCATION:Bud Walton Arena\, Fayetteville\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

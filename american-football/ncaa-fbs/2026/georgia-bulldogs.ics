@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Georgia Bulldogs
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856658@open-sports-cal
+DTSTART:20260905T190000Z
+DTEND:20260905T220000Z
+SUMMARY:Tennessee State Tigers @ Georgia Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nTennessee State Tigers @ Georgia Bulldo
+ gs\nSanford Stadium\, Athens\, GA
+LOCATION:Sanford Stadium\, Athens\, GA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856673@open-sports-cal
+DTSTART:20260912T164500Z
+DTEND:20260912T194500Z
+SUMMARY:Western Kentucky Hilltoppers @ Georgia Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nWestern Kentucky Hilltoppers @ Georgia 
+ Bulldogs\nSanford Stadium\, Athens\, GA
+LOCATION:Sanford Stadium\, Athens\, GA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856686@open-sports-cal
+DTSTART:20260919T160000Z
+DTEND:20260919T190000Z
+SUMMARY:Georgia Bulldogs @ Arkansas Razorbacks
+DESCRIPTION:NCAA FBS Football 2026\nGeorgia Bulldogs @ Arkansas Razorbacks\
+ nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR
+LOCATION:Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856700@open-sports-cal
+DTSTART:20260926T193000Z
+DTEND:20260926T223000Z
+SUMMARY:Oklahoma Sooners @ Georgia Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nOklahoma Sooners @ Georgia Bulldogs\nSa
+ nford Stadium\, Athens\, GA
+LOCATION:Sanford Stadium\, Athens\, GA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856705@open-sports-cal
+DTSTART:20261003T164500Z
+DTEND:20261003T194500Z
+SUMMARY:Vanderbilt Commodores @ Georgia Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nVanderbilt Commodores @ Georgia Bulldog
+ s\nSanford Stadium\, Athens\, GA
+LOCATION:Sanford Stadium\, Athens\, GA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856712@open-sports-cal
+DTSTART:20261010T233000Z
+DTEND:20261011T023000Z
+SUMMARY:Georgia Bulldogs @ Alabama Crimson Tide
+DESCRIPTION:NCAA FBS Football 2026\nGeorgia Bulldogs @ Alabama Crimson Tide
+ \nBryant-Denny Stadium\, Tuscaloosa\, AL
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856719@open-sports-cal
+DTSTART:20261017T193000Z
+DTEND:20261017T223000Z
+SUMMARY:Auburn Tigers @ Georgia Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nAuburn Tigers @ Georgia Bulldogs\nSanfo
+ rd Stadium\, Athens\, GA
+LOCATION:Sanford Stadium\, Athens\, GA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856734@open-sports-cal
+DTSTART:20261031T193000Z
+DTEND:20261031T223000Z
+SUMMARY:Florida Gators @ Georgia Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nFlorida Gators @ Georgia Bulldogs\nMerc
+ edes-Benz Stadium\, Atlanta\, GA\nNeutral site
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856741@open-sports-cal
+DTSTART:20261108T003000Z
+DTEND:20261108T033000Z
+SUMMARY:Georgia Bulldogs @ Ole Miss Rebels
+DESCRIPTION:NCAA FBS Football 2026\nGeorgia Bulldogs @ Ole Miss Rebels\nVau
+ ght-Hemingway Stadium\, Oxford\, MS
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856883@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Missouri Tigers @ Georgia Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nMissouri Tigers @ Georgia Bulldogs\nSan
+ ford Stadium\, Athens\, GA\nStart time TBD
+LOCATION:Sanford Stadium\, Athens\, GA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856753@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Georgia Bulldogs @ South Carolina Gamecocks
+DESCRIPTION:NCAA FBS Football 2026\nGeorgia Bulldogs @ South Carolina Gamec
+ ocks\nWilliams-Brice Stadium\, Columbia\, SC\nStart time TBD
+LOCATION:Williams-Brice Stadium\, Columbia\, SC
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856760@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Georgia Tech Yellow Jackets @ Georgia Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nGeorgia Tech Yellow Jackets @ Georgia B
+ ulldogs\nSanford Stadium\, Athens\, GA\nStart time TBD
+LOCATION:Sanford Stadium\, Athens\, GA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

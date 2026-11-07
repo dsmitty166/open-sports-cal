@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Illinois Fighting Illini
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858424@open-sports-cal
+DTSTART:20260904T010000Z
+DTEND:20260904T040000Z
+SUMMARY:UAB Blazers @ Illinois Fighting Illini
+DESCRIPTION:NCAA FBS Football 2026\nUAB Blazers @ Illinois Fighting Illini\
+ nGies Memorial Stadium\, Champaign\, IL
+LOCATION:Gies Memorial Stadium\, Champaign\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858217@open-sports-cal
+DTSTART:20260912T193000Z
+DTEND:20260912T223000Z
+SUMMARY:Duke Blue Devils @ Illinois Fighting Illini
+DESCRIPTION:NCAA FBS Football 2026\nDuke Blue Devils @ Illinois Fighting Il
+ lini\nGies Memorial Stadium\, Champaign\, IL
+LOCATION:Gies Memorial Stadium\, Champaign\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858448@open-sports-cal
+DTSTART:20260919T180000Z
+DTEND:20260919T210000Z
+SUMMARY:Southern Illinois Salukis @ Illinois Fighting Illini
+DESCRIPTION:NCAA FBS Football 2026\nSouthern Illinois Salukis @ Illinois Fi
+ ghting Illini\nGies Memorial Stadium\, Champaign\, IL
+LOCATION:Gies Memorial Stadium\, Champaign\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858465@open-sports-cal
+DTSTART:20260926T160000Z
+DTEND:20260926T190000Z
+SUMMARY:Illinois Fighting Illini @ Ohio State Buckeyes
+DESCRIPTION:NCAA FBS Football 2026\nIllinois Fighting Illini @ Ohio State B
+ uckeyes\nOhio Stadium\, Columbus\, OH
+LOCATION:Ohio Stadium\, Columbus\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858472@open-sports-cal
+DTSTART:20261003T201500Z
+DTEND:20261003T231500Z
+SUMMARY:Purdue Boilermakers @ Illinois Fighting Illini
+DESCRIPTION:NCAA FBS Football 2026\nPurdue Boilermakers @ Illinois Fighting
+  Illini\nGies Memorial Stadium\, Champaign\, IL
+LOCATION:Gies Memorial Stadium\, Champaign\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858480@open-sports-cal
+DTSTART:20261010T193000Z
+DTEND:20261010T223000Z
+SUMMARY:Illinois Fighting Illini @ Michigan State Spartans
+DESCRIPTION:NCAA FBS Football 2026\nIllinois Fighting Illini @ Michigan Sta
+ te Spartans\nSpartan Stadium\, East Lansing\, MI
+LOCATION:Spartan Stadium\, East Lansing\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858495@open-sports-cal
+DTSTART:20261024T190000Z
+DTEND:20261024T220000Z
+SUMMARY:Oregon Ducks @ Illinois Fighting Illini
+DESCRIPTION:NCAA FBS Football 2026\nOregon Ducks @ Illinois Fighting Illini
+ \nGies Memorial Stadium\, Champaign\, IL
+LOCATION:Gies Memorial Stadium\, Champaign\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858503@open-sports-cal
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:Illinois Fighting Illini @ Maryland Terrapins
+DESCRIPTION:NCAA FBS Football 2026\nIllinois Fighting Illini @ Maryland Ter
+ rapins\nSECU Stadium\, College Park\, MD
+LOCATION:SECU Stadium\, College Park\, MD
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858510@open-sports-cal
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Nebraska Cornhuskers @ Illinois Fighting Illini
+DESCRIPTION:NCAA FBS Football 2026\nNebraska Cornhuskers @ Illinois Fightin
+ g Illini\nGies Memorial Stadium\, Champaign\, IL
+LOCATION:Gies Memorial Stadium\, Champaign\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858526@open-sports-cal
+DTSTART:20261114T020000Z
+DTEND:20261114T050000Z
+SUMMARY:Illinois Fighting Illini @ UCLA Bruins
+DESCRIPTION:NCAA FBS Football 2026\nIllinois Fighting Illini @ UCLA Bruins\
+ nRose Bowl\, Pasadena\, CA
+LOCATION:Rose Bowl\, Pasadena\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858527@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Iowa Hawkeyes @ Illinois Fighting Illini
+DESCRIPTION:NCAA FBS Football 2026\nIowa Hawkeyes @ Illinois Fighting Illin
+ i\nGies Memorial Stadium\, Champaign\, IL\nStart time TBD
+LOCATION:Gies Memorial Stadium\, Champaign\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858537@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Illinois Fighting Illini @ Northwestern Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nIllinois Fighting Illini @ Northwestern
+  Wildcats\nRyan Field\, Evanston\, IL\nStart time TBD
+LOCATION:Ryan Field\, Evanston\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

@@ -12,7 +12,7 @@ Grand Slam events are stored as **all-day multi-day events** covering the full t
 
 | | |
 |--|--|
-| **Raw URL** | `https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/tennis/grand-slams/2026/all-grand-slams.ics` |
+| **Raw URL** | `https://raw.githubusercontent.com/dsmitty166/open-sports-cal/main/tennis/grand-slams/2026/all-grand-slams.ics` |
 | **Download** | [all-grand-slams.ics](all-grand-slams.ics) |
 
 ### Individual Tournaments
@@ -28,7 +28,7 @@ Grand Slam events are stored as **all-day multi-day events** covering the full t
 
 ## How to Subscribe
 
-**Easiest:** Use the [website](https://vinnyab28.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
+**Easiest:** Use the [website](https://dsmitty166.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
 
 ### Google Calendar
 1. Copy the Raw URL above

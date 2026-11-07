@@ -4,10 +4,10 @@ Free, open-source sports calendars in iCalendar (`.ics`) format — subscribe or
 
 Times vary by sport and league — see each league's README for timezone details. Most calendars use **UTC**; IPL uses **IST (UTC+5:30)**. Your calendar app will convert to local time automatically.
 
-🌐 **[Website](https://vinnyab28.github.io/open-sports-cal/)**
+🌐 **[Website](https://dsmitty166.github.io/open-sports-cal/)**
 
 If you find this useful, give it a ⭐ — it helps others find it!
-[![GitHub Stars](https://img.shields.io/github/stars/vinnyab28/open-sports-cal?style=social)](https://github.com/vinnyab28/open-sports-cal/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/dsmitty166/open-sports-cal?style=social)](https://github.com/dsmitty166/open-sports-cal/stargazers)
 
 ---
 
@@ -28,12 +28,16 @@ If you find this useful, give it a ⭐ — it helps others find it!
 | League | Season | Calendar |
 |--------|--------|----------|
 | NFL | [2026](american-football/nfl/2026/) | All teams + 32 individual team calendars |
+| NCAA FCS Football | [2026](american-football/ncaa-fcs/2026/) | All teams + 128 individual team calendars |
+| NCAA FBS Football | [2026](american-football/ncaa-fbs/2026/) | All teams + 138 individual team calendars |
 
 ### Basketball
 
 | League | Season | Calendar |
 |--------|--------|----------|
 | NBA | [2026-27](basketball/nba/2026-27/) | All teams + 30 individual team calendars |
+| NCAA Division I Women's Basketball | [2026-27](basketball/ncaa-women/2026-27/) | All teams + 357 individual team calendars |
+| NCAA Division I Men's Basketball | [2026-27](basketball/ncaa-men/2026-27/) | All teams + 365 individual team calendars |
 
 ### Baseball
 
@@ -82,7 +86,7 @@ Finished seasons stay available — existing subscriptions keep working, but no 
 
 ## How to Use
 
-**Easiest:** Use the [website](https://vinnyab28.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
+**Easiest:** Use the [website](https://dsmitty166.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
 
 ### Subscribe (stays updated automatically)
 
@@ -115,7 +119,7 @@ Finished seasons stay available — existing subscriptions keep working, but no 
 All raw URLs follow this pattern:
 
 ```
-https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/<path-to-file>.ics
+https://raw.githubusercontent.com/dsmitty166/open-sports-cal/main/<path-to-file>.ics
 ```
 
 ---
@@ -171,7 +175,40 @@ Schedules are sourced from official publications and public APIs, and are provid
 | MLB | [MLB Stats API](https://statsapi.mlb.com) |
 | NHL | [NHL API](https://api-web.nhle.com/) |
 | NFL | [ESPN](https://www.espn.com/nfl/schedule) |
+| NCAA Men's / Women's Basketball | [ESPN Men](https://www.espn.com/mens-college-basketball/schedule) / [ESPN Women](https://www.espn.com/womens-college-basketball/schedule) |
+| NCAA FBS / FCS Football | [ESPN](https://www.espn.com/college-football/schedule) |
 | PWHL | [HockeyTech / thepwhl.com](https://www.thepwhl.com/en/schedule) |
 | Formula 1 | [formula1.com](https://www.formula1.com/en/racing/2026) / [f1calendar.com](https://f1calendar.com) |
 | MotoGP | [motogp.com](https://www.motogp.com/en/calendar/2026) |
 | Tennis Grand Slams | [ATP Tour](https://www.atptour.com) / [WTA](https://www.wtatennis.com) |
+
+<!-- Season paths for the existing Windows validator (Path uses backslashes):
+american-football\ncaa-fbs\2026
+american-football\ncaa-fcs\2026
+american-football\nfl\2026
+baseball\mlb\2026
+baseball\mlb\2027
+basketball\nba\2025-26
+basketball\nba\2026-27
+basketball\ncaa-men\2026-27
+basketball\ncaa-women\2026-27
+cricket\ipl\2026
+football\bundesliga\2025-26
+football\bundesliga\2026-27
+football\la-liga\2025-26
+football\la-liga\2026-27
+football\ligue-1\2025-26
+football\ligue-1\2026-27
+football\premier-league\2025-26
+football\premier-league\2026-27
+football\serie-a\2025-26
+football\serie-a\2026-27
+football\world-cup\2026
+hockey\nhl\2025-26
+hockey\nhl\2026-27
+hockey\pwhl\2025-26
+hockey\pwhl\2026-27
+motorsport\formula-1\2026
+motorsport\motogp\2026
+tennis\grand-slams\2026
+-->

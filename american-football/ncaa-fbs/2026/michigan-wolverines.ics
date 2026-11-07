@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Michigan Wolverines
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858428@open-sports-cal
+DTSTART:20260905T233000Z
+DTEND:20260906T023000Z
+SUMMARY:Western Michigan Broncos @ Michigan Wolverines
+DESCRIPTION:NCAA FBS Football 2026\nWestern Michigan Broncos @ Michigan Wol
+ verines\nMichigan Stadium\, Ann Arbor\, MI
+LOCATION:Michigan Stadium\, Ann Arbor\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856679@open-sports-cal
+DTSTART:20260912T160000Z
+DTEND:20260912T190000Z
+SUMMARY:Oklahoma Sooners @ Michigan Wolverines
+DESCRIPTION:NCAA FBS Football 2026\nOklahoma Sooners @ Michigan Wolverines\
+ nMichigan Stadium\, Ann Arbor\, MI
+LOCATION:Michigan Stadium\, Ann Arbor\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858450@open-sports-cal
+DTSTART:20260919T193000Z
+DTEND:20260919T223000Z
+SUMMARY:UTEP Miners @ Michigan Wolverines
+DESCRIPTION:NCAA FBS Football 2026\nUTEP Miners @ Michigan Wolverines\nMich
+ igan Stadium\, Ann Arbor\, MI
+LOCATION:Michigan Stadium\, Ann Arbor\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858463@open-sports-cal
+DTSTART:20260926T193000Z
+DTEND:20260926T223000Z
+SUMMARY:Iowa Hawkeyes @ Michigan Wolverines
+DESCRIPTION:NCAA FBS Football 2026\nIowa Hawkeyes @ Michigan Wolverines\nMi
+ chigan Stadium\, Ann Arbor\, MI
+LOCATION:Michigan Stadium\, Ann Arbor\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858474@open-sports-cal
+DTSTART:20261003T160000Z
+DTEND:20261003T190000Z
+SUMMARY:Michigan Wolverines @ Minnesota Golden Gophers
+DESCRIPTION:NCAA FBS Football 2026\nMichigan Wolverines @ Minnesota Golden 
+ Gophers\nHuntington Bank Stadium\, Minneapolis\, MN
+LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858490@open-sports-cal
+DTSTART:20261017T193000Z
+DTEND:20261017T223000Z
+SUMMARY:Penn State Nittany Lions @ Michigan Wolverines
+DESCRIPTION:NCAA FBS Football 2026\nPenn State Nittany Lions @ Michigan Wol
+ verines\nMichigan Stadium\, Ann Arbor\, MI
+LOCATION:Michigan Stadium\, Ann Arbor\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858496@open-sports-cal
+DTSTART:20261024T160000Z
+DTEND:20261024T190000Z
+SUMMARY:Indiana Hoosiers @ Michigan Wolverines
+DESCRIPTION:NCAA FBS Football 2026\nIndiana Hoosiers @ Michigan Wolverines\
+ nMichigan Stadium\, Ann Arbor\, MI
+LOCATION:Michigan Stadium\, Ann Arbor\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858507@open-sports-cal
+DTSTART:20261031T163000Z
+DTEND:20261031T193000Z
+SUMMARY:Michigan Wolverines @ Rutgers Scarlet Knights
+DESCRIPTION:NCAA FBS Football 2026\nMichigan Wolverines @ Rutgers Scarlet K
+ nights\nSHI Stadium\, Piscataway\, NJ
+LOCATION:SHI Stadium\, Piscataway\, NJ
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858511@open-sports-cal
+DTSTART:20261108T003000Z
+DTEND:20261108T033000Z
+SUMMARY:Michigan State Spartans @ Michigan Wolverines
+DESCRIPTION:NCAA FBS Football 2026\nMichigan State Spartans @ Michigan Wolv
+ erines\nMichigan Stadium\, Ann Arbor\, MI
+LOCATION:Michigan Stadium\, Ann Arbor\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858523@open-sports-cal
+DTSTART:20261114T203000Z
+DTEND:20261114T233000Z
+SUMMARY:Michigan Wolverines @ Oregon Ducks
+DESCRIPTION:NCAA FBS Football 2026\nMichigan Wolverines @ Oregon Ducks\nAut
+ zen Stadium\, Eugene\, OR
+LOCATION:Autzen Stadium\, Eugene\, OR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858528@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:UCLA Bruins @ Michigan Wolverines
+DESCRIPTION:NCAA FBS Football 2026\nUCLA Bruins @ Michigan Wolverines\nMich
+ igan Stadium\, Ann Arbor\, MI\nStart time TBD
+LOCATION:Michigan Stadium\, Ann Arbor\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858540@open-sports-cal
+DTSTART:20261128T170000Z
+DTEND:20261128T200000Z
+SUMMARY:Michigan Wolverines @ Ohio State Buckeyes
+DESCRIPTION:NCAA FBS Football 2026\nMichigan Wolverines @ Ohio State Buckey
+ es\nOhio Stadium\, Columbus\, OH
+LOCATION:Ohio Stadium\, Columbus\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

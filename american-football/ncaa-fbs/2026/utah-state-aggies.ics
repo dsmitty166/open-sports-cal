@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Utah State Aggies
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401860880@open-sports-cal
+DTSTART:20260905T230000Z
+DTEND:20260906T020000Z
+SUMMARY:Idaho State Bengals @ Utah State Aggies
+DESCRIPTION:NCAA FBS Football 2026\nIdaho State Bengals @ Utah State Aggies
+ \nMaverik Stadium\, Logan\, UT
+LOCATION:Maverik Stadium\, Logan\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858446@open-sports-cal
+DTSTART:20260912T193000Z
+DTEND:20260912T223000Z
+SUMMARY:Utah State Aggies @ Washington Huskies
+DESCRIPTION:NCAA FBS Football 2026\nUtah State Aggies @ Washington Huskies\
+ nHusky Stadium\, Seattle\, WA
+LOCATION:Husky Stadium\, Seattle\, WA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856801@open-sports-cal
+DTSTART:20260919T193000Z
+DTEND:20260919T223000Z
+SUMMARY:Utah State Aggies @ Utah Utes
+DESCRIPTION:NCAA FBS Football 2026\nUtah State Aggies @ Utah Utes\nRice-Ecc
+ les Stadium\, Salt Lake City\, UT
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860894@open-sports-cal
+DTSTART:20260926T233000Z
+DTEND:20260927T023000Z
+SUMMARY:Troy Trojans @ Utah State Aggies
+DESCRIPTION:NCAA FBS Football 2026\nTroy Trojans @ Utah State Aggies\nMaver
+ ik Stadium\, Logan\, UT
+LOCATION:Maverik Stadium\, Logan\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860898@open-sports-cal
+DTSTART:20261003T233000Z
+DTEND:20261004T023000Z
+SUMMARY:Utah State Aggies @ Boise State Broncos
+DESCRIPTION:NCAA FBS Football 2026\nUtah State Aggies @ Boise State Broncos
+ \nAlbertsons Stadium\, Boise\, ID
+LOCATION:Albertsons Stadium\, Boise\, ID
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860922@open-sports-cal
+DTSTART:20261010T010000Z
+DTEND:20261010T040000Z
+SUMMARY:Washington State Cougars @ Utah State Aggies
+DESCRIPTION:NCAA FBS Football 2026\nWashington State Cougars @ Utah State A
+ ggies\nMaverik Stadium\, Logan\, UT
+LOCATION:Maverik Stadium\, Logan\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860906@open-sports-cal
+DTSTART:20261024T233000Z
+DTEND:20261025T023000Z
+SUMMARY:Utah State Aggies @ Texas State Bobcats
+DESCRIPTION:NCAA FBS Football 2026\nUtah State Aggies @ Texas State Bobcats
+ \nUFCU Stadium\, San Marcos\, TX
+LOCATION:UFCU Stadium\, San Marcos\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860910@open-sports-cal
+DTSTART:20261031T193000Z
+DTEND:20261031T223000Z
+SUMMARY:Colorado State Rams @ Utah State Aggies
+DESCRIPTION:NCAA FBS Football 2026\nColorado State Rams @ Utah State Aggies
+ \nMaverik Stadium\, Logan\, UT
+LOCATION:Maverik Stadium\, Logan\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860913@open-sports-cal
+DTSTART:20261108T023000Z
+DTEND:20261108T053000Z
+SUMMARY:Fresno State Bulldogs @ Utah State Aggies
+DESCRIPTION:NCAA FBS Football 2026\nFresno State Bulldogs @ Utah State Aggi
+ es\nMaverik Stadium\, Logan\, UT
+LOCATION:Maverik Stadium\, Logan\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860915@open-sports-cal
+DTSTART:20261115T023000Z
+DTEND:20261115T053000Z
+SUMMARY:Utah State Aggies @ San Diego State Aztecs
+DESCRIPTION:NCAA FBS Football 2026\nUtah State Aggies @ San Diego State Azt
+ ecs\nSnapdragon Stadium\, San Diego\, CA
+LOCATION:Snapdragon Stadium\, San Diego\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860919@open-sports-cal
+DTSTART:20261122T033000Z
+DTEND:20261122T063000Z
+SUMMARY:Utah State Aggies @ Oregon State Beavers
+DESCRIPTION:NCAA FBS Football 2026\nUtah State Aggies @ Oregon State Beaver
+ s\nReser Stadium\, Corvallis\, OR
+LOCATION:Reser Stadium\, Corvallis\, OR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860928@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:TBD @ Utah State Aggies
+DESCRIPTION:NCAA FBS Football 2026\nTBD @ Utah State Aggies\nMaverik Stadiu
+ m\, Logan\, UT\nStart time TBD
+LOCATION:Maverik Stadium\, Logan\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

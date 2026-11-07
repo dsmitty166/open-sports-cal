@@ -1,0 +1,424 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Portland State Vikings
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401925914@open-sports-cal
+DTSTART:20261104T030000Z
+DTEND:20261104T060000Z
+SUMMARY:Lewis & Clark River Otters @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLewis & Clark River Otters @ Por
+ tland State Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917517@open-sports-cal
+DTSTART:20261108T030000Z
+DTEND:20261108T060000Z
+SUMMARY:Portland State Vikings @ Seattle U Redhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Seattle
+  U Redhawks\nRedhawk Center\, Seattle\, WA
+LOCATION:Redhawk Center\, Seattle\, WA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925915@open-sports-cal
+DTSTART:20261112T020000Z
+DTEND:20261112T050000Z
+SUMMARY:Portland State Vikings @ Colorado State Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Colorad
+ o State Rams\nMoby Arena\, Fort Collins\, CO
+LOCATION:Moby Arena\, Fort Collins\, CO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921063@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Portland State Vikings @ San Francisco Dons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ San Fra
+ ncisco Dons\nThe Sobrato Center\, San Francisco\, CA\nStart time TBD
+LOCATION:The Sobrato Center\, San Francisco\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917532@open-sports-cal
+DTSTART:20261117T030000Z
+DTEND:20261117T060000Z
+SUMMARY:Portland State Vikings @ Saint Mary's Gaels
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Saint M
+ ary's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+LOCATION:University Credit Union Pavilion\, Moraga\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925916@open-sports-cal
+DTSTART:20261120T030000Z
+DTEND:20261120T060000Z
+SUMMARY:Northwest Indian RedHawks @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwest Indian RedHawks @ Port
+ land State Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920159@open-sports-cal
+DTSTART:20261122T220000Z
+DTEND:20261123T010000Z
+SUMMARY:Cal State Fullerton Titans @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Fullerton Titans @ Por
+ tland State Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925917@open-sports-cal
+DTSTART:20261125T220000Z
+DTEND:20261126T010000Z
+SUMMARY:Portland State Vikings @ UC Riverside Highlanders
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ UC Rive
+ rside Highlanders\nSRC Arena\, Riverside\, CA
+LOCATION:SRC Arena\, Riverside\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920954@open-sports-cal
+DTSTART:20261129T000000Z
+DTEND:20261129T030000Z
+SUMMARY:Portland State Vikings @ Southern Illinois Salukis
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Souther
+ n Illinois Salukis\nBanterra Center\, Carbondale\, IL
+LOCATION:Banterra Center\, Carbondale\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913416@open-sports-cal
+DTSTART:20261204T030000Z
+DTEND:20261204T060000Z
+SUMMARY:Eastern Washington Eagles @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Port
+ land State Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913422@open-sports-cal
+DTSTART:20261205T220000Z
+DTEND:20261206T010000Z
+SUMMARY:Idaho Vandals @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho Vandals @ Portland State V
+ ikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925918@open-sports-cal
+DTSTART:20261209T030000Z
+DTEND:20261209T060000Z
+SUMMARY:Evergreen State Geoducks @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nEvergreen State Geoducks @ Portl
+ and State Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925919@open-sports-cal
+DTSTART:20261212T220000Z
+DTEND:20261213T010000Z
+SUMMARY:George Fox Bruins @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorge Fox Bruins @ Portland Sta
+ te Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925920@open-sports-cal
+DTSTART:20261220T213000Z
+DTEND:20261221T003000Z
+SUMMARY:Portland State Vikings @ Oregon Ducks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Oregon 
+ Ducks\nMatthew Knight Arena\, Eugene\, OR
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913429@open-sports-cal
+DTSTART:20261231T210000Z
+DTEND:20270101T000000Z
+SUMMARY:Portland State Vikings @ Montana State Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Montana
+  State Bobcats\nWorthington Arena\, Bozeman\, MT
+LOCATION:Worthington Arena\, Bozeman\, MT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913434@open-sports-cal
+DTSTART:20270102T210000Z
+DTEND:20270103T000000Z
+SUMMARY:Portland State Vikings @ Montana Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Montana
+  Grizzlies\nDahlberg Arena\, Missoula\, MT
+LOCATION:Dahlberg Arena\, Missoula\, MT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913440@open-sports-cal
+DTSTART:20270108T020000Z
+DTEND:20270108T050000Z
+SUMMARY:Portland State Vikings @ Utah Tech Trailblazers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Utah Te
+ ch Trailblazers\nBurns Arena\, St. George\, UT
+LOCATION:Burns Arena\, St. George\, UT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913445@open-sports-cal
+DTSTART:20270110T013000Z
+DTEND:20270110T043000Z
+SUMMARY:Portland State Vikings @ Southern Utah Thunderbirds
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Souther
+ n Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+LOCATION:America First Event Center\, Cedar City\, UT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913449@open-sports-cal
+DTSTART:20270115T030000Z
+DTEND:20270115T060000Z
+SUMMARY:Weber State Wildcats @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWeber State Wildcats @ Portland 
+ State Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913452@open-sports-cal
+DTSTART:20270116T220000Z
+DTEND:20270117T010000Z
+SUMMARY:Idaho State Bengals @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Portland S
+ tate Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913459@open-sports-cal
+DTSTART:20270122T030000Z
+DTEND:20270122T060000Z
+SUMMARY:Northern Arizona Lumberjacks @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ P
+ ortland State Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913468@open-sports-cal
+DTSTART:20270126T010000Z
+DTEND:20270126T040000Z
+SUMMARY:Portland State Vikings @ Northern Colorado Bears
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Norther
+ n Colorado Bears\nBank of Colorado Arena\, Greeley\, CO
+LOCATION:Bank of Colorado Arena\, Greeley\, CO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913470@open-sports-cal
+DTSTART:20270129T020000Z
+DTEND:20270129T050000Z
+SUMMARY:Portland State Vikings @ Idaho Vandals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Idaho V
+ andals\nICCU Arena\, Moscow\, ID
+LOCATION:ICCU Arena\, Moscow\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913474@open-sports-cal
+DTSTART:20270130T220000Z
+DTEND:20270131T010000Z
+SUMMARY:Portland State Vikings @ Eastern Washington Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Eastern
+  Washington Eagles\nReese Court\, Cheney\, WA
+LOCATION:Reese Court\, Cheney\, WA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913482@open-sports-cal
+DTSTART:20270205T030000Z
+DTEND:20270205T060000Z
+SUMMARY:Montana Grizzlies @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMontana Grizzlies @ Portland Sta
+ te Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913487@open-sports-cal
+DTSTART:20270206T220000Z
+DTEND:20270207T010000Z
+SUMMARY:Montana State Bobcats @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMontana State Bobcats @ Portland
+  State Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913492@open-sports-cal
+DTSTART:20270212T020000Z
+DTEND:20270212T050000Z
+SUMMARY:Portland State Vikings @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Idaho S
+ tate Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913498@open-sports-cal
+DTSTART:20270213T230000Z
+DTEND:20270214T020000Z
+SUMMARY:Portland State Vikings @ Weber State Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Weber S
+ tate Wildcats\nDee Events Center\, Ogden\, UT
+LOCATION:Dee Events Center\, Ogden\, UT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913504@open-sports-cal
+DTSTART:20270219T030000Z
+DTEND:20270219T060000Z
+SUMMARY:Southern Utah Thunderbirds @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Utah Thunderbirds @ Por
+ tland State Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913509@open-sports-cal
+DTSTART:20270220T220000Z
+DTEND:20270221T010000Z
+SUMMARY:Utah Tech Trailblazers @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUtah Tech Trailblazers @ Portlan
+ d State Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913514@open-sports-cal
+DTSTART:20270223T010000Z
+DTEND:20270223T040000Z
+SUMMARY:Portland State Vikings @ Northern Arizona Lumberjacks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Norther
+ n Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913519@open-sports-cal
+DTSTART:20270227T220000Z
+DTEND:20270228T010000Z
+SUMMARY:Northern Colorado Bears @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Colorado Bears @ Portla
+ nd State Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

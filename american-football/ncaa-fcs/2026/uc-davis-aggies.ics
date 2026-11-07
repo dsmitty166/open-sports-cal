@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - UC Davis Aggies
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401868154@open-sports-cal
+DTSTART:20260829T190000Z
+DTEND:20260829T220000Z
+SUMMARY:UC Davis Aggies @ Portland State Vikings
+DESCRIPTION:NCAA FCS Football 2026\nUC Davis Aggies @ Portland State Viking
+ s\nHillsboro Stadium\, Portland\, OR
+LOCATION:Hillsboro Stadium\, Portland\, OR
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868163@open-sports-cal
+DTSTART:20260906T020000Z
+DTEND:20260906T050000Z
+SUMMARY:UC Davis Aggies @ San Diego Toreros
+DESCRIPTION:NCAA FCS Football 2026\nUC Davis Aggies @ San Diego Toreros\nTo
+ rero Stadium\, San Diego\, CA
+LOCATION:Torero Stadium\, San Diego\, CA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401858223@open-sports-cal
+DTSTART:20260912T200000Z
+DTEND:20260912T230000Z
+SUMMARY:UC Davis Aggies @ SMU Mustangs
+DESCRIPTION:NCAA FCS Football 2026\nUC Davis Aggies @ SMU Mustangs\nGerald 
+ J. Ford Stadium\, Dallas\, TX
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868164@open-sports-cal
+DTSTART:20260920T020000Z
+DTEND:20260920T050000Z
+SUMMARY:Stetson Hatters @ UC Davis Aggies
+DESCRIPTION:NCAA FCS Football 2026\nStetson Hatters @ UC Davis Aggies\nUC D
+ avis Health Stadium\, Davis\, CA
+LOCATION:UC Davis Health Stadium\, Davis\, CA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868113@open-sports-cal
+DTSTART:20260927T020000Z
+DTEND:20260927T050000Z
+SUMMARY:Montana Grizzlies @ UC Davis Aggies
+DESCRIPTION:NCAA FCS Football 2026\nMontana Grizzlies @ UC Davis Aggies\nUC
+  Davis Health Stadium\, Davis\, CA
+LOCATION:UC Davis Health Stadium\, Davis\, CA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868086@open-sports-cal
+DTSTART:20261004T023000Z
+DTEND:20261004T053000Z
+SUMMARY:Eastern Washington Eagles @ UC Davis Aggies
+DESCRIPTION:NCAA FCS Football 2026\nEastern Washington Eagles @ UC Davis Ag
+ gies\nUC Davis Health Stadium\, Davis\, CA
+LOCATION:UC Davis Health Stadium\, Davis\, CA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868161@open-sports-cal
+DTSTART:20261018T000000Z
+DTEND:20261018T030000Z
+SUMMARY:UC Davis Aggies @ Southern Utah Thunderbirds
+DESCRIPTION:NCAA FCS Football 2026\nUC Davis Aggies @ Southern Utah Thunder
+ birds\nEccles Coliseum\, Cedar City\, UT
+LOCATION:Eccles Coliseum\, Cedar City\, UT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868132@open-sports-cal
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+SUMMARY:Northern Colorado Bears @ UC Davis Aggies
+DESCRIPTION:NCAA FCS Football 2026\nNorthern Colorado Bears @ UC Davis Aggi
+ es\nUC Davis Health Stadium\, Davis\, CA
+LOCATION:UC Davis Health Stadium\, Davis\, CA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868165@open-sports-cal
+DTSTART:20261031T190000Z
+DTEND:20261031T220000Z
+SUMMARY:UC Davis Aggies @ Weber State Wildcats
+DESCRIPTION:NCAA FCS Football 2026\nUC Davis Aggies @ Weber State Wildcats\
+ nStewart Stadium\, Ogden\, UT
+LOCATION:Stewart Stadium\, Ogden\, UT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868166@open-sports-cal
+DTSTART:20261108T000000Z
+DTEND:20261108T030000Z
+SUMMARY:Utah Tech Trailblazers @ UC Davis Aggies
+DESCRIPTION:NCAA FCS Football 2026\nUtah Tech Trailblazers @ UC Davis Aggie
+ s\nUC Davis Health Stadium\, Davis\, CA
+LOCATION:UC Davis Health Stadium\, Davis\, CA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868099@open-sports-cal
+DTSTART:20261114T210000Z
+DTEND:20261115T000000Z
+SUMMARY:UC Davis Aggies @ Idaho Vandals
+DESCRIPTION:NCAA FCS Football 2026\nUC Davis Aggies @ Idaho Vandals\nKibbie
+  Dome\, Moscow\, ID
+LOCATION:Kibbie Dome\, Moscow\, ID
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868083@open-sports-cal
+DTSTART:20261121T210000Z
+DTEND:20261122T000000Z
+SUMMARY:Cal Poly Mustangs @ UC Davis Aggies
+DESCRIPTION:NCAA FCS Football 2026\nCal Poly Mustangs @ UC Davis Aggies\nUC
+  Davis Health Stadium\, Davis\, CA
+LOCATION:UC Davis Health Stadium\, Davis\, CA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

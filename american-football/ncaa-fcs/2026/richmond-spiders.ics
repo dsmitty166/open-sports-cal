@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Richmond Spiders
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401867988@open-sports-cal
+DTSTART:20260829T220000Z
+DTEND:20260830T010000Z
+SUMMARY:Bucknell Bison @ Richmond Spiders
+DESCRIPTION:NCAA FCS Football 2026\nBucknell Bison @ Richmond Spiders\nRobi
+ ns Stadium\, Richmond\, VA
+LOCATION:Robins Stadium\, Richmond\, VA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401869127@open-sports-cal
+DTSTART:20260905T220000Z
+DTEND:20260906T010000Z
+SUMMARY:Richmond Spiders @ Howard Bison
+DESCRIPTION:NCAA FCS Football 2026\nRichmond Spiders @ Howard Bison\nGreene
+  Stadium\, Washington\, DC
+LOCATION:Greene Stadium\, Washington\, DC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401858222@open-sports-cal
+DTSTART:20260911T230000Z
+DTEND:20260912T020000Z
+SUMMARY:Richmond Spiders @ NC State Wolfpack
+DESCRIPTION:NCAA FCS Football 2026\nRichmond Spiders @ NC State Wolfpack\nC
+ arter-Finley Stadium\, Raleigh\, NC
+LOCATION:Carter-Finley Stadium\, Raleigh\, NC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868018@open-sports-cal
+DTSTART:20260919T193000Z
+DTEND:20260919T223000Z
+SUMMARY:Georgetown Hoyas @ Richmond Spiders
+DESCRIPTION:NCAA FCS Football 2026\nGeorgetown Hoyas @ Richmond Spiders\nRo
+ bins Stadium\, Richmond\, VA
+LOCATION:Robins Stadium\, Richmond\, VA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868037@open-sports-cal
+DTSTART:20260926T180000Z
+DTEND:20260926T210000Z
+SUMMARY:Furman Paladins @ Richmond Spiders
+DESCRIPTION:NCAA FCS Football 2026\nFurman Paladins @ Richmond Spiders\nRob
+ ins Stadium\, Richmond\, VA
+LOCATION:Robins Stadium\, Richmond\, VA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868029@open-sports-cal
+DTSTART:20261003T163000Z
+DTEND:20261003T193000Z
+SUMMARY:Richmond Spiders @ Lafayette Leopards
+DESCRIPTION:NCAA FCS Football 2026\nRichmond Spiders @ Lafayette Leopards\n
+ Fisher Stadium\, Easton\, PA
+LOCATION:Fisher Stadium\, Easton\, PA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868011@open-sports-cal
+DTSTART:20261010T193000Z
+DTEND:20261010T223000Z
+SUMMARY:Richmond Spiders @ Fordham Rams
+DESCRIPTION:NCAA FCS Football 2026\nRichmond Spiders @ Fordham Rams\nMoglia
+  Stadium at Jack Coffey Field\, Bronx\, NY
+LOCATION:Moglia Stadium at Jack Coffey Field\, Bronx\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868003@open-sports-cal
+DTSTART:20261024T180000Z
+DTEND:20261024T210000Z
+SUMMARY:Colgate Raiders @ Richmond Spiders
+DESCRIPTION:NCAA FCS Football 2026\nColgate Raiders @ Richmond Spiders\nRob
+ ins Stadium\, Richmond\, VA
+LOCATION:Robins Stadium\, Richmond\, VA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868026@open-sports-cal
+DTSTART:20261031T170000Z
+DTEND:20261031T200000Z
+SUMMARY:Richmond Spiders @ Holy Cross Crusaders
+DESCRIPTION:NCAA FCS Football 2026\nRichmond Spiders @ Holy Cross Crusaders
+ \nFitton Field\, Worcester\, MA
+LOCATION:Fitton Field\, Worcester\, MA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868038@open-sports-cal
+DTSTART:20261107T180000Z
+DTEND:20261107T210000Z
+SUMMARY:Richmond Spiders @ Villanova Wildcats
+DESCRIPTION:NCAA FCS Football 2026\nRichmond Spiders @ Villanova Wildcats\n
+ Villanova Stadium\, Philadelphia\, PA
+LOCATION:Villanova Stadium\, Philadelphia\, PA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868036@open-sports-cal
+DTSTART:20261114T190000Z
+DTEND:20261114T220000Z
+SUMMARY:Lehigh Mountain Hawks @ Richmond Spiders
+DESCRIPTION:NCAA FCS Football 2026\nLehigh Mountain Hawks @ Richmond Spider
+ s\nRobins Stadium\, Richmond\, VA
+LOCATION:Robins Stadium\, Richmond\, VA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868039@open-sports-cal
+DTSTART:20261121T170000Z
+DTEND:20261121T200000Z
+SUMMARY:William & Mary Tribe @ Richmond Spiders
+DESCRIPTION:NCAA FCS Football 2026\nWilliam & Mary Tribe @ Richmond Spiders
+ \nRobins Stadium\, Richmond\, VA
+LOCATION:Robins Stadium\, Richmond\, VA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Tennessee State Tigers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401868194@open-sports-cal
+DTSTART:20260830T003000Z
+DTEND:20260830T033000Z
+SUMMARY:Jackson State Tigers @ Tennessee State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nJackson State Tigers @ Tennessee State 
+ Tigers\nNissan Stadium\, Nashville\, TN
+LOCATION:Nissan Stadium\, Nashville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401856658@open-sports-cal
+DTSTART:20260905T190000Z
+DTEND:20260905T220000Z
+SUMMARY:Tennessee State Tigers @ Georgia Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nTennessee State Tigers @ Georgia Bulldo
+ gs\nSanford Stadium\, Athens\, GA
+LOCATION:Sanford Stadium\, Athens\, GA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868195@open-sports-cal
+DTSTART:20260912T230000Z
+DTEND:20260913T020000Z
+SUMMARY:Tennessee State Tigers @ Alabama A&M Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nTennessee State Tigers @ Alabama A&M Bu
+ lldogs\nLouis Crews Stadium\, Huntsville\, AL
+LOCATION:Louis Crews Stadium\, Huntsville\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868196@open-sports-cal
+DTSTART:20260919T230000Z
+DTEND:20260920T020000Z
+SUMMARY:Tennessee State Tigers @ Florida A&M Rattlers
+DESCRIPTION:NCAA FCS Football 2026\nTennessee State Tigers @ Florida A&M Ra
+ ttlers\nBragg Memorial Stadium\, Tallahassee\, FL
+LOCATION:Bragg Memorial Stadium\, Tallahassee\, FL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868197@open-sports-cal
+DTSTART:20261003T200000Z
+DTEND:20261003T230000Z
+SUMMARY:Tennessee State Tigers @ Western Illinois Leathernecks
+DESCRIPTION:NCAA FCS Football 2026\nTennessee State Tigers @ Western Illino
+ is Leathernecks\nHanson Field\, Macomb\, IL
+LOCATION:Hanson Field\, Macomb\, IL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868198@open-sports-cal
+DTSTART:20261010T193000Z
+DTEND:20261010T223000Z
+SUMMARY:UT Martin Skyhawks @ Tennessee State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nUT Martin Skyhawks @ Tennessee State Ti
+ gers\nNissan Stadium\, Nashville\, TN
+LOCATION:Nissan Stadium\, Nashville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867968@open-sports-cal
+DTSTART:20261017T223000Z
+DTEND:20261018T013000Z
+SUMMARY:Morgan State Bears @ Tennessee State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nMorgan State Bears @ Tennessee State Ti
+ gers\nNissan Stadium\, Nashville\, TN
+LOCATION:Nissan Stadium\, Nashville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868174@open-sports-cal
+DTSTART:20261024T193000Z
+DTEND:20261024T223000Z
+SUMMARY:Charleston Southern Buccaneers @ Tennessee State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nCharleston Southern Buccaneers @ Tennes
+ see State Tigers\nNissan Stadium\, Nashville\, TN
+LOCATION:Nissan Stadium\, Nashville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868199@open-sports-cal
+DTSTART:20261031T180000Z
+DTEND:20261031T210000Z
+SUMMARY:Tennessee State Tigers @ Lindenwood Lions
+DESCRIPTION:NCAA FCS Football 2026\nTennessee State Tigers @ Lindenwood Lio
+ ns\nHunter Stadium\, Saint Charles\, MO
+LOCATION:Hunter Stadium\, Saint Charles\, MO
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868200@open-sports-cal
+DTSTART:20261107T203000Z
+DTEND:20261107T233000Z
+SUMMARY:Southeast Missouri State Redhawks @ Tennessee State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nSoutheast Missouri State Redhawks @ Ten
+ nessee State Tigers\nNissan Stadium\, Nashville\, TN
+LOCATION:Nissan Stadium\, Nashville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868185@open-sports-cal
+DTSTART:20261114T203000Z
+DTEND:20261114T233000Z
+SUMMARY:Eastern Illinois Panthers @ Tennessee State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nEastern Illinois Panthers @ Tennessee S
+ tate Tigers\nNissan Stadium\, Nashville\, TN
+LOCATION:Nissan Stadium\, Nashville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868193@open-sports-cal
+DTSTART:20261121T183000Z
+DTEND:20261121T213000Z
+SUMMARY:Tennessee State Tigers @ Gardner-Webb Runnin' Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nTennessee State Tigers @ Gardner-Webb R
+ unnin' Bulldogs\nErnest W. Spangler Stadium\, Boiling Springs\, NC
+LOCATION:Ernest W. Spangler Stadium\, Boiling Springs\, NC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

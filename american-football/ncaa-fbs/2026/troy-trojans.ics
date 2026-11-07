@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Troy Trojans
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401870763@open-sports-cal
+DTSTART:20260905T230000Z
+DTEND:20260906T020000Z
+SUMMARY:Sam Houston Bearkats @ Troy Trojans
+DESCRIPTION:NCAA FBS Football 2026\nSam Houston Bearkats @ Troy Trojans\nVe
+ terans Memorial Stadium (AL)\, Troy\, AL
+LOCATION:Veterans Memorial Stadium (AL)\, Troy\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401868326@open-sports-cal
+DTSTART:20260912T200000Z
+DTEND:20260912T230000Z
+SUMMARY:Alabama State Hornets @ Troy Trojans
+DESCRIPTION:NCAA FBS Football 2026\nAlabama State Hornets @ Troy Trojans\nV
+ eterans Memorial Stadium (AL)\, Troy\, AL
+LOCATION:Veterans Memorial Stadium (AL)\, Troy\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856689@open-sports-cal
+DTSTART:20260919T230000Z
+DTEND:20260920T020000Z
+SUMMARY:Troy Trojans @ Missouri Tigers
+DESCRIPTION:NCAA FBS Football 2026\nTroy Trojans @ Missouri Tigers\nMemoria
+ l Stadium\, Columbia\, MO
+LOCATION:Memorial Stadium\, Columbia\, MO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860894@open-sports-cal
+DTSTART:20260926T233000Z
+DTEND:20260927T023000Z
+SUMMARY:Troy Trojans @ Utah State Aggies
+DESCRIPTION:NCAA FBS Football 2026\nTroy Trojans @ Utah State Aggies\nMaver
+ ik Stadium\, Logan\, UT
+LOCATION:Maverik Stadium\, Logan\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401871090@open-sports-cal
+DTSTART:20261007T000000Z
+DTEND:20261007T030000Z
+SUMMARY:Southern Miss Golden Eagles @ Troy Trojans
+DESCRIPTION:NCAA FBS Football 2026\nSouthern Miss Golden Eagles @ Troy Troj
+ ans\nVeterans Memorial Stadium (AL)\, Troy\, AL
+LOCATION:Veterans Memorial Stadium (AL)\, Troy\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401869966@open-sports-cal
+DTSTART:20261017T210000Z
+DTEND:20261018T000000Z
+SUMMARY:Troy Trojans @ Louisiana Ragin' Cajuns
+DESCRIPTION:NCAA FBS Football 2026\nTroy Trojans @ Louisiana Ragin' Cajuns\
+ nOur Lady of Lourdes Stadium\, Lafayette\, LA
+LOCATION:Our Lady of Lourdes Stadium\, Lafayette\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401871094@open-sports-cal
+DTSTART:20261024T200000Z
+DTEND:20261024T230000Z
+SUMMARY:UL Monroe Warhawks @ Troy Trojans
+DESCRIPTION:NCAA FBS Football 2026\nUL Monroe Warhawks @ Troy Trojans\nVete
+ rans Memorial Stadium (AL)\, Troy\, AL
+LOCATION:Veterans Memorial Stadium (AL)\, Troy\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401869963@open-sports-cal
+DTSTART:20261029T233000Z
+DTEND:20261030T023000Z
+SUMMARY:Troy Trojans @ James Madison Dukes
+DESCRIPTION:NCAA FBS Football 2026\nTroy Trojans @ James Madison Dukes\nBri
+ dgeforth Stadium\, Harrisonburg\, VA
+LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401871098@open-sports-cal
+DTSTART:20261107T210000Z
+DTEND:20261108T000000Z
+SUMMARY:Louisiana Tech Bulldogs @ Troy Trojans
+DESCRIPTION:NCAA FBS Football 2026\nLouisiana Tech Bulldogs @ Troy Trojans\
+ nVeterans Memorial Stadium (AL)\, Troy\, AL
+LOCATION:Veterans Memorial Stadium (AL)\, Troy\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401871100@open-sports-cal
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:Troy Trojans @ South Alabama Jaguars
+DESCRIPTION:NCAA FBS Football 2026\nTroy Trojans @ South Alabama Jaguars\nH
+ ancock Whitney Stadium\, Mobile\, AL
+LOCATION:Hancock Whitney Stadium\, Mobile\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401869953@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Georgia Southern Eagles @ Troy Trojans
+DESCRIPTION:NCAA FBS Football 2026\nGeorgia Southern Eagles @ Troy Trojans\
+ nVeterans Memorial Stadium (AL)\, Troy\, AL\nStart time TBD
+LOCATION:Veterans Memorial Stadium (AL)\, Troy\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401869939@open-sports-cal
+DTSTART:20261128T200000Z
+DTEND:20261128T230000Z
+SUMMARY:Troy Trojans @ Arkansas State Red Wolves
+DESCRIPTION:NCAA FBS Football 2026\nTroy Trojans @ Arkansas State Red Wolve
+ s\nCentennial Bank Stadium\, Jonesboro\, AR
+LOCATION:Centennial Bank Stadium\, Jonesboro\, AR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

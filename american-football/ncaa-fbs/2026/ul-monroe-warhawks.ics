@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - UL Monroe Warhawks
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856662@open-sports-cal
+DTSTART:20260905T233000Z
+DTEND:20260906T023000Z
+SUMMARY:UL Monroe Warhawks @ Mississippi State Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nUL Monroe Warhawks @ Mississippi State 
+ Bulldogs\nDavis Wade Stadium\, Starkville\, MS
+LOCATION:Davis Wade Stadium\, Starkville\, MS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862708@open-sports-cal
+DTSTART:20260912T193000Z
+DTEND:20260912T223000Z
+SUMMARY:UL Monroe Warhawks @ UAB Blazers
+DESCRIPTION:NCAA FBS Football 2026\nUL Monroe Warhawks @ UAB Blazers\nProte
+ ctive Stadium\, Birmingham\, AL
+LOCATION:Protective Stadium\, Birmingham\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401868317@open-sports-cal
+DTSTART:20260919T203000Z
+DTEND:20260919T233000Z
+SUMMARY:SE Louisiana Lions @ UL Monroe Warhawks
+DESCRIPTION:NCAA FBS Football 2026\nSE Louisiana Lions @ UL Monroe Warhawks
+ \nMalone Stadium\, Monroe\, LA
+LOCATION:Malone Stadium\, Monroe\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862782@open-sports-cal
+DTSTART:20260927T000000Z
+DTEND:20260927T030000Z
+SUMMARY:Florida Atlantic Owls @ UL Monroe Warhawks
+DESCRIPTION:NCAA FBS Football 2026\nFlorida Atlantic Owls @ UL Monroe Warha
+ wks\nMalone Stadium\, Monroe\, LA
+LOCATION:Malone Stadium\, Monroe\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401871089@open-sports-cal
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+SUMMARY:UL Monroe Warhawks @ South Alabama Jaguars
+DESCRIPTION:NCAA FBS Football 2026\nUL Monroe Warhawks @ South Alabama Jagu
+ ars\nHancock Whitney Stadium\, Mobile\, AL
+LOCATION:Hancock Whitney Stadium\, Mobile\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401871091@open-sports-cal
+DTSTART:20261018T000000Z
+DTEND:20261018T030000Z
+SUMMARY:Louisiana Tech Bulldogs @ UL Monroe Warhawks
+DESCRIPTION:NCAA FBS Football 2026\nLouisiana Tech Bulldogs @ UL Monroe War
+ hawks\nMalone Stadium\, Monroe\, LA
+LOCATION:Malone Stadium\, Monroe\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401871094@open-sports-cal
+DTSTART:20261024T200000Z
+DTEND:20261024T230000Z
+SUMMARY:UL Monroe Warhawks @ Troy Trojans
+DESCRIPTION:NCAA FBS Football 2026\nUL Monroe Warhawks @ Troy Trojans\nVete
+ rans Memorial Stadium (AL)\, Troy\, AL
+LOCATION:Veterans Memorial Stadium (AL)\, Troy\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401871095@open-sports-cal
+DTSTART:20261031T193000Z
+DTEND:20261031T223000Z
+SUMMARY:Southern Miss Golden Eagles @ UL Monroe Warhawks
+DESCRIPTION:NCAA FBS Football 2026\nSouthern Miss Golden Eagles @ UL Monroe
+  Warhawks\nMalone Stadium\, Monroe\, LA
+LOCATION:Malone Stadium\, Monroe\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401869936@open-sports-cal
+DTSTART:20261107T200000Z
+DTEND:20261107T230000Z
+SUMMARY:UL Monroe Warhawks @ Arkansas State Red Wolves
+DESCRIPTION:NCAA FBS Football 2026\nUL Monroe Warhawks @ Arkansas State Red
+  Wolves\nCentennial Bank Stadium\, Jonesboro\, AR
+LOCATION:Centennial Bank Stadium\, Jonesboro\, AR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401869969@open-sports-cal
+DTSTART:20261113T020000Z
+DTEND:20261113T050000Z
+SUMMARY:Louisiana Ragin' Cajuns @ UL Monroe Warhawks
+DESCRIPTION:NCAA FBS Football 2026\nLouisiana Ragin' Cajuns @ UL Monroe War
+ hawks\nMalone Stadium\, Monroe\, LA
+LOCATION:Malone Stadium\, Monroe\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401869929@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:UL Monroe Warhawks @ App State Mountaineers
+DESCRIPTION:NCAA FBS Football 2026\nUL Monroe Warhawks @ App State Mountain
+ eers\nKidd Brewer Stadium\, Boone\, NC\nStart time TBD
+LOCATION:Kidd Brewer Stadium\, Boone\, NC
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401871102@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Marshall Thundering Herd @ UL Monroe Warhawks
+DESCRIPTION:NCAA FBS Football 2026\nMarshall Thundering Herd @ UL Monroe Wa
+ rhawks\nMalone Stadium\, Monroe\, LA\nStart time TBD
+LOCATION:Malone Stadium\, Monroe\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

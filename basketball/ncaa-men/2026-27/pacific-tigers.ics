@@ -1,0 +1,412 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Pacific Tigers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401917511@open-sports-cal
+DTSTART:20261104T030000Z
+DTEND:20261104T060000Z
+SUMMARY:Bethesda Flames @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethesda Flames @ Pacific Tigers
+ \nAlex G. Spanos Center\, Stockton\, CA
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917518@open-sports-cal
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:Pacific Tigers @ Bradley Braves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Bradley Braves\
+ nCarver Arena\, Peoria\, IL
+LOCATION:Carver Arena\, Peoria\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917523@open-sports-cal
+DTSTART:20261112T030000Z
+DTEND:20261112T060000Z
+SUMMARY:Pacific Tigers @ Long Beach State Beach
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Long Beach Stat
+ e Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917529@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Air Force Falcons @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ Pacific Tige
+ rs\nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917534@open-sports-cal
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Pacific Union PACIFIC UNION @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Union PACIFIC UNION @ Pa
+ cific Tigers\nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917537@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Bradley Braves @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBradley Braves @ Pacific Tigers\
+ nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917544@open-sports-cal
+DTSTART:20261126T033000Z
+DTEND:20261126T063000Z
+SUMMARY:Pacific Tigers @ Jacksonville State Gamecocks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Jacksonville St
+ ate Gamecocks\nResorts World Event Center\, Las Vegas\, NV\nNeutral site
+LOCATION:Resorts World Event Center\, Las Vegas\, NV
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917546@open-sports-cal
+DTSTART:20261127T033000Z
+DTEND:20261127T063000Z
+SUMMARY:Pacific Tigers @ Omaha Mavericks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Omaha Mavericks
+ \nResorts World Event Center\, Las Vegas\, NV\nNeutral site
+LOCATION:Resorts World Event Center\, Las Vegas\, NV
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911524@open-sports-cal
+DTSTART:20261128T010000Z
+DTEND:20261128T040000Z
+SUMMARY:Pacific Tigers @ UC Davis Aggies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ UC Davis Aggies
+ \nResorts World Event Center\, Las Vegas\, NV\nNeutral site
+LOCATION:Resorts World Event Center\, Las Vegas\, NV
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911460@open-sports-cal
+DTSTART:20261203T030000Z
+DTEND:20261203T060000Z
+SUMMARY:Pacific Tigers @ Nevada Wolf Pack
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Nevada Wolf Pac
+ k\nLawlor Events Center\, Reno\, NV
+LOCATION:Lawlor Events Center\, Reno\, NV
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917561@open-sports-cal
+DTSTART:20261206T210000Z
+DTEND:20261207T000000Z
+SUMMARY:Pacific Tigers @ Stanford Cardinal
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Stanford Cardin
+ al\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917569@open-sports-cal
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Utah Valley Wolverines @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUtah Valley Wolverines @ Pacific
+  Tigers\nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917575@open-sports-cal
+DTSTART:20261216T013000Z
+DTEND:20261216T043000Z
+SUMMARY:Pacific Tigers @ New Mexico State Aggies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ New Mexico Stat
+ e Aggies\nPan American Center\, Las Cruces\, NM
+LOCATION:Pan American Center\, Las Cruces\, NM
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917578@open-sports-cal
+DTSTART:20261219T040000Z
+DTEND:20261219T070000Z
+SUMMARY:Southern Jaguars @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Jaguars @ Pacific Tiger
+ s\nAlex G. Spanos Center\, Stockton\, CA
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917586@open-sports-cal
+DTSTART:20261223T030000Z
+DTEND:20261223T060000Z
+SUMMARY:Pacific Tigers @ Sacramento State Hornets
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Sacramento Stat
+ e Hornets\nHornet Pavilion\, Sacramento\, CA
+LOCATION:Hornet Pavilion\, Sacramento\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917592@open-sports-cal
+DTSTART:20261230T020000Z
+DTEND:20261230T050000Z
+SUMMARY:Pacific Tigers @ Utah State Aggies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Utah State Aggi
+ es\nDee Glen Smith Spectrum\, Logan\, UT
+LOCATION:Dee Glen Smith Spectrum\, Logan\, UT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917597@open-sports-cal
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Santa Clara Broncos @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSanta Clara Broncos @ Pacific Ti
+ gers\nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917603@open-sports-cal
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Pacific Tigers @ Portland Pilots
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Portland Pilots
+ \nChiles Center\, Portland\, OR\nStart time TBD
+LOCATION:Chiles Center\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917611@open-sports-cal
+DTSTART:20270113T040000Z
+DTEND:20270113T070000Z
+SUMMARY:Pacific Tigers @ Loyola Marymount Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Loyola Marymoun
+ t Lions\nGersten Pavilion\, Los Angeles\, CA
+LOCATION:Gersten Pavilion\, Los Angeles\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917614@open-sports-cal
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Seattle U Redhawks @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ Pacific Tig
+ ers\nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917621@open-sports-cal
+DTSTART:20270121T040000Z
+DTEND:20270121T070000Z
+SUMMARY:Pacific Tigers @ Saint Mary's Gaels
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Saint Mary's Ga
+ els\nUniversity Credit Union Pavilion\, Moraga\, CA
+LOCATION:University Credit Union Pavilion\, Moraga\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917625@open-sports-cal
+DTSTART:20270124T000000Z
+DTEND:20270124T030000Z
+SUMMARY:Pacific Tigers @ Santa Clara Broncos
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Santa Clara Bro
+ ncos\nLeavey Center\, Santa Clara\, CA
+LOCATION:Leavey Center\, Santa Clara\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917629@open-sports-cal
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Denver Pioneers @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDenver Pioneers @ Pacific Tigers
+ \nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917633@open-sports-cal
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Pepperdine Waves @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPepperdine Waves @ Pacific Tiger
+ s\nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917635@open-sports-cal
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:San Diego Toreros @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSan Diego Toreros @ Pacific Tige
+ rs\nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917643@open-sports-cal
+DTSTART:20270207T040000Z
+DTEND:20270207T070000Z
+SUMMARY:Pacific Tigers @ San Francisco Dons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ San Francisco D
+ ons\nThe Sobrato Center\, San Francisco\, CA
+LOCATION:The Sobrato Center\, San Francisco\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917646@open-sports-cal
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Portland Pilots @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland Pilots @ Pacific Tigers
+ \nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917649@open-sports-cal
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Pacific Tigers @ Denver Pioneers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Denver Pioneers
+ \nHamilton Gymnasium\, Denver\, CO\nStart time TBD
+LOCATION:Hamilton Gymnasium\, Denver\, CO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917656@open-sports-cal
+DTSTART:20270219T033000Z
+DTEND:20270219T063000Z
+SUMMARY:Saint Mary's Gaels @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ Pacific Tig
+ ers\nAlex G. Spanos Center\, Stockton\, CA
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917661@open-sports-cal
+DTSTART:20270222T010000Z
+DTEND:20270222T040000Z
+SUMMARY:San Francisco Dons @ Pacific Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSan Francisco Dons @ Pacific Tig
+ ers\nAlex G. Spanos Center\, Stockton\, CA
+LOCATION:Alex G. Spanos Center\, Stockton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917675@open-sports-cal
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Pacific Tigers @ San Diego Toreros
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ San Diego Torer
+ os\nJenny Craig Pavilion\, San Diego\, CA\nStart time TBD
+LOCATION:Jenny Craig Pavilion\, San Diego\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917670@open-sports-cal
+DTSTART:20270228T020000Z
+DTEND:20270228T050000Z
+SUMMARY:Pacific Tigers @ Pepperdine Waves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Pepperdine Wave
+ s\nFirestone Fieldhouse\, Malibu\, CA
+LOCATION:Firestone Fieldhouse\, Malibu\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

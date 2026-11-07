@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Eastern Washington Eagles
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401868084@open-sports-cal
+DTSTART:20260829T210000Z
+DTEND:20260830T000000Z
+SUMMARY:Eastern Washington Eagles @ Northern Arizona Lumberjacks
+DESCRIPTION:NCAA FCS Football 2026\nEastern Washington Eagles @ Northern Ar
+ izona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868085@open-sports-cal
+DTSTART:20260905T230000Z
+DTEND:20260906T020000Z
+SUMMARY:Northern Iowa Panthers @ Eastern Washington Eagles
+DESCRIPTION:NCAA FCS Football 2026\nNorthern Iowa Panthers @ Eastern Washin
+ gton Eagles\nRoos Field\, Cheney\, WA
+LOCATION:Roos Field\, Cheney\, WA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867884@open-sports-cal
+DTSTART:20260912T180000Z
+DTEND:20260912T210000Z
+SUMMARY:Eastern Washington Eagles @ South Dakota Coyotes
+DESCRIPTION:NCAA FCS Football 2026\nEastern Washington Eagles @ South Dakot
+ a Coyotes\nThe DakotaDome\, Vermillion\, SD
+LOCATION:The DakotaDome\, Vermillion\, SD
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401858459@open-sports-cal
+DTSTART:20260919T231500Z
+DTEND:20260920T021500Z
+SUMMARY:Eastern Washington Eagles @ Washington Huskies
+DESCRIPTION:NCAA FCS Football 2026\nEastern Washington Eagles @ Washington 
+ Huskies\nHusky Stadium\, Seattle\, WA
+LOCATION:Husky Stadium\, Seattle\, WA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868076@open-sports-cal
+DTSTART:20260926T230000Z
+DTEND:20260927T020000Z
+SUMMARY:Cal Poly Mustangs @ Eastern Washington Eagles
+DESCRIPTION:NCAA FCS Football 2026\nCal Poly Mustangs @ Eastern Washington 
+ Eagles\nRoos Field\, Cheney\, WA
+LOCATION:Roos Field\, Cheney\, WA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868086@open-sports-cal
+DTSTART:20261004T023000Z
+DTEND:20261004T053000Z
+SUMMARY:Eastern Washington Eagles @ UC Davis Aggies
+DESCRIPTION:NCAA FCS Football 2026\nEastern Washington Eagles @ UC Davis Ag
+ gies\nUC Davis Health Stadium\, Davis\, CA
+LOCATION:UC Davis Health Stadium\, Davis\, CA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868087@open-sports-cal
+DTSTART:20261010T230000Z
+DTEND:20261011T020000Z
+SUMMARY:Northern Colorado Bears @ Eastern Washington Eagles
+DESCRIPTION:NCAA FCS Football 2026\nNorthern Colorado Bears @ Eastern Washi
+ ngton Eagles\nRoos Field\, Cheney\, WA
+LOCATION:Roos Field\, Cheney\, WA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868088@open-sports-cal
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+SUMMARY:Montana State Bobcats @ Eastern Washington Eagles
+DESCRIPTION:NCAA FCS Football 2026\nMontana State Bobcats @ Eastern Washing
+ ton Eagles\nRoos Field\, Cheney\, WA
+LOCATION:Roos Field\, Cheney\, WA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868089@open-sports-cal
+DTSTART:20261031T200000Z
+DTEND:20261031T230000Z
+SUMMARY:Montana Grizzlies @ Eastern Washington Eagles
+DESCRIPTION:NCAA FCS Football 2026\nMontana Grizzlies @ Eastern Washington 
+ Eagles\nRoos Field\, Cheney\, WA
+LOCATION:Roos Field\, Cheney\, WA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868090@open-sports-cal
+DTSTART:20261107T220000Z
+DTEND:20261108T010000Z
+SUMMARY:Eastern Washington Eagles @ Idaho Vandals
+DESCRIPTION:NCAA FCS Football 2026\nEastern Washington Eagles @ Idaho Vanda
+ ls\nKibbie Dome\, Moscow\, ID
+LOCATION:Kibbie Dome\, Moscow\, ID
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868091@open-sports-cal
+DTSTART:20261114T210000Z
+DTEND:20261115T000000Z
+SUMMARY:Eastern Washington Eagles @ Utah Tech Trailblazers
+DESCRIPTION:NCAA FCS Football 2026\nEastern Washington Eagles @ Utah Tech T
+ railblazers\nGreater Zion Stadium\, Saint George\, UT
+LOCATION:Greater Zion Stadium\, Saint George\, UT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868092@open-sports-cal
+DTSTART:20261121T210000Z
+DTEND:20261122T000000Z
+SUMMARY:Portland State Vikings @ Eastern Washington Eagles
+DESCRIPTION:NCAA FCS Football 2026\nPortland State Vikings @ Eastern Washin
+ gton Eagles\nRoos Field\, Cheney\, WA
+LOCATION:Roos Field\, Cheney\, WA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

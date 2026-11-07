@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Texas Tech Red Raiders
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856770@open-sports-cal
+DTSTART:20260905T230000Z
+DTEND:20260906T020000Z
+SUMMARY:Abilene Christian Wildcats @ Texas Tech Red Raiders
+DESCRIPTION:NCAA FBS Football 2026\nAbilene Christian Wildcats @ Texas Tech
+  Red Raiders\nGalaxy Stadium\, Lubbock\, TX
+LOCATION:Galaxy Stadium\, Lubbock\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856783@open-sports-cal
+DTSTART:20260912T233000Z
+DTEND:20260913T023000Z
+SUMMARY:Texas Tech Red Raiders @ Oregon State Beavers
+DESCRIPTION:NCAA FBS Football 2026\nTexas Tech Red Raiders @ Oregon State B
+ eavers\nReser Stadium\, Corvallis\, OR
+LOCATION:Reser Stadium\, Corvallis\, OR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856811@open-sports-cal
+DTSTART:20260919T000000Z
+DTEND:20260919T030000Z
+SUMMARY:Houston Cougars @ Texas Tech Red Raiders
+DESCRIPTION:NCAA FBS Football 2026\nHouston Cougars @ Texas Tech Red Raider
+ s\nGalaxy Stadium\, Lubbock\, TX
+LOCATION:Galaxy Stadium\, Lubbock\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856805@open-sports-cal
+DTSTART:20260926T160000Z
+DTEND:20260926T190000Z
+SUMMARY:Sam Houston Bearkats @ Texas Tech Red Raiders
+DESCRIPTION:NCAA FBS Football 2026\nSam Houston Bearkats @ Texas Tech Red R
+ aiders\nGalaxy Stadium\, Lubbock\, TX
+LOCATION:Galaxy Stadium\, Lubbock\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856821@open-sports-cal
+DTSTART:20261003T233000Z
+DTEND:20261004T023000Z
+SUMMARY:Texas Tech Red Raiders @ Colorado Buffaloes
+DESCRIPTION:NCAA FBS Football 2026\nTexas Tech Red Raiders @ Colorado Buffa
+ loes\nFolsom Field\, Boulder\, CO
+LOCATION:Folsom Field\, Boulder\, CO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856828@open-sports-cal
+DTSTART:20261017T193000Z
+DTEND:20261017T223000Z
+SUMMARY:Arizona State Sun Devils @ Texas Tech Red Raiders
+DESCRIPTION:NCAA FBS Football 2026\nArizona State Sun Devils @ Texas Tech R
+ ed Raiders\nGalaxy Stadium\, Lubbock\, TX
+LOCATION:Galaxy Stadium\, Lubbock\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856840@open-sports-cal
+DTSTART:20261024T160000Z
+DTEND:20261024T190000Z
+SUMMARY:Texas Tech Red Raiders @ Cincinnati Bearcats
+DESCRIPTION:NCAA FBS Football 2026\nTexas Tech Red Raiders @ Cincinnati Bea
+ rcats\nNippert Stadium\, Cincinnati\, OH
+LOCATION:Nippert Stadium\, Cincinnati\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856842@open-sports-cal
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:Arizona Wildcats @ Texas Tech Red Raiders
+DESCRIPTION:NCAA FBS Football 2026\nArizona Wildcats @ Texas Tech Red Raide
+ rs\nGalaxy Stadium\, Lubbock\, TX
+LOCATION:Galaxy Stadium\, Lubbock\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856856@open-sports-cal
+DTSTART:20261108T023000Z
+DTEND:20261108T053000Z
+SUMMARY:West Virginia Mountaineers @ Texas Tech Red Raiders
+DESCRIPTION:NCAA FBS Football 2026\nWest Virginia Mountaineers @ Texas Tech
+  Red Raiders\nGalaxy Stadium\, Lubbock\, TX
+LOCATION:Galaxy Stadium\, Lubbock\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856863@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Texas Tech Red Raiders @ Oklahoma State Cowboys
+DESCRIPTION:NCAA FBS Football 2026\nTexas Tech Red Raiders @ Oklahoma State
+  Cowboys\nBoone Pickens Stadium\, Stillwater\, OK\nStart time TBD
+LOCATION:Boone Pickens Stadium\, Stillwater\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856871@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Texas Tech Red Raiders @ Baylor Bears
+DESCRIPTION:NCAA FBS Football 2026\nTexas Tech Red Raiders @ Baylor Bears\n
+ McLane Stadium\, Waco\, TX\nStart time TBD
+LOCATION:McLane Stadium\, Waco\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856879@open-sports-cal
+DTSTART:20261127T010000Z
+DTEND:20261127T040000Z
+SUMMARY:TCU Horned Frogs @ Texas Tech Red Raiders
+DESCRIPTION:NCAA FBS Football 2026\nTCU Horned Frogs @ Texas Tech Red Raide
+ rs\nGalaxy Stadium\, Lubbock\, TX
+LOCATION:Galaxy Stadium\, Lubbock\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Florida Atlantic Owls
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856637@open-sports-cal
+DTSTART:20260905T234500Z
+DTEND:20260906T024500Z
+SUMMARY:Florida Atlantic Owls @ Florida Gators
+DESCRIPTION:NCAA FBS Football 2026\nFlorida Atlantic Owls @ Florida Gators\
+ nBen Hill Griffin Stadium\, Gainesville\, FL
+LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862703@open-sports-cal
+DTSTART:20260912T233000Z
+DTEND:20260913T023000Z
+SUMMARY:Navy Midshipmen @ Florida Atlantic Owls
+DESCRIPTION:NCAA FBS Football 2026\nNavy Midshipmen @ Florida Atlantic Owls
+ \nFlagler Credit Union Stadium\, Boca Raton\, FL
+LOCATION:Flagler Credit Union Stadium\, Boca Raton\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862771@open-sports-cal
+DTSTART:20260919T220000Z
+DTEND:20260920T010000Z
+SUMMARY:Florida International Panthers @ Florida Atlantic Owls
+DESCRIPTION:NCAA FBS Football 2026\nFlorida International Panthers @ Florid
+ a Atlantic Owls\nFlagler Credit Union Stadium\, Boca Raton\, FL
+LOCATION:Flagler Credit Union Stadium\, Boca Raton\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862782@open-sports-cal
+DTSTART:20260927T000000Z
+DTEND:20260927T030000Z
+SUMMARY:Florida Atlantic Owls @ UL Monroe Warhawks
+DESCRIPTION:NCAA FBS Football 2026\nFlorida Atlantic Owls @ UL Monroe Warha
+ wks\nMalone Stadium\, Monroe\, LA
+LOCATION:Malone Stadium\, Monroe\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862790@open-sports-cal
+DTSTART:20261003T220000Z
+DTEND:20261004T010000Z
+SUMMARY:Texas Southern Tigers @ Florida Atlantic Owls
+DESCRIPTION:NCAA FBS Football 2026\nTexas Southern Tigers @ Florida Atlanti
+ c Owls\nFlagler Credit Union Stadium\, Boca Raton\, FL
+LOCATION:Flagler Credit Union Stadium\, Boca Raton\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862802@open-sports-cal
+DTSTART:20261017T160000Z
+DTEND:20261017T190000Z
+SUMMARY:Florida Atlantic Owls @ Army Black Knights
+DESCRIPTION:NCAA FBS Football 2026\nFlorida Atlantic Owls @ Army Black Knig
+ hts\nMichie Stadium\, West Point\, NY
+LOCATION:Michie Stadium\, West Point\, NY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862809@open-sports-cal
+DTSTART:20261024T160000Z
+DTEND:20261024T190000Z
+SUMMARY:Rice Owls @ Florida Atlantic Owls
+DESCRIPTION:NCAA FBS Football 2026\nRice Owls @ Florida Atlantic Owls\nFlag
+ ler Credit Union Stadium\, Boca Raton\, FL
+LOCATION:Flagler Credit Union Stadium\, Boca Raton\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862812@open-sports-cal
+DTSTART:20261029T233000Z
+DTEND:20261030T023000Z
+SUMMARY:Florida Atlantic Owls @ North Texas Mean Green
+DESCRIPTION:NCAA FBS Football 2026\nFlorida Atlantic Owls @ North Texas Mea
+ n Green\nDATCU Stadium\, Denton\, TX
+LOCATION:DATCU Stadium\, Denton\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862817@open-sports-cal
+DTSTART:20261106T003000Z
+DTEND:20261106T033000Z
+SUMMARY:UTSA Roadrunners @ Florida Atlantic Owls
+DESCRIPTION:NCAA FBS Football 2026\nUTSA Roadrunners @ Florida Atlantic Owl
+ s\nFlagler Credit Union Stadium\, Boca Raton\, FL
+LOCATION:Flagler Credit Union Stadium\, Boca Raton\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862826@open-sports-cal
+DTSTART:20261114T203000Z
+DTEND:20261114T233000Z
+SUMMARY:Florida Atlantic Owls @ Tulsa Golden Hurricane
+DESCRIPTION:NCAA FBS Football 2026\nFlorida Atlantic Owls @ Tulsa Golden Hu
+ rricane\nH. A. Chapman Stadium\, Tulsa\, OK
+LOCATION:H. A. Chapman Stadium\, Tulsa\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862833@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:South Florida Bulls @ Florida Atlantic Owls
+DESCRIPTION:NCAA FBS Football 2026\nSouth Florida Bulls @ Florida Atlantic 
+ Owls\nFlagler Credit Union Stadium\, Boca Raton\, FL\nStart time TBD
+LOCATION:Flagler Credit Union Stadium\, Boca Raton\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862837@open-sports-cal
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Florida Atlantic Owls @ East Carolina Pirates
+DESCRIPTION:NCAA FBS Football 2026\nFlorida Atlantic Owls @ East Carolina P
+ irates\nDowdy-Ficklen Stadium\, Greenville\, NC\nStart time TBD
+LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

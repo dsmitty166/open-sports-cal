@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Nevada Wolf Pack
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401864432@open-sports-cal
+DTSTART:20260906T023000Z
+DTEND:20260906T053000Z
+SUMMARY:Western Kentucky Hilltoppers @ Nevada Wolf Pack
+DESCRIPTION:NCAA FBS Football 2026\nWestern Kentucky Hilltoppers @ Nevada W
+ olf Pack\nMackay Stadium\, Reno\, NV
+LOCATION:Mackay Stadium\, Reno\, NV
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864500@open-sports-cal
+DTSTART:20260913T023000Z
+DTEND:20260913T053000Z
+SUMMARY:Montana State Bobcats @ Nevada Wolf Pack
+DESCRIPTION:NCAA FBS Football 2026\nMontana State Bobcats @ Nevada Wolf Pac
+ k\nMackay Stadium\, Reno\, NV
+LOCATION:Mackay Stadium\, Reno\, NV
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864443@open-sports-cal
+DTSTART:20260919T230000Z
+DTEND:20260920T020000Z
+SUMMARY:Nevada Wolf Pack @ Middle Tennessee Blue Raiders
+DESCRIPTION:NCAA FBS Football 2026\nNevada Wolf Pack @ Middle Tennessee Blu
+ e Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN
+LOCATION:Johnny "Red" Floyd Stadium\, Murfreesboro\, TN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864509@open-sports-cal
+DTSTART:20260927T023000Z
+DTEND:20260927T053000Z
+SUMMARY:Air Force Falcons @ Nevada Wolf Pack
+DESCRIPTION:NCAA FBS Football 2026\nAir Force Falcons @ Nevada Wolf Pack\nM
+ ackay Stadium\, Reno\, NV
+LOCATION:Mackay Stadium\, Reno\, NV
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864517@open-sports-cal
+DTSTART:20261010T230000Z
+DTEND:20261011T020000Z
+SUMMARY:Nevada Wolf Pack @ UTEP Miners
+DESCRIPTION:NCAA FBS Football 2026\nNevada Wolf Pack @ UTEP Miners\nSun Bow
+ l\, El Paso\, TX
+LOCATION:Sun Bowl\, El Paso\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864520@open-sports-cal
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+SUMMARY:Nevada Wolf Pack @ North Dakota State Bison
+DESCRIPTION:NCAA FBS Football 2026\nNevada Wolf Pack @ North Dakota State B
+ ison\nFargodome\, Fargo\, ND
+LOCATION:Fargodome\, Fargo\, ND
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864528@open-sports-cal
+DTSTART:20261024T210000Z
+DTEND:20261025T000000Z
+SUMMARY:San José State Spartans @ Nevada Wolf Pack
+DESCRIPTION:NCAA FBS Football 2026\nSan José State Spartans @ Nevada Wolf 
+ Pack\nMackay Stadium\, Reno\, NV
+LOCATION:Mackay Stadium\, Reno\, NV
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858508@open-sports-cal
+DTSTART:20261031T201500Z
+DTEND:20261031T231500Z
+SUMMARY:Nevada Wolf Pack @ UCLA Bruins
+DESCRIPTION:NCAA FBS Football 2026\nNevada Wolf Pack @ UCLA Bruins\nRose Bo
+ wl\, Pasadena\, CA
+LOCATION:Rose Bowl\, Pasadena\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864533@open-sports-cal
+DTSTART:20261107T020000Z
+DTEND:20261107T050000Z
+SUMMARY:New Mexico Lobos @ Nevada Wolf Pack
+DESCRIPTION:NCAA FBS Football 2026\nNew Mexico Lobos @ Nevada Wolf Pack\nMa
+ ckay Stadium\, Reno\, NV
+LOCATION:Mackay Stadium\, Reno\, NV
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864536@open-sports-cal
+DTSTART:20261114T203000Z
+DTEND:20261114T233000Z
+SUMMARY:Nevada Wolf Pack @ Northern Illinois Huskies
+DESCRIPTION:NCAA FBS Football 2026\nNevada Wolf Pack @ Northern Illinois Hu
+ skies\nHuskie Stadium\, Dekalb\, IL
+LOCATION:Huskie Stadium\, Dekalb\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864541@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Hawai'i Rainbow Warriors @ Nevada Wolf Pack
+DESCRIPTION:NCAA FBS Football 2026\nHawai'i Rainbow Warriors @ Nevada Wolf 
+ Pack\nMackay Stadium\, Reno\, NV\nStart time TBD
+LOCATION:Mackay Stadium\, Reno\, NV
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864548@open-sports-cal
+DTSTART:20261129T020000Z
+DTEND:20261129T050000Z
+SUMMARY:Nevada Wolf Pack @ UNLV Rebels
+DESCRIPTION:NCAA FBS Football 2026\nNevada Wolf Pack @ UNLV Rebels\nAllegia
+ nt Stadium\, Las Vegas\, NV
+LOCATION:Allegiant Stadium\, Las Vegas\, NV
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

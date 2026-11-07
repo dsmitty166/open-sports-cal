@@ -1,0 +1,424 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Michigan State Spartans
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401924856@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:Quinnipiac Bobcats @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nQuinnipiac Bobcats @ Michigan St
+ ate Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925754@open-sports-cal
+DTSTART:20261106T010000Z
+DTEND:20261106T040000Z
+SUMMARY:Toledo Rockets @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nToledo Rockets @ Michigan State 
+ Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909564@open-sports-cal
+DTSTART:20261111T000000Z
+DTEND:20261111T030000Z
+SUMMARY:Michigan State Spartans @ Duke Blue Devils
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ Duke B
+ lue Devils\nUnited Center\, Chicago\, IL\nNeutral site
+LOCATION:United Center\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925755@open-sports-cal
+DTSTART:20261114T000000Z
+DTEND:20261114T030000Z
+SUMMARY:Northern Iowa Panthers @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Iowa Panthers @ Michiga
+ n State Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906851@open-sports-cal
+DTSTART:20261118T020000Z
+DTEND:20261118T050000Z
+SUMMARY:Michigan State Spartans @ Tennessee Volunteers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ Tennes
+ see Volunteers\nFood City Center\, Knoxville\, TN
+LOCATION:Food City Center\, Knoxville\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925756@open-sports-cal
+DTSTART:20261121T170000Z
+DTEND:20261121T200000Z
+SUMMARY:Detroit Mercy Titans @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDetroit Mercy Titans @ Michigan 
+ State Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925757@open-sports-cal
+DTSTART:20261126T213000Z
+DTEND:20261127T003000Z
+SUMMARY:Arkansas Razorbacks @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Michigan S
+ tate Spartans\nLittle Caesars Arena\, Detroit\, MI\nNeutral site
+LOCATION:Little Caesars Arena\, Detroit\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921877@open-sports-cal
+DTSTART:20261202T233000Z
+DTEND:20261203T023000Z
+SUMMARY:Minnesota Golden Gophers @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMinnesota Golden Gophers @ Michi
+ gan State Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925758@open-sports-cal
+DTSTART:20261205T193000Z
+DTEND:20261205T223000Z
+SUMMARY:Drake Bulldogs @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Michigan State 
+ Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921886@open-sports-cal
+DTSTART:20261210T013000Z
+DTEND:20261210T043000Z
+SUMMARY:Michigan State Spartans @ Maryland Terrapins
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ Maryla
+ nd Terrapins\nXFINITY Center\, College Park\, MD
+LOCATION:XFINITY Center\, College Park\, MD
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401924813@open-sports-cal
+DTSTART:20261212T190000Z
+DTEND:20261212T220000Z
+SUMMARY:Merrimack Warriors @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMerrimack Warriors @ Michigan St
+ ate Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921675@open-sports-cal
+DTSTART:20261219T220000Z
+DTEND:20261220T010000Z
+SUMMARY:Gonzaga Bulldogs @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGonzaga Bulldogs @ Michigan Stat
+ e Spartans\nAcrisure Arena\, Palm Springs\, CA\nNeutral site
+LOCATION:Acrisure Arena\, Palm Springs\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925759@open-sports-cal
+DTSTART:20261222T230000Z
+DTEND:20261223T020000Z
+SUMMARY:Oakland Golden Grizzlies @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Michi
+ gan State Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921190@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:Pennsylvania Quakers @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPennsylvania Quakers @ Michigan 
+ State Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921896@open-sports-cal
+DTSTART:20270102T204500Z
+DTEND:20270102T234500Z
+SUMMARY:Michigan State Spartans @ Nebraska Cornhuskers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ Nebras
+ ka Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921902@open-sports-cal
+DTSTART:20270105T233000Z
+DTEND:20270106T023000Z
+SUMMARY:Washington Huskies @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWashington Huskies @ Michigan St
+ ate Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921911@open-sports-cal
+DTSTART:20270110T010000Z
+DTEND:20270110T040000Z
+SUMMARY:Michigan State Spartans @ UCLA Bruins
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ UCLA B
+ ruins\nPauley Pavilion\, Los Angeles\, CA
+LOCATION:Pauley Pavilion\, Los Angeles\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921917@open-sports-cal
+DTSTART:20270113T030000Z
+DTEND:20270113T060000Z
+SUMMARY:Michigan State Spartans @ USC Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ USC Tr
+ ojans\nGalen Center\, Los Angeles\, CA
+LOCATION:Galen Center\, Los Angeles\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921921@open-sports-cal
+DTSTART:20270116T210000Z
+DTEND:20270117T000000Z
+SUMMARY:Oregon Ducks @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOregon Ducks @ Michigan State Sp
+ artans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921934@open-sports-cal
+DTSTART:20270123T180000Z
+DTEND:20270123T210000Z
+SUMMARY:Michigan State Spartans @ Ohio State Buckeyes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ Ohio S
+ tate Buckeyes\nSchottenstein Center\, Columbus\, OH
+LOCATION:Schottenstein Center\, Columbus\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921939@open-sports-cal
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Penn State Nittany Lions @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPenn State Nittany Lions @ Michi
+ gan State Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921948@open-sports-cal
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Purdue Boilermakers @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPurdue Boilermakers @ Michigan S
+ tate Spartans\nBreslin Center\, East Lansing\, MI\nStart time TBD
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921953@open-sports-cal
+DTSTART:20270203T000000Z
+DTEND:20270203T030000Z
+SUMMARY:Maryland Terrapins @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMaryland Terrapins @ Michigan St
+ ate Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921956@open-sports-cal
+DTSTART:20270206T010000Z
+DTEND:20270206T040000Z
+SUMMARY:Illinois Fighting Illini @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Michi
+ gan State Spartans\nState Farm Center\, Champaign\, IL\nNeutral site
+LOCATION:State Farm Center\, Champaign\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921966@open-sports-cal
+DTSTART:20270210T233000Z
+DTEND:20270211T023000Z
+SUMMARY:Rutgers Scarlet Knights @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Michig
+ an State Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921970@open-sports-cal
+DTSTART:20270213T180000Z
+DTEND:20270213T210000Z
+SUMMARY:Michigan State Spartans @ Michigan Wolverines
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ Michig
+ an Wolverines\nCrisler Center\, Ann Arbor\, MI
+LOCATION:Crisler Center\, Ann Arbor\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921976@open-sports-cal
+DTSTART:20270217T020000Z
+DTEND:20270217T050000Z
+SUMMARY:Michigan State Spartans @ Iowa Hawkeyes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ Iowa H
+ awkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921983@open-sports-cal
+DTSTART:20270221T010000Z
+DTEND:20270221T040000Z
+SUMMARY:Nebraska Cornhuskers @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Michigan 
+ State Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921797@open-sports-cal
+DTSTART:20270224T000000Z
+DTEND:20270224T030000Z
+SUMMARY:Michigan State Spartans @ Indiana Hoosiers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ Indian
+ a Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921997@open-sports-cal
+DTSTART:20270227T010000Z
+DTEND:20270227T040000Z
+SUMMARY:Michigan Wolverines @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan Wolverines @ Michigan S
+ tate Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922005@open-sports-cal
+DTSTART:20270303T013000Z
+DTEND:20270303T043000Z
+SUMMARY:Michigan State Spartans @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ Northw
+ estern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921872@open-sports-cal
+DTSTART:20270306T204500Z
+DTEND:20270306T234500Z
+SUMMARY:Wisconsin Badgers @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWisconsin Badgers @ Michigan Sta
+ te Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

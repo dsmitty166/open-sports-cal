@@ -1,0 +1,443 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Women's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Women's Basketball 2026-27 - Wake Forest Demon Deacons
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-women-401906102@open-sports-cal
+DTSTART:20261102T220000Z
+DTEND:20261103T010000Z
+SUMMARY:South Carolina Upstate Spartans @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
+ s @ Wake Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906103@open-sports-cal
+DTSTART:20261105T230000Z
+DTEND:20261106T020000Z
+SUMMARY:Presbyterian Blue Hose @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nPresbyterian Blue Hose @ Wake 
+ Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906104@open-sports-cal
+DTSTART:20261108T173000Z
+DTEND:20261108T203000Z
+SUMMARY:Mercer Bears @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMercer Bears @ Wake Forest Dem
+ on Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906105@open-sports-cal
+DTSTART:20261112T163000Z
+DTEND:20261112T193000Z
+SUMMARY:UNC Wilmington Seahawks @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Wilmington Seahawks @ Wake
+  Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906106@open-sports-cal
+DTSTART:20261115T200000Z
+DTEND:20261115T230000Z
+SUMMARY:Elon Phoenix @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nElon Phoenix @ Wake Forest Dem
+ on Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906107@open-sports-cal
+DTSTART:20261119T230000Z
+DTEND:20261120T020000Z
+SUMMARY:App State Mountaineers @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Wake 
+ Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906108@open-sports-cal
+DTSTART:20261123T230000Z
+DTEND:20261124T020000Z
+SUMMARY:Wofford Terriers @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWofford Terriers @ Wake Forest
+  Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906109@open-sports-cal
+DTSTART:20261128T190000Z
+DTEND:20261128T220000Z
+SUMMARY:Quinnipiac Bobcats @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nQuinnipiac Bobcats @ Wake Fore
+ st Demon Deacons\nDesert Financial Arena\, Tempe\, AZ\nNeutral site
+LOCATION:Desert Financial Arena\, Tempe\, AZ
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906110@open-sports-cal
+DTSTART:20261129T193000Z
+DTEND:20261129T223000Z
+SUMMARY:Wake Forest Demon Deacons @ Arizona State Sun Devils
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Ar
+ izona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+LOCATION:Desert Financial Arena\, Tempe\, AZ
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906111@open-sports-cal
+DTSTART:20261204T020000Z
+DTEND:20261204T050000Z
+SUMMARY:Wake Forest Demon Deacons @ Arkansas Razorbacks
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Ar
+ kansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+LOCATION:Bud Walton Arena\, Fayetteville\, AR
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906112@open-sports-cal
+DTSTART:20261207T000000Z
+DTEND:20261207T030000Z
+SUMMARY:Wake Forest Demon Deacons @ Auburn Tigers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Au
+ burn Tigers\nNeville Arena\, Auburn\, AL
+LOCATION:Neville Arena\, Auburn\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918259@open-sports-cal
+DTSTART:20261213T190000Z
+DTEND:20261213T220000Z
+SUMMARY:Clemson Tigers @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Wake Forest D
+ emon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906113@open-sports-cal
+DTSTART:20261216T230000Z
+DTEND:20261217T020000Z
+SUMMARY:UNC Asheville Bulldogs @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Asheville Bulldogs @ Wake 
+ Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918266@open-sports-cal
+DTSTART:20261219T190000Z
+DTEND:20261219T220000Z
+SUMMARY:Wake Forest Demon Deacons @ Virginia Tech Hokies
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Vi
+ rginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+LOCATION:Cassell Coliseum\, Blacksburg\, VA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906114@open-sports-cal
+DTSTART:20261222T180000Z
+DTEND:20261222T210000Z
+SUMMARY:Furman Paladins @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nFurman Paladins @ Wake Forest 
+ Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918275@open-sports-cal
+DTSTART:20261231T180000Z
+DTEND:20261231T210000Z
+SUMMARY:SMU Mustangs @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Wake Forest Dem
+ on Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918283@open-sports-cal
+DTSTART:20270103T190000Z
+DTEND:20270103T220000Z
+SUMMARY:Pittsburgh Panthers @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nPittsburgh Panthers @ Wake For
+ est Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918292@open-sports-cal
+DTSTART:20270108T010000Z
+DTEND:20270108T040000Z
+SUMMARY:Wake Forest Demon Deacons @ North Carolina Tar Heels
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ No
+ rth Carolina Tar Heels\nCarmichael Arena\, Chapel Hill\, NC
+LOCATION:Carmichael Arena\, Chapel Hill\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918320@open-sports-cal
+DTSTART:20270110T210000Z
+DTEND:20270111T000000Z
+SUMMARY:Wake Forest Demon Deacons @ Georgia Tech Yellow Jackets
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Ge
+ orgia Tech Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+LOCATION:McCamish Pavilion\, Atlanta\, GA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918325@open-sports-cal
+DTSTART:20270114T230000Z
+DTEND:20270115T020000Z
+SUMMARY:Stanford Cardinal @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Wake Fores
+ t Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918328@open-sports-cal
+DTSTART:20270117T190000Z
+DTEND:20270117T220000Z
+SUMMARY:California Golden Bears @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Golden Bears @ Wake
+  Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918341@open-sports-cal
+DTSTART:20270121T230000Z
+DTEND:20270122T020000Z
+SUMMARY:Wake Forest Demon Deacons @ Virginia Cavaliers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Vi
+ rginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+LOCATION:John Paul Jones Arena\, Charlottesville\, VA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918348@open-sports-cal
+DTSTART:20270124T170000Z
+DTEND:20270124T200000Z
+SUMMARY:Wake Forest Demon Deacons @ NC State Wolfpack
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ NC
+  State Wolfpack\nReynolds Coliseum\, Raleigh\, NC
+LOCATION:Reynolds Coliseum\, Raleigh\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918361@open-sports-cal
+DTSTART:20270131T190000Z
+DTEND:20270131T220000Z
+SUMMARY:Wake Forest Demon Deacons @ Florida State Seminoles
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Fl
+ orida State Seminoles\nTucker Center\, Tallahassee\, FL
+LOCATION:Tucker Center\, Tallahassee\, FL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918365@open-sports-cal
+DTSTART:20270204T230000Z
+DTEND:20270205T020000Z
+SUMMARY:Louisville Cardinals @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Wake Fo
+ rest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918066@open-sports-cal
+DTSTART:20270207T190000Z
+DTEND:20270207T220000Z
+SUMMARY:Boston College Eagles @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nBoston College Eagles @ Wake F
+ orest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918384@open-sports-cal
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:Wake Forest Demon Deacons @ Miami Hurricanes
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Mi
+ ami Hurricanes\nWatsco Center\, Coral Gables\, FL
+LOCATION:Watsco Center\, Coral Gables\, FL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918390@open-sports-cal
+DTSTART:20270214T190000Z
+DTEND:20270214T220000Z
+SUMMARY:Wake Forest Demon Deacons @ Notre Dame Fighting Irish
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ No
+ tre Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+LOCATION:Purcell Pavilion\, South Bend\, IN
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918398@open-sports-cal
+DTSTART:20270221T230000Z
+DTEND:20270222T020000Z
+SUMMARY:Duke Blue Devils @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nDuke Blue Devils @ Wake Forest
+  Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918407@open-sports-cal
+DTSTART:20270225T230000Z
+DTEND:20270226T020000Z
+SUMMARY:NC State Wolfpack @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nNC State Wolfpack @ Wake Fores
+ t Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918418@open-sports-cal
+DTSTART:20270228T170000Z
+DTEND:20270228T200000Z
+SUMMARY:Wake Forest Demon Deacons @ Syracuse Orange
+DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Sy
+ racuse Orange\nJMA Wireless Dome\, Syracuse\, NY
+LOCATION:JMA Wireless Dome\, Syracuse\, NY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

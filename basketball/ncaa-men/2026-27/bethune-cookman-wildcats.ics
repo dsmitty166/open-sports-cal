@@ -1,0 +1,415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Bethune-Cookman Wildcats
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401921424@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:Furman Paladins @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFurman Paladins @ Bethune-Cookma
+ n Wildcats\nSanford Pentagon\, Sioux Falls\, SD\nNeutral site
+LOCATION:Sanford Pentagon\, Sioux Falls\, SD
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921133@open-sports-cal
+DTSTART:20261106T020000Z
+DTEND:20261106T050000Z
+SUMMARY:Bethune-Cookman Wildcats @ Texas Tech Red Raiders
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Texas
+  Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+LOCATION:United Supermarkets Arena\, Lubbock\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911345@open-sports-cal
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:Bethune-Cookman Wildcats @ Grand Canyon Lopes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Grand
+  Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+LOCATION:Global Credit Union Arena\, Phoenix\, AZ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925717@open-sports-cal
+DTSTART:20261111T220000Z
+DTEND:20261112T010000Z
+SUMMARY:Bethune-Cookman Wildcats @ San Diego State Aztecs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ San D
+ iego State Aztecs\nViejas Arena\, San Diego\, CA
+LOCATION:Viejas Arena\, San Diego\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925718@open-sports-cal
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Paine Lions @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPaine Lions @ Bethune-Cookman Wi
+ ldcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nStart time TBD
+LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909494@open-sports-cal
+DTSTART:20261119T020000Z
+DTEND:20261119T050000Z
+SUMMARY:Bethune-Cookman Wildcats @ Creighton Bluejays
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Creig
+ hton Bluejays\nCHI Health Center Omaha\, Omaha\, NE
+LOCATION:CHI Health Center Omaha\, Omaha\, NE
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911241@open-sports-cal
+DTSTART:20261125T230000Z
+DTEND:20261126T020000Z
+SUMMARY:Bethune-Cookman Wildcats @ Richmond Spiders
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Richm
+ ond Spiders\nRobins Center\, Richmond\, VA
+LOCATION:Robins Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921065@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Bethune-Cookman Wildcats @ San Francisco Dons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ San F
+ rancisco Dons\nThe Sobrato Center\, San Francisco\, CA\nStart time TBD
+LOCATION:The Sobrato Center\, San Francisco\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920861@open-sports-cal
+DTSTART:20261206T000000Z
+DTEND:20261206T030000Z
+SUMMARY:Bethune-Cookman Wildcats @ Marshall Thundering Herd
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Marsh
+ all Thundering Herd\nCam Henderson Center\, Huntington\, WV
+LOCATION:Cam Henderson Center\, Huntington\, WV
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920431@open-sports-cal
+DTSTART:20261209T000000Z
+DTEND:20261209T030000Z
+SUMMARY:Bethune-Cookman Wildcats @ Virginia Cavaliers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Virgi
+ nia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+LOCATION:John Paul Jones Arena\, Charlottesville\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920730@open-sports-cal
+DTSTART:20261218T020000Z
+DTEND:20261218T050000Z
+SUMMARY:Bethune-Cookman Wildcats @ Iowa Hawkeyes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Iowa 
+ Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925835@open-sports-cal
+DTSTART:20261220T210000Z
+DTEND:20261221T000000Z
+SUMMARY:Bethune-Cookman Wildcats @ North Texas Mean Green
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ North
+  Texas Mean Green\nThe Super Pit\, Denton\, TX
+LOCATION:The Super Pit\, Denton\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909704@open-sports-cal
+DTSTART:20261222T230000Z
+DTEND:20261223T020000Z
+SUMMARY:Bethune-Cookman Wildcats @ Florida State Seminoles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Flori
+ da State Seminoles\nTucker Center\, Tallahassee\, FL
+LOCATION:Tucker Center\, Tallahassee\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921752@open-sports-cal
+DTSTART:20261229T220000Z
+DTEND:20261230T010000Z
+SUMMARY:Bethune-Cookman Wildcats @ Cincinnati Bearcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Cinci
+ nnati Bearcats\nFifth Third Arena\, Cincinnati\, OH
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925719@open-sports-cal
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Bethune-Cookman Wildcats @ Florida A&M Rattlers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Flori
+ da A&M Rattlers\nAl Lawson Center\, Tallahassee\, FL\nStart time TBD
+LOCATION:Al Lawson Center\, Tallahassee\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925720@open-sports-cal
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Bethune-Cookman Wildcats @ Grambling Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Gramb
+ ling Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart tim
+ e TBD
+LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925721@open-sports-cal
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Bethune-Cookman Wildcats @ Southern Jaguars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ South
+ ern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nStart time TBD
+LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925722@open-sports-cal
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Mississippi Valley State Delta Devils @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi Valley State Delta D
+ evils @ Bethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, F
+ L\nStart time TBD
+LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925723@open-sports-cal
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Bethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nSt
+ art time TBD
+LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921047@open-sports-cal
+DTSTART:20270123T203000Z
+DTEND:20270123T233000Z
+SUMMARY:Bethune-Cookman Wildcats @ Jackson State Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Jacks
+ on State Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\,
+  MS
+LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925693@open-sports-cal
+DTSTART:20270126T010000Z
+DTEND:20270126T040000Z
+SUMMARY:Bethune-Cookman Wildcats @ Alcorn State Braves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Alcor
+ n State Braves\nDavey L. Whitney Complex\, Lorman\, MS
+LOCATION:Davey L. Whitney Complex\, Lorman\, MS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925673@open-sports-cal
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Alabama State Hornets @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama State Hornets @ Bethune-
+ Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nStart time TB
+ D
+LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925651@open-sports-cal
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Alabama A&M Bulldogs @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Bethune-C
+ ookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nStart time TBD
+LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925724@open-sports-cal
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Bethune-Cookman Wildcats @ Prairie View A&M Panthers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Prair
+ ie View A&M Panthers\nWilliam J. Nicks Building\, Prairie View\, TX\nStart
+  time TBD
+LOCATION:William J. Nicks Building\, Prairie View\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925725@open-sports-cal
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Bethune-Cookman Wildcats @ Texas Southern Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Texas
+  Southern Tigers\nH&PE Arena\, Houston\, TX\nStart time TBD
+LOCATION:H&PE Arena\, Houston\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925698@open-sports-cal
+DTSTART:20270213T200000Z
+DTEND:20270213T230000Z
+SUMMARY:Alcorn State Braves @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAlcorn State Braves @ Bethune-Co
+ okman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921054@open-sports-cal
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Jackson State Tigers @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Bethune-C
+ ookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nStart time TBD
+LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925656@open-sports-cal
+DTSTART:20270219T010000Z
+DTEND:20270219T040000Z
+SUMMARY:Bethune-Cookman Wildcats @ Alabama State Hornets
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Alaba
+ ma State Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925732@open-sports-cal
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Bethune-Cookman Wildcats @ Alabama A&M Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Alaba
+ ma A&M Bulldogs\nEvent Center\, Huntsville\, AL\nStart time TBD
+LOCATION:Event Center\, Huntsville\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925726@open-sports-cal
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Grambling Tigers @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Bethune-Cookm
+ an Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nStart time TBD
+LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925727@open-sports-cal
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Southern Jaguars @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Jaguars @ Bethune-Cookm
+ an Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nStart time TBD
+LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925728@open-sports-cal
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Florida A&M Rattlers @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida A&M Rattlers @ Bethune-C
+ ookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nStart time TBD
+LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

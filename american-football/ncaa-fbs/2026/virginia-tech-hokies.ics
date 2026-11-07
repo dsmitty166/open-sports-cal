@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Virginia Tech Hokies
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858211@open-sports-cal
+DTSTART:20260905T233000Z
+DTEND:20260906T023000Z
+SUMMARY:VMI Keydets @ Virginia Tech Hokies
+DESCRIPTION:NCAA FBS Football 2026\nVMI Keydets @ Virginia Tech Hokies\nLan
+ e Stadium\, Blacksburg\, VA
+LOCATION:Lane Stadium\, Blacksburg\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858221@open-sports-cal
+DTSTART:20260912T160000Z
+DTEND:20260912T190000Z
+SUMMARY:Old Dominion Monarchs @ Virginia Tech Hokies
+DESCRIPTION:NCAA FBS Football 2026\nOld Dominion Monarchs @ Virginia Tech H
+ okies\nLane Stadium\, Blacksburg\, VA
+LOCATION:Lane Stadium\, Blacksburg\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858232@open-sports-cal
+DTSTART:20260919T233000Z
+DTEND:20260920T023000Z
+SUMMARY:Virginia Tech Hokies @ Maryland Terrapins
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Tech Hokies @ Maryland Terrapi
+ ns\nSECU Stadium\, College Park\, MD
+LOCATION:SECU Stadium\, College Park\, MD
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858242@open-sports-cal
+DTSTART:20260926T160000Z
+DTEND:20260926T190000Z
+SUMMARY:Virginia Tech Hokies @ Boston College Eagles
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Tech Hokies @ Boston College E
+ agles\nAlumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858245@open-sports-cal
+DTSTART:20261002T230000Z
+DTEND:20261003T020000Z
+SUMMARY:Pittsburgh Panthers @ Virginia Tech Hokies
+DESCRIPTION:NCAA FBS Football 2026\nPittsburgh Panthers @ Virginia Tech Hok
+ ies\nLane Stadium\, Blacksburg\, VA
+LOCATION:Lane Stadium\, Blacksburg\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858259@open-sports-cal
+DTSTART:20261010T193000Z
+DTEND:20261010T223000Z
+SUMMARY:Virginia Tech Hokies @ California Golden Bears
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Tech Hokies @ California Golde
+ n Bears\nCalifornia Memorial Stadium\, Berkeley\, CA
+LOCATION:California Memorial Stadium\, Berkeley\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858264@open-sports-cal
+DTSTART:20261017T193000Z
+DTEND:20261017T223000Z
+SUMMARY:Georgia Tech Yellow Jackets @ Virginia Tech Hokies
+DESCRIPTION:NCAA FBS Football 2026\nGeorgia Tech Yellow Jackets @ Virginia 
+ Tech Hokies\nLane Stadium\, Blacksburg\, VA
+LOCATION:Lane Stadium\, Blacksburg\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858276@open-sports-cal
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+SUMMARY:Virginia Tech Hokies @ Clemson Tigers
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Tech Hokies @ Clemson Tigers\n
+ Memorial Stadium (Clemson\, SC)\, Clemson\, SC
+LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, SC
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858288@open-sports-cal
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+SUMMARY:Virginia Tech Hokies @ SMU Mustangs
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Tech Hokies @ SMU Mustangs\nGe
+ rald J. Ford Stadium\, Dallas\, TX
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858299@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Stanford Cardinal @ Virginia Tech Hokies
+DESCRIPTION:NCAA FBS Football 2026\nStanford Cardinal @ Virginia Tech Hokie
+ s\nLane Stadium\, Blacksburg\, VA\nStart time TBD
+LOCATION:Lane Stadium\, Blacksburg\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858302@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Virginia Tech Hokies @ Miami Hurricanes
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Tech Hokies @ Miami Hurricanes
+ \nHard Rock Stadium\, Miami Gardens\, FL\nStart time TBD
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858317@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Virginia Cavaliers @ Virginia Tech Hokies
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Cavaliers @ Virginia Tech Hoki
+ es\nLane Stadium\, Blacksburg\, VA\nStart time TBD
+LOCATION:Lane Stadium\, Blacksburg\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

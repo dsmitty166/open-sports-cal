@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Tulane Green Wave
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858209@open-sports-cal
+DTSTART:20260905T193000Z
+DTEND:20260905T223000Z
+SUMMARY:Tulane Green Wave @ Duke Blue Devils
+DESCRIPTION:NCAA FBS Football 2026\nTulane Green Wave @ Duke Blue Devils\nW
+ allace Wade Stadium\, Durham\, NC
+LOCATION:Wallace Wade Stadium\, Durham\, NC
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864575@open-sports-cal
+DTSTART:20260912T230000Z
+DTEND:20260913T020000Z
+SUMMARY:South Alabama Jaguars @ Tulane Green Wave
+DESCRIPTION:NCAA FBS Football 2026\nSouth Alabama Jaguars @ Tulane Green Wa
+ ve\nYulman Stadium\, New Orleans\, LA
+LOCATION:Yulman Stadium\, New Orleans\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856792@open-sports-cal
+DTSTART:20260919T160000Z
+DTEND:20260919T190000Z
+SUMMARY:Tulane Green Wave @ Kansas State Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nTulane Green Wave @ Kansas State Wildca
+ ts\nBill Snyder Family Stadium\, Manhattan\, KS
+LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862784@open-sports-cal
+DTSTART:20260926T230000Z
+DTEND:20260927T020000Z
+SUMMARY:Southern Miss Golden Eagles @ Tulane Green Wave
+DESCRIPTION:NCAA FBS Football 2026\nSouthern Miss Golden Eagles @ Tulane Gr
+ een Wave\nYulman Stadium\, New Orleans\, LA
+LOCATION:Yulman Stadium\, New Orleans\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862795@open-sports-cal
+DTSTART:20261010T160000Z
+DTEND:20261010T190000Z
+SUMMARY:Tulane Green Wave @ Army Black Knights
+DESCRIPTION:NCAA FBS Football 2026\nTulane Green Wave @ Army Black Knights\
+ nMichie Stadium\, West Point\, NY
+LOCATION:Michie Stadium\, West Point\, NY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862801@open-sports-cal
+DTSTART:20261016T233000Z
+DTEND:20261017T023000Z
+SUMMARY:Memphis Tigers @ Tulane Green Wave
+DESCRIPTION:NCAA FBS Football 2026\nMemphis Tigers @ Tulane Green Wave\nYul
+ man Stadium\, New Orleans\, LA
+LOCATION:Yulman Stadium\, New Orleans\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862811@open-sports-cal
+DTSTART:20261025T000000Z
+DTEND:20261025T030000Z
+SUMMARY:UTSA Roadrunners @ Tulane Green Wave
+DESCRIPTION:NCAA FBS Football 2026\nUTSA Roadrunners @ Tulane Green Wave\nY
+ ulman Stadium\, New Orleans\, LA
+LOCATION:Yulman Stadium\, New Orleans\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862813@open-sports-cal
+DTSTART:20261030T230000Z
+DTEND:20261031T020000Z
+SUMMARY:Tulane Green Wave @ Charlotte 49ers
+DESCRIPTION:NCAA FBS Football 2026\nTulane Green Wave @ Charlotte 49ers\nJe
+ rry Richardson Stadium\, Charlotte\, NC
+LOCATION:Jerry Richardson Stadium\, Charlotte\, NC
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862822@open-sports-cal
+DTSTART:20261107T170000Z
+DTEND:20261107T200000Z
+SUMMARY:Tulsa Golden Hurricane @ Tulane Green Wave
+DESCRIPTION:NCAA FBS Football 2026\nTulsa Golden Hurricane @ Tulane Green W
+ ave\nYulman Stadium\, New Orleans\, LA
+LOCATION:Yulman Stadium\, New Orleans\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862828@open-sports-cal
+DTSTART:20261114T190000Z
+DTEND:20261114T220000Z
+SUMMARY:Tulane Green Wave @ Rice Owls
+DESCRIPTION:NCAA FBS Football 2026\nTulane Green Wave @ Rice Owls\nFirst Co
+ mmunity Stadium\, Houston\, TX
+LOCATION:First Community Stadium\, Houston\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862835@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:North Texas Mean Green @ Tulane Green Wave
+DESCRIPTION:NCAA FBS Football 2026\nNorth Texas Mean Green @ Tulane Green W
+ ave\nYulman Stadium\, New Orleans\, LA\nStart time TBD
+LOCATION:Yulman Stadium\, New Orleans\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862839@open-sports-cal
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Tulane Green Wave @ South Florida Bulls
+DESCRIPTION:NCAA FBS Football 2026\nTulane Green Wave @ South Florida Bulls
+ \nRaymond James Stadium\, Tampa\, FL\nStart time TBD
+LOCATION:Raymond James Stadium\, Tampa\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

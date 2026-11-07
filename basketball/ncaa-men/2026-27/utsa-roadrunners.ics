@@ -1,0 +1,428 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - UTSA Roadrunners
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401911469@open-sports-cal
+DTSTART:20261102T200000Z
+DTEND:20261102T230000Z
+SUMMARY:UTSA Roadrunners @ San José State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ San José Sta
+ te Spartans\nProvident Credit Union Event Center\, San Jose\, CA
+LOCATION:Provident Credit Union Event Center\, San Jose\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926201@open-sports-cal
+DTSTART:20261107T220000Z
+DTEND:20261108T010000Z
+SUMMARY:VMI Keydets @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ UTSA Roadrunners\n
+ UTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917521@open-sports-cal
+DTSTART:20261112T030000Z
+DTEND:20261112T060000Z
+SUMMARY:UTSA Roadrunners @ Seattle U Redhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Seattle U Red
+ hawks\nRedhawk Center\, Seattle\, WA
+LOCATION:Redhawk Center\, Seattle\, WA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929200@open-sports-cal
+DTSTART:20261116T010000Z
+DTEND:20261116T040000Z
+SUMMARY:Texas State Bobcats @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ UTSA Roadr
+ unners\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929420@open-sports-cal
+DTSTART:20261119T010000Z
+DTEND:20261119T040000Z
+SUMMARY:Florida A&M Rattlers @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida A&M Rattlers @ UTSA Road
+ runners\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911337@open-sports-cal
+DTSTART:20261121T220000Z
+DTEND:20261122T010000Z
+SUMMARY:Air Force Falcons @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ UTSA Roadrun
+ ners\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401912231@open-sports-cal
+DTSTART:20261126T170000Z
+DTEND:20261126T200000Z
+SUMMARY:Army Black Knights @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArmy Black Knights @ UTSA Roadru
+ nners\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926145@open-sports-cal
+DTSTART:20261129T210000Z
+DTEND:20261130T000000Z
+SUMMARY:UTSA Roadrunners @ SIU Edwardsville Cougars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ SIU Edwardsvi
+ lle Cougars\nFirst Community Arena\, Edwardsville\, IL
+LOCATION:First Community Arena\, Edwardsville\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929621@open-sports-cal
+DTSTART:20261205T200000Z
+DTEND:20261205T230000Z
+SUMMARY:UTSA Roadrunners @ South Alabama Jaguars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ South Alabama
+  Jaguars\nMitchell Center\, Mobile\, AL
+LOCATION:Mitchell Center\, Mobile\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401918974@open-sports-cal
+DTSTART:20261209T010000Z
+DTEND:20261209T040000Z
+SUMMARY:UTSA Roadrunners @ SMU Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ SMU Mustangs\
+ nMoody Coliseum (Dallas)\, Dallas\, TX
+LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926231@open-sports-cal
+DTSTART:20261211T170000Z
+DTEND:20261211T200000Z
+SUMMARY:Denver Pioneers @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDenver Pioneers @ UTSA Roadrunne
+ rs\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929622@open-sports-cal
+DTSTART:20261215T180000Z
+DTEND:20261215T210000Z
+SUMMARY:Our Lady of the Lake Saints @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOur Lady of the Lake Saints @ UT
+ SA Roadrunners\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929623@open-sports-cal
+DTSTART:20261222T180000Z
+DTEND:20261222T210000Z
+SUMMARY:Huston Tillotson Rams @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHuston Tillotson Rams @ UTSA Roa
+ drunners\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401916312@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:UTSA Roadrunners @ Minnesota Golden Gophers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Minnesota Gol
+ den Gophers\nThe Barn by Blue Cross and Blue Shield of Minnesota\, Minneap
+ olis\, MN
+LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
+ , MN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927638@open-sports-cal
+DTSTART:20270102T190000Z
+DTEND:20270102T220000Z
+SUMMARY:UTSA Roadrunners @ Temple Owls
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Temple Owls\n
+ Liacouras Center\, Philadelphia\, PA
+LOCATION:Liacouras Center\, Philadelphia\, PA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927648@open-sports-cal
+DTSTART:20270108T010000Z
+DTEND:20270108T040000Z
+SUMMARY:Tulsa Golden Hurricane @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ UTSA Ro
+ adrunners\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927651@open-sports-cal
+DTSTART:20270110T190000Z
+DTEND:20270110T220000Z
+SUMMARY:UTSA Roadrunners @ East Carolina Pirates
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ East Carolina
+  Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC
+LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927655@open-sports-cal
+DTSTART:20270114T000000Z
+DTEND:20270114T030000Z
+SUMMARY:UTSA Roadrunners @ Charlotte 49ers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Charlotte 49e
+ rs\nHalton Arena\, Charlotte\, NC
+LOCATION:Halton Arena\, Charlotte\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927666@open-sports-cal
+DTSTART:20270117T170000Z
+DTEND:20270117T200000Z
+SUMMARY:Tulane Green Wave @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTulane Green Wave @ UTSA Roadrun
+ ners\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927670@open-sports-cal
+DTSTART:20270121T010000Z
+DTEND:20270121T040000Z
+SUMMARY:UTSA Roadrunners @ Rice Owls
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Rice Owls\nTu
+ dor Fieldhouse\, Houston\, TX
+LOCATION:Tudor Fieldhouse\, Houston\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927676@open-sports-cal
+DTSTART:20270123T190000Z
+DTEND:20270123T220000Z
+SUMMARY:South Florida Bulls @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ UTSA Roadr
+ unners\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927682@open-sports-cal
+DTSTART:20270129T020000Z
+DTEND:20270129T050000Z
+SUMMARY:North Texas Mean Green @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Texas Mean Green @ UTSA Ro
+ adrunners\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927689@open-sports-cal
+DTSTART:20270131T190000Z
+DTEND:20270131T220000Z
+SUMMARY:UTSA Roadrunners @ Wichita State Shockers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Wichita State
+  Shockers\nCharles Koch Arena\, Wichita\, KS
+LOCATION:Charles Koch Arena\, Wichita\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927693@open-sports-cal
+DTSTART:20270205T010000Z
+DTEND:20270205T040000Z
+SUMMARY:Florida Atlantic Owls @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Atlantic Owls @ UTSA Roa
+ drunners\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927700@open-sports-cal
+DTSTART:20270207T190000Z
+DTEND:20270207T220000Z
+SUMMARY:Rice Owls @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ UTSA Roadrunners\nUT
+ SA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927711@open-sports-cal
+DTSTART:20270214T190000Z
+DTEND:20270214T220000Z
+SUMMARY:Memphis Tigers @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMemphis Tigers @ UTSA Roadrunner
+ s\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927718@open-sports-cal
+DTSTART:20270219T010000Z
+DTEND:20270219T040000Z
+SUMMARY:UTSA Roadrunners @ Tulane Green Wave
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Tulane Green 
+ Wave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, LA
+LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
+ A
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927724@open-sports-cal
+DTSTART:20270221T200000Z
+DTEND:20270221T230000Z
+SUMMARY:UTSA Roadrunners @ Tulsa Golden Hurricane
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Tulsa Golden 
+ Hurricane\nReynolds Center\, Tulsa\, OK
+LOCATION:Reynolds Center\, Tulsa\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927725@open-sports-cal
+DTSTART:20270225T010000Z
+DTEND:20270225T040000Z
+SUMMARY:East Carolina Pirates @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Carolina Pirates @ UTSA Roa
+ drunners\nUTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927731@open-sports-cal
+DTSTART:20270227T230000Z
+DTEND:20270228T020000Z
+SUMMARY:UTSA Roadrunners @ North Texas Mean Green
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ North Texas M
+ ean Green\nThe Super Pit\, Denton\, TX
+LOCATION:The Super Pit\, Denton\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927739@open-sports-cal
+DTSTART:20270305T020000Z
+DTEND:20270305T050000Z
+SUMMARY:UTSA Roadrunners @ UAB Blazers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ UAB Blazers\n
+ Bartow Arena\, Birmingham\, AL
+LOCATION:Bartow Arena\, Birmingham\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927747@open-sports-cal
+DTSTART:20270307T190000Z
+DTEND:20270307T220000Z
+SUMMARY:Temple Owls @ UTSA Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTemple Owls @ UTSA Roadrunners\n
+ UTSA Convocation Center\, San Antonio\, TX
+LOCATION:UTSA Convocation Center\, San Antonio\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

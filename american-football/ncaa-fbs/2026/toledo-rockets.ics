@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Toledo Rockets
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858429@open-sports-cal
+DTSTART:20260905T000000Z
+DTEND:20260905T030000Z
+SUMMARY:Toledo Rockets @ Michigan State Spartans
+DESCRIPTION:NCAA FBS Football 2026\nToledo Rockets @ Michigan State Spartan
+ s\nSpartan Stadium\, East Lansing\, MI
+LOCATION:Spartan Stadium\, East Lansing\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866419@open-sports-cal
+DTSTART:20260912T193000Z
+DTEND:20260912T223000Z
+SUMMARY:Central Connecticut Blue Devils @ Toledo Rockets
+DESCRIPTION:NCAA FBS Football 2026\nCentral Connecticut Blue Devils @ Toled
+ o Rockets\nGlass Bowl\, Toledo\, OH
+LOCATION:Glass Bowl\, Toledo\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862774@open-sports-cal
+DTSTART:20260919T190000Z
+DTEND:20260919T220000Z
+SUMMARY:Temple Owls @ Toledo Rockets
+DESCRIPTION:NCAA FBS Football 2026\nTemple Owls @ Toledo Rockets\nGlass Bow
+ l\, Toledo\, OH
+LOCATION:Glass Bowl\, Toledo\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860893@open-sports-cal
+DTSTART:20260926T160000Z
+DTEND:20260926T190000Z
+SUMMARY:San Diego State Aztecs @ Toledo Rockets
+DESCRIPTION:NCAA FBS Football 2026\nSan Diego State Aztecs @ Toledo Rockets
+ \nGlass Bowl\, Toledo\, OH
+LOCATION:Glass Bowl\, Toledo\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866431@open-sports-cal
+DTSTART:20261003T180000Z
+DTEND:20261003T210000Z
+SUMMARY:Toledo Rockets @ Ball State Cardinals
+DESCRIPTION:NCAA FBS Football 2026\nToledo Rockets @ Ball State Cardinals\n
+ Scheumann Stadium\, Muncie\, IN
+LOCATION:Scheumann Stadium\, Muncie\, IN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866437@open-sports-cal
+DTSTART:20261010T193000Z
+DTEND:20261010T223000Z
+SUMMARY:Buffalo Bulls @ Toledo Rockets
+DESCRIPTION:NCAA FBS Football 2026\nBuffalo Bulls @ Toledo Rockets\nGlass B
+ owl\, Toledo\, OH
+LOCATION:Glass Bowl\, Toledo\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866444@open-sports-cal
+DTSTART:20261017T193000Z
+DTEND:20261017T223000Z
+SUMMARY:Toledo Rockets @ Eastern Michigan Eagles
+DESCRIPTION:NCAA FBS Football 2026\nToledo Rockets @ Eastern Michigan Eagle
+ s\nRynearson Stadium\, Ypsilanti\, MI
+LOCATION:Rynearson Stadium\, Ypsilanti\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866450@open-sports-cal
+DTSTART:20261024T160000Z
+DTEND:20261024T190000Z
+SUMMARY:Western Michigan Broncos @ Toledo Rockets
+DESCRIPTION:NCAA FBS Football 2026\nWestern Michigan Broncos @ Toledo Rocke
+ ts\nGlass Bowl\, Toledo\, OH
+LOCATION:Glass Bowl\, Toledo\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866457@open-sports-cal
+DTSTART:20261105T000000Z
+DTEND:20261105T030000Z
+SUMMARY:Toledo Rockets @ Sacramento State Hornets
+DESCRIPTION:NCAA FBS Football 2026\nToledo Rockets @ Sacramento State Horne
+ ts\nHornet Stadium\, Sacramento\, CA
+LOCATION:Hornet Stadium\, Sacramento\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866463@open-sports-cal
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Massachusetts Minutemen @ Toledo Rockets
+DESCRIPTION:NCAA FBS Football 2026\nMassachusetts Minutemen @ Toledo Rocket
+ s\nGlass Bowl\, Toledo\, OH\nStart time TBD
+LOCATION:Glass Bowl\, Toledo\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866468@open-sports-cal
+DTSTART:20261121T003000Z
+DTEND:20261121T033000Z
+SUMMARY:Bowling Green Falcons @ Toledo Rockets
+DESCRIPTION:NCAA FBS Football 2026\nBowling Green Falcons @ Toledo Rockets\
+ nGlass Bowl\, Toledo\, OH
+LOCATION:Glass Bowl\, Toledo\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866473@open-sports-cal
+DTSTART:20261127T170000Z
+DTEND:20261127T200000Z
+SUMMARY:Toledo Rockets @ Ohio Bobcats
+DESCRIPTION:NCAA FBS Football 2026\nToledo Rockets @ Ohio Bobcats\nPeden St
+ adium\, Athens\, OH
+LOCATION:Peden Stadium\, Athens\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

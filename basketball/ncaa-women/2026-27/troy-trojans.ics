@@ -1,0 +1,415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Women's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Women's Basketball 2026-27 - Troy Trojans
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-women-401927491@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:Troy Trojans @ Kent State Golden Flashes
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Kent State Gold
+ en Flashes\nM.A.C. Center\, Kent\, OH
+LOCATION:M.A.C. Center\, Kent\, OH
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401927492@open-sports-cal
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:Thomas Night Hawks @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nThomas Night Hawks @ Troy Troj
+ ans\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918856@open-sports-cal
+DTSTART:20261112T003000Z
+DTEND:20261112T033000Z
+SUMMARY:Troy Trojans @ Mississippi State Bulldogs
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Mississippi Sta
+ te Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+LOCATION:Humphrey Coliseum\, Starkville\, MS
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401919663@open-sports-cal
+DTSTART:20261113T170000Z
+DTEND:20261113T200000Z
+SUMMARY:Troy Trojans @ Belmont Bruins
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Belmont Bruins\
+ nCurb Event Center Arena\, Nashville\, TN
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912968@open-sports-cal
+DTSTART:20261117T010000Z
+DTEND:20261117T040000Z
+SUMMARY:Troy Trojans @ LSU Tigers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ LSU Tigers\nPet
+ e Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922327@open-sports-cal
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Longwood Lancers @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Troy Trojan
+ s\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401920468@open-sports-cal
+DTSTART:20261127T233000Z
+DTEND:20261128T023000Z
+SUMMARY:Troy Trojans @ UC Davis Aggies
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ UC Davis Aggies
+ \nLawlor Events Center\, Reno\, NV\nNeutral site
+LOCATION:Lawlor Events Center\, Reno\, NV
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401920271@open-sports-cal
+DTSTART:20261129T210000Z
+DTEND:20261130T000000Z
+SUMMARY:Troy Trojans @ Nevada Wolf Pack
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Nevada Wolf Pac
+ k\nLawlor Events Center\, Reno\, NV
+LOCATION:Lawlor Events Center\, Reno\, NV
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918614@open-sports-cal
+DTSTART:20261205T200000Z
+DTEND:20261205T230000Z
+SUMMARY:Alabama State Lady Hornets @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ T
+ roy Trojans\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401927493@open-sports-cal
+DTSTART:20261212T211500Z
+DTEND:20261213T001500Z
+SUMMARY:Colorado State Rams @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Troy Tro
+ jans\nJenny Craig Pavilion\, San Diego\, CA\nNeutral site
+LOCATION:Jenny Craig Pavilion\, San Diego\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918777@open-sports-cal
+DTSTART:20261213T170000Z
+DTEND:20261213T200000Z
+SUMMARY:Oral Roberts Golden Eagles @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOral Roberts Golden Eagles @ T
+ roy Trojans\nJenny Craig Pavilion\, San Diego\, CA\nNeutral site
+LOCATION:Jenny Craig Pavilion\, San Diego\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912074@open-sports-cal
+DTSTART:20261216T231500Z
+DTEND:20261217T021500Z
+SUMMARY:UL Monroe Warhawks @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nUL Monroe Warhawks @ Troy Troj
+ ans\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912195@open-sports-cal
+DTSTART:20261219T190000Z
+DTEND:20261219T220000Z
+SUMMARY:Troy Trojans @ Georgia State Panthers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Georgia State P
+ anthers\nGSU Convocation Center\, Atlanta\, GA
+LOCATION:GSU Convocation Center\, Atlanta\, GA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912083@open-sports-cal
+DTSTART:20261231T000000Z
+DTEND:20261231T030000Z
+SUMMARY:Marshall Thundering Herd @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Tro
+ y Trojans\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912093@open-sports-cal
+DTSTART:20270102T213000Z
+DTEND:20270103T003000Z
+SUMMARY:James Madison Dukes @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nJames Madison Dukes @ Troy Tro
+ jans\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912099@open-sports-cal
+DTSTART:20270106T230000Z
+DTEND:20270107T020000Z
+SUMMARY:Troy Trojans @ Coastal Carolina Chanticleers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Coastal Carolin
+ a Chanticleers\nThe HTC Center\, Conway\, SC
+LOCATION:The HTC Center\, Conway\, SC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912105@open-sports-cal
+DTSTART:20270109T190000Z
+DTEND:20270109T220000Z
+SUMMARY:Troy Trojans @ Georgia Southern Eagles
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Georgia Souther
+ n Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912112@open-sports-cal
+DTSTART:20270113T230000Z
+DTEND:20270114T020000Z
+SUMMARY:Troy Trojans @ Southern Miss Lady Eagles
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Southern Miss L
+ ady Eagles\nReed Green Coliseum\, Hattiesburg\, MS
+LOCATION:Reed Green Coliseum\, Hattiesburg\, MS
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912122@open-sports-cal
+DTSTART:20270116T180000Z
+DTEND:20270116T210000Z
+SUMMARY:Troy Trojans @ Arkansas State Red Wolves
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Arkansas State 
+ Red Wolves\nFirst National Bank Arena\, Jonesboro\, AR
+LOCATION:First National Bank Arena\, Jonesboro\, AR
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912129@open-sports-cal
+DTSTART:20270123T213000Z
+DTEND:20270124T003000Z
+SUMMARY:App State Mountaineers @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Troy 
+ Trojans\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912141@open-sports-cal
+DTSTART:20270129T003000Z
+DTEND:20270129T033000Z
+SUMMARY:Troy Trojans @ UL Monroe Warhawks
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ UL Monroe Warha
+ wks\nb1Bank Fant Coliseum\, Monroe\, LA
+LOCATION:b1Bank Fant Coliseum\, Monroe\, LA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912148@open-sports-cal
+DTSTART:20270130T233000Z
+DTEND:20270131T023000Z
+SUMMARY:Troy Trojans @ Louisiana Tech Lady Techsters
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Louisiana Tech 
+ Lady Techsters\nThomas Assembly Center\, Ruston\, LA
+LOCATION:Thomas Assembly Center\, Ruston\, LA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912153@open-sports-cal
+DTSTART:20270204T000000Z
+DTEND:20270204T030000Z
+SUMMARY:South Alabama Jaguars @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Alabama Jaguars @ Troy T
+ rojans\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912161@open-sports-cal
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:Troy Trojans @ Louisiana Ragin' Cajuns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Louisiana Ragin
+ ' Cajuns\nCajundome\, Lafayette\, LA
+LOCATION:Cajundome\, Lafayette\, LA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912167@open-sports-cal
+DTSTART:20270213T200000Z
+DTEND:20270213T230000Z
+SUMMARY:Troy Trojans @ South Alabama Jaguars
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ South Alabama J
+ aguars\nMitchell Center\, Mobile\, AL
+LOCATION:Mitchell Center\, Mobile\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912171@open-sports-cal
+DTSTART:20270218T000000Z
+DTEND:20270218T030000Z
+SUMMARY:Southern Miss Lady Eagles @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Miss Lady Eagles @ Tr
+ oy Trojans\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912176@open-sports-cal
+DTSTART:20270220T200000Z
+DTEND:20270220T230000Z
+SUMMARY:Arkansas State Red Wolves @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas State Red Wolves @ Tr
+ oy Trojans\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912184@open-sports-cal
+DTSTART:20270224T000000Z
+DTEND:20270224T030000Z
+SUMMARY:Louisiana Tech Lady Techsters @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisiana Tech Lady Techsters 
+ @ Troy Trojans\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912191@open-sports-cal
+DTSTART:20270227T000000Z
+DTEND:20270227T030000Z
+SUMMARY:Louisiana Ragin' Cajuns @ Troy Trojans
+DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Troy
+  Trojans\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

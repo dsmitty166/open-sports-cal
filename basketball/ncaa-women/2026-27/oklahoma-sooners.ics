@@ -1,0 +1,443 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Women's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Women's Basketball 2026-27 - Oklahoma Sooners
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-women-401906088@open-sports-cal
+DTSTART:20261102T195000Z
+DTEND:20261102T225000Z
+SUMMARY:Oklahoma Sooners @ North Carolina Tar Heels
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ North Carol
+ ina Tar Heels\nAdidas Arena\, Paris\, France\nNeutral site
+LOCATION:Adidas Arena\, Paris\, France
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:Europe/Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401927414@open-sports-cal
+DTSTART:20261108T200000Z
+DTEND:20261108T230000Z
+SUMMARY:Morgan State Lady Bears @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Okla
+ homa Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401929062@open-sports-cal
+DTSTART:20261111T000000Z
+DTEND:20261111T030000Z
+SUMMARY:San José State Spartans @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSan José State Spartans @ Okl
+ ahoma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918773@open-sports-cal
+DTSTART:20261113T163000Z
+DTEND:20261113T193000Z
+SUMMARY:Oral Roberts Golden Eagles @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOral Roberts Golden Eagles @ O
+ klahoma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401929063@open-sports-cal
+DTSTART:20261115T190000Z
+DTEND:20261115T220000Z
+SUMMARY:Southern Jaguars @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Oklahoma So
+ oners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401923340@open-sports-cal
+DTSTART:20261118T020000Z
+DTEND:20261118T050000Z
+SUMMARY:Texas Southern Tigers @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Southern Tigers @ Oklaho
+ ma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922832@open-sports-cal
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Northwestern State Lady Demons @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwestern State Lady Demons
+  @ Oklahoma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401923673@open-sports-cal
+DTSTART:20261123T193000Z
+DTEND:20261123T223000Z
+SUMMARY:Oklahoma Sooners @ Virginia Cavaliers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Virginia Ca
+ valiers\nThe Reef\, Jacksonville\, FL\nNeutral site
+LOCATION:The Reef\, Jacksonville\, FL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401923670@open-sports-cal
+DTSTART:20261124T210000Z
+DTEND:20261125T000000Z
+SUMMARY:Oklahoma Sooners @ Montana State Bobcats
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Montana Sta
+ te Bobcats\nThe Reef\, Jacksonville\, FL\nNeutral site
+LOCATION:The Reef\, Jacksonville\, FL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401921392@open-sports-cal
+DTSTART:20261204T000000Z
+DTEND:20261204T030000Z
+SUMMARY:Oklahoma Sooners @ Syracuse Orange
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Syracuse Or
+ ange\nJMA Wireless Dome\, Syracuse\, NY
+LOCATION:JMA Wireless Dome\, Syracuse\, NY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401927072@open-sports-cal
+DTSTART:20261205T070000Z
+DTEND:20261205T100000Z
+SUMMARY:Michigan Wolverines @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMichigan Wolverines @ Oklahoma
+  Sooners\nBarclaycard Center\, Madrid\, Spain\nNeutral site
+LOCATION:Barclaycard Center\, Madrid\, Spain
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:Europe/Madrid
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401928017@open-sports-cal
+DTSTART:20261210T000000Z
+DTEND:20261210T030000Z
+SUMMARY:SIU Edwardsville Cougars @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSIU Edwardsville Cougars @ Okl
+ ahoma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401907096@open-sports-cal
+DTSTART:20261212T170000Z
+DTEND:20261212T200000Z
+SUMMARY:Oklahoma State Cowgirls @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Okla
+ homa Sooners\nPaycom Center\, Oklahoma City\, OK\nNeutral site
+LOCATION:Paycom Center\, Oklahoma City\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918653@open-sports-cal
+DTSTART:20261221T190000Z
+DTEND:20261221T220000Z
+SUMMARY:UL Monroe Warhawks @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nUL Monroe Warhawks @ Oklahoma 
+ Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912829@open-sports-cal
+DTSTART:20270101T010000Z
+DTEND:20270101T040000Z
+SUMMARY:Oklahoma Sooners @ Ole Miss Rebels
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Ole Miss Re
+ bels\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+LOCATION:The Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912836@open-sports-cal
+DTSTART:20270103T210000Z
+DTEND:20270104T000000Z
+SUMMARY:Missouri Tigers @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMissouri Tigers @ Oklahoma Soo
+ ners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912846@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Georgia Lady Bulldogs @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Lady Bulldogs @ Oklaho
+ ma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912853@open-sports-cal
+DTSTART:20270110T220000Z
+DTEND:20270111T010000Z
+SUMMARY:Oklahoma Sooners @ Tennessee Lady Volunteers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Tennessee L
+ ady Volunteers\nFood City Center\, Knoxville\, TN
+LOCATION:Food City Center\, Knoxville\, TN
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912860@open-sports-cal
+DTSTART:20270115T003000Z
+DTEND:20270115T033000Z
+SUMMARY:Oklahoma Sooners @ South Carolina Gamecocks
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ South Carol
+ ina Gamecocks\nColonial Life Arena\, Columbia\, SC
+LOCATION:Colonial Life Arena\, Columbia\, SC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401929064@open-sports-cal
+DTSTART:20270118T170000Z
+DTEND:20270118T200000Z
+SUMMARY:Oklahoma Sooners @ UCLA Bruins
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ UCLA Bruins
+ \nPrudential Center\, Newark\, NJ\nNeutral site
+LOCATION:Prudential Center\, Newark\, NJ
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912871@open-sports-cal
+DTSTART:20270122T003000Z
+DTEND:20270122T033000Z
+SUMMARY:Oklahoma Sooners @ Mississippi State Bulldogs
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Mississippi
+  State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+LOCATION:Humphrey Coliseum\, Starkville\, MS
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912879@open-sports-cal
+DTSTART:20270124T190000Z
+DTEND:20270124T220000Z
+SUMMARY:Kentucky Wildcats @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ Oklahoma S
+ ooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912884@open-sports-cal
+DTSTART:20270129T020000Z
+DTEND:20270129T050000Z
+SUMMARY:Vanderbilt Commodores @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Oklaho
+ ma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912891@open-sports-cal
+DTSTART:20270131T190000Z
+DTEND:20270131T220000Z
+SUMMARY:Oklahoma Sooners @ Texas A&M Aggies
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Texas A&M A
+ ggies\nReed Arena\, College Station\, TX
+LOCATION:Reed Arena\, College Station\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912900@open-sports-cal
+DTSTART:20270205T000000Z
+DTEND:20270205T030000Z
+SUMMARY:Alabama Crimson Tide @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Oklahom
+ a Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912910@open-sports-cal
+DTSTART:20270209T000000Z
+DTEND:20270209T030000Z
+SUMMARY:South Carolina Gamecocks @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Gamecocks @ Okl
+ ahoma Sooners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912913@open-sports-cal
+DTSTART:20270212T003000Z
+DTEND:20270212T033000Z
+SUMMARY:Oklahoma Sooners @ Arkansas Razorbacks
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Arkansas Ra
+ zorbacks\nBud Walton Arena\, Fayetteville\, AR
+LOCATION:Bud Walton Arena\, Fayetteville\, AR
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912923@open-sports-cal
+DTSTART:20270214T170000Z
+DTEND:20270214T200000Z
+SUMMARY:Oklahoma Sooners @ Florida Gators
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Florida Gat
+ ors\nStephen C. O'Connell Center\, Gainesville\, FL
+LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912930@open-sports-cal
+DTSTART:20270221T200000Z
+DTEND:20270221T230000Z
+SUMMARY:Auburn Tigers @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Oklahoma Soone
+ rs\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912938@open-sports-cal
+DTSTART:20270226T010000Z
+DTEND:20270226T040000Z
+SUMMARY:Texas Longhorns @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Oklahoma Soo
+ ners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912947@open-sports-cal
+DTSTART:20270228T190000Z
+DTEND:20270228T220000Z
+SUMMARY:Oklahoma Sooners @ LSU Tigers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ LSU Tigers\
+ nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

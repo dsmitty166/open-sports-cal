@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Wisconsin Badgers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858438@open-sports-cal
+DTSTART:20260906T233000Z
+DTEND:20260907T023000Z
+SUMMARY:Wisconsin Badgers @ Notre Dame Fighting Irish
+DESCRIPTION:NCAA FBS Football 2026\nWisconsin Badgers @ Notre Dame Fighting
+  Irish\nLambeau Field\, Green Bay\, WI\nNeutral site
+LOCATION:Lambeau Field\, Green Bay\, WI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858447@open-sports-cal
+DTSTART:20260912T231500Z
+DTEND:20260913T021500Z
+SUMMARY:Western Illinois Leathernecks @ Wisconsin Badgers
+DESCRIPTION:NCAA FBS Football 2026\nWestern Illinois Leathernecks @ Wiscons
+ in Badgers\nCamp Randall Stadium\, Madison\, WI
+LOCATION:Camp Randall Stadium\, Madison\, WI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858460@open-sports-cal
+DTSTART:20260919T163000Z
+DTEND:20260919T193000Z
+SUMMARY:Eastern Michigan Eagles @ Wisconsin Badgers
+DESCRIPTION:NCAA FBS Football 2026\nEastern Michigan Eagles @ Wisconsin Bad
+ gers\nCamp Randall Stadium\, Madison\, WI
+LOCATION:Camp Randall Stadium\, Madison\, WI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858466@open-sports-cal
+DTSTART:20260926T210000Z
+DTEND:20260927T000000Z
+SUMMARY:Wisconsin Badgers @ Penn State Nittany Lions
+DESCRIPTION:NCAA FBS Football 2026\nWisconsin Badgers @ Penn State Nittany 
+ Lions\nBeaver Stadium\, University Park\, PA
+LOCATION:Beaver Stadium\, University Park\, PA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858479@open-sports-cal
+DTSTART:20261003T163000Z
+DTEND:20261003T193000Z
+SUMMARY:Michigan State Spartans @ Wisconsin Badgers
+DESCRIPTION:NCAA FBS Football 2026\nMichigan State Spartans @ Wisconsin Bad
+ gers\nCamp Randall Stadium\, Madison\, WI
+LOCATION:Camp Randall Stadium\, Madison\, WI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858494@open-sports-cal
+DTSTART:20261017T233000Z
+DTEND:20261018T023000Z
+SUMMARY:Wisconsin Badgers @ UCLA Bruins
+DESCRIPTION:NCAA FBS Football 2026\nWisconsin Badgers @ UCLA Bruins\nRose B
+ owl\, Pasadena\, CA
+LOCATION:Rose Bowl\, Pasadena\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858500@open-sports-cal
+DTSTART:20261024T233000Z
+DTEND:20261025T023000Z
+SUMMARY:USC Trojans @ Wisconsin Badgers
+DESCRIPTION:NCAA FBS Football 2026\nUSC Trojans @ Wisconsin Badgers\nCamp R
+ andall Stadium\, Madison\, WI
+LOCATION:Camp Randall Stadium\, Madison\, WI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858502@open-sports-cal
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:Wisconsin Badgers @ Iowa Hawkeyes
+DESCRIPTION:NCAA FBS Football 2026\nWisconsin Badgers @ Iowa Hawkeyes\nKinn
+ ick Stadium\, Iowa City\, IA
+LOCATION:Kinnick Stadium\, Iowa City\, IA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858517@open-sports-cal
+DTSTART:20261107T211500Z
+DTEND:20261108T001500Z
+SUMMARY:Rutgers Scarlet Knights @ Wisconsin Badgers
+DESCRIPTION:NCAA FBS Football 2026\nRutgers Scarlet Knights @ Wisconsin Bad
+ gers\nCamp Randall Stadium\, Madison\, WI
+LOCATION:Camp Randall Stadium\, Madison\, WI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858520@open-sports-cal
+DTSTART:20261114T170000Z
+DTEND:20261114T200000Z
+SUMMARY:Wisconsin Badgers @ Maryland Terrapins
+DESCRIPTION:NCAA FBS Football 2026\nWisconsin Badgers @ Maryland Terrapins\
+ nSECU Stadium\, College Park\, MD
+LOCATION:SECU Stadium\, College Park\, MD
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858533@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Wisconsin Badgers @ Purdue Boilermakers
+DESCRIPTION:NCAA FBS Football 2026\nWisconsin Badgers @ Purdue Boilermakers
+ \nRoss-Ade Stadium\, West Lafayette\, IN\nStart time TBD
+LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858544@open-sports-cal
+DTSTART:20261128T003000Z
+DTEND:20261128T033000Z
+SUMMARY:Minnesota Golden Gophers @ Wisconsin Badgers
+DESCRIPTION:NCAA FBS Football 2026\nMinnesota Golden Gophers @ Wisconsin Ba
+ dgers\nCamp Randall Stadium\, Madison\, WI
+LOCATION:Camp Randall Stadium\, Madison\, WI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

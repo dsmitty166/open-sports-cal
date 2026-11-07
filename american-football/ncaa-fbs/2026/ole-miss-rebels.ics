@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Ole Miss Rebels
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856661@open-sports-cal
+DTSTART:20260906T233000Z
+DTEND:20260907T023000Z
+SUMMARY:Louisville Cardinals @ Ole Miss Rebels
+DESCRIPTION:NCAA FBS Football 2026\nLouisville Cardinals @ Ole Miss Rebels\
+ nNissan Stadium\, Nashville\, TN\nNeutral site
+LOCATION:Nissan Stadium\, Nashville\, TN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856676@open-sports-cal
+DTSTART:20260912T234500Z
+DTEND:20260913T024500Z
+SUMMARY:Charlotte 49ers @ Ole Miss Rebels
+DESCRIPTION:NCAA FBS Football 2026\nCharlotte 49ers @ Ole Miss Rebels\nVaug
+ ht-Hemingway Stadium\, Oxford\, MS
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856688@open-sports-cal
+DTSTART:20260919T233000Z
+DTEND:20260920T023000Z
+SUMMARY:LSU Tigers @ Ole Miss Rebels
+DESCRIPTION:NCAA FBS Football 2026\nLSU Tigers @ Ole Miss Rebels\nVaught-He
+ mingway Stadium\, Oxford\, MS
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856699@open-sports-cal
+DTSTART:20260926T193000Z
+DTEND:20260926T223000Z
+SUMMARY:Ole Miss Rebels @ Florida Gators
+DESCRIPTION:NCAA FBS Football 2026\nOle Miss Rebels @ Florida Gators\nBen H
+ ill Griffin Stadium\, Gainesville\, FL
+LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856718@open-sports-cal
+DTSTART:20261010T193000Z
+DTEND:20261010T223000Z
+SUMMARY:Ole Miss Rebels @ Vanderbilt Commodores
+DESCRIPTION:NCAA FBS Football 2026\nOle Miss Rebels @ Vanderbilt Commodores
+ \nFirstBank Stadium\, Nashville\, TN
+LOCATION:FirstBank Stadium\, Nashville\, TN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856721@open-sports-cal
+DTSTART:20261017T193000Z
+DTEND:20261017T223000Z
+SUMMARY:Missouri Tigers @ Ole Miss Rebels
+DESCRIPTION:NCAA FBS Football 2026\nMissouri Tigers @ Ole Miss Rebels\nVaug
+ ht-Hemingway Stadium\, Oxford\, MS
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856732@open-sports-cal
+DTSTART:20261024T233000Z
+DTEND:20261025T023000Z
+SUMMARY:Ole Miss Rebels @ Texas Longhorns
+DESCRIPTION:NCAA FBS Football 2026\nOle Miss Rebels @ Texas Longhorns\nDKR-
+ Texas Memorial Stadium\, Austin\, TX
+LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856735@open-sports-cal
+DTSTART:20261031T164500Z
+DTEND:20261031T194500Z
+SUMMARY:Auburn Tigers @ Ole Miss Rebels
+DESCRIPTION:NCAA FBS Football 2026\nAuburn Tigers @ Ole Miss Rebels\nVaught
+ -Hemingway Stadium\, Oxford\, MS
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856741@open-sports-cal
+DTSTART:20261108T003000Z
+DTEND:20261108T033000Z
+SUMMARY:Georgia Bulldogs @ Ole Miss Rebels
+DESCRIPTION:NCAA FBS Football 2026\nGeorgia Bulldogs @ Ole Miss Rebels\nVau
+ ght-Hemingway Stadium\, Oxford\, MS
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856887@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Ole Miss Rebels @ Oklahoma Sooners
+DESCRIPTION:NCAA FBS Football 2026\nOle Miss Rebels @ Oklahoma Sooners\nMem
+ orial Stadium (Norman\, OK)\, Norman\, OK\nStart time TBD
+LOCATION:Memorial Stadium (Norman\, OK)\, Norman\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856749@open-sports-cal
+DTSTART:20261121T170000Z
+DTEND:20261121T200000Z
+SUMMARY:Wofford Terriers @ Ole Miss Rebels
+DESCRIPTION:NCAA FBS Football 2026\nWofford Terriers @ Ole Miss Rebels\nVau
+ ght-Hemingway Stadium\, Oxford\, MS
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856762@open-sports-cal
+DTSTART:20261127T170000Z
+DTEND:20261127T200000Z
+SUMMARY:Mississippi State Bulldogs @ Ole Miss Rebels
+DESCRIPTION:NCAA FBS Football 2026\nMississippi State Bulldogs @ Ole Miss R
+ ebels\nVaught-Hemingway Stadium\, Oxford\, MS
+LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

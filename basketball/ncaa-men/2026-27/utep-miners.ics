@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - UTEP Miners
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401911532@open-sports-cal
+DTSTART:20261102T193000Z
+DTEND:20261102T223000Z
+SUMMARY:UTEP Miners @ Northern Kentucky Norse
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ Northern Kentucky 
+ Norse\nSanford Pentagon\, Sioux Falls\, SD\nNeutral site
+LOCATION:Sanford Pentagon\, Sioux Falls\, SD
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929352@open-sports-cal
+DTSTART:20261109T000000Z
+DTEND:20261109T030000Z
+SUMMARY:Incarnate Word Cardinals @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIncarnate Word Cardinals @ UTEP 
+ Miners\nDon Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911533@open-sports-cal
+DTSTART:20261113T020000Z
+DTEND:20261113T050000Z
+SUMMARY:New Mexico State Aggies @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Mexico State Aggies @ UTEP M
+ iners\nDon Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929419@open-sports-cal
+DTSTART:20261116T010000Z
+DTEND:20261116T040000Z
+SUMMARY:Florida A&M Rattlers @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida A&M Rattlers @ UTEP Mine
+ rs\nDon Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911534@open-sports-cal
+DTSTART:20261120T020000Z
+DTEND:20261120T050000Z
+SUMMARY:UTEP Miners @ New Mexico State Aggies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ New Mexico State A
+ ggies\nPan American Center\, Las Cruces\, NM
+LOCATION:Pan American Center\, Las Cruces\, NM
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911535@open-sports-cal
+DTSTART:20261125T013000Z
+DTEND:20261125T043000Z
+SUMMARY:Charleston Cougars @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Cougars @ UTEP Miners
+ \nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral site
+LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Cancun
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909764@open-sports-cal
+DTSTART:20261202T020000Z
+DTEND:20261202T050000Z
+SUMMARY:UTEP Miners @ Colorado Buffaloes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ Colorado Buffaloes
+ \nCU Events Center\, Boulder\, CO
+LOCATION:CU Events Center\, Boulder\, CO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911536@open-sports-cal
+DTSTART:20261205T210000Z
+DTEND:20261206T000000Z
+SUMMARY:North Dakota Fighting Hawks @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Dakota Fighting Hawks @ UT
+ EP Miners\nDon Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401930159@open-sports-cal
+DTSTART:20261217T020000Z
+DTEND:20261217T050000Z
+SUMMARY:UT Permian Basin Falcons @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Permian Basin Falcons @ UTEP 
+ Miners\nDon Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401930158@open-sports-cal
+DTSTART:20261221T020000Z
+DTEND:20261221T050000Z
+SUMMARY:Howard Bison @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ UTEP Miners\nDon 
+ Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929618@open-sports-cal
+DTSTART:20261230T020000Z
+DTEND:20261230T050000Z
+SUMMARY:New Mexico Highlands Cowboys @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Mexico Highlands Cowboys @ U
+ TEP Miners\nDon Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911537@open-sports-cal
+DTSTART:20270103T010000Z
+DTEND:20270103T040000Z
+SUMMARY:New Mexico Lobos @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Mexico Lobos @ UTEP Miners\n
+ Don Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911538@open-sports-cal
+DTSTART:20270106T020000Z
+DTEND:20270106T050000Z
+SUMMARY:Wyoming Cowboys @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWyoming Cowboys @ UTEP Miners\nD
+ on Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911539@open-sports-cal
+DTSTART:20270109T190000Z
+DTEND:20270109T220000Z
+SUMMARY:UTEP Miners @ Air Force Falcons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ Air Force Falcons\
+ nClune Arena\, Colorado Springs\, CO
+LOCATION:Clune Arena\, Colorado Springs\, CO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911440@open-sports-cal
+DTSTART:20270113T030000Z
+DTEND:20270113T060000Z
+SUMMARY:Nevada Wolf Pack @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNevada Wolf Pack @ UTEP Miners\n
+ Don Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911540@open-sports-cal
+DTSTART:20270117T030000Z
+DTEND:20270117T060000Z
+SUMMARY:UTEP Miners @ UNLV Rebels
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ UNLV Rebels\nThoma
+ s & Mack Center\, Las Vegas\, NV
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911541@open-sports-cal
+DTSTART:20270120T013000Z
+DTEND:20270120T043000Z
+SUMMARY:UTEP Miners @ Wyoming Cowboys
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ Wyoming Cowboys\nA
+ rena-Auditorium\, Laramie\, WY
+LOCATION:Arena-Auditorium\, Laramie\, WY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911542@open-sports-cal
+DTSTART:20270124T020000Z
+DTEND:20270124T050000Z
+SUMMARY:UC Davis Aggies @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ UTEP Miners\nD
+ on Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911443@open-sports-cal
+DTSTART:20270127T040000Z
+DTEND:20270127T070000Z
+SUMMARY:UTEP Miners @ Nevada Wolf Pack
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ Nevada Wolf Pack\n
+ Lawlor Events Center\, Reno\, NV
+LOCATION:Lawlor Events Center\, Reno\, NV
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911484@open-sports-cal
+DTSTART:20270131T020000Z
+DTEND:20270131T050000Z
+SUMMARY:San José State Spartans @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSan José State Spartans @ UTEP 
+ Miners\nDon Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911430@open-sports-cal
+DTSTART:20270207T045900Z
+DTEND:20270207T075900Z
+SUMMARY:UTEP Miners @ Hawai'i Rainbow Warriors
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ Hawai'i Rainbow Wa
+ rriors\nStan Sheriff Center\, Honolulu\, HI
+LOCATION:Stan Sheriff Center\, Honolulu\, HI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:Pacific/Honolulu
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911366@open-sports-cal
+DTSTART:20270210T030000Z
+DTEND:20270210T060000Z
+SUMMARY:Grand Canyon Lopes @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ UTEP Miners
+ \nDon Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911543@open-sports-cal
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:UTEP Miners @ UC Davis Aggies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ UC Davis Aggies\nU
+ niversity Credit Union Center\, Davis\, CA
+LOCATION:University Credit Union Center\, Davis\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911544@open-sports-cal
+DTSTART:20270217T010000Z
+DTEND:20270217T040000Z
+SUMMARY:UNLV Rebels @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNLV Rebels @ UTEP Miners\nDon H
+ askins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911545@open-sports-cal
+DTSTART:20270221T033000Z
+DTEND:20270221T063000Z
+SUMMARY:UTEP Miners @ New Mexico Lobos
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ New Mexico Lobos\n
+ The Pit\, Albuquerque\, NM
+LOCATION:The Pit\, Albuquerque\, NM
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911370@open-sports-cal
+DTSTART:20270224T030000Z
+DTEND:20270224T060000Z
+SUMMARY:UTEP Miners @ Grand Canyon Lopes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ Grand Canyon Lopes
+ \nGlobal Credit Union Arena\, Phoenix\, AZ
+LOCATION:Global Credit Union Arena\, Phoenix\, AZ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911436@open-sports-cal
+DTSTART:20270228T020000Z
+DTEND:20270228T050000Z
+SUMMARY:Hawai'i Rainbow Warriors @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHawai'i Rainbow Warriors @ UTEP 
+ Miners\nDon Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911490@open-sports-cal
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:UTEP Miners @ San José State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ San José State Sp
+ artans\nProvident Credit Union Event Center\, San Jose\, CA\nStart time TB
+ D
+LOCATION:Provident Credit Union Event Center\, San Jose\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911546@open-sports-cal
+DTSTART:20270306T210000Z
+DTEND:20270307T000000Z
+SUMMARY:Air Force Falcons @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ UTEP Miners\
+ nDon Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+END:VCALENDAR

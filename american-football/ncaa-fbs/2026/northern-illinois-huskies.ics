@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Northern Illinois Huskies
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858426@open-sports-cal
+DTSTART:20260905T201500Z
+DTEND:20260905T231500Z
+SUMMARY:Northern Illinois Huskies @ Iowa Hawkeyes
+DESCRIPTION:NCAA FBS Football 2026\nNorthern Illinois Huskies @ Iowa Hawkey
+ es\nKinnick Stadium\, Iowa City\, IA
+LOCATION:Kinnick Stadium\, Iowa City\, IA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864503@open-sports-cal
+DTSTART:20260912T230000Z
+DTEND:20260913T020000Z
+SUMMARY:Illinois State Redbirds @ Northern Illinois Huskies
+DESCRIPTION:NCAA FBS Football 2026\nIllinois State Redbirds @ Northern Illi
+ nois Huskies\nHuskie Stadium\, Dekalb\, IL
+LOCATION:Huskie Stadium\, Dekalb\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856793@open-sports-cal
+DTSTART:20260920T023000Z
+DTEND:20260920T053000Z
+SUMMARY:Northern Illinois Huskies @ Arizona Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nNorthern Illinois Huskies @ Arizona Wil
+ dcats\nCasino Del Sol Stadium\, Tucson\, AZ
+LOCATION:Casino Del Sol Stadium\, Tucson\, AZ
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864511@open-sports-cal
+DTSTART:20260926T180000Z
+DTEND:20260926T210000Z
+SUMMARY:Northern Illinois Huskies @ Georgia State Panthers
+DESCRIPTION:NCAA FBS Football 2026\nNorthern Illinois Huskies @ Georgia Sta
+ te Panthers\nCenter Parc Stadium\, Atlanta\, GA
+LOCATION:Center Parc Stadium\, Atlanta\, GA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864516@open-sports-cal
+DTSTART:20261010T233000Z
+DTEND:20261011T023000Z
+SUMMARY:Air Force Falcons @ Northern Illinois Huskies
+DESCRIPTION:NCAA FBS Football 2026\nAir Force Falcons @ Northern Illinois H
+ uskies\nHuskie Stadium\, Dekalb\, IL
+LOCATION:Huskie Stadium\, Dekalb\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864522@open-sports-cal
+DTSTART:20261017T193000Z
+DTEND:20261017T223000Z
+SUMMARY:Northern Illinois Huskies @ Wyoming Cowboys
+DESCRIPTION:NCAA FBS Football 2026\nNorthern Illinois Huskies @ Wyoming Cow
+ boys\nWar Memorial Stadium\, Laramie\, WY
+LOCATION:War Memorial Stadium\, Laramie\, WY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864526@open-sports-cal
+DTSTART:20261024T193000Z
+DTEND:20261024T223000Z
+SUMMARY:Hawai'i Rainbow Warriors @ Northern Illinois Huskies
+DESCRIPTION:NCAA FBS Football 2026\nHawai'i Rainbow Warriors @ Northern Ill
+ inois Huskies\nHuskie Stadium\, Dekalb\, IL
+LOCATION:Huskie Stadium\, Dekalb\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864530@open-sports-cal
+DTSTART:20261101T023000Z
+DTEND:20261101T053000Z
+SUMMARY:Northern Illinois Huskies @ UNLV Rebels
+DESCRIPTION:NCAA FBS Football 2026\nNorthern Illinois Huskies @ UNLV Rebels
+ \nAllegiant Stadium\, Las Vegas\, NV
+LOCATION:Allegiant Stadium\, Las Vegas\, NV
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864534@open-sports-cal
+DTSTART:20261107T210000Z
+DTEND:20261108T000000Z
+SUMMARY:Northern Illinois Huskies @ San José State Spartans
+DESCRIPTION:NCAA FBS Football 2026\nNorthern Illinois Huskies @ San José S
+ tate Spartans\nCEFCU Stadium\, San Jose\, CA
+LOCATION:CEFCU Stadium\, San Jose\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864536@open-sports-cal
+DTSTART:20261114T203000Z
+DTEND:20261114T233000Z
+SUMMARY:Nevada Wolf Pack @ Northern Illinois Huskies
+DESCRIPTION:NCAA FBS Football 2026\nNevada Wolf Pack @ Northern Illinois Hu
+ skies\nHuskie Stadium\, Dekalb\, IL
+LOCATION:Huskie Stadium\, Dekalb\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864543@open-sports-cal
+DTSTART:20261121T210000Z
+DTEND:20261122T000000Z
+SUMMARY:Northern Illinois Huskies @ North Dakota State Bison
+DESCRIPTION:NCAA FBS Football 2026\nNorthern Illinois Huskies @ North Dakot
+ a State Bison\nFargodome\, Fargo\, ND
+LOCATION:Fargodome\, Fargo\, ND
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864550@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:UTEP Miners @ Northern Illinois Huskies
+DESCRIPTION:NCAA FBS Football 2026\nUTEP Miners @ Northern Illinois Huskies
+ \nHuskie Stadium\, Dekalb\, IL\nStart time TBD
+LOCATION:Huskie Stadium\, Dekalb\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Idaho State Bengals
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401922020@open-sports-cal
+DTSTART:20261103T023000Z
+DTEND:20261103T053000Z
+SUMMARY:Idaho State Bengals @ Utah State Aggies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Utah State
+  Aggies\nDee Glen Smith Spectrum\, Logan\, UT
+LOCATION:Dee Glen Smith Spectrum\, Logan\, UT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922021@open-sports-cal
+DTSTART:20261107T013000Z
+DTEND:20261107T043000Z
+SUMMARY:Idaho State Bengals @ Wyoming Cowboys
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Wyoming Co
+ wboys\nArena-Auditorium\, Laramie\, WY
+LOCATION:Arena-Auditorium\, Laramie\, WY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911335@open-sports-cal
+DTSTART:20261108T200000Z
+DTEND:20261108T230000Z
+SUMMARY:Idaho State Bengals @ Air Force Falcons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Air Force 
+ Falcons\nClune Arena\, Colorado Springs\, CO
+LOCATION:Clune Arena\, Colorado Springs\, CO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917528@open-sports-cal
+DTSTART:20261115T030000Z
+DTEND:20261115T060000Z
+SUMMARY:Idaho State Bengals @ Seattle U Redhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Seattle U 
+ Redhawks\nRedhawk Center\, Seattle\, WA
+LOCATION:Redhawk Center\, Seattle\, WA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922022@open-sports-cal
+DTSTART:20261120T210000Z
+DTEND:20261121T000000Z
+SUMMARY:South Dakota State Jackrabbits @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
+  Idaho State Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922023@open-sports-cal
+DTSTART:20261125T020000Z
+DTEND:20261125T050000Z
+SUMMARY:Idaho State Bengals @ Boise State Broncos
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Boise Stat
+ e Broncos\nExtraMile Arena\, Boise\, ID
+LOCATION:ExtraMile Arena\, Boise\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922024@open-sports-cal
+DTSTART:20261128T210000Z
+DTEND:20261129T000000Z
+SUMMARY:Azusa Pacific Cougars @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAzusa Pacific Cougars @ Idaho St
+ ate Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913418@open-sports-cal
+DTSTART:20261204T013000Z
+DTEND:20261204T043000Z
+SUMMARY:Idaho State Bengals @ Southern Utah Thunderbirds
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Southern U
+ tah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+LOCATION:America First Event Center\, Cedar City\, UT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913423@open-sports-cal
+DTSTART:20261206T020000Z
+DTEND:20261206T050000Z
+SUMMARY:Idaho State Bengals @ Utah Tech Trailblazers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Utah Tech 
+ Trailblazers\nBurns Arena\, St. George\, UT
+LOCATION:Burns Arena\, St. George\, UT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920161@open-sports-cal
+DTSTART:20261211T020000Z
+DTEND:20261211T050000Z
+SUMMARY:Cal State Fullerton Titans @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Fullerton Titans @ Ida
+ ho State Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922025@open-sports-cal
+DTSTART:20261212T230000Z
+DTEND:20261213T020000Z
+SUMMARY:Justice Lions @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nJustice Lions @ Idaho State Beng
+ als\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911528@open-sports-cal
+DTSTART:20261218T020000Z
+DTEND:20261218T050000Z
+SUMMARY:Idaho State Bengals @ UC Davis Aggies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ UC Davis A
+ ggies\nUniversity Credit Union Center\, Davis\, CA
+LOCATION:University Credit Union Center\, Davis\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922026@open-sports-cal
+DTSTART:20261220T190000Z
+DTEND:20261220T220000Z
+SUMMARY:Idaho State Bengals @ North Dakota State Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ North Dako
+ ta State Bison\nScheels Center\, Fargo\, ND
+LOCATION:Scheels Center\, Fargo\, ND
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922027@open-sports-cal
+DTSTART:20261229T020000Z
+DTEND:20261229T050000Z
+SUMMARY:Northwest Indian RedHawks @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwest Indian RedHawks @ Idah
+ o State Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913433@open-sports-cal
+DTSTART:20270102T230000Z
+DTEND:20270103T020000Z
+SUMMARY:Northern Arizona Lumberjacks @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ I
+ daho State Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913437@open-sports-cal
+DTSTART:20270108T020000Z
+DTEND:20270108T050000Z
+SUMMARY:Montana State Bobcats @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMontana State Bobcats @ Idaho St
+ ate Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913442@open-sports-cal
+DTSTART:20270109T230000Z
+DTEND:20270110T020000Z
+SUMMARY:Montana Grizzlies @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMontana Grizzlies @ Idaho State 
+ Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913447@open-sports-cal
+DTSTART:20270115T010000Z
+DTEND:20270115T040000Z
+SUMMARY:Idaho State Bengals @ Northern Colorado Bears
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Northern C
+ olorado Bears\nBank of Colorado Arena\, Greeley\, CO
+LOCATION:Bank of Colorado Arena\, Greeley\, CO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913452@open-sports-cal
+DTSTART:20270116T220000Z
+DTEND:20270117T010000Z
+SUMMARY:Idaho State Bengals @ Portland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Portland S
+ tate Vikings\nViking Pavilion\, Portland\, OR
+LOCATION:Viking Pavilion\, Portland\, OR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913455@open-sports-cal
+DTSTART:20270119T020000Z
+DTEND:20270119T050000Z
+SUMMARY:Idaho State Bengals @ Eastern Washington Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Eastern Wa
+ shington Eagles\nReese Court\, Cheney\, WA
+LOCATION:Reese Court\, Cheney\, WA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913461@open-sports-cal
+DTSTART:20270124T020000Z
+DTEND:20270124T050000Z
+SUMMARY:Weber State Wildcats @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWeber State Wildcats @ Idaho Sta
+ te Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913465@open-sports-cal
+DTSTART:20270126T020000Z
+DTEND:20270126T050000Z
+SUMMARY:Idaho State Bengals @ Idaho Vandals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Idaho Vand
+ als\nICCU Arena\, Moscow\, ID
+LOCATION:ICCU Arena\, Moscow\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913471@open-sports-cal
+DTSTART:20270129T020000Z
+DTEND:20270129T050000Z
+SUMMARY:Utah Tech Trailblazers @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUtah Tech Trailblazers @ Idaho S
+ tate Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913476@open-sports-cal
+DTSTART:20270130T230000Z
+DTEND:20270131T020000Z
+SUMMARY:Southern Utah Thunderbirds @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Utah Thunderbirds @ Ida
+ ho State Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913481@open-sports-cal
+DTSTART:20270205T010000Z
+DTEND:20270205T040000Z
+SUMMARY:Idaho State Bengals @ Northern Arizona Lumberjacks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Northern A
+ rizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913492@open-sports-cal
+DTSTART:20270212T020000Z
+DTEND:20270212T050000Z
+SUMMARY:Portland State Vikings @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Idaho S
+ tate Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913497@open-sports-cal
+DTSTART:20270213T230000Z
+DTEND:20270214T020000Z
+SUMMARY:Northern Colorado Bears @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Colorado Bears @ Idaho 
+ State Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913501@open-sports-cal
+DTSTART:20270219T020000Z
+DTEND:20270219T050000Z
+SUMMARY:Idaho State Bengals @ Montana Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Montana Gr
+ izzlies\nDahlberg Arena\, Missoula\, MT
+LOCATION:Dahlberg Arena\, Missoula\, MT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913506@open-sports-cal
+DTSTART:20270221T010000Z
+DTEND:20270221T040000Z
+SUMMARY:Idaho State Bengals @ Montana State Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Montana St
+ ate Bobcats\nWorthington Arena\, Bozeman\, MT
+LOCATION:Worthington Arena\, Bozeman\, MT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913510@open-sports-cal
+DTSTART:20270223T020000Z
+DTEND:20270223T050000Z
+SUMMARY:Eastern Washington Eagles @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Idah
+ o State Bengals\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913516@open-sports-cal
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:Idaho State Bengals @ Weber State Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Weber Stat
+ e Wildcats\nDee Events Center\, Ogden\, UT
+LOCATION:Dee Events Center\, Ogden\, UT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913521@open-sports-cal
+DTSTART:20270302T020000Z
+DTEND:20270302T050000Z
+SUMMARY:Idaho Vandals @ Idaho State Bengals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho Vandals @ Idaho State Beng
+ als\nReed Gym\, Pocatello\, ID
+LOCATION:Reed Gym\, Pocatello\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Tennessee Tech Golden Eagles
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401866621@open-sports-cal
+DTSTART:20260829T230000Z
+DTEND:20260830T020000Z
+SUMMARY:Monmouth Hawks @ Tennessee Tech Golden Eagles
+DESCRIPTION:NCAA FCS Football 2026\nMonmouth Hawks @ Tennessee Tech Golden 
+ Eagles\nTucker Stadium\, Cookeville\, TN
+LOCATION:Tucker Stadium\, Cookeville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868336@open-sports-cal
+DTSTART:20260905T220000Z
+DTEND:20260906T010000Z
+SUMMARY:Tennessee Tech Golden Eagles @ Chattanooga Mocs
+DESCRIPTION:NCAA FCS Football 2026\nTennessee Tech Golden Eagles @ Chattano
+ oga Mocs\nFinley Stadium\, Chattanooga\, TN
+LOCATION:Finley Stadium\, Chattanooga\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868386@open-sports-cal
+DTSTART:20260912T230000Z
+DTEND:20260913T020000Z
+SUMMARY:Samford Bulldogs @ Tennessee Tech Golden Eagles
+DESCRIPTION:NCAA FCS Football 2026\nSamford Bulldogs @ Tennessee Tech Golde
+ n Eagles\nTucker Stadium\, Cookeville\, TN
+LOCATION:Tucker Stadium\, Cookeville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868390@open-sports-cal
+DTSTART:20260926T173000Z
+DTEND:20260926T203000Z
+SUMMARY:Tennessee Tech Golden Eagles @ Wofford Terriers
+DESCRIPTION:NCAA FCS Football 2026\nTennessee Tech Golden Eagles @ Wofford 
+ Terriers\nGibbs Stadium\, Spartanburg\, SC
+LOCATION:Gibbs Stadium\, Spartanburg\, SC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868391@open-sports-cal
+DTSTART:20261003T220000Z
+DTEND:20261004T010000Z
+SUMMARY:Tennessee Tech Golden Eagles @ Western Carolina Catamounts
+DESCRIPTION:NCAA FCS Football 2026\nTennessee Tech Golden Eagles @ Western 
+ Carolina Catamounts\nE.J. Whitmire Stadium\, Cullowhee\, NC
+LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868376@open-sports-cal
+DTSTART:20261010T193000Z
+DTEND:20261010T223000Z
+SUMMARY:Furman Paladins @ Tennessee Tech Golden Eagles
+DESCRIPTION:NCAA FCS Football 2026\nFurman Paladins @ Tennessee Tech Golden
+  Eagles\nTucker Stadium\, Cookeville\, TN
+LOCATION:Tucker Stadium\, Cookeville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868145@open-sports-cal
+DTSTART:20261017T183000Z
+DTEND:20261017T213000Z
+SUMMARY:Eastern Kentucky Colonels @ Tennessee Tech Golden Eagles
+DESCRIPTION:NCAA FCS Football 2026\nEastern Kentucky Colonels @ Tennessee T
+ ech Golden Eagles\nTucker Stadium\, Cookeville\, TN
+LOCATION:Tucker Stadium\, Cookeville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868392@open-sports-cal
+DTSTART:20261024T180000Z
+DTEND:20261024T210000Z
+SUMMARY:Tennessee Tech Golden Eagles @ The Citadel Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nTennessee Tech Golden Eagles @ The Cita
+ del Bulldogs\nJohnson Hagood Stadium\, Charleston\, SC
+LOCATION:Johnson Hagood Stadium\, Charleston\, SC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868349@open-sports-cal
+DTSTART:20261031T193000Z
+DTEND:20261031T223000Z
+SUMMARY:Tennessee Tech Golden Eagles @ East Tennessee State Buccaneers
+DESCRIPTION:NCAA FCS Football 2026\nTennessee Tech Golden Eagles @ East Ten
+ nessee State Buccaneers\nWilliam B. Greene Jr. Stadium\, Johnson City\, TN
+LOCATION:William B. Greene Jr. Stadium\, Johnson City\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868393@open-sports-cal
+DTSTART:20261107T193000Z
+DTEND:20261107T223000Z
+SUMMARY:VMI Keydets @ Tennessee Tech Golden Eagles
+DESCRIPTION:NCAA FCS Football 2026\nVMI Keydets @ Tennessee Tech Golden Eag
+ les\nTucker Stadium\, Cookeville\, TN
+LOCATION:Tucker Stadium\, Cookeville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868385@open-sports-cal
+DTSTART:20261114T193000Z
+DTEND:20261114T223000Z
+SUMMARY:Mercer Bears @ Tennessee Tech Golden Eagles
+DESCRIPTION:NCAA FCS Football 2026\nMercer Bears @ Tennessee Tech Golden Ea
+ gles\nTucker Stadium\, Cookeville\, TN
+LOCATION:Tucker Stadium\, Cookeville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401856750@open-sports-cal
+DTSTART:20261121T180000Z
+DTEND:20261121T210000Z
+SUMMARY:Tennessee Tech Golden Eagles @ Mississippi State Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nTennessee Tech Golden Eagles @ Mississi
+ ppi State Bulldogs\nDavis Wade Stadium\, Starkville\, MS
+LOCATION:Davis Wade Stadium\, Starkville\, MS
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

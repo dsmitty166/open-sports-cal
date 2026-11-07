@@ -12,7 +12,7 @@ All times are in **UTC**. Each match is blocked for **2 hours**.
 
 | | |
 |--|--|
-| **Raw URL** | `https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/football/ligue-1/2025-26/all-teams.ics` |
+| **Raw URL** | `https://raw.githubusercontent.com/dsmitty166/open-sports-cal/main/football/ligue-1/2025-26/all-teams.ics` |
 | **Download** | [all-teams.ics](all-teams.ics) |
 
 ### Individual Teams
@@ -42,7 +42,7 @@ All times are in **UTC**. Each match is blocked for **2 hours**.
 
 ## How to Subscribe
 
-**Easiest:** Use the [website](https://vinnyab28.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
+**Easiest:** Use the [website](https://dsmitty166.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
 
 ### Google Calendar
 1. Copy the Raw URL above

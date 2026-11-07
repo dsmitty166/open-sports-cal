@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Western Michigan Broncos
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858428@open-sports-cal
+DTSTART:20260905T233000Z
+DTEND:20260906T023000Z
+SUMMARY:Western Michigan Broncos @ Michigan Wolverines
+DESCRIPTION:NCAA FBS Football 2026\nWestern Michigan Broncos @ Michigan Wol
+ verines\nMichigan Stadium\, Ann Arbor\, MI
+LOCATION:Michigan Stadium\, Ann Arbor\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866421@open-sports-cal
+DTSTART:20260912T223000Z
+DTEND:20260913T013000Z
+SUMMARY:Monmouth Hawks @ Western Michigan Broncos
+DESCRIPTION:NCAA FBS Football 2026\nMonmouth Hawks @ Western Michigan Bronc
+ os\nWaldo Stadium\, Kalamazoo\, MI
+LOCATION:Waldo Stadium\, Kalamazoo\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862773@open-sports-cal
+DTSTART:20260919T230000Z
+DTEND:20260920T020000Z
+SUMMARY:Western Michigan Broncos @ Rice Owls
+DESCRIPTION:NCAA FBS Football 2026\nWestern Michigan Broncos @ Rice Owls\nF
+ irst Community Stadium\, Houston\, TX
+LOCATION:First Community Stadium\, Houston\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860897@open-sports-cal
+DTSTART:20260926T193000Z
+DTEND:20260926T223000Z
+SUMMARY:Boise State Broncos @ Western Michigan Broncos
+DESCRIPTION:NCAA FBS Football 2026\nBoise State Broncos @ Western Michigan 
+ Broncos\nWaldo Stadium\, Kalamazoo\, MI
+LOCATION:Waldo Stadium\, Kalamazoo\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866432@open-sports-cal
+DTSTART:20261003T170000Z
+DTEND:20261003T200000Z
+SUMMARY:Western Michigan Broncos @ Buffalo Bulls
+DESCRIPTION:NCAA FBS Football 2026\nWestern Michigan Broncos @ Buffalo Bull
+ s\nBroadview Stadium\, Buffalo\, NY
+LOCATION:Broadview Stadium\, Buffalo\, NY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866439@open-sports-cal
+DTSTART:20261010T193000Z
+DTEND:20261010T223000Z
+SUMMARY:Kent State Golden Flashes @ Western Michigan Broncos
+DESCRIPTION:NCAA FBS Football 2026\nKent State Golden Flashes @ Western Mic
+ higan Broncos\nWaldo Stadium\, Kalamazoo\, MI
+LOCATION:Waldo Stadium\, Kalamazoo\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866443@open-sports-cal
+DTSTART:20261017T173000Z
+DTEND:20261017T203000Z
+SUMMARY:Western Michigan Broncos @ Central Michigan Chippewas
+DESCRIPTION:NCAA FBS Football 2026\nWestern Michigan Broncos @ Central Mich
+ igan Chippewas\nKelly/Shorts Stadium\, Mount Pleasant\, MI
+LOCATION:Kelly/Shorts Stadium\, Mount Pleasant\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866450@open-sports-cal
+DTSTART:20261024T160000Z
+DTEND:20261024T190000Z
+SUMMARY:Western Michigan Broncos @ Toledo Rockets
+DESCRIPTION:NCAA FBS Football 2026\nWestern Michigan Broncos @ Toledo Rocke
+ ts\nGlass Bowl\, Toledo\, OH
+LOCATION:Glass Bowl\, Toledo\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866452@open-sports-cal
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:Bowling Green Falcons @ Western Michigan Broncos
+DESCRIPTION:NCAA FBS Football 2026\nBowling Green Falcons @ Western Michiga
+ n Broncos\nWaldo Stadium\, Kalamazoo\, MI
+LOCATION:Waldo Stadium\, Kalamazoo\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866458@open-sports-cal
+DTSTART:20261111T000000Z
+DTEND:20261111T030000Z
+SUMMARY:Western Michigan Broncos @ Akron Zips
+DESCRIPTION:NCAA FBS Football 2026\nWestern Michigan Broncos @ Akron Zips\n
+ InfoCision Stadium\, Akron\, OH
+LOCATION:InfoCision Stadium\, Akron\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866465@open-sports-cal
+DTSTART:20261118T000000Z
+DTEND:20261118T030000Z
+SUMMARY:Eastern Michigan Eagles @ Western Michigan Broncos
+DESCRIPTION:NCAA FBS Football 2026\nEastern Michigan Eagles @ Western Michi
+ gan Broncos\nWaldo Stadium\, Kalamazoo\, MI
+LOCATION:Waldo Stadium\, Kalamazoo\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866471@open-sports-cal
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Miami (OH) RedHawks @ Western Michigan Broncos
+DESCRIPTION:NCAA FBS Football 2026\nMiami (OH) RedHawks @ Western Michigan 
+ Broncos\nWaldo Stadium\, Kalamazoo\, MI\nStart time TBD
+LOCATION:Waldo Stadium\, Kalamazoo\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

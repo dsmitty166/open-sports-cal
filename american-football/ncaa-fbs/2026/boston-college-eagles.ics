@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Boston College Eagles
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856777@open-sports-cal
+DTSTART:20260905T193000Z
+DTEND:20260905T223000Z
+SUMMARY:Boston College Eagles @ Cincinnati Bearcats
+DESCRIPTION:NCAA FBS Football 2026\nBoston College Eagles @ Cincinnati Bear
+ cats\nNippert Stadium\, Cincinnati\, OH
+LOCATION:Nippert Stadium\, Cincinnati\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858214@open-sports-cal
+DTSTART:20260911T233000Z
+DTEND:20260912T023000Z
+SUMMARY:Rutgers Scarlet Knights @ Boston College Eagles
+DESCRIPTION:NCAA FBS Football 2026\nRutgers Scarlet Knights @ Boston Colleg
+ e Eagles\nAlumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858227@open-sports-cal
+DTSTART:20260919T180000Z
+DTEND:20260919T210000Z
+SUMMARY:Maine Black Bears @ Boston College Eagles
+DESCRIPTION:NCAA FBS Football 2026\nMaine Black Bears @ Boston College Eagl
+ es\nAlumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858242@open-sports-cal
+DTSTART:20260926T160000Z
+DTEND:20260926T190000Z
+SUMMARY:Virginia Tech Hokies @ Boston College Eagles
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Tech Hokies @ Boston College E
+ agles\nAlumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858246@open-sports-cal
+DTSTART:20261003T160000Z
+DTEND:20261003T190000Z
+SUMMARY:Boston College Eagles @ SMU Mustangs
+DESCRIPTION:NCAA FBS Football 2026\nBoston College Eagles @ SMU Mustangs\nG
+ erald J. Ford Stadium\, Dallas\, TX
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858267@open-sports-cal
+DTSTART:20261017T160000Z
+DTEND:20261017T190000Z
+SUMMARY:Pittsburgh Panthers @ Boston College Eagles
+DESCRIPTION:NCAA FBS Football 2026\nPittsburgh Panthers @ Boston College Ea
+ gles\nAlumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858273@open-sports-cal
+DTSTART:20261024T193000Z
+DTEND:20261024T223000Z
+SUMMARY:Boston College Eagles @ Georgia Tech Yellow Jackets
+DESCRIPTION:NCAA FBS Football 2026\nBoston College Eagles @ Georgia Tech Ye
+ llow Jackets\nBobby Dodd Stadium\, Atlanta\, GA
+LOCATION:Bobby Dodd Stadium\, Atlanta\, GA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858279@open-sports-cal
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:Boston College Eagles @ Duke Blue Devils
+DESCRIPTION:NCAA FBS Football 2026\nBoston College Eagles @ Duke Blue Devil
+ s\nWallace Wade Stadium\, Durham\, NC
+LOCATION:Wallace Wade Stadium\, Durham\, NC
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858289@open-sports-cal
+DTSTART:20261107T170000Z
+DTEND:20261107T200000Z
+SUMMARY:Florida State Seminoles @ Boston College Eagles
+DESCRIPTION:NCAA FBS Football 2026\nFlorida State Seminoles @ Boston Colleg
+ e Eagles\nAlumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858294@open-sports-cal
+DTSTART:20261114T203000Z
+DTEND:20261114T233000Z
+SUMMARY:Boston College Eagles @ Notre Dame Fighting Irish
+DESCRIPTION:NCAA FBS Football 2026\nBoston College Eagles @ Notre Dame Figh
+ ting Irish\nNotre Dame Stadium\, Notre Dame\, IN
+LOCATION:Notre Dame Stadium\, Notre Dame\, IN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858309@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Syracuse Orange @ Boston College Eagles
+DESCRIPTION:NCAA FBS Football 2026\nSyracuse Orange @ Boston College Eagles
+ \nAlumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA\nStart time TBD
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858311@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Boston College Eagles @ Miami Hurricanes
+DESCRIPTION:NCAA FBS Football 2026\nBoston College Eagles @ Miami Hurricane
+ s\nHard Rock Stadium\, Miami Gardens\, FL\nStart time TBD
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

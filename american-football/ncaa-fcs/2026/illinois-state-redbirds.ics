@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Illinois State Redbirds
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401891332@open-sports-cal
+DTSTART:20260829T230000Z
+DTEND:20260830T020000Z
+SUMMARY:St. Francis (IL) Fighting Saints @ Illinois State Redbirds
+DESCRIPTION:NCAA FCS Football 2026\nSt. Francis (IL) Fighting Saints @ Illi
+ nois State Redbirds\nHancock Stadium\, Normal\, IL
+LOCATION:Hancock Stadium\, Normal\, IL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867845@open-sports-cal
+DTSTART:20260906T000000Z
+DTEND:20260906T030000Z
+SUMMARY:Illinois State Redbirds @ Western Illinois Leathernecks
+DESCRIPTION:NCAA FCS Football 2026\nIllinois State Redbirds @ Western Illin
+ ois Leathernecks\nHanson Field\, Macomb\, IL
+LOCATION:Hanson Field\, Macomb\, IL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401864503@open-sports-cal
+DTSTART:20260912T230000Z
+DTEND:20260913T020000Z
+SUMMARY:Illinois State Redbirds @ Northern Illinois Huskies
+DESCRIPTION:NCAA FCS Football 2026\nIllinois State Redbirds @ Northern Illi
+ nois Huskies\nHuskie Stadium\, Dekalb\, IL
+LOCATION:Huskie Stadium\, Dekalb\, IL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867846@open-sports-cal
+DTSTART:20260919T190000Z
+DTEND:20260919T220000Z
+SUMMARY:Eastern Illinois Panthers @ Illinois State Redbirds
+DESCRIPTION:NCAA FCS Football 2026\nEastern Illinois Panthers @ Illinois St
+ ate Redbirds\nHancock Stadium\, Normal\, IL
+LOCATION:Hancock Stadium\, Normal\, IL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867847@open-sports-cal
+DTSTART:20260926T210000Z
+DTEND:20260927T000000Z
+SUMMARY:Illinois State Redbirds @ Northern Iowa Panthers
+DESCRIPTION:NCAA FCS Football 2026\nIllinois State Redbirds @ Northern Iowa
+  Panthers\nUNI-Dome\, Cedar Falls\, IA
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867848@open-sports-cal
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+SUMMARY:South Dakota State Jackrabbits @ Illinois State Redbirds
+DESCRIPTION:NCAA FCS Football 2026\nSouth Dakota State Jackrabbits @ Illino
+ is State Redbirds\nHancock Stadium\, Normal\, IL
+LOCATION:Hancock Stadium\, Normal\, IL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867849@open-sports-cal
+DTSTART:20261017T200000Z
+DTEND:20261017T230000Z
+SUMMARY:Illinois State Redbirds @ Southern Illinois Salukis
+DESCRIPTION:NCAA FCS Football 2026\nIllinois State Redbirds @ Southern Illi
+ nois Salukis\nSaluki Stadium\, Carbondale\, IL
+LOCATION:Saluki Stadium\, Carbondale\, IL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867850@open-sports-cal
+DTSTART:20261024T190000Z
+DTEND:20261024T220000Z
+SUMMARY:Indiana State Sycamores @ Illinois State Redbirds
+DESCRIPTION:NCAA FCS Football 2026\nIndiana State Sycamores @ Illinois Stat
+ e Redbirds\nHancock Stadium\, Normal\, IL
+LOCATION:Hancock Stadium\, Normal\, IL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867851@open-sports-cal
+DTSTART:20261031T180000Z
+DTEND:20261031T210000Z
+SUMMARY:Murray State Racers @ Illinois State Redbirds
+DESCRIPTION:NCAA FCS Football 2026\nMurray State Racers @ Illinois State Re
+ dbirds\nHancock Stadium\, Normal\, IL
+LOCATION:Hancock Stadium\, Normal\, IL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867852@open-sports-cal
+DTSTART:20261107T190000Z
+DTEND:20261107T220000Z
+SUMMARY:Illinois State Redbirds @ North Dakota Fighting Hawks
+DESCRIPTION:NCAA FCS Football 2026\nIllinois State Redbirds @ North Dakota 
+ Fighting Hawks\nAlerus Center\, Grand Forks\, ND
+LOCATION:Alerus Center\, Grand Forks\, ND
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867853@open-sports-cal
+DTSTART:20261114T170000Z
+DTEND:20261114T200000Z
+SUMMARY:Illinois State Redbirds @ Youngstown State Penguins
+DESCRIPTION:NCAA FCS Football 2026\nIllinois State Redbirds @ Youngstown St
+ ate Penguins\nStambaugh Stadium\, Youngstown\, OH
+LOCATION:Stambaugh Stadium\, Youngstown\, OH
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867854@open-sports-cal
+DTSTART:20261121T180000Z
+DTEND:20261121T210000Z
+SUMMARY:South Dakota Coyotes @ Illinois State Redbirds
+DESCRIPTION:NCAA FCS Football 2026\nSouth Dakota Coyotes @ Illinois State R
+ edbirds\nHancock Stadium\, Normal\, IL
+LOCATION:Hancock Stadium\, Normal\, IL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

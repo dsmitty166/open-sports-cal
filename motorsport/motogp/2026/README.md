@@ -12,7 +12,7 @@ All times are in **UTC**. Each race is blocked for **90 minutes**.
 
 | | |
 |--|--|
-| **Raw URL** | `https://raw.githubusercontent.com/vinnyab28/open-sports-cal/main/motorsport/motogp/2026/all-races.ics` |
+| **Raw URL** | `https://raw.githubusercontent.com/dsmitty166/open-sports-cal/main/motorsport/motogp/2026/all-races.ics` |
 | **Download** | [all-races.ics](all-races.ics) |
 
 ---
@@ -48,7 +48,7 @@ All times are in **UTC**. Each race is blocked for **90 minutes**.
 
 ## How to Subscribe
 
-**Easiest:** Use the [website](https://vinnyab28.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
+**Easiest:** Use the [website](https://dsmitty166.github.io/open-sports-cal/) — one click to subscribe or download any calendar.
 
 ### Google Calendar
 1. Copy the Raw URL above

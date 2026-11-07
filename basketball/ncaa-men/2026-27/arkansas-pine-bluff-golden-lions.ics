@@ -1,0 +1,413 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Arkansas-Pine Bluff Golden Lio
+ ns
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401929372@open-sports-cal
+DTSTART:20261104T010000Z
+DTEND:20261104T040000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Arkansas Razorbacks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Arkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+LOCATION:Bud Walton Arena\, Fayetteville\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909751@open-sports-cal
+DTSTART:20261106T220000Z
+DTEND:20261107T010000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Baylor Bears
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Baylor Bears\nFoster Pavilion\, Waco\, TX
+LOCATION:Foster Pavilion\, Waco\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401930177@open-sports-cal
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ UCLA Bruins
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ UCLA Bruins\nPauley Pavilion\, Los Angeles\, CA\nStart time TBD
+LOCATION:Pauley Pavilion\, Los Angeles\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920345@open-sports-cal
+DTSTART:20261114T033000Z
+DTEND:20261114T063000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ California Baptist Lancers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ California Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\
+ , Riverside\, CA
+LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926772@open-sports-cal
+DTSTART:20261116T000000Z
+DTEND:20261116T030000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ USC Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ USC Trojans\nGalen Center\, Los Angeles\, CA
+LOCATION:Galen Center\, Los Angeles\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928398@open-sports-cal
+DTSTART:20261119T010000Z
+DTEND:20261119T040000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Arkansas State Red Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Arkansas State Red Wolves\nFirst National Bank Arena\, Jonesboro\, AR
+LOCATION:First National Bank Arena\, Jonesboro\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929406@open-sports-cal
+DTSTART:20261125T190000Z
+DTEND:20261125T220000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ South Dakota Coyotes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921818@open-sports-cal
+DTSTART:20261127T210000Z
+DTEND:20261128T000000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Missouri Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Missouri Tigers\nMizzou Arena\, Columbia\, MO
+LOCATION:Mizzou Arena\, Columbia\, MO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911256@open-sports-cal
+DTSTART:20261203T010000Z
+DTEND:20261203T040000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Saint Louis Billikens
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Saint Louis Billikens\nChaifetz Arena\, St. Louis\, MO
+LOCATION:Chaifetz Arena\, St. Louis\, MO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920812@open-sports-cal
+DTSTART:20261206T210000Z
+DTEND:20261207T000000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Texas A&M Aggies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Texas A&M Aggies\nReed Arena\, College Station\, TX
+LOCATION:Reed Arena\, College Station\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927384@open-sports-cal
+DTSTART:20261210T010000Z
+DTEND:20261210T040000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Murray State Racers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Murray State Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926071@open-sports-cal
+DTSTART:20261212T200000Z
+DTEND:20261212T230000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Eastern Illinois Panthers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+LOCATION:Groniger Arena\, Charleston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928400@open-sports-cal
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Ecclesia Royals @ Arkansas-Pine Bluff Golden Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nEcclesia Royals @ Arkansas-Pine 
+ Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nStart time TBD
+LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928401@open-sports-cal
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Champion Christian Tigers @ Arkansas-Pine Bluff Golden Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nChampion Christian Tigers @ Arka
+ nsas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nStart
+  time TBD
+LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925645@open-sports-cal
+DTSTART:20270102T210000Z
+DTEND:20270103T000000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Alabama A&M Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Alabama A&M Bulldogs\nEvent Center\, Huntsville\, AL
+LOCATION:Event Center\, Huntsville\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925669@open-sports-cal
+DTSTART:20270105T000000Z
+DTEND:20270105T030000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Alabama State Hornets
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Alabama State Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928402@open-sports-cal
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Texas Southern Tigers @ Arkansas-Pine Bluff Golden Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Southern Tigers @ Arkansas
+ -Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nStart tim
+ e TBD
+LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926124@open-sports-cal
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Prairie View A&M Panthers @ Arkansas-Pine Bluff Golden Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPrairie View A&M Panthers @ Arka
+ nsas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nStart
+  time TBD
+LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928403@open-sports-cal
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Florida A&M Rattlers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Florida A&M Rattlers\nAl Lawson Center\, Tallahassee\, FL\nStart time T
+ BD
+LOCATION:Al Lawson Center\, Tallahassee\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925723@open-sports-cal
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Bethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nSt
+ art time TBD
+LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928367@open-sports-cal
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Southern Jaguars @ Arkansas-Pine Bluff Golden Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Jaguars @ Arkansas-Pine
+  Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nStart time TBD
+LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928396@open-sports-cal
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Grambling Tigers @ Arkansas-Pine Bluff Golden Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Arkansas-Pine
+  Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nStart time TBD
+LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925746@open-sports-cal
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden 
+ Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi Valley State Delta D
+ evils @ Arkansas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff
+ \, AR\nStart time TBD
+LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925696@open-sports-cal
+DTSTART:20270206T180000Z
+DTEND:20270206T210000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Alcorn State Braves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Alcorn State Braves\nDavey L. Whitney Complex\, Lorman\, MS
+LOCATION:Davey L. Whitney Complex\, Lorman\, MS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921052@open-sports-cal
+DTSTART:20270209T010000Z
+DTEND:20270209T040000Z
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Jackson State Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Jackson State Tigers\nLee E. Williams Athletics and Assembly Center\, J
+ ackson\, MS
+LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925677@open-sports-cal
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Alabama State Hornets @ Arkansas-Pine Bluff Golden Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama State Hornets @ Arkansas
+ -Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nStart tim
+ e TBD
+LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925655@open-sports-cal
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Alabama A&M Bulldogs @ Arkansas-Pine Bluff Golden Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Arkansas-
+ Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nStart time
+  TBD
+LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926129@open-sports-cal
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Prairie View A&M Panthers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Prairie View A&M Panthers\nWilliam J. Nicks Building\, Prairie View\, T
+ X\nStart time TBD
+LOCATION:William J. Nicks Building\, Prairie View\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925749@open-sports-cal
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Arkansas-Pine Bluff Golden Lions @ Mississippi Valley State Delta D
+ evils
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
+  @ Mississippi Valley State Delta Devils\nR.W. Harrison HPER Complex\, Itt
+ a Bena\, MS\nStart time TBD
+LOCATION:R.W. Harrison HPER Complex\, Itta Bena\, MS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921058@open-sports-cal
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Jackson State Tigers @ Arkansas-Pine Bluff Golden Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Arkansas-
+ Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nStart time
+  TBD
+LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925701@open-sports-cal
+DTSTART:20270305T010000Z
+DTEND:20270305T040000Z
+SUMMARY:Alcorn State Braves @ Arkansas-Pine Bluff Golden Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAlcorn State Braves @ Arkansas-P
+ ine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

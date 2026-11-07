@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Eastern Kentucky Colonels
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401868139@open-sports-cal
+DTSTART:20260829T230000Z
+DTEND:20260830T020000Z
+SUMMARY:Eastern Kentucky Colonels @ Western Carolina Catamounts
+DESCRIPTION:NCAA FCS Football 2026\nEastern Kentucky Colonels @ Western Car
+ olina Catamounts\nE.J. Whitmire Stadium\, Cullowhee\, NC
+LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868140@open-sports-cal
+DTSTART:20260905T230000Z
+DTEND:20260906T020000Z
+SUMMARY:Eastern Kentucky Colonels @ Jacksonville State Gamecocks
+DESCRIPTION:NCAA FCS Football 2026\nEastern Kentucky Colonels @ Jacksonvill
+ e State Gamecocks\nAmFirst Stadium\, Jacksonville\, AL
+LOCATION:AmFirst Stadium\, Jacksonville\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868141@open-sports-cal
+DTSTART:20260912T220000Z
+DTEND:20260913T010000Z
+SUMMARY:Chattanooga Mocs @ Eastern Kentucky Colonels
+DESCRIPTION:NCAA FCS Football 2026\nChattanooga Mocs @ Eastern Kentucky Col
+ onels\nRoy Kidd Stadium\, Richmond\, KY
+LOCATION:Roy Kidd Stadium\, Richmond\, KY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868142@open-sports-cal
+DTSTART:20260919T220000Z
+DTEND:20260920T010000Z
+SUMMARY:Dayton Flyers @ Eastern Kentucky Colonels
+DESCRIPTION:NCAA FCS Football 2026\nDayton Flyers @ Eastern Kentucky Colone
+ ls\nRoy Kidd Stadium\, Richmond\, KY
+LOCATION:Roy Kidd Stadium\, Richmond\, KY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868143@open-sports-cal
+DTSTART:20261003T220000Z
+DTEND:20261004T010000Z
+SUMMARY:North Alabama Lions @ Eastern Kentucky Colonels
+DESCRIPTION:NCAA FCS Football 2026\nNorth Alabama Lions @ Eastern Kentucky 
+ Colonels\nRoy Kidd Stadium\, Richmond\, KY
+LOCATION:Roy Kidd Stadium\, Richmond\, KY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868144@open-sports-cal
+DTSTART:20261010T220000Z
+DTEND:20261011T010000Z
+SUMMARY:West Georgia Wolves @ Eastern Kentucky Colonels
+DESCRIPTION:NCAA FCS Football 2026\nWest Georgia Wolves @ Eastern Kentucky 
+ Colonels\nRoy Kidd Stadium\, Richmond\, KY
+LOCATION:Roy Kidd Stadium\, Richmond\, KY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868145@open-sports-cal
+DTSTART:20261017T183000Z
+DTEND:20261017T213000Z
+SUMMARY:Eastern Kentucky Colonels @ Tennessee Tech Golden Eagles
+DESCRIPTION:NCAA FCS Football 2026\nEastern Kentucky Colonels @ Tennessee T
+ ech Golden Eagles\nTucker Stadium\, Cookeville\, TN
+LOCATION:Tucker Stadium\, Cookeville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868146@open-sports-cal
+DTSTART:20261024T190000Z
+DTEND:20261024T220000Z
+SUMMARY:West Florida Argonauts @ Eastern Kentucky Colonels
+DESCRIPTION:NCAA FCS Football 2026\nWest Florida Argonauts @ Eastern Kentuc
+ ky Colonels\nRoy Kidd Stadium\, Richmond\, KY
+LOCATION:Roy Kidd Stadium\, Richmond\, KY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868147@open-sports-cal
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Eastern Kentucky Colonels @ Tarleton State Texans
+DESCRIPTION:NCAA FCS Football 2026\nEastern Kentucky Colonels @ Tarleton St
+ ate Texans\nTarleton Memorial Stadium\, Stephenville\, TX
+LOCATION:Tarleton Memorial Stadium\, Stephenville\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868068@open-sports-cal
+DTSTART:20261107T210000Z
+DTEND:20261108T000000Z
+SUMMARY:Eastern Kentucky Colonels @ Austin Peay Governors
+DESCRIPTION:NCAA FCS Football 2026\nEastern Kentucky Colonels @ Austin Peay
+  Governors\nFortera Stadium\, Clarksville\, TN
+LOCATION:Fortera Stadium\, Clarksville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868138@open-sports-cal
+DTSTART:20261114T190000Z
+DTEND:20261114T220000Z
+SUMMARY:Central Arkansas Bears @ Eastern Kentucky Colonels
+DESCRIPTION:NCAA FCS Football 2026\nCentral Arkansas Bears @ Eastern Kentuc
+ ky Colonels\nRoy Kidd Stadium\, Richmond\, KY
+LOCATION:Roy Kidd Stadium\, Richmond\, KY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868059@open-sports-cal
+DTSTART:20261121T190000Z
+DTEND:20261121T220000Z
+SUMMARY:Eastern Kentucky Colonels @ Abilene Christian Wildcats
+DESCRIPTION:NCAA FCS Football 2026\nEastern Kentucky Colonels @ Abilene Chr
+ istian Wildcats\nWildcat Stadium (TX)\, Abilene\, TX
+LOCATION:Wildcat Stadium (TX)\, Abilene\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

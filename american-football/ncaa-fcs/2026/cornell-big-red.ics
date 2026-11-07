@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Cornell Big Red
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401867826@open-sports-cal
+DTSTART:20260919T170000Z
+DTEND:20260919T200000Z
+SUMMARY:Cornell Big Red @ Colgate Raiders
+DESCRIPTION:NCAA FCS Football 2026\nCornell Big Red @ Colgate Raiders\nAndy
+  Kerr Stadium\, Hamilton\, NY
+LOCATION:Andy Kerr Stadium\, Hamilton\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867827@open-sports-cal
+DTSTART:20260926T170000Z
+DTEND:20260926T200000Z
+SUMMARY:Yale Bulldogs @ Cornell Big Red
+DESCRIPTION:NCAA FCS Football 2026\nYale Bulldogs @ Cornell Big Red\nSchoel
+ lkopf Field\, Ithaca\, NY
+LOCATION:Schoellkopf Field\, Ithaca\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867828@open-sports-cal
+DTSTART:20261003T163000Z
+DTEND:20261003T193000Z
+SUMMARY:Cornell Big Red @ Georgetown Hoyas
+DESCRIPTION:NCAA FCS Football 2026\nCornell Big Red @ Georgetown Hoyas\nCoo
+ per Field\, Washington\, DC
+LOCATION:Cooper Field\, Washington\, DC
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867829@open-sports-cal
+DTSTART:20261010T170000Z
+DTEND:20261010T200000Z
+SUMMARY:Harvard Crimson @ Cornell Big Red
+DESCRIPTION:NCAA FCS Football 2026\nHarvard Crimson @ Cornell Big Red\nScho
+ ellkopf Field\, Ithaca\, NY
+LOCATION:Schoellkopf Field\, Ithaca\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867830@open-sports-cal
+DTSTART:20261017T180000Z
+DTEND:20261017T210000Z
+SUMMARY:Lehigh Mountain Hawks @ Cornell Big Red
+DESCRIPTION:NCAA FCS Football 2026\nLehigh Mountain Hawks @ Cornell Big Red
+ \nSchoellkopf Field\, Ithaca\, NY
+LOCATION:Schoellkopf Field\, Ithaca\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867808@open-sports-cal
+DTSTART:20261024T160000Z
+DTEND:20261024T190000Z
+SUMMARY:Cornell Big Red @ Brown Bears
+DESCRIPTION:NCAA FCS Football 2026\nCornell Big Red @ Brown Bears\nBrown St
+ adium (RI)\, Providence\, RI
+LOCATION:Brown Stadium (RI)\, Providence\, RI
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867831@open-sports-cal
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:Cornell Big Red @ Princeton Tigers
+DESCRIPTION:NCAA FCS Football 2026\nCornell Big Red @ Princeton Tigers\nPri
+ nceton Stadium\, Princeton\, NJ
+LOCATION:Princeton Stadium\, Princeton\, NJ
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867832@open-sports-cal
+DTSTART:20261107T180000Z
+DTEND:20261107T210000Z
+SUMMARY:Pennsylvania Quakers @ Cornell Big Red
+DESCRIPTION:NCAA FCS Football 2026\nPennsylvania Quakers @ Cornell Big Red\
+ nSchoellkopf Field\, Ithaca\, NY
+LOCATION:Schoellkopf Field\, Ithaca\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867833@open-sports-cal
+DTSTART:20261114T180000Z
+DTEND:20261114T210000Z
+SUMMARY:Dartmouth Big Green @ Cornell Big Red
+DESCRIPTION:NCAA FCS Football 2026\nDartmouth Big Green @ Cornell Big Red\n
+ Schoellkopf Field\, Ithaca\, NY
+LOCATION:Schoellkopf Field\, Ithaca\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867825@open-sports-cal
+DTSTART:20261121T170000Z
+DTEND:20261121T200000Z
+SUMMARY:Cornell Big Red @ Columbia Lions
+DESCRIPTION:NCAA FCS Football 2026\nCornell Big Red @ Columbia Lions\nLawre
+ nce A. Wien Stadium\, New York\, NY
+LOCATION:Lawrence A. Wien Stadium\, New York\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

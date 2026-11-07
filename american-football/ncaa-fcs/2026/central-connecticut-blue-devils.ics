@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Central Connecticut Blue Devils
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401867882@open-sports-cal
+DTSTART:20260829T180000Z
+DTEND:20260829T210000Z
+SUMMARY:Central Connecticut Blue Devils @ South Dakota Coyotes
+DESCRIPTION:NCAA FCS Football 2026\nCentral Connecticut Blue Devils @ South
+  Dakota Coyotes\nThe DakotaDome\, Vermillion\, SD
+LOCATION:The DakotaDome\, Vermillion\, SD
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401866419@open-sports-cal
+DTSTART:20260912T193000Z
+DTEND:20260912T223000Z
+SUMMARY:Central Connecticut Blue Devils @ Toledo Rockets
+DESCRIPTION:NCAA FCS Football 2026\nCentral Connecticut Blue Devils @ Toled
+ o Rockets\nGlass Bowl\, Toledo\, OH
+LOCATION:Glass Bowl\, Toledo\, OH
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867898@open-sports-cal
+DTSTART:20260919T190000Z
+DTEND:20260919T220000Z
+SUMMARY:Central Connecticut Blue Devils @ Montana State Bobcats
+DESCRIPTION:NCAA FCS Football 2026\nCentral Connecticut Blue Devils @ Monta
+ na State Bobcats\nBobcat Stadium (MT)\, Bozeman\, MT
+LOCATION:Bobcat Stadium (MT)\, Bozeman\, MT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867899@open-sports-cal
+DTSTART:20261003T160000Z
+DTEND:20261003T190000Z
+SUMMARY:Wagner Seahawks @ Central Connecticut Blue Devils
+DESCRIPTION:NCAA FCS Football 2026\nWagner Seahawks @ Central Connecticut B
+ lue Devils\nArute Field\, New Britain\, CT
+LOCATION:Arute Field\, New Britain\, CT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867907@open-sports-cal
+DTSTART:20261010T170000Z
+DTEND:20261010T200000Z
+SUMMARY:American International Yellow Jackets @ Central Connecticut Blue De
+ vils
+DESCRIPTION:NCAA FCS Football 2026\nAmerican International Yellow Jackets @
+  Central Connecticut Blue Devils\nArute Field\, New Britain\, CT
+LOCATION:Arute Field\, New Britain\, CT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867901@open-sports-cal
+DTSTART:20261017T160000Z
+DTEND:20261017T190000Z
+SUMMARY:Central Connecticut Blue Devils @ Mercyhurst Lakers
+DESCRIPTION:NCAA FCS Football 2026\nCentral Connecticut Blue Devils @ Mercy
+ hurst Lakers\nSaxon Stadium\, Erie\, PA
+LOCATION:Saxon Stadium\, Erie\, PA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867902@open-sports-cal
+DTSTART:20261024T160000Z
+DTEND:20261024T190000Z
+SUMMARY:New Haven Chargers @ Central Connecticut Blue Devils
+DESCRIPTION:NCAA FCS Football 2026\nNew Haven Chargers @ Central Connecticu
+ t Blue Devils\nArute Field\, New Britain\, CT
+LOCATION:Arute Field\, New Britain\, CT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867903@open-sports-cal
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:Robert Morris Colonials @ Central Connecticut Blue Devils
+DESCRIPTION:NCAA FCS Football 2026\nRobert Morris Colonials @ Central Conne
+ cticut Blue Devils\nArute Field\, New Britain\, CT
+LOCATION:Arute Field\, New Britain\, CT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867904@open-sports-cal
+DTSTART:20261107T180000Z
+DTEND:20261107T210000Z
+SUMMARY:Central Connecticut Blue Devils @ Stonehill Skyhawks
+DESCRIPTION:NCAA FCS Football 2026\nCentral Connecticut Blue Devils @ Stone
+ hill Skyhawks\nW.B. Mason Stadium\, North Easton\, MA
+LOCATION:W.B. Mason Stadium\, North Easton\, MA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867905@open-sports-cal
+DTSTART:20261114T170000Z
+DTEND:20261114T200000Z
+SUMMARY:Central Connecticut Blue Devils @ Long Island University Sharks
+DESCRIPTION:NCAA FCS Football 2026\nCentral Connecticut Blue Devils @ Long 
+ Island University Sharks\nShark Stadium\, Brookville\, NY
+LOCATION:Shark Stadium\, Brookville\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867906@open-sports-cal
+DTSTART:20261121T170000Z
+DTEND:20261121T200000Z
+SUMMARY:Duquesne Dukes @ Central Connecticut Blue Devils
+DESCRIPTION:NCAA FCS Football 2026\nDuquesne Dukes @ Central Connecticut Bl
+ ue Devils\nArute Field\, New Britain\, CT
+LOCATION:Arute Field\, New Britain\, CT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

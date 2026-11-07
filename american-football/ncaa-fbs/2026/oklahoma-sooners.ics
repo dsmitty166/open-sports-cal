@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Oklahoma Sooners
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856664@open-sports-cal
+DTSTART:20260905T000000Z
+DTEND:20260905T030000Z
+SUMMARY:UTEP Miners @ Oklahoma Sooners
+DESCRIPTION:NCAA FBS Football 2026\nUTEP Miners @ Oklahoma Sooners\nMemoria
+ l Stadium (Norman\, OK)\, Norman\, OK
+LOCATION:Memorial Stadium (Norman\, OK)\, Norman\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856679@open-sports-cal
+DTSTART:20260912T160000Z
+DTEND:20260912T190000Z
+SUMMARY:Oklahoma Sooners @ Michigan Wolverines
+DESCRIPTION:NCAA FBS Football 2026\nOklahoma Sooners @ Michigan Wolverines\
+ nMichigan Stadium\, Ann Arbor\, MI
+LOCATION:Michigan Stadium\, Ann Arbor\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856690@open-sports-cal
+DTSTART:20260919T233000Z
+DTEND:20260920T023000Z
+SUMMARY:New Mexico Lobos @ Oklahoma Sooners
+DESCRIPTION:NCAA FBS Football 2026\nNew Mexico Lobos @ Oklahoma Sooners\nMe
+ morial Stadium (Norman\, OK)\, Norman\, OK
+LOCATION:Memorial Stadium (Norman\, OK)\, Norman\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856700@open-sports-cal
+DTSTART:20260926T193000Z
+DTEND:20260926T223000Z
+SUMMARY:Oklahoma Sooners @ Georgia Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nOklahoma Sooners @ Georgia Bulldogs\nSa
+ nford Stadium\, Athens\, GA
+LOCATION:Sanford Stadium\, Athens\, GA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856717@open-sports-cal
+DTSTART:20261010T193000Z
+DTEND:20261010T223000Z
+SUMMARY:Texas Longhorns @ Oklahoma Sooners
+DESCRIPTION:NCAA FBS Football 2026\nTexas Longhorns @ Oklahoma Sooners\nCot
+ ton Bowl\, Dallas\, TX\nNeutral site
+LOCATION:Cotton Bowl\, Dallas\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856722@open-sports-cal
+DTSTART:20261017T233000Z
+DTEND:20261018T023000Z
+SUMMARY:Kentucky Wildcats @ Oklahoma Sooners
+DESCRIPTION:NCAA FBS Football 2026\nKentucky Wildcats @ Oklahoma Sooners\nM
+ emorial Stadium (Norman\, OK)\, Norman\, OK
+LOCATION:Memorial Stadium (Norman\, OK)\, Norman\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856730@open-sports-cal
+DTSTART:20261024T193000Z
+DTEND:20261024T223000Z
+SUMMARY:Oklahoma Sooners @ Mississippi State Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nOklahoma Sooners @ Mississippi State Bu
+ lldogs\nDavis Wade Stadium\, Starkville\, MS
+LOCATION:Davis Wade Stadium\, Starkville\, MS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856736@open-sports-cal
+DTSTART:20261031T201500Z
+DTEND:20261031T231500Z
+SUMMARY:South Carolina Gamecocks @ Oklahoma Sooners
+DESCRIPTION:NCAA FBS Football 2026\nSouth Carolina Gamecocks @ Oklahoma Soo
+ ners\nMemorial Stadium (Norman\, OK)\, Norman\, OK
+LOCATION:Memorial Stadium (Norman\, OK)\, Norman\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856739@open-sports-cal
+DTSTART:20261108T004500Z
+DTEND:20261108T034500Z
+SUMMARY:Oklahoma Sooners @ Florida Gators
+DESCRIPTION:NCAA FBS Football 2026\nOklahoma Sooners @ Florida Gators\nBen 
+ Hill Griffin Stadium\, Gainesville\, FL
+LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856887@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Ole Miss Rebels @ Oklahoma Sooners
+DESCRIPTION:NCAA FBS Football 2026\nOle Miss Rebels @ Oklahoma Sooners\nMem
+ orial Stadium (Norman\, OK)\, Norman\, OK\nStart time TBD
+LOCATION:Memorial Stadium (Norman\, OK)\, Norman\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856752@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Texas A&M Aggies @ Oklahoma Sooners
+DESCRIPTION:NCAA FBS Football 2026\nTexas A&M Aggies @ Oklahoma Sooners\nMe
+ morial Stadium (Norman\, OK)\, Norman\, OK\nStart time TBD
+LOCATION:Memorial Stadium (Norman\, OK)\, Norman\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856763@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Oklahoma Sooners @ Missouri Tigers
+DESCRIPTION:NCAA FBS Football 2026\nOklahoma Sooners @ Missouri Tigers\nMem
+ orial Stadium\, Columbia\, MO\nStart time TBD
+LOCATION:Memorial Stadium\, Columbia\, MO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

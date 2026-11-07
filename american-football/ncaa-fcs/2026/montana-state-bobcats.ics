@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Montana State Bobcats
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401868118@open-sports-cal
+DTSTART:20260830T020000Z
+DTEND:20260830T050000Z
+SUMMARY:Montana State Bobcats @ Utah Tech Trailblazers
+DESCRIPTION:NCAA FCS Football 2026\nMontana State Bobcats @ Utah Tech Trail
+ blazers\nGreater Zion Stadium\, Saint George\, UT
+LOCATION:Greater Zion Stadium\, Saint George\, UT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868119@open-sports-cal
+DTSTART:20260906T003000Z
+DTEND:20260906T033000Z
+SUMMARY:Butler Bulldogs @ Montana State Bobcats
+DESCRIPTION:NCAA FCS Football 2026\nButler Bulldogs @ Montana State Bobcats
+ \nBobcat Stadium (MT)\, Bozeman\, MT
+LOCATION:Bobcat Stadium (MT)\, Bozeman\, MT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401864500@open-sports-cal
+DTSTART:20260913T023000Z
+DTEND:20260913T053000Z
+SUMMARY:Montana State Bobcats @ Nevada Wolf Pack
+DESCRIPTION:NCAA FCS Football 2026\nMontana State Bobcats @ Nevada Wolf Pac
+ k\nMackay Stadium\, Reno\, NV
+LOCATION:Mackay Stadium\, Reno\, NV
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867898@open-sports-cal
+DTSTART:20260919T190000Z
+DTEND:20260919T220000Z
+SUMMARY:Central Connecticut Blue Devils @ Montana State Bobcats
+DESCRIPTION:NCAA FCS Football 2026\nCentral Connecticut Blue Devils @ Monta
+ na State Bobcats\nBobcat Stadium (MT)\, Bozeman\, MT
+LOCATION:Bobcat Stadium (MT)\, Bozeman\, MT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868120@open-sports-cal
+DTSTART:20260927T023000Z
+DTEND:20260927T053000Z
+SUMMARY:Northern Arizona Lumberjacks @ Montana State Bobcats
+DESCRIPTION:NCAA FCS Football 2026\nNorthern Arizona Lumberjacks @ Montana 
+ State Bobcats\nBobcat Stadium (MT)\, Bozeman\, MT
+LOCATION:Bobcat Stadium (MT)\, Bozeman\, MT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868094@open-sports-cal
+DTSTART:20261003T023000Z
+DTEND:20261003T053000Z
+SUMMARY:Montana State Bobcats @ Idaho Vandals
+DESCRIPTION:NCAA FCS Football 2026\nMontana State Bobcats @ Idaho Vandals\n
+ Kibbie Dome\, Moscow\, ID
+LOCATION:Kibbie Dome\, Moscow\, ID
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868088@open-sports-cal
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+SUMMARY:Montana State Bobcats @ Eastern Washington Eagles
+DESCRIPTION:NCAA FCS Football 2026\nMontana State Bobcats @ Eastern Washing
+ ton Eagles\nRoos Field\, Cheney\, WA
+LOCATION:Roos Field\, Cheney\, WA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868121@open-sports-cal
+DTSTART:20261024T190000Z
+DTEND:20261024T220000Z
+SUMMARY:Weber State Wildcats @ Montana State Bobcats
+DESCRIPTION:NCAA FCS Football 2026\nWeber State Wildcats @ Montana State Bo
+ bcats\nBobcat Stadium (MT)\, Bozeman\, MT
+LOCATION:Bobcat Stadium (MT)\, Bozeman\, MT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868081@open-sports-cal
+DTSTART:20261031T190000Z
+DTEND:20261031T220000Z
+SUMMARY:Cal Poly Mustangs @ Montana State Bobcats
+DESCRIPTION:NCAA FCS Football 2026\nCal Poly Mustangs @ Montana State Bobca
+ ts\nBobcat Stadium (MT)\, Bozeman\, MT
+LOCATION:Bobcat Stadium (MT)\, Bozeman\, MT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868108@open-sports-cal
+DTSTART:20261107T230000Z
+DTEND:20261108T020000Z
+SUMMARY:Montana State Bobcats @ Idaho State Bengals
+DESCRIPTION:NCAA FCS Football 2026\nMontana State Bobcats @ Idaho State Ben
+ gals\nICCU Dome\, Pocatello\, ID
+LOCATION:ICCU Dome\, Pocatello\, ID
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868122@open-sports-cal
+DTSTART:20261114T190000Z
+DTEND:20261114T220000Z
+SUMMARY:Montana State Bobcats @ Northern Colorado Bears
+DESCRIPTION:NCAA FCS Football 2026\nMontana State Bobcats @ Northern Colora
+ do Bears\nNottingham Field\, Greeley\, CO
+LOCATION:Nottingham Field\, Greeley\, CO
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868117@open-sports-cal
+DTSTART:20261121T190000Z
+DTEND:20261121T220000Z
+SUMMARY:Montana Grizzlies @ Montana State Bobcats
+DESCRIPTION:NCAA FCS Football 2026\nMontana Grizzlies @ Montana State Bobca
+ ts\nBobcat Stadium (MT)\, Bozeman\, MT
+LOCATION:Bobcat Stadium (MT)\, Bozeman\, MT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+END:VCALENDAR

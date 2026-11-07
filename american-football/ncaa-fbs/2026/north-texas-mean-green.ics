@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - North Texas Mean Green
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858425@open-sports-cal
+DTSTART:20260905T160000Z
+DTEND:20260905T190000Z
+SUMMARY:North Texas Mean Green @ Indiana Hoosiers
+DESCRIPTION:NCAA FBS Football 2026\nNorth Texas Mean Green @ Indiana Hoosie
+ rs\nMemorial Stadium (Bloomington\, IN)\, Bloomington\, IN
+LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862705@open-sports-cal
+DTSTART:20260912T194500Z
+DTEND:20260912T224500Z
+SUMMARY:UNLV Rebels @ North Texas Mean Green
+DESCRIPTION:NCAA FBS Football 2026\nUNLV Rebels @ North Texas Mean Green\nD
+ ATCU Stadium\, Denton\, TX
+LOCATION:DATCU Stadium\, Denton\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860889@open-sports-cal
+DTSTART:20260919T160000Z
+DTEND:20260919T190000Z
+SUMMARY:North Texas Mean Green @ Texas State Bobcats
+DESCRIPTION:NCAA FBS Football 2026\nNorth Texas Mean Green @ Texas State Bo
+ bcats\nUFCU Stadium\, San Marcos\, TX
+LOCATION:UFCU Stadium\, San Marcos\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862783@open-sports-cal
+DTSTART:20260926T233000Z
+DTEND:20260927T023000Z
+SUMMARY:Houston Christian Huskies @ North Texas Mean Green
+DESCRIPTION:NCAA FBS Football 2026\nHouston Christian Huskies @ North Texas
+  Mean Green\nDATCU Stadium\, Denton\, TX
+LOCATION:DATCU Stadium\, Denton\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862786@open-sports-cal
+DTSTART:20261002T010000Z
+DTEND:20261002T040000Z
+SUMMARY:North Texas Mean Green @ Tulsa Golden Hurricane
+DESCRIPTION:NCAA FBS Football 2026\nNorth Texas Mean Green @ Tulsa Golden H
+ urricane\nH. A. Chapman Stadium\, Tulsa\, OK
+LOCATION:H. A. Chapman Stadium\, Tulsa\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862796@open-sports-cal
+DTSTART:20261010T193000Z
+DTEND:20261010T223000Z
+SUMMARY:Charlotte 49ers @ North Texas Mean Green
+DESCRIPTION:NCAA FBS Football 2026\nCharlotte 49ers @ North Texas Mean Gree
+ n\nDATCU Stadium\, Denton\, TX
+LOCATION:DATCU Stadium\, Denton\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862810@open-sports-cal
+DTSTART:20261024T193000Z
+DTEND:20261024T223000Z
+SUMMARY:North Texas Mean Green @ Navy Midshipmen
+DESCRIPTION:NCAA FBS Football 2026\nNorth Texas Mean Green @ Navy Midshipme
+ n\nNavy-Marine Corps Memorial Stadium\, Annapolis\, MD
+LOCATION:Navy-Marine Corps Memorial Stadium\, Annapolis\, MD
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862812@open-sports-cal
+DTSTART:20261029T233000Z
+DTEND:20261030T023000Z
+SUMMARY:Florida Atlantic Owls @ North Texas Mean Green
+DESCRIPTION:NCAA FBS Football 2026\nFlorida Atlantic Owls @ North Texas Mea
+ n Green\nDATCU Stadium\, Denton\, TX
+LOCATION:DATCU Stadium\, Denton\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862821@open-sports-cal
+DTSTART:20261107T210000Z
+DTEND:20261108T000000Z
+SUMMARY:Rice Owls @ North Texas Mean Green
+DESCRIPTION:NCAA FBS Football 2026\nRice Owls @ North Texas Mean Green\nDAT
+ CU Stadium\, Denton\, TX
+LOCATION:DATCU Stadium\, Denton\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862827@open-sports-cal
+DTSTART:20261115T020000Z
+DTEND:20261115T050000Z
+SUMMARY:North Texas Mean Green @ UTSA Roadrunners
+DESCRIPTION:NCAA FBS Football 2026\nNorth Texas Mean Green @ UTSA Roadrunne
+ rs\nAlamodome\, San Antonio\, TX
+LOCATION:Alamodome\, San Antonio\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862835@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:North Texas Mean Green @ Tulane Green Wave
+DESCRIPTION:NCAA FBS Football 2026\nNorth Texas Mean Green @ Tulane Green W
+ ave\nYulman Stadium\, New Orleans\, LA\nStart time TBD
+LOCATION:Yulman Stadium\, New Orleans\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862843@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:UAB Blazers @ North Texas Mean Green
+DESCRIPTION:NCAA FBS Football 2026\nUAB Blazers @ North Texas Mean Green\nD
+ ATCU Stadium\, Denton\, TX\nStart time TBD
+LOCATION:DATCU Stadium\, Denton\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

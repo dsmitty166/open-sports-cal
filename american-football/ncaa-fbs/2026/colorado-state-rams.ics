@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Colorado State Rams
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401860878@open-sports-cal
+DTSTART:20260905T220000Z
+DTEND:20260906T010000Z
+SUMMARY:Wyoming Cowboys @ Colorado State Rams
+DESCRIPTION:NCAA FBS Football 2026\nWyoming Cowboys @ Colorado State Rams\n
+ Canvas Stadium\, Fort Collins\, CO
+LOCATION:Canvas Stadium\, Fort Collins\, CO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860882@open-sports-cal
+DTSTART:20260912T230000Z
+DTEND:20260913T020000Z
+SUMMARY:Southern Utah Thunderbirds @ Colorado State Rams
+DESCRIPTION:NCAA FBS Football 2026\nSouthern Utah Thunderbirds @ Colorado S
+ tate Rams\nCanvas Stadium\, Fort Collins\, CO
+LOCATION:Canvas Stadium\, Fort Collins\, CO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856795@open-sports-cal
+DTSTART:20260920T001500Z
+DTEND:20260920T031500Z
+SUMMARY:BYU Cougars @ Colorado State Rams
+DESCRIPTION:NCAA FBS Football 2026\nBYU Cougars @ Colorado State Rams\nCanv
+ as Stadium\, Fort Collins\, CO
+LOCATION:Canvas Stadium\, Fort Collins\, CO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860896@open-sports-cal
+DTSTART:20260926T160000Z
+DTEND:20260926T190000Z
+SUMMARY:Colorado State Rams @ UTSA Roadrunners
+DESCRIPTION:NCAA FBS Football 2026\nColorado State Rams @ UTSA Roadrunners\
+ nAlamodome\, San Antonio\, TX
+LOCATION:Alamodome\, San Antonio\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860899@open-sports-cal
+DTSTART:20261003T220000Z
+DTEND:20261004T010000Z
+SUMMARY:Oregon State Beavers @ Colorado State Rams
+DESCRIPTION:NCAA FBS Football 2026\nOregon State Beavers @ Colorado State R
+ ams\nCanvas Stadium\, Fort Collins\, CO
+LOCATION:Canvas Stadium\, Fort Collins\, CO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860923@open-sports-cal
+DTSTART:20261016T000000Z
+DTEND:20261016T030000Z
+SUMMARY:Colorado State Rams @ Texas State Bobcats
+DESCRIPTION:NCAA FBS Football 2026\nColorado State Rams @ Texas State Bobca
+ ts\nUFCU Stadium\, San Marcos\, TX
+LOCATION:UFCU Stadium\, San Marcos\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860905@open-sports-cal
+DTSTART:20261024T223000Z
+DTEND:20261025T013000Z
+SUMMARY:San Diego State Aztecs @ Colorado State Rams
+DESCRIPTION:NCAA FBS Football 2026\nSan Diego State Aztecs @ Colorado State
+  Rams\nCanvas Stadium\, Fort Collins\, CO
+LOCATION:Canvas Stadium\, Fort Collins\, CO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860910@open-sports-cal
+DTSTART:20261031T193000Z
+DTEND:20261031T223000Z
+SUMMARY:Colorado State Rams @ Utah State Aggies
+DESCRIPTION:NCAA FBS Football 2026\nColorado State Rams @ Utah State Aggies
+ \nMaverik Stadium\, Logan\, UT
+LOCATION:Maverik Stadium\, Logan\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860911@open-sports-cal
+DTSTART:20261107T230000Z
+DTEND:20261108T020000Z
+SUMMARY:Boise State Broncos @ Colorado State Rams
+DESCRIPTION:NCAA FBS Football 2026\nBoise State Broncos @ Colorado State Ra
+ ms\nCanvas Stadium\, Fort Collins\, CO
+LOCATION:Canvas Stadium\, Fort Collins\, CO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860917@open-sports-cal
+DTSTART:20261115T033000Z
+DTEND:20261115T063000Z
+SUMMARY:Colorado State Rams @ Washington State Cougars
+DESCRIPTION:NCAA FBS Football 2026\nColorado State Rams @ Washington State 
+ Cougars\nMartin Stadium\, Pullman\, WA
+LOCATION:Martin Stadium\, Pullman\, WA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860918@open-sports-cal
+DTSTART:20261122T003000Z
+DTEND:20261122T033000Z
+SUMMARY:Colorado State Rams @ Fresno State Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nColorado State Rams @ Fresno State Bull
+ dogs\nValley Children's Stadium\, Fresno\, CA
+LOCATION:Valley Children's Stadium\, Fresno\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860926@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:TBD @ Colorado State Rams
+DESCRIPTION:NCAA FBS Football 2026\nTBD @ Colorado State Rams\nCanvas Stadi
+ um\, Fort Collins\, CO\nStart time TBD
+LOCATION:Canvas Stadium\, Fort Collins\, CO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

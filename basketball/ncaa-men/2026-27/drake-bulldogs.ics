@@ -1,0 +1,413 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Drake Bulldogs
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401927361@open-sports-cal
+DTSTART:20261105T003000Z
+DTEND:20261105T033000Z
+SUMMARY:Central College Dutch @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral College Dutch @ Drake Bu
+ lldogs\nKnapp Center\, Des Moines\, IA
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927362@open-sports-cal
+DTSTART:20261108T200000Z
+DTEND:20261108T230000Z
+SUMMARY:Southern Jaguars @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Jaguars @ Drake Bulldog
+ s\nKnapp Center\, Des Moines\, IA
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927363@open-sports-cal
+DTSTART:20261114T003000Z
+DTEND:20261114T033000Z
+SUMMARY:South Dakota Coyotes @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota Coyotes @ Drake Bul
+ ldogs\nKnapp Center\, Des Moines\, IA
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927364@open-sports-cal
+DTSTART:20261117T003000Z
+DTEND:20261117T033000Z
+SUMMARY:Tarleton State Texans @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTarleton State Texans @ Drake Bu
+ lldogs\nKnapp Center\, Des Moines\, IA
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926814@open-sports-cal
+DTSTART:20261120T003000Z
+DTEND:20261120T033000Z
+SUMMARY:Charleston Cougars @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Cougars @ Drake Bulld
+ ogs\nKnapp Center\, Des Moines\, IA
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927365@open-sports-cal
+DTSTART:20261121T200000Z
+DTEND:20261121T230000Z
+SUMMARY:Drake Bulldogs @ Missouri State Bears
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Missouri State 
+ Bears\nGreat Southern Bank Arena\, Springfield\, MO
+LOCATION:Great Southern Bank Arena\, Springfield\, MO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927366@open-sports-cal
+DTSTART:20261127T223000Z
+DTEND:20261128T013000Z
+SUMMARY:Drake Bulldogs @ Boise State Broncos
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Boise State Bro
+ ncos\nMountain America Center\, Idaho Falls\, ID\nNeutral site
+LOCATION:Mountain America Center\, Idaho Falls\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927367@open-sports-cal
+DTSTART:20261128T230000Z
+DTEND:20261129T020000Z
+SUMMARY:Drake Bulldogs @ North Dakota State Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ North Dakota St
+ ate Bison\nMountain America Center\, Idaho Falls\, ID\nNeutral site
+LOCATION:Mountain America Center\, Idaho Falls\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925830@open-sports-cal
+DTSTART:20261129T213000Z
+DTEND:20261130T003000Z
+SUMMARY:Drake Bulldogs @ North Texas Mean Green
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ North Texas Mea
+ n Green\nMountain America Center\, Idaho Falls\, ID\nNeutral site
+LOCATION:Mountain America Center\, Idaho Falls\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925758@open-sports-cal
+DTSTART:20261205T193000Z
+DTEND:20261205T223000Z
+SUMMARY:Drake Bulldogs @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Michigan State 
+ Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927355@open-sports-cal
+DTSTART:20261212T003000Z
+DTEND:20261212T033000Z
+SUMMARY:North Carolina Central Eagles @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Central Eagles @ 
+ Drake Bulldogs\nKnapp Center\, Des Moines\, IA
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922511@open-sports-cal
+DTSTART:20261216T010000Z
+DTEND:20261216T040000Z
+SUMMARY:Drake Bulldogs @ Evansville Purple Aces
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Evansville Purp
+ le Aces\nFord Center\, Evansville\, IN
+LOCATION:Ford Center\, Evansville\, IN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925777@open-sports-cal
+DTSTART:20261219T000000Z
+DTEND:20261219T030000Z
+SUMMARY:Drake Bulldogs @ Davidson Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Davidson Wildca
+ ts\nT-Mobile Center\, Kansas City\, MO\nNeutral site
+LOCATION:T-Mobile Center\, Kansas City\, MO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922519@open-sports-cal
+DTSTART:20261223T000000Z
+DTEND:20261223T030000Z
+SUMMARY:Southern Illinois Salukis @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Illinois Salukis @ Drak
+ e Bulldogs\nKnapp Center\, Des Moines\, IA
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922521@open-sports-cal
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Drake Bulldogs @ Indiana State Sycamores
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Indiana State S
+ ycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD
+LOCATION:Hulman Center\, Terre Haute\, IN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922526@open-sports-cal
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Drake Bulldogs @ Murray State Racers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Murray State Ra
+ cers\nCFSB Center\, Murray\, KY\nStart time TBD
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922532@open-sports-cal
+DTSTART:20270106T003000Z
+DTEND:20270106T033000Z
+SUMMARY:Belmont Bruins @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Drake Bulldogs\
+ nKnapp Center\, Des Moines\, IA
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922542@open-sports-cal
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Valparaiso Beacons @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Drake Bulld
+ ogs\nKnapp Center\, Des Moines\, IA\nStart time TBD
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922547@open-sports-cal
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Drake Bulldogs @ Bradley Braves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Bradley Braves\
+ nCarver Arena\, Peoria\, IL\nStart time TBD
+LOCATION:Carver Arena\, Peoria\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922552@open-sports-cal
+DTSTART:20270119T010000Z
+DTEND:20270119T040000Z
+SUMMARY:Drake Bulldogs @ Illinois State Redbirds
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Illinois State 
+ Redbirds\nCEFCU Arena\, Normal\, IL
+LOCATION:CEFCU Arena\, Normal\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922557@open-sports-cal
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:UIC Flames @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUIC Flames @ Drake Bulldogs\nKna
+ pp Center\, Des Moines\, IA\nStart time TBD
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922563@open-sports-cal
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Murray State Racers @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMurray State Racers @ Drake Bull
+ dogs\nKnapp Center\, Des Moines\, IA\nStart time TBD
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922566@open-sports-cal
+DTSTART:20270128T003000Z
+DTEND:20270128T033000Z
+SUMMARY:Drake Bulldogs @ Belmont Bruins
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Belmont Bruins\
+ nCurb Event Center Arena\, Nashville\, TN
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922575@open-sports-cal
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Northern Iowa Panthers @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Iowa Panthers @ Drake B
+ ulldogs\nKnapp Center\, Des Moines\, IA\nStart time TBD
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922580@open-sports-cal
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Drake Bulldogs @ Valparaiso Beacons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Valparaiso Beac
+ ons\nAthletics-Recreation Center\, Valparaiso\, IN\nStart time TBD
+LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922582@open-sports-cal
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Evansville Purple Aces @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nEvansville Purple Aces @ Drake B
+ ulldogs\nKnapp Center\, Des Moines\, IA\nStart time TBD
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922589@open-sports-cal
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Drake Bulldogs @ Southern Illinois Salukis
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Southern Illino
+ is Salukis\nBanterra Center\, Carbondale\, IL\nStart time TBD
+LOCATION:Banterra Center\, Carbondale\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922592@open-sports-cal
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Bradley Braves @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBradley Braves @ Drake Bulldogs\
+ nKnapp Center\, Des Moines\, IA\nStart time TBD
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922603@open-sports-cal
+DTSTART:20270219T003000Z
+DTEND:20270219T033000Z
+SUMMARY:Indiana State Sycamores @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Drake 
+ Bulldogs\nKnapp Center\, Des Moines\, IA
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922609@open-sports-cal
+DTSTART:20270221T190000Z
+DTEND:20270221T220000Z
+SUMMARY:Drake Bulldogs @ Northern Iowa Panthers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Northern Iowa P
+ anthers\nMcLeod Center\, Cedar Falls\, IA
+LOCATION:McLeod Center\, Cedar Falls\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922610@open-sports-cal
+DTSTART:20270225T003000Z
+DTEND:20270225T033000Z
+SUMMARY:Illinois State Redbirds @ Drake Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois State Redbirds @ Drake 
+ Bulldogs\nKnapp Center\, Des Moines\, IA
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922617@open-sports-cal
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Drake Bulldogs @ UIC Flames
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ UIC Flames\nCre
+ dit Union 1 Arena\, Chicago\, IL\nStart time TBD
+LOCATION:Credit Union 1 Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

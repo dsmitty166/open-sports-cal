@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Kentucky Wildcats
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856659@open-sports-cal
+DTSTART:20260905T170000Z
+DTEND:20260905T200000Z
+SUMMARY:Youngstown State Penguins @ Kentucky Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nYoungstown State Penguins @ Kentucky Wi
+ ldcats\nKroger Field\, Lexington\, KY
+LOCATION:Kroger Field\, Lexington\, KY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856674@open-sports-cal
+DTSTART:20260912T193000Z
+DTEND:20260912T223000Z
+SUMMARY:Alabama Crimson Tide @ Kentucky Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nAlabama Crimson Tide @ Kentucky Wildcat
+ s\nKroger Field\, Lexington\, KY
+LOCATION:Kroger Field\, Lexington\, KY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856694@open-sports-cal
+DTSTART:20260919T194000Z
+DTEND:20260919T224000Z
+SUMMARY:Kentucky Wildcats @ Texas A&M Aggies
+DESCRIPTION:NCAA FBS Football 2026\nKentucky Wildcats @ Texas A&M Aggies\nK
+ yle Field\, College Station\, TX
+LOCATION:Kyle Field\, College Station\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401864576@open-sports-cal
+DTSTART:20260926T164500Z
+DTEND:20260926T194500Z
+SUMMARY:South Alabama Jaguars @ Kentucky Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nSouth Alabama Jaguars @ Kentucky Wildca
+ ts\nKroger Field\, Lexington\, KY
+LOCATION:Kroger Field\, Lexington\, KY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856709@open-sports-cal
+DTSTART:20261003T201500Z
+DTEND:20261003T231500Z
+SUMMARY:Kentucky Wildcats @ South Carolina Gamecocks
+DESCRIPTION:NCAA FBS Football 2026\nKentucky Wildcats @ South Carolina Game
+ cocks\nWilliams-Brice Stadium\, Columbia\, SC
+LOCATION:Williams-Brice Stadium\, Columbia\, SC
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856715@open-sports-cal
+DTSTART:20261010T230000Z
+DTEND:20261011T020000Z
+SUMMARY:LSU Tigers @ Kentucky Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nLSU Tigers @ Kentucky Wildcats\nKroger 
+ Field\, Lexington\, KY
+LOCATION:Kroger Field\, Lexington\, KY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856722@open-sports-cal
+DTSTART:20261017T233000Z
+DTEND:20261018T023000Z
+SUMMARY:Kentucky Wildcats @ Oklahoma Sooners
+DESCRIPTION:NCAA FBS Football 2026\nKentucky Wildcats @ Oklahoma Sooners\nM
+ emorial Stadium (Norman\, OK)\, Norman\, OK
+LOCATION:Memorial Stadium (Norman\, OK)\, Norman\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856729@open-sports-cal
+DTSTART:20261024T233000Z
+DTEND:20261025T023000Z
+SUMMARY:Vanderbilt Commodores @ Kentucky Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nVanderbilt Commodores @ Kentucky Wildca
+ ts\nKroger Field\, Lexington\, KY
+LOCATION:Kroger Field\, Lexington\, KY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856745@open-sports-cal
+DTSTART:20261107T231500Z
+DTEND:20261108T021500Z
+SUMMARY:Kentucky Wildcats @ Tennessee Volunteers
+DESCRIPTION:NCAA FBS Football 2026\nKentucky Wildcats @ Tennessee Volunteer
+ s\nNeyland Stadium\, Knoxville\, TN
+LOCATION:Neyland Stadium\, Knoxville\, TN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856884@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Florida Gators @ Kentucky Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nFlorida Gators @ Kentucky Wildcats\nKro
+ ger Field\, Lexington\, KY\nStart time TBD
+LOCATION:Kroger Field\, Lexington\, KY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856751@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Kentucky Wildcats @ Missouri Tigers
+DESCRIPTION:NCAA FBS Football 2026\nKentucky Wildcats @ Missouri Tigers\nMe
+ morial Stadium\, Columbia\, MO\nStart time TBD
+LOCATION:Memorial Stadium\, Columbia\, MO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856761@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Louisville Cardinals @ Kentucky Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nLouisville Cardinals @ Kentucky Wildcat
+ s\nKroger Field\, Lexington\, KY\nStart time TBD
+LOCATION:Kroger Field\, Lexington\, KY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Army Black Knights
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401862701@open-sports-cal
+DTSTART:20260905T160000Z
+DTEND:20260905T190000Z
+SUMMARY:Bryant Bulldogs @ Army Black Knights
+DESCRIPTION:NCAA FBS Football 2026\nBryant Bulldogs @ Army Black Knights\nM
+ ichie Stadium\, West Point\, NY
+LOCATION:Michie Stadium\, West Point\, NY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862702@open-sports-cal
+DTSTART:20260912T160000Z
+DTEND:20260912T190000Z
+SUMMARY:South Florida Bulls @ Army Black Knights
+DESCRIPTION:NCAA FBS Football 2026\nSouth Florida Bulls @ Army Black Knight
+ s\nMichie Stadium\, West Point\, NY
+LOCATION:Michie Stadium\, West Point\, NY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862779@open-sports-cal
+DTSTART:20260925T200000Z
+DTEND:20260925T230000Z
+SUMMARY:Army Black Knights @ Temple Owls
+DESCRIPTION:NCAA FBS Football 2026\nArmy Black Knights @ Temple Owls\nLinco
+ ln Financial Field\, Philadelphia\, PA
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401869842@open-sports-cal
+DTSTART:20261003T233000Z
+DTEND:20261004T023000Z
+SUMMARY:Army Black Knights @ Louisiana Tech Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nArmy Black Knights @ Louisiana Tech Bul
+ ldogs\nJoe Aillet Stadium\, Ruston\, LA
+LOCATION:Joe Aillet Stadium\, Ruston\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862795@open-sports-cal
+DTSTART:20261010T160000Z
+DTEND:20261010T190000Z
+SUMMARY:Tulane Green Wave @ Army Black Knights
+DESCRIPTION:NCAA FBS Football 2026\nTulane Green Wave @ Army Black Knights\
+ nMichie Stadium\, West Point\, NY
+LOCATION:Michie Stadium\, West Point\, NY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862802@open-sports-cal
+DTSTART:20261017T160000Z
+DTEND:20261017T190000Z
+SUMMARY:Florida Atlantic Owls @ Army Black Knights
+DESCRIPTION:NCAA FBS Football 2026\nFlorida Atlantic Owls @ Army Black Knig
+ hts\nMichie Stadium\, West Point\, NY
+LOCATION:Michie Stadium\, West Point\, NY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862808@open-sports-cal
+DTSTART:20261024T003000Z
+DTEND:20261024T033000Z
+SUMMARY:Army Black Knights @ Tulsa Golden Hurricane
+DESCRIPTION:NCAA FBS Football 2026\nArmy Black Knights @ Tulsa Golden Hurri
+ cane\nH. A. Chapman Stadium\, Tulsa\, OK
+LOCATION:H. A. Chapman Stadium\, Tulsa\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862814@open-sports-cal
+DTSTART:20261101T000000Z
+DTEND:20261101T030000Z
+SUMMARY:Army Black Knights @ Memphis Tigers
+DESCRIPTION:NCAA FBS Football 2026\nArmy Black Knights @ Memphis Tigers\nSi
+ mmons Bank Liberty Stadium\, Memphis\, TN
+LOCATION:Simmons Bank Liberty Stadium\, Memphis\, TN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862823@open-sports-cal
+DTSTART:20261108T003000Z
+DTEND:20261108T033000Z
+SUMMARY:Air Force Falcons @ Army Black Knights
+DESCRIPTION:NCAA FBS Football 2026\nAir Force Falcons @ Army Black Knights\
+ nMichie Stadium\, West Point\, NY
+LOCATION:Michie Stadium\, West Point\, NY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862831@open-sports-cal
+DTSTART:20261121T170000Z
+DTEND:20261121T200000Z
+SUMMARY:East Carolina Pirates @ Army Black Knights
+DESCRIPTION:NCAA FBS Football 2026\nEast Carolina Pirates @ Army Black Knig
+ hts\nMichie Stadium\, West Point\, NY
+LOCATION:Michie Stadium\, West Point\, NY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862841@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Army Black Knights @ Rice Owls
+DESCRIPTION:NCAA FBS Football 2026\nArmy Black Knights @ Rice Owls\nFirst C
+ ommunity Stadium\, Houston\, TX\nStart time TBD
+LOCATION:First Community Stadium\, Houston\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862844@open-sports-cal
+DTSTART:20261212T200000Z
+DTEND:20261212T230000Z
+SUMMARY:Navy Midshipmen @ Army Black Knights
+DESCRIPTION:NCAA FBS Football 2026\nNavy Midshipmen @ Army Black Knights\nM
+ etLife Stadium\, East Rutherford\, NJ\nNeutral site
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

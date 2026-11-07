@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - North Dakota Fighting Hawks
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401867874@open-sports-cal
+DTSTART:20260828T000000Z
+DTEND:20260828T030000Z
+SUMMARY:Long Island University Sharks @ North Dakota Fighting Hawks
+DESCRIPTION:NCAA FCS Football 2026\nLong Island University Sharks @ North D
+ akota Fighting Hawks\nAlerus Center\, Grand Forks\, ND
+LOCATION:Alerus Center\, Grand Forks\, ND
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867875@open-sports-cal
+DTSTART:20260905T200000Z
+DTEND:20260905T230000Z
+SUMMARY:St. Thomas Tommies @ North Dakota Fighting Hawks
+DESCRIPTION:NCAA FCS Football 2026\nSt. Thomas Tommies @ North Dakota Fight
+ ing Hawks\nAlerus Center\, Grand Forks\, ND
+LOCATION:Alerus Center\, Grand Forks\, ND
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867876@open-sports-cal
+DTSTART:20260913T020000Z
+DTEND:20260913T050000Z
+SUMMARY:North Dakota Fighting Hawks @ Portland State Vikings
+DESCRIPTION:NCAA FCS Football 2026\nNorth Dakota Fighting Hawks @ Portland 
+ State Vikings\nHillsboro Stadium\, Portland\, OR
+LOCATION:Hillsboro Stadium\, Portland\, OR
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401858452@open-sports-cal
+DTSTART:20260919T231500Z
+DTEND:20260920T021500Z
+SUMMARY:North Dakota Fighting Hawks @ Nebraska Cornhuskers
+DESCRIPTION:NCAA FCS Football 2026\nNorth Dakota Fighting Hawks @ Nebraska 
+ Cornhuskers\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE
+LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867858@open-sports-cal
+DTSTART:20260926T170000Z
+DTEND:20260926T200000Z
+SUMMARY:North Dakota Fighting Hawks @ Indiana State Sycamores
+DESCRIPTION:NCAA FCS Football 2026\nNorth Dakota Fighting Hawks @ Indiana S
+ tate Sycamores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
+LOCATION:Memorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867869@open-sports-cal
+DTSTART:20261003T180000Z
+DTEND:20261003T210000Z
+SUMMARY:Murray State Racers @ North Dakota Fighting Hawks
+DESCRIPTION:NCAA FCS Football 2026\nMurray State Racers @ North Dakota Figh
+ ting Hawks\nAlerus Center\, Grand Forks\, ND
+LOCATION:Alerus Center\, Grand Forks\, ND
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867877@open-sports-cal
+DTSTART:20261010T210000Z
+DTEND:20261011T000000Z
+SUMMARY:North Dakota Fighting Hawks @ Northern Iowa Panthers
+DESCRIPTION:NCAA FCS Football 2026\nNorth Dakota Fighting Hawks @ Northern 
+ Iowa Panthers\nUNI-Dome\, Cedar Falls\, IA
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867878@open-sports-cal
+DTSTART:20261017T180000Z
+DTEND:20261017T210000Z
+SUMMARY:South Dakota State Jackrabbits @ North Dakota Fighting Hawks
+DESCRIPTION:NCAA FCS Football 2026\nSouth Dakota State Jackrabbits @ North 
+ Dakota Fighting Hawks\nAlerus Center\, Grand Forks\, ND
+LOCATION:Alerus Center\, Grand Forks\, ND
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867879@open-sports-cal
+DTSTART:20261024T180000Z
+DTEND:20261024T210000Z
+SUMMARY:North Dakota Fighting Hawks @ South Dakota Coyotes
+DESCRIPTION:NCAA FCS Football 2026\nNorth Dakota Fighting Hawks @ South Dak
+ ota Coyotes\nThe DakotaDome\, Vermillion\, SD
+LOCATION:The DakotaDome\, Vermillion\, SD
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867880@open-sports-cal
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:North Dakota Fighting Hawks @ Youngstown State Penguins
+DESCRIPTION:NCAA FCS Football 2026\nNorth Dakota Fighting Hawks @ Youngstow
+ n State Penguins\nStambaugh Stadium\, Youngstown\, OH
+LOCATION:Stambaugh Stadium\, Youngstown\, OH
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867852@open-sports-cal
+DTSTART:20261107T190000Z
+DTEND:20261107T220000Z
+SUMMARY:Illinois State Redbirds @ North Dakota Fighting Hawks
+DESCRIPTION:NCAA FCS Football 2026\nIllinois State Redbirds @ North Dakota 
+ Fighting Hawks\nAlerus Center\, Grand Forks\, ND
+LOCATION:Alerus Center\, Grand Forks\, ND
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867881@open-sports-cal
+DTSTART:20261121T190000Z
+DTEND:20261121T220000Z
+SUMMARY:Southern Illinois Salukis @ North Dakota Fighting Hawks
+DESCRIPTION:NCAA FCS Football 2026\nSouthern Illinois Salukis @ North Dakot
+ a Fighting Hawks\nAlerus Center\, Grand Forks\, ND
+LOCATION:Alerus Center\, Grand Forks\, ND
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

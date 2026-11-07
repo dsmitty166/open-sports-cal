@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Idaho Vandals
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401868073@open-sports-cal
+DTSTART:20260829T020000Z
+DTEND:20260829T050000Z
+SUMMARY:Idaho Vandals @ Cal Poly Mustangs
+DESCRIPTION:NCAA FCS Football 2026\nIdaho Vandals @ Cal Poly Mustangs\nMust
+ ang Memorial Field at Spanos Stadium\, San Luis Obispo\, CA
+LOCATION:Mustang Memorial Field at Spanos Stadium\, San Luis Obispo\, CA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401856768@open-sports-cal
+DTSTART:20260904T010000Z
+DTEND:20260904T040000Z
+SUMMARY:Idaho Vandals @ Utah Utes
+DESCRIPTION:NCAA FCS Football 2026\nIdaho Vandals @ Utah Utes\nRice-Eccles 
+ Stadium\, Salt Lake City\, UT
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868093@open-sports-cal
+DTSTART:20260912T200000Z
+DTEND:20260912T230000Z
+SUMMARY:Lamar Cardinals @ Idaho Vandals
+DESCRIPTION:NCAA FCS Football 2026\nLamar Cardinals @ Idaho Vandals\nKibbie
+  Dome\, Moscow\, ID
+LOCATION:Kibbie Dome\, Moscow\, ID
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868051@open-sports-cal
+DTSTART:20260919T200000Z
+DTEND:20260919T230000Z
+SUMMARY:Abilene Christian Wildcats @ Idaho Vandals
+DESCRIPTION:NCAA FCS Football 2026\nAbilene Christian Wildcats @ Idaho Vand
+ als\nKibbie Dome\, Moscow\, ID
+LOCATION:Kibbie Dome\, Moscow\, ID
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868094@open-sports-cal
+DTSTART:20261003T023000Z
+DTEND:20261003T053000Z
+SUMMARY:Montana State Bobcats @ Idaho Vandals
+DESCRIPTION:NCAA FCS Football 2026\nMontana State Bobcats @ Idaho Vandals\n
+ Kibbie Dome\, Moscow\, ID
+LOCATION:Kibbie Dome\, Moscow\, ID
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868095@open-sports-cal
+DTSTART:20261010T190000Z
+DTEND:20261010T220000Z
+SUMMARY:Idaho Vandals @ Weber State Wildcats
+DESCRIPTION:NCAA FCS Football 2026\nIdaho Vandals @ Weber State Wildcats\nS
+ tewart Stadium\, Ogden\, UT
+LOCATION:Stewart Stadium\, Ogden\, UT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868096@open-sports-cal
+DTSTART:20261017T190000Z
+DTEND:20261017T220000Z
+SUMMARY:Idaho Vandals @ Montana Grizzlies
+DESCRIPTION:NCAA FCS Football 2026\nIdaho Vandals @ Montana Grizzlies\nWash
+ ington-Grizzly Stadium\, Missoula\, MT
+LOCATION:Washington-Grizzly Stadium\, Missoula\, MT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868097@open-sports-cal
+DTSTART:20261024T210000Z
+DTEND:20261025T000000Z
+SUMMARY:Southern Utah Thunderbirds @ Idaho Vandals
+DESCRIPTION:NCAA FCS Football 2026\nSouthern Utah Thunderbirds @ Idaho Vand
+ als\nKibbie Dome\, Moscow\, ID
+LOCATION:Kibbie Dome\, Moscow\, ID
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868098@open-sports-cal
+DTSTART:20261031T200000Z
+DTEND:20261031T230000Z
+SUMMARY:Idaho Vandals @ Portland State Vikings
+DESCRIPTION:NCAA FCS Football 2026\nIdaho Vandals @ Portland State Vikings\
+ nHillsboro Stadium\, Portland\, OR
+LOCATION:Hillsboro Stadium\, Portland\, OR
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868090@open-sports-cal
+DTSTART:20261107T220000Z
+DTEND:20261108T010000Z
+SUMMARY:Eastern Washington Eagles @ Idaho Vandals
+DESCRIPTION:NCAA FCS Football 2026\nEastern Washington Eagles @ Idaho Vanda
+ ls\nKibbie Dome\, Moscow\, ID
+LOCATION:Kibbie Dome\, Moscow\, ID
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868099@open-sports-cal
+DTSTART:20261114T210000Z
+DTEND:20261115T000000Z
+SUMMARY:UC Davis Aggies @ Idaho Vandals
+DESCRIPTION:NCAA FCS Football 2026\nUC Davis Aggies @ Idaho Vandals\nKibbie
+  Dome\, Moscow\, ID
+LOCATION:Kibbie Dome\, Moscow\, ID
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868100@open-sports-cal
+DTSTART:20261121T230000Z
+DTEND:20261122T020000Z
+SUMMARY:Idaho Vandals @ Idaho State Bengals
+DESCRIPTION:NCAA FCS Football 2026\nIdaho Vandals @ Idaho State Bengals\nIC
+ CU Dome\, Pocatello\, ID
+LOCATION:ICCU Dome\, Pocatello\, ID
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Iowa State Cyclones
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856779@open-sports-cal
+DTSTART:20260905T170000Z
+DTEND:20260905T200000Z
+SUMMARY:Southeast Missouri State Redhawks @ Iowa State Cyclones
+DESCRIPTION:NCAA FBS Football 2026\nSoutheast Missouri State Redhawks @ Iow
+ a State Cyclones\nJack Trice Stadium\, Ames\, IA
+LOCATION:Jack Trice Stadium\, Ames\, IA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856788@open-sports-cal
+DTSTART:20260912T233000Z
+DTEND:20260913T023000Z
+SUMMARY:Iowa State Cyclones @ Iowa Hawkeyes
+DESCRIPTION:NCAA FBS Football 2026\nIowa State Cyclones @ Iowa Hawkeyes\nKi
+ nnick Stadium\, Iowa City\, IA
+LOCATION:Kinnick Stadium\, Iowa City\, IA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856798@open-sports-cal
+DTSTART:20260919T160000Z
+DTEND:20260919T190000Z
+SUMMARY:Bowling Green Falcons @ Iowa State Cyclones
+DESCRIPTION:NCAA FBS Football 2026\nBowling Green Falcons @ Iowa State Cycl
+ ones\nJack Trice Stadium\, Ames\, IA
+LOCATION:Jack Trice Stadium\, Ames\, IA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856816@open-sports-cal
+DTSTART:20260926T193000Z
+DTEND:20260926T223000Z
+SUMMARY:Utah Utes @ Iowa State Cyclones
+DESCRIPTION:NCAA FBS Football 2026\nUtah Utes @ Iowa State Cyclones\nJack T
+ rice Stadium\, Ames\, IA
+LOCATION:Jack Trice Stadium\, Ames\, IA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856822@open-sports-cal
+DTSTART:20261003T160000Z
+DTEND:20261003T190000Z
+SUMMARY:West Virginia Mountaineers @ Iowa State Cyclones
+DESCRIPTION:NCAA FBS Football 2026\nWest Virginia Mountaineers @ Iowa State
+  Cyclones\nJack Trice Stadium\, Ames\, IA
+LOCATION:Jack Trice Stadium\, Ames\, IA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856826@open-sports-cal
+DTSTART:20261010T023000Z
+DTEND:20261010T053000Z
+SUMMARY:Iowa State Cyclones @ BYU Cougars
+DESCRIPTION:NCAA FBS Football 2026\nIowa State Cyclones @ BYU Cougars\nLaVe
+ ll Edwards Stadium\, Provo\, UT
+LOCATION:LaVell Edwards Stadium\, Provo\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856838@open-sports-cal
+DTSTART:20261024T233000Z
+DTEND:20261025T023000Z
+SUMMARY:Iowa State Cyclones @ Arizona Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nIowa State Cyclones @ Arizona Wildcats\
+ nCasino Del Sol Stadium\, Tucson\, AZ
+LOCATION:Casino Del Sol Stadium\, Tucson\, AZ
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856847@open-sports-cal
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Oklahoma State Cowboys @ Iowa State Cyclones
+DESCRIPTION:NCAA FBS Football 2026\nOklahoma State Cowboys @ Iowa State Cyc
+ lones\nJack Trice Stadium\, Ames\, IA
+LOCATION:Jack Trice Stadium\, Ames\, IA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856853@open-sports-cal
+DTSTART:20261107T170000Z
+DTEND:20261107T200000Z
+SUMMARY:Iowa State Cyclones @ Baylor Bears
+DESCRIPTION:NCAA FBS Football 2026\nIowa State Cyclones @ Baylor Bears\nMcL
+ ane Stadium\, Waco\, TX
+LOCATION:McLane Stadium\, Waco\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856859@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Cincinnati Bearcats @ Iowa State Cyclones
+DESCRIPTION:NCAA FBS Football 2026\nCincinnati Bearcats @ Iowa State Cyclon
+ es\nJack Trice Stadium\, Ames\, IA\nStart time TBD
+LOCATION:Jack Trice Stadium\, Ames\, IA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856869@open-sports-cal
+DTSTART:20261120T230000Z
+DTEND:20261121T020000Z
+SUMMARY:Iowa State Cyclones @ UCF Knights
+DESCRIPTION:NCAA FBS Football 2026\nIowa State Cyclones @ UCF Knights\nAcri
+ sure Bounce House\, Orlando\, FL
+LOCATION:Acrisure Bounce House\, Orlando\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856878@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Kansas State Wildcats @ Iowa State Cyclones
+DESCRIPTION:NCAA FBS Football 2026\nKansas State Wildcats @ Iowa State Cycl
+ ones\nJack Trice Stadium\, Ames\, IA\nStart time TBD
+LOCATION:Jack Trice Stadium\, Ames\, IA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

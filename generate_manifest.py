@@ -13,6 +13,7 @@ site works without a build step — just open docs/index.html.
 """
 
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -39,6 +40,10 @@ SHORT_OVERRIDES = {
     "premier-league": "EPL",
     "formula-1":      "F1",
     "grand-slams":    "Tennis",
+    "ncaa-men":       "NCAA Men",
+    "ncaa-women":     "NCAA Women",
+    "ncaa-fbs":       "NCAA FBS",
+    "ncaa-fcs":       "NCAA FCS",
 }
 
 # Top-level dirs that are not sport folders
@@ -47,11 +52,17 @@ SKIP_DIRS = {".github", "docs", ".git", "__pycache__", ".venv", ".claude"}
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
+def unescape_text(value: str) -> str:
+    """Decode RFC 5545 TEXT escaping for display on the website."""
+    return re.sub(r"\\([nN,;\\])", lambda m: "\n" if m[1] in "nN" else m[1], value)
+
+
 def read_calname(path: Path) -> str:
     """Return the X-WR-CALNAME value from an .ics file."""
-    for line in path.read_text(encoding="utf-8").splitlines()[:30]:
+    text = path.read_text(encoding="utf-8").replace("\n ", "").replace("\n\t", "")
+    for line in text.splitlines()[:30]:
         if line.startswith("X-WR-CALNAME:"):
-            return line[len("X-WR-CALNAME:"):].strip()
+            return unescape_text(line[len("X-WR-CALNAME:"):].strip())
     return path.stem
 
 
@@ -130,8 +141,8 @@ def parse_events(path: Path) -> list:
         result.append({
             "dt":       ev.get("DTSTART", ""),
             "tz":       tz,
-            "summary":  ev.get("SUMMARY", ""),
-            "location": ev.get("LOCATION", ""),
+            "summary":  unescape_text(ev.get("SUMMARY", "")),
+            "location": unescape_text(ev.get("LOCATION", "")),
         })
     return result
 
@@ -205,7 +216,7 @@ for sport_dir in sorted(ROOT.iterdir()):
                         "name":     slam_name,
                         "short":    derive_short(league_dir.name),
                         "season":   season,
-                        "path":     str(season_dir.relative_to(ROOT)),
+                        "path":     season_dir.relative_to(ROOT).as_posix(),
                         "allFile":  tf.name,
                         "itemType": "slam",
                         "meta":     "Grand Slam",
@@ -219,7 +230,7 @@ for sport_dir in sorted(ROOT.iterdir()):
                     "name":     league_name,
                     "short":    derive_short(league_dir.name),
                     "season":   season,
-                    "path":     str(season_dir.relative_to(ROOT)),
+                    "path":     season_dir.relative_to(ROOT).as_posix(),
                     "allFile":  all_file.name,
                     "itemType": itype,
                     "meta":     build_meta(itype, len(team_files), event_count),

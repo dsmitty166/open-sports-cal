@@ -1,0 +1,404 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Howard Bison
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401924743@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:Howard Bison @ Yale Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Yale Bulldogs\nJo
+ hn J. Lee Amphitheater\, New Haven\, CT
+LOCATION:John J. Lee Amphitheater\, New Haven\, CT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925684@open-sports-cal
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:Howard Bison @ Alcorn State Braves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Alcorn State Brav
+ es\nDavey L. Whitney Complex\, Lorman\, MS
+LOCATION:Davey L. Whitney Complex\, Lorman\, MS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921180@open-sports-cal
+DTSTART:20261109T233000Z
+DTEND:20261110T023000Z
+SUMMARY:Howard Bison @ Pennsylvania Quakers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Pennsylvania Quak
+ ers\nThe Palestra\, Philadelphia\, PA
+LOCATION:The Palestra\, Philadelphia\, PA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922239@open-sports-cal
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Stetson Hatters @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Howard Bison\n
+ Burr Gymnasium\, Washington\, DC\nStart time TBD
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925774@open-sports-cal
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:Howard Bison @ Davidson Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Davidson Wildcats
+ \nJohn M. Belk Arena\, Davidson\, NC
+LOCATION:John M. Belk Arena\, Davidson\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925782@open-sports-cal
+DTSTART:20261119T000000Z
+DTEND:20261119T030000Z
+SUMMARY:Howard Bison @ Duquesne Dukes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Duquesne Dukes\nO
+ cean Center\, Daytona Beach\, FL\nNeutral site
+LOCATION:Ocean Center\, Daytona Beach\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401932055@open-sports-cal
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Notre Dame (MD) Gators @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNotre Dame (MD) Gators @ Howard 
+ Bison\nBurr Gymnasium\, Washington\, DC\nStart time TBD
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926815@open-sports-cal
+DTSTART:20261129T190000Z
+DTEND:20261129T220000Z
+SUMMARY:Howard Bison @ Charleston Cougars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Charleston Cougar
+ s\nTD Arena\, Charleston\, SC
+LOCATION:TD Arena\, Charleston\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928391@open-sports-cal
+DTSTART:20261204T010000Z
+DTEND:20261204T040000Z
+SUMMARY:Grambling Tigers @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Howard Bison\
+ nBurr Gymnasium\, Washington\, DC
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929290@open-sports-cal
+DTSTART:20261206T013000Z
+DTEND:20261206T043000Z
+SUMMARY:Hampton Pirates @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Howard Bison\n
+ CareFirst Arena\, Washington\, DC\nNeutral site
+LOCATION:CareFirst Arena\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927394@open-sports-cal
+DTSTART:20261211T010000Z
+DTEND:20261211T040000Z
+SUMMARY:Loyola Chicago Ramblers @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Chicago Ramblers @ Howard
+  Bison\nBurr Gymnasium\, Washington\, DC
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926860@open-sports-cal
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Towson Tigers @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTowson Tigers @ Howard Bison\nBu
+ rr Gymnasium\, Washington\, DC\nStart time TBD
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921163@open-sports-cal
+DTSTART:20261218T010000Z
+DTEND:20261218T040000Z
+SUMMARY:North Carolina A&T Aggies @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina A&T Aggies @ Howa
+ rd Bison\nBurr Gymnasium\, Washington\, DC
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401930158@open-sports-cal
+DTSTART:20261221T020000Z
+DTEND:20261221T050000Z
+SUMMARY:Howard Bison @ UTEP Miners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ UTEP Miners\nDon 
+ Haskins Center\, El Paso\, TX
+LOCATION:Don Haskins Center\, El Paso\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401932056@open-sports-cal
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Bowie State Bulldogs @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBowie State Bulldogs @ Howard Bi
+ son\nBurr Gymnasium\, Washington\, DC\nStart time TBD
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925929@open-sports-cal
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:South Carolina State Bulldogs @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
+ Howard Bison\nBurr Gymnasium\, Washington\, DC\nStart time TBD
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925846@open-sports-cal
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Maryland Eastern Shore Hawks @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMaryland Eastern Shore Hawks @ H
+ oward Bison\nBurr Gymnasium\, Washington\, DC\nStart time TBD
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927345@open-sports-cal
+DTSTART:20270112T000000Z
+DTEND:20270112T030000Z
+SUMMARY:Howard Bison @ Delaware State Hornets
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Delaware State Ho
+ rnets\nMemorial Hall (DE)\, Dover\, DE
+LOCATION:Memorial Hall (DE)\, Dover\, DE
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401930406@open-sports-cal
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:North Carolina Central Eagles @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Central Eagles @ 
+ Howard Bison\nBurr Gymnasium\, Washington\, DC\nStart time TBD
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401932057@open-sports-cal
+DTSTART:20270119T010000Z
+DTEND:20270119T040000Z
+SUMMARY:Morehouse Maroon Tigers @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMorehouse Maroon Tigers @ Howard
+  Bison\nBurr Gymnasium\, Washington\, DC
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928855@open-sports-cal
+DTSTART:20270123T210000Z
+DTEND:20270124T000000Z
+SUMMARY:Howard Bison @ Morgan State Bears
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Morgan State Bear
+ s\nHill Field House\, Baltimore\, MD
+LOCATION:Hill Field House\, Baltimore\, MD
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925762@open-sports-cal
+DTSTART:20270126T000000Z
+DTEND:20270126T030000Z
+SUMMARY:Coppin State Eagles @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCoppin State Eagles @ Howard Bis
+ on\nBurr Gymnasium\, Washington\, DC
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925908@open-sports-cal
+DTSTART:20270130T213000Z
+DTEND:20270131T003000Z
+SUMMARY:Howard Bison @ Norfolk State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Norfolk State Spa
+ rtans\nJoseph G. Echols Hall\, Norfolk\, VA
+LOCATION:Joseph G. Echols Hall\, Norfolk\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925935@open-sports-cal
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Howard Bison @ South Carolina State Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ South Carolina St
+ ate Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangeburg\, SC\nS
+ tart time TBD
+LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401930407@open-sports-cal
+DTSTART:20270208T220000Z
+DTEND:20270209T010000Z
+SUMMARY:Howard Bison @ North Carolina Central Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ North Carolina Ce
+ ntral Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+LOCATION:McDougald-McLendon Arena\, Durham\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925852@open-sports-cal
+DTSTART:20270213T203000Z
+DTEND:20270213T233000Z
+SUMMARY:Howard Bison @ Maryland Eastern Shore Hawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Maryland Eastern 
+ Shore Hawks\nHytche Center\, Princess Anne\, MD
+LOCATION:Hytche Center\, Princess Anne\, MD
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927348@open-sports-cal
+DTSTART:20270216T003000Z
+DTEND:20270216T033000Z
+SUMMARY:Delaware State Hornets @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ Howard 
+ Bison\nBurr Gymnasium\, Washington\, DC
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401930988@open-sports-cal
+DTSTART:20270220T190000Z
+DTEND:20270220T220000Z
+SUMMARY:Tennessee State Tigers @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee State Tigers @ Howard 
+ Bison\nPhoenix Convention Center\, Phoenix\, AZ\nNeutral site
+LOCATION:Phoenix Convention Center\, Phoenix\, AZ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928857@open-sports-cal
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Morgan State Bears @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ Howard Biso
+ n\nBurr Gymnasium\, Washington\, DC\nStart time TBD
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925769@open-sports-cal
+DTSTART:20270302T000000Z
+DTEND:20270302T030000Z
+SUMMARY:Howard Bison @ Coppin State Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Coppin State Eagl
+ es\nPhysical Education Complex\, Baltimore\, MD
+LOCATION:Physical Education Complex\, Baltimore\, MD
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925913@open-sports-cal
+DTSTART:20270305T010000Z
+DTEND:20270305T040000Z
+SUMMARY:Norfolk State Spartans @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorfolk State Spartans @ Howard 
+ Bison\nBurr Gymnasium\, Washington\, DC
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

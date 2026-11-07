@@ -1,0 +1,457 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Women's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Women's Basketball 2026-27 - Stanford Cardinal
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-women-401913054@open-sports-cal
+DTSTART:20261102T183000Z
+DTEND:20261102T213000Z
+SUMMARY:Arizona Wildcats @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona Wildcats @ Stanford Ca
+ rdinal\nT-Mobile Arena\, Las Vegas\, NV\nNeutral site
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915978@open-sports-cal
+DTSTART:20261105T030000Z
+DTEND:20261105T060000Z
+SUMMARY:Saint Mary's Gaels @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Mary's Gaels @ Stanford 
+ Cardinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915979@open-sports-cal
+DTSTART:20261108T220000Z
+DTEND:20261109T010000Z
+SUMMARY:UC Davis Aggies @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Davis Aggies @ Stanford Car
+ dinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915980@open-sports-cal
+DTSTART:20261114T030000Z
+DTEND:20261114T060000Z
+SUMMARY:Stanford Cardinal @ Santa Clara Broncos
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Santa Clar
+ a Broncos\nLeavey Center\, Santa Clara\, CA
+LOCATION:Leavey Center\, Santa Clara\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915981@open-sports-cal
+DTSTART:20261115T220000Z
+DTEND:20261116T010000Z
+SUMMARY:Gonzaga Bulldogs @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Stanford Ca
+ rdinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915982@open-sports-cal
+DTSTART:20261121T030000Z
+DTEND:20261121T060000Z
+SUMMARY:Stanford Cardinal @ Washington Huskies
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Washington
+  Huskies\nAlaska Airlines Arena\, Seattle\, WA
+LOCATION:Alaska Airlines Arena\, Seattle\, WA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915983@open-sports-cal
+DTSTART:20261122T220000Z
+DTEND:20261123T010000Z
+SUMMARY:Stanford Cardinal @ Portland Pilots
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Portland P
+ ilots\nChiles Center\, Portland\, OR
+LOCATION:Chiles Center\, Portland\, OR
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915984@open-sports-cal
+DTSTART:20261128T003000Z
+DTEND:20261128T033000Z
+SUMMARY:Columbia Lions @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Stanford Card
+ inal\nStan Sheriff Center\, Honolulu\, HI\nNeutral site
+LOCATION:Stan Sheriff Center\, Honolulu\, HI
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:Pacific/Honolulu
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915985@open-sports-cal
+DTSTART:20261129T003000Z
+DTEND:20261129T033000Z
+SUMMARY:San Diego State Aztecs @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Diego State Aztecs @ Stanf
+ ord Cardinal\nStan Sheriff Center\, Honolulu\, HI\nNeutral site
+LOCATION:Stan Sheriff Center\, Honolulu\, HI
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:Pacific/Honolulu
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915986@open-sports-cal
+DTSTART:20261129T210000Z
+DTEND:20261130T000000Z
+SUMMARY:Stanford Cardinal @ Hawai'i Rainbow Wahine
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Hawai'i Ra
+ inbow Wahine\nStan Sheriff Center\, Honolulu\, HI
+LOCATION:Stan Sheriff Center\, Honolulu\, HI
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:Pacific/Honolulu
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915987@open-sports-cal
+DTSTART:20261203T001500Z
+DTEND:20261203T031500Z
+SUMMARY:Stanford Cardinal @ Auburn Tigers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Auburn Tig
+ ers\nNeville Arena\, Auburn\, AL
+LOCATION:Neville Arena\, Auburn\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918263@open-sports-cal
+DTSTART:20261213T210000Z
+DTEND:20261214T000000Z
+SUMMARY:Stanford Cardinal @ California Golden Bears
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ California
+  Golden Bears\nHaas Pavilion\, Berkeley\, CA
+LOCATION:Haas Pavilion\, Berkeley\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915988@open-sports-cal
+DTSTART:20261218T030000Z
+DTEND:20261218T060000Z
+SUMMARY:Arizona State Sun Devils @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Sta
+ nford Cardinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915989@open-sports-cal
+DTSTART:20261221T013000Z
+DTEND:20261221T043000Z
+SUMMARY:Stanford Cardinal @ Ohio State Buckeyes
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Ohio State
+  Buckeyes\nChase Center\, San Francisco\, CA\nNeutral site
+LOCATION:Chase Center\, San Francisco\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915990@open-sports-cal
+DTSTART:20261228T220000Z
+DTEND:20261229T010000Z
+SUMMARY:Cal Poly Mustangs @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nCal Poly Mustangs @ Stanford C
+ ardinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918276@open-sports-cal
+DTSTART:20270101T000000Z
+DTEND:20270101T030000Z
+SUMMARY:Stanford Cardinal @ Clemson Tigers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Clemson Ti
+ gers\nLittlejohn Coliseum\, Clemson\, SC
+LOCATION:Littlejohn Coliseum\, Clemson\, SC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918284@open-sports-cal
+DTSTART:20270103T200000Z
+DTEND:20270103T230000Z
+SUMMARY:Stanford Cardinal @ SMU Mustangs
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ SMU Mustan
+ gs\nMoody Coliseum (Dallas)\, Dallas\, TX
+LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918288@open-sports-cal
+DTSTART:20270108T030000Z
+DTEND:20270108T060000Z
+SUMMARY:Miami Hurricanes @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMiami Hurricanes @ Stanford Ca
+ rdinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918316@open-sports-cal
+DTSTART:20270110T190000Z
+DTEND:20270110T220000Z
+SUMMARY:NC State Wolfpack @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nNC State Wolfpack @ Stanford C
+ ardinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918325@open-sports-cal
+DTSTART:20270114T230000Z
+DTEND:20270115T020000Z
+SUMMARY:Stanford Cardinal @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Wake Fores
+ t Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918332@open-sports-cal
+DTSTART:20270117T170000Z
+DTEND:20270117T200000Z
+SUMMARY:Stanford Cardinal @ Duke Blue Devils
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Duke Blue 
+ Devils\nCameron Indoor Stadium\, Durham\, NC
+LOCATION:Cameron Indoor Stadium\, Durham\, NC
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918340@open-sports-cal
+DTSTART:20270122T030000Z
+DTEND:20270122T060000Z
+SUMMARY:Syracuse Orange @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSyracuse Orange @ Stanford Car
+ dinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918345@open-sports-cal
+DTSTART:20270124T190000Z
+DTEND:20270124T220000Z
+SUMMARY:North Carolina Tar Heels @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Tar Heels @ Sta
+ nford Cardinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918355@open-sports-cal
+DTSTART:20270129T000000Z
+DTEND:20270129T030000Z
+SUMMARY:Stanford Cardinal @ Louisville Cardinals
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Louisville
+  Cardinals\nKFC Yum! Center\, Louisville\, KY
+LOCATION:KFC Yum! Center\, Louisville\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918359@open-sports-cal
+DTSTART:20270131T180000Z
+DTEND:20270131T210000Z
+SUMMARY:Stanford Cardinal @ Notre Dame Fighting Irish
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Notre Dame
+  Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+LOCATION:Purcell Pavilion\, South Bend\, IN
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918364@open-sports-cal
+DTSTART:20270205T030000Z
+DTEND:20270205T060000Z
+SUMMARY:Georgia Tech Yellow Jackets @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Tech Yellow Jackets @ 
+ Stanford Cardinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918370@open-sports-cal
+DTSTART:20270207T210000Z
+DTEND:20270208T000000Z
+SUMMARY:Florida State Seminoles @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida State Seminoles @ Stan
+ ford Cardinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918378@open-sports-cal
+DTSTART:20270212T030000Z
+DTEND:20270212T060000Z
+SUMMARY:California Golden Bears @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Golden Bears @ Stan
+ ford Cardinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918396@open-sports-cal
+DTSTART:20270218T230000Z
+DTEND:20270219T020000Z
+SUMMARY:Stanford Cardinal @ Virginia Tech Hokies
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Virginia T
+ ech Hokies\nCassell Coliseum\, Blacksburg\, VA
+LOCATION:Cassell Coliseum\, Blacksburg\, VA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918402@open-sports-cal
+DTSTART:20270221T190000Z
+DTEND:20270221T220000Z
+SUMMARY:Stanford Cardinal @ Virginia Cavaliers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Virginia C
+ avaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+LOCATION:John Paul Jones Arena\, Charlottesville\, VA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918408@open-sports-cal
+DTSTART:20270226T030000Z
+DTEND:20270226T060000Z
+SUMMARY:Pittsburgh Panthers @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nPittsburgh Panthers @ Stanford
+  Cardinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918072@open-sports-cal
+DTSTART:20270228T220000Z
+DTEND:20270301T010000Z
+SUMMARY:Boston College Eagles @ Stanford Cardinal
+DESCRIPTION:NCAA Women's Basketball 2026-27\nBoston College Eagles @ Stanfo
+ rd Cardinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,424 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - LSU Tigers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401921808@open-sports-cal
+DTSTART:20261104T010000Z
+DTEND:20261104T040000Z
+SUMMARY:LSU New Orleans Privateers @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU New Orleans Privateers @ LSU
+  Tigers\nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921809@open-sports-cal
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Texas Southern Tigers @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Southern Tigers @ LSU Tige
+ rs\nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921810@open-sports-cal
+DTSTART:20261110T010000Z
+DTEND:20261110T040000Z
+SUMMARY:Louisiana Tech Bulldogs @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Tech Bulldogs @ LSU Ti
+ gers\nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921689@open-sports-cal
+DTSTART:20261114T203000Z
+DTEND:20261114T233000Z
+SUMMARY:LSU Tigers @ Gonzaga Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Gonzaga Bulldogs\nS
+ pokane Numerica Veterans Arena\, Spokane\, WA
+LOCATION:Spokane Numerica Veterans Arena\, Spokane\, WA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917982@open-sports-cal
+DTSTART:20261119T010000Z
+DTEND:20261119T040000Z
+SUMMARY:UL Monroe Warhawks @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUL Monroe Warhawks @ LSU Tigers\
+ nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921811@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Queens University Royals @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nQueens University Royals @ LSU T
+ igers\nPete Maravich Assembly Center\, Baton Rouge\, LA\nStart time TBD
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921669@open-sports-cal
+DTSTART:20261125T190000Z
+DTEND:20261125T220000Z
+SUMMARY:Arizona State Sun Devils @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArizona State Sun Devils @ LSU T
+ igers\nAcrisure Arena\, Palm Springs\, CA\nNeutral site
+LOCATION:Acrisure Arena\, Palm Springs\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401918972@open-sports-cal
+DTSTART:20261127T000000Z
+DTEND:20261127T030000Z
+SUMMARY:SMU Mustangs @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSMU Mustangs @ LSU Tigers\nAcris
+ ure Arena\, Palm Springs\, CA\nNeutral site
+LOCATION:Acrisure Arena\, Palm Springs\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909731@open-sports-cal
+DTSTART:20261202T020000Z
+DTEND:20261202T050000Z
+SUMMARY:Wake Forest Demon Deacons @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ LSU 
+ Tigers\nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921812@open-sports-cal
+DTSTART:20261205T190000Z
+DTEND:20261205T220000Z
+SUMMARY:Hofstra Pride @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ LSU Tigers\nPete
+  Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921705@open-sports-cal
+DTSTART:20261213T203000Z
+DTEND:20261213T233000Z
+SUMMARY:LSU Tigers @ Houston Cougars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Houston Cougars\nTo
+ yota Center (Houston)\, Houston\, TX\nNeutral site
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920419@open-sports-cal
+DTSTART:20261219T010000Z
+DTEND:20261219T040000Z
+SUMMARY:High Point Panthers @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHigh Point Panthers @ LSU Tigers
+ \nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921813@open-sports-cal
+DTSTART:20261222T230000Z
+DTEND:20261223T020000Z
+SUMMARY:Louisiana Ragin' Cajuns @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ LSU Ti
+ gers\nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921814@open-sports-cal
+DTSTART:20261229T010000Z
+DTEND:20261229T040000Z
+SUMMARY:Washington State Cougars @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWashington State Cougars @ LSU T
+ igers\nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902304@open-sports-cal
+DTSTART:20270102T203000Z
+DTEND:20270102T233000Z
+SUMMARY:South Carolina Gamecocks @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ LSU T
+ igers\nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902311@open-sports-cal
+DTSTART:20270106T000000Z
+DTEND:20270106T030000Z
+SUMMARY:LSU Tigers @ Alabama Crimson Tide
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Alabama Crimson Tid
+ e\nColeman Coliseum\, Tuscaloosa\, AL
+LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902321@open-sports-cal
+DTSTART:20270110T013000Z
+DTEND:20270110T043000Z
+SUMMARY:Tennessee Volunteers @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Volunteers @ LSU Tiger
+ s\nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902333@open-sports-cal
+DTSTART:20270114T000000Z
+DTEND:20270114T030000Z
+SUMMARY:LSU Tigers @ Kentucky Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Kentucky Wildcats\n
+ Rupp Arena\, Lexington\, KY
+LOCATION:Rupp Arena\, Lexington\, KY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902338@open-sports-cal
+DTSTART:20270116T230000Z
+DTEND:20270117T020000Z
+SUMMARY:LSU Tigers @ Texas A&M Aggies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Texas A&M Aggies\nR
+ eed Arena\, College Station\, TX
+LOCATION:Reed Arena\, College Station\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902343@open-sports-cal
+DTSTART:20270120T020000Z
+DTEND:20270120T050000Z
+SUMMARY:Texas Longhorns @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Longhorns @ LSU Tigers\nPe
+ te Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902351@open-sports-cal
+DTSTART:20270123T203000Z
+DTEND:20270123T233000Z
+SUMMARY:Auburn Tigers @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAuburn Tigers @ LSU Tigers\nPete
+  Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902360@open-sports-cal
+DTSTART:20270127T020000Z
+DTEND:20270127T050000Z
+SUMMARY:LSU Tigers @ Arkansas Razorbacks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Arkansas Razorbacks
+ \nBud Walton Arena\, Fayetteville\, AR
+LOCATION:Bud Walton Arena\, Fayetteville\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902368@open-sports-cal
+DTSTART:20270130T203000Z
+DTEND:20270130T233000Z
+SUMMARY:LSU Tigers @ Georgia Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Georgia Bulldogs\nS
+ tegeman Coliseum\, Athens\, GA
+LOCATION:Stegeman Coliseum\, Athens\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902374@open-sports-cal
+DTSTART:20270203T020000Z
+DTEND:20270203T050000Z
+SUMMARY:Vanderbilt Commodores @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVanderbilt Commodores @ LSU Tige
+ rs\nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902378@open-sports-cal
+DTSTART:20270206T210000Z
+DTEND:20270207T000000Z
+SUMMARY:Ole Miss Rebels @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOle Miss Rebels @ LSU Tigers\nPe
+ te Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902393@open-sports-cal
+DTSTART:20270213T180000Z
+DTEND:20270213T210000Z
+SUMMARY:LSU Tigers @ Oklahoma Sooners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Oklahoma Sooners\nL
+ loyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902403@open-sports-cal
+DTSTART:20270218T010000Z
+DTEND:20270218T040000Z
+SUMMARY:Florida Gators @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ LSU Tigers\nPet
+ e Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902408@open-sports-cal
+DTSTART:20270220T230000Z
+DTEND:20270221T020000Z
+SUMMARY:LSU Tigers @ Mississippi State Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Mississippi State B
+ ulldogs\nHumphrey Coliseum\, Starkville\, MS
+LOCATION:Humphrey Coliseum\, Starkville\, MS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902419@open-sports-cal
+DTSTART:20270225T000000Z
+DTEND:20270225T030000Z
+SUMMARY:LSU Tigers @ Auburn Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Auburn Tigers\nNevi
+ lle Arena\, Auburn\, AL
+LOCATION:Neville Arena\, Auburn\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902425@open-sports-cal
+DTSTART:20270228T013000Z
+DTEND:20270228T043000Z
+SUMMARY:Texas A&M Aggies @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ LSU Tigers\nP
+ ete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902431@open-sports-cal
+DTSTART:20270303T020000Z
+DTEND:20270303T050000Z
+SUMMARY:Arkansas Razorbacks @ LSU Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ LSU Tigers
+ \nPete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401902441@open-sports-cal
+DTSTART:20270306T190000Z
+DTEND:20270306T220000Z
+SUMMARY:LSU Tigers @ Missouri Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Missouri Tigers\nMi
+ zzou Arena\, Columbia\, MO
+LOCATION:Mizzou Arena\, Columbia\, MO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

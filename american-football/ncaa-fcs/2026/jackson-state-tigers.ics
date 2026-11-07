@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Jackson State Tigers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401868194@open-sports-cal
+DTSTART:20260830T003000Z
+DTEND:20260830T033000Z
+SUMMARY:Jackson State Tigers @ Tennessee State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nJackson State Tigers @ Tennessee State 
+ Tigers\nNissan Stadium\, Nashville\, TN
+LOCATION:Nissan Stadium\, Nashville\, TN
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868958@open-sports-cal
+DTSTART:20260905T233000Z
+DTEND:20260906T023000Z
+SUMMARY:Edward Waters Tigers @ Jackson State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nEdward Waters Tigers @ Jackson State Ti
+ gers\nMississippi Veterans Memorial Stadium\, Jackson\, MS
+LOCATION:Mississippi Veterans Memorial Stadium\, Jackson\, MS
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868959@open-sports-cal
+DTSTART:20260919T230000Z
+DTEND:20260920T020000Z
+SUMMARY:Tuskegee Golden Tigers @ Jackson State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nTuskegee Golden Tigers @ Jackson State 
+ Tigers\nMississippi Veterans Memorial Stadium\, Jackson\, MS
+LOCATION:Mississippi Veterans Memorial Stadium\, Jackson\, MS
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868960@open-sports-cal
+DTSTART:20260926T230000Z
+DTEND:20260927T020000Z
+SUMMARY:Southern Jaguars @ Jackson State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nSouthern Jaguars @ Jackson State Tigers
+ \nMississippi Veterans Memorial Stadium\, Jackson\, MS
+LOCATION:Mississippi Veterans Memorial Stadium\, Jackson\, MS
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868295@open-sports-cal
+DTSTART:20261003T210000Z
+DTEND:20261004T000000Z
+SUMMARY:Alabama A&M Bulldogs @ Jackson State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nAlabama A&M Bulldogs @ Jackson State Ti
+ gers\nLadd-Peebles Stadium\, Mobile\, AL\nNeutral site
+LOCATION:Ladd-Peebles Stadium\, Mobile\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868955@open-sports-cal
+DTSTART:20261010T210000Z
+DTEND:20261011T000000Z
+SUMMARY:Jackson State Tigers @ Grambling Tigers
+DESCRIPTION:NCAA FCS Football 2026\nJackson State Tigers @ Grambling Tigers
+ \nEddie G. Robinson Memorial Stadium\, Grambling\, LA
+LOCATION:Eddie G. Robinson Memorial Stadium\, Grambling\, LA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868949@open-sports-cal
+DTSTART:20261017T190000Z
+DTEND:20261017T220000Z
+SUMMARY:Florida A&M Rattlers @ Jackson State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nFlorida A&M Rattlers @ Jackson State Ti
+ gers\nMississippi Veterans Memorial Stadium\, Jackson\, MS
+LOCATION:Mississippi Veterans Memorial Stadium\, Jackson\, MS
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868944@open-sports-cal
+DTSTART:20261024T170000Z
+DTEND:20261024T200000Z
+SUMMARY:Jackson State Tigers @ Bethune-Cookman Wildcats
+DESCRIPTION:NCAA FCS Football 2026\nJackson State Tigers @ Bethune-Cookman 
+ Wildcats\nDaytona Stadium\, Daytona Beach\, FL
+LOCATION:Daytona Stadium\, Daytona Beach\, FL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868961@open-sports-cal
+DTSTART:20261107T200000Z
+DTEND:20261107T230000Z
+SUMMARY:Mississippi Valley State Delta Devils @ Jackson State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nMississippi Valley State Delta Devils @
+  Jackson State Tigers\nMississippi Veterans Memorial Stadium\, Jackson\, M
+ S
+LOCATION:Mississippi Veterans Memorial Stadium\, Jackson\, MS
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868332@open-sports-cal
+DTSTART:20261114T200000Z
+DTEND:20261114T230000Z
+SUMMARY:Jackson State Tigers @ Alabama State Hornets
+DESCRIPTION:NCAA FCS Football 2026\nJackson State Tigers @ Alabama State Ho
+ rnets\nASU Football Stadium\, Montgomery\, AL
+LOCATION:ASU Football Stadium\, Montgomery\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868365@open-sports-cal
+DTSTART:20261121T200000Z
+DTEND:20261121T230000Z
+SUMMARY:Jackson State Tigers @ Alcorn State Braves
+DESCRIPTION:NCAA FCS Football 2026\nJackson State Tigers @ Alcorn State Bra
+ ves\nSpinks-Casem Stadium\, Lorman\, MS
+LOCATION:Spinks-Casem Stadium\, Lorman\, MS
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

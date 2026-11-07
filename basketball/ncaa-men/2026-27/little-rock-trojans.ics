@@ -1,0 +1,425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Little Rock Trojans
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401920201@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:Little Rock Trojans @ VCU Rams
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ VCU Rams\n
+ Siegel Center\, Richmond\, VA
+LOCATION:Siegel Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920816@open-sports-cal
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:SE Louisiana Lions @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Little Rock
+  Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401924896@open-sports-cal
+DTSTART:20261111T020000Z
+DTEND:20261111T050000Z
+SUMMARY:Little Rock Trojans @ New Mexico Lobos
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ New Mexico
+  Lobos\nThe Pit\, Albuquerque\, NM
+LOCATION:The Pit\, Albuquerque\, NM
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925079@open-sports-cal
+DTSTART:20261115T010000Z
+DTEND:20261115T040000Z
+SUMMARY:Northwestern State Demons @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern State Demons @ Litt
+ le Rock Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920878@open-sports-cal
+DTSTART:20261120T000000Z
+DTEND:20261120T030000Z
+SUMMARY:Little Rock Trojans @ Jacksonville Dolphins
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Jacksonvil
+ le Dolphins\nSwisher Gymnasium\, Jacksonville\, FL
+LOCATION:Swisher Gymnasium\, Jacksonville\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922222@open-sports-cal
+DTSTART:20261121T190000Z
+DTEND:20261121T220000Z
+SUMMARY:Little Rock Trojans @ North Florida Ospreys
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ North Flor
+ ida Ospreys\nUNF Arena\, Jacksonville\, FL
+LOCATION:UNF Arena\, Jacksonville\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929380@open-sports-cal
+DTSTART:20261125T010000Z
+DTEND:20261125T040000Z
+SUMMARY:Arkansas Baptist Buffaloes @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Baptist Buffaloes @ Lit
+ tle Rock Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929381@open-sports-cal
+DTSTART:20261128T010000Z
+DTEND:20261128T040000Z
+SUMMARY:Lane College Dragons @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLane College Dragons @ Little Ro
+ ck Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926784@open-sports-cal
+DTSTART:20261202T000000Z
+DTEND:20261202T030000Z
+SUMMARY:Little Rock Trojans @ Jacksonville State Gamecocks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Jacksonvil
+ le State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929382@open-sports-cal
+DTSTART:20261206T200000Z
+DTEND:20261206T230000Z
+SUMMARY:Little Rock Trojans @ Arkansas State Red Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Arkansas S
+ tate Red Wolves\nFirst National Bank Arena\, Jonesboro\, AR
+LOCATION:First National Bank Arena\, Jonesboro\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920957@open-sports-cal
+DTSTART:20261213T010000Z
+DTEND:20261213T040000Z
+SUMMARY:Southern Illinois Salukis @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Illinois Salukis @ Litt
+ le Rock Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926872@open-sports-cal
+DTSTART:20261216T010000Z
+DTEND:20261216T040000Z
+SUMMARY:Milwaukee Panthers @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMilwaukee Panthers @ Little Rock
+  Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909804@open-sports-cal
+DTSTART:20261219T010000Z
+DTEND:20261219T040000Z
+SUMMARY:Little Rock Trojans @ Kansas State Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Kansas Sta
+ te Wildcats\nBramlage Coliseum\, Manhattan\, KS
+LOCATION:Bramlage Coliseum\, Manhattan\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401918990@open-sports-cal
+DTSTART:20261223T010000Z
+DTEND:20261223T040000Z
+SUMMARY:Little Rock Trojans @ Memphis Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Memphis Ti
+ gers\nFedExForum\, Memphis\, TN
+LOCATION:FedExForum\, Memphis\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922245@open-sports-cal
+DTSTART:20261231T010000Z
+DTEND:20261231T040000Z
+SUMMARY:Stetson Hatters @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Little Rock Tr
+ ojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922217@open-sports-cal
+DTSTART:20270103T010000Z
+DTEND:20270103T040000Z
+SUMMARY:Florida Gulf Coast Eagles @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Litt
+ le Rock Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905810@open-sports-cal
+DTSTART:20270107T010000Z
+DTEND:20270107T040000Z
+SUMMARY:Little Rock Trojans @ Abilene Christian Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Abilene Ch
+ ristian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905814@open-sports-cal
+DTSTART:20270109T221500Z
+DTEND:20270110T011500Z
+SUMMARY:Little Rock Trojans @ Tarleton State Texans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Tarleton S
+ tate Texans\nEECU Center\, Stephenville\, TX
+LOCATION:EECU Center\, Stephenville\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905821@open-sports-cal
+DTSTART:20270114T010000Z
+DTEND:20270114T040000Z
+SUMMARY:West Georgia Wolves @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Little Roc
+ k Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905829@open-sports-cal
+DTSTART:20270121T010000Z
+DTEND:20270121T040000Z
+SUMMARY:Eastern Kentucky Colonels @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Kentucky Colonels @ Litt
+ le Rock Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905831@open-sports-cal
+DTSTART:20270124T010000Z
+DTEND:20270124T040000Z
+SUMMARY:Tarleton State Texans @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTarleton State Texans @ Little R
+ ock Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905836@open-sports-cal
+DTSTART:20270128T010000Z
+DTEND:20270128T040000Z
+SUMMARY:Little Rock Trojans @ UT Arlington Mavericks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ UT Arlingt
+ on Mavericks\nCollege Park Center\, Arlington\, TX
+LOCATION:College Park Center\, Arlington\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905840@open-sports-cal
+DTSTART:20270131T010000Z
+DTEND:20270131T040000Z
+SUMMARY:North Alabama Lions @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Alabama Lions @ Little Roc
+ k Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905844@open-sports-cal
+DTSTART:20270204T013000Z
+DTEND:20270204T043000Z
+SUMMARY:Little Rock Trojans @ Austin Peay Governors
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Austin Pea
+ y Governors\nF&M Bank Arena\, Clarksville\, TN
+LOCATION:F&M Bank Arena\, Clarksville\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905848@open-sports-cal
+DTSTART:20270207T010000Z
+DTEND:20270207T040000Z
+SUMMARY:Central Arkansas Bears @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Arkansas Bears @ Little 
+ Rock Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905853@open-sports-cal
+DTSTART:20270211T000000Z
+DTEND:20270211T030000Z
+SUMMARY:Little Rock Trojans @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ West Georg
+ ia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905856@open-sports-cal
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:Little Rock Trojans @ North Alabama Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ North Alab
+ ama Lions\nCB&S Bank Arena at Flowers Hall\, Florence\, AL
+LOCATION:CB&S Bank Arena at Flowers Hall\, Florence\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905865@open-sports-cal
+DTSTART:20270220T190000Z
+DTEND:20270220T220000Z
+SUMMARY:Little Rock Trojans @ Central Arkansas Bears
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Central Ar
+ kansas Bears\nFarris Center\, Conway\, AR
+LOCATION:Farris Center\, Conway\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905867@open-sports-cal
+DTSTART:20270225T010000Z
+DTEND:20270225T040000Z
+SUMMARY:UT Arlington Mavericks @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Little 
+ Rock Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905872@open-sports-cal
+DTSTART:20270227T210000Z
+DTEND:20270228T000000Z
+SUMMARY:Little Rock Trojans @ Eastern Kentucky Colonels
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Eastern Ke
+ ntucky Colonels\nBaptist Health Arena\, Richmond\, KY
+LOCATION:Baptist Health Arena\, Richmond\, KY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905877@open-sports-cal
+DTSTART:20270304T010000Z
+DTEND:20270304T040000Z
+SUMMARY:Austin Peay Governors @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAustin Peay Governors @ Little R
+ ock Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905878@open-sports-cal
+DTSTART:20270307T010000Z
+DTEND:20270307T040000Z
+SUMMARY:Abilene Christian Wildcats @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Lit
+ tle Rock Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

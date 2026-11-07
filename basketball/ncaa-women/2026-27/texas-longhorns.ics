@@ -1,0 +1,456 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Women's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Women's Basketball 2026-27 - Texas Longhorns
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-women-401918840@open-sports-cal
+DTSTART:20261105T010000Z
+DTEND:20261105T040000Z
+SUMMARY:Fairleigh Dickinson Knights @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nFairleigh Dickinson Knights @ 
+ Texas Longhorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918841@open-sports-cal
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
+SUMMARY:Northern Colorado Bears @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Colorado Bears @ Texa
+ s Longhorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918842@open-sports-cal
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+SUMMARY:South Dakota State Jackrabbits @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota State Jackrabbits
+  @ Texas Longhorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918433@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Tarleton State Texans @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTarleton State Texans @ Texas 
+ Longhorns\nMoody Center\, Austin\, TX\nStart time TBD
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918843@open-sports-cal
+DTSTART:20261119T003000Z
+DTEND:20261119T033000Z
+SUMMARY:Texas Longhorns @ Green Bay Phoenix
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Green Bay Ph
+ oenix\nKress Center\, Green Bay\, WI
+LOCATION:Kress Center\, Green Bay\, WI
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918844@open-sports-cal
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Ohio State Buckeyes @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio State Buckeyes @ Texas Lo
+ nghorns\nDickies Arena\, Fort Worth\, TX\nNeutral site
+LOCATION:Dickies Arena\, Fort Worth\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918845@open-sports-cal
+DTSTART:20261126T000000Z
+DTEND:20261126T030000Z
+SUMMARY:SE Louisiana Lady Lions @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSE Louisiana Lady Lions @ Texa
+ s Longhorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918846@open-sports-cal
+DTSTART:20261129T200000Z
+DTEND:20261129T230000Z
+SUMMARY:Texas Longhorns @ Southeast Missouri State Redhawks
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Southeast Mi
+ ssouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO
+LOCATION:Show Me Center\, Cape Girardeau\, MO
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401906084@open-sports-cal
+DTSTART:20261203T021500Z
+DTEND:20261203T051500Z
+SUMMARY:Louisville Cardinals @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Texas L
+ onghorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918007@open-sports-cal
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Texas Longhorns @ TCU Horned Frogs
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ TCU Horned F
+ rogs\nDickies Arena\, Fort Worth\, TX\nNeutral site
+LOCATION:Dickies Arena\, Fort Worth\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918709@open-sports-cal
+DTSTART:20261211T010000Z
+DTEND:20261211T040000Z
+SUMMARY:Arkansas State Red Wolves @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas State Red Wolves @ Te
+ xas Longhorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918847@open-sports-cal
+DTSTART:20261213T200000Z
+DTEND:20261213T230000Z
+SUMMARY:UT Rio Grande Valley Vaqueros @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
+ @ Texas Longhorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918848@open-sports-cal
+DTSTART:20261216T170000Z
+DTEND:20261216T200000Z
+SUMMARY:Little Rock Trojans @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nLittle Rock Trojans @ Texas Lo
+ nghorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915935@open-sports-cal
+DTSTART:20261219T230000Z
+DTEND:20261220T020000Z
+SUMMARY:Texas Longhorns @ Duke Blue Devils
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Duke Blue De
+ vils\nMichelob ULTRA Arena\, Las Vegas\, NV\nNeutral site
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915938@open-sports-cal
+DTSTART:20261220T220000Z
+DTEND:20261221T010000Z
+SUMMARY:UCLA Bruins @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nUCLA Bruins @ Texas Longhorns\
+ nMichelob ULTRA Arena\, Las Vegas\, NV\nNeutral site
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401913926@open-sports-cal
+DTSTART:20261229T010000Z
+DTEND:20261229T040000Z
+SUMMARY:Harvard Crimson @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Texas Longho
+ rns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912828@open-sports-cal
+DTSTART:20261231T190000Z
+DTEND:20261231T220000Z
+SUMMARY:Texas Longhorns @ Georgia Lady Bulldogs
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Georgia Lady
+  Bulldogs\nStegeman Coliseum\, Athens\, GA
+LOCATION:Stegeman Coliseum\, Athens\, GA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912839@open-sports-cal
+DTSTART:20270103T200000Z
+DTEND:20270103T230000Z
+SUMMARY:South Carolina Gamecocks @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Gamecocks @ Tex
+ as Longhorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912847@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Tennessee Lady Volunteers @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Te
+ xas Longhorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912851@open-sports-cal
+DTSTART:20270110T190000Z
+DTEND:20270110T220000Z
+SUMMARY:Texas Longhorns @ Kentucky Wildcats
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Kentucky Wil
+ dcats\nMemorial Coliseum (KY)\, Lexington\, KY
+LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912862@open-sports-cal
+DTSTART:20270115T010000Z
+DTEND:20270115T040000Z
+SUMMARY:Alabama Crimson Tide @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Texas L
+ onghorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912866@open-sports-cal
+DTSTART:20270117T180000Z
+DTEND:20270117T210000Z
+SUMMARY:Vanderbilt Commodores @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Texas 
+ Longhorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912872@open-sports-cal
+DTSTART:20270122T020000Z
+DTEND:20270122T050000Z
+SUMMARY:Texas Longhorns @ Texas A&M Aggies
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Texas A&M Ag
+ gies\nReed Arena\, College Station\, TX
+LOCATION:Reed Arena\, College Station\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912877@open-sports-cal
+DTSTART:20270124T220000Z
+DTEND:20270125T010000Z
+SUMMARY:Texas Longhorns @ Mississippi State Bulldogs
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Mississippi 
+ State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+LOCATION:Humphrey Coliseum\, Starkville\, MS
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912889@open-sports-cal
+DTSTART:20270129T010000Z
+DTEND:20270129T040000Z
+SUMMARY:Missouri Tigers @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMissouri Tigers @ Texas Longho
+ rns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912897@open-sports-cal
+DTSTART:20270205T000000Z
+DTEND:20270205T030000Z
+SUMMARY:Texas Longhorns @ Auburn Tigers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Auburn Tiger
+ s\nNeville Arena\, Auburn\, AL
+LOCATION:Neville Arena\, Auburn\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912911@open-sports-cal
+DTSTART:20270209T003000Z
+DTEND:20270209T033000Z
+SUMMARY:Arkansas Razorbacks @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas Razorbacks @ Texas Lo
+ nghorns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912914@open-sports-cal
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:Texas Longhorns @ LSU Tigers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ LSU Tigers\n
+ Pete Maravich Assembly Center\, Baton Rouge\, LA
+LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912925@open-sports-cal
+DTSTART:20270214T210000Z
+DTEND:20270215T000000Z
+SUMMARY:Texas A&M Aggies @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M Aggies @ Texas Longh
+ orns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912933@open-sports-cal
+DTSTART:20270221T200000Z
+DTEND:20270221T230000Z
+SUMMARY:Florida Gators @ Texas Longhorns
+DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gators @ Texas Longhor
+ ns\nMoody Center\, Austin\, TX
+LOCATION:Moody Center\, Austin\, TX
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912938@open-sports-cal
+DTSTART:20270226T010000Z
+DTEND:20270226T040000Z
+SUMMARY:Texas Longhorns @ Oklahoma Sooners
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Oklahoma Soo
+ ners\nLloyd Noble Center\, Norman\, OK
+LOCATION:Lloyd Noble Center\, Norman\, OK
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401912951@open-sports-cal
+DTSTART:20270228T190000Z
+DTEND:20270228T220000Z
+SUMMARY:Texas Longhorns @ Ole Miss Rebels
+DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Ole Miss Reb
+ els\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+LOCATION:The Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

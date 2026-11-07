@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Northern Iowa Panthers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401868085@open-sports-cal
+DTSTART:20260905T230000Z
+DTEND:20260906T020000Z
+SUMMARY:Northern Iowa Panthers @ Eastern Washington Eagles
+DESCRIPTION:NCAA FCS Football 2026\nNorthern Iowa Panthers @ Eastern Washin
+ gton Eagles\nRoos Field\, Cheney\, WA
+LOCATION:Roos Field\, Cheney\, WA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868255@open-sports-cal
+DTSTART:20260912T180000Z
+DTEND:20260912T210000Z
+SUMMARY:Drake Bulldogs @ Northern Iowa Panthers
+DESCRIPTION:NCAA FCS Football 2026\nDrake Bulldogs @ Northern Iowa Panthers
+ \nUNI-Dome\, Cedar Falls\, IA
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401858471@open-sports-cal
+DTSTART:20260919T200000Z
+DTEND:20260919T230000Z
+SUMMARY:Northern Iowa Panthers @ Iowa Hawkeyes
+DESCRIPTION:NCAA FCS Football 2026\nNorthern Iowa Panthers @ Iowa Hawkeyes\
+ nKinnick Stadium\, Iowa City\, IA
+LOCATION:Kinnick Stadium\, Iowa City\, IA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867847@open-sports-cal
+DTSTART:20260926T210000Z
+DTEND:20260927T000000Z
+SUMMARY:Illinois State Redbirds @ Northern Iowa Panthers
+DESCRIPTION:NCAA FCS Football 2026\nIllinois State Redbirds @ Northern Iowa
+  Panthers\nUNI-Dome\, Cedar Falls\, IA
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867877@open-sports-cal
+DTSTART:20261010T210000Z
+DTEND:20261011T000000Z
+SUMMARY:North Dakota Fighting Hawks @ Northern Iowa Panthers
+DESCRIPTION:NCAA FCS Football 2026\nNorth Dakota Fighting Hawks @ Northern 
+ Iowa Panthers\nUNI-Dome\, Cedar Falls\, IA
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867897@open-sports-cal
+DTSTART:20261017T220000Z
+DTEND:20261018T010000Z
+SUMMARY:Northern Iowa Panthers @ Youngstown State Penguins
+DESCRIPTION:NCAA FCS Football 2026\nNorthern Iowa Panthers @ Youngstown Sta
+ te Penguins\nStambaugh Stadium\, Youngstown\, OH
+LOCATION:Stambaugh Stadium\, Youngstown\, OH
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867892@open-sports-cal
+DTSTART:20261024T180000Z
+DTEND:20261024T210000Z
+SUMMARY:Northern Iowa Panthers @ Southern Illinois Salukis
+DESCRIPTION:NCAA FCS Football 2026\nNorthern Iowa Panthers @ Southern Illin
+ ois Salukis\nSaluki Stadium\, Carbondale\, IL
+LOCATION:Saluki Stadium\, Carbondale\, IL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867861@open-sports-cal
+DTSTART:20261031T180000Z
+DTEND:20261031T210000Z
+SUMMARY:Indiana State Sycamores @ Northern Iowa Panthers
+DESCRIPTION:NCAA FCS Football 2026\nIndiana State Sycamores @ Northern Iowa
+  Panthers\nUNI-Dome\, Cedar Falls\, IA
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401872617@open-sports-cal
+DTSTART:20261107T190000Z
+DTEND:20261107T220000Z
+SUMMARY:South Dakota State Jackrabbits @ Northern Iowa Panthers
+DESCRIPTION:NCAA FCS Football 2026\nSouth Dakota State Jackrabbits @ Northe
+ rn Iowa Panthers\nUNI-Dome\, Cedar Falls\, IA
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867888@open-sports-cal
+DTSTART:20261114T190000Z
+DTEND:20261114T220000Z
+SUMMARY:Northern Iowa Panthers @ South Dakota Coyotes
+DESCRIPTION:NCAA FCS Football 2026\nNorthern Iowa Panthers @ South Dakota C
+ oyotes\nThe DakotaDome\, Vermillion\, SD
+LOCATION:The DakotaDome\, Vermillion\, SD
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867873@open-sports-cal
+DTSTART:20261121T190000Z
+DTEND:20261121T220000Z
+SUMMARY:Northern Iowa Panthers @ Murray State Racers
+DESCRIPTION:NCAA FCS Football 2026\nNorthern Iowa Panthers @ Murray State R
+ acers\nRoy Stewart Stadium\, Murray\, KY
+LOCATION:Roy Stewart Stadium\, Murray\, KY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

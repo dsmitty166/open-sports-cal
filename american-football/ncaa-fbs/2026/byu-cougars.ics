@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - BYU Cougars
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856775@open-sports-cal
+DTSTART:20260906T000000Z
+DTEND:20260906T030000Z
+SUMMARY:Utah Tech Trailblazers @ BYU Cougars
+DESCRIPTION:NCAA FBS Football 2026\nUtah Tech Trailblazers @ BYU Cougars\nL
+ aVell Edwards Stadium\, Provo\, UT
+LOCATION:LaVell Edwards Stadium\, Provo\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856810@open-sports-cal
+DTSTART:20260912T193000Z
+DTEND:20260912T223000Z
+SUMMARY:Arizona Wildcats @ BYU Cougars
+DESCRIPTION:NCAA FBS Football 2026\nArizona Wildcats @ BYU Cougars\nLaVell 
+ Edwards Stadium\, Provo\, UT
+LOCATION:LaVell Edwards Stadium\, Provo\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856795@open-sports-cal
+DTSTART:20260920T001500Z
+DTEND:20260920T031500Z
+SUMMARY:BYU Cougars @ Colorado State Rams
+DESCRIPTION:NCAA FBS Football 2026\nBYU Cougars @ Colorado State Rams\nCanv
+ as Stadium\, Fort Collins\, CO
+LOCATION:Canvas Stadium\, Fort Collins\, CO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856818@open-sports-cal
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+SUMMARY:BYU Cougars @ TCU Horned Frogs
+DESCRIPTION:NCAA FBS Football 2026\nBYU Cougars @ TCU Horned Frogs\nAmon G.
+  Carter Stadium\, Fort Worth\, TX
+LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856826@open-sports-cal
+DTSTART:20261010T023000Z
+DTEND:20261010T053000Z
+SUMMARY:Iowa State Cyclones @ BYU Cougars
+DESCRIPTION:NCAA FBS Football 2026\nIowa State Cyclones @ BYU Cougars\nLaVe
+ ll Edwards Stadium\, Provo\, UT
+LOCATION:LaVell Edwards Stadium\, Provo\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856809@open-sports-cal
+DTSTART:20261017T233000Z
+DTEND:20261018T023000Z
+SUMMARY:Notre Dame Fighting Irish @ BYU Cougars
+DESCRIPTION:NCAA FBS Football 2026\nNotre Dame Fighting Irish @ BYU Cougars
+ \nLaVell Edwards Stadium\, Provo\, UT
+LOCATION:LaVell Edwards Stadium\, Provo\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856835@open-sports-cal
+DTSTART:20261024T193000Z
+DTEND:20261024T223000Z
+SUMMARY:BYU Cougars @ UCF Knights
+DESCRIPTION:NCAA FBS Football 2026\nBYU Cougars @ UCF Knights\nAcrisure Bou
+ nce House\, Orlando\, FL
+LOCATION:Acrisure Bounce House\, Orlando\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856843@open-sports-cal
+DTSTART:20261031T193000Z
+DTEND:20261031T223000Z
+SUMMARY:Arizona State Sun Devils @ BYU Cougars
+DESCRIPTION:NCAA FBS Football 2026\nArizona State Sun Devils @ BYU Cougars\
+ nLaVell Edwards Stadium\, Provo\, UT
+LOCATION:LaVell Edwards Stadium\, Provo\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856849@open-sports-cal
+DTSTART:20261107T170000Z
+DTEND:20261107T200000Z
+SUMMARY:BYU Cougars @ Utah Utes
+DESCRIPTION:NCAA FBS Football 2026\nBYU Cougars @ Utah Utes\nRice-Eccles St
+ adium\, Salt Lake City\, UT
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856858@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Baylor Bears @ BYU Cougars
+DESCRIPTION:NCAA FBS Football 2026\nBaylor Bears @ BYU Cougars\nLaVell Edwa
+ rds Stadium\, Provo\, UT\nStart time TBD
+LOCATION:LaVell Edwards Stadium\, Provo\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856866@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:BYU Cougars @ Kansas Jayhawks
+DESCRIPTION:NCAA FBS Football 2026\nBYU Cougars @ Kansas Jayhawks\nDavid Bo
+ oth Kansas Memorial Stadium\, Lawrence\, KS\nStart time TBD
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856876@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Cincinnati Bearcats @ BYU Cougars
+DESCRIPTION:NCAA FBS Football 2026\nCincinnati Bearcats @ BYU Cougars\nLaVe
+ ll Edwards Stadium\, Provo\, UT\nStart time TBD
+LOCATION:LaVell Edwards Stadium\, Provo\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

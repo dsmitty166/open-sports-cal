@@ -1,0 +1,397 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Kansas Jayhawks
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401909784@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:Fordham Rams @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFordham Rams @ Kansas Jayhawks\n
+ Allen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909785@open-sports-cal
+DTSTART:20261107T020000Z
+DTEND:20261107T050000Z
+SUMMARY:Middle Tennessee Blue Raiders @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMiddle Tennessee Blue Raiders @ 
+ Kansas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909786@open-sports-cal
+DTSTART:20261111T023000Z
+DTEND:20261111T053000Z
+SUMMARY:Kansas Jayhawks @ Kentucky Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Kentucky Wildc
+ ats\nUnited Center\, Chicago\, IL\nNeutral site
+LOCATION:United Center\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909787@open-sports-cal
+DTSTART:20261118T023000Z
+DTEND:20261118T053000Z
+SUMMARY:UNLV Rebels @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNLV Rebels @ Kansas Jayhawks\nM
+ ichelob ULTRA Arena\, Las Vegas\, NV\nNeutral site
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909788@open-sports-cal
+DTSTART:20261124T010000Z
+DTEND:20261124T040000Z
+SUMMARY:Denver Pioneers @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDenver Pioneers @ Kansas Jayhawk
+ s\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909789@open-sports-cal
+DTSTART:20261127T220000Z
+DTEND:20261128T010000Z
+SUMMARY:Villanova Wildcats @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Kansas Jayh
+ awks\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909790@open-sports-cal
+DTSTART:20261202T010000Z
+DTEND:20261202T040000Z
+SUMMARY:Northern Iowa Panthers @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Iowa Panthers @ Kansas 
+ Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909791@open-sports-cal
+DTSTART:20261206T220000Z
+DTEND:20261207T010000Z
+SUMMARY:Kansas Jayhawks @ Missouri Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Missouri Tiger
+ s\nT-Mobile Center\, Kansas City\, MO\nNeutral site
+LOCATION:T-Mobile Center\, Kansas City\, MO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909792@open-sports-cal
+DTSTART:20261213T010000Z
+DTEND:20261213T040000Z
+SUMMARY:Kansas Jayhawks @ UConn Huskies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ UConn Huskies\
+ nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909793@open-sports-cal
+DTSTART:20261219T170000Z
+DTEND:20261219T200000Z
+SUMMARY:Kansas Jayhawks @ Ohio State Buckeyes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Ohio State Buc
+ keyes\nMadison Square Garden\, New York\, NY\nNeutral site
+LOCATION:Madison Square Garden\, New York\, NY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909794@open-sports-cal
+DTSTART:20261222T230000Z
+DTEND:20261223T020000Z
+SUMMARY:Indiana State Sycamores @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Kansas
+  Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909795@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:LSU New Orleans Privateers @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU New Orleans Privateers @ Kan
+ sas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922776@open-sports-cal
+DTSTART:20270102T183000Z
+DTEND:20270102T213000Z
+SUMMARY:West Virginia Mountaineers @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Virginia Mountaineers @ Kan
+ sas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922784@open-sports-cal
+DTSTART:20270107T040000Z
+DTEND:20270107T070000Z
+SUMMARY:Kansas Jayhawks @ Utah Utes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Utah Utes\nJon
+  M. Huntsman Center\, Salt Lake City\, UT
+LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922788@open-sports-cal
+DTSTART:20270109T180000Z
+DTEND:20270109T210000Z
+SUMMARY:Kansas Jayhawks @ BYU Cougars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ BYU Cougars\nM
+ arriott Center\, Provo\, UT
+LOCATION:Marriott Center\, Provo\, UT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922799@open-sports-cal
+DTSTART:20270114T020000Z
+DTEND:20270114T050000Z
+SUMMARY:Colorado Buffaloes @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ Kansas Jayh
+ awks\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922802@open-sports-cal
+DTSTART:20270116T190000Z
+DTEND:20270116T220000Z
+SUMMARY:UCF Knights @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUCF Knights @ Kansas Jayhawks\nA
+ llen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922811@open-sports-cal
+DTSTART:20270120T013000Z
+DTEND:20270120T043000Z
+SUMMARY:Kansas Jayhawks @ Cincinnati Bearcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Cincinnati Bea
+ rcats\nFifth Third Arena\, Cincinnati\, OH
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922820@open-sports-cal
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Kansas Jayhawks @ Kansas State Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Kansas State W
+ ildcats\nBramlage Coliseum\, Manhattan\, KS\nStart time TBD
+LOCATION:Bramlage Coliseum\, Manhattan\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922699@open-sports-cal
+DTSTART:20270130T173000Z
+DTEND:20270130T203000Z
+SUMMARY:Oklahoma State Cowboys @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma State Cowboys @ Kansas 
+ Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920523@open-sports-cal
+DTSTART:20270202T020000Z
+DTEND:20270202T050000Z
+SUMMARY:Kansas Jayhawks @ Houston Cougars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Houston Cougar
+ s\nFertitta Center\, Houston\, TX
+LOCATION:Fertitta Center\, Houston\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922712@open-sports-cal
+DTSTART:20270206T170000Z
+DTEND:20270206T200000Z
+SUMMARY:Texas Tech Red Raiders @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Kansas 
+ Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922714@open-sports-cal
+DTSTART:20270210T020000Z
+DTEND:20270210T050000Z
+SUMMARY:Arizona State Sun Devils @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nArizona State Sun Devils @ Kansa
+ s Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922722@open-sports-cal
+DTSTART:20270213T190000Z
+DTEND:20270213T220000Z
+SUMMARY:Kansas Jayhawks @ Iowa State Cyclones
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Iowa State Cyc
+ lones\nHilton Coliseum\, Ames\, IA
+LOCATION:Hilton Coliseum\, Ames\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922732@open-sports-cal
+DTSTART:20270218T020000Z
+DTEND:20270218T050000Z
+SUMMARY:Baylor Bears @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBaylor Bears @ Kansas Jayhawks\n
+ Allen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922736@open-sports-cal
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Kansas Jayhawks @ Arizona Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Arizona Wildca
+ ts\nMcKale Center at ALKEME Arena\, Tucson\, AZ\nStart time TBD
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922745@open-sports-cal
+DTSTART:20270225T020000Z
+DTEND:20270225T050000Z
+SUMMARY:Kansas Jayhawks @ TCU Horned Frogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ TCU Horned Fro
+ gs\nSchollmaier Arena\, Fort Worth\, TX
+LOCATION:Schollmaier Arena\, Fort Worth\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922753@open-sports-cal
+DTSTART:20270227T190000Z
+DTEND:20270227T220000Z
+SUMMARY:Kansas State Wildcats @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ Kansas J
+ ayhawks\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920527@open-sports-cal
+DTSTART:20270302T020000Z
+DTEND:20270302T050000Z
+SUMMARY:Iowa State Cyclones @ Kansas Jayhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa State Cyclones @ Kansas Jay
+ hawks\nAllen Fieldhouse\, Lawrence\, KS
+LOCATION:Allen Fieldhouse\, Lawrence\, KS
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922766@open-sports-cal
+DTSTART:20270306T183000Z
+DTEND:20270306T213000Z
+SUMMARY:Kansas Jayhawks @ Baylor Bears
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Baylor Bears\n
+ Foster Pavilion\, Waco\, TX
+LOCATION:Foster Pavilion\, Waco\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Princeton Tigers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401866638@open-sports-cal
+DTSTART:20260919T170000Z
+DTEND:20260919T200000Z
+SUMMARY:Princeton Tigers @ Bryant Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nPrinceton Tigers @ Bryant Bulldogs\nBei
+ rne Stadium\, Smithfield\, RI
+LOCATION:Beirne Stadium\, Smithfield\, RI
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401866646@open-sports-cal
+DTSTART:20260926T190000Z
+DTEND:20260926T220000Z
+SUMMARY:UAlbany Great Danes @ Princeton Tigers
+DESCRIPTION:NCAA FCS Football 2026\nUAlbany Great Danes @ Princeton Tigers\
+ nPrinceton Stadium\, Princeton\, NJ
+LOCATION:Princeton Stadium\, Princeton\, NJ
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867819@open-sports-cal
+DTSTART:20261003T160000Z
+DTEND:20261003T190000Z
+SUMMARY:Princeton Tigers @ Columbia Lions
+DESCRIPTION:NCAA FCS Football 2026\nPrinceton Tigers @ Columbia Lions\nLawr
+ ence A. Wien Stadium\, New York\, NY
+LOCATION:Lawrence A. Wien Stadium\, New York\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867930@open-sports-cal
+DTSTART:20261010T160000Z
+DTEND:20261010T190000Z
+SUMMARY:Princeton Tigers @ Wagner Seahawks
+DESCRIPTION:NCAA FCS Football 2026\nPrinceton Tigers @ Wagner Seahawks\nHam
+ eline Field at Wagner College Stadium\, Staten Island\, NY
+LOCATION:Hameline Field at Wagner College Stadium\, Staten Island\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867807@open-sports-cal
+DTSTART:20261017T160000Z
+DTEND:20261017T190000Z
+SUMMARY:Brown Bears @ Princeton Tigers
+DESCRIPTION:NCAA FCS Football 2026\nBrown Bears @ Princeton Tigers\nPrincet
+ on Stadium\, Princeton\, NJ
+LOCATION:Princeton Stadium\, Princeton\, NJ
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867842@open-sports-cal
+DTSTART:20261024T190000Z
+DTEND:20261024T220000Z
+SUMMARY:Princeton Tigers @ Harvard Crimson
+DESCRIPTION:NCAA FCS Football 2026\nPrinceton Tigers @ Harvard Crimson\nHar
+ vard Stadium\, Cambridge\, MA
+LOCATION:Harvard Stadium\, Cambridge\, MA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867831@open-sports-cal
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:Cornell Big Red @ Princeton Tigers
+DESCRIPTION:NCAA FCS Football 2026\nCornell Big Red @ Princeton Tigers\nPri
+ nceton Stadium\, Princeton\, NJ
+LOCATION:Princeton Stadium\, Princeton\, NJ
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867839@open-sports-cal
+DTSTART:20261107T170000Z
+DTEND:20261107T200000Z
+SUMMARY:Dartmouth Big Green @ Princeton Tigers
+DESCRIPTION:NCAA FCS Football 2026\nDartmouth Big Green @ Princeton Tigers\
+ nPrinceton Stadium\, Princeton\, NJ
+LOCATION:Princeton Stadium\, Princeton\, NJ
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401870842@open-sports-cal
+DTSTART:20261114T170000Z
+DTEND:20261114T200000Z
+SUMMARY:Princeton Tigers @ Yale Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nPrinceton Tigers @ Yale Bulldogs\nYale 
+ Bowl\, New Haven\, CT
+LOCATION:Yale Bowl\, New Haven\, CT
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401872619@open-sports-cal
+DTSTART:20261121T170000Z
+DTEND:20261121T200000Z
+SUMMARY:Pennsylvania Quakers @ Princeton Tigers
+DESCRIPTION:NCAA FCS Football 2026\nPennsylvania Quakers @ Princeton Tigers
+ \nPrinceton Stadium\, Princeton\, NJ
+LOCATION:Princeton Stadium\, Princeton\, NJ
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

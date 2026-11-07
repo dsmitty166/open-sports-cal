@@ -22,7 +22,7 @@ jobs:
       - name: Update leagues
         run: |
           failed=""
-          for league in nba nhl nfl mlb pwhl epl la_liga bundesliga serie_a ligue_1 f1; do
+          for league in nba nhl nfl ncaa mlb pwhl epl la_liga bundesliga serie_a ligue_1 f1; do
             echo "::group::Update $league"
             if ! python3 "scripts/update_${league}.py"; then
               echo "::warning::update_${league}.py failed — continuing with other leagues"
@@ -34,6 +34,9 @@ jobs:
 
       - name: Validate
         run: python3 validate.py
+
+      - name: Regenerate website manifest
+        run: python3 generate_manifest.py
 
       - name: Commit if changed
         run: |

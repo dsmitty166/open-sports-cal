@@ -1,0 +1,413 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Cal Poly Mustangs
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401920122@open-sports-cal
+DTSTART:20261103T033000Z
+DTEND:20261103T063000Z
+SUMMARY:Cal State San Marcos Cougars @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State San Marcos Cougars @ C
+ al Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909739@open-sports-cal
+DTSTART:20261106T033000Z
+DTEND:20261106T063000Z
+SUMMARY:Cal Poly Mustangs @ Arizona Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Arizona Wild
+ cats\nMcKale Center at ALKEME Arena\, Tucson\, AZ
+LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911346@open-sports-cal
+DTSTART:20261112T020000Z
+DTEND:20261112T050000Z
+SUMMARY:Cal Poly Mustangs @ Grand Canyon Lopes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Grand Canyon
+  Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+LOCATION:Global Credit Union Arena\, Phoenix\, AZ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920123@open-sports-cal
+DTSTART:20261114T020000Z
+DTEND:20261114T050000Z
+SUMMARY:Cal Poly Mustangs @ Idaho Vandals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Idaho Vandal
+ s\nICCU Arena\, Moscow\, ID
+LOCATION:ICCU Arena\, Moscow\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920124@open-sports-cal
+DTSTART:20261115T230000Z
+DTEND:20261116T020000Z
+SUMMARY:Cal Poly Mustangs @ Montana State Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Montana Stat
+ e Bobcats\nWorthington Arena\, Bozeman\, MT
+LOCATION:Worthington Arena\, Bozeman\, MT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920125@open-sports-cal
+DTSTART:20261122T000000Z
+DTEND:20261122T030000Z
+SUMMARY:Northern Arizona Lumberjacks @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ C
+ al Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917379@open-sports-cal
+DTSTART:20261204T030000Z
+DTEND:20261204T060000Z
+SUMMARY:Cal Poly Mustangs @ Cal State Northridge Matadors
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Cal State No
+ rthridge Matadors\nPremier America Credit Union Arena\, Northridge\, CA
+LOCATION:Premier America Credit Union Arena\, Northridge\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917380@open-sports-cal
+DTSTART:20261206T020000Z
+DTEND:20261206T050000Z
+SUMMARY:Cal Poly Mustangs @ UC Santa Barbara Gauchos
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ UC Santa Bar
+ bara Gauchos\nThe Thunderdome\, Santa Barbara\, CA
+LOCATION:The Thunderdome\, Santa Barbara\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920126@open-sports-cal
+DTSTART:20261212T223000Z
+DTEND:20261213T013000Z
+SUMMARY:Montana Grizzlies @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMontana Grizzlies @ Cal Poly Mus
+ tangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909767@open-sports-cal
+DTSTART:20261216T020000Z
+DTEND:20261216T050000Z
+SUMMARY:Cal Poly Mustangs @ Colorado Buffaloes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Colorado Buf
+ faloes\nCU Events Center\, Boulder\, CO
+LOCATION:CU Events Center\, Boulder\, CO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920127@open-sports-cal
+DTSTART:20261223T030000Z
+DTEND:20261223T060000Z
+SUMMARY:Cal Poly Mustangs @ UNLV Rebels
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ UNLV Rebels\
+ nThomas & Mack Center\, Las Vegas\, NV
+LOCATION:Thomas & Mack Center\, Las Vegas\, NV
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917386@open-sports-cal
+DTSTART:20261231T220000Z
+DTEND:20270101T010000Z
+SUMMARY:Cal Poly Mustangs @ UC Riverside Highlanders
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ UC Riverside
+  Highlanders\nSRC Arena\, Riverside\, CA
+LOCATION:SRC Arena\, Riverside\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917393@open-sports-cal
+DTSTART:20270103T010000Z
+DTEND:20270103T040000Z
+SUMMARY:Cal Poly Mustangs @ California Baptist Lancers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ California B
+ aptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\, C
+ A
+LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917400@open-sports-cal
+DTSTART:20270108T030000Z
+DTEND:20270108T060000Z
+SUMMARY:Long Beach State Beach @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Beach State Beach @ Cal Pol
+ y Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917407@open-sports-cal
+DTSTART:20270110T000000Z
+DTEND:20270110T030000Z
+SUMMARY:Cal State Fullerton Titans @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Fullerton Titans @ Cal
+  Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917410@open-sports-cal
+DTSTART:20270115T030000Z
+DTEND:20270115T060000Z
+SUMMARY:Cal Poly Mustangs @ Sacramento State Hornets
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Sacramento S
+ tate Hornets\nHornet Pavilion\, Sacramento\, CA
+LOCATION:Hornet Pavilion\, Sacramento\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917417@open-sports-cal
+DTSTART:20270116T210000Z
+DTEND:20270117T000000Z
+SUMMARY:Cal Poly Mustangs @ Utah Valley Wolverines
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Utah Valley 
+ Wolverines\nUCCU Center\, Orem\, UT
+LOCATION:UCCU Center\, Orem\, UT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917424@open-sports-cal
+DTSTART:20270122T030000Z
+DTEND:20270122T060000Z
+SUMMARY:Cal State Bakersfield Roadrunners @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
+ s @ Cal Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917433@open-sports-cal
+DTSTART:20270124T010000Z
+DTEND:20270124T040000Z
+SUMMARY:Cal State Northridge Matadors @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Northridge Matadors @ 
+ Cal Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917437@open-sports-cal
+DTSTART:20270129T030000Z
+DTEND:20270129T060000Z
+SUMMARY:UC Irvine Anteaters @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Irvine Anteaters @ Cal Poly M
+ ustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917443@open-sports-cal
+DTSTART:20270131T000000Z
+DTEND:20270131T030000Z
+SUMMARY:UC San Diego Tritons @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ Cal Poly 
+ Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917448@open-sports-cal
+DTSTART:20270205T030000Z
+DTEND:20270205T060000Z
+SUMMARY:Cal Poly Mustangs @ Cal State Fullerton Titans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Cal State Fu
+ llerton Titans\nTitan Gym\, Fullerton\, CA
+LOCATION:Titan Gym\, Fullerton\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917454@open-sports-cal
+DTSTART:20270207T020000Z
+DTEND:20270207T050000Z
+SUMMARY:Cal Poly Mustangs @ Long Beach State Beach
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Long Beach S
+ tate Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917460@open-sports-cal
+DTSTART:20270212T030000Z
+DTEND:20270212T060000Z
+SUMMARY:California Baptist Lancers @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCalifornia Baptist Lancers @ Cal
+  Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917464@open-sports-cal
+DTSTART:20270214T000000Z
+DTEND:20270214T030000Z
+SUMMARY:UC Riverside Highlanders @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Riverside Highlanders @ Cal P
+ oly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917474@open-sports-cal
+DTSTART:20270218T190000Z
+DTEND:20270218T220000Z
+SUMMARY:Cal Poly Mustangs @ Cal State Bakersfield Roadrunners
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Cal State Ba
+ kersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+LOCATION:Icardo Center\, Bakersfield\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917476@open-sports-cal
+DTSTART:20270221T000000Z
+DTEND:20270221T030000Z
+SUMMARY:UC Santa Barbara Gauchos @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Santa Barbara Gauchos @ Cal P
+ oly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917484@open-sports-cal
+DTSTART:20270226T030000Z
+DTEND:20270226T060000Z
+SUMMARY:Cal Poly Mustangs @ UC San Diego Tritons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ UC San Diego
+  Tritons\nLionTree Arena\, San Diego\, CA
+LOCATION:LionTree Arena\, San Diego\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917489@open-sports-cal
+DTSTART:20270228T030000Z
+DTEND:20270228T060000Z
+SUMMARY:Cal Poly Mustangs @ UC Irvine Anteaters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ UC Irvine An
+ teaters\nBren Events Center\, Irvine\, CA
+LOCATION:Bren Events Center\, Irvine\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917494@open-sports-cal
+DTSTART:20270305T030000Z
+DTEND:20270305T060000Z
+SUMMARY:Utah Valley Wolverines @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUtah Valley Wolverines @ Cal Pol
+ y Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917503@open-sports-cal
+DTSTART:20270307T000000Z
+DTEND:20270307T030000Z
+SUMMARY:Sacramento State Hornets @ Cal Poly Mustangs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSacramento State Hornets @ Cal P
+ oly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

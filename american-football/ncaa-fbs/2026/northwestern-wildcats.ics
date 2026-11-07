@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Northwestern Wildcats
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858431@open-sports-cal
+DTSTART:20260906T000000Z
+DTEND:20260906T030000Z
+SUMMARY:South Dakota State Jackrabbits @ Northwestern Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nSouth Dakota State Jackrabbits @ Northw
+ estern Wildcats\nNorthwestern Medicine Field at Martin Stadium\, Evanston\
+ , IL
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856796@open-sports-cal
+DTSTART:20260919T233000Z
+DTEND:20260920T023000Z
+SUMMARY:Colorado Buffaloes @ Northwestern Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nColorado Buffaloes @ Northwestern Wildc
+ ats\nNorthwestern Medicine Field at Martin Stadium\, Evanston\, IL
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858461@open-sports-cal
+DTSTART:20260926T000000Z
+DTEND:20260926T030000Z
+SUMMARY:Northwestern Wildcats @ Indiana Hoosiers
+DESCRIPTION:NCAA FBS Football 2026\nNorthwestern Wildcats @ Indiana Hoosier
+ s\nMemorial Stadium (Bloomington\, IN)\, Bloomington\, IN
+LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858476@open-sports-cal
+DTSTART:20261003T000000Z
+DTEND:20261003T030000Z
+SUMMARY:Penn State Nittany Lions @ Northwestern Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nPenn State Nittany Lions @ Northwestern
+  Wildcats\nRyan Field\, Evanston\, IL
+LOCATION:Ryan Field\, Evanston\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858482@open-sports-cal
+DTSTART:20261010T163000Z
+DTEND:20261010T193000Z
+SUMMARY:Ball State Cardinals @ Northwestern Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nBall State Cardinals @ Northwestern Wil
+ dcats\nRyan Field\, Evanston\, IL
+LOCATION:Ryan Field\, Evanston\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858491@open-sports-cal
+DTSTART:20261017T160000Z
+DTEND:20261017T190000Z
+SUMMARY:Northwestern Wildcats @ Michigan State Spartans
+DESCRIPTION:NCAA FBS Football 2026\nNorthwestern Wildcats @ Michigan State 
+ Spartans\nSpartan Stadium\, East Lansing\, MI
+LOCATION:Spartan Stadium\, East Lansing\, MI
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858498@open-sports-cal
+DTSTART:20261024T160000Z
+DTEND:20261024T190000Z
+SUMMARY:Rutgers Scarlet Knights @ Northwestern Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nRutgers Scarlet Knights @ Northwestern 
+ Wildcats\nRyan Field\, Evanston\, IL
+LOCATION:Ryan Field\, Evanston\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858505@open-sports-cal
+DTSTART:20261031T193000Z
+DTEND:20261031T223000Z
+SUMMARY:Northwestern Wildcats @ Oregon Ducks
+DESCRIPTION:NCAA FBS Football 2026\nNorthwestern Wildcats @ Oregon Ducks\nA
+ utzen Stadium\, Eugene\, OR
+LOCATION:Autzen Stadium\, Eugene\, OR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858513@open-sports-cal
+DTSTART:20261108T003000Z
+DTEND:20261108T033000Z
+SUMMARY:Iowa Hawkeyes @ Northwestern Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nIowa Hawkeyes @ Northwestern Wildcats\n
+ Ryan Field\, Evanston\, IL
+LOCATION:Ryan Field\, Evanston\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858522@open-sports-cal
+DTSTART:20261114T170000Z
+DTEND:20261114T200000Z
+SUMMARY:Northwestern Wildcats @ Ohio State Buckeyes
+DESCRIPTION:NCAA FBS Football 2026\nNorthwestern Wildcats @ Ohio State Buck
+ eyes\nOhio Stadium\, Columbus\, OH
+LOCATION:Ohio Stadium\, Columbus\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858530@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Northwestern Wildcats @ Minnesota Golden Gophers
+DESCRIPTION:NCAA FBS Football 2026\nNorthwestern Wildcats @ Minnesota Golde
+ n Gophers\nHuntington Bank Stadium\, Minneapolis\, MN\nStart time TBD
+LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858537@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Illinois Fighting Illini @ Northwestern Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nIllinois Fighting Illini @ Northwestern
+  Wildcats\nRyan Field\, Evanston\, IL\nStart time TBD
+LOCATION:Ryan Field\, Evanston\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Utah Utes
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856768@open-sports-cal
+DTSTART:20260904T010000Z
+DTEND:20260904T040000Z
+SUMMARY:Idaho Vandals @ Utah Utes
+DESCRIPTION:NCAA FBS Football 2026\nIdaho Vandals @ Utah Utes\nRice-Eccles 
+ Stadium\, Salt Lake City\, UT
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856670@open-sports-cal
+DTSTART:20260913T023000Z
+DTEND:20260913T053000Z
+SUMMARY:Arkansas Razorbacks @ Utah Utes
+DESCRIPTION:NCAA FBS Football 2026\nArkansas Razorbacks @ Utah Utes\nRice-E
+ ccles Stadium\, Salt Lake City\, UT
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856801@open-sports-cal
+DTSTART:20260919T193000Z
+DTEND:20260919T223000Z
+SUMMARY:Utah State Aggies @ Utah Utes
+DESCRIPTION:NCAA FBS Football 2026\nUtah State Aggies @ Utah Utes\nRice-Ecc
+ les Stadium\, Salt Lake City\, UT
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856816@open-sports-cal
+DTSTART:20260926T193000Z
+DTEND:20260926T223000Z
+SUMMARY:Utah Utes @ Iowa State Cyclones
+DESCRIPTION:NCAA FBS Football 2026\nUtah Utes @ Iowa State Cyclones\nJack T
+ rice Stadium\, Ames\, IA
+LOCATION:Jack Trice Stadium\, Ames\, IA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856827@open-sports-cal
+DTSTART:20261011T000000Z
+DTEND:20261011T030000Z
+SUMMARY:Kansas Jayhawks @ Utah Utes
+DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ Utah Utes\nRice-Eccle
+ s Stadium\, Salt Lake City\, UT
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856833@open-sports-cal
+DTSTART:20261018T021500Z
+DTEND:20261018T051500Z
+SUMMARY:Utah Utes @ Colorado Buffaloes
+DESCRIPTION:NCAA FBS Football 2026\nUtah Utes @ Colorado Buffaloes\nFolsom 
+ Field\, Boulder\, CO
+LOCATION:Folsom Field\, Boulder\, CO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856837@open-sports-cal
+DTSTART:20261025T021500Z
+DTEND:20261025T051500Z
+SUMMARY:Houston Cougars @ Utah Utes
+DESCRIPTION:NCAA FBS Football 2026\nHouston Cougars @ Utah Utes\nRice-Eccle
+ s Stadium\, Salt Lake City\, UT
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856848@open-sports-cal
+DTSTART:20261031T194500Z
+DTEND:20261031T224500Z
+SUMMARY:Utah Utes @ Cincinnati Bearcats
+DESCRIPTION:NCAA FBS Football 2026\nUtah Utes @ Cincinnati Bearcats\nNipper
+ t Stadium\, Cincinnati\, OH
+LOCATION:Nippert Stadium\, Cincinnati\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856849@open-sports-cal
+DTSTART:20261107T170000Z
+DTEND:20261107T200000Z
+SUMMARY:BYU Cougars @ Utah Utes
+DESCRIPTION:NCAA FBS Football 2026\nBYU Cougars @ Utah Utes\nRice-Eccles St
+ adium\, Salt Lake City\, UT
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856864@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Utah Utes @ Arizona Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nUtah Utes @ Arizona Wildcats\nCasino De
+ l Sol Stadium\, Tucson\, AZ\nStart time TBD
+LOCATION:Casino Del Sol Stadium\, Tucson\, AZ
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856872@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Utah Utes @ TCU Horned Frogs
+DESCRIPTION:NCAA FBS Football 2026\nUtah Utes @ TCU Horned Frogs\nAmon G. C
+ arter Stadium\, Fort Worth\, TX\nStart time TBD
+LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856880@open-sports-cal
+DTSTART:20261128T020000Z
+DTEND:20261128T050000Z
+SUMMARY:West Virginia Mountaineers @ Utah Utes
+DESCRIPTION:NCAA FBS Football 2026\nWest Virginia Mountaineers @ Utah Utes\
+ nRice-Eccles Stadium\, Salt Lake City\, UT
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+END:VCALENDAR

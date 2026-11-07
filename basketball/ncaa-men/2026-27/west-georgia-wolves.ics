@@ -1,0 +1,425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - West Georgia Wolves
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401909500@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:West Georgia Wolves @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ DePaul Blu
+ e Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911229@open-sports-cal
+DTSTART:20261106T010000Z
+DTEND:20261106T040000Z
+SUMMARY:West Georgia Wolves @ Loyola Chicago Ramblers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Loyola Chi
+ cago Ramblers\nGentile Arena\, Chicago\, IL
+LOCATION:Gentile Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917901@open-sports-cal
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+SUMMARY:UNC Asheville Bulldogs @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ West Ge
+ orgia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911376@open-sports-cal
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
+SUMMARY:West Georgia Wolves @ Charleston Southern Buccaneers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Charleston
+  Southern Buccaneers\nBuccaneer Fieldhouse\, Charleston\, SC
+LOCATION:Buccaneer Fieldhouse\, Charleston\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917902@open-sports-cal
+DTSTART:20261119T000000Z
+DTEND:20261119T030000Z
+SUMMARY:Columbia (SC) Fighting Koalas @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nColumbia (SC) Fighting Koalas @ 
+ West Georgia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917903@open-sports-cal
+DTSTART:20261121T000000Z
+DTEND:20261121T030000Z
+SUMMARY:Paine Lions @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPaine Lions @ West Georgia Wolve
+ s\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917904@open-sports-cal
+DTSTART:20261125T003000Z
+DTEND:20261125T033000Z
+SUMMARY:West Georgia Wolves @ Tennessee Tech Golden Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Tennessee 
+ Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+LOCATION:Hooper Eblen Center\, Cookeville\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917905@open-sports-cal
+DTSTART:20261129T190000Z
+DTEND:20261129T220000Z
+SUMMARY:West Georgia Wolves @ South Carolina Upstate Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ South Caro
+ lina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+LOCATION:G.B. Hodge Center\, Spartanburg\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917906@open-sports-cal
+DTSTART:20261201T160000Z
+DTEND:20261201T190000Z
+SUMMARY:Southern Indiana Screaming Eagles @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Indiana Screaming Eagle
+ s @ West Georgia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917907@open-sports-cal
+DTSTART:20261206T230000Z
+DTEND:20261207T020000Z
+SUMMARY:Life University Running Eagles @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLife University Running Eagles @
+  West Georgia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917908@open-sports-cal
+DTSTART:20261212T190000Z
+DTEND:20261212T220000Z
+SUMMARY:West Georgia Wolves @ Vanderbilt Commodores
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Vanderbilt
+  Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906788@open-sports-cal
+DTSTART:20261216T230000Z
+DTEND:20261217T020000Z
+SUMMARY:West Georgia Wolves @ Georgia Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Georgia Bu
+ lldogs\nStegeman Coliseum\, Athens\, GA
+LOCATION:Stegeman Coliseum\, Athens\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917909@open-sports-cal
+DTSTART:20261219T190000Z
+DTEND:20261219T220000Z
+SUMMARY:West Florida Argonauts @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Florida Argonauts @ West Ge
+ orgia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917910@open-sports-cal
+DTSTART:20261222T000000Z
+DTEND:20261222T030000Z
+SUMMARY:Queens University Royals @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nQueens University Royals @ West 
+ Georgia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917911@open-sports-cal
+DTSTART:20261231T200000Z
+DTEND:20261231T230000Z
+SUMMARY:West Georgia Wolves @ Lipscomb Bisons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Lipscomb B
+ isons\nAllen Arena\, Nashville\, TN
+LOCATION:Allen Arena\, Nashville\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917912@open-sports-cal
+DTSTART:20270102T190000Z
+DTEND:20270102T220000Z
+SUMMARY:West Georgia Wolves @ Bellarmine Knights
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Bellarmine
+  Knights\nKnights Hall\, Louisville\, KY
+LOCATION:Knights Hall\, Louisville\, KY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905813@open-sports-cal
+DTSTART:20270107T000000Z
+DTEND:20270107T030000Z
+SUMMARY:North Alabama Lions @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Alabama Lions @ West Georg
+ ia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905817@open-sports-cal
+DTSTART:20270109T210000Z
+DTEND:20270110T000000Z
+SUMMARY:West Georgia Wolves @ Eastern Kentucky Colonels
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Eastern Ke
+ ntucky Colonels\nBaptist Health Arena\, Richmond\, KY
+LOCATION:Baptist Health Arena\, Richmond\, KY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905821@open-sports-cal
+DTSTART:20270114T010000Z
+DTEND:20270114T040000Z
+SUMMARY:West Georgia Wolves @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Little Roc
+ k Trojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905824@open-sports-cal
+DTSTART:20270116T190000Z
+DTEND:20270116T220000Z
+SUMMARY:West Georgia Wolves @ Central Arkansas Bears
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Central Ar
+ kansas Bears\nFarris Center\, Conway\, AR
+LOCATION:Farris Center\, Conway\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905827@open-sports-cal
+DTSTART:20270121T004500Z
+DTEND:20270121T034500Z
+SUMMARY:UT Arlington Mavericks @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ West Ge
+ orgia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905830@open-sports-cal
+DTSTART:20270123T213000Z
+DTEND:20270124T003000Z
+SUMMARY:Abilene Christian Wildcats @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Wes
+ t Georgia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905835@open-sports-cal
+DTSTART:20270128T014500Z
+DTEND:20270128T044500Z
+SUMMARY:West Georgia Wolves @ Tarleton State Texans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Tarleton S
+ tate Texans\nEECU Center\, Stephenville\, TX
+LOCATION:EECU Center\, Stephenville\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905841@open-sports-cal
+DTSTART:20270130T190000Z
+DTEND:20270130T220000Z
+SUMMARY:Eastern Kentucky Colonels @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Kentucky Colonels @ West
+  Georgia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905845@open-sports-cal
+DTSTART:20270204T003000Z
+DTEND:20270204T033000Z
+SUMMARY:West Georgia Wolves @ North Alabama Lions
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ North Alab
+ ama Lions\nCB&S Bank Arena at Flowers Hall\, Florence\, AL
+LOCATION:CB&S Bank Arena at Flowers Hall\, Florence\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905853@open-sports-cal
+DTSTART:20270211T000000Z
+DTEND:20270211T030000Z
+SUMMARY:Little Rock Trojans @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ West Georg
+ ia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905857@open-sports-cal
+DTSTART:20270213T190000Z
+DTEND:20270213T220000Z
+SUMMARY:Austin Peay Governors @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAustin Peay Governors @ West Geo
+ rgia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905860@open-sports-cal
+DTSTART:20270218T020000Z
+DTEND:20270218T050000Z
+SUMMARY:West Georgia Wolves @ UT Arlington Mavericks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ UT Arlingt
+ on Mavericks\nCollege Park Center\, Arlington\, TX
+LOCATION:College Park Center\, Arlington\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905862@open-sports-cal
+DTSTART:20270221T000000Z
+DTEND:20270221T030000Z
+SUMMARY:West Georgia Wolves @ Abilene Christian Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Abilene Ch
+ ristian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905869@open-sports-cal
+DTSTART:20270225T010000Z
+DTEND:20270225T040000Z
+SUMMARY:West Georgia Wolves @ Austin Peay Governors
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Austin Pea
+ y Governors\nF&M Bank Arena\, Clarksville\, TN
+LOCATION:F&M Bank Arena\, Clarksville\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905871@open-sports-cal
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:Central Arkansas Bears @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Arkansas Bears @ West Ge
+ orgia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905875@open-sports-cal
+DTSTART:20270304T004500Z
+DTEND:20270304T034500Z
+SUMMARY:Tarleton State Texans @ West Georgia Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTarleton State Texans @ West Geo
+ rgia Wolves\nThe Coliseum\, Carrollton\, GA
+LOCATION:The Coliseum\, Carrollton\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

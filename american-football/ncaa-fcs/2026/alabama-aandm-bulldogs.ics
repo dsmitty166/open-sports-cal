@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Alabama A&M Bulldogs
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401867935@open-sports-cal
+DTSTART:20260829T233000Z
+DTEND:20260830T023000Z
+SUMMARY:Howard Bison @ Alabama A&M Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nHoward Bison @ Alabama A&M Bulldogs\nCe
+ nter Parc Stadium\, Atlanta\, GA\nNeutral site
+LOCATION:Center Parc Stadium\, Atlanta\, GA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868297@open-sports-cal
+DTSTART:20260905T230000Z
+DTEND:20260906T020000Z
+SUMMARY:Miles Golden Bears @ Alabama A&M Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nMiles Golden Bears @ Alabama A&M Bulldo
+ gs\nLouis Crews Stadium\, Huntsville\, AL
+LOCATION:Louis Crews Stadium\, Huntsville\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868195@open-sports-cal
+DTSTART:20260912T230000Z
+DTEND:20260913T020000Z
+SUMMARY:Tennessee State Tigers @ Alabama A&M Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nTennessee State Tigers @ Alabama A&M Bu
+ lldogs\nLouis Crews Stadium\, Huntsville\, AL
+LOCATION:Louis Crews Stadium\, Huntsville\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868298@open-sports-cal
+DTSTART:20260919T230000Z
+DTEND:20260920T020000Z
+SUMMARY:Bowie State Bulldogs @ Alabama A&M Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nBowie State Bulldogs @ Alabama A&M Bull
+ dogs\nLouis Crews Stadium\, Huntsville\, AL
+LOCATION:Louis Crews Stadium\, Huntsville\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868299@open-sports-cal
+DTSTART:20260926T230000Z
+DTEND:20260927T020000Z
+SUMMARY:Alabama A&M Bulldogs @ Florida A&M Rattlers
+DESCRIPTION:NCAA FCS Football 2026\nAlabama A&M Bulldogs @ Florida A&M Ratt
+ lers\nBragg Memorial Stadium\, Tallahassee\, FL
+LOCATION:Bragg Memorial Stadium\, Tallahassee\, FL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868295@open-sports-cal
+DTSTART:20261003T210000Z
+DTEND:20261004T000000Z
+SUMMARY:Alabama A&M Bulldogs @ Jackson State Tigers
+DESCRIPTION:NCAA FCS Football 2026\nAlabama A&M Bulldogs @ Jackson State Ti
+ gers\nLadd-Peebles Stadium\, Mobile\, AL\nNeutral site
+LOCATION:Ladd-Peebles Stadium\, Mobile\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868300@open-sports-cal
+DTSTART:20261010T170000Z
+DTEND:20261010T200000Z
+SUMMARY:Bethune-Cookman Wildcats @ Alabama A&M Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nBethune-Cookman Wildcats @ Alabama A&M 
+ Bulldogs\nLouis Crews Stadium\, Huntsville\, AL
+LOCATION:Louis Crews Stadium\, Huntsville\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868301@open-sports-cal
+DTSTART:20261017T190000Z
+DTEND:20261017T220000Z
+SUMMARY:Grambling Tigers @ Alabama A&M Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nGrambling Tigers @ Alabama A&M Bulldogs
+ \nLouis Crews Stadium\, Huntsville\, AL
+LOCATION:Louis Crews Stadium\, Huntsville\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868296@open-sports-cal
+DTSTART:20261031T193000Z
+DTEND:20261031T223000Z
+SUMMARY:Alabama State Hornets @ Alabama A&M Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nAlabama State Hornets @ Alabama A&M Bul
+ ldogs\nLegion Field (AL)\, Birmingham\, AL\nNeutral site
+LOCATION:Legion Field (AL)\, Birmingham\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868302@open-sports-cal
+DTSTART:20261107T200000Z
+DTEND:20261107T230000Z
+SUMMARY:Alabama A&M Bulldogs @ Prairie View A&M Panthers
+DESCRIPTION:NCAA FCS Football 2026\nAlabama A&M Bulldogs @ Prairie View A&M
+  Panthers\nPanther Stadium\, Prairie View\, TX
+LOCATION:Panther Stadium\, Prairie View\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868303@open-sports-cal
+DTSTART:20261114T200000Z
+DTEND:20261114T230000Z
+SUMMARY:Texas Southern Tigers @ Alabama A&M Bulldogs
+DESCRIPTION:NCAA FCS Football 2026\nTexas Southern Tigers @ Alabama A&M Bul
+ ldogs\nLouis Crews Stadium\, Huntsville\, AL
+LOCATION:Louis Crews Stadium\, Huntsville\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868304@open-sports-cal
+DTSTART:20261121T200000Z
+DTEND:20261121T230000Z
+SUMMARY:Alabama A&M Bulldogs @ Mississippi Valley State Delta Devils
+DESCRIPTION:NCAA FCS Football 2026\nAlabama A&M Bulldogs @ Mississippi Vall
+ ey State Delta Devils\nRice-Totten Stadium\, Itta Bena\, MS
+LOCATION:Rice-Totten Stadium\, Itta Bena\, MS
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Texas A&M Aggies
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856668@open-sports-cal
+DTSTART:20260905T230000Z
+DTEND:20260906T020000Z
+SUMMARY:Missouri State Bears @ Texas A&M Aggies
+DESCRIPTION:NCAA FBS Football 2026\nMissouri State Bears @ Texas A&M Aggies
+ \nKyle Field\, College Station\, TX
+LOCATION:Kyle Field\, College Station\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856683@open-sports-cal
+DTSTART:20260912T160000Z
+DTEND:20260912T190000Z
+SUMMARY:Arizona State Sun Devils @ Texas A&M Aggies
+DESCRIPTION:NCAA FBS Football 2026\nArizona State Sun Devils @ Texas A&M Ag
+ gies\nKyle Field\, College Station\, TX
+LOCATION:Kyle Field\, College Station\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856694@open-sports-cal
+DTSTART:20260919T194000Z
+DTEND:20260919T224000Z
+SUMMARY:Kentucky Wildcats @ Texas A&M Aggies
+DESCRIPTION:NCAA FBS Football 2026\nKentucky Wildcats @ Texas A&M Aggies\nK
+ yle Field\, College Station\, TX
+LOCATION:Kyle Field\, College Station\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856702@open-sports-cal
+DTSTART:20260926T233000Z
+DTEND:20260927T023000Z
+SUMMARY:Texas A&M Aggies @ LSU Tigers
+DESCRIPTION:NCAA FBS Football 2026\nTexas A&M Aggies @ LSU Tigers\nTiger St
+ adium (LA)\, Baton Rouge\, LA
+LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856711@open-sports-cal
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+SUMMARY:Arkansas Razorbacks @ Texas A&M Aggies
+DESCRIPTION:NCAA FBS Football 2026\nArkansas Razorbacks @ Texas A&M Aggies\
+ nKyle Field\, College Station\, TX
+LOCATION:Kyle Field\, College Station\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856716@open-sports-cal
+DTSTART:20261010T160000Z
+DTEND:20261010T190000Z
+SUMMARY:Texas A&M Aggies @ Missouri Tigers
+DESCRIPTION:NCAA FBS Football 2026\nTexas A&M Aggies @ Missouri Tigers\nMem
+ orial Stadium\, Columbia\, MO
+LOCATION:Memorial Stadium\, Columbia\, MO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856725@open-sports-cal
+DTSTART:20261017T170000Z
+DTEND:20261017T200000Z
+SUMMARY:The Citadel Bulldogs @ Texas A&M Aggies
+DESCRIPTION:NCAA FBS Football 2026\nThe Citadel Bulldogs @ Texas A&M Aggies
+ \nKyle Field\, College Station\, TX
+LOCATION:Kyle Field\, College Station\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856727@open-sports-cal
+DTSTART:20261024T193000Z
+DTEND:20261024T223000Z
+SUMMARY:Texas A&M Aggies @ Alabama Crimson Tide
+DESCRIPTION:NCAA FBS Football 2026\nTexas A&M Aggies @ Alabama Crimson Tide
+ \nBryant-Denny Stadium\, Tuscaloosa\, AL
+LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856744@open-sports-cal
+DTSTART:20261107T200000Z
+DTEND:20261107T230000Z
+SUMMARY:Texas A&M Aggies @ South Carolina Gamecocks
+DESCRIPTION:NCAA FBS Football 2026\nTexas A&M Aggies @ South Carolina Gamec
+ ocks\nWilliams-Brice Stadium\, Columbia\, SC
+LOCATION:Williams-Brice Stadium\, Columbia\, SC
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856888@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Tennessee Volunteers @ Texas A&M Aggies
+DESCRIPTION:NCAA FBS Football 2026\nTennessee Volunteers @ Texas A&M Aggies
+ \nKyle Field\, College Station\, TX\nStart time TBD
+LOCATION:Kyle Field\, College Station\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856752@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Texas A&M Aggies @ Oklahoma Sooners
+DESCRIPTION:NCAA FBS Football 2026\nTexas A&M Aggies @ Oklahoma Sooners\nMe
+ morial Stadium (Norman\, OK)\, Norman\, OK\nStart time TBD
+LOCATION:Memorial Stadium (Norman\, OK)\, Norman\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856756@open-sports-cal
+DTSTART:20261128T003000Z
+DTEND:20261128T033000Z
+SUMMARY:Texas Longhorns @ Texas A&M Aggies
+DESCRIPTION:NCAA FBS Football 2026\nTexas Longhorns @ Texas A&M Aggies\nKyl
+ e Field\, College Station\, TX
+LOCATION:Kyle Field\, College Station\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

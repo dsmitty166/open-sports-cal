@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Prairie View A&M Panthers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401868235@open-sports-cal
+DTSTART:20260830T010000Z
+DTEND:20260830T040000Z
+SUMMARY:Prairie View A&M Panthers @ Tarleton State Texans
+DESCRIPTION:NCAA FCS Football 2026\nPrairie View A&M Panthers @ Tarleton St
+ ate Texans\nTarleton Memorial Stadium\, Stephenville\, TX
+LOCATION:Tarleton Memorial Stadium\, Stephenville\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868967@open-sports-cal
+DTSTART:20260906T160000Z
+DTEND:20260906T190000Z
+SUMMARY:Texas Southern Tigers @ Prairie View A&M Panthers
+DESCRIPTION:NCAA FCS Football 2026\nTexas Southern Tigers @ Prairie View A&
+ M Panthers\nPanther Stadium\, Prairie View\, TX
+LOCATION:Panther Stadium\, Prairie View\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401856784@open-sports-cal
+DTSTART:20260913T000800Z
+DTEND:20260913T030800Z
+SUMMARY:Prairie View A&M Panthers @ Baylor Bears
+DESCRIPTION:NCAA FCS Football 2026\nPrairie View A&M Panthers @ Baylor Bear
+ s\nMcLane Stadium\, Waco\, TX
+LOCATION:McLane Stadium\, Waco\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868307@open-sports-cal
+DTSTART:20260920T000000Z
+DTEND:20260920T030000Z
+SUMMARY:Stephen F. Austin Lumberjacks @ Prairie View A&M Panthers
+DESCRIPTION:NCAA FCS Football 2026\nStephen F. Austin Lumberjacks @ Prairie
+  View A&M Panthers\nPanther Stadium\, Prairie View\, TX
+LOCATION:Panther Stadium\, Prairie View\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868954@open-sports-cal
+DTSTART:20260926T230000Z
+DTEND:20260927T020000Z
+SUMMARY:Prairie View A&M Panthers @ Grambling Tigers
+DESCRIPTION:NCAA FCS Football 2026\nPrairie View A&M Panthers @ Grambling T
+ igers\nCotton Bowl\, Dallas\, TX\nNeutral site
+LOCATION:Cotton Bowl\, Dallas\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868965@open-sports-cal
+DTSTART:20261003T190000Z
+DTEND:20261003T220000Z
+SUMMARY:Prairie View A&M Panthers @ Mississippi Valley State Delta Devils
+DESCRIPTION:NCAA FCS Football 2026\nPrairie View A&M Panthers @ Mississippi
+  Valley State Delta Devils\nRice-Totten Stadium\, Itta Bena\, MS
+LOCATION:Rice-Totten Stadium\, Itta Bena\, MS
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868968@open-sports-cal
+DTSTART:20261010T200000Z
+DTEND:20261010T230000Z
+SUMMARY:Southern Jaguars @ Prairie View A&M Panthers
+DESCRIPTION:NCAA FCS Football 2026\nSouthern Jaguars @ Prairie View A&M Pan
+ thers\nPanther Stadium\, Prairie View\, TX
+LOCATION:Panther Stadium\, Prairie View\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868361@open-sports-cal
+DTSTART:20261017T190000Z
+DTEND:20261017T220000Z
+SUMMARY:Alcorn State Braves @ Prairie View A&M Panthers
+DESCRIPTION:NCAA FCS Football 2026\nAlcorn State Braves @ Prairie View A&M 
+ Panthers\nPanther Stadium\, Prairie View\, TX
+LOCATION:Panther Stadium\, Prairie View\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868969@open-sports-cal
+DTSTART:20261024T230000Z
+DTEND:20261025T020000Z
+SUMMARY:Prairie View A&M Panthers @ East Texas A&M Lions
+DESCRIPTION:NCAA FCS Football 2026\nPrairie View A&M Panthers @ East Texas 
+ A&M Lions\nMemorial Stadium (Commerce\, TX)\, Commerce\, TX
+LOCATION:Memorial Stadium (Commerce\, TX)\, Commerce\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868302@open-sports-cal
+DTSTART:20261107T200000Z
+DTEND:20261107T230000Z
+SUMMARY:Alabama A&M Bulldogs @ Prairie View A&M Panthers
+DESCRIPTION:NCAA FCS Football 2026\nAlabama A&M Bulldogs @ Prairie View A&M
+  Panthers\nPanther Stadium\, Prairie View\, TX
+LOCATION:Panther Stadium\, Prairie View\, TX
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868940@open-sports-cal
+DTSTART:20261114T200000Z
+DTEND:20261114T230000Z
+SUMMARY:Prairie View A&M Panthers @ Arkansas-Pine Bluff Golden Lions
+DESCRIPTION:NCAA FCS Football 2026\nPrairie View A&M Panthers @ Arkansas-Pi
+ ne Bluff Golden Lions\nSimmons Bank Field\, Pine Bluff\, AR
+LOCATION:Simmons Bank Field\, Pine Bluff\, AR
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401868353@open-sports-cal
+DTSTART:20261121T200000Z
+DTEND:20261121T230000Z
+SUMMARY:Prairie View A&M Panthers @ Alabama State Hornets
+DESCRIPTION:NCAA FCS Football 2026\nPrairie View A&M Panthers @ Alabama Sta
+ te Hornets\nASU Football Stadium\, Montgomery\, AL
+LOCATION:ASU Football Stadium\, Montgomery\, AL
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

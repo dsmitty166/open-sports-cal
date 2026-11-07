@@ -1,0 +1,425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Stetson Hatters
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401918073@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:Stetson Hatters @ Clemson Tigers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Clemson Tigers
+ \nLittlejohn Coliseum\, Clemson\, SC
+LOCATION:Littlejohn Coliseum\, Clemson\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921819@open-sports-cal
+DTSTART:20261104T000000Z
+DTEND:20261104T030000Z
+SUMMARY:Stetson Hatters @ South Carolina Gamecocks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ South Carolina
+  Gamecocks\nColonial Life Arena\, Columbia\, SC
+LOCATION:Colonial Life Arena\, Columbia\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921767@open-sports-cal
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+SUMMARY:Stetson Hatters @ West Virginia Mountaineers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ West Virginia 
+ Mountaineers\nHope Coliseum\, Morgantown\, WV
+LOCATION:Hope Coliseum\, Morgantown\, WV
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922239@open-sports-cal
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Stetson Hatters @ Howard Bison
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Howard Bison\n
+ Burr Gymnasium\, Washington\, DC\nStart time TBD
+LOCATION:Burr Gymnasium\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922240@open-sports-cal
+DTSTART:20261117T000000Z
+DTEND:20261117T030000Z
+SUMMARY:Florida Memorial Lions @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Memorial Lions @ Stetson
+  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401918950@open-sports-cal
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:Stetson Hatters @ Louisville Cardinals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Louisville Car
+ dinals\nKFC Yum! Center\, Louisville\, KY
+LOCATION:KFC Yum! Center\, Louisville\, KY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401918996@open-sports-cal
+DTSTART:20261125T000000Z
+DTEND:20261125T030000Z
+SUMMARY:Stetson Hatters @ South Florida Bulls
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ South Florida 
+ Bulls\nYuengling Center\, Tampa\, FL
+LOCATION:Yuengling Center\, Tampa\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922241@open-sports-cal
+DTSTART:20261128T190000Z
+DTEND:20261128T220000Z
+SUMMARY:New College Mighty Banyans @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew College Mighty Banyans @ Ste
+ tson Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922242@open-sports-cal
+DTSTART:20261203T000000Z
+DTEND:20261203T030000Z
+SUMMARY:Trinity College of Jacksonville Eagles @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTrinity College of Jacksonville 
+ Eagles @ Stetson Hatters\nInsight Credit Union Arena at Edmunds Center\, D
+ eLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921724@open-sports-cal
+DTSTART:20261205T220000Z
+DTEND:20261206T010000Z
+SUMMARY:Stetson Hatters @ Miami Hurricanes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Miami Hurrican
+ es\nWatsco Center\, Coral Gables\, FL
+LOCATION:Watsco Center\, Coral Gables\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921750@open-sports-cal
+DTSTART:20261215T000000Z
+DTEND:20261215T030000Z
+SUMMARY:Stetson Hatters @ Cincinnati Bearcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Cincinnati Bea
+ rcats\nFifth Third Arena\, Cincinnati\, OH
+LOCATION:Fifth Third Arena\, Cincinnati\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922243@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:Stetson Hatters @ Wright State Raiders
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Wright State R
+ aiders\nNutter Center\, Dayton\, OH
+LOCATION:Nutter Center\, Dayton\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917973@open-sports-cal
+DTSTART:20261219T190000Z
+DTEND:20261219T220000Z
+SUMMARY:Abilene Christian Wildcats @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Ste
+ tson Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922244@open-sports-cal
+DTSTART:20261222T000000Z
+DTEND:20261222T030000Z
+SUMMARY:Tarleton State Texans @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTarleton State Texans @ Stetson 
+ Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401917946@open-sports-cal
+DTSTART:20261229T003000Z
+DTEND:20261229T033000Z
+SUMMARY:Stetson Hatters @ Central Arkansas Bears
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Central Arkans
+ as Bears\nFarris Center\, Conway\, AR
+LOCATION:Farris Center\, Conway\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922245@open-sports-cal
+DTSTART:20261231T010000Z
+DTEND:20261231T040000Z
+SUMMARY:Stetson Hatters @ Little Rock Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Little Rock Tr
+ ojans\nJack Stephens Center\, Little Rock\, AR
+LOCATION:Jack Stephens Center\, Little Rock\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922246@open-sports-cal
+DTSTART:20270102T190000Z
+DTEND:20270102T220000Z
+SUMMARY:UT Arlington Mavericks @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Stetson
+  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905406@open-sports-cal
+DTSTART:20270109T190000Z
+DTEND:20270109T220000Z
+SUMMARY:Florida Gulf Coast Eagles @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Stet
+ son Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905408@open-sports-cal
+DTSTART:20270115T010000Z
+DTEND:20270115T040000Z
+SUMMARY:Stetson Hatters @ Lipscomb Bisons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Lipscomb Bison
+ s\nAllen Arena\, Nashville\, TN
+LOCATION:Allen Arena\, Nashville\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905411@open-sports-cal
+DTSTART:20270116T190000Z
+DTEND:20270116T220000Z
+SUMMARY:Stetson Hatters @ Bellarmine Knights
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Bellarmine Kni
+ ghts\nKnights Hall\, Louisville\, KY
+LOCATION:Knights Hall\, Louisville\, KY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905415@open-sports-cal
+DTSTART:20270122T000000Z
+DTEND:20270122T030000Z
+SUMMARY:Queens University Royals @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nQueens University Royals @ Stets
+ on Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905419@open-sports-cal
+DTSTART:20270123T180000Z
+DTEND:20270123T210000Z
+SUMMARY:West Florida Argonauts @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Florida Argonauts @ Stetson
+  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905424@open-sports-cal
+DTSTART:20270129T010000Z
+DTEND:20270129T040000Z
+SUMMARY:Stetson Hatters @ North Florida Ospreys
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ North Florida 
+ Ospreys\nUNF Arena\, Jacksonville\, FL
+LOCATION:UNF Arena\, Jacksonville\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905427@open-sports-cal
+DTSTART:20270130T230000Z
+DTEND:20270131T020000Z
+SUMMARY:Stetson Hatters @ Jacksonville Dolphins
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Jacksonville D
+ olphins\nSwisher Gymnasium\, Jacksonville\, FL
+LOCATION:Swisher Gymnasium\, Jacksonville\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401929616@open-sports-cal
+DTSTART:20270203T000000Z
+DTEND:20270203T030000Z
+SUMMARY:Fort Lauderdale Eagles @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFort Lauderdale Eagles @ Stetson
+  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905434@open-sports-cal
+DTSTART:20270206T180000Z
+DTEND:20270206T210000Z
+SUMMARY:Stetson Hatters @ Florida Gulf Coast Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Florida Gulf C
+ oast Eagles\nAlico Arena\, Fort Myers\, FL
+LOCATION:Alico Arena\, Fort Myers\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905435@open-sports-cal
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:Bellarmine Knights @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBellarmine Knights @ Stetson Hat
+ ters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905440@open-sports-cal
+DTSTART:20270213T190000Z
+DTEND:20270213T220000Z
+SUMMARY:Lipscomb Bisons @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLipscomb Bisons @ Stetson Hatter
+ s\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905444@open-sports-cal
+DTSTART:20270218T230000Z
+DTEND:20270219T020000Z
+SUMMARY:Stetson Hatters @ West Florida Argonauts
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ West Florida A
+ rgonauts\nUWF Field House\, Pensacola\, FL
+LOCATION:UWF Field House\, Pensacola\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905446@open-sports-cal
+DTSTART:20270220T200000Z
+DTEND:20270220T230000Z
+SUMMARY:Stetson Hatters @ Queens University Royals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Queens Univers
+ ity Royals\nCurry Arena\, Charlotte\, NC
+LOCATION:Curry Arena\, Charlotte\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905451@open-sports-cal
+DTSTART:20270226T003000Z
+DTEND:20270226T033000Z
+SUMMARY:Jacksonville Dolphins @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville Dolphins @ Stetson 
+ Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401905456@open-sports-cal
+DTSTART:20270227T203000Z
+DTEND:20270227T233000Z
+SUMMARY:North Florida Ospreys @ Stetson Hatters
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Stetson 
+ Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

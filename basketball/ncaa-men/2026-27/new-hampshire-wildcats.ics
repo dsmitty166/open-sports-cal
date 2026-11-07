@@ -1,0 +1,425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - New Hampshire Wildcats
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401911304@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:New Hampshire Wildcats @ Brown Bears
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Brown B
+ ears\nPizzitola Sports Center\, Providence\, RI
+LOCATION:Pizzitola Sports Center\, Providence\, RI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921681@open-sports-cal
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:New Hampshire Wildcats @ Rider Broncs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Rider B
+ roncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921685@open-sports-cal
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Sacred Heart Pioneers @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSacred Heart Pioneers @ New Hamp
+ shire Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401923311@open-sports-cal
+DTSTART:20261111T230000Z
+DTEND:20261112T020000Z
+SUMMARY:Thomas College Terriers @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nThomas College Terriers @ New Ha
+ mpshire Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909554@open-sports-cal
+DTSTART:20261115T183000Z
+DTEND:20261115T213000Z
+SUMMARY:New Hampshire Wildcats @ Boston College Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Boston 
+ College Eagles\nConte Forum\, Chestnut Hill\, MA
+LOCATION:Conte Forum\, Chestnut Hill\, MA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919848@open-sports-cal
+DTSTART:20261119T010000Z
+DTEND:20261119T040000Z
+SUMMARY:New Hampshire Wildcats @ Stonehill Skyhawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Stonehi
+ ll Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+LOCATION:Merkert Gymnasium\, South Easton\, MA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401923312@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:New Hampshire Wildcats @ New Haven Chargers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ New Hav
+ en Chargers\nJeffery P. Hazell Athletics Center\, West Haven\, CT\nStart t
+ ime TBD
+LOCATION:Jeffery P. Hazell Athletics Center\, West Haven\, CT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920889@open-sports-cal
+DTSTART:20261125T000000Z
+DTEND:20261125T030000Z
+SUMMARY:New Hampshire Wildcats @ Seton Hall Pirates
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Seton H
+ all Pirates\nPrudential Center\, Newark\, NJ
+LOCATION:Prudential Center\, Newark\, NJ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921288@open-sports-cal
+DTSTART:20261129T190000Z
+DTEND:20261129T220000Z
+SUMMARY:New Hampshire Wildcats @ Holy Cross Crusaders
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Holy Cr
+ oss Crusaders\nHart Center Arena\, Worcester\, MA
+LOCATION:Hart Center Arena\, Worcester\, MA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920359@open-sports-cal
+DTSTART:20261202T230000Z
+DTEND:20261203T020000Z
+SUMMARY:Harvard Crimson @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ New Hampshire 
+ Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401923403@open-sports-cal
+DTSTART:20261205T213000Z
+DTEND:20261206T003000Z
+SUMMARY:New Hampshire Wildcats @ Boston University Terriers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Boston 
+ University Terriers\nCase Gym\, Boston\, MA
+LOCATION:Case Gym\, Boston\, MA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909530@open-sports-cal
+DTSTART:20261210T003000Z
+DTEND:20261210T033000Z
+SUMMARY:New Hampshire Wildcats @ Marquette Golden Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Marquet
+ te Golden Eagles\nFiserv Forum\, Milwaukee\, WI
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920241@open-sports-cal
+DTSTART:20261212T180000Z
+DTEND:20261212T210000Z
+SUMMARY:Dartmouth Big Green @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ New Hampsh
+ ire Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401923313@open-sports-cal
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Manhattan Jaspers @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nManhattan Jaspers @ New Hampshir
+ e Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401923314@open-sports-cal
+DTSTART:20261222T180000Z
+DTEND:20261222T210000Z
+SUMMARY:Fairfield Stags @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFairfield Stags @ New Hampshire 
+ Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909782@open-sports-cal
+DTSTART:20261230T010000Z
+DTEND:20261230T040000Z
+SUMMARY:New Hampshire Wildcats @ Iowa State Cyclones
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Iowa St
+ ate Cyclones\nHilton Coliseum\, Ames\, IA
+LOCATION:Hilton Coliseum\, Ames\, IA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913273@open-sports-cal
+DTSTART:20270102T190000Z
+DTEND:20270102T220000Z
+SUMMARY:New Hampshire Wildcats @ UMass Lowell River Hawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ UMass L
+ owell River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913276@open-sports-cal
+DTSTART:20270107T230000Z
+DTEND:20270108T020000Z
+SUMMARY:UMBC Retrievers @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUMBC Retrievers @ New Hampshire 
+ Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913280@open-sports-cal
+DTSTART:20270109T170000Z
+DTEND:20270109T200000Z
+SUMMARY:NJIT Highlanders @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNJIT Highlanders @ New Hampshire
+  Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913284@open-sports-cal
+DTSTART:20270114T230000Z
+DTEND:20270115T020000Z
+SUMMARY:Vermont Catamounts @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ New Hampshi
+ re Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913294@open-sports-cal
+DTSTART:20270121T233000Z
+DTEND:20270122T023000Z
+SUMMARY:New Hampshire Wildcats @ UAlbany Great Danes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ UAlbany
+  Great Danes\nBroadview Center\, Albany\, NY
+LOCATION:Broadview Center\, Albany\, NY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913295@open-sports-cal
+DTSTART:20270123T190000Z
+DTEND:20270123T220000Z
+SUMMARY:New Hampshire Wildcats @ Binghamton Bearcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Bingham
+ ton Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY
+LOCATION:Events Center (Binghamton)\, Binghamton\, NY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913300@open-sports-cal
+DTSTART:20270128T230000Z
+DTEND:20270129T020000Z
+SUMMARY:Bryant Bulldogs @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBryant Bulldogs @ New Hampshire 
+ Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913303@open-sports-cal
+DTSTART:20270130T190000Z
+DTEND:20270130T220000Z
+SUMMARY:New Hampshire Wildcats @ Maine Black Bears
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Maine B
+ lack Bears\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME
+LOCATION:Skip Chappelle Court in Memorial Gymnasium\, Orono\, ME
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913310@open-sports-cal
+DTSTART:20270205T000000Z
+DTEND:20270205T030000Z
+SUMMARY:New Hampshire Wildcats @ Vermont Catamounts
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Vermont
+  Catamounts\nPatrick Gymnasium\, Burlington\, VT
+LOCATION:Patrick Gymnasium\, Burlington\, VT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913313@open-sports-cal
+DTSTART:20270206T190000Z
+DTEND:20270206T220000Z
+SUMMARY:UMass Lowell River Hawks @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ New H
+ ampshire Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913316@open-sports-cal
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:New Hampshire Wildcats @ NJIT Highlanders
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ NJIT Hi
+ ghlanders\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ
+LOCATION:Joel & Diane Bloom Wellness and Events Center\, Newark\, NJ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913322@open-sports-cal
+DTSTART:20270213T180000Z
+DTEND:20270213T210000Z
+SUMMARY:New Hampshire Wildcats @ UMBC Retrievers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ UMBC Re
+ trievers\nChesapeake Employers Insurance Arena\, Baltimore\, MD
+LOCATION:Chesapeake Employers Insurance Arena\, Baltimore\, MD
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913328@open-sports-cal
+DTSTART:20270220T180000Z
+DTEND:20270220T210000Z
+SUMMARY:Maine Black Bears @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMaine Black Bears @ New Hampshir
+ e Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913333@open-sports-cal
+DTSTART:20270225T230000Z
+DTEND:20270226T020000Z
+SUMMARY:UAlbany Great Danes @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUAlbany Great Danes @ New Hampsh
+ ire Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913336@open-sports-cal
+DTSTART:20270227T170000Z
+DTEND:20270227T200000Z
+SUMMARY:Binghamton Bearcats @ New Hampshire Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBinghamton Bearcats @ New Hampsh
+ ire Wildcats\nLundholm Gymnasium\, Durham\, NH
+LOCATION:Lundholm Gymnasium\, Durham\, NH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401913339@open-sports-cal
+DTSTART:20270302T230000Z
+DTEND:20270303T020000Z
+SUMMARY:New Hampshire Wildcats @ Bryant Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Bryant 
+ Bulldogs\nChace Athletic Center\, Smithfield\, RI
+LOCATION:Chace Athletic Center\, Smithfield\, RI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,412 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Ohio Bobcats
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401911003@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:Ohio Bobcats @ South Alabama Jaguars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ South Alabama Jag
+ uars\nMitchell Center\, Mobile\, AL
+LOCATION:Mitchell Center\, Mobile\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921154@open-sports-cal
+DTSTART:20261107T180000Z
+DTEND:20261107T210000Z
+SUMMARY:North Carolina A&T Aggies @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina A&T Aggies @ Ohio
+  Bobcats\nConvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926133@open-sports-cal
+DTSTART:20261114T000000Z
+DTEND:20261114T030000Z
+SUMMARY:Ohio Bobcats @ Purdue Boilermakers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Purdue Boilermake
+ rs\nMackey Arena\, West Lafayette\, IN
+LOCATION:Mackey Arena\, West Lafayette\, IN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920963@open-sports-cal
+DTSTART:20261119T000000Z
+DTEND:20261119T030000Z
+SUMMARY:Morehead State Eagles @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMorehead State Eagles @ Ohio Bob
+ cats\nConvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928791@open-sports-cal
+DTSTART:20261124T160000Z
+DTEND:20261124T190000Z
+SUMMARY:Ohio Bobcats @ New Mexico State Aggies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ New Mexico State 
+ Aggies\nThe Reef\, Jacksonville\, FL\nNeutral site
+LOCATION:The Reef\, Jacksonville\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928845@open-sports-cal
+DTSTART:20261125T160000Z
+DTEND:20261125T190000Z
+SUMMARY:Rice Owls @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Ohio Bobcats\nThe Re
+ ef\, Jacksonville\, FL\nNeutral site
+LOCATION:The Reef\, Jacksonville\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911038@open-sports-cal
+DTSTART:20261203T000000Z
+DTEND:20261203T030000Z
+SUMMARY:Toledo Rockets @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nToledo Rockets @ Ohio Bobcats\nC
+ onvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911043@open-sports-cal
+DTSTART:20261205T200000Z
+DTEND:20261205T230000Z
+SUMMARY:Ohio Bobcats @ Central Michigan Chippewas
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Central Michigan 
+ Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI
+LOCATION:McGuirk Arena\, Mount Pleasant\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928846@open-sports-cal
+DTSTART:20261213T210000Z
+DTEND:20261214T000000Z
+SUMMARY:Kent State Tuscarawas Golden Eagles @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Tuscarawas Golden Eag
+ les @ Ohio Bobcats\nConvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911054@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:Ohio Bobcats @ Ball State Cardinals
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Ball State Cardin
+ als\nWorthen Arena\, Muncie\, IN
+LOCATION:Worthen Arena\, Muncie\, IN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911057@open-sports-cal
+DTSTART:20261219T190000Z
+DTEND:20261219T220000Z
+SUMMARY:Buffalo Bulls @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Ohio Bobcats\nCo
+ nvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928827@open-sports-cal
+DTSTART:20261223T190000Z
+DTEND:20261223T220000Z
+SUMMARY:Ohio Bobcats @ Robert Morris Colonials
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Robert Morris Col
+ onials\nUPMC Events Center\, Moon Township\, PA
+LOCATION:UPMC Events Center\, Moon Township\, PA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928847@open-sports-cal
+DTSTART:20261229T200000Z
+DTEND:20261229T230000Z
+SUMMARY:Bryant & Stratton (OH) Bobcats @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBryant & Stratton (OH) Bobcats @
+  Ohio Bobcats\nConvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911073@open-sports-cal
+DTSTART:20270102T190000Z
+DTEND:20270102T220000Z
+SUMMARY:Ohio Bobcats @ Bowling Green Falcons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Bowling Green Fal
+ cons\nStroh Center\, Bowling Green\, OH
+LOCATION:Stroh Center\, Bowling Green\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911075@open-sports-cal
+DTSTART:20270106T000000Z
+DTEND:20270106T030000Z
+SUMMARY:Akron Zips @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Ohio Bobcats\nConvo
+ cation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911086@open-sports-cal
+DTSTART:20270109T190000Z
+DTEND:20270109T220000Z
+SUMMARY:Massachusetts Minutemen @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Ohio B
+ obcats\nConvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911089@open-sports-cal
+DTSTART:20270113T000000Z
+DTEND:20270113T030000Z
+SUMMARY:Ohio Bobcats @ Kent State Golden Flashes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Kent State Golden
+  Flashes\nM.A.C. Center\, Kent\, OH
+LOCATION:M.A.C. Center\, Kent\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911098@open-sports-cal
+DTSTART:20270116T190000Z
+DTEND:20270116T220000Z
+SUMMARY:Eastern Michigan Eagles @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Michigan Eagles @ Ohio B
+ obcats\nConvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911099@open-sports-cal
+DTSTART:20270120T000000Z
+DTEND:20270120T030000Z
+SUMMARY:Western Michigan Broncos @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Michigan Broncos @ Ohio 
+ Bobcats\nConvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911109@open-sports-cal
+DTSTART:20270123T170000Z
+DTEND:20270123T200000Z
+SUMMARY:Ohio Bobcats @ Massachusetts Minutemen
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Massachusetts Min
+ utemen\nMullins Center\, Amherst\, MA
+LOCATION:Mullins Center\, Amherst\, MA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911115@open-sports-cal
+DTSTART:20270127T000000Z
+DTEND:20270127T030000Z
+SUMMARY:Ohio Bobcats @ Akron Zips
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Akron Zips\nJames
+  A. Rhodes Arena\, Akron\, OH
+LOCATION:James A. Rhodes Arena\, Akron\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911122@open-sports-cal
+DTSTART:20270130T000000Z
+DTEND:20270130T030000Z
+SUMMARY:Miami (OH) RedHawks @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMiami (OH) RedHawks @ Ohio Bobca
+ ts\nConvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911127@open-sports-cal
+DTSTART:20270202T233000Z
+DTEND:20270203T023000Z
+SUMMARY:Ohio Bobcats @ Buffalo Bulls
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Buffalo Bulls\nBr
+ oadview Arena\, Buffalo\, NY
+LOCATION:Broadview Arena\, Buffalo\, NY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911132@open-sports-cal
+DTSTART:20270210T000000Z
+DTEND:20270210T030000Z
+SUMMARY:Ohio Bobcats @ Western Michigan Broncos
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Western Michigan 
+ Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI
+LOCATION:University Arena (MI)\, Kalamazoo\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911140@open-sports-cal
+DTSTART:20270213T190000Z
+DTEND:20270213T220000Z
+SUMMARY:Central Michigan Chippewas @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Michigan Chippewas @ Ohi
+ o Bobcats\nConvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911143@open-sports-cal
+DTSTART:20270216T233000Z
+DTEND:20270217T023000Z
+SUMMARY:Ohio Bobcats @ Eastern Michigan Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Eastern Michigan 
+ Eagles\nGervin GameAbove Center\, Ypsilanti\, MI
+LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911152@open-sports-cal
+DTSTART:20270220T210000Z
+DTEND:20270221T000000Z
+SUMMARY:Ball State Cardinals @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBall State Cardinals @ Ohio Bobc
+ ats\nConvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911153@open-sports-cal
+DTSTART:20270224T000000Z
+DTEND:20270224T030000Z
+SUMMARY:Kent State Golden Flashes @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Ohio
+  Bobcats\nConvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911164@open-sports-cal
+DTSTART:20270227T203000Z
+DTEND:20270227T233000Z
+SUMMARY:Ohio Bobcats @ Miami (OH) RedHawks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Miami (OH) RedHaw
+ ks\nMillett Hall\, Oxford\, OH
+LOCATION:Millett Hall\, Oxford\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911165@open-sports-cal
+DTSTART:20270303T000000Z
+DTEND:20270303T030000Z
+SUMMARY:Bowling Green Falcons @ Ohio Bobcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Ohio Bob
+ cats\nConvocation Center (OH)\, Athens\, OH
+LOCATION:Convocation Center (OH)\, Athens\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911174@open-sports-cal
+DTSTART:20270306T000000Z
+DTEND:20270306T030000Z
+SUMMARY:Ohio Bobcats @ Toledo Rockets
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Toledo Rockets\nS
+ avage Arena\, Toledo\, OH
+LOCATION:Savage Arena\, Toledo\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

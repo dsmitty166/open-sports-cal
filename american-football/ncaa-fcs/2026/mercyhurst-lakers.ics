@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Mercyhurst Lakers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401867894@open-sports-cal
+DTSTART:20260827T220000Z
+DTEND:20260828T010000Z
+SUMMARY:Mercyhurst Lakers @ Youngstown State Penguins
+DESCRIPTION:NCAA FCS Football 2026\nMercyhurst Lakers @ Youngstown State Pe
+ nguins\nStambaugh Stadium\, Youngstown\, OH
+LOCATION:Stambaugh Stadium\, Youngstown\, OH
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401870790@open-sports-cal
+DTSTART:20260906T010000Z
+DTEND:20260906T040000Z
+SUMMARY:Mercyhurst Lakers @ New Mexico State Aggies
+DESCRIPTION:NCAA FCS Football 2026\nMercyhurst Lakers @ New Mexico State Ag
+ gies\nAggie Memorial Stadium\, Las Cruces\, NM
+LOCATION:Aggie Memorial Stadium\, Las Cruces\, NM
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401865252@open-sports-cal
+DTSTART:20260912T200000Z
+DTEND:20260912T230000Z
+SUMMARY:Mercyhurst Lakers @ New Mexico Lobos
+DESCRIPTION:NCAA FCS Football 2026\nMercyhurst Lakers @ New Mexico Lobos\nU
+ niversity Stadium (NM)\, Albuquerque\, NM
+LOCATION:University Stadium (NM)\, Albuquerque\, NM
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401873620@open-sports-cal
+DTSTART:20260919T170000Z
+DTEND:20260919T200000Z
+SUMMARY:Glenville State Pioneers @ Mercyhurst Lakers
+DESCRIPTION:NCAA FCS Football 2026\nGlenville State Pioneers @ Mercyhurst L
+ akers\nSaxon Stadium\, Erie\, PA
+LOCATION:Saxon Stadium\, Erie\, PA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401870745@open-sports-cal
+DTSTART:20260926T230000Z
+DTEND:20260927T020000Z
+SUMMARY:Mercyhurst Lakers @ Western Kentucky Hilltoppers
+DESCRIPTION:NCAA FCS Football 2026\nMercyhurst Lakers @ Western Kentucky Hi
+ lltoppers\nHouchens Industries-L.T. Smith Stadium\, Bowling Green\, KY
+LOCATION:Houchens Industries-L.T. Smith Stadium\, Bowling Green\, KY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867910@open-sports-cal
+DTSTART:20261003T160000Z
+DTEND:20261003T190000Z
+SUMMARY:Mercyhurst Lakers @ Long Island University Sharks
+DESCRIPTION:NCAA FCS Football 2026\nMercyhurst Lakers @ Long Island Univers
+ ity Sharks\nShark Stadium\, Brookville\, NY
+LOCATION:Shark Stadium\, Brookville\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867901@open-sports-cal
+DTSTART:20261017T160000Z
+DTEND:20261017T190000Z
+SUMMARY:Central Connecticut Blue Devils @ Mercyhurst Lakers
+DESCRIPTION:NCAA FCS Football 2026\nCentral Connecticut Blue Devils @ Mercy
+ hurst Lakers\nSaxon Stadium\, Erie\, PA
+LOCATION:Saxon Stadium\, Erie\, PA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867921@open-sports-cal
+DTSTART:20261024T180000Z
+DTEND:20261024T210000Z
+SUMMARY:Mercyhurst Lakers @ Robert Morris Colonials
+DESCRIPTION:NCAA FCS Football 2026\nMercyhurst Lakers @ Robert Morris Colon
+ ials\nJoe Walton Stadium\, Moon Township\, PA
+LOCATION:Joe Walton Stadium\, Moon Township\, PA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867926@open-sports-cal
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:Mercyhurst Lakers @ Stonehill Skyhawks
+DESCRIPTION:NCAA FCS Football 2026\nMercyhurst Lakers @ Stonehill Skyhawks\
+ nW.B. Mason Stadium\, North Easton\, MA
+LOCATION:W.B. Mason Stadium\, North Easton\, MA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867933@open-sports-cal
+DTSTART:20261107T170000Z
+DTEND:20261107T200000Z
+SUMMARY:Wagner Seahawks @ Mercyhurst Lakers
+DESCRIPTION:NCAA FCS Football 2026\nWagner Seahawks @ Mercyhurst Lakers\nSa
+ xon Stadium\, Erie\, PA
+LOCATION:Saxon Stadium\, Erie\, PA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401869155@open-sports-cal
+DTSTART:20261114T170000Z
+DTEND:20261114T200000Z
+SUMMARY:Mercyhurst Lakers @ Duquesne Dukes
+DESCRIPTION:NCAA FCS Football 2026\nMercyhurst Lakers @ Duquesne Dukes\nArt
+ hur J. Rooney Athletic Field\, Pittsburgh\, PA
+LOCATION:Arthur J. Rooney Athletic Field\, Pittsburgh\, PA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401872643@open-sports-cal
+DTSTART:20261121T170000Z
+DTEND:20261121T200000Z
+SUMMARY:New Haven Chargers @ Mercyhurst Lakers
+DESCRIPTION:NCAA FCS Football 2026\nNew Haven Chargers @ Mercyhurst Lakers\
+ nSaxon Stadium\, Erie\, PA
+LOCATION:Saxon Stadium\, Erie\, PA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

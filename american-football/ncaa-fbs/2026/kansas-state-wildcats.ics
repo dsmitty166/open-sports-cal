@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Kansas State Wildcats
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856771@open-sports-cal
+DTSTART:20260905T230000Z
+DTEND:20260906T020000Z
+SUMMARY:Nicholls Colonels @ Kansas State Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nNicholls Colonels @ Kansas State Wildca
+ ts\nBill Snyder Family Stadium\, Manhattan\, KS
+LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856781@open-sports-cal
+DTSTART:20260912T160000Z
+DTEND:20260912T190000Z
+SUMMARY:Washington State Cougars @ Kansas State Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nWashington State Cougars @ Kansas State
+  Wildcats\nBill Snyder Family Stadium\, Manhattan\, KS
+LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856792@open-sports-cal
+DTSTART:20260919T160000Z
+DTEND:20260919T190000Z
+SUMMARY:Tulane Green Wave @ Kansas State Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nTulane Green Wave @ Kansas State Wildca
+ ts\nBill Snyder Family Stadium\, Manhattan\, KS
+LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856814@open-sports-cal
+DTSTART:20260926T230000Z
+DTEND:20260927T020000Z
+SUMMARY:Kansas State Wildcats @ Cincinnati Bearcats
+DESCRIPTION:NCAA FBS Football 2026\nKansas State Wildcats @ Cincinnati Bear
+ cats\nNippert Stadium\, Cincinnati\, OH
+LOCATION:Nippert Stadium\, Cincinnati\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856825@open-sports-cal
+DTSTART:20261010T193000Z
+DTEND:20261010T223000Z
+SUMMARY:Houston Cougars @ Kansas State Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nHouston Cougars @ Kansas State Wildcats
+ \nBill Snyder Family Stadium\, Manhattan\, KS
+LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856830@open-sports-cal
+DTSTART:20261017T160000Z
+DTEND:20261017T190000Z
+SUMMARY:Kansas Jayhawks @ Kansas State Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ Kansas State Wildcats
+ \nBill Snyder Family Stadium\, Manhattan\, KS
+LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856839@open-sports-cal
+DTSTART:20261024T194500Z
+DTEND:20261024T224500Z
+SUMMARY:Kansas State Wildcats @ Arizona State Sun Devils
+DESCRIPTION:NCAA FBS Football 2026\nKansas State Wildcats @ Arizona State S
+ un Devils\nMountain America Stadium\, Tempe\, AZ
+LOCATION:Mountain America Stadium\, Tempe\, AZ
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856846@open-sports-cal
+DTSTART:20261031T180000Z
+DTEND:20261031T210000Z
+SUMMARY:Kansas State Wildcats @ Colorado Buffaloes
+DESCRIPTION:NCAA FBS Football 2026\nKansas State Wildcats @ Colorado Buffal
+ oes\nFolsom Field\, Boulder\, CO
+LOCATION:Folsom Field\, Boulder\, CO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856854@open-sports-cal
+DTSTART:20261107T180000Z
+DTEND:20261107T210000Z
+SUMMARY:Oklahoma State Cowboys @ Kansas State Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nOklahoma State Cowboys @ Kansas State W
+ ildcats\nBill Snyder Family Stadium\, Manhattan\, KS
+LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856862@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Kansas State Wildcats @ TCU Horned Frogs
+DESCRIPTION:NCAA FBS Football 2026\nKansas State Wildcats @ TCU Horned Frog
+ s\nAmon G. Carter Stadium\, Fort Worth\, TX\nStart time TBD
+LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856865@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Arizona Wildcats @ Kansas State Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nArizona Wildcats @ Kansas State Wildcat
+ s\nBill Snyder Family Stadium\, Manhattan\, KS\nStart time TBD
+LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856878@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Kansas State Wildcats @ Iowa State Cyclones
+DESCRIPTION:NCAA FBS Football 2026\nKansas State Wildcats @ Iowa State Cycl
+ ones\nJack Trice Stadium\, Ames\, IA\nStart time TBD
+LOCATION:Jack Trice Stadium\, Ames\, IA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

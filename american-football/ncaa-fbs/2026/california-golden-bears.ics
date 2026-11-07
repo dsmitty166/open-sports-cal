@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - California Golden Bears
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858210@open-sports-cal
+DTSTART:20260906T023000Z
+DTEND:20260906T053000Z
+SUMMARY:UCLA Bruins @ California Golden Bears
+DESCRIPTION:NCAA FBS Football 2026\nUCLA Bruins @ California Golden Bears\n
+ California Memorial Stadium\, Berkeley\, CA
+LOCATION:California Memorial Stadium\, Berkeley\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858216@open-sports-cal
+DTSTART:20260912T193000Z
+DTEND:20260912T223000Z
+SUMMARY:California Golden Bears @ Syracuse Orange
+DESCRIPTION:NCAA FBS Football 2026\nCalifornia Golden Bears @ Syracuse Oran
+ ge\nJMA Wireless Dome\, Syracuse\, NY
+LOCATION:JMA Wireless Dome\, Syracuse\, NY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858233@open-sports-cal
+DTSTART:20260919T193000Z
+DTEND:20260919T223000Z
+SUMMARY:Wagner Seahawks @ California Golden Bears
+DESCRIPTION:NCAA FBS Football 2026\nWagner Seahawks @ California Golden Bea
+ rs\nCalifornia Memorial Stadium\, Berkeley\, CA
+LOCATION:California Memorial Stadium\, Berkeley\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858234@open-sports-cal
+DTSTART:20260926T023000Z
+DTEND:20260926T053000Z
+SUMMARY:Clemson Tigers @ California Golden Bears
+DESCRIPTION:NCAA FBS Football 2026\nClemson Tigers @ California Golden Bear
+ s\nCalifornia Memorial Stadium\, Berkeley\, CA
+LOCATION:California Memorial Stadium\, Berkeley\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858247@open-sports-cal
+DTSTART:20261003T193000Z
+DTEND:20261003T223000Z
+SUMMARY:California Golden Bears @ UNLV Rebels
+DESCRIPTION:NCAA FBS Football 2026\nCalifornia Golden Bears @ UNLV Rebels\n
+ Allegiant Stadium\, Las Vegas\, NV
+LOCATION:Allegiant Stadium\, Las Vegas\, NV
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858259@open-sports-cal
+DTSTART:20261010T193000Z
+DTEND:20261010T223000Z
+SUMMARY:Virginia Tech Hokies @ California Golden Bears
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Tech Hokies @ California Golde
+ n Bears\nCalifornia Memorial Stadium\, Berkeley\, CA
+LOCATION:California Memorial Stadium\, Berkeley\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858269@open-sports-cal
+DTSTART:20261018T023000Z
+DTEND:20261018T053000Z
+SUMMARY:Wake Forest Demon Deacons @ California Golden Bears
+DESCRIPTION:NCAA FBS Football 2026\nWake Forest Demon Deacons @ California 
+ Golden Bears\nCalifornia Memorial Stadium\, Berkeley\, CA
+LOCATION:California Memorial Stadium\, Berkeley\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858270@open-sports-cal
+DTSTART:20261024T160000Z
+DTEND:20261024T190000Z
+SUMMARY:California Golden Bears @ SMU Mustangs
+DESCRIPTION:NCAA FBS Football 2026\nCalifornia Golden Bears @ SMU Mustangs\
+ nGerald J. Ford Stadium\, Dallas\, TX
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858277@open-sports-cal
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:California Golden Bears @ NC State Wolfpack
+DESCRIPTION:NCAA FBS Football 2026\nCalifornia Golden Bears @ NC State Wolf
+ pack\nCarter-Finley Stadium\, Raleigh\, NC
+LOCATION:Carter-Finley Stadium\, Raleigh\, NC
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858295@open-sports-cal
+DTSTART:20261114T203000Z
+DTEND:20261114T233000Z
+SUMMARY:California Golden Bears @ Virginia Cavaliers
+DESCRIPTION:NCAA FBS Football 2026\nCalifornia Golden Bears @ Virginia Cava
+ liers\nScott Stadium\, Charlottesville\, VA
+LOCATION:Scott Stadium\, Charlottesville\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858308@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Stanford Cardinal @ California Golden Bears
+DESCRIPTION:NCAA FBS Football 2026\nStanford Cardinal @ California Golden B
+ ears\nCalifornia Memorial Stadium\, Berkeley\, CA\nStart time TBD
+LOCATION:California Memorial Stadium\, Berkeley\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858315@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Pittsburgh Panthers @ California Golden Bears
+DESCRIPTION:NCAA FBS Football 2026\nPittsburgh Panthers @ California Golden
+  Bears\nCalifornia Memorial Stadium\, Berkeley\, CA\nStart time TBD
+LOCATION:California Memorial Stadium\, Berkeley\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

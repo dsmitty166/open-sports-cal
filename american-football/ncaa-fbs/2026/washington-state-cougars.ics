@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Washington State Cougars
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858437@open-sports-cal
+DTSTART:20260906T200000Z
+DTEND:20260906T230000Z
+SUMMARY:Washington State Cougars @ Washington Huskies
+DESCRIPTION:NCAA FBS Football 2026\nWashington State Cougars @ Washington H
+ uskies\nHusky Stadium\, Seattle\, WA
+LOCATION:Husky Stadium\, Seattle\, WA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856781@open-sports-cal
+DTSTART:20260912T160000Z
+DTEND:20260912T190000Z
+SUMMARY:Washington State Cougars @ Kansas State Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nWashington State Cougars @ Kansas State
+  Wildcats\nBill Snyder Family Stadium\, Manhattan\, KS
+LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860890@open-sports-cal
+DTSTART:20260919T193000Z
+DTEND:20260919T223000Z
+SUMMARY:Duquesne Dukes @ Washington State Cougars
+DESCRIPTION:NCAA FBS Football 2026\nDuquesne Dukes @ Washington State Couga
+ rs\nMartin Stadium\, Pullman\, WA
+LOCATION:Martin Stadium\, Pullman\, WA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856804@open-sports-cal
+DTSTART:20260926T233000Z
+DTEND:20260927T023000Z
+SUMMARY:Arizona Wildcats @ Washington State Cougars
+DESCRIPTION:NCAA FBS Football 2026\nArizona Wildcats @ Washington State Cou
+ gars\nMartin Stadium\, Pullman\, WA
+LOCATION:Martin Stadium\, Pullman\, WA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860921@open-sports-cal
+DTSTART:20261004T013000Z
+DTEND:20261004T043000Z
+SUMMARY:Fresno State Bulldogs @ Washington State Cougars
+DESCRIPTION:NCAA FBS Football 2026\nFresno State Bulldogs @ Washington Stat
+ e Cougars\nMartin Stadium\, Pullman\, WA
+LOCATION:Martin Stadium\, Pullman\, WA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860922@open-sports-cal
+DTSTART:20261010T010000Z
+DTEND:20261010T040000Z
+SUMMARY:Washington State Cougars @ Utah State Aggies
+DESCRIPTION:NCAA FBS Football 2026\nWashington State Cougars @ Utah State A
+ ggies\nMaverik Stadium\, Logan\, UT
+LOCATION:Maverik Stadium\, Logan\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860903@open-sports-cal
+DTSTART:20261017T220000Z
+DTEND:20261018T010000Z
+SUMMARY:Washington State Cougars @ Oregon State Beavers
+DESCRIPTION:NCAA FBS Football 2026\nWashington State Cougars @ Oregon State
+  Beavers\nReser Stadium\, Corvallis\, OR
+LOCATION:Reser Stadium\, Corvallis\, OR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860907@open-sports-cal
+DTSTART:20261024T220000Z
+DTEND:20261025T010000Z
+SUMMARY:Boise State Broncos @ Washington State Cougars
+DESCRIPTION:NCAA FBS Football 2026\nBoise State Broncos @ Washington State 
+ Cougars\nMartin Stadium\, Pullman\, WA
+LOCATION:Martin Stadium\, Pullman\, WA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860909@open-sports-cal
+DTSTART:20261031T230000Z
+DTEND:20261101T020000Z
+SUMMARY:Washington State Cougars @ San Diego State Aztecs
+DESCRIPTION:NCAA FBS Football 2026\nWashington State Cougars @ San Diego St
+ ate Aztecs\nSnapdragon Stadium\, San Diego\, CA
+LOCATION:Snapdragon Stadium\, San Diego\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860917@open-sports-cal
+DTSTART:20261115T033000Z
+DTEND:20261115T063000Z
+SUMMARY:Colorado State Rams @ Washington State Cougars
+DESCRIPTION:NCAA FBS Football 2026\nColorado State Rams @ Washington State 
+ Cougars\nMartin Stadium\, Pullman\, WA
+LOCATION:Martin Stadium\, Pullman\, WA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860920@open-sports-cal
+DTSTART:20261121T230000Z
+DTEND:20261122T020000Z
+SUMMARY:Washington State Cougars @ Texas State Bobcats
+DESCRIPTION:NCAA FBS Football 2026\nWashington State Cougars @ Texas State 
+ Bobcats\nUFCU Stadium\, San Marcos\, TX
+LOCATION:UFCU Stadium\, San Marcos\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860929@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:TBD @ Washington State Cougars
+DESCRIPTION:NCAA FBS Football 2026\nTBD @ Washington State Cougars\nMartin 
+ Stadium\, Pullman\, WA\nStart time TBD
+LOCATION:Martin Stadium\, Pullman\, WA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

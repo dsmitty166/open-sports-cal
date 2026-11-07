@@ -1,0 +1,424 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - DePaul Blue Demons
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401909500@open-sports-cal
+DTSTART:20261103T010000Z
+DTEND:20261103T040000Z
+SUMMARY:West Georgia Wolves @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ DePaul Blu
+ e Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909501@open-sports-cal
+DTSTART:20261106T013000Z
+DTEND:20261106T043000Z
+SUMMARY:South Florida Bulls @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ DePaul Blu
+ e Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909502@open-sports-cal
+DTSTART:20261110T020000Z
+DTEND:20261110T050000Z
+SUMMARY:Alabama A&M Bulldogs @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ DePaul Bl
+ ue Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909503@open-sports-cal
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:DePaul Blue Demons @ Northwestern Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Northwester
+ n Wildcats\nWelsh-Ryan Arena\, Evanston\, IL\nStart time TBD
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909504@open-sports-cal
+DTSTART:20261118T010000Z
+DTEND:20261118T040000Z
+SUMMARY:Maryland Eastern Shore Hawks @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMaryland Eastern Shore Hawks @ D
+ ePaul Blue Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909505@open-sports-cal
+DTSTART:20261124T230000Z
+DTEND:20261125T020000Z
+SUMMARY:DePaul Blue Demons @ Purdue Boilermakers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Purdue Boil
+ ermakers\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site
+LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909506@open-sports-cal
+DTSTART:20261127T000000Z
+DTEND:20261127T030000Z
+SUMMARY:DePaul Blue Demons @ Pittsburgh Panthers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Pittsburgh 
+ Panthers\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site
+LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909507@open-sports-cal
+DTSTART:20261202T010000Z
+DTEND:20261202T040000Z
+SUMMARY:North Alabama Lions @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Alabama Lions @ DePaul Blu
+ e Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909508@open-sports-cal
+DTSTART:20261205T223000Z
+DTEND:20261206T013000Z
+SUMMARY:SMU Mustangs @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSMU Mustangs @ DePaul Blue Demon
+ s\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909509@open-sports-cal
+DTSTART:20261209T020000Z
+DTEND:20261209T050000Z
+SUMMARY:Maine Black Bears @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMaine Black Bears @ DePaul Blue 
+ Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909510@open-sports-cal
+DTSTART:20261212T233000Z
+DTEND:20261213T023000Z
+SUMMARY:DePaul Blue Demons @ Saint Louis Billikens
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Saint Louis
+  Billikens\nChaifetz Arena\, St. Louis\, MO
+LOCATION:Chaifetz Arena\, St. Louis\, MO
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920466@open-sports-cal
+DTSTART:20261220T013000Z
+DTEND:20261220T043000Z
+SUMMARY:DePaul Blue Demons @ St. John's Red Storm
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ St. John's 
+ Red Storm\nMadison Square Garden\, New York\, NY
+LOCATION:Madison Square Garden\, New York\, NY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401909511@open-sports-cal
+DTSTART:20261223T010000Z
+DTEND:20261223T040000Z
+SUMMARY:Canisius Golden Griffins @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCanisius Golden Griffins @ DePau
+ l Blue Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920580@open-sports-cal
+DTSTART:20261230T210000Z
+DTEND:20261231T000000Z
+SUMMARY:Seton Hall Pirates @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ DePaul Blue
+  Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920584@open-sports-cal
+DTSTART:20270102T190000Z
+DTEND:20270102T220000Z
+SUMMARY:Providence Friars @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nProvidence Friars @ DePaul Blue 
+ Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920591@open-sports-cal
+DTSTART:20270106T233000Z
+DTEND:20270107T023000Z
+SUMMARY:DePaul Blue Demons @ UConn Huskies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ UConn Huski
+ es\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920594@open-sports-cal
+DTSTART:20270109T210000Z
+DTEND:20270110T000000Z
+SUMMARY:Butler Bulldogs @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nButler Bulldogs @ DePaul Blue De
+ mons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920603@open-sports-cal
+DTSTART:20270114T020000Z
+DTEND:20270114T050000Z
+SUMMARY:DePaul Blue Demons @ Creighton Bluejays
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Creighton B
+ luejays\nCHI Health Center Omaha\, Omaha\, NE
+LOCATION:CHI Health Center Omaha\, Omaha\, NE
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920606@open-sports-cal
+DTSTART:20270116T183000Z
+DTEND:20270116T213000Z
+SUMMARY:DePaul Blue Demons @ Marquette Golden Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Marquette G
+ olden Eagles\nFiserv Forum\, Milwaukee\, WI
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920610@open-sports-cal
+DTSTART:20270120T003000Z
+DTEND:20270120T033000Z
+SUMMARY:St. John's Red Storm @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. John's Red Storm @ DePaul Bl
+ ue Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920614@open-sports-cal
+DTSTART:20270123T000000Z
+DTEND:20270123T030000Z
+SUMMARY:Villanova Wildcats @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ DePaul Blue
+  Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920628@open-sports-cal
+DTSTART:20270130T190000Z
+DTEND:20270130T220000Z
+SUMMARY:Xavier Musketeers @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ DePaul Blue 
+ Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920633@open-sports-cal
+DTSTART:20270204T013000Z
+DTEND:20270204T043000Z
+SUMMARY:DePaul Blue Demons @ Georgetown Hoyas
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Georgetown 
+ Hoyas\nCapital One Arena\, Washington\, DC
+LOCATION:Capital One Arena\, Washington\, DC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920638@open-sports-cal
+DTSTART:20270207T193000Z
+DTEND:20270207T223000Z
+SUMMARY:DePaul Blue Demons @ Seton Hall Pirates
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Seton Hall 
+ Pirates\nPrudential Center\, Newark\, NJ
+LOCATION:Prudential Center\, Newark\, NJ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920640@open-sports-cal
+DTSTART:20270211T013000Z
+DTEND:20270211T043000Z
+SUMMARY:UConn Huskies @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ DePaul Blue Demo
+ ns\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920645@open-sports-cal
+DTSTART:20270213T170000Z
+DTEND:20270213T200000Z
+SUMMARY:DePaul Blue Demons @ Providence Friars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Providence 
+ Friars\nAmica Mutual Pavilion\, Providence\, RI
+LOCATION:Amica Mutual Pavilion\, Providence\, RI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920649@open-sports-cal
+DTSTART:20270217T020000Z
+DTEND:20270217T050000Z
+SUMMARY:Georgetown Hoyas @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgetown Hoyas @ DePaul Blue D
+ emons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920656@open-sports-cal
+DTSTART:20270220T200000Z
+DTEND:20270220T230000Z
+SUMMARY:DePaul Blue Demons @ Xavier Musketeers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Xavier Musk
+ eteers\nCintas Center\, Cincinnati\, OH
+LOCATION:Cintas Center\, Cincinnati\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920662@open-sports-cal
+DTSTART:20270224T010000Z
+DTEND:20270224T040000Z
+SUMMARY:DePaul Blue Demons @ Butler Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Butler Bull
+ dogs\nHinkle Fieldhouse\, Indianapolis\, IN
+LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920666@open-sports-cal
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:Creighton Bluejays @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCreighton Bluejays @ DePaul Blue
+  Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920672@open-sports-cal
+DTSTART:20270304T000000Z
+DTEND:20270304T030000Z
+SUMMARY:DePaul Blue Demons @ Villanova Wildcats
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Villanova W
+ ildcats\nFinneran Pavilion\, Villanova\, PA
+LOCATION:Finneran Pavilion\, Villanova\, PA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920677@open-sports-cal
+DTSTART:20270307T000000Z
+DTEND:20270307T030000Z
+SUMMARY:Marquette Golden Eagles @ DePaul Blue Demons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ DePaul
+  Blue Demons\nWintrust Arena\, Chicago\, IL
+LOCATION:Wintrust Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

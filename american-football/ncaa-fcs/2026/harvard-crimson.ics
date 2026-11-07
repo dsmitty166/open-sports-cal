@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FCS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FCS Football 2026 - Harvard Crimson
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fcs-401866639@open-sports-cal
+DTSTART:20260919T170000Z
+DTEND:20260919T200000Z
+SUMMARY:Harvard Crimson @ New Hampshire Wildcats
+DESCRIPTION:NCAA FCS Football 2026\nHarvard Crimson @ New Hampshire Wildcat
+ s\nWildcat Stadium (NH)\, Durham\, NH
+LOCATION:Wildcat Stadium (NH)\, Durham\, NH
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867806@open-sports-cal
+DTSTART:20260925T230000Z
+DTEND:20260926T020000Z
+SUMMARY:Harvard Crimson @ Brown Bears
+DESCRIPTION:NCAA FCS Football 2026\nHarvard Crimson @ Brown Bears\nCentrevi
+ lle Bank Stadium\, Pawtucket\, RI
+LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867840@open-sports-cal
+DTSTART:20261003T230000Z
+DTEND:20261004T020000Z
+SUMMARY:Colgate Raiders @ Harvard Crimson
+DESCRIPTION:NCAA FCS Football 2026\nColgate Raiders @ Harvard Crimson\nHarv
+ ard Stadium\, Cambridge\, MA
+LOCATION:Harvard Stadium\, Cambridge\, MA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867829@open-sports-cal
+DTSTART:20261010T170000Z
+DTEND:20261010T200000Z
+SUMMARY:Harvard Crimson @ Cornell Big Red
+DESCRIPTION:NCAA FCS Football 2026\nHarvard Crimson @ Cornell Big Red\nScho
+ ellkopf Field\, Ithaca\, NY
+LOCATION:Schoellkopf Field\, Ithaca\, NY
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867841@open-sports-cal
+DTSTART:20261017T170000Z
+DTEND:20261017T200000Z
+SUMMARY:Holy Cross Crusaders @ Harvard Crimson
+DESCRIPTION:NCAA FCS Football 2026\nHoly Cross Crusaders @ Harvard Crimson\
+ nHarvard Stadium\, Cambridge\, MA
+LOCATION:Harvard Stadium\, Cambridge\, MA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867842@open-sports-cal
+DTSTART:20261024T190000Z
+DTEND:20261024T220000Z
+SUMMARY:Princeton Tigers @ Harvard Crimson
+DESCRIPTION:NCAA FCS Football 2026\nPrinceton Tigers @ Harvard Crimson\nHar
+ vard Stadium\, Cambridge\, MA
+LOCATION:Harvard Stadium\, Cambridge\, MA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867838@open-sports-cal
+DTSTART:20261030T230000Z
+DTEND:20261031T020000Z
+SUMMARY:Harvard Crimson @ Dartmouth Big Green
+DESCRIPTION:NCAA FCS Football 2026\nHarvard Crimson @ Dartmouth Big Green\n
+ Memorial Field (Dartmouth)\, Hanover\, NH
+LOCATION:Memorial Field (Dartmouth)\, Hanover\, NH
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867824@open-sports-cal
+DTSTART:20261107T180000Z
+DTEND:20261107T210000Z
+SUMMARY:Columbia Lions @ Harvard Crimson
+DESCRIPTION:NCAA FCS Football 2026\nColumbia Lions @ Harvard Crimson\nHarva
+ rd Stadium\, Cambridge\, MA
+LOCATION:Harvard Stadium\, Cambridge\, MA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867843@open-sports-cal
+DTSTART:20261114T180000Z
+DTEND:20261114T210000Z
+SUMMARY:Harvard Crimson @ Pennsylvania Quakers
+DESCRIPTION:NCAA FCS Football 2026\nHarvard Crimson @ Pennsylvania Quakers\
+ nFranklin Field\, Philadelphia\, PA
+LOCATION:Franklin Field\, Philadelphia\, PA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fcs-401867844@open-sports-cal
+DTSTART:20261121T203000Z
+DTEND:20261121T233000Z
+SUMMARY:Yale Bulldogs @ Harvard Crimson
+DESCRIPTION:NCAA FCS Football 2026\nYale Bulldogs @ Harvard Crimson\nFenway
+  Park\, Boston\, MA\nNeutral site
+LOCATION:Fenway Park\, Boston\, MA
+CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

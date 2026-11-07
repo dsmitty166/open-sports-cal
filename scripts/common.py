@@ -53,7 +53,7 @@ def make_calendar(events, cal_name, prodid_label):
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:{cal_name}",
         "X-WR-TIMEZONE:UTC",
-        "X-WR-CALDESC:https://vinnyab28.github.io/open-sports-cal/",
+        "X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/",
     ])
     return f"{header}\r\n" + "\r\n".join(events) + "\r\nEND:VCALENDAR\r\n"
 

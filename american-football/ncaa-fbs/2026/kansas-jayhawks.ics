@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Kansas Jayhawks
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856769@open-sports-cal
+DTSTART:20260905T000000Z
+DTEND:20260905T030000Z
+SUMMARY:Long Island University Sharks @ Kansas Jayhawks
+DESCRIPTION:NCAA FBS Football 2026\nLong Island University Sharks @ Kansas 
+ Jayhawks\nDavid Booth Kansas Memorial Stadium\, Lawrence\, KS
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856678@open-sports-cal
+DTSTART:20260912T000000Z
+DTEND:20260912T030000Z
+SUMMARY:Missouri Tigers @ Kansas Jayhawks
+DESCRIPTION:NCAA FBS Football 2026\nMissouri Tigers @ Kansas Jayhawks\nDavi
+ d Booth Kansas Memorial Stadium\, Lawrence\, KS
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856812@open-sports-cal
+DTSTART:20260919T160000Z
+DTEND:20260919T190000Z
+SUMMARY:Arizona State Sun Devils @ Kansas Jayhawks
+DESCRIPTION:NCAA FBS Football 2026\nArizona State Sun Devils @ Kansas Jayha
+ wks\nWembley Stadium\, London\nNeutral site
+LOCATION:Wembley Stadium\, London
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:Europe/London
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856807@open-sports-cal
+DTSTART:20261003T160000Z
+DTEND:20261003T190000Z
+SUMMARY:Middle Tennessee Blue Raiders @ Kansas Jayhawks
+DESCRIPTION:NCAA FBS Football 2026\nMiddle Tennessee Blue Raiders @ Kansas 
+ Jayhawks\nDavid Booth Kansas Memorial Stadium\, Lawrence\, KS
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856827@open-sports-cal
+DTSTART:20261011T000000Z
+DTEND:20261011T030000Z
+SUMMARY:Kansas Jayhawks @ Utah Utes
+DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ Utah Utes\nRice-Eccle
+ s Stadium\, Salt Lake City\, UT
+LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856830@open-sports-cal
+DTSTART:20261017T160000Z
+DTEND:20261017T190000Z
+SUMMARY:Kansas Jayhawks @ Kansas State Wildcats
+DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ Kansas State Wildcats
+ \nBill Snyder Family Stadium\, Manhattan\, KS
+LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856834@open-sports-cal
+DTSTART:20261024T170000Z
+DTEND:20261024T200000Z
+SUMMARY:Baylor Bears @ Kansas Jayhawks
+DESCRIPTION:NCAA FBS Football 2026\nBaylor Bears @ Kansas Jayhawks\nDavid B
+ ooth Kansas Memorial Stadium\, Lawrence\, KS
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856845@open-sports-cal
+DTSTART:20261031T193000Z
+DTEND:20261031T223000Z
+SUMMARY:Kansas Jayhawks @ TCU Horned Frogs
+DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ TCU Horned Frogs\nAmo
+ n G. Carter Stadium\, Fort Worth\, TX
+LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856850@open-sports-cal
+DTSTART:20261107T204500Z
+DTEND:20261107T234500Z
+SUMMARY:UCF Knights @ Kansas Jayhawks
+DESCRIPTION:NCAA FBS Football 2026\nUCF Knights @ Kansas Jayhawks\nDavid Bo
+ oth Kansas Memorial Stadium\, Lawrence\, KS
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856861@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Kansas Jayhawks @ West Virginia Mountaineers
+DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ West Virginia Mountai
+ neers\nMilan Puskar Stadium\, Morgantown\, WV\nStart time TBD
+LOCATION:Milan Puskar Stadium\, Morgantown\, WV
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856866@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:BYU Cougars @ Kansas Jayhawks
+DESCRIPTION:NCAA FBS Football 2026\nBYU Cougars @ Kansas Jayhawks\nDavid Bo
+ oth Kansas Memorial Stadium\, Lawrence\, KS\nStart time TBD
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856877@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Kansas Jayhawks @ Oklahoma State Cowboys
+DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ Oklahoma State Cowboy
+ s\nBoone Pickens Stadium\, Stillwater\, OK\nStart time TBD
+LOCATION:Boone Pickens Stadium\, Stillwater\, OK
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,424 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Georgia Southern Eagles
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401911004@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:Ball State Cardinals @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBall State Cardinals @ Georgia S
+ outhern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\, G
+ A
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920305@open-sports-cal
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+SUMMARY:Georgia Southern Eagles @ Georgia Tech Yellow Jackets
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Georgi
+ a Tech Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+LOCATION:McCamish Pavilion\, Atlanta\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921025@open-sports-cal
+DTSTART:20261111T000000Z
+DTEND:20261111T030000Z
+SUMMARY:Mercer Bears @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMercer Bears @ Georgia Southern 
+ Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921026@open-sports-cal
+DTSTART:20261114T010000Z
+DTEND:20261114T040000Z
+SUMMARY:Georgia Southern Eagles @ UCF Knights
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ UCF Kn
+ ights\nAddition Financial Arena\, Orlando\, FL
+LOCATION:Addition Financial Arena\, Orlando\, FL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921027@open-sports-cal
+DTSTART:20261118T010000Z
+DTEND:20261118T040000Z
+SUMMARY:Middle Tennessee Blue Raiders @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMiddle Tennessee Blue Raiders @ 
+ Georgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, State
+ sboro\, GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921028@open-sports-cal
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+SUMMARY:Georgia Southern Eagles @ Houston Christian Huskies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Housto
+ n Christian Huskies\nSharp Gymnasium\, Houston\, TX
+LOCATION:Sharp Gymnasium\, Houston\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921029@open-sports-cal
+DTSTART:20261124T000000Z
+DTEND:20261124T030000Z
+SUMMARY:Georgia Southern Eagles @ Northern Kentucky Norse
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Northe
+ rn Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+LOCATION:Truist Arena\, Highland Heights\, KY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921030@open-sports-cal
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Bellarmine Knights @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nBellarmine Knights @ Georgia Sou
+ thern Eagles\nTruist Arena\, Highland Heights\, KY\nNeutral site\nStart ti
+ me TBD
+LOCATION:Truist Arena\, Highland Heights\, KY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921031@open-sports-cal
+DTSTART:20261128T190000Z
+DTEND:20261128T220000Z
+SUMMARY:Georgia Southern Eagles @ UNC Asheville Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ UNC As
+ heville Bulldogs\nKimmel Arena\, Asheville\, NC
+LOCATION:Kimmel Arena\, Asheville\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921032@open-sports-cal
+DTSTART:20261203T000000Z
+DTEND:20261203T030000Z
+SUMMARY:Georgia Southern Eagles @ South Carolina Upstate Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ South 
+ Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+LOCATION:G.B. Hodge Center\, Spartanburg\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921033@open-sports-cal
+DTSTART:20261205T180000Z
+DTEND:20261205T210000Z
+SUMMARY:Johnson C. Smith Golden Bulls @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nJohnson C. Smith Golden Bulls @ 
+ Georgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, State
+ sboro\, GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921034@open-sports-cal
+DTSTART:20261209T230000Z
+DTEND:20261210T020000Z
+SUMMARY:Georgia Southern Eagles @ Wofford Terriers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Woffor
+ d Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921035@open-sports-cal
+DTSTART:20261212T220000Z
+DTEND:20261213T010000Z
+SUMMARY:UNC Wilmington Seahawks @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Georgi
+ a Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\
+ , GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911945@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:Coastal Carolina Chanticleers @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCoastal Carolina Chanticleers @ 
+ Georgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, State
+ sboro\, GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911953@open-sports-cal
+DTSTART:20261219T200000Z
+DTEND:20261219T230000Z
+SUMMARY:Georgia Southern Eagles @ Arkansas State Red Wolves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Arkans
+ as State Red Wolves\nFirst National Bank Arena\, Jonesboro\, AR
+LOCATION:First National Bank Arena\, Jonesboro\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911959@open-sports-cal
+DTSTART:20261231T200000Z
+DTEND:20261231T230000Z
+SUMMARY:Louisiana Ragin' Cajuns @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Georgi
+ a Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\
+ , GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911966@open-sports-cal
+DTSTART:20270102T200000Z
+DTEND:20270102T230000Z
+SUMMARY:Southern Miss Golden Eagles @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Miss Golden Eagles @ Ge
+ orgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesb
+ oro\, GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911974@open-sports-cal
+DTSTART:20270108T010000Z
+DTEND:20270108T040000Z
+SUMMARY:Georgia Southern Eagles @ South Alabama Jaguars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ South 
+ Alabama Jaguars\nMitchell Center\, Mobile\, AL
+LOCATION:Mitchell Center\, Mobile\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911980@open-sports-cal
+DTSTART:20270109T213000Z
+DTEND:20270110T003000Z
+SUMMARY:Georgia Southern Eagles @ Troy Trojans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Troy T
+ rojans\nTrojan Arena\, Troy\, AL
+LOCATION:Trojan Arena\, Troy\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911986@open-sports-cal
+DTSTART:20270114T000000Z
+DTEND:20270114T030000Z
+SUMMARY:James Madison Dukes @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nJames Madison Dukes @ Georgia So
+ uthern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911993@open-sports-cal
+DTSTART:20270117T000000Z
+DTEND:20270117T030000Z
+SUMMARY:Georgia Southern Eagles @ Marshall Thundering Herd
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Marsha
+ ll Thundering Herd\nCam Henderson Center\, Huntington\, WV
+LOCATION:Cam Henderson Center\, Huntington\, WV
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911999@open-sports-cal
+DTSTART:20270121T000000Z
+DTEND:20270121T030000Z
+SUMMARY:Georgia Southern Eagles @ Georgia State Panthers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Georgi
+ a State Panthers\nGSU Convocation Center\, Atlanta\, GA
+LOCATION:GSU Convocation Center\, Atlanta\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401912004@open-sports-cal
+DTSTART:20270123T220000Z
+DTEND:20270124T010000Z
+SUMMARY:App State Mountaineers @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nApp State Mountaineers @ Georgia
+  Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\,
+  GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401912012@open-sports-cal
+DTSTART:20270128T000000Z
+DTEND:20270128T030000Z
+SUMMARY:Georgia Southern Eagles @ Coastal Carolina Chanticleers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Coasta
+ l Carolina Chanticleers\nThe HTC Center\, Conway\, SC
+LOCATION:The HTC Center\, Conway\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401912019@open-sports-cal
+DTSTART:20270130T200000Z
+DTEND:20270130T230000Z
+SUMMARY:Old Dominion Monarchs @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOld Dominion Monarchs @ Georgia 
+ Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\, 
+ GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401912025@open-sports-cal
+DTSTART:20270204T000000Z
+DTEND:20270204T030000Z
+SUMMARY:Marshall Thundering Herd @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ Georg
+ ia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro
+ \, GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401912034@open-sports-cal
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:Georgia Southern Eagles @ Old Dominion Monarchs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Old Do
+ minion Monarchs\nChartway Arena\, Norfolk\, VA
+LOCATION:Chartway Arena\, Norfolk\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401912036@open-sports-cal
+DTSTART:20270213T180000Z
+DTEND:20270213T210000Z
+SUMMARY:Georgia Southern Eagles @ App State Mountaineers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ App St
+ ate Mountaineers\nHolmes Convocation Center\, Boone\, NC
+LOCATION:Holmes Convocation Center\, Boone\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401912052@open-sports-cal
+DTSTART:20270220T200000Z
+DTEND:20270220T230000Z
+SUMMARY:Louisiana Tech Bulldogs @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Tech Bulldogs @ Georgi
+ a Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\
+ , GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401912057@open-sports-cal
+DTSTART:20270224T010000Z
+DTEND:20270224T040000Z
+SUMMARY:Georgia Southern Eagles @ James Madison Dukes
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ James 
+ Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA
+LOCATION:Atlantic Union Bank Center\, Harrisonburg\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401912063@open-sports-cal
+DTSTART:20270227T010000Z
+DTEND:20270227T040000Z
+SUMMARY:Georgia State Panthers @ Georgia Southern Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Georgia
+  Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\,
+  GA
+LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

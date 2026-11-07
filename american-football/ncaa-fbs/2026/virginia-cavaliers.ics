@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Virginia Cavaliers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858202@open-sports-cal
+DTSTART:20260829T193000Z
+DTEND:20260829T223000Z
+SUMMARY:NC State Wolfpack @ Virginia Cavaliers
+DESCRIPTION:NCAA FBS Football 2026\nNC State Wolfpack @ Virginia Cavaliers\
+ nScott Stadium\, Charlottesville\, VA
+LOCATION:Scott Stadium\, Charlottesville\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858220@open-sports-cal
+DTSTART:20260911T230000Z
+DTEND:20260912T020000Z
+SUMMARY:Norfolk State Spartans @ Virginia Cavaliers
+DESCRIPTION:NCAA FBS Football 2026\nNorfolk State Spartans @ Virginia Caval
+ iers\nScott Stadium\, Charlottesville\, VA
+LOCATION:Scott Stadium\, Charlottesville\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856802@open-sports-cal
+DTSTART:20260919T233000Z
+DTEND:20260920T023000Z
+SUMMARY:West Virginia Mountaineers @ Virginia Cavaliers
+DESCRIPTION:NCAA FBS Football 2026\nWest Virginia Mountaineers @ Virginia C
+ avaliers\nBank of America Stadium\, Charlotte\, NC\nNeutral site
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858239@open-sports-cal
+DTSTART:20260926T220000Z
+DTEND:20260927T010000Z
+SUMMARY:Delaware Blue Hens @ Virginia Cavaliers
+DESCRIPTION:NCAA FBS Football 2026\nDelaware Blue Hens @ Virginia Cavaliers
+ \nScott Stadium\, Charlottesville\, VA
+LOCATION:Scott Stadium\, Charlottesville\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858253@open-sports-cal
+DTSTART:20261003T193000Z
+DTEND:20261003T223000Z
+SUMMARY:Virginia Cavaliers @ Florida State Seminoles
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Cavaliers @ Florida State Semi
+ noles\nDoak Campbell Stadium\, Tallahassee\, FL
+LOCATION:Doak Campbell Stadium\, Tallahassee\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858258@open-sports-cal
+DTSTART:20261010T233000Z
+DTEND:20261011T023000Z
+SUMMARY:Syracuse Orange @ Virginia Cavaliers
+DESCRIPTION:NCAA FBS Football 2026\nSyracuse Orange @ Virginia Cavaliers\nS
+ cott Stadium\, Charlottesville\, VA
+LOCATION:Scott Stadium\, Charlottesville\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858268@open-sports-cal
+DTSTART:20261017T160000Z
+DTEND:20261017T190000Z
+SUMMARY:Virginia Cavaliers @ SMU Mustangs
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Cavaliers @ SMU Mustangs\nGera
+ ld J. Ford Stadium\, Dallas\, TX
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858271@open-sports-cal
+DTSTART:20261023T230000Z
+DTEND:20261024T020000Z
+SUMMARY:Duke Blue Devils @ Virginia Cavaliers
+DESCRIPTION:NCAA FBS Football 2026\nDuke Blue Devils @ Virginia Cavaliers\n
+ Scott Stadium\, Charlottesville\, VA
+LOCATION:Scott Stadium\, Charlottesville\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858284@open-sports-cal
+DTSTART:20261031T194500Z
+DTEND:20261031T224500Z
+SUMMARY:Virginia Cavaliers @ Wake Forest Demon Deacons
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Cavaliers @ Wake Forest Demon 
+ Deacons\nAllegacy Federal Credit Union Stadium\, Winston-Salem\, NC
+LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858295@open-sports-cal
+DTSTART:20261114T203000Z
+DTEND:20261114T233000Z
+SUMMARY:California Golden Bears @ Virginia Cavaliers
+DESCRIPTION:NCAA FBS Football 2026\nCalifornia Golden Bears @ Virginia Cava
+ liers\nScott Stadium\, Charlottesville\, VA
+LOCATION:Scott Stadium\, Charlottesville\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858305@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:North Carolina Tar Heels @ Virginia Cavaliers
+DESCRIPTION:NCAA FBS Football 2026\nNorth Carolina Tar Heels @ Virginia Cav
+ aliers\nScott Stadium\, Charlottesville\, VA\nStart time TBD
+LOCATION:Scott Stadium\, Charlottesville\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401858317@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Virginia Cavaliers @ Virginia Tech Hokies
+DESCRIPTION:NCAA FBS Football 2026\nVirginia Cavaliers @ Virginia Tech Hoki
+ es\nLane Stadium\, Blacksburg\, VA\nStart time TBD
+LOCATION:Lane Stadium\, Blacksburg\, VA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

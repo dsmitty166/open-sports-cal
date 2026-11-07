@@ -1,0 +1,424 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - UNC Greensboro Spartans
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401926180@open-sports-cal
+DTSTART:20261104T000000Z
+DTEND:20261104T030000Z
+SUMMARY:Milligan Buffaloes @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMilligan Buffaloes @ UNC Greensb
+ oro Spartans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921140@open-sports-cal
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+SUMMARY:UNC Greensboro Spartans @ Elon Phoenix
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Elon P
+ hoenix\nSchar Center\, Elon\, NC
+LOCATION:Schar Center\, Elon\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926181@open-sports-cal
+DTSTART:20261110T000000Z
+DTEND:20261110T030000Z
+SUMMARY:UNC Greensboro Spartans @ UIC Flames
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ UIC Fl
+ ames\nCredit Union 1 Arena\, Chicago\, IL
+LOCATION:Credit Union 1 Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926182@open-sports-cal
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+SUMMARY:Lees McRae Bobcats @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nLees McRae Bobcats @ UNC Greensb
+ oro Spartans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401924720@open-sports-cal
+DTSTART:20261114T160000Z
+DTEND:20261114T190000Z
+SUMMARY:UNC Greensboro Spartans @ Cornell Big Red
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Cornel
+ l Big Red\nNewman Arena\, Ithaca\, NY
+LOCATION:Newman Arena\, Ithaca\, NY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911393@open-sports-cal
+DTSTART:20261119T013000Z
+DTEND:20261119T043000Z
+SUMMARY:UNC Greensboro Spartans @ Gardner-Webb Runnin' Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Gardne
+ r-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+LOCATION:Paul Porter Arena\, Boiling Springs\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401922284@open-sports-cal
+DTSTART:20261121T160000Z
+DTEND:20261121T190000Z
+SUMMARY:South Carolina Upstate Spartans @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Upstate Spartans 
+ @ UNC Greensboro Spartans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926183@open-sports-cal
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:UNC Greensboro Spartans @ Pepperdine Waves
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Pepper
+ dine Waves\nFirestone Fieldhouse\, Malibu\, CA\nStart time TBD
+LOCATION:Firestone Fieldhouse\, Malibu\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926184@open-sports-cal
+DTSTART:20261125T020000Z
+DTEND:20261125T050000Z
+SUMMARY:UNC Greensboro Spartans @ UC Santa Barbara Gauchos
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ UC San
+ ta Barbara Gauchos\nThe Thunderdome\, Santa Barbara\, CA
+LOCATION:The Thunderdome\, Santa Barbara\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911819@open-sports-cal
+DTSTART:20261201T230000Z
+DTEND:20261202T020000Z
+SUMMARY:UNC Greensboro Spartans @ VMI Keydets
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ VMI Ke
+ ydets\nCameron Hall\, Lexington\, VA
+LOCATION:Cameron Hall\, Lexington\, VA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911822@open-sports-cal
+DTSTART:20261205T190000Z
+DTEND:20261205T220000Z
+SUMMARY:Furman Paladins @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nFurman Paladins @ UNC Greensboro
+  Spartans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401918963@open-sports-cal
+DTSTART:20261212T000000Z
+DTEND:20261212T030000Z
+SUMMARY:UNC Greensboro Spartans @ NC State Wolfpack
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ NC Sta
+ te Wolfpack\nReynolds Coliseum\, Raleigh\, NC
+LOCATION:Reynolds Coliseum\, Raleigh\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401920892@open-sports-cal
+DTSTART:20261216T000000Z
+DTEND:20261216T030000Z
+SUMMARY:UNC Greensboro Spartans @ Seton Hall Pirates
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Seton 
+ Hall Pirates\nPrudential Center\, Newark\, NJ
+LOCATION:Prudential Center\, Newark\, NJ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911826@open-sports-cal
+DTSTART:20261219T210000Z
+DTEND:20261220T000000Z
+SUMMARY:UNC Greensboro Spartans @ East Tennessee State Buccaneers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ East T
+ ennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+LOCATION:Freedom Hall (TN)\, Johnson City\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926185@open-sports-cal
+DTSTART:20261221T170000Z
+DTEND:20261221T200000Z
+SUMMARY:Carolina University Bruins @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCarolina University Bruins @ UNC
+  Greensboro Spartans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911834@open-sports-cal
+DTSTART:20261231T000000Z
+DTEND:20261231T030000Z
+SUMMARY:The Citadel Bulldogs @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nThe Citadel Bulldogs @ UNC Green
+ sboro Spartans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911842@open-sports-cal
+DTSTART:20270102T190000Z
+DTEND:20270102T220000Z
+SUMMARY:Wofford Terriers @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ UNC Greensbor
+ o Spartans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911847@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:UNC Greensboro Spartans @ Chattanooga Mocs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Chatta
+ nooga Mocs\nMcKenzie Arena\, Chattanooga\, TN
+LOCATION:McKenzie Arena\, Chattanooga\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911852@open-sports-cal
+DTSTART:20270110T003000Z
+DTEND:20270110T033000Z
+SUMMARY:UNC Greensboro Spartans @ Tennessee Tech Golden Eagles
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Tennes
+ see Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+LOCATION:Hooper Eblen Center\, Cookeville\, TN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911857@open-sports-cal
+DTSTART:20270114T000000Z
+DTEND:20270114T030000Z
+SUMMARY:Western Carolina Catamounts @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ UN
+ C Greensboro Spartans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911860@open-sports-cal
+DTSTART:20270116T190000Z
+DTEND:20270116T220000Z
+SUMMARY:East Tennessee State Buccaneers @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
+ @ UNC Greensboro Spartans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911872@open-sports-cal
+DTSTART:20270122T003000Z
+DTEND:20270122T033000Z
+SUMMARY:UNC Greensboro Spartans @ Samford Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Samfor
+ d Bulldogs\nPete Hanna Center\, Homewood\, AL
+LOCATION:Pete Hanna Center\, Homewood\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911877@open-sports-cal
+DTSTART:20270123T190000Z
+DTEND:20270123T220000Z
+SUMMARY:UNC Greensboro Spartans @ Mercer Bears
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Mercer
+  Bears\nHawkins Arena\, Macon\, GA
+LOCATION:Hawkins Arena\, Macon\, GA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911882@open-sports-cal
+DTSTART:20270129T000000Z
+DTEND:20270129T030000Z
+SUMMARY:Tennessee Tech Golden Eagles @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ U
+ NC Greensboro Spartans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911886@open-sports-cal
+DTSTART:20270130T210000Z
+DTEND:20270131T000000Z
+SUMMARY:Chattanooga Mocs @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nChattanooga Mocs @ UNC Greensbor
+ o Spartans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911889@open-sports-cal
+DTSTART:20270204T000000Z
+DTEND:20270204T030000Z
+SUMMARY:UNC Greensboro Spartans @ The Citadel Bulldogs
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ The Ci
+ tadel Bulldogs\nMcAlister Field House\, Charleston\, SC
+LOCATION:McAlister Field House\, Charleston\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911903@open-sports-cal
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:Samford Bulldogs @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nSamford Bulldogs @ UNC Greensbor
+ o Spartans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911907@open-sports-cal
+DTSTART:20270213T170000Z
+DTEND:20270213T200000Z
+SUMMARY:Mercer Bears @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMercer Bears @ UNC Greensboro Sp
+ artans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911912@open-sports-cal
+DTSTART:20270218T230000Z
+DTEND:20270219T020000Z
+SUMMARY:UNC Greensboro Spartans @ Wofford Terriers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Woffor
+ d Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911917@open-sports-cal
+DTSTART:20270220T203000Z
+DTEND:20270220T233000Z
+SUMMARY:UNC Greensboro Spartans @ Western Carolina Catamounts
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Wester
+ n Carolina Catamounts\nRamsey Center\, Cullowhee\, NC
+LOCATION:Ramsey Center\, Cullowhee\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911922@open-sports-cal
+DTSTART:20270225T000000Z
+DTEND:20270225T030000Z
+SUMMARY:VMI Keydets @ UNC Greensboro Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ UNC Greensboro Spa
+ rtans\nBodford Arena\, Greensboro\, NC
+LOCATION:Bodford Arena\, Greensboro\, NC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401911926@open-sports-cal
+DTSTART:20270227T210000Z
+DTEND:20270228T000000Z
+SUMMARY:UNC Greensboro Spartans @ Furman Paladins
+DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Furman
+  Paladins\nTimmons Arena\, Greenville\, SC
+LOCATION:Timmons Arena\, Greenville\, SC
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

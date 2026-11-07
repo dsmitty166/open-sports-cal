@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Oregon State Beavers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856778@open-sports-cal
+DTSTART:20260905T160000Z
+DTEND:20260905T190000Z
+SUMMARY:Oregon State Beavers @ Houston Cougars
+DESCRIPTION:NCAA FBS Football 2026\nOregon State Beavers @ Houston Cougars\
+ nTDECU Stadium\, Houston\, TX
+LOCATION:TDECU Stadium\, Houston\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856783@open-sports-cal
+DTSTART:20260912T233000Z
+DTEND:20260913T023000Z
+SUMMARY:Texas Tech Red Raiders @ Oregon State Beavers
+DESCRIPTION:NCAA FBS Football 2026\nTexas Tech Red Raiders @ Oregon State B
+ eavers\nReser Stadium\, Corvallis\, OR
+LOCATION:Reser Stadium\, Corvallis\, OR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860886@open-sports-cal
+DTSTART:20260920T030000Z
+DTEND:20260920T060000Z
+SUMMARY:Montana Grizzlies @ Oregon State Beavers
+DESCRIPTION:NCAA FBS Football 2026\nMontana Grizzlies @ Oregon State Beaver
+ s\nReser Stadium\, Corvallis\, OR
+LOCATION:Reser Stadium\, Corvallis\, OR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860895@open-sports-cal
+DTSTART:20260927T010000Z
+DTEND:20260927T040000Z
+SUMMARY:Oregon State Beavers @ UTEP Miners
+DESCRIPTION:NCAA FBS Football 2026\nOregon State Beavers @ UTEP Miners\nSun
+  Bowl\, El Paso\, TX
+LOCATION:Sun Bowl\, El Paso\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860899@open-sports-cal
+DTSTART:20261003T220000Z
+DTEND:20261004T010000Z
+SUMMARY:Oregon State Beavers @ Colorado State Rams
+DESCRIPTION:NCAA FBS Football 2026\nOregon State Beavers @ Colorado State R
+ ams\nCanvas Stadium\, Fort Collins\, CO
+LOCATION:Canvas Stadium\, Fort Collins\, CO
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860902@open-sports-cal
+DTSTART:20261010T220000Z
+DTEND:20261011T010000Z
+SUMMARY:San Diego State Aztecs @ Oregon State Beavers
+DESCRIPTION:NCAA FBS Football 2026\nSan Diego State Aztecs @ Oregon State B
+ eavers\nReser Stadium\, Corvallis\, OR
+LOCATION:Reser Stadium\, Corvallis\, OR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860903@open-sports-cal
+DTSTART:20261017T220000Z
+DTEND:20261018T010000Z
+SUMMARY:Washington State Cougars @ Oregon State Beavers
+DESCRIPTION:NCAA FBS Football 2026\nWashington State Cougars @ Oregon State
+  Beavers\nReser Stadium\, Corvallis\, OR
+LOCATION:Reser Stadium\, Corvallis\, OR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860924@open-sports-cal
+DTSTART:20261101T030000Z
+DTEND:20261101T060000Z
+SUMMARY:Oregon State Beavers @ Fresno State Bulldogs
+DESCRIPTION:NCAA FBS Football 2026\nOregon State Beavers @ Fresno State Bul
+ ldogs\nValley Children's Stadium\, Fresno\, CA
+LOCATION:Valley Children's Stadium\, Fresno\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860912@open-sports-cal
+DTSTART:20261108T033000Z
+DTEND:20261108T063000Z
+SUMMARY:Texas State Bobcats @ Oregon State Beavers
+DESCRIPTION:NCAA FBS Football 2026\nTexas State Bobcats @ Oregon State Beav
+ ers\nReser Stadium\, Corvallis\, OR
+LOCATION:Reser Stadium\, Corvallis\, OR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860914@open-sports-cal
+DTSTART:20261114T230000Z
+DTEND:20261115T020000Z
+SUMMARY:Oregon State Beavers @ Boise State Broncos
+DESCRIPTION:NCAA FBS Football 2026\nOregon State Beavers @ Boise State Bron
+ cos\nAlbertsons Stadium\, Boise\, ID
+LOCATION:Albertsons Stadium\, Boise\, ID
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401860919@open-sports-cal
+DTSTART:20261122T033000Z
+DTEND:20261122T063000Z
+SUMMARY:Utah State Aggies @ Oregon State Beavers
+DESCRIPTION:NCAA FBS Football 2026\nUtah State Aggies @ Oregon State Beaver
+ s\nReser Stadium\, Corvallis\, OR
+LOCATION:Reser Stadium\, Corvallis\, OR
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - UAB Blazers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858424@open-sports-cal
+DTSTART:20260904T010000Z
+DTEND:20260904T040000Z
+SUMMARY:UAB Blazers @ Illinois Fighting Illini
+DESCRIPTION:NCAA FBS Football 2026\nUAB Blazers @ Illinois Fighting Illini\
+ nGies Memorial Stadium\, Champaign\, IL
+LOCATION:Gies Memorial Stadium\, Champaign\, IL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862708@open-sports-cal
+DTSTART:20260912T193000Z
+DTEND:20260912T223000Z
+SUMMARY:UL Monroe Warhawks @ UAB Blazers
+DESCRIPTION:NCAA FBS Football 2026\nUL Monroe Warhawks @ UAB Blazers\nProte
+ ctive Stadium\, Birmingham\, AL
+LOCATION:Protective Stadium\, Birmingham\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862776@open-sports-cal
+DTSTART:20260920T000000Z
+DTEND:20260920T030000Z
+SUMMARY:UAB Blazers @ Louisiana Ragin' Cajuns
+DESCRIPTION:NCAA FBS Football 2026\nUAB Blazers @ Louisiana Ragin' Cajuns\n
+ Our Lady of Lourdes Stadium\, Lafayette\, LA
+LOCATION:Our Lady of Lourdes Stadium\, Lafayette\, LA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862778@open-sports-cal
+DTSTART:20260925T230000Z
+DTEND:20260926T020000Z
+SUMMARY:Navy Midshipmen @ UAB Blazers
+DESCRIPTION:NCAA FBS Football 2026\nNavy Midshipmen @ UAB Blazers\nProtecti
+ ve Stadium\, Birmingham\, AL
+LOCATION:Protective Stadium\, Birmingham\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862793@open-sports-cal
+DTSTART:20261003T193000Z
+DTEND:20261003T223000Z
+SUMMARY:Samford Bulldogs @ UAB Blazers
+DESCRIPTION:NCAA FBS Football 2026\nSamford Bulldogs @ UAB Blazers\nProtect
+ ive Stadium\, Birmingham\, AL
+LOCATION:Protective Stadium\, Birmingham\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862798@open-sports-cal
+DTSTART:20261010T230000Z
+DTEND:20261011T020000Z
+SUMMARY:UAB Blazers @ Memphis Tigers
+DESCRIPTION:NCAA FBS Football 2026\nUAB Blazers @ Memphis Tigers\nSimmons B
+ ank Liberty Stadium\, Memphis\, TN
+LOCATION:Simmons Bank Liberty Stadium\, Memphis\, TN
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862800@open-sports-cal
+DTSTART:20261015T233000Z
+DTEND:20261016T023000Z
+SUMMARY:East Carolina Pirates @ UAB Blazers
+DESCRIPTION:NCAA FBS Football 2026\nEast Carolina Pirates @ UAB Blazers\nPr
+ otective Stadium\, Birmingham\, AL
+LOCATION:Protective Stadium\, Birmingham\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862816@open-sports-cal
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:UAB Blazers @ South Florida Bulls
+DESCRIPTION:NCAA FBS Football 2026\nUAB Blazers @ South Florida Bulls\nRaym
+ ond James Stadium\, Tampa\, FL
+LOCATION:Raymond James Stadium\, Tampa\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862819@open-sports-cal
+DTSTART:20261107T203000Z
+DTEND:20261107T233000Z
+SUMMARY:Charlotte 49ers @ UAB Blazers
+DESCRIPTION:NCAA FBS Football 2026\nCharlotte 49ers @ UAB Blazers\nProtecti
+ ve Stadium\, Birmingham\, AL
+LOCATION:Protective Stadium\, Birmingham\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862829@open-sports-cal
+DTSTART:20261114T180000Z
+DTEND:20261114T210000Z
+SUMMARY:UAB Blazers @ Temple Owls
+DESCRIPTION:NCAA FBS Football 2026\nUAB Blazers @ Temple Owls\nLincoln Fina
+ ncial Field\, Philadelphia\, PA
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862836@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:UTSA Roadrunners @ UAB Blazers
+DESCRIPTION:NCAA FBS Football 2026\nUTSA Roadrunners @ UAB Blazers\nProtect
+ ive Stadium\, Birmingham\, AL\nStart time TBD
+LOCATION:Protective Stadium\, Birmingham\, AL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401862843@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:UAB Blazers @ North Texas Mean Green
+DESCRIPTION:NCAA FBS Football 2026\nUAB Blazers @ North Texas Mean Green\nD
+ ATCU Stadium\, Denton\, TX\nStart time TBD
+LOCATION:DATCU Stadium\, Denton\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

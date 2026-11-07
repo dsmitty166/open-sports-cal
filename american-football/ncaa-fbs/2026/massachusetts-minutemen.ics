@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Massachusetts Minutemen
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401858423@open-sports-cal
+DTSTART:20260903T220000Z
+DTEND:20260904T010000Z
+SUMMARY:Massachusetts Minutemen @ Rutgers Scarlet Knights
+DESCRIPTION:NCAA FBS Football 2026\nMassachusetts Minutemen @ Rutgers Scarl
+ et Knights\nSHI Stadium\, Piscataway\, NJ
+LOCATION:SHI Stadium\, Piscataway\, NJ
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866420@open-sports-cal
+DTSTART:20260912T193000Z
+DTEND:20260912T223000Z
+SUMMARY:Sacred Heart Pioneers @ Massachusetts Minutemen
+DESCRIPTION:NCAA FBS Football 2026\nSacred Heart Pioneers @ Massachusetts M
+ inutemen\nWarren McGuirk Alumni Stadium\, Amherst\, MA
+LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866424@open-sports-cal
+DTSTART:20260919T193000Z
+DTEND:20260919T223000Z
+SUMMARY:Stonehill Skyhawks @ Massachusetts Minutemen
+DESCRIPTION:NCAA FBS Football 2026\nStonehill Skyhawks @ Massachusetts Minu
+ temen\nWarren McGuirk Alumni Stadium\, Amherst\, MA
+LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866429@open-sports-cal
+DTSTART:20260927T010000Z
+DTEND:20260927T040000Z
+SUMMARY:Massachusetts Minutemen @ Sacramento State Hornets
+DESCRIPTION:NCAA FBS Football 2026\nMassachusetts Minutemen @ Sacramento St
+ ate Hornets\nHornet Stadium\, Sacramento\, CA
+LOCATION:Hornet Stadium\, Sacramento\, CA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866433@open-sports-cal
+DTSTART:20261003T193000Z
+DTEND:20261003T223000Z
+SUMMARY:Eastern Michigan Eagles @ Massachusetts Minutemen
+DESCRIPTION:NCAA FBS Football 2026\nEastern Michigan Eagles @ Massachusetts
+  Minutemen\nWarren McGuirk Alumni Stadium\, Amherst\, MA
+LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866440@open-sports-cal
+DTSTART:20261010T180000Z
+DTEND:20261010T210000Z
+SUMMARY:Miami (OH) RedHawks @ Massachusetts Minutemen
+DESCRIPTION:NCAA FBS Football 2026\nMiami (OH) RedHawks @ Massachusetts Min
+ utemen\nWarren McGuirk Alumni Stadium\, Amherst\, MA
+LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866442@open-sports-cal
+DTSTART:20261017T170000Z
+DTEND:20261017T200000Z
+SUMMARY:Massachusetts Minutemen @ Buffalo Bulls
+DESCRIPTION:NCAA FBS Football 2026\nMassachusetts Minutemen @ Buffalo Bulls
+ \nBroadview Stadium\, Buffalo\, NY
+LOCATION:Broadview Stadium\, Buffalo\, NY
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401861965@open-sports-cal
+DTSTART:20261023T230000Z
+DTEND:20261024T020000Z
+SUMMARY:Massachusetts Minutemen @ UConn Huskies
+DESCRIPTION:NCAA FBS Football 2026\nMassachusetts Minutemen @ UConn Huskies
+ \nPratt & Whitney Stadium\, East Hartford\, CT
+LOCATION:Pratt & Whitney Stadium\, East Hartford\, CT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866455@open-sports-cal
+DTSTART:20261105T000000Z
+DTEND:20261105T030000Z
+SUMMARY:Ball State Cardinals @ Massachusetts Minutemen
+DESCRIPTION:NCAA FBS Football 2026\nBall State Cardinals @ Massachusetts Mi
+ nutemen\nWarren McGuirk Alumni Stadium\, Amherst\, MA
+LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866463@open-sports-cal
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Massachusetts Minutemen @ Toledo Rockets
+DESCRIPTION:NCAA FBS Football 2026\nMassachusetts Minutemen @ Toledo Rocket
+ s\nGlass Bowl\, Toledo\, OH\nStart time TBD
+LOCATION:Glass Bowl\, Toledo\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866467@open-sports-cal
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Akron Zips @ Massachusetts Minutemen
+DESCRIPTION:NCAA FBS Football 2026\nAkron Zips @ Massachusetts Minutemen\nW
+ arren McGuirk Alumni Stadium\, Amherst\, MA\nStart time TBD
+LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401866475@open-sports-cal
+DTSTART:20261128T170000Z
+DTEND:20261128T200000Z
+SUMMARY:Massachusetts Minutemen @ Bowling Green Falcons
+DESCRIPTION:NCAA FBS Football 2026\nMassachusetts Minutemen @ Bowling Green
+  Falcons\nDoyt L. Perry Stadium\, Bowling Green\, OH
+LOCATION:Doyt L. Perry Stadium\, Bowling Green\, OH
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR

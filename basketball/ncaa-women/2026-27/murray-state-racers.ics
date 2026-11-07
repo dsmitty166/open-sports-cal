@@ -1,0 +1,456 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Women's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Women's Basketball 2026-27 - Murray State Racers
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-women-401919708@open-sports-cal
+DTSTART:20261103T000000Z
+DTEND:20261103T030000Z
+SUMMARY:Murray State Racers @ Southern Indiana Screaming Eagles
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Southern
+  Indiana Screaming Eagles\nLiberty Arena (IN)\, Evansville\, IN
+LOCATION:Liberty Arena (IN)\, Evansville\, IN
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401913831@open-sports-cal
+DTSTART:20261107T013000Z
+DTEND:20261107T043000Z
+SUMMARY:Rice Owls @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nRice Owls @ Murray State Racer
+ s\nRobins Center\, Richmond\, VA\nNeutral site
+LOCATION:Robins Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401915323@open-sports-cal
+DTSTART:20261108T170000Z
+DTEND:20261108T200000Z
+SUMMARY:Princeton Tigers @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Murray Stat
+ e Racers\nRobins Center\, Richmond\, VA\nNeutral site
+LOCATION:Robins Center\, Richmond\, VA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401919709@open-sports-cal
+DTSTART:20261112T170000Z
+DTEND:20261112T200000Z
+SUMMARY:Morehead State Eagles @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Murray
+  State Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918904@open-sports-cal
+DTSTART:20261117T190000Z
+DTEND:20261117T220000Z
+SUMMARY:Murray State Racers @ Oregon Ducks
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Oregon D
+ ucks\nMatthew Knight Arena\, Eugene\, OR
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401919710@open-sports-cal
+DTSTART:20261122T010000Z
+DTEND:20261122T040000Z
+SUMMARY:Eastern Illinois Panthers @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Mu
+ rray State Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401919711@open-sports-cal
+DTSTART:20261125T170000Z
+DTEND:20261125T200000Z
+SUMMARY:Murray State Racers @ Purdue Boilermakers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Purdue B
+ oilermakers\nMackey Arena\, West Lafayette\, IN
+LOCATION:Mackey Arena\, West Lafayette\, IN
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401919712@open-sports-cal
+DTSTART:20261128T200000Z
+DTEND:20261128T230000Z
+SUMMARY:Northern Kentucky Norse @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Murr
+ ay State Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401919713@open-sports-cal
+DTSTART:20261201T170000Z
+DTEND:20261201T200000Z
+SUMMARY:Murray State Racers @ UAB Blazers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ UAB Blaz
+ ers\nBartow Arena\, Birmingham\, AL
+LOCATION:Bartow Arena\, Birmingham\, AL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401930315@open-sports-cal
+DTSTART:20261205T200000Z
+DTEND:20261205T230000Z
+SUMMARY:SIU Edwardsville Cougars @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSIU Edwardsville Cougars @ Mur
+ ray State Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401918536@open-sports-cal
+DTSTART:20261213T200000Z
+DTEND:20261213T230000Z
+SUMMARY:Austin Peay Governors @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nAustin Peay Governors @ Murray
+  State Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401919715@open-sports-cal
+DTSTART:20261215T233000Z
+DTEND:20261216T023000Z
+SUMMARY:Murray State Racers @ Bellarmine Knights
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Bellarmi
+ ne Knights\nKnights Hall\, Louisville\, KY
+LOCATION:Knights Hall\, Louisville\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922352@open-sports-cal
+DTSTART:20261218T230000Z
+DTEND:20261219T020000Z
+SUMMARY:Murray State Racers @ Indiana State Sycamores
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Indiana 
+ State Sycamores\nHulman Center\, Terre Haute\, IN
+LOCATION:Hulman Center\, Terre Haute\, IN
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922353@open-sports-cal
+DTSTART:20261220T200000Z
+DTEND:20261220T230000Z
+SUMMARY:Bradley Braves @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Murray State 
+ Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922384@open-sports-cal
+DTSTART:20261230T000000Z
+DTEND:20261230T030000Z
+SUMMARY:Murray State Racers @ Southern Illinois Salukis
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Southern
+  Illinois Salukis\nBanterra Center\, Carbondale\, IL
+LOCATION:Banterra Center\, Carbondale\, IL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922387@open-sports-cal
+DTSTART:20270101T000000Z
+DTEND:20270101T030000Z
+SUMMARY:Illinois State Redbirds @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Murr
+ ay State Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922393@open-sports-cal
+DTSTART:20270103T200000Z
+DTEND:20270103T230000Z
+SUMMARY:UIC Flames @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nUIC Flames @ Murray State Race
+ rs\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922400@open-sports-cal
+DTSTART:20270108T000000Z
+DTEND:20270108T030000Z
+SUMMARY:Valparaiso Beacons @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nValparaiso Beacons @ Murray St
+ ate Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922406@open-sports-cal
+DTSTART:20270112T000000Z
+DTEND:20270112T030000Z
+SUMMARY:Evansville Purple Aces @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nEvansville Purple Aces @ Murra
+ y State Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922409@open-sports-cal
+DTSTART:20270115T000000Z
+DTEND:20270115T030000Z
+SUMMARY:Murray State Racers @ Drake Bulldogs
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Drake Bu
+ lldogs\nKnapp Center\, Des Moines\, IA
+LOCATION:Knapp Center\, Des Moines\, IA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922415@open-sports-cal
+DTSTART:20270116T200000Z
+DTEND:20270116T230000Z
+SUMMARY:Murray State Racers @ Northern Iowa Panthers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Northern
+  Iowa Panthers\nMcLeod Center\, Cedar Falls\, IA
+LOCATION:McLeod Center\, Cedar Falls\, IA
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922424@open-sports-cal
+DTSTART:20270123T000000Z
+DTEND:20270123T030000Z
+SUMMARY:Murray State Racers @ Valparaiso Beacons
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Valparai
+ so Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922429@open-sports-cal
+DTSTART:20270124T200000Z
+DTEND:20270124T230000Z
+SUMMARY:Murray State Racers @ Illinois State Redbirds
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Illinois
+  State Redbirds\nCEFCU Arena\, Normal\, IL
+LOCATION:CEFCU Arena\, Normal\, IL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922433@open-sports-cal
+DTSTART:20270129T000000Z
+DTEND:20270129T030000Z
+SUMMARY:Murray State Racers @ Bradley Braves
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Bradley 
+ Braves\nRenaissance Coliseum\, Peoria\, IL
+LOCATION:Renaissance Coliseum\, Peoria\, IL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922436@open-sports-cal
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Belmont Bruins @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Murray State 
+ Racers\nCFSB Center\, Murray\, KY\nStart time TBD
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922445@open-sports-cal
+DTSTART:20270206T000000Z
+DTEND:20270206T030000Z
+SUMMARY:Northern Iowa Panthers @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Iowa Panthers @ Murra
+ y State Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922447@open-sports-cal
+DTSTART:20270207T200000Z
+DTEND:20270207T230000Z
+SUMMARY:Drake Bulldogs @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nDrake Bulldogs @ Murray State 
+ Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922455@open-sports-cal
+DTSTART:20270212T170000Z
+DTEND:20270212T200000Z
+SUMMARY:Murray State Racers @ UIC Flames
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ UIC Flam
+ es\nCredit Union 1 Arena\, Chicago\, IL
+LOCATION:Credit Union 1 Arena\, Chicago\, IL
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922464@open-sports-cal
+DTSTART:20270220T000000Z
+DTEND:20270220T030000Z
+SUMMARY:Southern Illinois Salukis @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Illinois Salukis @ Mu
+ rray State Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922468@open-sports-cal
+DTSTART:20270221T200000Z
+DTEND:20270221T230000Z
+SUMMARY:Murray State Racers @ Belmont Bruins
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Belmont 
+ Bruins\nCurb Event Center Arena\, Nashville\, TN
+LOCATION:Curb Event Center Arena\, Nashville\, TN
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922474@open-sports-cal
+DTSTART:20270226T000000Z
+DTEND:20270226T030000Z
+SUMMARY:Murray State Racers @ Evansville Purple Aces
+DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Evansvil
+ le Purple Aces\nMeeks Family Fieldhouse\, Evansville\, IN
+LOCATION:Meeks Family Fieldhouse\, Evansville\, IN
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-women-401922478@open-sports-cal
+DTSTART:20270227T200000Z
+DTEND:20270227T230000Z
+SUMMARY:Indiana State Sycamores @ Murray State Racers
+DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Murr
+ ay State Racers\nCFSB Center\, Murray\, KY
+LOCATION:CFSB Center\, Murray\, KY
+CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
+ 27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+END:VCALENDAR

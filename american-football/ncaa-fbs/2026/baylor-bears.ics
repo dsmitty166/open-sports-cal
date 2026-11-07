@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA FBS Football 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA FBS Football 2026 - Baylor Bears
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-fbs-401856636@open-sports-cal
+DTSTART:20260905T193000Z
+DTEND:20260905T223000Z
+SUMMARY:Baylor Bears @ Auburn Tigers
+DESCRIPTION:NCAA FBS Football 2026\nBaylor Bears @ Auburn Tigers\nMercedes-
+ Benz Stadium\, Atlanta\, GA\nNeutral site
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856784@open-sports-cal
+DTSTART:20260913T000800Z
+DTEND:20260913T030800Z
+SUMMARY:Prairie View A&M Panthers @ Baylor Bears
+DESCRIPTION:NCAA FBS Football 2026\nPrairie View A&M Panthers @ Baylor Bear
+ s\nMcLane Stadium\, Waco\, TX
+LOCATION:McLane Stadium\, Waco\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401867804@open-sports-cal
+DTSTART:20260919T200000Z
+DTEND:20260919T230000Z
+SUMMARY:Louisiana Tech Bulldogs @ Baylor Bears
+DESCRIPTION:NCAA FBS Football 2026\nLouisiana Tech Bulldogs @ Baylor Bears\
+ nMcLane Stadium\, Waco\, TX
+LOCATION:McLane Stadium\, Waco\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856813@open-sports-cal
+DTSTART:20260926T160000Z
+DTEND:20260926T190000Z
+SUMMARY:Colorado Buffaloes @ Baylor Bears
+DESCRIPTION:NCAA FBS Football 2026\nColorado Buffaloes @ Baylor Bears\nMcLa
+ ne Stadium\, Waco\, TX
+LOCATION:McLane Stadium\, Waco\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856817@open-sports-cal
+DTSTART:20261004T023000Z
+DTEND:20261004T053000Z
+SUMMARY:Baylor Bears @ Arizona State Sun Devils
+DESCRIPTION:NCAA FBS Football 2026\nBaylor Bears @ Arizona State Sun Devils
+ \nMountain America Stadium\, Tempe\, AZ
+LOCATION:Mountain America Stadium\, Tempe\, AZ
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856832@open-sports-cal
+DTSTART:20261017T230000Z
+DTEND:20261018T020000Z
+SUMMARY:TCU Horned Frogs @ Baylor Bears
+DESCRIPTION:NCAA FBS Football 2026\nTCU Horned Frogs @ Baylor Bears\nMcLane
+  Stadium\, Waco\, TX
+LOCATION:McLane Stadium\, Waco\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856834@open-sports-cal
+DTSTART:20261024T170000Z
+DTEND:20261024T200000Z
+SUMMARY:Baylor Bears @ Kansas Jayhawks
+DESCRIPTION:NCAA FBS Football 2026\nBaylor Bears @ Kansas Jayhawks\nDavid B
+ ooth Kansas Memorial Stadium\, Lawrence\, KS
+LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856844@open-sports-cal
+DTSTART:20261030T233000Z
+DTEND:20261031T023000Z
+SUMMARY:Baylor Bears @ UCF Knights
+DESCRIPTION:NCAA FBS Football 2026\nBaylor Bears @ UCF Knights\nAcrisure Bo
+ unce House\, Orlando\, FL
+LOCATION:Acrisure Bounce House\, Orlando\, FL
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856853@open-sports-cal
+DTSTART:20261107T170000Z
+DTEND:20261107T200000Z
+SUMMARY:Iowa State Cyclones @ Baylor Bears
+DESCRIPTION:NCAA FBS Football 2026\nIowa State Cyclones @ Baylor Bears\nMcL
+ ane Stadium\, Waco\, TX
+LOCATION:McLane Stadium\, Waco\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856858@open-sports-cal
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Baylor Bears @ BYU Cougars
+DESCRIPTION:NCAA FBS Football 2026\nBaylor Bears @ BYU Cougars\nLaVell Edwa
+ rds Stadium\, Provo\, UT\nStart time TBD
+LOCATION:LaVell Edwards Stadium\, Provo\, UT
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856871@open-sports-cal
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Texas Tech Red Raiders @ Baylor Bears
+DESCRIPTION:NCAA FBS Football 2026\nTexas Tech Red Raiders @ Baylor Bears\n
+ McLane Stadium\, Waco\, TX\nStart time TBD
+LOCATION:McLane Stadium\, Waco\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-fbs-401856874@open-sports-cal
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Baylor Bears @ Houston Cougars
+DESCRIPTION:NCAA FBS Football 2026\nBaylor Bears @ Houston Cougars\nTDECU S
+ tadium\, Houston\, TX\nStart time TBD
+LOCATION:TDECU Stadium\, Houston\, TX
+CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+END:VEVENT
+END:VCALENDAR

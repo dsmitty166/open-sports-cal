@@ -1,0 +1,426 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//open-sports-cal//NCAA Men's Basketball 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCAA Men's Basketball 2026-27 - Oakland Golden Grizzlies
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:https://dsmitty166.github.io/open-sports-cal/
+BEGIN:VEVENT
+UID:ncaa-men-401925733@open-sports-cal
+DTSTART:20261102T230000Z
+DTEND:20261103T020000Z
+SUMMARY:Oakland Golden Grizzlies @ Michigan Wolverines
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Michi
+ gan Wolverines\nCrisler Center\, Ann Arbor\, MI
+LOCATION:Crisler Center\, Ann Arbor\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921727@open-sports-cal
+DTSTART:20261107T030000Z
+DTEND:20261107T060000Z
+SUMMARY:Oakland Golden Grizzlies @ Stanford Cardinal
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Stanf
+ ord Cardinal\nMaples Pavilion\, Stanford\, CA
+LOCATION:Maples Pavilion\, Stanford\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928352@open-sports-cal
+DTSTART:20261107T210000Z
+DTEND:20261108T000000Z
+SUMMARY:Oakland Golden Grizzlies @ UC Santa Barbara Gauchos
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ UC Sa
+ nta Barbara Gauchos\nThe Thunderdome\, Santa Barbara\, CA
+LOCATION:The Thunderdome\, Santa Barbara\, CA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401906759@open-sports-cal
+DTSTART:20261110T003000Z
+DTEND:20261110T033000Z
+SUMMARY:Oakland Golden Grizzlies @ Alabama Crimson Tide
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Alaba
+ ma Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928814@open-sports-cal
+DTSTART:20261112T020000Z
+DTEND:20261112T050000Z
+SUMMARY:Oakland Golden Grizzlies @ Boise State Broncos
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Boise
+  State Broncos\nExtraMile Arena\, Boise\, ID
+LOCATION:ExtraMile Arena\, Boise\, ID
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Denver
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401927387@open-sports-cal
+DTSTART:20261114T220000Z
+DTEND:20261115T010000Z
+SUMMARY:Northern Iowa Panthers @ Oakland Golden Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Iowa Panthers @ Oakland
+  Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+LOCATION:OU Credit Union O'rena\, Rochester\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401921734@open-sports-cal
+DTSTART:20261119T020000Z
+DTEND:20261119T050000Z
+SUMMARY:Oakland Golden Grizzlies @ Arizona State Sun Devils
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Arizo
+ na State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+LOCATION:Desert Financial Arena\, Tempe\, AZ
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Phoenix
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401926134@open-sports-cal
+DTSTART:20261121T000000Z
+DTEND:20261121T030000Z
+SUMMARY:Oakland Golden Grizzlies @ Purdue Boilermakers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Purdu
+ e Boilermakers\nMackey Arena\, West Lafayette\, IN
+LOCATION:Mackey Arena\, West Lafayette\, IN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925703@open-sports-cal
+DTSTART:20261128T003000Z
+DTEND:20261128T033000Z
+SUMMARY:Oakland Golden Grizzlies @ Houston Cougars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Houst
+ on Cougars\nFertitta Center\, Houston\, TX
+LOCATION:Fertitta Center\, Houston\, TX
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919202@open-sports-cal
+DTSTART:20261203T000000Z
+DTEND:20261203T030000Z
+SUMMARY:Northern Kentucky Norse @ Oakland Golden Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Kentucky Norse @ Oaklan
+ d Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+LOCATION:OU Credit Union O'rena\, Rochester\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919211@open-sports-cal
+DTSTART:20261205T190000Z
+DTEND:20261205T220000Z
+SUMMARY:Oakland Golden Grizzlies @ IU Indianapolis Jaguars
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ IU In
+ dianapolis Jaguars\nJames T. Morris Arena\, Indianapolis\, IN
+LOCATION:James T. Morris Arena\, Indianapolis\, IN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928815@open-sports-cal
+DTSTART:20261209T020000Z
+DTEND:20261209T050000Z
+SUMMARY:Oakland Golden Grizzlies @ Arkansas Razorbacks
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Arkan
+ sas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+LOCATION:Bud Walton Arena\, Fayetteville\, AR
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401928816@open-sports-cal
+DTSTART:20261217T000000Z
+DTEND:20261217T030000Z
+SUMMARY:Oakland Golden Grizzlies @ Toledo Rockets
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Toled
+ o Rockets\nSavage Arena\, Toledo\, OH
+LOCATION:Savage Arena\, Toledo\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401925759@open-sports-cal
+DTSTART:20261222T230000Z
+DTEND:20261223T020000Z
+SUMMARY:Oakland Golden Grizzlies @ Michigan State Spartans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Michi
+ gan State Spartans\nBreslin Center\, East Lansing\, MI
+LOCATION:Breslin Center\, East Lansing\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919214@open-sports-cal
+DTSTART:20261231T000000Z
+DTEND:20261231T030000Z
+SUMMARY:Green Bay Phoenix @ Oakland Golden Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nGreen Bay Phoenix @ Oakland Gold
+ en Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+LOCATION:OU Credit Union O'rena\, Rochester\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919221@open-sports-cal
+DTSTART:20270103T200000Z
+DTEND:20270103T230000Z
+SUMMARY:Milwaukee Panthers @ Oakland Golden Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nMilwaukee Panthers @ Oakland Gol
+ den Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+LOCATION:OU Credit Union O'rena\, Rochester\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919228@open-sports-cal
+DTSTART:20270106T233000Z
+DTEND:20270107T023000Z
+SUMMARY:Oakland Golden Grizzlies @ Youngstown State Penguins
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Young
+ stown State Penguins\nZidian Family Arena at Beeghly Center\, Youngstown\,
+  OH
+LOCATION:Zidian Family Arena at Beeghly Center\, Youngstown\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919236@open-sports-cal
+DTSTART:20270109T190000Z
+DTEND:20270109T220000Z
+SUMMARY:Oakland Golden Grizzlies @ Robert Morris Colonials
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Rober
+ t Morris Colonials\nUPMC Events Center\, Moon Township\, PA
+LOCATION:UPMC Events Center\, Moon Township\, PA
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919241@open-sports-cal
+DTSTART:20270115T000000Z
+DTEND:20270115T030000Z
+SUMMARY:Oakland Golden Grizzlies @ Purdue Fort Wayne Mastodons
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Purdu
+ e Fort Wayne Mastodons\nMemorial Coliseum (IN)\, Fort Wayne\, IN
+LOCATION:Memorial Coliseum (IN)\, Fort Wayne\, IN
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919245@open-sports-cal
+DTSTART:20270117T200000Z
+DTEND:20270117T230000Z
+SUMMARY:Detroit Mercy Titans @ Oakland Golden Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nDetroit Mercy Titans @ Oakland G
+ olden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+LOCATION:OU Credit Union O'rena\, Rochester\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919253@open-sports-cal
+DTSTART:20270121T010000Z
+DTEND:20270121T040000Z
+SUMMARY:Oakland Golden Grizzlies @ Milwaukee Panthers
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Milwa
+ ukee Panthers\nUW-Milwaukee Panther Arena\, Milwaukee\, WI
+LOCATION:UW-Milwaukee Panther Arena\, Milwaukee\, WI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919261@open-sports-cal
+DTSTART:20270123T200000Z
+DTEND:20270123T230000Z
+SUMMARY:Cleveland State Vikings @ Oakland Golden Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nCleveland State Vikings @ Oaklan
+ d Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+LOCATION:OU Credit Union O'rena\, Rochester\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919263@open-sports-cal
+DTSTART:20270128T000000Z
+DTEND:20270128T030000Z
+SUMMARY:Oakland Golden Grizzlies @ Northern Illinois Huskies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ North
+ ern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+LOCATION:NIU Convocation Center\, Dekalb\, IL
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/Chicago
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919270@open-sports-cal
+DTSTART:20270130T200000Z
+DTEND:20270130T230000Z
+SUMMARY:Youngstown State Penguins @ Oakland Golden Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nYoungstown State Penguins @ Oakl
+ and Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+LOCATION:OU Credit Union O'rena\, Rochester\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919276@open-sports-cal
+DTSTART:20270205T000000Z
+DTEND:20270205T030000Z
+SUMMARY:Wright State Raiders @ Oakland Golden Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nWright State Raiders @ Oakland G
+ olden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+LOCATION:OU Credit Union O'rena\, Rochester\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919284@open-sports-cal
+DTSTART:20270207T190000Z
+DTEND:20270207T220000Z
+SUMMARY:Oakland Golden Grizzlies @ Cleveland State Vikings
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Cleve
+ land State Vikings\nWolstein Center\, Cleveland\, OH
+LOCATION:Wolstein Center\, Cleveland\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919290@open-sports-cal
+DTSTART:20270212T000000Z
+DTEND:20270212T030000Z
+SUMMARY:IU Indianapolis Jaguars @ Oakland Golden Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nIU Indianapolis Jaguars @ Oaklan
+ d Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+LOCATION:OU Credit Union O'rena\, Rochester\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919297@open-sports-cal
+DTSTART:20270213T210000Z
+DTEND:20270214T000000Z
+SUMMARY:Robert Morris Colonials @ Oakland Golden Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Oaklan
+ d Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+LOCATION:OU Credit Union O'rena\, Rochester\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919298@open-sports-cal
+DTSTART:20270218T000000Z
+DTEND:20270218T030000Z
+SUMMARY:Purdue Fort Wayne Mastodons @ Oakland Golden Grizzlies
+DESCRIPTION:NCAA Men's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ Oa
+ kland Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+LOCATION:OU Credit Union O'rena\, Rochester\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919306@open-sports-cal
+DTSTART:20270221T180000Z
+DTEND:20270221T210000Z
+SUMMARY:Oakland Golden Grizzlies @ Detroit Mercy Titans
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Detro
+ it Mercy Titans\nCalihan Hall\, Detroit\, MI
+LOCATION:Calihan Hall\, Detroit\, MI
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919315@open-sports-cal
+DTSTART:20270225T000000Z
+DTEND:20270225T030000Z
+SUMMARY:Oakland Golden Grizzlies @ Northern Kentucky Norse
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ North
+ ern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+LOCATION:Truist Arena\, Highland Heights\, KY
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+BEGIN:VEVENT
+UID:ncaa-men-401919321@open-sports-cal
+DTSTART:20270228T000000Z
+DTEND:20270228T030000Z
+SUMMARY:Oakland Golden Grizzlies @ Wright State Raiders
+DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Wrigh
+ t State Raiders\nNutter Center\, Dayton\, OH
+LOCATION:Nutter Center\, Dayton\, OH
+CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
+STATUS:CONFIRMED
+DTSTAMP:20261107T032649Z
+X-TIMEZONE:America/New_York
+END:VEVENT
+END:VCALENDAR
