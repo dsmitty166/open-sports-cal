@@ -2,6 +2,24 @@ const {test} = require('node:test');
 const assert = require('node:assert/strict');
 const cal = require('../docs/calendar-core.js');
 
+test('next up skips started games and searches beyond the displayed month', () => {
+ const past={start:new Date('2026-11-07T17:00Z')};
+ const next={start:new Date('2026-12-01T18:00Z')};
+ const later={start:new Date('2026-12-02T18:00Z')};
+ assert.equal(cal.nextEvent([later,past,next],new Date('2026-11-07T18:00Z'),'America/Chicago'),next);
+ assert.equal(cal.nextEvent([past],new Date('2026-11-07T18:00Z'),'America/Chicago'),null);
+});
+
+test('next up retains TBD events for the whole local day and multi-day events until their end', () => {
+ const tbd={start:new Date('2026-11-07'),day:'2026-11-07',allDay:true};
+ const now=new Date('2026-11-08T04:00Z');
+ assert.equal(cal.nextEvent([tbd],now,'America/Chicago'),tbd);
+ assert.equal(cal.nextEvent([tbd],now,'Asia/Tokyo'),null);
+ const tournament={...tbd,endDay:'2026-11-10'};
+ assert.equal(cal.nextEvent([tournament],new Date('2026-11-09T18:00Z'),'America/Chicago'),tournament);
+ assert.equal(cal.nextEvent([],now,'America/Chicago'),null);
+});
+
 test('published feeds use the explicit branch ref and manifest version',()=>{
  assert.equal(cal.feedUrl('https://raw.githubusercontent.com/dsmitty166/open-sports-cal/main/','basketball/nba/2026-27/a.ics','2026-11-07T01:00:00Z'), 'https://raw.githubusercontent.com/dsmitty166/open-sports-cal/refs/heads/main/basketball/nba/2026-27/a.ics?v=2026-11-07T01%3A00%3A00Z');
  assert.equal(cal.feedUrl('http://localhost:8767/','a.ics','today'),'http://localhost:8767/a.ics?v=today');

@@ -60,3 +60,12 @@
 #picker{box-sizing:border-box}
 
 #calendar-app .broadcast{font-size:12px;margin-top:5px;overflow-wrap:anywhere;color:var(--ink)}
+
+#calendar-app .next-up{margin-top:18px;padding:16px 18px;background:var(--panel);border:1px solid var(--line);border-radius:12px}
+#calendar-app .next-up h2{margin:0;font-size:11px;letter-spacing:1.4px;text-transform:uppercase;color:var(--sub);font-weight:600}
+#calendar-app .next-up .game{border:0;padding-bottom:0}
+#calendar-app .next-up .title{font-size:18px;overflow-wrap:anywhere}
+#calendar-app .next-up-date{margin-top:10px;font-size:13px;font-weight:600}
+#calendar-app #next-up-content:has(> .game){color:var(--ink)}
+#calendar-app #next-up-content{margin-top:8px;color:var(--sub)}
+#calendar-app #jump-next{margin-top:14px}

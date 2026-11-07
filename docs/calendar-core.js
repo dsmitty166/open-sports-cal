@@ -76,7 +76,16 @@
     const url = base.replace(/^(https:\/\/raw\.githubusercontent\.com\/[^/]+\/[^/]+\/)main\/$/, '$1refs/heads/main/') + path;
     return url + '?v=' + encodeURIComponent(version || '');
   }
-  const api = {parseICS, dateKey, occursOn, mergeEvents, buildCatalog, feedUrl};
+  function nextEvent(events, now, zone) {
+    const today = dateKey({start:now},zone);
+    return events.filter(e => e.allDay
+      ? (e.endDay || new Date(+e.start+86400000).toISOString().slice(0,10)) > today
+      : +e.start >= +now).sort((a,b) => {
+        const aDay=dateKey(a,zone), bDay=dateKey(b,zone);
+        return aDay.localeCompare(bDay) || Number(b.allDay || false)-Number(a.allDay || false) || +a.start-+b.start;
+      })[0] || null;
+  }
+  const api = {parseICS, dateKey, occursOn, mergeEvents, buildCatalog, feedUrl, nextEvent};
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   else root.SportsCalendar = api;
 })(typeof globalThis !== 'undefined' ? globalThis : this);
