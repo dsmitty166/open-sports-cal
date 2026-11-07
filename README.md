@@ -11,6 +11,12 @@ If you find this useful, give it a ⭐ — it helps others find it!
 
 ---
 
+## Your Combined Online Calendar
+
+Open [My calendar](https://dsmitty166.github.io/open-sports-cal/calendar.html) to select teams across leagues, view a month or agenda in your local timezone, and copy a permanent shareable link. Selections are also saved on your device. Links follow each team into its latest published season; source schedules are checked daily. Open or refresh the page for current data.
+
+This web view is separate from an Apple/Google subscription and does not generate a combined ICS subscription. Individual calendar subscriptions below remain available.
+
 ## Available Calendars
 
 ### Football / Soccer

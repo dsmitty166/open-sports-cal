@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Your teams, one online calendar. Combine sports schedules in your timezone and share a permanent link.">
+  <title>My Sports Calendar · open-sports-cal</title>
+  <link rel="stylesheet" href="calendar.css">
+  <script src="data.js" defer></script>
+  <script src="calendar-core.js" defer></script>
+  <script src="calendar.js" defer></script>
+</head>
+<body>
+<main id="calendar-app">
+  <nav class="nav" aria-label="Site"><a class="mark" href="./" aria-label="Browse calendars">o</a><a class="brand" href="./">open sports cal</a><a class="preview" href="./">Browse all calendars ↗</a></nav>
+  <div class="content">
+    <header class="head"><div><h1>Your teams. One calendar.</h1><p>A little less searching. A lot more game day.</p></div><button class="share" id="share">Share calendar ↗</button></header>
+    <section class="linkbox" id="linkbox" aria-label="Share this calendar" hidden>
+      <strong>Your personal calendar link</strong><input class="sharelink" id="sharelink" aria-label="Calendar link" readonly>
+      <button id="copylink">Copy link</button><p><small>Bookmark or share this web calendar. It follows the latest season and schedule updates. This is not an Apple or Google Calendar subscription.</small></p>
+    </section>
+    <div class="label">My calendars · <span id="count">Loading</span></div>
+    <div class="selector" id="selections"></div>
+    <button id="add">+ Add calendars</button>
+    <p id="notice" class="notice" role="status" aria-live="polite"></p>
+    <div class="tools">
+      <div class="monthnav"><button id="previous" aria-label="Previous month">‹</button><strong id="monthtitle"></strong><button id="next" aria-label="Next month">›</button><button id="today">Today</button></div>
+      <div class="switch" aria-label="Calendar view"><button id="month" aria-pressed="true">Month</button><button id="agenda" aria-pressed="false">Agenda</button></div>
+    </div>
+    <section id="monthview" aria-label="Monthly calendar"><div class="weekdays"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div><div class="grid" id="grid"></div></section>
+    <section class="detail" aria-label="Game details"><div class="detailhead"><strong id="daytitle"></strong><span id="gamecount"></span></div><div id="games" aria-live="polite"></div></section>
+    <footer class="bottom"><span class="live" id="updated"></span><span id="timezone"></span></footer>
+  </div>
+</main>
+<dialog id="picker" aria-labelledby="pickertitle">
+  <div class="pickerhead"><h2 id="pickertitle">Choose your calendars</h2><button id="done">Done</button></div>
+  <input id="teamsearch" type="search" placeholder="Search teams, leagues, or sports" aria-label="Search calendars" autocomplete="off">
+  <div id="options"></div><p class="pickerfoot" id="matches"></p>
+</dialog>
+<noscript>This online calendar requires JavaScript. <a href="./">Browse and download calendar files</a>.</noscript>
+</body>
+</html>

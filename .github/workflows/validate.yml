@@ -6,11 +6,24 @@ on:
       - "**/*.ics"
       - "**/README.md"
       - "validate.py"
+      - "docs/calendar*.js"
+      - "tests/calendar.test.cjs"
+      - ".github/workflows/validate.yml"
   push:
     branches:
       - main
 
 jobs:
+  check-online-calendar:
+    name: "Check: Online calendar behavior"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: node --test tests/calendar.test.cjs
+
   check-structure:
     name: "Check: VCALENDAR structure & PRODID"
     runs-on: ubuntu-latest
