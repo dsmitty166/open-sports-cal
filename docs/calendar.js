@@ -30,6 +30,7 @@
   function itemLabel(item) { return `${item.name} · ${item.league}`; }
   function drawSelections() {
     $('count').textContent = `${selected.length} selected`;
+    if (!selected.length) $('calendar-builder').open = true;
     $('selections').innerHTML = selected.map(id => `<label style="--event-color:${color(id)}"><input type="checkbox" checked data-remove="${esc(id)}" aria-label="Remove ${esc(itemLabel(byId.get(id)))}"><span class="key"></span>${esc(itemLabel(byId.get(id)))}</label>`).join('');
   }
   function drawPicker() {
@@ -108,7 +109,11 @@
   }
   $('selections').addEventListener('change',e=>{if(e.target.dataset.remove) changeSelection(e.target.dataset.remove,false);});
   $('add').onclick=()=>{drawPicker();$('picker').showModal();$('teamsearch').focus();};
-  $('done').onclick=()=>{$('picker').close();};
+  $('done').onclick=()=>{
+    $('picker').close();
+    $('calendar-builder').open = !selected.length;
+    if(selected.length) $('calendar-builder').querySelector('summary').focus();
+  };
   $('teamsearch').oninput=drawPicker;
   $('options').addEventListener('change',e=>{if(e.target.matches('input'))changeSelection(e.target.value,e.target.checked);});
   for (const name of ['month','agenda']) $(name).onclick=()=>{view=name;persist();drawCalendar();};

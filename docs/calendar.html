@@ -19,9 +19,13 @@
       <strong>Your personal calendar link</strong><input class="sharelink" id="sharelink" aria-label="Calendar link" readonly>
       <button id="copylink">Copy link</button><p><small>Bookmark or share this web calendar. It follows the latest season and schedule updates. This is not an Apple or Google Calendar subscription.</small></p>
     </section>
-    <div class="label">My calendars · <span id="count">Loading</span></div>
-    <div class="selector" id="selections"></div>
-    <button id="add">+ Add calendars</button>
+    <details id="calendar-builder" class="builder">
+      <summary><span class="label">My calendars · <span id="count">Loading</span></span><span class="builder-edit">Edit teams <span class="builder-chevron" aria-hidden="true">⌄</span></span></summary>
+      <div class="builder-body">
+        <div class="selector" id="selections"></div>
+        <button id="add">+ Add calendars</button>
+      </div>
+    </details>
     <p id="notice" class="notice" role="status" aria-live="polite"></p>
     <div class="tools">
       <div class="monthnav"><button id="previous" aria-label="Previous month">‹</button><strong id="monthtitle"></strong><button id="next" aria-label="Next month">›</button><button id="today">Today</button></div>
