@@ -85,7 +85,14 @@
         return aDay.localeCompare(bDay) || Number(b.allDay || false)-Number(a.allDay || false) || +a.start-+b.start;
       })[0] || null;
   }
-  const api = {parseICS, dateKey, occursOn, mergeEvents, buildCatalog, feedUrl, nextEvent};
+  function filterCalendarIds(selected, catalog, league, hiddenTeams) {
+    return selected.filter(id => (!league || catalog.get(id).league===league) && !hiddenTeams.has(id));
+  }
+  function filterEvents(events, ids) {
+    const visible=new Set(ids);
+    return events.map(e=>({...e,calendars:e.calendars.filter(id=>visible.has(id))})).filter(e=>e.calendars.length);
+  }
+  const api = {parseICS, dateKey, occursOn, mergeEvents, buildCatalog, feedUrl, nextEvent, filterCalendarIds, filterEvents};
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   else root.SportsCalendar = api;
 })(typeof globalThis !== 'undefined' ? globalThis : this);

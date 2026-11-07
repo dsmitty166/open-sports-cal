@@ -69,3 +69,10 @@
 #calendar-app #next-up-content:has(> .game){color:var(--ink)}
 #calendar-app #next-up-content{margin-top:8px;color:var(--sub)}
 #calendar-app #jump-next{margin-top:14px}
+#calendar-app .filters{margin-top:18px;padding:14px;border:1px solid var(--line);border-radius:12px}
+#calendar-app .filter-row{display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:12px}
+#calendar-app .filter-row select{max-width:100%;min-width:0;padding:10px;font:inherit;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:9px}
+#calendar-app .filters summary{cursor:pointer;padding:6px 0}
+#calendar-app .filter-note,#calendar-app #filter-status{font-size:12px;margin-top:8px}
+#calendar-app #filter-status:empty{display:none}
+#calendar-app .filter-row select:focus-visible{outline:2px solid #a3ac77;outline-offset:3px}

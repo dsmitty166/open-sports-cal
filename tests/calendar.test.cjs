@@ -2,6 +2,24 @@ const {test} = require('node:test');
 const assert = require('node:assert/strict');
 const cal = require('../docs/calendar-core.js');
 
+test('temporary filters combine league and team choices without changing the selection', () => {
+ const catalog=new Map([['football:a',{league:'Football'}],['basketball:a',{league:'Basketball'}],['basketball:b',{league:'Basketball'}]]);
+ const selected=[...catalog.keys()];
+ assert.deepEqual(cal.filterCalendarIds(selected,catalog,'Basketball',new Set(['basketball:a'])),['basketball:b']);
+ assert.deepEqual(cal.filterCalendarIds(selected,catalog,'',new Set()),selected);
+ assert.deepEqual(cal.filterCalendarIds(selected,catalog,'Football',new Set(['football:a'])),[]);
+ assert.equal(selected.length,3);
+});
+
+test('filtering merged games keeps visible participants and never mutates loaded events', () => {
+ const events=[{summary:'A vs B',calendars:['a','b']},{summary:'C vs D',calendars:['c']}];
+ const filtered=cal.filterEvents(events,['b']);
+ assert.deepEqual(filtered,[{summary:'A vs B',calendars:['b']}]);
+ assert.deepEqual(events[0].calendars,['a','b']);
+ assert.deepEqual(cal.filterEvents(events,[]),[]);
+ assert.equal(cal.filterEvents(events,['a','b']).length,1);
+});
+
 test('next up skips started games and searches beyond the displayed month', () => {
  const past={start:new Date('2026-11-07T17:00Z')};
  const next={start:new Date('2026-12-01T18:00Z')};

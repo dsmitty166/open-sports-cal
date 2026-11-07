@@ -19,6 +19,8 @@ NCAA, NBA, and NFL game details include published US TV/streaming networks from 
 
 This web view is separate from an Apple/Google subscription and does not generate a combined ICS subscription. Individual calendar subscriptions below remain available.
 
+Use **Show league** and **Filter teams** to temporarily narrow Month, Agenda, Next up, and Jump to next game. **Clear filters**, reopening the page, or switching saved calendars restores the full selection. Filters do not change saved calendars or shared links.
+
 Use **Save as** to name a selection on your device, then switch calendars using **Saved on this device**. Named calendars automatically save team and Month/Agenda changes. **Manage** lets you rename, duplicate, or delete calendars, start an empty calendar, and export/import JSON backups. Imports add separate copies and keep existing saves. Shared links continue to work without an account.
 
 Saves belong to this browser, not an account. Clearing browser data removes them; use **Manage > Export backup** before clearing data or moving to another device. If saved data is unreadable, recovery export preserves the original data and replacement requires confirmation.

@@ -25,6 +25,19 @@
   let year = +today.slice(0,4), month = +today.slice(5,7)-1, day = +today.slice(8,10);
   let events = [], sequence = 0, lastFetch = 0, dayEvents = new Map();
   let loading = false, incomplete = false;
+  let leagueFilter = '', hiddenTeams = new Set(), filteredEvents = [];
+  const visibleIds = () => core.filterCalendarIds(selected,byId,leagueFilter,hiddenTeams);
+  function resetFilters() {leagueFilter='';hiddenTeams.clear();drawFilters();}
+  function drawFilters() {
+    $('filters').hidden=!selected.length;
+    const leagues=[...new Set(selected.map(id=>byId.get(id).league))].sort();
+    $('league-filter').innerHTML='<option value="">All leagues</option>'+leagues.map(l=>`<option value="${esc(l)}">${esc(l)}</option>`).join('');
+    $('league-filter').value=leagueFilter;
+    $('team-filters').innerHTML=selected.filter(id=>!leagueFilter || byId.get(id).league===leagueFilter).map(id=>`<label style="--event-color:${color(id)}"><input type="checkbox" value="${esc(id)}" ${hiddenTeams.has(id)?'':'checked'}><span class="key"></span>${esc(itemLabel(byId.get(id)))}</label>`).join('');
+    $('filter-count').textContent=`· Showing ${visibleIds().length} of ${selected.length}`;
+    $('filter-status').textContent=visibleIds().length?'':'No teams are visible. Enable a team or clear filters.';
+    $('clear-filters').disabled=!leagueFilter && !hiddenTeams.size;
+  }
   const cache = new Map(), colors = ['#c6a340','#79a5db','#ba97cc','#7cbe99','#e59b83','#8fbfc4'];
   const colorAssignments = new Map(Object.values(aliases).map((id,i)=>[id,colors[i]]));
   const color = id => { if(!colorAssignments.has(id)) colorAssignments.set(id,colors[colorAssignments.size % colors.length]); return colorAssignments.get(id); };
@@ -59,6 +72,7 @@
     const ids=record?record.teams:[];
     selected=ids.filter(id=>byId.has(id)); missing=ids.filter(id=>!byId.has(id));
     view=record?record.view:'month';
+    resetFilters();
     $('calendar-builder').open=!selected.length;
     persist();drawSelections();load();
   }
@@ -143,10 +157,10 @@
   const monthKey = () => `${year}-${String(month+1).padStart(2,'0')}`;
   const keyFor = d => `${monthKey()}-${String(d).padStart(2,'0')}`;
   function eventTime(e) { return e.allDay ? (e.endDay && (+new Date(e.endDay)-+e.start > 86400000) ? 'All day' : 'Time TBD') : timeFormatter.format(e.start); }
-  function indexEvents() {
+  function indexEvents(list) {
     dayEvents = new Map();
     const add = (key,event) => {if(!dayEvents.has(key))dayEvents.set(key,[]);dayEvents.get(key).push(event);};
-    for (const event of events) {
+    for (const event of list) {
       event.localDay = core.dateKey(event,zone);
       if (!event.allDay) {add(event.localDay,event);continue;}
       const end = event.endDay || new Date(+event.start+86400000).toISOString().slice(0,10);
@@ -154,6 +168,8 @@
     }
   }
   function drawCalendar() {
+    filteredEvents=core.filterEvents(events,visibleIds());
+    indexEvents(filteredEvents);
     drawNextUp();
     $('monthtitle').textContent = new Date(year,month,1).toLocaleDateString(undefined,{month:'long',year:'numeric'});
     $('monthview').hidden = view !== 'month';
@@ -175,7 +191,7 @@
     }
     const inMonth = new Set();
     if(view==='agenda') for(let d=1;d<=days;d++) for(const e of dayEvents.get(keyFor(d)) || []) inMonth.add(e);
-    const visible = view==='month' ? dayEvents.get(keyFor(day)) || [] : events.filter(e=>inMonth.has(e));
+    const visible = view==='month' ? dayEvents.get(keyFor(day)) || [] : filteredEvents.filter(e=>inMonth.has(e));
     $('daytitle').textContent = view==='month' ? new Date(year,month,day).toLocaleDateString(undefined,{weekday:'long',month:'long',day:'numeric'}) : 'All games this month';
     $('gamecount').textContent = `${visible.length} ${visible.length===1?'game':'games'}`;
     $('games').innerHTML = visible.length ? visible.map(e => {
@@ -185,9 +201,9 @@
   }
   function drawNextUp() {
     if(loading)return;
-    const e=core.nextEvent(events,new Date(),zone), target=$('next-up-content');
+    const e=core.nextEvent(filteredEvents,new Date(),zone), target=$('next-up-content');
     $('jump-next').disabled=!e;
-    if(!e) {target.textContent=selected.length?'No upcoming games in the loaded schedules.':'Choose calendars to see your next game.';return;}
+    if(!e) {target.textContent=!selected.length?'Choose calendars to see your next game.':!visibleIds().length?'No teams are visible. Clear filters to see your next game.':'No upcoming games match the current filters in the loaded schedules.';return;}
     const date=new Date(core.dateKey(e,zone)+'T12:00:00').toLocaleDateString(undefined,{weekday:'long',month:'long',day:'numeric',year:'numeric'});
     target.innerHTML=`<article class="game" style="--event-color:${color(e.calendars[0])}"><span class="stripe"></span><div class="info"><div class="category">${e.calendars.map(id=>esc(itemLabel(byId.get(id)))).join(' / ')}</div><div class="title">${esc(e.summary)}</div><div class="venue">${esc(e.location || 'Venue TBD')}</div><div class="broadcast">${e.broadcast?'TV / streaming: '+esc(e.broadcast):'Broadcast not announced'}</div><div class="next-up-date">${esc(date)} · ${esc(eventTime(e))}${e.allDay?'':' · '+esc(zone)}</div></div></article>`;
     if(incomplete) target.insertAdjacentHTML('beforeend','<p class="notice">Some schedules are unavailable. Next up may be incomplete.</p>');
@@ -210,7 +226,6 @@
     }));
     if (request!==sequence) return;
     events = core.mergeEvents(results.filter(r=>r.status==='fulfilled').map(r=>r.value));
-    indexEvents();
     const failed = results.flatMap((r,i)=>r.status==='rejected'?[itemLabel(byId.get(ids[i]))]:[]);
     $('notice').textContent = failed.length ? `Could not load ${failed.join('; ')}. Check your connection and use Refresh schedules below.` : missing.length ? `Some shared calendars are unavailable: ${missing.join(', ')}. You can replace them using Add calendars.` : '';
     $('notice').classList.toggle('error',failed.length>0);
@@ -219,6 +234,7 @@
   }
   function changeSelection(id,checked) {
     selected = checked ? [...new Set([...selected,id])] : selected.filter(x=>x!==id);
+    resetFilters();
     persist(true);drawSelections();load();
   }
   $('selections').addEventListener('change',e=>{if(e.target.dataset.remove) changeSelection(e.target.dataset.remove,false);});
@@ -236,7 +252,7 @@
   $('today').onclick=()=>{year=+today.slice(0,4);month=+today.slice(5,7)-1;day=+today.slice(8,10);drawCalendar();};
   $('jump-next').onclick=()=>{
     if(loading)return;
-    const now=new Date(), e=core.nextEvent(events,now,zone);
+    const now=new Date(), e=core.nextEvent(filteredEvents,now,zone);
     if(!e){drawNextUp();return;}
     let key=core.dateKey(e,zone);
     // An ongoing multi-day event should open today's date, not its past start.
@@ -265,5 +281,16 @@
       $('storage-status').textContent='Saved calendars updated from another tab.';
     }catch(_){libraryWritable=false;drawSaved();$('storage-status').textContent='Saved data changed in another tab and could not be read. Existing data is untouched.';}
   });
-  persist();drawSelections();drawCalendar();load();
+  $('league-filter').onchange=()=>{leagueFilter=$('league-filter').value;drawFilters();drawCalendar();};
+  $('team-filters').addEventListener('change',e=>{
+    if(!e.target.matches('input'))return;
+    if(e.target.checked)hiddenTeams.delete(e.target.value);else hiddenTeams.add(e.target.value);
+    // Keep focus on the toggled checkbox while updating counts and results.
+    $('filter-count').textContent=`· Showing ${visibleIds().length} of ${selected.length}`;
+    $('filter-status').textContent=visibleIds().length?'':'No teams are visible. Enable a team or clear filters.';
+    $('clear-filters').disabled=!leagueFilter && !hiddenTeams.size;
+    drawCalendar();
+  });
+  $('clear-filters').onclick=()=>{resetFilters();drawCalendar();};
+  persist();drawSelections();drawFilters();drawCalendar();load();
 })();
