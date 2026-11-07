@@ -76,3 +76,4 @@
 #calendar-app .filter-note,#calendar-app #filter-status{font-size:12px;margin-top:8px}
 #calendar-app #filter-status:empty{display:none}
 #calendar-app .filter-row select:focus-visible{outline:2px solid #a3ac77;outline-offset:3px}
+.account-bar{margin:20px 0 24px;padding:16px;border:1px solid var(--border,#343a30);border-radius:12px}.account-bar .saved-row{align-items:center}.account-bar #account-name{flex:1;min-width:180px;font-size:14px}.account-bar button{font-size:13px;padding:9px 12px}.account-bar [hidden]{display:none!important}

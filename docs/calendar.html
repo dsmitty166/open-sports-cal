@@ -5,19 +5,26 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Your teams, one online calendar. Combine sports schedules in your timezone and share a permanent link.">
   <title>My Sports Calendar · open-sports-cal</title>
-  <link rel="stylesheet" href="calendar.css?v=5">
+  <link rel="stylesheet" href="calendar.css?v=6">
   <script src="data.js" defer></script>
   <script src="calendar-core.js?v=6" defer></script>
   <script src="calendar-storage.js?v=1" defer></script>
-  <script src="calendar.js?v=9" defer></script>
+  <script src="calendar-cloud.js?v=1" defer></script>
+  <script src="vendor/supabase-2.119.0.js" defer></script>
+  <script src="calendar-account.js?v=1" defer></script>
+  <script src="calendar.js?v=10" defer></script>
 </head>
 <body>
 <main id="calendar-app">
   <nav class="nav" aria-label="Site"><a class="mark" href="./" aria-label="Browse calendars">o</a><a class="brand" href="./">open sports cal</a><a class="preview" href="./">Browse all calendars ↗</a></nav>
   <div class="content">
     <header class="head"><div><h1>Your teams. One calendar.</h1><p>A little less searching. A lot more game day.</p></div><button class="share" id="share">Share calendar ↗</button></header>
+    <section class="account-bar" aria-label="Account">
+      <div class="saved-row"><span id="account-name">Use without an account, or sync across devices.</span><button id="sign-in">Sign in with GitHub</button><button id="sign-out" hidden>Sign out</button><button id="sync-account" hidden>Sync now</button><button id="copy-device" hidden>Copy device calendars to account</button><button id="reload-account" hidden>Load account copy</button></div>
+      <p id="account-status" class="storage-status" role="status" aria-live="polite"></p>
+    </section>
     <section class="saved-bar" aria-label="Saved calendars">
-      <label class="label" for="saved-calendar">Saved on this device</label>
+      <label id="saved-scope" class="label" for="saved-calendar">Saved on this device</label>
       <div class="saved-row"><select id="saved-calendar" aria-label="Choose a saved calendar"><option value="">Unsaved calendar</option></select><button id="save-as">Save as…</button><button id="manage-saved">Manage</button></div>
       <p id="storage-status" class="storage-status" role="status" aria-live="polite"></p>
     </section>
@@ -62,7 +69,7 @@
   <form id="save-form">
     <h2 id="save-title">Save this calendar</h2>
     <label for="new-calendar-name">Calendar name</label><input id="new-calendar-name" maxlength="80" required placeholder="e.g. Iowa game days" autocomplete="off">
-    <p>Saved in this browser. Team and view changes save automatically after naming it.</p>
+    <p id="save-scope-help">Saved in this browser. Team and view changes save automatically after naming it.</p>
     <p id="save-error" class="dialog-error" role="alert"></p>
     <div class="dialog-actions"><button type="button" id="cancel-save">Cancel</button><button type="submit">Save calendar</button></div>
   </form>
@@ -72,7 +79,7 @@
   <label for="manage-calendar">Saved calendar</label><select id="manage-calendar"></select>
   <label for="saved-name">Name</label><input id="saved-name" maxlength="80" autocomplete="off">
   <div class="dialog-actions"><button id="rename-calendar">Rename</button><button id="duplicate-calendar">Duplicate</button><button id="delete-calendar">Delete</button></div>
-  <hr><p>Back up your calendars before clearing browser data, or import a backup on another device. Imports add calendars without replacing existing saves.</p>
+  <hr><p>Export a backup to keep an independent copy. Imports add calendars without replacing existing saves.</p>
   <div class="dialog-actions"><button id="export-calendars">Export backup</button><button id="import-calendars">Import backup</button><input type="file" id="backup-file" accept=".json,application/json" hidden></div>
   <p id="manage-status" role="status" aria-live="polite"></p>
   <div class="dialog-actions"><button id="new-calendar">New empty calendar</button><button id="close-saved">Done</button></div>

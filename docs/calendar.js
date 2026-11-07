@@ -1,5 +1,5 @@
 /* Browser controller for the multi-calendar page. No account or server needed. */
-(() => {
+(async () => {
   'use strict';
   const $ = id => document.getElementById(id), core = window.SportsCalendar;
   if (!core || !window.SPORTS_DATA) { $('notice').textContent = 'Calendar data could not load. Please refresh the page.'; return; }
@@ -11,6 +11,12 @@
   let saved = {};
   try { saved = JSON.parse(localStorage.getItem('osc-my-calendar') || '{}') || {}; } catch (_) { /* Private browsing can disable storage. */ }
   const deviceStore = window.CalendarStorage;
+  let cloudEngine=null,accountUser=null,accountEpoch=0,syncTimer;
+  const preferenceKey=()=>accountUser?'osc-my-calendar-'+accountUser.id:'osc-my-calendar';
+  const libraryStorage={
+    getItem:key=>{if(accountUser && !cloudEngine)throw Error('Account library is unavailable.');return cloudEngine?deviceStore.exportBackup(cloudEngine.records()):localStorage.getItem(key);},
+    setItem:(key,value)=>{if(accountUser && !cloudEngine)throw Error('Account library is unavailable.');if(cloudEngine)cloudEngine.change(deviceStore.parseBackup(value));else localStorage.setItem(key,value);}
+  };
   let library = [], libraryWritable = true;
   try { library = deviceStore.read(localStorage); }
   catch (_) { libraryWritable = false; $('storage-status').textContent = 'Saved calendars could not be read. Existing data is untouched. Import a backup to restore it, or use a share link.'; }
@@ -46,7 +52,7 @@
   const url = () => { const u = new URL(location.href); u.hash = ''; u.search = ''; u.searchParams.set('teams',selected.join(',')); u.searchParams.set('view',view); return u; };
   function persist(saveNamed=false) {
     if(saveNamed && activeId && libraryWritable) commitLibrary(library.map(c=>c.id===activeId?{...c,teams:[...selected,...missing],view}:c));
-    try { localStorage.setItem('osc-my-calendar',JSON.stringify({teams:[...selected,...missing],view,activeId})); }
+    try { localStorage.setItem(preferenceKey(),JSON.stringify({teams:[...selected,...missing],view,activeId})); }
     catch (_) { $('storage-status').textContent='Device storage is unavailable or full. Changes may not survive closing this page; copy a share link to keep this selection.'; }
     history.replaceState(null,'',url()); $('sharelink').value = url().href;
     drawSaved();
@@ -54,9 +60,11 @@
   function commitLibrary(next,replaceUnreadable=false) {
     let latest;
     try {
-      latest=replaceUnreadable?[]:deviceStore.read(localStorage);
+      latest=replaceUnreadable?[]:deviceStore.read(libraryStorage);
       const merged=replaceUnreadable?next:deviceStore.applyChanges(library,next,latest);
-      deviceStore.write(localStorage,merged);library=merged;libraryWritable=true;return true;
+      deviceStore.write(libraryStorage,merged);library=merged;libraryWritable=true;
+      if(cloudEngine){$('account-status').textContent='Changes saved on this device; waiting to sync.';clearTimeout(syncTimer);syncTimer=setTimeout(syncAccount,600);}
+      return true;
     } catch(error) {
       if(latest){library=latest;activeId='';drawSaved();}else{libraryWritable=false;drawSaved();}
       $('storage-status').textContent=error.message+' Existing saved calendars have not been replaced. Your current selection can still be shared.';
@@ -100,7 +108,7 @@
     if(!name || library.some(c=>c.name.toLowerCase()===name.toLowerCase())) {$('save-error').textContent='Enter a unique calendar name.';return;}
     const record={id:crypto.randomUUID(),name,teams:[...selected,...missing],view};
     if(!commitLibrary([...library,record])) {$('save-error').textContent='Could not save. Check the device storage message.';return;}
-    activeId=record.id;persist();$('save-dialog').close();$('storage-status').textContent=`${name} is saved on this device. Changes save automatically.`;
+    activeId=record.id;persist();$('save-dialog').close();$('storage-status').textContent=`${name} is saved${accountUser?' to your account library on this device':' on this device'}. Changes save automatically.`;
   };
   $('manage-saved').onclick=()=>{drawManage();$('manage-status').textContent='';$('saved-dialog').showModal();};
   $('manage-calendar').onchange=()=>drawManage($('manage-calendar').value);
@@ -116,13 +124,13 @@
     if(commitLibrary([...library,record])) {drawSaved();drawManage(record.id);$('manage-status').textContent='Separate copy created.';}
   };
   $('delete-calendar').onclick=()=>{
-    const current=library.find(c=>c.id===$('manage-calendar').value);if(!current || !confirm(`Delete saved calendar "${current.name}" from this device?`))return;
+    const current=library.find(c=>c.id===$('manage-calendar').value);if(!current || !confirm(`Delete saved calendar "${current.name}"${accountUser?' from your account and synced devices':' from this device'}?`))return;
     if(commitLibrary(library.filter(c=>c.id!==current.id))) {if(activeId===current.id)activeId='';persist();drawManage();$('manage-status').textContent='Saved calendar deleted. The current team selection is still available.';}
   };
   $('new-calendar').onclick=()=>{useCalendar(null);$('saved-dialog').close();};
   $('export-calendars').onclick=()=>{
     try {
-      const text=libraryWritable?deviceStore.exportBackup(library):localStorage.getItem('osc-saved-calendars');
+      const text=libraryWritable?deviceStore.exportBackup(library):localStorage.getItem(accountUser?'osc-account-'+accountUser.id:'osc-saved-calendars');
       if(text===null)throw Error('No recovery data is available.');
       const blob=new Blob([text],{type:'application/json'}),href=URL.createObjectURL(blob),a=document.createElement('a');
       a.href=href;a.download=libraryWritable?'sports-calendars-backup.json':'sports-calendars-recovery.json';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(href),10000);
@@ -282,6 +290,7 @@
   setInterval(()=>{if(!document.hidden)drawNextUp();},60000);
   document.addEventListener('visibilitychange',()=>{if(!document.hidden && Date.now()-lastFetch>15*60000){cache.clear();load();}});
   window.addEventListener('storage',event=>{
+    if(accountUser){if(event.key==='osc-account-'+accountUser.id)switchAccount(accountUser,true);return;}
     if(event.key!=='osc-saved-calendars')return;
     try {
       library=deviceStore.read(localStorage);libraryWritable=true;
@@ -303,5 +312,118 @@
     drawCalendar();
   });
   $('clear-filters').onclick=()=>{resetFilters();events=[];drawCalendar();load();};
-  persist();drawSelections();drawFilters();drawCalendar();load();
+  const account=window.CalendarAccount;
+  function transport(user){
+    const client=account.client;
+    return {
+      async read(){
+        const {data,error}=await client.from('calendar_libraries').select('calendars,revision').eq('user_id',user.id).abortSignal(AbortSignal.timeout(15000)).maybeSingle();
+        if(error)throw error;return data;
+      },
+      async save(calendars,revision){
+        let query=revision===0?client.from('calendar_libraries').insert({user_id:user.id,calendars}):client.from('calendar_libraries').update({calendars}).eq('user_id',user.id).eq('revision',revision);
+        const {data,error}=await query.select('calendars,revision').abortSignal(AbortSignal.timeout(15000)).maybeSingle();
+        if(error?.code==='23505')return null;
+        if(error)throw error;return data;
+      }
+    };
+  }
+  function applyAccountRecords(){
+    library=cloudEngine.records();libraryWritable=true;
+    const record=library.find(c=>c.id===activeId);
+    if(record)useCalendar(record);else{activeId='';persist();drawSaved();}
+    if($('saved-dialog').open)drawManage();
+  }
+  async function syncAccount(){
+    const engine=cloudEngine,epoch=accountEpoch;if(!engine)return;
+    $('account-status').textContent='Syncing account calendars…';
+    try{
+      await engine.sync();if(epoch!==accountEpoch)return;
+      applyAccountRecords();$('account-status').textContent='Account calendars synced.';$('reload-account').hidden=true;
+    }catch(error){
+      if(epoch!==accountEpoch)return;
+      $('account-status').textContent=(error.message || 'Account sync failed.')+' Your cached calendars are kept on this device. Use Sync now to retry.';
+      $('reload-account').hidden=false;
+    }
+  }
+  function switchAccount(user,force=false){
+    if(!force && accountUser?.id===user?.id)return;
+    const changingAccount=!!accountUser;
+    ++accountEpoch;clearTimeout(syncTimer);cloudEngine?.stop();cloudEngine=null;accountUser=user || null;
+    $('account-name').textContent=user?'Signed in as '+(user.user_metadata?.user_name || user.email || 'GitHub user'):'Use without an account, or sync across devices.';
+    $('sign-in').hidden=!!user;
+    for(const id of ['sign-out','sync-account','copy-device'])$(id).hidden=!user;
+    $('reload-account').hidden=true;
+    $('saved-scope').textContent=user?'Saved to your account':'Saved on this device';
+    $('saved-title').textContent=user?'Account calendars':'Calendars on this device';
+    $('save-scope-help').textContent=user?'Saved on this device and synced to your account when connected.':'Saved in this browser. Team and view changes save automatically after naming it.';
+    $('storage-status').textContent='';activeId='';library=[];
+    // Remove the previous scope before any fallible storage/network operation.
+    selected=[];missing=[];events=[];filteredEvents=[];dayEvents=new Map();cache.clear();++sequence;loading=false;incomplete=false;resetFilters();
+    $('linkbox').hidden=true;
+    for(const id of ['save-dialog','saved-dialog','picker'])if($(id).open)$(id).close();
+    $('new-calendar-name').value='';$('save-error').textContent='';$('manage-status').textContent='';
+    drawManage();
+    history.replaceState(null,'',url());$('sharelink').value=url().href;
+    drawSaved();drawSelections();drawCalendar();
+    try{
+      if(user)cloudEngine=window.CalendarCloud.create(user.id,localStorage,transport(user));
+      library=deviceStore.read(libraryStorage);libraryWritable=true;
+      let prefs={};try{prefs=JSON.parse(localStorage.getItem(preferenceKey()) || '{}') || {};}catch(_){}
+      if(!params.has('teams') || force || changingAccount){
+        const ids=Array.isArray(prefs.teams)?prefs.teams:[];
+        selected=ids.filter(id=>byId.has(id));missing=ids.filter(id=>!byId.has(id));view=prefs.view==='agenda'?'agenda':'month';
+        activeId=library.some(c=>c.id===prefs.activeId)?prefs.activeId:'';
+      }else{
+        const ids=requested.map(id=>aliases[id] || id);
+        selected=ids.filter(id=>byId.has(id));missing=ids.filter(id=>!byId.has(id));
+        view=params.get('view')==='agenda'?'agenda':'month';
+      }
+      persist();drawSelections();drawFilters();load();
+      if(user)syncAccount();else $('account-status').textContent='Device-only calendars are active.';
+    }catch(error){libraryWritable=false;drawSaved();$('account-status').textContent=error.message+' Export recovery data in Manage before changing storage.';}
+  }
+  $('sign-in').onclick=async()=>{
+    if(!account?.client)return;
+    persist();$('account-status').textContent='Opening GitHub sign-in…';
+    try{
+      const redirect=new URL('calendar.html',location.href);redirect.search='';redirect.hash='';
+      const {error}=await account.client.auth.signInWithOAuth({provider:'github',options:{redirectTo:redirect.href}});
+      if(error)throw error;
+    }catch(error){$('account-status').textContent='Could not sign in: '+error.message;}
+  };
+  $('sign-out').onclick=async()=>{
+    if(cloudEngine?.pending() && !confirm('Some changes have not synced. They will stay cached for this account on this device. Sign out?'))return;
+    try{const {error}=await account.client.auth.signOut({scope:'local'});if(error)throw error;switchAccount(null);}
+    catch(error){$('account-status').textContent='Could not sign out: '+error.message;}
+  };
+  $('sync-account').onclick=syncAccount;
+  $('copy-device').onclick=()=>{
+    if(!cloudEngine || !libraryWritable)return;
+    try{
+      const incoming=deviceStore.read(localStorage).filter(c=>!library.some(r=>r.name===c.name && JSON.stringify(r.teams)===JSON.stringify(c.teams) && r.view===c.view));
+      if(!incoming.length){$('account-status').textContent='No new device calendars to copy.';return;}
+      if(commitLibrary(deviceStore.mergeImport(library,incoming,()=>crypto.randomUUID()))) {drawSaved();$('storage-status').textContent=`Copied ${incoming.length} device calendars. Originals remain on this device.`;}
+    }catch(error){$('account-status').textContent=error.message;}
+  };
+  $('reload-account').onclick=async()=>{
+    const engine=cloudEngine,epoch=accountEpoch;if(!engine)return;
+    if(engine.pending()){
+      // Download before replacing pending changes, so conflict recovery is reversible.
+      $('export-calendars').click();
+      if(!confirm('A backup download of this library was requested. Confirm you have saved it before replacing pending edits with the account copy. Continue?'))return;
+    }
+    try{await engine.reload();if(epoch!==accountEpoch)return;applyAccountRecords();$('account-status').textContent='Loaded the account copy.';$('reload-account').hidden=true;}
+    catch(error){if(epoch===accountEpoch)$('account-status').textContent=error.message;}
+  };
+  window.addEventListener('online',syncAccount);
+  document.addEventListener('visibilitychange',()=>{if(!document.hidden && accountUser)syncAccount();});
+  let initial;
+  try{initial=await Promise.race([account?.ready || Promise.resolve({}),new Promise(resolve=>setTimeout(()=>resolve({error:Error('Account connection timed out. Device calendars are available.')}),12000))]);}
+  catch(error){initial={error};}
+  if(account?.client)account.client.auth.onAuthStateChange((event,session)=>{setTimeout(()=>switchAccount(session?.user || null),0);});
+  if(initial?.data?.session?.user)switchAccount(initial.data.session.user);
+  else{persist();drawSelections();drawFilters();drawCalendar();load();}
+  if(initial?.error){$('account-status').textContent=initial.error.message;}
+  if(!account?.client){$('sign-in').disabled=true;$('account-status').textContent='Sign-in is unavailable. Device-only calendars still work.';}
 })();
