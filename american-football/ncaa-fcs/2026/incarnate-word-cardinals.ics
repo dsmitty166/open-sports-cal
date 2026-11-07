@@ -12,12 +12,14 @@ DTSTART:20260829T230000Z
 DTEND:20260830T020000Z
 SUMMARY:Oklahoma Panhandle Aggies @ Incarnate Word Cardinals
 DESCRIPTION:NCAA FCS Football 2026\nOklahoma Panhandle Aggies @ Incarnate W
- ord Cardinals\nGayle and Tom Benson Stadium\, San Antonio\, TX
+ ord Cardinals\nGayle and Tom Benson Stadium\, San Antonio\, TX\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868123@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20260912T210000Z
 DTEND:20260913T000000Z
 SUMMARY:Incarnate Word Cardinals @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA FCS Football 2026\nIncarnate Word Cardinals @ Northern Ari
- zona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ zona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869147@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Houston Christian Huskies @ Incarnate Word Cardinals
 DESCRIPTION:NCAA FCS Football 2026\nHouston Christian Huskies @ Incarnate W
- ord Cardinals\nGayle and Tom Benson Stadium\, San Antonio\, TX
+ ord Cardinals\nGayle and Tom Benson Stadium\, San Antonio\, TX\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401860892@open-sports-cal
@@ -51,12 +57,13 @@ DTSTART:20260926T220000Z
 DTEND:20260927T010000Z
 SUMMARY:Incarnate Word Cardinals @ Texas State Bobcats
 DESCRIPTION:NCAA FCS Football 2026\nIncarnate Word Cardinals @ Texas State 
- Bobcats\nUFCU Stadium\, San Marcos\, TX
+ Bobcats\nUFCU Stadium\, San Marcos\, TX\nBroadcast: USA Net
 LOCATION:UFCU Stadium\, San Marcos\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:USA Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868309@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261003T220000Z
 DTEND:20261004T010000Z
 SUMMARY:Incarnate Word Cardinals @ Stephen F. Austin Lumberjacks
 DESCRIPTION:NCAA FCS Football 2026\nIncarnate Word Cardinals @ Stephen F. A
- ustin Lumberjacks\nHomer Bryce Stadium\, Nacogdoches\, TX
+ ustin Lumberjacks\nHomer Bryce Stadium\, Nacogdoches\, TX\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Homer Bryce Stadium\, Nacogdoches\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869144@open-sports-cal
@@ -77,12 +86,13 @@ DTSTART:20261010T200000Z
 DTEND:20261010T230000Z
 SUMMARY:Incarnate Word Cardinals @ Lamar Cardinals
 DESCRIPTION:NCAA FCS Football 2026\nIncarnate Word Cardinals @ Lamar Cardin
- als\nProvost Umphrey Stadium\, Beaumont\, TX
+ als\nProvost Umphrey Stadium\, Beaumont\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Provost Umphrey Stadium\, Beaumont\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868250@open-sports-cal
@@ -90,12 +100,14 @@ DTSTART:20261017T230000Z
 DTEND:20261018T020000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Incarnate Word Cardinals
 DESCRIPTION:NCAA FCS Football 2026\nUT Rio Grande Valley Vaqueros @ Incarna
- te Word Cardinals\nGayle and Tom Benson Stadium\, San Antonio\, TX
+ te Word Cardinals\nGayle and Tom Benson Stadium\, San Antonio\, TX\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869138@open-sports-cal
@@ -103,12 +115,14 @@ DTSTART:20261024T210000Z
 DTEND:20261025T000000Z
 SUMMARY:McNeese Cowboys @ Incarnate Word Cardinals
 DESCRIPTION:NCAA FCS Football 2026\nMcNeese Cowboys @ Incarnate Word Cardin
- als\nGayle and Tom Benson Stadium\, San Antonio\, TX
+ als\nGayle and Tom Benson Stadium\, San Antonio\, TX\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869134@open-sports-cal
@@ -116,12 +130,14 @@ DTSTART:20261031T180000Z
 DTEND:20261031T210000Z
 SUMMARY:Northwestern State Demons @ Incarnate Word Cardinals
 DESCRIPTION:NCAA FCS Football 2026\nNorthwestern State Demons @ Incarnate W
- ord Cardinals\nGayle and Tom Benson Stadium\, San Antonio\, TX
+ ord Cardinals\nGayle and Tom Benson Stadium\, San Antonio\, TX\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868321@open-sports-cal
@@ -129,12 +145,13 @@ DTSTART:20261108T000000Z
 DTEND:20261108T030000Z
 SUMMARY:Incarnate Word Cardinals @ SE Louisiana Lions
 DESCRIPTION:NCAA FCS Football 2026\nIncarnate Word Cardinals @ SE Louisiana
-  Lions\nStrawberry Stadium\, Hammond\, LA
+  Lions\nStrawberry Stadium\, Hammond\, LA\nBroadcast: ESPN+ (streaming)
 LOCATION:Strawberry Stadium\, Hammond\, LA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869148@open-sports-cal
@@ -142,12 +159,14 @@ DTSTART:20261114T200000Z
 DTEND:20261114T230000Z
 SUMMARY:Nicholls Colonels @ Incarnate Word Cardinals
 DESCRIPTION:NCAA FCS Football 2026\nNicholls Colonels @ Incarnate Word Card
- inals\nGayle and Tom Benson Stadium\, San Antonio\, TX
+ inals\nGayle and Tom Benson Stadium\, San Antonio\, TX\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869149@open-sports-cal
@@ -155,11 +174,13 @@ DTSTART:20261121T210000Z
 DTEND:20261122T000000Z
 SUMMARY:Incarnate Word Cardinals @ East Texas A&M Lions
 DESCRIPTION:NCAA FCS Football 2026\nIncarnate Word Cardinals @ East Texas A
- &M Lions\nMemorial Stadium (Commerce\, TX)\, Commerce\, TX
+ &M Lions\nMemorial Stadium (Commerce\, TX)\, Commerce\, TX\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Memorial Stadium (Commerce\, TX)\, Commerce\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

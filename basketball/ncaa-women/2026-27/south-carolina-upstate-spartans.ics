@@ -13,13 +13,15 @@ DTSTART:20261102T220000Z
 DTEND:20261103T010000Z
 SUMMARY:South Carolina Upstate Spartans @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
- s @ Wake Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ s @ Wake Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadca
+ st: ACCNX (streaming)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927094@open-sports-cal
@@ -27,13 +29,15 @@ DTSTART:20261104T233000Z
 DTEND:20261105T023000Z
 SUMMARY:Johnson Royals @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJohnson Royals @ South Carolin
- a Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ a Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcast: ESPN+
+  (streaming)
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927095@open-sports-cal
@@ -41,13 +45,15 @@ DTSTART:20261107T210000Z
 DTEND:20261108T000000Z
 SUMMARY:Southern Wesleyan Warriors @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Wesleyan Warriors @ S
- outh Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ outh Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925980@open-sports-cal
@@ -57,12 +63,12 @@ SUMMARY:South Carolina Upstate Spartans @ South Carolina State Lady Bulldog
  s
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
  s @ South Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial C
- enter\, Orangeburg\, SC
+ enter\, Orangeburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -71,13 +77,15 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:South Carolina Upstate Spartans @ UNC Greensboro Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
- s @ UNC Greensboro Spartans\nBodford Arena\, Greensboro\, NC
+ s @ UNC Greensboro Spartans\nBodford Arena\, Greensboro\, NC\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Bodford Arena\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915888@open-sports-cal
@@ -85,13 +93,15 @@ DTSTART:20261118T230000Z
 DTEND:20261119T020000Z
 SUMMARY:South Carolina Upstate Spartans @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
- s @ Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ s @ Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACC Net
+ work
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927097@open-sports-cal
@@ -99,13 +109,15 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:South Carolina Upstate Spartans @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
- s @ Tennessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ s @ Tennessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927098@open-sports-cal
@@ -113,13 +125,15 @@ DTSTART:20261125T220000Z
 DTEND:20261126T010000Z
 SUMMARY:Tennessee State Lady Tigers @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee State Lady Tigers @ 
- South Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ South Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927103@open-sports-cal
@@ -129,13 +143,14 @@ SUMMARY:Georgia Southern-East Georgia Golden Eagles @ South Carolina Upstat
  e Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern-East Georgia 
  Golden Eagles @ South Carolina Upstate Spartans\nG.B. Hodge Center\, Spart
- anburg\, SC
+ anburg\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913890@open-sports-cal
@@ -143,13 +158,15 @@ DTSTART:20261202T210000Z
 DTEND:20261203T000000Z
 SUMMARY:Queens University Royals @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nQueens University Royals @ Sou
- th Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ th Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927099@open-sports-cal
@@ -157,13 +174,15 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Samford Bulldogs @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ South Carol
- ina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ ina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927100@open-sports-cal
@@ -171,13 +190,15 @@ DTSTART:20261212T230000Z
 DTEND:20261213T020000Z
 SUMMARY:Western Carolina Catamounts @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Carolina Catamounts @ 
- South Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ South Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927101@open-sports-cal
@@ -185,13 +206,15 @@ DTSTART:20261216T160000Z
 DTEND:20261216T190000Z
 SUMMARY:Kennesaw State Owls @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKennesaw State Owls @ South Ca
- rolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ rolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927102@open-sports-cal
@@ -200,12 +223,12 @@ DTEND:20261219T200000Z
 SUMMARY:South Carolina Upstate Spartans @ Campbell Fighting Camels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
  s @ Campbell Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies 
- Creek\, NC
+ Creek\, NC\nBroadcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -214,13 +237,15 @@ DTSTART:20261230T233000Z
 DTEND:20261231T023000Z
 SUMMARY:UNC Asheville Bulldogs @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Asheville Bulldogs @ South
-  Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+  Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923837@open-sports-cal
@@ -228,12 +253,13 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Winthrop Eagles @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWinthrop Eagles @ South Caroli
- na Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ na Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcast: Broa
+ dcast not announced
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -242,12 +268,13 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:South Carolina Upstate Spartans @ High Point Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
- s @ High Point Panthers\nQubein Center\, High Point\, NC
+ s @ High Point Panthers\nQubein Center\, High Point\, NC\nBroadcast: Broad
+ cast not announced
 LOCATION:Qubein Center\, High Point\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -256,12 +283,13 @@ DTSTART:20270113T233000Z
 DTEND:20270114T023000Z
 SUMMARY:Charleston Southern Buccaneers @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Southern Buccaneers
-  @ South Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+  @ South Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\n
+ Broadcast: Broadcast not announced
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -270,12 +298,13 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Presbyterian Blue Hose @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPresbyterian Blue Hose @ South
-  Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+  Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcas
+ t: Broadcast not announced
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,12 +314,12 @@ DTEND:20270121T030000Z
 SUMMARY:South Carolina Upstate Spartans @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
  s @ Gardner-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, N
- C
+ C\nBroadcast: Broadcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -299,12 +328,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:South Carolina Upstate Spartans @ Radford Highlanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
- s @ Radford Highlanders\nThe Dedmon Center\, Radford\, VA
+ s @ Radford Highlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broa
+ dcast not announced
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -313,12 +343,13 @@ DTSTART:20270127T233000Z
 DTEND:20270128T023000Z
 SUMMARY:Longwood Lancers @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ South Carol
- ina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ ina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcast: Bro
+ adcast not announced
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -327,12 +358,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:South Carolina Upstate Spartans @ Winthrop Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
- s @ Winthrop Eagles\nWinthrop Coliseum\, Rock Hill\, SC
+ s @ Winthrop Eagles\nWinthrop Coliseum\, Rock Hill\, SC\nBroadcast: Broadc
+ ast not announced
 LOCATION:Winthrop Coliseum\, Rock Hill\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -341,12 +373,13 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:South Carolina Upstate Spartans @ Presbyterian Blue Hose
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
- s @ Presbyterian Blue Hose\nTempleton Center\, Clinton\, SC
+ s @ Presbyterian Blue Hose\nTempleton Center\, Clinton\, SC\nBroadcast: Br
+ oadcast not announced
 LOCATION:Templeton Center\, Clinton\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -355,12 +388,13 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:High Point Panthers @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHigh Point Panthers @ South Ca
- rolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ rolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcast: 
+ Broadcast not announced
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -369,12 +403,13 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Radford Highlanders @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRadford Highlanders @ South Ca
- rolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ rolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcast: 
+ Broadcast not announced
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -383,12 +418,13 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:South Carolina Upstate Spartans @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
- s @ Longwood Lancers\nJoan Perry Brock Center\, Farmville\, VA
+ s @ Longwood Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast:
+  Broadcast not announced
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -397,12 +433,13 @@ DTSTART:20270220T210000Z
 DTEND:20270221T000000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs 
- @ South Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ @ South Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nB
+ roadcast: Broadcast not announced
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -411,12 +448,13 @@ DTSTART:20270224T233000Z
 DTEND:20270225T023000Z
 SUMMARY:South Carolina Upstate Spartans @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
- s @ UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC
+ s @ UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broa
+ dcast not announced
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -426,11 +464,12 @@ DTEND:20270227T220000Z
 SUMMARY:South Carolina Upstate Spartans @ Charleston Southern Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
  s @ Charleston Southern Buccaneers\nBuccaneer Fieldhouse\, Charleston\, SC
+ \nBroadcast: Broadcast not announced
 LOCATION:Buccaneer Fieldhouse\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Bridgewater Eagles @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBridgewater Eagles @ William & M
- ary Tribe\nKaplan Arena\, Williamsburg\, VA
+ ary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: FloSports (streami
+ ng)
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925894@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261108T230000Z
 DTEND:20261109T020000Z
 SUMMARY:Norfolk State Spartans @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorfolk State Spartans @ William
-  & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+  & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: FloSports (str
+ eaming)
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918452@open-sports-cal
@@ -39,12 +43,13 @@ DTEND:20261112T030000Z
 SUMMARY:William & Mary Tribe @ Florida Atlantic Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Florida A
  tlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, F
- L
+ L\nBroadcast: ESPN+ (streaming)
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918453@open-sports-cal
@@ -52,12 +57,13 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:William & Mary Tribe @ Michigan Wolverines
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Michigan 
- Wolverines\nCrisler Center\, Ann Arbor\, MI
+ Wolverines\nCrisler Center\, Ann Arbor\, MI\nBroadcast: B1G+ (streaming)
 LOCATION:Crisler Center\, Ann Arbor\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911018@open-sports-cal
@@ -65,12 +71,14 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Bowling Green Falcons @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ William 
- & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: FloSports (stre
+ aming)
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918454@open-sports-cal
@@ -78,11 +86,12 @@ DTSTART:20261120T160000Z
 DTEND:20261120T190000Z
 SUMMARY:Averett Cougars @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAverett Cougars @ William & Mary
-  Tribe\nKaplan Arena\, Williamsburg\, VA
+  Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -91,12 +100,14 @@ DTSTART:20261122T190000Z
 DTEND:20261122T220000Z
 SUMMARY:William & Mary Tribe @ Youngstown State Penguins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Youngstow
- n State Penguins\nZidian Family Arena at Beeghly Center\, Youngstown\, OH
+ n State Penguins\nZidian Family Arena at Beeghly Center\, Youngstown\, OH\
+ nBroadcast: ESPN+ (streaming)
 LOCATION:Zidian Family Arena at Beeghly Center\, Youngstown\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921177@open-sports-cal
@@ -105,12 +116,13 @@ DTEND:20261123T233000Z
 SUMMARY:William & Mary Tribe @ IU Indianapolis Jaguars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ IU Indian
  apolis Jaguars\nZidian Family Arena at Beeghly Center\, Youngstown\, OH\nN
- eutral site
+ eutral site\nBroadcast: ESPN+ (streaming)
 LOCATION:Zidian Family Arena at Beeghly Center\, Youngstown\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918456@open-sports-cal
@@ -118,12 +130,14 @@ DTSTART:20261129T210000Z
 DTEND:20261130T000000Z
 SUMMARY:William & Mary Tribe @ James Madison Dukes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ James Mad
- ison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA
+ ison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Atlantic Union Bank Center\, Harrisonburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918457@open-sports-cal
@@ -131,11 +145,12 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Winston-Salem State Rams @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWinston-Salem State Rams @ Willi
- am & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ am & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -144,12 +159,14 @@ DTSTART:20261208T010000Z
 DTEND:20261208T040000Z
 SUMMARY:William & Mary Tribe @ Ole Miss Rebels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Ole Miss 
- Rebels\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+ Rebels\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS\nBroad
+ cast: SECN+ (streaming)
 LOCATION:The Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918459@open-sports-cal
@@ -157,12 +174,14 @@ DTSTART:20261211T000000Z
 DTEND:20261211T030000Z
 SUMMARY:William & Mary Tribe @ Delaware Blue Hens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Delaware 
- Blue Hens\nBob Carpenter Center\, Newark\, DE
+ Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911246@open-sports-cal
@@ -170,12 +189,13 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:William & Mary Tribe @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Richmond 
- Spiders\nRobins Center\, Richmond\, VA
+ Spiders\nRobins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918460@open-sports-cal
@@ -183,11 +203,12 @@ DTSTART:20261222T170000Z
 DTEND:20261222T200000Z
 SUMMARY:Coastal Carolina Chanticleers @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCoastal Carolina Chanticleers @ 
- William & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ William & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadca
+ st not announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -196,11 +217,12 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Drexel Dragons @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDrexel Dragons @ William & Mary 
- Tribe\nKaplan Arena\, Williamsburg\, VA
+ Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -209,11 +231,11 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Elon Phoenix @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ William & Mary Tr
- ibe\nKaplan Arena\, Williamsburg\, VA
+ ibe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,11 +244,12 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:William & Mary Tribe @ Northeastern Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Northeast
- ern Huskies\nCabot Center\, Boston\, MA
+ ern Huskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -235,11 +258,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:William & Mary Tribe @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Hofstra P
- ride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ ride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadc
+ ast: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -248,11 +272,12 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Hampton Pirates @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ William & Mary
-  Tribe\nKaplan Arena\, Williamsburg\, VA
+  Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -261,11 +286,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Campbell Fighting Camels @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Willi
- am & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ am & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -274,11 +300,12 @@ DTSTART:20270119T000000Z
 DTEND:20270119T030000Z
 SUMMARY:William & Mary Tribe @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ UNC Wilmi
- ngton Seahawks\nTrask Coliseum\, Wilmington\, NC
+ ngton Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not
+  announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -287,11 +314,12 @@ DTSTART:20270121T233000Z
 DTEND:20270122T023000Z
 SUMMARY:William & Mary Tribe @ Stony Brook Seawolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Stony Bro
- ok Seawolves\nStony Brook Arena\, Stony Brook\, NY
+ ok Seawolves\nStony Brook Arena\, Stony Brook\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Stony Brook Arena\, Stony Brook\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -300,11 +328,11 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:William & Mary Tribe @ Towson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Towson Ti
- gers\nSECU Arena\, Towson\, MD
+ gers\nSECU Arena\, Towson\, MD\nBroadcast: Broadcast not announced
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -313,11 +341,12 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Northeastern Huskies @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNortheastern Huskies @ William &
-  Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+  Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -326,11 +355,12 @@ DTSTART:20270204T230000Z
 DTEND:20270205T020000Z
 SUMMARY:UNC Wilmington Seahawks @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Willia
- m & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ m & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not
+  announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -339,11 +369,12 @@ DTSTART:20270206T170000Z
 DTEND:20270206T200000Z
 SUMMARY:Charleston Cougars @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Cougars @ William & M
- ary Tribe\nKaplan Arena\, Williamsburg\, VA
+ ary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -352,11 +383,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:William & Mary Tribe @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Campbell 
- Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\nB
+ roadcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -365,11 +397,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Monmouth Hawks @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ William & Mary 
- Tribe\nKaplan Arena\, Williamsburg\, VA
+ Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -378,11 +411,12 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:William & Mary Tribe @ North Carolina A&T Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ North Car
- olina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC
+ olina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC\nBroadcast: Broa
+ dcast not announced
 LOCATION:Corbett Sports Center\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,11 +425,11 @@ DTSTART:20270225T233000Z
 DTEND:20270226T023000Z
 SUMMARY:Towson Tigers @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTowson Tigers @ William & Mary T
- ribe\nKaplan Arena\, Williamsburg\, VA
+ ribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,11 +438,11 @@ DTSTART:20270228T000000Z
 DTEND:20270228T030000Z
 SUMMARY:William & Mary Tribe @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Elon Phoe
- nix\nSchar Center\, Elon\, NC
+ nix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -417,11 +451,12 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:William & Mary Tribe @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Hampton P
- irates\nConvocation Center (VA)\, Hampton\, VA
+ irates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

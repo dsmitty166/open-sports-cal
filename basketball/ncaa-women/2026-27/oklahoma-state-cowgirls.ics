@@ -12,13 +12,15 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Southern Jaguars @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Oklahoma St
- ate Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ ate Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907047@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T230000Z
 DTEND:20261107T020000Z
 SUMMARY:Morgan State Lady Bears @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Okla
- homa State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ homa State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907048@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261109T160000Z
 DTEND:20261109T190000Z
 SUMMARY:Northwestern State Lady Demons @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwestern State Lady Demons
-  @ Oklahoma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+  @ Oklahoma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907049@open-sports-cal
@@ -54,13 +60,14 @@ DTSTART:20261112T230000Z
 DTEND:20261113T020000Z
 SUMMARY:Oklahoma State Cowgirls @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Tuls
- a Golden Hurricane\nReynolds Center\, Tulsa\, OK
+ a Golden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPNU
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907050@open-sports-cal
@@ -68,13 +75,15 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:Oklahoma State Cowgirls @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Sout
- h Dakota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ h Dakota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBro
+ adcast: CBSSN
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907051@open-sports-cal
@@ -82,13 +91,15 @@ DTSTART:20261119T003000Z
 DTEND:20261119T033000Z
 SUMMARY:St. John's Red Storm @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ Oklahom
- a State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ a State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907052@open-sports-cal
@@ -96,13 +107,15 @@ DTSTART:20261121T003000Z
 DTEND:20261121T033000Z
 SUMMARY:Little Rock Trojans @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLittle Rock Trojans @ Oklahoma
-  State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+  State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907053@open-sports-cal
@@ -110,12 +123,13 @@ DTSTART:20261122T220000Z
 DTEND:20261123T010000Z
 SUMMARY:Wichita State Shockers @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Oklah
- oma State Cowgirls\nT-Mobile Center\, Kansas City\, MO\nNeutral site
+ oma State Cowgirls\nT-Mobile Center\, Kansas City\, MO\nNeutral site\nBroa
+ dcast: Broadcast not announced
 LOCATION:T-Mobile Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +138,13 @@ DTSTART:20261127T183000Z
 DTEND:20261127T213000Z
 SUMMARY:Oklahoma State Cowgirls @ Washington Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Wash
- ington Huskies\nAlico Arena\, Fort Myers\, FL\nNeutral site
+ ington Huskies\nAlico Arena\, Fort Myers\, FL\nNeutral site\nBroadcast: Br
+ oadcast not announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -138,12 +153,13 @@ DTSTART:20261128T183000Z
 DTEND:20261128T213000Z
 SUMMARY:Massachusetts Minutewomen @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Ok
- lahoma State Cowgirls\nAlico Arena\, Fort Myers\, FL\nNeutral site
+ lahoma State Cowgirls\nAlico Arena\, Fort Myers\, FL\nNeutral site\nBroadc
+ ast: Broadcast not announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -152,13 +168,15 @@ DTSTART:20261202T003000Z
 DTEND:20261202T033000Z
 SUMMARY:Oral Roberts Golden Eagles @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOral Roberts Golden Eagles @ O
- klahoma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ klahoma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907095@open-sports-cal
@@ -166,13 +184,14 @@ DTSTART:20261206T210000Z
 DTEND:20261207T000000Z
 SUMMARY:Oklahoma State Cowgirls @ South Carolina Gamecocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Sout
- h Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ h Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: ABC
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907096@open-sports-cal
@@ -180,13 +199,15 @@ DTSTART:20261212T170000Z
 DTEND:20261212T200000Z
 SUMMARY:Oklahoma State Cowgirls @ Oklahoma Sooners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Okla
- homa Sooners\nPaycom Center\, Oklahoma City\, OK\nNeutral site
+ homa Sooners\nPaycom Center\, Oklahoma City\, OK\nNeutral site\nBroadcast:
+  ESPN2
 LOCATION:Paycom Center\, Oklahoma City\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907097@open-sports-cal
@@ -194,13 +215,15 @@ DTSTART:20261215T003000Z
 DTEND:20261215T033000Z
 SUMMARY:North Texas Mean Green @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Texas Mean Green @ Oklah
- oma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ oma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922860@open-sports-cal
@@ -208,13 +231,15 @@ DTSTART:20261220T200000Z
 DTEND:20261220T230000Z
 SUMMARY:Oklahoma State Cowgirls @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Kans
- as Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+ as Jayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922864@open-sports-cal
@@ -222,13 +247,15 @@ DTSTART:20261231T003000Z
 DTEND:20261231T033000Z
 SUMMARY:Arizona Wildcats @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona Wildcats @ Oklahoma St
- ate Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ ate Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922879@open-sports-cal
@@ -236,12 +263,13 @@ DTSTART:20270104T010000Z
 DTEND:20270104T040000Z
 SUMMARY:West Virginia Mountaineers @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWest Virginia Mountaineers @ O
- klahoma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ klahoma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: 
+ Broadcast not announced
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +278,13 @@ DTSTART:20270107T003000Z
 DTEND:20270107T033000Z
 SUMMARY:Colorado Buffaloes @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Oklahoma 
- State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: Broadcas
+ t not announced
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,13 +293,14 @@ DTSTART:20270110T010000Z
 DTEND:20270110T040000Z
 SUMMARY:Oklahoma State Cowgirls @ Iowa State Cyclones
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Iowa
-  State Cyclones\nHilton Coliseum\, Ames\, IA
+  State Cyclones\nHilton Coliseum\, Ames\, IA\nBroadcast: FS1
 LOCATION:Hilton Coliseum\, Ames\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922898@open-sports-cal
@@ -278,12 +308,13 @@ DTSTART:20270114T003000Z
 DTEND:20270114T033000Z
 SUMMARY:Kansas Jayhawks @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ Oklahoma Sta
- te Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ te Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -292,13 +323,14 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Oklahoma State Cowgirls @ BYU Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ BYU 
- Cougars\nMarriott Center\, Provo\, UT
+ Cougars\nMarriott Center\, Provo\, UT\nBroadcast: CBSSN
 LOCATION:Marriott Center\, Provo\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922910@open-sports-cal
@@ -306,12 +338,13 @@ DTSTART:20270120T020000Z
 DTEND:20270120T050000Z
 SUMMARY:Oklahoma State Cowgirls @ Utah Utes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Utah
-  Utes\nJon M. Huntsman Center\, Salt Lake City\, UT
+  Utes\nJon M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: Broadcast 
+ not announced
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +353,13 @@ DTSTART:20270124T003000Z
 DTEND:20270124T033000Z
 SUMMARY:Cincinnati Bearcats @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCincinnati Bearcats @ Oklahoma
-  State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+  State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: Broadca
+ st not announced
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +368,13 @@ DTSTART:20270129T010000Z
 DTEND:20270129T040000Z
 SUMMARY:TCU Horned Frogs @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTCU Horned Frogs @ Oklahoma St
- ate Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ ate Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: Broadcast 
+ not announced
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +383,13 @@ DTSTART:20270131T200000Z
 DTEND:20270131T230000Z
 SUMMARY:Oklahoma State Cowgirls @ Houston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Hous
- ton Cougars\nFertitta Center\, Houston\, TX
+ ton Cougars\nFertitta Center\, Houston\, TX\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Fertitta Center\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +398,13 @@ DTSTART:20270204T233000Z
 DTEND:20270205T023000Z
 SUMMARY:Oklahoma State Cowgirls @ UCF Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ UCF 
- Knights\nAddition Financial Arena\, Orlando\, FL
+ Knights\nAddition Financial Arena\, Orlando\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:Addition Financial Arena\, Orlando\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +413,13 @@ DTSTART:20270207T230000Z
 DTEND:20270208T020000Z
 SUMMARY:Arizona State Sun Devils @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Okl
- ahoma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ ahoma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: Br
+ oadcast not announced
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -390,13 +428,14 @@ DTSTART:20270211T033000Z
 DTEND:20270211T063000Z
 SUMMARY:Oklahoma State Cowgirls @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Colo
- rado Buffaloes\nCU Events Center\, Boulder\, CO
+ rado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: FS1
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922968@open-sports-cal
@@ -404,13 +443,14 @@ DTSTART:20270215T180000Z
 DTEND:20270215T210000Z
 SUMMARY:Kansas State Wildcats @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas State Wildcats @ Oklaho
- ma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ ma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: Fox
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922983@open-sports-cal
@@ -418,12 +458,12 @@ DTSTART:20270221T210000Z
 DTEND:20270222T000000Z
 SUMMARY:Oklahoma State Cowgirls @ Baylor Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Bayl
- or Bears\nFoster Pavilion\, Waco\, TX
+ or Bears\nFoster Pavilion\, Waco\, TX\nBroadcast: Broadcast not announced
 LOCATION:Foster Pavilion\, Waco\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -432,13 +472,15 @@ DTSTART:20270224T233000Z
 DTEND:20270225T023000Z
 SUMMARY:Oklahoma State Cowgirls @ Texas Tech Lady Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Texa
- s Tech Lady Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ s Tech Lady Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: 
+ CBSSN
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922994@open-sports-cal
@@ -446,12 +488,13 @@ DTSTART:20270227T193000Z
 DTEND:20270227T223000Z
 SUMMARY:Iowa State Cyclones @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa State Cyclones @ Oklahoma
-  State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+  State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: FS1
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 END:VCALENDAR

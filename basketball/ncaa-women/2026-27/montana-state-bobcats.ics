@@ -12,13 +12,15 @@ DTSTART:20261102T180000Z
 DTEND:20261102T210000Z
 SUMMARY:Black Hills State Yellow Jackets @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBlack Hills State Yellow Jacke
- ts @ Montana State Bobcats\nWorthington Arena\, Bozeman\, MT
+ ts @ Montana State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917691@open-sports-cal
@@ -26,13 +28,14 @@ DTSTART:20261108T210000Z
 DTEND:20261109T000000Z
 SUMMARY:Portland Pilots @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPortland Pilots @ Montana Stat
- e Bobcats\nWorthington Arena\, Bozeman\, MT
+ e Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: ESPN+ (streaming)
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920493@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261115T210000Z
 DTEND:20261116T000000Z
 SUMMARY:Montana State Bobcats @ UNLV Lady Rebels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ UNLV L
- ady Rebels\nThe Pavilion\, Las Vegas\, NV
+ ady Rebels\nThe Pavilion\, Las Vegas\, NV\nBroadcast: MW+ (streaming)
 LOCATION:The Pavilion\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921426@open-sports-cal
@@ -54,12 +58,13 @@ DTSTART:20261120T010000Z
 DTEND:20261120T040000Z
 SUMMARY:Montana State Bobcats @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Iowa H
- awkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ awkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -68,12 +73,13 @@ DTSTART:20261124T210000Z
 DTEND:20261125T000000Z
 SUMMARY:Oklahoma Sooners @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Montana Sta
- te Bobcats\nThe Reef\, Jacksonville\, FL\nNeutral site
+ te Bobcats\nThe Reef\, Jacksonville\, FL\nNeutral site\nBroadcast: Broadca
+ st not announced
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -82,12 +88,13 @@ DTSTART:20261125T210000Z
 DTEND:20261126T000000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Montana State Bobcats\nThe Reef\, Jacksonville\, FL\nNeutral site
+ @ Montana State Bobcats\nThe Reef\, Jacksonville\, FL\nNeutral site\nBroad
+ cast: Broadcast not announced
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -96,13 +103,15 @@ DTSTART:20261205T210000Z
 DTEND:20261206T000000Z
 SUMMARY:Northern Arizona Lumberjacks @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Montana State Bobcats\nWorthington Arena\, Bozeman\, MT
+  Montana State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923483@open-sports-cal
@@ -110,13 +119,14 @@ DTSTART:20261208T010000Z
 DTEND:20261208T040000Z
 SUMMARY:Montana State Bobcats @ Houston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Housto
- n Cougars\nFertitta Center\, Houston\, TX
+ n Cougars\nFertitta Center\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Fertitta Center\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926991@open-sports-cal
@@ -124,13 +134,15 @@ DTSTART:20261211T020000Z
 DTEND:20261211T050000Z
 SUMMARY:Montana State-Billings Yellowjackets @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State-Billings Yellowj
- ackets @ Montana State Bobcats\nWorthington Arena\, Bozeman\, MT
+ ackets @ Montana State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926992@open-sports-cal
@@ -138,13 +150,15 @@ DTSTART:20261213T210000Z
 DTEND:20261214T000000Z
 SUMMARY:South Dakota State Jackrabbits @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota State Jackrabbits
-  @ Montana State Bobcats\nWorthington Arena\, Bozeman\, MT
+  @ Montana State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918908@open-sports-cal
@@ -152,12 +166,13 @@ DTSTART:20261219T220000Z
 DTEND:20261220T010000Z
 SUMMARY:Montana State Bobcats @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Oregon
-  Ducks\nMatthew Knight Arena\, Eugene\, OR
+  Ducks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -166,13 +181,15 @@ DTSTART:20261221T210000Z
 DTEND:20261222T000000Z
 SUMMARY:Montana State Bobcats @ Santa Clara Broncos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Santa 
- Clara Broncos\nLeavey Center\, Santa Clara\, CA
+ Clara Broncos\nLeavey Center\, Santa Clara\, CA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Leavey Center\, Santa Clara\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914362@open-sports-cal
@@ -180,13 +197,15 @@ DTSTART:20261231T220000Z
 DTEND:20270101T010000Z
 SUMMARY:Montana State Bobcats @ Portland State Vikings
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Portla
- nd State Vikings\nViking Pavilion\, Portland\, OR
+ nd State Vikings\nViking Pavilion\, Portland\, OR\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Viking Pavilion\, Portland\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914368@open-sports-cal
@@ -194,12 +213,13 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Montana State Bobcats @ Northern Colorado Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Northe
- rn Colorado Bears\nBank of Colorado Arena\, Greeley\, CO
+ rn Colorado Bears\nBank of Colorado Arena\, Greeley\, CO\nBroadcast: Broad
+ cast not announced
 LOCATION:Bank of Colorado Arena\, Greeley\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +228,13 @@ DTSTART:20270108T020000Z
 DTEND:20270108T050000Z
 SUMMARY:Idaho State Bengals @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Montana 
- State Bobcats\nWorthington Arena\, Bozeman\, MT
+ State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadcast not 
+ announced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +243,13 @@ DTSTART:20270109T210000Z
 DTEND:20270110T000000Z
 SUMMARY:Weber State Wildcats @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWeber State Wildcats @ Montana
-  State Bobcats\nWorthington Arena\, Bozeman\, MT
+  State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadcast not
+  announced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +258,13 @@ DTSTART:20270115T020000Z
 DTEND:20270115T050000Z
 SUMMARY:Montana State Bobcats @ Eastern Washington Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Easter
- n Washington Eagles\nReese Court\, Cheney\, WA
+ n Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +273,12 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Montana State Bobcats @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Idaho 
- Vandals\nICCU Arena\, Moscow\, ID
+ Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announced
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +287,13 @@ DTSTART:20270119T020000Z
 DTEND:20270119T050000Z
 SUMMARY:Southern Utah Thunderbirds @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ M
- ontana State Bobcats\nWorthington Arena\, Bozeman\, MT
+ ontana State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadca
+ st not announced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +302,13 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Montana Lady Griz @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana Lady Griz @ Montana St
- ate Bobcats\nWorthington Arena\, Bozeman\, MT
+ ate Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +317,13 @@ DTSTART:20270126T020000Z
 DTEND:20270126T050000Z
 SUMMARY:Montana State Bobcats @ Utah Tech Trailblazers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Utah T
- ech Trailblazers\nBurns Arena\, St. George\, UT
+ ech Trailblazers\nBurns Arena\, St. George\, UT\nBroadcast: Broadcast not 
+ announced
 LOCATION:Burns Arena\, St. George\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +332,13 @@ DTSTART:20270129T010000Z
 DTEND:20270129T040000Z
 SUMMARY:Montana State Bobcats @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Northe
- rn Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ rn Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroad
+ cast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +347,13 @@ DTSTART:20270205T020000Z
 DTEND:20270205T050000Z
 SUMMARY:Northern Colorado Bears @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Colorado Bears @ Mont
- ana State Bobcats\nWorthington Arena\, Bozeman\, MT
+ ana State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadcast 
+ not announced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +362,13 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:Portland State Vikings @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPortland State Vikings @ Monta
- na State Bobcats\nWorthington Arena\, Bozeman\, MT
+ na State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +377,13 @@ DTSTART:20270212T020000Z
 DTEND:20270212T050000Z
 SUMMARY:Idaho Vandals @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Montana State 
- Bobcats\nWorthington Arena\, Bozeman\, MT
+ Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +392,13 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Eastern Washington Eagles @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Washington Eagles @ Mo
- ntana State Bobcats\nWorthington Arena\, Bozeman\, MT
+ ntana State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadcas
+ t not announced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +407,13 @@ DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:Montana State Bobcats @ Weber State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Weber 
- State Wildcats\nDee Events Center\, Ogden\, UT
+ State Wildcats\nDee Events Center\, Ogden\, UT\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Dee Events Center\, Ogden\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +422,13 @@ DTSTART:20270220T210000Z
 DTEND:20270221T000000Z
 SUMMARY:Montana State Bobcats @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Idaho 
- State Bengals\nReed Gym\, Pocatello\, ID
+ State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +437,13 @@ DTSTART:20270223T013000Z
 DTEND:20270223T043000Z
 SUMMARY:Montana State Bobcats @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Southe
- rn Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ rn Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroadc
+ ast: Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +452,13 @@ DTSTART:20270227T210000Z
 DTEND:20270228T000000Z
 SUMMARY:Montana State Bobcats @ Montana Lady Griz
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Montan
- a Lady Griz\nDahlberg Arena\, Missoula\, MT
+ a Lady Griz\nDahlberg Arena\, Missoula\, MT\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Dahlberg Arena\, Missoula\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +467,13 @@ DTSTART:20270302T020000Z
 DTEND:20270302T050000Z
 SUMMARY:Utah Tech Trailblazers @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah Tech Trailblazers @ Monta
- na State Bobcats\nWorthington Arena\, Bozeman\, MT
+ na State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 END:VCALENDAR

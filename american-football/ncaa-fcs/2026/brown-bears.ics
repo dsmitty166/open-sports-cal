@@ -12,12 +12,13 @@ DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 SUMMARY:Brown Bears @ New Haven Chargers
 DESCRIPTION:NCAA FCS Football 2026\nBrown Bears @ New Haven Chargers\nRalph
-  F. DellaCamera Stadium\, West Haven\, CT
+  F. DellaCamera Stadium\, West Haven\, CT\nBroadcast: NEC Front Row
 LOCATION:Ralph F. DellaCamera Stadium\, West Haven\, CT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867806@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260925T230000Z
 DTEND:20260926T020000Z
 SUMMARY:Harvard Crimson @ Brown Bears
 DESCRIPTION:NCAA FCS Football 2026\nHarvard Crimson @ Brown Bears\nCentrevi
- lle Bank Stadium\, Pawtucket\, RI
+ lle Bank Stadium\, Pawtucket\, RI\nBroadcast: ESPN2
 LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866654@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Brown Bears @ Rhode Island Rams
 DESCRIPTION:NCAA FCS Football 2026\nBrown Bears @ Rhode Island Rams\nCentre
- ville Bank Stadium\, Pawtucket\, RI
+ ville Bank Stadium\, Pawtucket\, RI\nBroadcast: FloSports (streaming)
 LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866662@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:Bryant Bulldogs @ Brown Bears
 DESCRIPTION:NCAA FCS Football 2026\nBryant Bulldogs @ Brown Bears\nBrown St
- adium (RI)\, Providence\, RI
+ adium (RI)\, Providence\, RI\nBroadcast: ESPN+ (streaming) / NESN+ (stream
+ ing)
 LOCATION:Brown Stadium (RI)\, Providence\, RI
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / NESN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867807@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261017T160000Z
 DTEND:20261017T190000Z
 SUMMARY:Brown Bears @ Princeton Tigers
 DESCRIPTION:NCAA FCS Football 2026\nBrown Bears @ Princeton Tigers\nPrincet
- on Stadium\, Princeton\, NJ
+ on Stadium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Princeton Stadium\, Princeton\, NJ
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867808@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:Cornell Big Red @ Brown Bears
 DESCRIPTION:NCAA FCS Football 2026\nCornell Big Red @ Brown Bears\nBrown St
- adium (RI)\, Providence\, RI
+ adium (RI)\, Providence\, RI\nBroadcast: ESPN+ (streaming)
 LOCATION:Brown Stadium (RI)\, Providence\, RI
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867809@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Pennsylvania Quakers @ Brown Bears
 DESCRIPTION:NCAA FCS Football 2026\nPennsylvania Quakers @ Brown Bears\nBro
- wn Stadium (RI)\, Providence\, RI
+ wn Stadium (RI)\, Providence\, RI\nBroadcast: ESPN+ (streaming)
 LOCATION:Brown Stadium (RI)\, Providence\, RI
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867810@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:Brown Bears @ Yale Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nBrown Bears @ Yale Bulldogs\nYale Bowl\
- , New Haven\, CT
+ , New Haven\, CT\nBroadcast: ESPN+ (streaming)
 LOCATION:Yale Bowl\, New Haven\, CT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867811@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Columbia Lions @ Brown Bears
 DESCRIPTION:NCAA FCS Football 2026\nColumbia Lions @ Brown Bears\nBrown Sta
- dium (RI)\, Providence\, RI
+ dium (RI)\, Providence\, RI\nBroadcast: ESPN+ (streaming) / NESN
 LOCATION:Brown Stadium (RI)\, Providence\, RI
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / NESN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867812@open-sports-cal
@@ -129,11 +139,12 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Brown Bears @ Dartmouth Big Green
 DESCRIPTION:NCAA FCS Football 2026\nBrown Bears @ Dartmouth Big Green\nMemo
- rial Field (Dartmouth)\, Hanover\, NH
+ rial Field (Dartmouth)\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Memorial Field (Dartmouth)\, Hanover\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,14 @@ DTSTART:20260828T230000Z
 DTEND:20260829T020000Z
 SUMMARY:New Hampshire Wildcats @ UAlbany Great Danes
 DESCRIPTION:NCAA FCS Football 2026\nNew Hampshire Wildcats @ UAlbany Great 
- Danes\nBob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY
+ Danes\nBob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY\nBroadcast
+ : FloSports (streaming)
 LOCATION:Bob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866409@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260903T230000Z
 DTEND:20260904T020000Z
 SUMMARY:UAlbany Great Danes @ Buffalo Bulls
 DESCRIPTION:NCAA FCS Football 2026\nUAlbany Great Danes @ Buffalo Bulls\nBr
- oadview Stadium\, Buffalo\, NY
+ oadview Stadium\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Stadium\, Buffalo\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866632@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:UAlbany Great Danes @ Long Island University Sharks
 DESCRIPTION:NCAA FCS Football 2026\nUAlbany Great Danes @ Long Island Unive
- rsity Sharks\nShark Stadium\, Brookville\, NY
+ rsity Sharks\nShark Stadium\, Brookville\, NY\nBroadcast: NEC Front Row
 LOCATION:Shark Stadium\, Brookville\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866635@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20260919T193000Z
 DTEND:20260919T223000Z
 SUMMARY:Monmouth Hawks @ UAlbany Great Danes
 DESCRIPTION:NCAA FCS Football 2026\nMonmouth Hawks @ UAlbany Great Danes\nB
- ob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY
+ ob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY\nBroadcast: FloSpo
+ rts (streaming)
 LOCATION:Bob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866646@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20260926T190000Z
 DTEND:20260926T220000Z
 SUMMARY:UAlbany Great Danes @ Princeton Tigers
 DESCRIPTION:NCAA FCS Football 2026\nUAlbany Great Danes @ Princeton Tigers\
- nPrinceton Stadium\, Princeton\, NJ
+ nPrinceton Stadium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Princeton Stadium\, Princeton\, NJ
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866655@open-sports-cal
@@ -77,12 +84,14 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Delaware State Hornets @ UAlbany Great Danes
 DESCRIPTION:NCAA FCS Football 2026\nDelaware State Hornets @ UAlbany Great 
- Danes\nBob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY
+ Danes\nBob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY\nBroadcast
+ : FloSports (streaming)
 LOCATION:Bob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866666@open-sports-cal
@@ -90,12 +99,14 @@ DTSTART:20261017T183000Z
 DTEND:20261017T213000Z
 SUMMARY:UAlbany Great Danes @ Stony Brook Seawolves
 DESCRIPTION:NCAA FCS Football 2026\nUAlbany Great Danes @ Stony Brook Seawo
- lves\nKenneth P. LaValle Stadium\, Stony Brook\, NY
+ lves\nKenneth P. LaValle Stadium\, Stony Brook\, NY\nBroadcast: SNY / FloS
+ ports (streaming)
 LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SNY / FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866670@open-sports-cal
@@ -103,12 +114,14 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:UAlbany Great Danes @ Rhode Island Rams
 DESCRIPTION:NCAA FCS Football 2026\nUAlbany Great Danes @ Rhode Island Rams
- \nCentreville Bank Stadium\, Pawtucket\, RI
+ \nCentreville Bank Stadium\, Pawtucket\, RI\nBroadcast: FloSports (streami
+ ng)
 LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866675@open-sports-cal
@@ -116,12 +129,14 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Campbell Fighting Camels @ UAlbany Great Danes
 DESCRIPTION:NCAA FCS Football 2026\nCampbell Fighting Camels @ UAlbany Grea
- t Danes\nBob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY
+ t Danes\nBob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY\nBroadca
+ st: FloSports (streaming)
 LOCATION:Bob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866683@open-sports-cal
@@ -129,12 +144,13 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:UAlbany Great Danes @ Bryant Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nUAlbany Great Danes @ Bryant Bulldogs\n
- Beirne Stadium\, Smithfield\, RI
+ Beirne Stadium\, Smithfield\, RI\nBroadcast: FloSports (streaming)
 LOCATION:Beirne Stadium\, Smithfield\, RI
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866687@open-sports-cal
@@ -142,12 +158,14 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Maine Black Bears @ UAlbany Great Danes
 DESCRIPTION:NCAA FCS Football 2026\nMaine Black Bears @ UAlbany Great Danes
- \nBob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY
+ \nBob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY\nBroadcast: Flo
+ Sports (streaming)
 LOCATION:Bob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866694@open-sports-cal
@@ -155,11 +173,12 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:UAlbany Great Danes @ North Carolina A&T Aggies
 DESCRIPTION:NCAA FCS Football 2026\nUAlbany Great Danes @ North Carolina A&
- T Aggies\nTruist Stadium\, Greensboro\, NC
+ T Aggies\nTruist Stadium\, Greensboro\, NC\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Truist Stadium\, Greensboro\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,13 +12,15 @@ DTSTART:20261102T220000Z
 DTEND:20261103T010000Z
 SUMMARY:Apprentice School Builders @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApprentice School Builders @ L
- ongwood Lancers\nJoan Perry Brock Center\, Farmville\, VA
+ ongwood Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922323@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:Virginia Union Panthers @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Union Panthers @ Long
- wood Lancers\nJoan Perry Brock Center\, Farmville\, VA
+ wood Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922324@open-sports-cal
@@ -40,13 +44,14 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Longwood Lancers @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Charlotte 4
- 9ers\nHalton Arena\, Charlotte\, NC
+ 9ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922325@open-sports-cal
@@ -54,13 +59,14 @@ DTSTART:20261112T230000Z
 DTEND:20261113T020000Z
 SUMMARY:Longwood Lancers @ Pennsylvania Quakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Pennsylvani
- a Quakers\nThe Palestra\, Philadelphia\, PA
+ a Quakers\nThe Palestra\, Philadelphia\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922326@open-sports-cal
@@ -68,13 +74,15 @@ DTSTART:20261117T000000Z
 DTEND:20261117T030000Z
 SUMMARY:Emory & Henry Wasps @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEmory & Henry Wasps @ Longwood
-  Lancers\nJoan Perry Brock Center\, Farmville\, VA
+  Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922327@open-sports-cal
@@ -82,13 +90,14 @@ DTSTART:20261120T000000Z
 DTEND:20261120T030000Z
 SUMMARY:Longwood Lancers @ Troy Trojans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Troy Trojan
- s\nTrojan Arena\, Troy\, AL
+ s\nTrojan Arena\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921080@open-sports-cal
@@ -96,13 +105,15 @@ DTSTART:20261124T190000Z
 DTEND:20261124T220000Z
 SUMMARY:George Mason Patriots @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorge Mason Patriots @ Longwo
- od Lancers\nJoan Perry Brock Center\, Farmville\, VA
+ od Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922328@open-sports-cal
@@ -110,12 +121,13 @@ DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:Longwood Lancers @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ William & M
- ary Tribe\nKaplan Arena\, Williamsburg\, VA
+ ary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +136,15 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Longwood Lancers @ UNC Greensboro Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ UNC Greensb
- oro Spartans\nBodford Arena\, Greensboro\, NC
+ oro Spartans\nBodford Arena\, Greensboro\, NC\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Bodford Arena\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922330@open-sports-cal
@@ -138,13 +152,15 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Furman Paladins @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFurman Paladins @ Longwood Lan
- cers\nJoan Perry Brock Center\, Farmville\, VA
+ cers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913870@open-sports-cal
@@ -152,13 +168,14 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Longwood Lancers @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ South Flori
- da Bulls\nYuengling Center\, Tampa\, FL
+ da Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922331@open-sports-cal
@@ -166,13 +183,15 @@ DTSTART:20261220T190000Z
 DTEND:20261220T220000Z
 SUMMARY:Longwood Lancers @ Stetson Hatters
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Stetson Hat
- ters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ ters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918591@open-sports-cal
@@ -181,12 +200,12 @@ DTEND:20261221T220000Z
 SUMMARY:Longwood Lancers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Bethune-Coo
  kman Wildcats\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\
- nNeutral site
+ nNeutral site\nBroadcast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -195,13 +214,15 @@ DTSTART:20261230T190000Z
 DTEND:20261230T220000Z
 SUMMARY:Presbyterian Blue Hose @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPresbyterian Blue Hose @ Longw
- ood Lancers\nJoan Perry Brock Center\, Farmville\, VA
+ ood Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923839@open-sports-cal
@@ -209,12 +230,13 @@ DTSTART:20270106T160000Z
 DTEND:20270106T190000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs 
- @ Longwood Lancers\nJoan Perry Brock Center\, Farmville\, VA
+ @ Longwood Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: B
+ roadcast not announced
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -223,12 +245,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Longwood Lancers @ Charleston Southern Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Charleston 
- Southern Buccaneers\nBuccaneer Fieldhouse\, Charleston\, SC
+ Southern Buccaneers\nBuccaneer Fieldhouse\, Charleston\, SC\nBroadcast: Br
+ oadcast not announced
 LOCATION:Buccaneer Fieldhouse\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -237,12 +260,13 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Radford Highlanders @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRadford Highlanders @ Longwood
-  Lancers\nJoan Perry Brock Center\, Farmville\, VA
+  Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -251,12 +275,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Longwood Lancers @ Winthrop Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Winthrop Ea
- gles\nWinthrop Coliseum\, Rock Hill\, SC
+ gles\nWinthrop Coliseum\, Rock Hill\, SC\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Winthrop Coliseum\, Rock Hill\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -265,12 +290,13 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Longwood Lancers @ High Point Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ High Point 
- Panthers\nQubein Center\, High Point\, NC
+ Panthers\nQubein Center\, High Point\, NC\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Qubein Center\, High Point\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -279,12 +305,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:UNC Asheville Bulldogs @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Asheville Bulldogs @ Longw
- ood Lancers\nJoan Perry Brock Center\, Farmville\, VA
+ ood Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -293,12 +320,13 @@ DTSTART:20270127T233000Z
 DTEND:20270128T023000Z
 SUMMARY:Longwood Lancers @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ South Carol
- ina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ ina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcast: Bro
+ adcast not announced
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +335,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Charleston Southern Buccaneers @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Southern Buccaneers
-  @ Longwood Lancers\nJoan Perry Brock Center\, Farmville\, VA
+  @ Longwood Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: 
+ Broadcast not announced
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -321,12 +350,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Winthrop Eagles @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWinthrop Eagles @ Longwood Lan
- cers\nJoan Perry Brock Center\, Farmville\, VA
+ cers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -335,12 +365,13 @@ DTSTART:20270210T233000Z
 DTEND:20270211T023000Z
 SUMMARY:Longwood Lancers @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ UNC Ashevil
- le Bulldogs\nKimmel Arena\, Asheville\, NC
+ le Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,12 +380,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Longwood Lancers @ Presbyterian Blue Hose
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Presbyteria
- n Blue Hose\nTempleton Center\, Clinton\, SC
+ n Blue Hose\nTempleton Center\, Clinton\, SC\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Templeton Center\, Clinton\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +395,13 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:South Carolina Upstate Spartans @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
- s @ Longwood Lancers\nJoan Perry Brock Center\, Farmville\, VA
+ s @ Longwood Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast:
+  Broadcast not announced
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +410,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:High Point Panthers @ Longwood Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHigh Point Panthers @ Longwood
-  Lancers\nJoan Perry Brock Center\, Farmville\, VA
+  Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +425,13 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:Longwood Lancers @ Radford Highlanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Radford Hig
- hlanders\nThe Dedmon Center\, Radford\, VA
+ hlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +440,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Longwood Lancers @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Gardner-Web
- b Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ b Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadcast: B
+ roadcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

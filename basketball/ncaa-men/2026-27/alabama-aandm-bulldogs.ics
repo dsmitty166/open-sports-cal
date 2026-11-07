@@ -12,12 +12,13 @@ DTSTART:20261103T013000Z
 DTEND:20261103T043000Z
 SUMMARY:Oakwood Ambassadors @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOakwood Ambassadors @ Alabama A&
- M Bulldogs\nEvent Center\, Huntsville\, AL
+ M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: SWAC TV (streaming)
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925641@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:Mississippi U for Women Owls @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi U for Women Owls @ A
- labama A&M Bulldogs\nEvent Center\, Huntsville\, AL
+ labama A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: SWAC TV (s
+ treaming)
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909502@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261110T020000Z
 DTEND:20261110T050000Z
 SUMMARY:Alabama A&M Bulldogs @ DePaul Blue Demons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ DePaul Bl
- ue Demons\nWintrust Arena\, Chicago\, IL
+ ue Demons\nWintrust Arena\, Chicago\, IL\nBroadcast: truTV
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922250@open-sports-cal
@@ -51,11 +55,12 @@ DTSTART:20261113T010000Z
 DTEND:20261113T040000Z
 SUMMARY:West Florida Argonauts @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Florida Argonauts @ Alabama
-  A&M Bulldogs\nEvent Center\, Huntsville\, AL
+  A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -64,11 +69,12 @@ DTSTART:20261115T200000Z
 DTEND:20261115T230000Z
 SUMMARY:Cleveland State Vikings @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCleveland State Vikings @ Alabam
- a A&M Bulldogs\nEvent Center\, Huntsville\, AL
+ a A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +83,11 @@ DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
 SUMMARY:Lipscomb Bisons @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLipscomb Bisons @ Alabama A&M Bu
- lldogs\nEvent Center\, Huntsville\, AL
+ lldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast not announced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +96,14 @@ DTSTART:20261125T010000Z
 DTEND:20261125T040000Z
 SUMMARY:Alabama A&M Bulldogs @ North Alabama Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ North Ala
- bama Lions\nCB&S Bank Arena at Flowers Hall\, Florence\, AL
+ bama Lions\nCB&S Bank Arena at Flowers Hall\, Florence\, AL\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:CB&S Bank Arena at Flowers Hall\, Florence\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920978@open-sports-cal
@@ -103,11 +111,12 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Alabama A&M Bulldogs @ Chattanooga Mocs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Chattanoo
- ga Mocs\nMcKenzie Arena\, Chattanooga\, TN
+ ga Mocs\nMcKenzie Arena\, Chattanooga\, TN\nBroadcast: Broadcast not annou
+ nced
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,12 +125,14 @@ DTSTART:20261208T000000Z
 DTEND:20261208T030000Z
 SUMMARY:Alabama A&M Bulldogs @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Mississip
- pi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ pi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SEC Net
+ work
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906787@open-sports-cal
@@ -129,12 +140,13 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Alabama A&M Bulldogs @ Georgia Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Georgia B
- ulldogs\nStegeman Coliseum\, Athens\, GA
+ ulldogs\nStegeman Coliseum\, Athens\, GA\nBroadcast: SECN+ (streaming)
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925643@open-sports-cal
@@ -142,11 +154,12 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:LeMoyne-Owen Magicians @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLeMoyne-Owen Magicians @ Alabama
-  A&M Bulldogs\nEvent Center\, Huntsville\, AL
+  A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +168,14 @@ DTSTART:20261219T213000Z
 DTEND:20261220T003000Z
 SUMMARY:Alabama A&M Bulldogs @ Tennessee State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Tennessee
-  State Tigers\nGentry Center\, Nashville\, TN
+  State Tigers\nGentry Center\, Nashville\, TN\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Gentry Center\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918965@open-sports-cal
@@ -168,12 +183,13 @@ DTSTART:20261222T180000Z
 DTEND:20261222T210000Z
 SUMMARY:Alabama A&M Bulldogs @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ NC State 
- Wolfpack\nLenovo Center\, Raleigh\, NC
+ Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ACCNX (streaming)
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925644@open-sports-cal
@@ -181,11 +197,12 @@ DTSTART:20261231T000000Z
 DTEND:20261231T030000Z
 SUMMARY:William Carey Crusaders @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam Carey Crusaders @ Alabam
- a A&M Bulldogs\nEvent Center\, Huntsville\, AL
+ a A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +211,12 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
-  @ Alabama A&M Bulldogs\nEvent Center\, Huntsville\, AL
+  @ Alabama A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadc
+ ast not announced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +225,12 @@ DTSTART:20270105T003000Z
 DTEND:20270105T033000Z
 SUMMARY:Mississippi Valley State Delta Devils @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi Valley State Delta D
- evils @ Alabama A&M Bulldogs\nEvent Center\, Huntsville\, AL
+ evils @ Alabama A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: B
+ roadcast not announced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +239,12 @@ DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Alabama A&M Bulldogs @ Alcorn State Braves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Alcorn St
- ate Braves\nDavey L. Whitney Complex\, Lorman\, MS\nStart time TBD
+ ate Braves\nDavey L. Whitney Complex\, Lorman\, MS\nStart time TBD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Davey L. Whitney Complex\, Lorman\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921043@open-sports-cal
@@ -232,11 +252,12 @@ DTSTART:20270111T210000Z
 DTEND:20270112T000000Z
 SUMMARY:Alabama A&M Bulldogs @ Jackson State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Jackson S
- tate Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\, MS
+ tate Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\, MS\
+ nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -245,11 +266,12 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Alabama State Hornets @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama State Hornets @ Alabama 
- A&M Bulldogs\nEvent Center\, Huntsville\, AL
+ A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -258,11 +280,12 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Texas Southern Tigers @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Southern Tigers @ Alabama 
- A&M Bulldogs\nEvent Center\, Huntsville\, AL
+ A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -271,11 +294,12 @@ DTSTART:20270126T000000Z
 DTEND:20270126T030000Z
 SUMMARY:Prairie View A&M Panthers @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrairie View A&M Panthers @ Alab
- ama A&M Bulldogs\nEvent Center\, Huntsville\, AL
+ ama A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast not
+  announced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -284,11 +308,12 @@ DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Alabama A&M Bulldogs @ Florida A&M Rattlers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Florida A
- &M Rattlers\nAl Lawson Center\, Tallahassee\, FL\nStart time TBD
+ &M Rattlers\nAl Lawson Center\, Tallahassee\, FL\nStart time TBD\nBroadcas
+ t: Broadcast not announced
 LOCATION:Al Lawson Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925651@open-sports-cal
@@ -297,10 +322,11 @@ DTEND;VALUE=DATE:20270202
 SUMMARY:Alabama A&M Bulldogs @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Bethune-C
  ookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nStart time TBD
+ \nBroadcast: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925652@open-sports-cal
@@ -308,11 +334,12 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:Southern Jaguars @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Jaguars @ Alabama A&M B
- ulldogs\nEvent Center\, Huntsville\, AL
+ ulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast not announce
+ d
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -321,11 +348,12 @@ DTSTART:20270209T000000Z
 DTEND:20270209T030000Z
 SUMMARY:Grambling Tigers @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Alabama A&M B
- ulldogs\nEvent Center\, Huntsville\, AL
+ ulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast not announce
+ d
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -335,11 +363,11 @@ DTEND;VALUE=DATE:20270214
 SUMMARY:Alabama A&M Bulldogs @ Mississippi Valley State Delta Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Mississip
  pi Valley State Delta Devils\nR.W. Harrison HPER Complex\, Itta Bena\, MS\
- nStart time TBD
+ nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:R.W. Harrison HPER Complex\, Itta Bena\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925655@open-sports-cal
@@ -348,11 +376,11 @@ DTEND;VALUE=DATE:20270216
 SUMMARY:Alabama A&M Bulldogs @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Arkansas-
  Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nStart time
-  TBD
+  TBD\nBroadcast: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929442@open-sports-cal
@@ -360,11 +388,12 @@ DTSTART:20270219T013000Z
 DTEND:20270219T043000Z
 SUMMARY:Florida A&M Rattlers @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida A&M Rattlers @ Alabama A
- &M Bulldogs\nEvent Center\, Huntsville\, AL
+ &M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -373,11 +402,12 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Bethune-Cookman Wildcats @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Alaba
- ma A&M Bulldogs\nEvent Center\, Huntsville\, AL\nStart time TBD
+ ma A&M Bulldogs\nEvent Center\, Huntsville\, AL\nStart time TBD\nBroadcast
+ : Broadcast not announced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925658@open-sports-cal
@@ -385,11 +415,12 @@ DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Alabama A&M Bulldogs @ Alabama State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Alabama S
- tate Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nStart time TBD
+ tate Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nStart time TBD\nBroad
+ cast: Broadcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925659@open-sports-cal
@@ -398,11 +429,11 @@ DTEND;VALUE=DATE:20270303
 SUMMARY:Alabama A&M Bulldogs @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Grambling
   Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart time TB
- D
+ D\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925660@open-sports-cal
@@ -410,10 +441,11 @@ DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:Alabama A&M Bulldogs @ Southern Jaguars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Southern 
- Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nStart time TBD
+ Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nStart time TBD\nBr
+ oadcast: Broadcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

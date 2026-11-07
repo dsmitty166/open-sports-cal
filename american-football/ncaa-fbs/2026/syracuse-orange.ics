@@ -12,12 +12,14 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:New Hampshire Wildcats @ Syracuse Orange
 DESCRIPTION:NCAA FBS Football 2026\nNew Hampshire Wildcats @ Syracuse Orang
- e\nJMA Wireless Dome\, Syracuse\, NY
+ e\nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: ACC Network / ACCNX (stre
+ aming)
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network / ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858216@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260912T193000Z
 DTEND:20260912T223000Z
 SUMMARY:California Golden Bears @ Syracuse Orange
 DESCRIPTION:NCAA FBS Football 2026\nCalifornia Golden Bears @ Syracuse Oran
- ge\nJMA Wireless Dome\, Syracuse\, NY
+ ge\nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: ACC Network
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858225@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260917T233000Z
 DTEND:20260918T023000Z
 SUMMARY:Syracuse Orange @ Pittsburgh Panthers
 DESCRIPTION:NCAA FBS Football 2026\nSyracuse Orange @ Pittsburgh Panthers\n
- Acrisure Stadium\, Pittsburgh\, PA
+ Acrisure Stadium\, Pittsburgh\, PA\nBroadcast: ESPN
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858252@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Syracuse Orange @ UConn Huskies
 DESCRIPTION:NCAA FBS Football 2026\nSyracuse Orange @ UConn Huskies\nPratt 
- & Whitney Stadium\, East Hartford\, CT
+ & Whitney Stadium\, East Hartford\, CT\nBroadcast: CBSSN
 LOCATION:Pratt & Whitney Stadium\, East Hartford\, CT
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858258@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261010T233000Z
 DTEND:20261011T023000Z
 SUMMARY:Syracuse Orange @ Virginia Cavaliers
 DESCRIPTION:NCAA FBS Football 2026\nSyracuse Orange @ Virginia Cavaliers\nS
- cott Stadium\, Charlottesville\, VA
+ cott Stadium\, Charlottesville\, VA\nBroadcast: ACC Network
 LOCATION:Scott Stadium\, Charlottesville\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858265@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261017T233000Z
 DTEND:20261018T023000Z
 SUMMARY:Louisville Cardinals @ Syracuse Orange
 DESCRIPTION:NCAA FBS Football 2026\nLouisville Cardinals @ Syracuse Orange\
- nJMA Wireless Dome\, Syracuse\, NY
+ nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: ACC Network
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858275@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261024T233000Z
 DTEND:20261025T023000Z
 SUMMARY:Syracuse Orange @ North Carolina Tar Heels
 DESCRIPTION:NCAA FBS Football 2026\nSyracuse Orange @ North Carolina Tar He
- els\nKenan Stadium\, Chapel Hill\, NC
+ els\nKenan Stadium\, Chapel Hill\, NC\nBroadcast: ACC Network
 LOCATION:Kenan Stadium\, Chapel Hill\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858278@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:SMU Mustangs @ Syracuse Orange
 DESCRIPTION:NCAA FBS Football 2026\nSMU Mustangs @ Syracuse Orange\nJMA Wir
- eless Dome\, Syracuse\, NY
+ eless Dome\, Syracuse\, NY\nBroadcast: ESPN2
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858285@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:Clemson Tigers @ Syracuse Orange
 DESCRIPTION:NCAA FBS Football 2026\nClemson Tigers @ Syracuse Orange\nJMA W
- ireless Dome\, Syracuse\, NY
+ ireless Dome\, Syracuse\, NY\nBroadcast: ESPN2
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858300@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Syracuse Orange @ NC State Wolfpack
 DESCRIPTION:NCAA FBS Football 2026\nSyracuse Orange @ NC State Wolfpack\nCa
- rter-Finley Stadium\, Raleigh\, NC
+ rter-Finley Stadium\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Carter-Finley Stadium\, Raleigh\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858309@open-sports-cal
@@ -143,10 +154,11 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:Syracuse Orange @ Boston College Eagles
 DESCRIPTION:NCAA FBS Football 2026\nSyracuse Orange @ Boston College Eagles
  \nAlumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA\nStart time TBD
+ \nBroadcast: Broadcast not announced
 LOCATION:Alumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858314@open-sports-cal
@@ -154,10 +166,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Notre Dame Fighting Irish @ Syracuse Orange
 DESCRIPTION:NCAA FBS Football 2026\nNotre Dame Fighting Irish @ Syracuse Or
- ange\nJMA Wireless Dome\, Syracuse\, NY\nStart time TBD
+ ange\nJMA Wireless Dome\, Syracuse\, NY\nStart time TBD\nBroadcast: Broadc
+ ast not announced
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

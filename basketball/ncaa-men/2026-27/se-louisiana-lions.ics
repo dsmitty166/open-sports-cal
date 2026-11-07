@@ -12,12 +12,13 @@ DTSTART:20261105T010000Z
 DTEND:20261105T040000Z
 SUMMARY:SE Louisiana Lions @ Auburn Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Auburn Tige
- rs\nNeville Arena\, Auburn\, AL
+ rs\nNeville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920816@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261108T010000Z
 DTEND:20261108T040000Z
 SUMMARY:SE Louisiana Lions @ Little Rock Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Little Rock
-  Trojans\nJack Stephens Center\, Little Rock\, AR
+  Trojans\nJack Stephens Center\, Little Rock\, AR\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Jack Stephens Center\, Little Rock\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920817@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261111T013000Z
 DTEND:20261111T043000Z
 SUMMARY:SE Louisiana Lions @ Ole Miss Rebels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Ole Miss Re
- bels\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+ bels\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS\nBroadca
+ st: SECN+ (streaming)
 LOCATION:The Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920808@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20261117T013000Z
 DTEND:20261117T043000Z
 SUMMARY:SE Louisiana Lions @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Texas A&M A
- ggies\nReed Arena\, College Station\, TX
+ ggies\nReed Arena\, College Station\, TX\nBroadcast: SECN+ (streaming)
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920818@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:SE Louisiana Lions @ Kennesaw State Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Kennesaw St
- ate Owls\nVyStar Arena\, Kennesaw\, GA
+ ate Owls\nVyStar Arena\, Kennesaw\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:VyStar Arena\, Kennesaw\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920819@open-sports-cal
@@ -78,10 +85,11 @@ DTEND:20261124T203000Z
 SUMMARY:SE Louisiana Lions @ Northern Colorado Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Northern Co
  lorado Bears\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral site
+ \nBroadcast: Broadcast not announced
 LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Cancun
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +98,14 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:SE Louisiana Lions @ George Washington Revolutionaries
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ George Wash
- ington Revolutionaries\nCharles E. Smith Center\, Washington\, DC
+ ington Revolutionaries\nCharles E. Smith Center\, Washington\, DC\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Charles E. Smith Center\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920820@open-sports-cal
@@ -103,12 +113,14 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Incarnate Word Cardinals @ SE Louisiana Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIncarnate Word Cardinals @ SE Lo
- uisiana Lions\nUniversity Center\, Hammond\, LA
+ uisiana Lions\nUniversity Center\, Hammond\, LA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920821@open-sports-cal
@@ -116,12 +128,14 @@ DTSTART:20261208T000000Z
 DTEND:20261208T030000Z
 SUMMARY:Houston Christian Huskies @ SE Louisiana Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHouston Christian Huskies @ SE L
- ouisiana Lions\nUniversity Center\, Hammond\, LA
+ ouisiana Lions\nUniversity Center\, Hammond\, LA\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918060@open-sports-cal
@@ -129,12 +143,13 @@ DTSTART:20261211T030000Z
 DTEND:20261211T060000Z
 SUMMARY:SE Louisiana Lions @ California Golden Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ California 
- Golden Bears\nHaas Pavilion\, Berkeley\, CA
+ Golden Bears\nHaas Pavilion\, Berkeley\, CA\nBroadcast: ACCNX (streaming)
 LOCATION:Haas Pavilion\, Berkeley\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929007@open-sports-cal
@@ -142,11 +157,12 @@ DTSTART:20261213T045900Z
 DTEND:20261213T075900Z
 SUMMARY:SE Louisiana Lions @ Hawai'i Rainbow Warriors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Hawai'i Rai
- nbow Warriors\nStan Sheriff Center\, Honolulu\, HI
+ nbow Warriors\nStan Sheriff Center\, Honolulu\, HI\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +171,13 @@ DTSTART:20261219T230000Z
 DTEND:20261220T020000Z
 SUMMARY:SE Louisiana Lions @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ East Texas 
- A&M Lions\nThe Field House\, Commerce\, TX
+ A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920823@open-sports-cal
@@ -168,12 +185,14 @@ DTSTART:20261222T003000Z
 DTEND:20261222T033000Z
 SUMMARY:SE Louisiana Lions @ Northwestern State Demons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Northwester
- n State Demons\nPrather Coliseum\, Natchitoches\, LA
+ n State Demons\nPrather Coliseum\, Natchitoches\, LA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Prather Coliseum\, Natchitoches\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911194@open-sports-cal
@@ -181,12 +200,13 @@ DTSTART:20261224T000000Z
 DTEND:20261224T030000Z
 SUMMARY:SE Louisiana Lions @ Dayton Flyers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Dayton Flye
- rs\nUD Arena\, Dayton\, OH
+ rs\nUD Arena\, Dayton\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:UD Arena\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920824@open-sports-cal
@@ -194,11 +214,12 @@ DTSTART:20270102T223000Z
 DTEND:20270103T013000Z
 SUMMARY:SE Louisiana Lions @ Stephen F. Austin Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Stephen F. 
- Austin Lumberjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ Austin Lumberjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\nBroadc
+ ast: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +228,11 @@ DTSTART:20270105T000000Z
 DTEND:20270105T030000Z
 SUMMARY:SE Louisiana Lions @ Lamar Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Lamar Cardi
- nals\nMontagne Center\, Beaumont\, TX
+ nals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadcast not announced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +241,11 @@ DTSTART:20270109T213000Z
 DTEND:20270110T003000Z
 SUMMARY:McNeese Cowboys @ SE Louisiana Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMcNeese Cowboys @ SE Louisiana L
- ions\nUniversity Center\, Hammond\, LA
+ ions\nUniversity Center\, Hammond\, LA\nBroadcast: Broadcast not announced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +254,12 @@ DTSTART:20270112T003000Z
 DTEND:20270112T033000Z
 SUMMARY:SE Louisiana Lions @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ LSU New Orl
- eans Privateers\nLakefront Arena\, New Orleans\, LA
+ eans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +268,12 @@ DTSTART:20270116T213000Z
 DTEND:20270117T003000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ SE Louisiana Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M-Corpus Christi Islande
- rs @ SE Louisiana Lions\nUniversity Center\, Hammond\, LA
+ rs @ SE Louisiana Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Broa
+ dcast not announced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +282,12 @@ DTSTART:20270119T000000Z
 DTEND:20270119T030000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ SE Louisiana Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Rio Grande Valley Vaqueros @ 
- SE Louisiana Lions\nUniversity Center\, Hammond\, LA
+ SE Louisiana Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Broadcast
+  not announced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +296,11 @@ DTSTART:20270123T213000Z
 DTEND:20270124T003000Z
 SUMMARY:Lamar Cardinals @ SE Louisiana Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLamar Cardinals @ SE Louisiana L
- ions\nUniversity Center\, Hammond\, LA
+ ions\nUniversity Center\, Hammond\, LA\nBroadcast: Broadcast not announced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +309,12 @@ DTSTART:20270127T000000Z
 DTEND:20270127T030000Z
 SUMMARY:Stephen F. Austin Lumberjacks @ SE Louisiana Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStephen F. Austin Lumberjacks @ 
- SE Louisiana Lions\nUniversity Center\, Hammond\, LA
+ SE Louisiana Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Broadcast
+  not announced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +323,12 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:SE Louisiana Lions @ McNeese Cowboys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ McNeese Cow
- boys\nTownsley Law Arena\, Lake Charles\, LA
+ boys\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +337,12 @@ DTSTART:20270202T000000Z
 DTEND:20270202T030000Z
 SUMMARY:Nicholls Colonels @ SE Louisiana Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNicholls Colonels @ SE Louisiana
-  Lions\nUniversity Center\, Hammond\, LA
+  Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +351,12 @@ DTSTART:20270206T213000Z
 DTEND:20270207T003000Z
 SUMMARY:SE Louisiana Lions @ Houston Christian Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Houston Chr
- istian Huskies\nSharp Gymnasium\, Houston\, TX
+ istian Huskies\nSharp Gymnasium\, Houston\, TX\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Sharp Gymnasium\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +365,12 @@ DTSTART:20270209T000000Z
 DTEND:20270209T030000Z
 SUMMARY:SE Louisiana Lions @ Incarnate Word Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Incarnate W
- ord Cardinals\nMcDermott Center\, San Antonio\, TX
+ ord Cardinals\nMcDermott Center\, San Antonio\, TX\nBroadcast: Broadcast n
+ ot announced
 LOCATION:McDermott Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +379,12 @@ DTSTART:20270213T213000Z
 DTEND:20270214T003000Z
 SUMMARY:Northwestern State Demons @ SE Louisiana Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern State Demons @ SE L
- ouisiana Lions\nUniversity Center\, Hammond\, LA
+ ouisiana Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Broadcast not
+  announced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +393,12 @@ DTSTART:20270216T000000Z
 DTEND:20270216T030000Z
 SUMMARY:East Texas A&M Lions @ SE Louisiana Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ SE Louisi
- ana Lions\nUniversity Center\, Hammond\, LA
+ ana Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +407,12 @@ DTSTART:20270220T223000Z
 DTEND:20270221T013000Z
 SUMMARY:SE Louisiana Lions @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ UT Rio Gran
- de Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ de Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: Broadcast
+  not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +421,12 @@ DTSTART:20270223T010000Z
 DTEND:20270223T040000Z
 SUMMARY:SE Louisiana Lions @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Texas A&M-C
- orpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ orpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nBroadcast:
+  Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +435,12 @@ DTSTART:20270227T213000Z
 DTEND:20270228T003000Z
 SUMMARY:LSU New Orleans Privateers @ SE Louisiana Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU New Orleans Privateers @ SE 
- Louisiana Lions\nUniversity Center\, Hammond\, LA
+ Louisiana Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Broadcast no
+ t announced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +449,12 @@ DTSTART:20270302T003000Z
 DTEND:20270302T033000Z
 SUMMARY:SE Louisiana Lions @ Nicholls Colonels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Nicholls Co
- lonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA
+ lonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA\nBroadcast: Broadcast 
+ not announced
 LOCATION:David R. Stopher Gymnasium\, Thibodaux\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

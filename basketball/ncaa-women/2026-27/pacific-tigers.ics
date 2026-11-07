@@ -12,13 +12,15 @@ DTSTART:20261103T020000Z
 DTEND:20261103T050000Z
 SUMMARY:Simpson (CA) Red Hawks @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSimpson (CA) Red Hawks @ Pacif
- ic Tigers\nAlex G. Spanos Center\, Stockton\, CA
+ ic Tigers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917684@open-sports-cal
@@ -26,13 +28,14 @@ DTSTART:20261106T030000Z
 DTEND:20261106T060000Z
 SUMMARY:Pacific Tigers @ Washington Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Washington Hu
- skies\nAlaska Airlines Arena\, Seattle\, WA
+ skies\nAlaska Airlines Arena\, Seattle\, WA\nBroadcast: B1G+ (streaming)
 LOCATION:Alaska Airlines Arena\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917700@open-sports-cal
@@ -41,12 +44,14 @@ DTEND:20261114T040000Z
 SUMMARY:Pacific Tigers @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ California Ba
  ptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
+ \nBroadcast: ESPN+ (streaming)
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917704@open-sports-cal
@@ -54,13 +59,14 @@ DTSTART:20261115T220000Z
 DTEND:20261116T010000Z
 SUMMARY:Pacific Tigers @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Cal State Ful
- lerton Titans\nTitan Gym\, Fullerton\, CA
+ lerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917711@open-sports-cal
@@ -68,13 +74,15 @@ DTSTART:20261120T190000Z
 DTEND:20261120T220000Z
 SUMMARY:Pacific Tigers @ Sacramento State Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Sacramento St
- ate Hornets\nHornet Pavilion\, Sacramento\, CA
+ ate Hornets\nHornet Pavilion\, Sacramento\, CA\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Hornet Pavilion\, Sacramento\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917721@open-sports-cal
@@ -82,12 +90,13 @@ DTSTART:20261126T000000Z
 DTEND:20261126T030000Z
 SUMMARY:Pacific Tigers @ Texas State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Texas State B
- obcats\nStrahan Arena at the University Events Center\, San Marcos\, TX
+ obcats\nStrahan Arena at the University Events Center\, San Marcos\, TX\nB
+ roadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -97,12 +106,12 @@ DTEND:20261128T020000Z
 SUMMARY:Pacific Tigers @ UTEP Miners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ UTEP Miners\n
  Strahan Arena at the University Events Center\, San Marcos\, TX\nNeutral s
- ite
+ ite\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -112,12 +121,12 @@ DTEND:20261128T220000Z
 SUMMARY:Pacific Tigers @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Bradley Brave
  s\nStrahan Arena at the University Events Center\, San Marcos\, TX\nNeutra
- l site
+ l site\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -126,13 +135,14 @@ DTSTART:20261202T190000Z
 DTEND:20261202T220000Z
 SUMMARY:UC Davis Aggies @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Davis Aggies @ Pacific Tige
- rs\nAlex G. Spanos Center\, Stockton\, CA
+ rs\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917748@open-sports-cal
@@ -140,13 +150,15 @@ DTSTART:20261212T020000Z
 DTEND:20261212T050000Z
 SUMMARY:San Diego State Aztecs @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Diego State Aztecs @ Pacif
- ic Tigers\nAlex G. Spanos Center\, Stockton\, CA
+ ic Tigers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917738@open-sports-cal
@@ -154,13 +166,14 @@ DTSTART:20261215T020000Z
 DTEND:20261215T050000Z
 SUMMARY:Pacific Tigers @ UC San Diego Tritons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ UC San Diego 
- Tritons\nLionTree Arena\, San Diego\, CA
+ Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917759@open-sports-cal
@@ -168,13 +181,14 @@ DTSTART:20261219T010000Z
 DTEND:20261219T040000Z
 SUMMARY:Nevada Wolf Pack @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNevada Wolf Pack @ Pacific Tig
- ers\nAlex G. Spanos Center\, Stockton\, CA
+ ers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917769@open-sports-cal
@@ -182,13 +196,15 @@ DTSTART:20261222T220000Z
 DTEND:20261223T010000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ Pacific Tigers\nAlex G. Spanos Center\, Stockton\, CA
+ ders @ Pacific Tigers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917775@open-sports-cal
@@ -196,13 +212,14 @@ DTSTART:20261231T220000Z
 DTEND:20270101T010000Z
 SUMMARY:Portland Pilots @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPortland Pilots @ Pacific Tige
- rs\nAlex G. Spanos Center\, Stockton\, CA
+ rs\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917779@open-sports-cal
@@ -210,12 +227,12 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Pacific Tigers @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Denver Pionee
- rs\nHamilton Gymnasium\, Denver\, CO
+ rs\nHamilton Gymnasium\, Denver\, CO\nBroadcast: Broadcast not announced
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -224,12 +241,13 @@ DTSTART:20270108T020000Z
 DTEND:20270108T050000Z
 SUMMARY:Pepperdine Waves @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPepperdine Waves @ Pacific Tig
- ers\nAlex G. Spanos Center\, Stockton\, CA
+ ers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -238,12 +256,13 @@ DTSTART:20270109T220000Z
 DTEND:20270110T010000Z
 SUMMARY:San Francisco Dons @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Pacific T
- igers\nAlex G. Spanos Center\, Stockton\, CA
+ igers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -252,12 +271,13 @@ DTSTART:20270115T020000Z
 DTEND:20270115T050000Z
 SUMMARY:Pacific Tigers @ San Diego Toreros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ San Diego Tor
- eros\nJenny Craig Pavilion\, San Diego\, CA
+ eros\nJenny Craig Pavilion\, San Diego\, CA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Jenny Craig Pavilion\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +286,13 @@ DTSTART:20270117T030000Z
 DTEND:20270117T060000Z
 SUMMARY:Pacific Tigers @ Loyola Marymount Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Loyola Marymo
- unt Lions\nGersten Pavilion\, Los Angeles\, CA
+ unt Lions\nGersten Pavilion\, Los Angeles\, CA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Gersten Pavilion\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +301,13 @@ DTSTART:20270122T020000Z
 DTEND:20270122T050000Z
 SUMMARY:Saint Mary's Gaels @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Mary's Gaels @ Pacific T
- igers\nAlex G. Spanos Center\, Stockton\, CA
+ igers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +316,13 @@ DTSTART:20270123T220000Z
 DTEND:20270124T010000Z
 SUMMARY:Santa Clara Broncos @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSanta Clara Broncos @ Pacific 
- Tigers\nAlex G. Spanos Center\, Stockton\, CA
+ Tigers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +331,13 @@ DTSTART:20270129T020000Z
 DTEND:20270129T050000Z
 SUMMARY:Pacific Tigers @ Pepperdine Waves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Pepperdine Wa
- ves\nFirestone Fieldhouse\, Malibu\, CA
+ ves\nFirestone Fieldhouse\, Malibu\, CA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Firestone Fieldhouse\, Malibu\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +346,13 @@ DTSTART:20270131T000000Z
 DTEND:20270131T030000Z
 SUMMARY:Loyola Marymount Lions @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Marymount Lions @ Pacif
- ic Tigers\nAlex G. Spanos Center\, Stockton\, CA
+ ic Tigers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: Broadcast not
+  announced
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +361,13 @@ DTSTART:20270205T030000Z
 DTEND:20270205T060000Z
 SUMMARY:Pacific Tigers @ Saint Mary's Gaels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Saint Mary's 
- Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: Broadcas
+ t not announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +376,13 @@ DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:Seattle U Redhawks @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSeattle U Redhawks @ Pacific T
- igers\nAlex G. Spanos Center\, Stockton\, CA
+ igers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -364,12 +391,13 @@ DTSTART:20270212T020000Z
 DTEND:20270212T050000Z
 SUMMARY:Pacific Tigers @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ San Francisco
-  Dons\nThe Sobrato Center\, San Francisco\, CA
+  Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -378,12 +406,13 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:San Diego Toreros @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Diego Toreros @ Pacific Ti
- gers\nAlex G. Spanos Center\, Stockton\, CA
+ gers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -392,12 +421,13 @@ DTSTART:20270219T030000Z
 DTEND:20270219T060000Z
 SUMMARY:Pacific Tigers @ Santa Clara Broncos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Santa Clara B
- roncos\nLeavey Center\, Santa Clara\, CA
+ roncos\nLeavey Center\, Santa Clara\, CA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Leavey Center\, Santa Clara\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -406,12 +436,13 @@ DTSTART:20270221T000000Z
 DTEND:20270221T030000Z
 SUMMARY:Denver Pioneers @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Pacific Tige
- rs\nAlex G. Spanos Center\, Stockton\, CA
+ rs\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -420,12 +451,12 @@ DTSTART:20270226T020000Z
 DTEND:20270226T050000Z
 SUMMARY:Pacific Tigers @ Portland Pilots
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Portland Pilo
- ts\nChiles Center\, Portland\, OR
+ ts\nChiles Center\, Portland\, OR\nBroadcast: Broadcast not announced
 LOCATION:Chiles Center\, Portland\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -434,12 +465,12 @@ DTSTART:20270227T210000Z
 DTEND:20270228T000000Z
 SUMMARY:Pacific Tigers @ Seattle U Redhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Seattle U Red
- hawks\nRedhawk Center\, Seattle\, WA
+ hawks\nRedhawk Center\, Seattle\, WA\nBroadcast: Broadcast not announced
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

@@ -13,12 +13,13 @@ DTEND:20261102T110000Z
 SUMMARY:Northern Illinois Huskies @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Illinois Huskies @ Gram
  bling Tigers\nRock Hill Sports & Event Center\, Rock Hill\, SC\nNeutral si
- te
+ te\nBroadcast: YouTube (streaming)
 LOCATION:Rock Hill Sports & Event Center\, Rock Hill\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906865@open-sports-cal
@@ -26,12 +27,13 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Grambling Tigers @ Texas Longhorns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Texas Longhor
- ns\nMoody Center\, Austin\, TX
+ ns\nMoody Center\, Austin\, TX\nBroadcast: SEC Network
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921804@open-sports-cal
@@ -39,12 +41,13 @@ DTSTART:20261117T000000Z
 DTEND:20261117T030000Z
 SUMMARY:Grambling Tigers @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Kentucky Wild
- cats\nRupp Arena\, Lexington\, KY
+ cats\nRupp Arena\, Lexington\, KY\nBroadcast: SECN+ (streaming)
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928388@open-sports-cal
@@ -52,11 +55,12 @@ DTSTART:20261120T000000Z
 DTEND:20261120T030000Z
 SUMMARY:Southern Miss Golden Eagles @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Miss Golden Eagles @ Gr
- ambling Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA
+ ambling Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nBroadc
+ ast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -65,11 +69,12 @@ DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Ecclesia Royals @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEcclesia Royals @ Grambling Tige
- rs\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart time TBD
+ rs\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart time TBD\nBr
+ oadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925050@open-sports-cal
@@ -77,12 +82,14 @@ DTSTART:20261125T210000Z
 DTEND:20261126T000000Z
 SUMMARY:Grambling Tigers @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ LSU New Orlea
- ns Privateers\nLakefront Arena\, New Orleans\, LA
+ ns Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928390@open-sports-cal
@@ -90,12 +97,14 @@ DTSTART:20261129T210000Z
 DTEND:20261130T000000Z
 SUMMARY:Grambling Tigers @ Southern Miss Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Southern Miss
-  Golden Eagles\nReed Green Coliseum\, Hattiesburg\, MS
+  Golden Eagles\nReed Green Coliseum\, Hattiesburg\, MS\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Reed Green Coliseum\, Hattiesburg\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928391@open-sports-cal
@@ -103,11 +112,11 @@ DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
 SUMMARY:Grambling Tigers @ Howard Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Howard Bison\
- nBurr Gymnasium\, Washington\, DC
+ nBurr Gymnasium\, Washington\, DC\nBroadcast: Broadcast not announced
 LOCATION:Burr Gymnasium\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,12 +125,14 @@ DTSTART:20261204T230000Z
 DTEND:20261205T020000Z
 SUMMARY:Grambling Tigers @ Tennessee State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Tennessee Sta
- te Tigers\nCareFirst Arena\, Washington\, DC\nNeutral site
+ te Tigers\nCareFirst Arena\, Washington\, DC\nNeutral site\nBroadcast: ESP
+ NU
 LOCATION:CareFirst Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401932955@open-sports-cal
@@ -130,11 +141,11 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:Jarvis Christian Bulldogs @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJarvis Christian Bulldogs @ Gram
  bling Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart ti
- me TBD
+ me TBD\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925053@open-sports-cal
@@ -143,11 +154,11 @@ DTEND;VALUE=DATE:20261214
 SUMMARY:LSU New Orleans Privateers @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU New Orleans Privateers @ Gra
  mbling Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart t
- ime TBD
+ ime TBD\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909691@open-sports-cal
@@ -155,12 +166,13 @@ DTSTART:20261218T010000Z
 DTEND:20261218T040000Z
 SUMMARY:Grambling Tigers @ Duke Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Duke Blue Dev
- ils\nCameron Indoor Stadium\, Durham\, NC
+ ils\nCameron Indoor Stadium\, Durham\, NC\nBroadcast: ACC Network
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928392@open-sports-cal
@@ -168,11 +180,12 @@ DTSTART:20261221T190000Z
 DTEND:20261221T220000Z
 SUMMARY:App State Mountaineers @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nApp State Mountaineers @ Grambli
- ng Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA
+ ng Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nBroadcast: 
+ Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -182,11 +195,11 @@ DTEND;VALUE=DATE:20261229
 SUMMARY:College of Biblical Studies Ambassadors @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCollege of Biblical Studies Amba
  ssadors @ Grambling Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\
- , LA\nStart time TBD
+ , LA\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926122@open-sports-cal
@@ -195,11 +208,11 @@ DTEND;VALUE=DATE:20270103
 SUMMARY:Grambling Tigers @ Prairie View A&M Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Prairie View 
  A&M Panthers\nWilliam J. Nicks Building\, Prairie View\, TX\nStart time TB
- D
+ D\nBroadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928394@open-sports-cal
@@ -207,11 +220,12 @@ DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:Grambling Tigers @ Texas Southern Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Texas Souther
- n Tigers\nH&PE Arena\, Houston\, TX\nStart time TBD
+ n Tigers\nH&PE Arena\, Houston\, TX\nStart time TBD\nBroadcast: Broadcast 
+ not announced
 LOCATION:H&PE Arena\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925720@open-sports-cal
@@ -220,11 +234,11 @@ DTEND;VALUE=DATE:20270110
 SUMMARY:Bethune-Cookman Wildcats @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Gramb
  ling Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart tim
- e TBD
+ e TBD\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928395@open-sports-cal
@@ -233,11 +247,11 @@ DTEND;VALUE=DATE:20270112
 SUMMARY:Florida A&M Rattlers @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida A&M Rattlers @ Grambling
   Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart time TB
- D
+ D\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928366@open-sports-cal
@@ -245,11 +259,12 @@ DTSTART:20270116T233000Z
 DTEND:20270117T023000Z
 SUMMARY:Grambling Tigers @ Southern Jaguars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Southern Jagu
- ars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+ ars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +274,11 @@ DTEND;VALUE=DATE:20270124
 SUMMARY:Grambling Tigers @ Mississippi Valley State Delta Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Mississippi V
  alley State Delta Devils\nR.W. Harrison HPER Complex\, Itta Bena\, MS\nSta
- rt time TBD
+ rt time TBD\nBroadcast: Broadcast not announced
 LOCATION:R.W. Harrison HPER Complex\, Itta Bena\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928396@open-sports-cal
@@ -272,10 +287,11 @@ DTEND;VALUE=DATE:20270126
 SUMMARY:Grambling Tigers @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Arkansas-Pine
   Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nStart time TBD
+ \nBroadcast: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921049@open-sports-cal
@@ -284,11 +300,11 @@ DTEND;VALUE=DATE:20270131
 SUMMARY:Jackson State Tigers @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Grambling
   Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart time TB
- D
+ D\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925695@open-sports-cal
@@ -296,11 +312,12 @@ DTSTART:20270201T230000Z
 DTEND:20270202T020000Z
 SUMMARY:Alcorn State Braves @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlcorn State Braves @ Grambling 
- Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA
+ Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -309,11 +326,12 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:Grambling Tigers @ Alabama State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Alabama State
-  Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+  Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroadcast: Broadcast not 
+ announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,11 +340,12 @@ DTSTART:20270209T000000Z
 DTEND:20270209T030000Z
 SUMMARY:Grambling Tigers @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Alabama A&M B
- ulldogs\nEvent Center\, Huntsville\, AL
+ ulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast not announce
+ d
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -336,11 +355,11 @@ DTEND;VALUE=DATE:20270214
 SUMMARY:Texas Southern Tigers @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Southern Tigers @ Gramblin
  g Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart time T
- BD
+ BD\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926128@open-sports-cal
@@ -349,11 +368,11 @@ DTEND;VALUE=DATE:20270216
 SUMMARY:Prairie View A&M Panthers @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrairie View A&M Panthers @ Gram
  bling Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart ti
- me TBD
+ me TBD\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928369@open-sports-cal
@@ -361,11 +380,12 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Southern Jaguars @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Jaguars @ Grambling Tig
- ers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart time TBD
+ ers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart time TBD\nB
+ roadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925726@open-sports-cal
@@ -373,11 +393,12 @@ DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:Grambling Tigers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Bethune-Cookm
- an Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nStart time TBD
+ an Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nStart time TBD\nBr
+ oadcast: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929423@open-sports-cal
@@ -385,11 +406,12 @@ DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Grambling Tigers @ Florida A&M Rattlers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Florida A&M R
- attlers\nAl Lawson Center\, Tallahassee\, FL\nStart time TBD
+ attlers\nAl Lawson Center\, Tallahassee\, FL\nStart time TBD\nBroadcast: B
+ roadcast not announced
 LOCATION:Al Lawson Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925659@open-sports-cal
@@ -398,11 +420,11 @@ DTEND;VALUE=DATE:20270303
 SUMMARY:Alabama A&M Bulldogs @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Grambling
   Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart time TB
- D
+ D\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925680@open-sports-cal
@@ -411,10 +433,10 @@ DTEND;VALUE=DATE:20270305
 SUMMARY:Alabama State Hornets @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama State Hornets @ Gramblin
  g Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart time T
- BD
+ BD\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

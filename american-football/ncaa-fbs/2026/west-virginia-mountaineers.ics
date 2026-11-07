@@ -12,12 +12,14 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:Coastal Carolina Chanticleers @ West Virginia Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nCoastal Carolina Chanticleers @ West Vi
- rginia Mountaineers\nMilan Puskar Stadium\, Morgantown\, WV
+ rginia Mountaineers\nMilan Puskar Stadium\, Morgantown\, WV\nBroadcast: TN
+ T
 LOCATION:Milan Puskar Stadium\, Morgantown\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856791@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20260912T170000Z
 DTEND:20260912T200000Z
 SUMMARY:UT Martin Skyhawks @ West Virginia Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nUT Martin Skyhawks @ West Virginia Moun
- taineers\nMilan Puskar Stadium\, Morgantown\, WV
+ taineers\nMilan Puskar Stadium\, Morgantown\, WV\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Milan Puskar Stadium\, Morgantown\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856802@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20260919T233000Z
 DTEND:20260920T023000Z
 SUMMARY:West Virginia Mountaineers @ Virginia Cavaliers
 DESCRIPTION:NCAA FBS Football 2026\nWest Virginia Mountaineers @ Virginia C
- avaliers\nBank of America Stadium\, Charlotte\, NC\nNeutral site
+ avaliers\nBank of America Stadium\, Charlotte\, NC\nNeutral site\nBroadcas
+ t: ACC Network
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856881@open-sports-cal
@@ -51,12 +57,13 @@ DTSTART:20260926T230000Z
 DTEND:20260927T020000Z
 SUMMARY:Oklahoma State Cowboys @ West Virginia Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nOklahoma State Cowboys @ West Virginia 
- Mountaineers\nMilan Puskar Stadium\, Morgantown\, WV
+ Mountaineers\nMilan Puskar Stadium\, Morgantown\, WV\nBroadcast: FS1
 LOCATION:Milan Puskar Stadium\, Morgantown\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856822@open-sports-cal
@@ -64,12 +71,13 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:West Virginia Mountaineers @ Iowa State Cyclones
 DESCRIPTION:NCAA FBS Football 2026\nWest Virginia Mountaineers @ Iowa State
-  Cyclones\nJack Trice Stadium\, Ames\, IA
+  Cyclones\nJack Trice Stadium\, Ames\, IA\nBroadcast: TNT
 LOCATION:Jack Trice Stadium\, Ames\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856823@open-sports-cal
@@ -77,12 +85,13 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:Arizona Wildcats @ West Virginia Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nArizona Wildcats @ West Virginia Mounta
- ineers\nMilan Puskar Stadium\, Morgantown\, WV
+ ineers\nMilan Puskar Stadium\, Morgantown\, WV\nBroadcast: TNT
 LOCATION:Milan Puskar Stadium\, Morgantown\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856829@open-sports-cal
@@ -90,12 +99,13 @@ DTSTART:20261017T160000Z
 DTEND:20261017T190000Z
 SUMMARY:Cincinnati Bearcats @ West Virginia Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nCincinnati Bearcats @ West Virginia Mou
- ntaineers\nMilan Puskar Stadium\, Morgantown\, WV
+ ntaineers\nMilan Puskar Stadium\, Morgantown\, WV\nBroadcast: TNT
 LOCATION:Milan Puskar Stadium\, Morgantown\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856841@open-sports-cal
@@ -103,12 +113,13 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:West Virginia Mountaineers @ TCU Horned Frogs
 DESCRIPTION:NCAA FBS Football 2026\nWest Virginia Mountaineers @ TCU Horned
-  Frogs\nAmon G. Carter Stadium\, Fort Worth\, TX
+  Frogs\nAmon G. Carter Stadium\, Fort Worth\, TX\nBroadcast: ESPN2
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856856@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261108T023000Z
 DTEND:20261108T053000Z
 SUMMARY:West Virginia Mountaineers @ Texas Tech Red Raiders
 DESCRIPTION:NCAA FBS Football 2026\nWest Virginia Mountaineers @ Texas Tech
-  Red Raiders\nGalaxy Stadium\, Lubbock\, TX
+  Red Raiders\nGalaxy Stadium\, Lubbock\, TX\nBroadcast: ESPN
 LOCATION:Galaxy Stadium\, Lubbock\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856861@open-sports-cal
@@ -129,11 +141,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Kansas Jayhawks @ West Virginia Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ West Virginia Mountai
- neers\nMilan Puskar Stadium\, Morgantown\, WV\nStart time TBD
+ neers\nMilan Puskar Stadium\, Morgantown\, WV\nStart time TBD\nBroadcast: 
+ Broadcast not announced
 LOCATION:Milan Puskar Stadium\, Morgantown\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856868@open-sports-cal
@@ -141,11 +154,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Houston Cougars @ West Virginia Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nHouston Cougars @ West Virginia Mountai
- neers\nMilan Puskar Stadium\, Morgantown\, WV\nStart time TBD
+ neers\nMilan Puskar Stadium\, Morgantown\, WV\nStart time TBD\nBroadcast: 
+ Broadcast not announced
 LOCATION:Milan Puskar Stadium\, Morgantown\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856880@open-sports-cal
@@ -153,11 +167,12 @@ DTSTART:20261128T020000Z
 DTEND:20261128T050000Z
 SUMMARY:West Virginia Mountaineers @ Utah Utes
 DESCRIPTION:NCAA FBS Football 2026\nWest Virginia Mountaineers @ Utah Utes\
- nRice-Eccles Stadium\, Salt Lake City\, UT
+ nRice-Eccles Stadium\, Salt Lake City\, UT\nBroadcast: Fox
 LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:Fox
 END:VEVENT
 END:VCALENDAR

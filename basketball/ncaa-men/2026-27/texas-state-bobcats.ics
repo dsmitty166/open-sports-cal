@@ -13,11 +13,11 @@ DTEND:20261103T040000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M-Corpus Christi Islande
  rs @ Texas State Bobcats\nStrahan Arena at the University Events Center\, 
- San Marcos\, TX
+ San Marcos\, TX\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -27,12 +27,13 @@ DTEND:20261106T030000Z
 SUMMARY:Howard Payne Yellow Jackets @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Payne Yellow Jackets @ Te
  xas State Bobcats\nStrahan Arena at the University Events Center\, San Mar
- cos\, TX
+ cos\, TX\nBroadcast: YouTube (streaming)
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925107@open-sports-cal
@@ -40,12 +41,14 @@ DTSTART:20261111T003000Z
 DTEND:20261111T033000Z
 SUMMARY:Texas State Bobcats @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ UT Rio Gra
- nde Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ nde Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929199@open-sports-cal
@@ -54,12 +57,13 @@ DTEND:20261114T040000Z
 SUMMARY:Southern Miss Golden Eagles @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Miss Golden Eagles @ Te
  xas State Bobcats\nStrahan Arena at the University Events Center\, San Mar
- cos\, TX
+ cos\, TX\nBroadcast: YouTube (streaming)
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929200@open-sports-cal
@@ -67,12 +71,13 @@ DTSTART:20261116T010000Z
 DTEND:20261116T040000Z
 SUMMARY:Texas State Bobcats @ UTSA Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ UTSA Roadr
- unners\nUTSA Convocation Center\, San Antonio\, TX
+ unners\nUTSA Convocation Center\, San Antonio\, TX\nBroadcast: ESPN2
 LOCATION:UTSA Convocation Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929201@open-sports-cal
@@ -81,11 +86,11 @@ DTEND:20261119T040000Z
 SUMMARY:Incarnate Word Cardinals @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIncarnate Word Cardinals @ Texas
   State Bobcats\nStrahan Arena at the University Events Center\, San Marcos
- \, TX
+ \, TX\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -94,12 +99,14 @@ DTSTART:20261122T203000Z
 DTEND:20261122T233000Z
 SUMMARY:McNeese Cowboys @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMcNeese Cowboys @ Texas State Bo
- bcats\nStrahan Arena at the University Events Center\, San Marcos\, TX
+ bcats\nStrahan Arena at the University Events Center\, San Marcos\, TX\nBr
+ oadcast: CW
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925688@open-sports-cal
@@ -107,11 +114,12 @@ DTSTART:20261125T220000Z
 DTEND:20261126T010000Z
 SUMMARY:Alcorn State Braves @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlcorn State Braves @ Texas Stat
- e Bobcats\nThomas Assembly Center\, Ruston\, LA\nNeutral site
+ e Bobcats\nThomas Assembly Center\, Ruston\, LA\nNeutral site\nBroadcast: 
+ Broadcast not announced
 LOCATION:Thomas Assembly Center\, Ruston\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -120,12 +128,14 @@ DTSTART:20261127T200000Z
 DTEND:20261127T230000Z
 SUMMARY:Texas State Bobcats @ Louisiana Tech Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ Louisiana 
- Tech Bulldogs\nThomas Assembly Center\, Ruston\, LA
+ Tech Bulldogs\nThomas Assembly Center\, Ruston\, LA\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Thomas Assembly Center\, Ruston\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925067@open-sports-cal
@@ -133,11 +143,12 @@ DTSTART:20261129T220000Z
 DTEND:20261130T010000Z
 SUMMARY:Nicholls Colonels @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNicholls Colonels @ Texas State 
- Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, TX
+ Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, TX\n
+ Broadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -147,11 +158,11 @@ DTEND:20261203T040000Z
 SUMMARY:Louisiana Tech Bulldogs @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Tech Bulldogs @ Texas 
  State Bobcats\nStrahan Arena at the University Events Center\, San Marcos\
- , TX
+ , TX\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -160,12 +171,13 @@ DTSTART:20261205T223000Z
 DTEND:20261206T013000Z
 SUMMARY:Texas State Bobcats @ Houston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ Houston Co
- ugars\nFertitta Center\, Houston\, TX
+ ugars\nFertitta Center\, Houston\, TX\nBroadcast: ESPN2
 LOCATION:Fertitta Center\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925110@open-sports-cal
@@ -174,11 +186,11 @@ DTEND:20261209T040000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Rio Grande Valley Vaqueros @ 
  Texas State Bobcats\nStrahan Arena at the University Events Center\, San M
- arcos\, TX
+ arcos\, TX\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -187,11 +199,12 @@ DTSTART:20261213T223000Z
 DTEND:20261214T013000Z
 SUMMARY:North Texas Mean Green @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Texas Mean Green @ Texas S
- tate Bobcats\nDickies Arena\, Fort Worth\, TX\nNeutral site
+ tate Bobcats\nDickies Arena\, Fort Worth\, TX\nNeutral site\nBroadcast: Br
+ oadcast not announced
 LOCATION:Dickies Arena\, Fort Worth\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -200,11 +213,12 @@ DTSTART:20261217T013000Z
 DTEND:20261217T043000Z
 SUMMARY:San Francisco Dons @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSan Francisco Dons @ Texas State
-  Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, TX
+  Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, TX\
+ nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -214,11 +228,11 @@ DTEND:20261219T223000Z
 SUMMARY:Texas Southern Tigers @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Southern Tigers @ Texas St
  ate Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, 
- TX
+ TX\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -227,11 +241,12 @@ DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Texas State Bobcats @ Colorado State Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ Colorado S
- tate Rams\nMoby Arena\, Fort Collins\, CO\nStart time TBD
+ tate Rams\nMoby Arena\, Fort Collins\, CO\nStart time TBD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927762@open-sports-cal
@@ -239,11 +254,12 @@ DTSTART:20270110T180000Z
 DTEND:20270110T210000Z
 SUMMARY:Utah State Aggies @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUtah State Aggies @ Texas State 
- Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, TX
+ Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, TX\n
+ Broadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -253,11 +269,11 @@ DTEND:20270115T030000Z
 SUMMARY:Oregon State Beavers @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOregon State Beavers @ Texas Sta
  te Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, T
- X
+ X\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -266,11 +282,12 @@ DTSTART:20270121T030000Z
 DTEND:20270121T060000Z
 SUMMARY:Texas State Bobcats @ San Diego State Aztecs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ San Diego 
- State Aztecs\nViejas Arena\, San Diego\, CA
+ State Aztecs\nViejas Arena\, San Diego\, CA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Viejas Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -279,11 +296,12 @@ DTSTART:20270123T213000Z
 DTEND:20270124T003000Z
 SUMMARY:Texas State Bobcats @ Fresno State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ Fresno Sta
- te Bulldogs\nSave Mart Center\, Fresno\, CA
+ te Bulldogs\nSave Mart Center\, Fresno\, CA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Save Mart Center\, Fresno\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -293,10 +311,11 @@ DTEND:20270128T040000Z
 SUMMARY:Colorado State Rams @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado State Rams @ Texas Stat
  e Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, TX
+ \nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -306,10 +325,11 @@ DTEND:20270130T223000Z
 SUMMARY:Boise State Broncos @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoise State Broncos @ Texas Stat
  e Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, TX
+ \nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -318,11 +338,12 @@ DTSTART:20270205T030000Z
 DTEND:20270205T060000Z
 SUMMARY:Texas State Bobcats @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ Gonzaga Bu
- lldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ lldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: Broadcast not
+  announced
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -331,11 +352,12 @@ DTSTART:20270207T020000Z
 DTEND:20270207T050000Z
 SUMMARY:Texas State Bobcats @ Washington State Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ Washington
-  State Cougars\nBeasley Coliseum\, Pullman\, WA
+  State Cougars\nBeasley Coliseum\, Pullman\, WA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Beasley Coliseum\, Pullman\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -345,11 +367,11 @@ DTEND:20270212T040000Z
 SUMMARY:San Diego State Aztecs @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSan Diego State Aztecs @ Texas S
  tate Bobcats\nStrahan Arena at the University Events Center\, San Marcos\,
-  TX
+  TX\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -358,11 +380,12 @@ DTSTART:20270214T203000Z
 DTEND:20270214T233000Z
 SUMMARY:Texas State Bobcats @ Oregon State Beavers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ Oregon Sta
- te Beavers\nGill Coliseum\, Corvallis\, OR
+ te Beavers\nGill Coliseum\, Corvallis\, OR\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Gill Coliseum\, Corvallis\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -372,11 +395,11 @@ DTEND:20270219T040000Z
 SUMMARY:Fresno State Bulldogs @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFresno State Bulldogs @ Texas St
  ate Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, 
- TX
+ TX\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -385,11 +408,12 @@ DTSTART:20270220T233000Z
 DTEND:20270221T023000Z
 SUMMARY:Texas State Bobcats @ Boise State Broncos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ Boise Stat
- e Broncos\nExtraMile Arena\, Boise\, ID
+ e Broncos\nExtraMile Arena\, Boise\, ID\nBroadcast: Broadcast not announce
+ d
 LOCATION:ExtraMile Arena\, Boise\, ID
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -398,11 +422,12 @@ DTSTART:20270226T010000Z
 DTEND:20270226T040000Z
 SUMMARY:Gonzaga Bulldogs @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGonzaga Bulldogs @ Texas State B
- obcats\nStrahan Arena at the University Events Center\, San Marcos\, TX
+ obcats\nStrahan Arena at the University Events Center\, San Marcos\, TX\nB
+ roadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -412,11 +437,11 @@ DTEND:20270227T221500Z
 SUMMARY:Washington State Cougars @ Texas State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWashington State Cougars @ Texas
   State Bobcats\nStrahan Arena at the University Events Center\, San Marcos
- \, TX
+ \, TX\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -425,11 +450,12 @@ DTSTART:20270304T010000Z
 DTEND:20270304T040000Z
 SUMMARY:Texas State Bobcats @ Utah State Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas State Bobcats @ Utah State
-  Aggies\nDee Glen Smith Spectrum\, Logan\, UT
+  Aggies\nDee Glen Smith Spectrum\, Logan\, UT\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Dee Glen Smith Spectrum\, Logan\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 END:VCALENDAR

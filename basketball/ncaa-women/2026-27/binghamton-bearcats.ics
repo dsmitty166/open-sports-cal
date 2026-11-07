@@ -12,12 +12,13 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Binghamton Bearcats @ Monmouth Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Monmouth
-  Hawks\nOceanFirst Bank Center\, West Long Branch\, NJ
+  Hawks\nOceanFirst Bank Center\, West Long Branch\, NJ\nBroadcast: Broadca
+ st not announced
 LOCATION:OceanFirst Bank Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -26,13 +27,15 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Binghamton Bearcats @ Fairfield Stags
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Fairfiel
- d Stags\nLeo D. Mahoney Arena\, Fairfield\, CT
+ d Stags\nLeo D. Mahoney Arena\, Fairfield\, CT\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Leo D. Mahoney Arena\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918033@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261108T210000Z
 DTEND:20261109T000000Z
 SUMMARY:Binghamton Bearcats @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Siena Sa
- ints\nUHY Center\, Loudonville\, NY
+ ints\nUHY Center\, Loudonville\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919553@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:Binghamton Bearcats @ Colgate Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Colgate 
- Raiders\nCotterell Court\, Hamilton\, NY
+ Raiders\nCotterell Court\, Hamilton\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Cotterell Court\, Hamilton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911768@open-sports-cal
@@ -68,13 +73,15 @@ DTSTART:20261114T183000Z
 DTEND:20261114T213000Z
 SUMMARY:Binghamton Bearcats @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ St. Bona
- venture Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ venture Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913866@open-sports-cal
@@ -82,13 +89,14 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Binghamton Bearcats @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ South Fl
- orida Bulls\nYuengling Center\, Tampa\, FL
+ orida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925994@open-sports-cal
@@ -96,12 +104,13 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Daemen Wildcats @ Binghamton Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDaemen Wildcats @ Binghamton B
- earcats\nEvents Center (Binghamton)\, Binghamton\, NY
+ earcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast: Broadcas
+ t not announced
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,13 +119,14 @@ DTSTART:20261124T000000Z
 DTEND:20261124T030000Z
 SUMMARY:Binghamton Bearcats @ Marist Red Foxes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Marist R
- ed Foxes\nMcCann Arena\, Poughkeepsie\, NY
+ ed Foxes\nMcCann Arena\, Poughkeepsie\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:McCann Arena\, Poughkeepsie\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925995@open-sports-cal
@@ -124,12 +134,13 @@ DTSTART:20261126T190000Z
 DTEND:20261126T220000Z
 SUMMARY:UTSA Roadrunners @ Binghamton Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUTSA Roadrunners @ Binghamton 
- Bearcats\nRuben Rodriguez Coliseum\, Bayamon\, Puerto Rico\nNeutral site
+ Bearcats\nRuben Rodriguez Coliseum\, Bayamon\, Puerto Rico\nNeutral site\n
+ Broadcast: Broadcast not announced
 LOCATION:Ruben Rodriguez Coliseum\, Bayamon\, Puerto Rico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Puerto_Rico
 END:VEVENT
 BEGIN:VEVENT
@@ -138,12 +149,13 @@ DTSTART:20261127T173000Z
 DTEND:20261127T203000Z
 SUMMARY:Binghamton Bearcats @ Providence Friars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Providen
- ce Friars\nRuben Rodriguez Coliseum\, Bayamon\, Puerto Rico\nNeutral site
+ ce Friars\nRuben Rodriguez Coliseum\, Bayamon\, Puerto Rico\nNeutral site\
+ nBroadcast: Broadcast not announced
 LOCATION:Ruben Rodriguez Coliseum\, Bayamon\, Puerto Rico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Puerto_Rico
 END:VEVENT
 BEGIN:VEVENT
@@ -152,12 +164,13 @@ DTSTART:20261202T200000Z
 DTEND:20261202T230000Z
 SUMMARY:Binghamton Bearcats @ Army Black Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Army Bla
- ck Knights\nChristl Arena\, West Point\, NY
+ ck Knights\nChristl Arena\, West Point\, NY\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Christl Arena\, West Point\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -166,12 +179,13 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:Massachusetts Minutewomen @ Binghamton Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Bi
- nghamton Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY
+ nghamton Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast
+ : Broadcast not announced
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -180,13 +194,14 @@ DTSTART:20261208T233000Z
 DTEND:20261209T023000Z
 SUMMARY:Binghamton Bearcats @ Temple Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Temple O
- wls\nLiacouras Center\, Philadelphia\, PA
+ wls\nLiacouras Center\, Philadelphia\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Liacouras Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925998@open-sports-cal
@@ -194,12 +209,14 @@ DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Binghamton Bearcats @ Pennsylvania Quakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Pennsylv
- ania Quakers\nThe Palestra\, Philadelphia\, PA\nStart time TBD
+ ania Quakers\nThe Palestra\, Philadelphia\, PA\nStart time TBD\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925999@open-sports-cal
@@ -207,12 +224,13 @@ DTSTART:20261221T160000Z
 DTEND:20261221T190000Z
 SUMMARY:Binghamton Bearcats @ Saint Francis Red Wolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Saint Fr
- ancis Red Wolves\nDeGol Arena\, Loretto\, PA
+ ancis Red Wolves\nDeGol Arena\, Loretto\, PA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:DeGol Arena\, Loretto\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -221,13 +239,15 @@ DTSTART:20261231T180000Z
 DTEND:20261231T210000Z
 SUMMARY:UMBC Retrievers @ Binghamton Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUMBC Retrievers @ Binghamton B
- earcats\nEvents Center (Binghamton)\, Binghamton\, NY
+ earcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913348@open-sports-cal
@@ -235,12 +255,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Binghamton Bearcats @ Vermont Catamounts
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Vermont 
- Catamounts\nPatrick Gymnasium\, Burlington\, VT
+ Catamounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Broadcast not 
+ announced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -249,12 +270,13 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:Binghamton Bearcats @ UAlbany Great Danes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ UAlbany 
- Great Danes\nBroadview Center\, Albany\, NY
+ Great Danes\nBroadview Center\, Albany\, NY\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Broadview Center\, Albany\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -263,12 +285,13 @@ DTSTART:20270114T160000Z
 DTEND:20270114T190000Z
 SUMMARY:UMass Lowell River Hawks @ Binghamton Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUMass Lowell River Hawks @ Bin
- ghamton Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY
+ ghamton Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast:
+  Broadcast not announced
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -277,12 +300,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:NJIT Highlanders @ Binghamton Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNJIT Highlanders @ Binghamton 
- Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY
+ Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast: Broadca
+ st not announced
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -291,12 +315,13 @@ DTSTART:20270121T230000Z
 DTEND:20270122T020000Z
 SUMMARY:Binghamton Bearcats @ Maine Black Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Maine Bl
- ack Bears\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME
+ ack Bears\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME\nBroadc
+ ast: Broadcast not announced
 LOCATION:Skip Chappelle Court in Memorial Gymnasium\, Orono\, ME
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -305,12 +330,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Binghamton Bearcats @ New Hampshire Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ New Hamp
- shire Wildcats\nLundholm Gymnasium\, Durham\, NH
+ shire Wildcats\nLundholm Gymnasium\, Durham\, NH\nBroadcast: Broadcast not
+  announced
 LOCATION:Lundholm Gymnasium\, Durham\, NH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -319,12 +345,13 @@ DTSTART:20270128T230000Z
 DTEND:20270129T020000Z
 SUMMARY:Binghamton Bearcats @ UMBC Retrievers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ UMBC Ret
- rievers\nChesapeake Employers Insurance Arena\, Baltimore\, MD
+ rievers\nChesapeake Employers Insurance Arena\, Baltimore\, MD\nBroadcast:
+  Broadcast not announced
 LOCATION:Chesapeake Employers Insurance Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -333,12 +360,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Bryant Bulldogs @ Binghamton Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBryant Bulldogs @ Binghamton B
- earcats\nEvents Center (Binghamton)\, Binghamton\, NY
+ earcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast: Broadcas
+ t not announced
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -347,12 +375,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:Binghamton Bearcats @ NJIT Highlanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ NJIT Hig
- hlanders\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ
+ hlanders\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ\nBro
+ adcast: Broadcast not announced
 LOCATION:Joel & Diane Bloom Wellness and Events Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -361,12 +390,13 @@ DTSTART:20270211T230700Z
 DTEND:20270212T020700Z
 SUMMARY:Vermont Catamounts @ Binghamton Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVermont Catamounts @ Binghamto
- n Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY
+ n Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast: Broad
+ cast not announced
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,12 +405,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Binghamton Bearcats @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ UMass Lo
- well River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ well River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast
+ : Broadcast not announced
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,12 +420,13 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:UAlbany Great Danes @ Binghamton Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUAlbany Great Danes @ Binghamt
- on Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY
+ on Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -403,12 +435,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Binghamton Bearcats @ Bryant Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Bryant B
- ulldogs\nChace Athletic Center\, Smithfield\, RI
+ ulldogs\nChace Athletic Center\, Smithfield\, RI\nBroadcast: Broadcast not
+  announced
 LOCATION:Chace Athletic Center\, Smithfield\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -417,12 +450,13 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Maine Black Bears @ Binghamton Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaine Black Bears @ Binghamton
-  Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY
+  Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast: Broadc
+ ast not announced
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -431,12 +465,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:New Hampshire Wildcats @ Binghamton Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Hampshire Wildcats @ Bingh
- amton Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY
+ amton Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

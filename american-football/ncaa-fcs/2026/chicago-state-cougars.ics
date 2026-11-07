@@ -12,11 +12,11 @@ DTSTART:20260829T170000Z
 DTEND:20260829T200000Z
 SUMMARY:Roosevelt Lakers @ Chicago State Cougars
 DESCRIPTION:NCAA FCS Football 2026\nRoosevelt Lakers @ Chicago State Cougar
- s\nSeatGeek Stadium\, Bridgeview\, IL
+ s\nSeatGeek Stadium\, Bridgeview\, IL\nBroadcast: Broadcast not announced
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -25,12 +25,13 @@ DTSTART:20260905T230000Z
 DTEND:20260906T020000Z
 SUMMARY:Chicago State Cougars @ UT Martin Skyhawks
 DESCRIPTION:NCAA FCS Football 2026\nChicago State Cougars @ UT Martin Skyha
- wks\nHardy M. Graham Stadium\, Martin\, TN
+ wks\nHardy M. Graham Stadium\, Martin\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Hardy M. Graham Stadium\, Martin\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867685@open-sports-cal
@@ -38,11 +39,12 @@ DTSTART:20260912T170000Z
 DTEND:20260912T200000Z
 SUMMARY:Kentucky Christian Knights @ Chicago State Cougars
 DESCRIPTION:NCAA FCS Football 2026\nKentucky Christian Knights @ Chicago St
- ate Cougars\nSeatGeek Stadium\, Bridgeview\, IL
+ ate Cougars\nSeatGeek Stadium\, Bridgeview\, IL\nBroadcast: Broadcast not 
+ announced
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -51,12 +53,14 @@ DTSTART:20260919T170000Z
 DTEND:20260919T200000Z
 SUMMARY:Chicago State Cougars @ Butler Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nChicago State Cougars @ Butler Bulldogs
- \nBud and Jackie Sellick Bowl\, Indianapolis\, IN
+ \nBud and Jackie Sellick Bowl\, Indianapolis\, IN\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Bud and Jackie Sellick Bowl\, Indianapolis\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867687@open-sports-cal
@@ -64,11 +68,12 @@ DTSTART:20260926T230000Z
 DTEND:20260927T020000Z
 SUMMARY:Norfolk State Spartans @ Chicago State Cougars
 DESCRIPTION:NCAA FCS Football 2026\nNorfolk State Spartans @ Chicago State 
- Cougars\nSeatGeek Stadium\, Bridgeview\, IL
+ Cougars\nSeatGeek Stadium\, Bridgeview\, IL\nBroadcast: Broadcast not anno
+ unced
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -77,12 +82,14 @@ DTSTART:20261003T230000Z
 DTEND:20261004T020000Z
 SUMMARY:Chicago State Cougars @ Tarleton State Texans
 DESCRIPTION:NCAA FCS Football 2026\nChicago State Cougars @ Tarleton State 
- Texans\nTarleton Memorial Stadium\, Stephenville\, TX
+ Texans\nTarleton Memorial Stadium\, Stephenville\, TX\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Tarleton Memorial Stadium\, Stephenville\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866668@open-sports-cal
@@ -90,12 +97,14 @@ DTSTART:20261017T160000Z
 DTEND:20261017T190000Z
 SUMMARY:Chicago State Cougars @ North Carolina A&T Aggies
 DESCRIPTION:NCAA FCS Football 2026\nChicago State Cougars @ North Carolina 
- A&T Aggies\nTruist Stadium\, Greensboro\, NC
+ A&T Aggies\nTruist Stadium\, Greensboro\, NC\nBroadcast: FloSports (stream
+ ing)
 LOCATION:Truist Stadium\, Greensboro\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867689@open-sports-cal
@@ -103,12 +112,13 @@ DTSTART:20261024T190000Z
 DTEND:20261024T220000Z
 SUMMARY:Chicago State Cougars @ Lindenwood Lions
 DESCRIPTION:NCAA FCS Football 2026\nChicago State Cougars @ Lindenwood Lion
- s\nHunter Stadium\, Saint Charles\, MO
+ s\nHunter Stadium\, Saint Charles\, MO\nBroadcast: ESPN+ (streaming)
 LOCATION:Hunter Stadium\, Saint Charles\, MO
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867690@open-sports-cal
@@ -116,11 +126,11 @@ DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 SUMMARY:UFTL Eagles @ Chicago State Cougars
 DESCRIPTION:NCAA FCS Football 2026\nUFTL Eagles @ Chicago State Cougars\nSe
- atGeek Stadium\, Bridgeview\, IL
+ atGeek Stadium\, Bridgeview\, IL\nBroadcast: Broadcast not announced
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -129,11 +139,12 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Virginia Lynchburg Dragons @ Chicago State Cougars
 DESCRIPTION:NCAA FCS Football 2026\nVirginia Lynchburg Dragons @ Chicago St
- ate Cougars\nSeatGeek Stadium\, Bridgeview\, IL
+ ate Cougars\nSeatGeek Stadium\, Bridgeview\, IL\nBroadcast: Broadcast not 
+ announced
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -142,11 +153,13 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Chicago State Cougars @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA FCS Football 2026\nChicago State Cougars @ Southern Utah T
- hunderbirds\nEccles Coliseum\, Cedar City\, UT
+ hunderbirds\nEccles Coliseum\, Cedar City\, UT\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Eccles Coliseum\, Cedar City\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

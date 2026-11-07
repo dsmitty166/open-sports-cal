@@ -12,12 +12,14 @@ DTSTART:20260904T000000Z
 DTEND:20260904T030000Z
 SUMMARY:Eastern Illinois Panthers @ Minnesota Golden Gophers
 DESCRIPTION:NCAA FBS Football 2026\nEastern Illinois Panthers @ Minnesota G
- olden Gophers\nHuntington Bank Stadium\, Minneapolis\, MN
+ olden Gophers\nHuntington Bank Stadium\, Minneapolis\, MN\nBroadcast: Peac
+ ock (streaming)
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856677@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260912T193000Z
 DTEND:20260912T223000Z
 SUMMARY:Mississippi State Bulldogs @ Minnesota Golden Gophers
 DESCRIPTION:NCAA FBS Football 2026\nMississippi State Bulldogs @ Minnesota 
- Golden Gophers\nHuntington Bank Stadium\, Minneapolis\, MN
+ Golden Gophers\nHuntington Bank Stadium\, Minneapolis\, MN\nBroadcast: CBS
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858451@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 SUMMARY:Akron Zips @ Minnesota Golden Gophers
 DESCRIPTION:NCAA FBS Football 2026\nAkron Zips @ Minnesota Golden Gophers\n
- Huntington Bank Stadium\, Minneapolis\, MN
+ Huntington Bank Stadium\, Minneapolis\, MN\nBroadcast: BTN
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858470@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260927T030000Z
 DTEND:20260927T060000Z
 SUMMARY:Minnesota Golden Gophers @ Washington Huskies
 DESCRIPTION:NCAA FBS Football 2026\nMinnesota Golden Gophers @ Washington H
- uskies\nHusky Stadium\, Seattle\, WA
+ uskies\nHusky Stadium\, Seattle\, WA\nBroadcast: Fox
 LOCATION:Husky Stadium\, Seattle\, WA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858474@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Michigan Wolverines @ Minnesota Golden Gophers
 DESCRIPTION:NCAA FBS Football 2026\nMichigan Wolverines @ Minnesota Golden 
- Gophers\nHuntington Bank Stadium\, Minneapolis\, MN
+ Gophers\nHuntington Bank Stadium\, Minneapolis\, MN\nBroadcast: Fox
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858486@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261011T000000Z
 DTEND:20261011T030000Z
 SUMMARY:Minnesota Golden Gophers @ Purdue Boilermakers
 DESCRIPTION:NCAA FBS Football 2026\nMinnesota Golden Gophers @ Purdue Boile
- rmakers\nRoss-Ade Stadium\, West Lafayette\, IN
+ rmakers\nRoss-Ade Stadium\, West Lafayette\, IN\nBroadcast: BTN
 LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858497@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:Iowa Hawkeyes @ Minnesota Golden Gophers
 DESCRIPTION:NCAA FBS Football 2026\nIowa Hawkeyes @ Minnesota Golden Gopher
- s\nHuntington Bank Stadium\, Minneapolis\, MN
+ s\nHuntington Bank Stadium\, Minneapolis\, MN\nBroadcast: FS1
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858501@open-sports-cal
@@ -103,12 +111,14 @@ DTSTART:20261031T193000Z
 DTEND:20261031T223000Z
 SUMMARY:Minnesota Golden Gophers @ Indiana Hoosiers
 DESCRIPTION:NCAA FBS Football 2026\nMinnesota Golden Gophers @ Indiana Hoos
- iers\nMemorial Stadium (Bloomington\, IN)\, Bloomington\, IN
+ iers\nMemorial Stadium (Bloomington\, IN)\, Bloomington\, IN\nBroadcast: C
+ BS
 LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858512@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:UCLA Bruins @ Minnesota Golden Gophers
 DESCRIPTION:NCAA FBS Football 2026\nUCLA Bruins @ Minnesota Golden Gophers\
- nHuntington Bank Stadium\, Minneapolis\, MN
+ nHuntington Bank Stadium\, Minneapolis\, MN\nBroadcast: Fox
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858524@open-sports-cal
@@ -129,11 +140,12 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:Minnesota Golden Gophers @ Penn State Nittany Lions
 DESCRIPTION:NCAA FBS Football 2026\nMinnesota Golden Gophers @ Penn State N
- ittany Lions\nBeaver Stadium\, University Park\, PA
+ ittany Lions\nBeaver Stadium\, University Park\, PA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Beaver Stadium\, University Park\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,11 +154,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Northwestern Wildcats @ Minnesota Golden Gophers
 DESCRIPTION:NCAA FBS Football 2026\nNorthwestern Wildcats @ Minnesota Golde
- n Gophers\nHuntington Bank Stadium\, Minneapolis\, MN\nStart time TBD
+ n Gophers\nHuntington Bank Stadium\, Minneapolis\, MN\nStart time TBD\nBro
+ adcast: Broadcast not announced
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858544@open-sports-cal
@@ -154,11 +167,12 @@ DTSTART:20261128T003000Z
 DTEND:20261128T033000Z
 SUMMARY:Minnesota Golden Gophers @ Wisconsin Badgers
 DESCRIPTION:NCAA FBS Football 2026\nMinnesota Golden Gophers @ Wisconsin Ba
- dgers\nCamp Randall Stadium\, Madison\, WI
+ dgers\nCamp Randall Stadium\, Madison\, WI\nBroadcast: NBC
 LOCATION:Camp Randall Stadium\, Madison\, WI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 END:VCALENDAR

@@ -13,13 +13,15 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:North Carolina Central Eagles @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ Virginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ @ Virginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACC
+ NX (streaming)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925620@open-sports-cal
@@ -27,13 +29,15 @@ DTSTART:20261104T230000Z
 DTEND:20261105T020000Z
 SUMMARY:Johnson C. Smith Golden Bulls @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJohnson C. Smith Golden Bulls 
- @ North Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ @ North Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nB
+ roadcast: MEAC Network (streaming)
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MEAC Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925621@open-sports-cal
@@ -41,13 +45,15 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:North Carolina Central Eagles @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ UNC Wilmington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ @ UNC Wilmington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Fl
+ oSports (streaming)
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925622@open-sports-cal
@@ -55,13 +61,15 @@ DTSTART:20261109T230000Z
 DTEND:20261110T020000Z
 SUMMARY:Fayetteville State Broncos @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFayetteville State Broncos @ N
- orth Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ orth Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroa
+ dcast: MEAC Network (streaming)
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MEAC Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906090@open-sports-cal
@@ -69,13 +77,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:North Carolina Central Eagles @ North Carolina Tar Heels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ North Carolina Tar Heels\nCarmichael Arena\, Chapel Hill\, NC
+ @ North Carolina Tar Heels\nCarmichael Arena\, Chapel Hill\, NC\nBroadcast
+ : ACCNX (streaming)
 LOCATION:Carmichael Arena\, Chapel Hill\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921079@open-sports-cal
@@ -83,13 +93,15 @@ DTSTART:20261114T200000Z
 DTEND:20261114T230000Z
 SUMMARY:North Carolina Central Eagles @ George Mason Patriots
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ George Mason Patriots\nEagleBank Arena\, Fairfax\, VA
+ @ George Mason Patriots\nEagleBank Arena\, Fairfax\, VA\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:EagleBank Arena\, Fairfax\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915784@open-sports-cal
@@ -97,13 +109,14 @@ DTSTART:20261116T230000Z
 DTEND:20261117T020000Z
 SUMMARY:North Carolina Central Eagles @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ VCU Rams\nSiegel Center\, Richmond\, VA
+ @ VCU Rams\nSiegel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925623@open-sports-cal
@@ -111,13 +124,15 @@ DTSTART:20261120T000000Z
 DTEND:20261120T030000Z
 SUMMARY:North Carolina Central Eagles @ UNC Greensboro Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ UNC Greensboro Spartans\nBodford Arena\, Greensboro\, NC
+ @ UNC Greensboro Spartans\nBodford Arena\, Greensboro\, NC\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Bodford Arena\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925624@open-sports-cal
@@ -125,12 +140,13 @@ DTSTART:20261123T220000Z
 DTEND:20261124T010000Z
 SUMMARY:Elon Phoenix @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nElon Phoenix @ North Carolina 
- Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroadcast: Broadca
+ st not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -139,12 +155,13 @@ DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:Alabama A&M Bulldogs @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama A&M Bulldogs @ North C
- arolina Central Eagles\nColonial Life Arena\, Columbia\, SC\nNeutral site
+ arolina Central Eagles\nColonial Life Arena\, Columbia\, SC\nNeutral site\
+ nBroadcast: Broadcast not announced
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -153,12 +170,13 @@ DTSTART:20261201T220000Z
 DTEND:20261202T010000Z
 SUMMARY:Carolina University Bruins @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCarolina University Bruins @ N
- orth Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ orth Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroa
+ dcast: Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -167,13 +185,15 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:North Carolina Central Eagles @ High Point Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ High Point Panthers\nQubein Center\, High Point\, NC
+ @ High Point Panthers\nQubein Center\, High Point\, NC\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Qubein Center\, High Point\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912960@open-sports-cal
@@ -181,13 +201,15 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:North Carolina Central Eagles @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ Tennessee Lady Volunteers\nFood City Center\, Knoxville\, TN
+ @ Tennessee Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast:
+  SEC Network
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925627@open-sports-cal
@@ -195,12 +217,13 @@ DTSTART:20261216T230000Z
 DTEND:20261217T020000Z
 SUMMARY:North Carolina A&T Aggies @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina A&T Aggies @ No
- rth Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ rth Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroad
+ cast: Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -210,13 +233,14 @@ DTEND:20261218T213000Z
 SUMMARY:Hampton Lady Pirates @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ North C
  arolina Central Eagles\nOcean Bank Convocation Center\, Miami\, FL\nNeutra
- l site
+ l site\nBroadcast: ESPN+ (streaming)
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925629@open-sports-cal
@@ -225,12 +249,12 @@ DTEND:20261219T190000Z
 SUMMARY:North Carolina Central Eagles @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
  @ Florida International Panthers\nOcean Bank Convocation Center\, Miami\, 
- FL
+ FL\nBroadcast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -239,12 +263,13 @@ DTSTART:20261222T180000Z
 DTEND:20261222T210000Z
 SUMMARY:Queens University Royals @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nQueens University Royals @ Nor
- th Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ th Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroadc
+ ast: Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -253,12 +278,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:North Carolina Central Eagles @ Norfolk State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ Norfolk State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA
+ @ Norfolk State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA\nBroadcast:
+  Broadcast not announced
 LOCATION:Joseph G. Echols Hall\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -267,12 +293,13 @@ DTSTART:20270107T233000Z
 DTEND:20270108T023000Z
 SUMMARY:Morgan State Lady Bears @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Nort
- h Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ h Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroadca
+ st: Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -281,12 +308,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Coppin State Eagles @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoppin State Eagles @ North Ca
- rolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ rolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroadcast: 
+ Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -295,12 +323,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:North Carolina Central Eagles @ Howard Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ Howard Bison\nBurr Gymnasium\, Washington\, DC
+ @ Howard Bison\nBurr Gymnasium\, Washington\, DC\nBroadcast: Broadcast not
+  announced
 LOCATION:Burr Gymnasium\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -309,12 +338,13 @@ DTSTART:20270121T230000Z
 DTEND:20270122T020000Z
 SUMMARY:North Carolina Central Eagles @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -323,12 +353,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:North Carolina Central Eagles @ Delaware State Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ Delaware State Hornets\nMemorial Hall (DE)\, Dover\, DE
+ @ Delaware State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broa
+ dcast not announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -338,12 +369,12 @@ DTEND:20270130T220000Z
 SUMMARY:South Carolina State Lady Bulldogs @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
  dogs @ North Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, 
- NC
+ NC\nBroadcast: Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -352,12 +383,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Norfolk State Spartans @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorfolk State Spartans @ North
-  Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+  Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroadcas
+ t: Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -366,12 +398,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:North Carolina Central Eagles @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ Morgan State Lady Bears\nHill Field House\, Baltimore\, MD
+ @ Morgan State Lady Bears\nHill Field House\, Baltimore\, MD\nBroadcast: B
+ roadcast not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -380,12 +413,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:North Carolina Central Eagles @ Coppin State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ Coppin State Eagles\nPhysical Education Complex\, Baltimore\, MD
+ @ Coppin State Eagles\nPhysical Education Complex\, Baltimore\, MD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Physical Education Complex\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -394,12 +428,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Howard Bison @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoward Bison @ North Carolina 
- Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroadcast: Broadca
+ st not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -408,12 +443,13 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Maryland Eastern Shore Hawks @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  North Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+  North Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBr
+ oadcast: Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -422,12 +458,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Delaware State Hornets @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware State Hornets @ North
-  Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+  Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroadcas
+ t: Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -437,12 +474,12 @@ DTEND:20270305T023000Z
 SUMMARY:North Carolina Central Eagles @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
  @ South Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Cen
- ter\, Orangeburg\, SC
+ ter\, Orangeburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

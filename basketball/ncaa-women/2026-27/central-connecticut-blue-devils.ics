@@ -13,13 +13,14 @@ DTSTART:20261103T230000Z
 DTEND:20261104T020000Z
 SUMMARY:Central Connecticut Blue Devils @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ VCU Rams\nSiegel Center\, Richmond\, VA
+ s @ VCU Rams\nSiegel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918676@open-sports-cal
@@ -27,13 +28,15 @@ DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Central Connecticut Blue Devils @ James Madison Dukes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ James Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA
+ s @ James Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:Atlantic Union Bank Center\, Harrisonburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919423@open-sports-cal
@@ -41,12 +44,13 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Coppin State Eagles @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoppin State Eagles @ Central 
- Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: 
+ Broadcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -55,12 +59,13 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Rider Broncs @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Central Connect
- icut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ icut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: Broadca
+ st not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -69,13 +74,15 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Central Connecticut Blue Devils @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Massachusetts Minutewomen\nMullins Center\, Amherst\, MA
+ s @ Massachusetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919554@open-sports-cal
@@ -83,13 +90,15 @@ DTSTART:20261116T230000Z
 DTEND:20261117T020000Z
 SUMMARY:Colgate Raiders @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColgate Raiders @ Central Conn
- ecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ ecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: NEC 
+ Front Row
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913814@open-sports-cal
@@ -98,13 +107,14 @@ DTEND:20261119T020000Z
 SUMMARY:Central Connecticut Blue Devils @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
  s @ UMass Lowell River Hawks\nKennedy Family Athletic Complex\, Lowell\, M
- A
+ A\nBroadcast: ESPN+ (streaming)
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926001@open-sports-cal
@@ -112,13 +122,15 @@ DTSTART:20261122T190000Z
 DTEND:20261122T220000Z
 SUMMARY:Central Connecticut Blue Devils @ Vermont Catamounts
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Vermont Catamounts\nPatrick Gymnasium\, Burlington\, VT
+ s @ Vermont Catamounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913779@open-sports-cal
@@ -126,12 +138,13 @@ DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:New Hampshire Wildcats @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Hampshire Wildcats @ Centr
- al Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ al Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcas
+ t: Broadcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -140,13 +153,15 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Central Connecticut Blue Devils @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Sacred Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ s @ Sacred Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911749@open-sports-cal
@@ -154,13 +169,14 @@ DTSTART:20261205T210000Z
 DTEND:20261206T000000Z
 SUMMARY:Central Connecticut Blue Devils @ Fordham Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Fordham Rams\nRose Hill Gym\, Bronx\, NY
+ s @ Fordham Rams\nRose Hill Gym\, Bronx\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Rose Hill Gym\, Bronx\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913762@open-sports-cal
@@ -168,12 +184,13 @@ DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Bryant Bulldogs @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBryant Bulldogs @ Central Conn
- ecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ ecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: Broa
+ dcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -182,13 +199,15 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Central Connecticut Blue Devils @ Manhattan Jaspers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Manhattan Jaspers\nDraddy Gymnasium\, Riverdale\, NY
+ s @ Manhattan Jaspers\nDraddy Gymnasium\, Riverdale\, NY\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Draddy Gymnasium\, Riverdale\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915781@open-sports-cal
@@ -196,13 +215,15 @@ DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Central Connecticut Blue Devils @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Rhode Island Rams\nThomas M. Ryan Center\, Kingston\, RI
+ s @ Rhode Island Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919858@open-sports-cal
@@ -210,12 +231,13 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:Chicago State Cougars @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nChicago State Cougars @ Centra
- l Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ l Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast
+ : Broadcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -224,12 +246,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Le Moyne Dolphins @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLe Moyne Dolphins @ Central Co
- nnecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ nnecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: Br
+ oadcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -238,12 +261,13 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:Mercyhurst Lakers @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMercyhurst Lakers @ Central Co
- nnecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ nnecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: Br
+ oadcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -253,12 +277,12 @@ DTEND:20270115T020000Z
 SUMMARY:Central Connecticut Blue Devils @ New Haven Chargers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
  s @ New Haven Chargers\nJeffery P. Hazell Athletics Center\, West Haven\, 
- CT
+ CT\nBroadcast: Broadcast not announced
 LOCATION:Jeffery P. Hazell Athletics Center\, West Haven\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -267,12 +291,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Stonehill Skyhawks @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStonehill Skyhawks @ Central C
- onnecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ onnecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: B
+ roadcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -282,12 +307,12 @@ DTEND:20270123T220000Z
 SUMMARY:Central Connecticut Blue Devils @ Fairleigh Dickinson Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
  s @ Fairleigh Dickinson Knights\nBogota Savings Bank Center\, Hackensack\,
-  NJ
+  NJ\nBroadcast: Broadcast not announced
 LOCATION:Bogota Savings Bank Center\, Hackensack\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -297,12 +322,12 @@ DTEND:20270129T030000Z
 SUMMARY:Central Connecticut Blue Devils @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
  s @ Long Island University Sharks\nBrooklyn Athletic Center\, Brooklyn\, N
- Y
+ Y\nBroadcast: Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,12 +336,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:New Haven Chargers @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Haven Chargers @ Central C
- onnecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ onnecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: B
+ roadcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -325,12 +351,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Fairleigh Dickinson Knights @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFairleigh Dickinson Knights @ 
- Central Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ Central Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBro
+ adcast: Broadcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -339,12 +366,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Central Connecticut Blue Devils @ Stonehill Skyhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Stonehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+ s @ Stonehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: 
+ Broadcast not announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -353,12 +381,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Central Connecticut Blue Devils @ Le Moyne Dolphins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Le Moyne Dolphins\nTed Grant Court\, Syracuse\, NY
+ s @ Le Moyne Dolphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadca
+ st not announced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -367,12 +396,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Central Connecticut Blue Devils @ Mercyhurst Lakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Mercyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ s @ Mercyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: 
+ Broadcast not announced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -381,12 +411,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Wagner Seahawks @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Central Conn
- ecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ ecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: Broa
+ dcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -395,12 +426,13 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:Central Connecticut Blue Devils @ Chicago State Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Chicago State Cougars\nJones Convocation Center\, Chicago\, IL
+ s @ Chicago State Cougars\nJones Convocation Center\, Chicago\, IL\nBroadc
+ ast: Broadcast not announced
 LOCATION:Jones Convocation Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -409,12 +441,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Long Island University Sharks @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Central Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ @ Central Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nB
+ roadcast: Broadcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -423,12 +456,13 @@ DTSTART:20270305T000000Z
 DTEND:20270305T030000Z
 SUMMARY:Central Connecticut Blue Devils @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY
+ s @ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: 
+ Broadcast not announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Dartmouth Big Green @ Marist Red Foxes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Marist Red
-  Foxes\nMcCann Arena\, Poughkeepsie\, NY
+  Foxes\nMcCann Arena\, Poughkeepsie\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:McCann Arena\, Poughkeepsie\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920232@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261104T233000Z
 DTEND:20261105T023000Z
 SUMMARY:Framingham State Rams @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFramingham State Rams @ Dartmout
- h Big Green\nLeede Arena\, Hanover\, NH
+ h Big Green\nLeede Arena\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920233@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:Central Connecticut Blue Devils @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Connecticut Blue Devils 
- @ Dartmouth Big Green\nLeede Arena\, Hanover\, NH
+ @ Dartmouth Big Green\nLeede Arena\, Hanover\, NH\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920234@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261111T180000Z
 DTEND:20261111T210000Z
 SUMMARY:Dartmouth Big Green @ UAlbany Great Danes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ UAlbany Gr
- eat Danes\nBroadview Center\, Albany\, NY
+ eat Danes\nBroadview Center\, Albany\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Center\, Albany\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920235@open-sports-cal
@@ -64,12 +69,14 @@ DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Dartmouth Big Green @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Boston Uni
- versity Terriers\nCase Gym\, Boston\, MA
+ versity Terriers\nCase Gym\, Boston\, MA\nBroadcast: ESPN+ (streaming) / P
+ atriot League TV (streaming)
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920236@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261117T233000Z
 DTEND:20261118T023000Z
 SUMMARY:Maine Augusta Moose @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaine Augusta Moose @ Dartmouth 
- Big Green\nLeede Arena\, Hanover\, NH
+ Big Green\nLeede Arena\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920237@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261125T220000Z
 DTEND:20261126T010000Z
 SUMMARY:Holy Cross Crusaders @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHoly Cross Crusaders @ Dartmouth
-  Big Green\nLeede Arena\, Hanover\, NH
+  Big Green\nLeede Arena\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920238@open-sports-cal
@@ -103,12 +112,14 @@ DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:Dartmouth Big Green @ App State Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ App State 
- Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920239@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Dartmouth Big Green @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Davidson W
- ildcats\nJohn M. Belk Arena\, Davidson\, NC
+ ildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920240@open-sports-cal
@@ -129,12 +141,13 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Maine Maritime Mariners @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaine Maritime Mariners @ Dartmo
- uth Big Green\nLeede Arena\, Hanover\, NH
+ uth Big Green\nLeede Arena\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920241@open-sports-cal
@@ -142,12 +155,14 @@ DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
 SUMMARY:Dartmouth Big Green @ New Hampshire Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ New Hampsh
- ire Wildcats\nLundholm Gymnasium\, Durham\, NH
+ ire Wildcats\nLundholm Gymnasium\, Durham\, NH\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Lundholm Gymnasium\, Durham\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920242@open-sports-cal
@@ -155,12 +170,13 @@ DTSTART:20261216T233000Z
 DTEND:20261217T023000Z
 SUMMARY:Dartmouth Big Green @ Temple Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Temple Owl
- s\nLiacouras Center\, Philadelphia\, PA
+ s\nLiacouras Center\, Philadelphia\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Liacouras Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920243@open-sports-cal
@@ -168,12 +184,13 @@ DTSTART:20261220T190000Z
 DTEND:20261220T220000Z
 SUMMARY:Sacred Heart Pioneers @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSacred Heart Pioneers @ Dartmout
- h Big Green\nLeede Arena\, Hanover\, NH
+ h Big Green\nLeede Arena\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919855@open-sports-cal
@@ -181,12 +198,13 @@ DTSTART:20261229T190000Z
 DTEND:20261229T220000Z
 SUMMARY:Stonehill Skyhawks @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Dartmouth B
- ig Green\nLeede Arena\, Hanover\, NH
+ ig Green\nLeede Arena\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920244@open-sports-cal
@@ -194,11 +212,11 @@ DTSTART:20270104T233000Z
 DTEND:20270105T023000Z
 SUMMARY:Harvard Crimson @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Dartmouth Big 
- Green\nLeede Arena\, Hanover\, NH
+ Green\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,12 +225,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Cornell Big Red @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCornell Big Red @ Dartmouth Big 
- Green\nLeede Arena\, Hanover\, NH
+ Green\nLeede Arena\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920246@open-sports-cal
@@ -220,11 +239,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Dartmouth Big Green @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Princeton 
- Tigers\nJadwin Gymnasium\, Princeton\, NJ
+ Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +253,12 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Dartmouth Big Green @ Pennsylvania Quakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Pennsylvan
- ia Quakers\nThe Palestra\, Philadelphia\, PA
+ ia Quakers\nThe Palestra\, Philadelphia\, PA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +267,11 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Dartmouth Big Green @ Columbia Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Columbia L
- ions\nLevien Gymnasium\, New York\, NY
+ ions\nLevien Gymnasium\, New York\, NY\nBroadcast: Broadcast not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +280,11 @@ DTSTART:20270130T000000Z
 DTEND:20270130T030000Z
 SUMMARY:Brown Bears @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Dartmouth Big Gree
- n\nLeede Arena\, Hanover\, NH
+ n\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +293,11 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Yale Bulldogs @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Dartmouth Big Gr
- een\nLeede Arena\, Hanover\, NH
+ een\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +306,12 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Dartmouth Big Green @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Harvard Cr
- imson\nLavietes Pavilion\, Cambridge\, MA
+ imson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +320,12 @@ DTSTART:20270213T000000Z
 DTEND:20270213T030000Z
 SUMMARY:Dartmouth Big Green @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Brown Bear
- s\nPizzitola Sports Center\, Providence\, RI
+ s\nPizzitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +334,12 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:Dartmouth Big Green @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Yale Bulld
- ogs\nJohn J. Lee Amphitheater\, New Haven\, CT
+ ogs\nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +348,11 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Columbia Lions @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColumbia Lions @ Dartmouth Big G
- reen\nLeede Arena\, Hanover\, NH
+ reen\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +361,11 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:Princeton Tigers @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Dartmouth Big
-  Green\nLeede Arena\, Hanover\, NH
+  Green\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +374,11 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:Pennsylvania Quakers @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPennsylvania Quakers @ Dartmouth
-  Big Green\nLeede Arena\, Hanover\, NH
+  Big Green\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +387,12 @@ DTSTART:20270306T190000Z
 DTEND:20270306T220000Z
 SUMMARY:Dartmouth Big Green @ Cornell Big Red
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Cornell Bi
- g Red\nNewman Arena\, Ithaca\, NY
+ g Red\nNewman Arena\, Ithaca\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Newman Arena\, Ithaca\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

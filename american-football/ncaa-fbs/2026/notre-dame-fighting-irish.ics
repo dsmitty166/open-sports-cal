@@ -12,12 +12,13 @@ DTSTART:20260906T233000Z
 DTEND:20260907T023000Z
 SUMMARY:Wisconsin Badgers @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA FBS Football 2026\nWisconsin Badgers @ Notre Dame Fighting
-  Irish\nLambeau Field\, Green Bay\, WI\nNeutral site
+  Irish\nLambeau Field\, Green Bay\, WI\nNeutral site\nBroadcast: NBC
 LOCATION:Lambeau Field\, Green Bay\, WI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401859184@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T193000Z
 DTEND:20260912T223000Z
 SUMMARY:Rice Owls @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA FBS Football 2026\nRice Owls @ Notre Dame Fighting Irish\n
- Notre Dame Stadium\, Notre Dame\, IN
+ Notre Dame Stadium\, Notre Dame\, IN\nBroadcast: NBC
 LOCATION:Notre Dame Stadium\, Notre Dame\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858453@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T233000Z
 DTEND:20260920T023000Z
 SUMMARY:Michigan State Spartans @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA FBS Football 2026\nMichigan State Spartans @ Notre Dame Fi
- ghting Irish\nNotre Dame Stadium\, Notre Dame\, IN
+ ghting Irish\nNotre Dame Stadium\, Notre Dame\, IN\nBroadcast: NBC
 LOCATION:Notre Dame Stadium\, Notre Dame\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858467@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20260926T180000Z
 DTEND:20260926T210000Z
 SUMMARY:Notre Dame Fighting Irish @ Purdue Boilermakers
 DESCRIPTION:NCAA FBS Football 2026\nNotre Dame Fighting Irish @ Purdue Boil
- ermakers\nRoss-Ade Stadium\, West Lafayette\, IN
+ ermakers\nRoss-Ade Stadium\, West Lafayette\, IN\nBroadcast: Peacock (stre
+ aming)
 LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858250@open-sports-cal
@@ -64,12 +69,14 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Notre Dame Fighting Irish @ North Carolina Tar Heels
 DESCRIPTION:NCAA FBS Football 2026\nNotre Dame Fighting Irish @ North Carol
- ina Tar Heels\nKenan Stadium\, Chapel Hill\, NC
+ ina Tar Heels\nKenan Stadium\, Chapel Hill\, NC\nBroadcast: ESPN / Disney+
+  (streaming)
 LOCATION:Kenan Stadium\, Chapel Hill\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858257@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261010T193000Z
 DTEND:20261010T223000Z
 SUMMARY:Stanford Cardinal @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA FBS Football 2026\nStanford Cardinal @ Notre Dame Fighting
-  Irish\nNotre Dame Stadium\, Notre Dame\, IN
+  Irish\nNotre Dame Stadium\, Notre Dame\, IN\nBroadcast: NBC
 LOCATION:Notre Dame Stadium\, Notre Dame\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856809@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261017T233000Z
 DTEND:20261018T023000Z
 SUMMARY:Notre Dame Fighting Irish @ BYU Cougars
 DESCRIPTION:NCAA FBS Football 2026\nNotre Dame Fighting Irish @ BYU Cougars
- \nLaVell Edwards Stadium\, Provo\, UT
+ \nLaVell Edwards Stadium\, Provo\, UT\nBroadcast: ABC
 LOCATION:LaVell Edwards Stadium\, Provo\, UT
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401859185@open-sports-cal
@@ -103,12 +112,13 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Notre Dame Fighting Irish @ Navy Midshipmen
 DESCRIPTION:NCAA FBS Football 2026\nNotre Dame Fighting Irish @ Navy Midshi
- pmen\nGillette Stadium\, Foxborough\, MA\nNeutral site
+ pmen\nGillette Stadium\, Foxborough\, MA\nNeutral site\nBroadcast: ABC
 LOCATION:Gillette Stadium\, Foxborough\, MA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858291@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261108T003000Z
 DTEND:20261108T033000Z
 SUMMARY:Miami Hurricanes @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA FBS Football 2026\nMiami Hurricanes @ Notre Dame Fighting 
- Irish\nNotre Dame Stadium\, Notre Dame\, IN
+ Irish\nNotre Dame Stadium\, Notre Dame\, IN\nBroadcast: NBC
 LOCATION:Notre Dame Stadium\, Notre Dame\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858294@open-sports-cal
@@ -129,12 +140,13 @@ DTSTART:20261114T203000Z
 DTEND:20261114T233000Z
 SUMMARY:Boston College Eagles @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA FBS Football 2026\nBoston College Eagles @ Notre Dame Figh
- ting Irish\nNotre Dame Stadium\, Notre Dame\, IN
+ ting Irish\nNotre Dame Stadium\, Notre Dame\, IN\nBroadcast: NBC
 LOCATION:Notre Dame Stadium\, Notre Dame\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858307@open-sports-cal
@@ -142,12 +154,13 @@ DTSTART:20261122T003000Z
 DTEND:20261122T033000Z
 SUMMARY:SMU Mustangs @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA FBS Football 2026\nSMU Mustangs @ Notre Dame Fighting Iris
- h\nNotre Dame Stadium\, Notre Dame\, IN
+ h\nNotre Dame Stadium\, Notre Dame\, IN\nBroadcast: NBC
 LOCATION:Notre Dame Stadium\, Notre Dame\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858314@open-sports-cal
@@ -155,10 +168,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Notre Dame Fighting Irish @ Syracuse Orange
 DESCRIPTION:NCAA FBS Football 2026\nNotre Dame Fighting Irish @ Syracuse Or
- ange\nJMA Wireless Dome\, Syracuse\, NY\nStart time TBD
+ ange\nJMA Wireless Dome\, Syracuse\, NY\nStart time TBD\nBroadcast: Broadc
+ ast not announced
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

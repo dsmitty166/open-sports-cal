@@ -12,12 +12,13 @@ DTSTART:20260904T000000Z
 DTEND:20260904T030000Z
 SUMMARY:Colorado Buffaloes @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA FBS Football 2026\nColorado Buffaloes @ Georgia Tech Yello
- w Jackets\nBobby Dodd Stadium\, Atlanta\, GA
+ w Jackets\nBobby Dodd Stadium\, Atlanta\, GA\nBroadcast: ESPN
 LOCATION:Bobby Dodd Stadium\, Atlanta\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856785@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T193000Z
 DTEND:20260912T223000Z
 SUMMARY:Weber State Wildcats @ Colorado Buffaloes
 DESCRIPTION:NCAA FBS Football 2026\nWeber State Wildcats @ Colorado Buffalo
- es\nFolsom Field\, Boulder\, CO
+ es\nFolsom Field\, Boulder\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Folsom Field\, Boulder\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856796@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20260919T233000Z
 DTEND:20260920T023000Z
 SUMMARY:Colorado Buffaloes @ Northwestern Wildcats
 DESCRIPTION:NCAA FBS Football 2026\nColorado Buffaloes @ Northwestern Wildc
- ats\nNorthwestern Medicine Field at Martin Stadium\, Evanston\, IL
+ ats\nNorthwestern Medicine Field at Martin Stadium\, Evanston\, IL\nBroadc
+ ast: Fox
 LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, IL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856813@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260926T160000Z
 DTEND:20260926T190000Z
 SUMMARY:Colorado Buffaloes @ Baylor Bears
 DESCRIPTION:NCAA FBS Football 2026\nColorado Buffaloes @ Baylor Bears\nMcLa
- ne Stadium\, Waco\, TX
+ ne Stadium\, Waco\, TX\nBroadcast: ESPN2
 LOCATION:McLane Stadium\, Waco\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856821@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T233000Z
 DTEND:20261004T023000Z
 SUMMARY:Texas Tech Red Raiders @ Colorado Buffaloes
 DESCRIPTION:NCAA FBS Football 2026\nTexas Tech Red Raiders @ Colorado Buffa
- loes\nFolsom Field\, Boulder\, CO
+ loes\nFolsom Field\, Boulder\, CO\nBroadcast: Fox
 LOCATION:Folsom Field\, Boulder\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856833@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261018T021500Z
 DTEND:20261018T051500Z
 SUMMARY:Utah Utes @ Colorado Buffaloes
 DESCRIPTION:NCAA FBS Football 2026\nUtah Utes @ Colorado Buffaloes\nFolsom 
- Field\, Boulder\, CO
+ Field\, Boulder\, CO\nBroadcast: ESPN
 LOCATION:Folsom Field\, Boulder\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856836@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261024T230000Z
 DTEND:20261025T020000Z
 SUMMARY:Colorado Buffaloes @ Oklahoma State Cowboys
 DESCRIPTION:NCAA FBS Football 2026\nColorado Buffaloes @ Oklahoma State Cow
- boys\nBoone Pickens Stadium\, Stillwater\, OK
+ boys\nBoone Pickens Stadium\, Stillwater\, OK\nBroadcast: FS1
 LOCATION:Boone Pickens Stadium\, Stillwater\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856846@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261031T180000Z
 DTEND:20261031T210000Z
 SUMMARY:Kansas State Wildcats @ Colorado Buffaloes
 DESCRIPTION:NCAA FBS Football 2026\nKansas State Wildcats @ Colorado Buffal
- oes\nFolsom Field\, Boulder\, CO
+ oes\nFolsom Field\, Boulder\, CO\nBroadcast: TNT
 LOCATION:Folsom Field\, Boulder\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856852@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261108T003000Z
 DTEND:20261108T033000Z
 SUMMARY:Colorado Buffaloes @ Arizona State Sun Devils
 DESCRIPTION:NCAA FBS Football 2026\nColorado Buffaloes @ Arizona State Sun 
- Devils\nMountain America Stadium\, Tempe\, AZ
+ Devils\nMountain America Stadium\, Tempe\, AZ\nBroadcast: ESPN2
 LOCATION:Mountain America Stadium\, Tempe\, AZ
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856860@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261114T031500Z
 DTEND:20261114T061500Z
 SUMMARY:Houston Cougars @ Colorado Buffaloes
 DESCRIPTION:NCAA FBS Football 2026\nHouston Cougars @ Colorado Buffaloes\nF
- olsom Field\, Boulder\, CO
+ olsom Field\, Boulder\, CO\nBroadcast: ESPN
 LOCATION:Folsom Field\, Boulder\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856867@open-sports-cal
@@ -142,11 +153,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Colorado Buffaloes @ Cincinnati Bearcats
 DESCRIPTION:NCAA FBS Football 2026\nColorado Buffaloes @ Cincinnati Bearcat
- s\nNippert Stadium\, Cincinnati\, OH\nStart time TBD
+ s\nNippert Stadium\, Cincinnati\, OH\nStart time TBD\nBroadcast: Broadcast
+  not announced
 LOCATION:Nippert Stadium\, Cincinnati\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856875@open-sports-cal
@@ -154,10 +166,10 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:UCF Knights @ Colorado Buffaloes
 DESCRIPTION:NCAA FBS Football 2026\nUCF Knights @ Colorado Buffaloes\nFolso
- m Field\, Boulder\, CO\nStart time TBD
+ m Field\, Boulder\, CO\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Folsom Field\, Boulder\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

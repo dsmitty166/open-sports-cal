@@ -12,12 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Youngstown State Penguins @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYoungstown State Penguins @ St. 
- Bonaventure Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ Bonaventure Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911262@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261108T000000Z
 DTEND:20261108T030000Z
 SUMMARY:St. Bonaventure Bonnies @ Canisius Golden Griffins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Canisi
- us Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ us Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911263@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Cornell Big Red @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCornell Big Red @ St. Bonaventur
- e Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ e Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911264@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261114T210000Z
 DTEND:20261115T000000Z
 SUMMARY:Lafayette Leopards @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLafayette Leopards @ St. Bonaven
- ture Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ ture Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911021@open-sports-cal
@@ -64,12 +72,14 @@ DTSTART:20261120T000000Z
 DTEND:20261120T030000Z
 SUMMARY:Buffalo Bulls @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ St. Bonaventure 
- Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927397@open-sports-cal
@@ -77,12 +87,14 @@ DTSTART:20261123T160000Z
 DTEND:20261123T190000Z
 SUMMARY:St. Bonaventure Bonnies @ App State Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ App St
- ate Mountaineers\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+ ate Mountaineers\nState Farm Field House\, Kissimmee\, FL\nNeutral site\nB
+ roadcast: ESPN2
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927398@open-sports-cal
@@ -90,12 +102,14 @@ DTSTART:20261124T150000Z
 DTEND:20261124T180000Z
 SUMMARY:Wright State Raiders @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWright State Raiders @ St. Bonav
- enture Bonnies\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+ enture Bonnies\nState Farm Field House\, Kissimmee\, FL\nNeutral site\nBro
+ adcast: ESPN2
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927399@open-sports-cal
@@ -103,12 +117,14 @@ DTSTART:20261125T150000Z
 DTEND:20261125T180000Z
 SUMMARY:St. Bonaventure Bonnies @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Belmon
- t Bruins\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+ t Bruins\nState Farm Field House\, Kissimmee\, FL\nNeutral site\nBroadcast
+ : ESPN2
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911265@open-sports-cal
@@ -116,11 +132,12 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Florida Atlantic Owls @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Atlantic Owls @ St. Bona
- venture Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ venture Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: Broadc
+ ast not announced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +146,13 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:St. Bonaventure Bonnies @ Siena Saints
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Siena 
- Saints\nMVP Arena\, Albany\, NY
+ Saints\nMVP Arena\, Albany\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:MVP Arena\, Albany\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925860@open-sports-cal
@@ -142,11 +160,12 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:St. Bonaventure Bonnies @ Temple Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Temple
-  Owls\nThe Palestra\, Philadelphia\, PA\nNeutral site
+  Owls\nThe Palestra\, Philadelphia\, PA\nNeutral site\nBroadcast: Broadcas
+ t not announced
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +174,14 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:UAlbany Great Danes @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUAlbany Great Danes @ St. Bonave
- nture Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ nture Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911268@open-sports-cal
@@ -168,12 +189,14 @@ DTSTART:20261219T170000Z
 DTEND:20261219T200000Z
 SUMMARY:Mercyhurst Lakers @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ St. Bonavent
- ure Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ ure Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911269@open-sports-cal
@@ -181,12 +204,14 @@ DTSTART:20261228T190000Z
 DTEND:20261228T220000Z
 SUMMARY:Roberts Wesleyan Redhawks @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRoberts Wesleyan Redhawks @ St. 
- Bonaventure Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ Bonaventure Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927340@open-sports-cal
@@ -194,11 +219,12 @@ DTSTART:20261231T010000Z
 DTEND:20261231T040000Z
 SUMMARY:VCU Rams @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ St. Bonaventure Bonni
- es\nReilly Center\, Saint Bonaventure\, NY
+ es\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +233,12 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:St. Bonaventure Bonnies @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Saint 
- Louis Billikens\nChaifetz Arena\, St. Louis\, MO
+ Louis Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not
+  announced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +247,12 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Saint Joseph's Hawks @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Joseph's Hawks @ St. Bonav
- enture Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ enture Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: Broadca
+ st not announced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +261,11 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:St. Bonaventure Bonnies @ Fordham Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Fordha
- m Rams\nRose Hill Gym\, Bronx\, NY
+ m Rams\nRose Hill Gym\, Bronx\, NY\nBroadcast: Broadcast not announced
 LOCATION:Rose Hill Gym\, Bronx\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +274,12 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:St. Bonaventure Bonnies @ George Mason Patriots
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ George
-  Mason Patriots\nEagleBank Arena\, Fairfax\, VA
+  Mason Patriots\nEagleBank Arena\, Fairfax\, VA\nBroadcast: Broadcast not 
+ announced
 LOCATION:EagleBank Arena\, Fairfax\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +288,12 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Dayton Flyers @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDayton Flyers @ St. Bonaventure 
- Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: Broadcast not 
+ announced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +302,12 @@ DTSTART:20270123T173000Z
 DTEND:20270123T203000Z
 SUMMARY:George Washington Revolutionaries @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorge Washington Revolutionarie
- s @ St. Bonaventure Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ s @ St. Bonaventure Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroad
+ cast: Broadcast not announced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +316,12 @@ DTSTART:20270128T010000Z
 DTEND:20270128T040000Z
 SUMMARY:St. Bonaventure Bonnies @ Loyola Chicago Ramblers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Loyola
-  Chicago Ramblers\nGentile Arena\, Chicago\, IL
+  Chicago Ramblers\nGentile Arena\, Chicago\, IL\nBroadcast: Broadcast not 
+ announced
 LOCATION:Gentile Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +330,12 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:St. Bonaventure Bonnies @ Duquesne Dukes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Duques
- ne Dukes\nUPMC Cooper Fieldhouse\, Pittsburgh\, PA
+ ne Dukes\nUPMC Cooper Fieldhouse\, Pittsburgh\, PA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +344,12 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:George Mason Patriots @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorge Mason Patriots @ St. Bona
- venture Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ venture Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: Broadc
+ ast not announced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +358,12 @@ DTSTART:20270206T193000Z
 DTEND:20270206T223000Z
 SUMMARY:Richmond Spiders @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ St. Bonaventu
- re Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ re Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +372,12 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:St. Bonaventure Bonnies @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Davids
- on Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+ on Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: Broadcast not 
+ announced
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +386,12 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Fordham Rams @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFordham Rams @ St. Bonaventure B
- onnies\nReilly Center\, Saint Bonaventure\, NY
+ onnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +400,12 @@ DTSTART:20270220T193000Z
 DTEND:20270220T223000Z
 SUMMARY:St. Bonaventure Bonnies @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Richmo
- nd Spiders\nRobins Center\, Richmond\, VA
+ nd Spiders\nRobins Center\, Richmond\, VA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +414,11 @@ DTSTART:20270223T233000Z
 DTEND:20270224T023000Z
 SUMMARY:St. Bonaventure Bonnies @ VCU Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ VCU Ra
- ms\nSiegel Center\, Richmond\, VA
+ ms\nSiegel Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +427,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Duquesne Dukes @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDuquesne Dukes @ St. Bonaventure
-  Bonnies\nReilly Center\, Saint Bonaventure\, NY
+  Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: Broadcast not
+  announced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +441,12 @@ DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
 SUMMARY:La Salle Explorers @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLa Salle Explorers @ St. Bonaven
- ture Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ ture Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: Broadcast
+  not announced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +455,12 @@ DTSTART:20270306T180000Z
 DTEND:20270306T210000Z
 SUMMARY:St. Bonaventure Bonnies @ Rhode Island Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Rhode 
- Island Rams\nThomas M. Ryan Center\, Kingston\, RI
+ Island Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

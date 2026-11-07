@@ -12,13 +12,15 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Rider Broncs @ NJIT Highlanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ NJIT Highlander
- s\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ
+ s\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Joel & Diane Bloom Wellness and Events Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919408@open-sports-cal
@@ -26,12 +28,13 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Rider Broncs @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Central Connect
- icut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ icut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: Broadca
+ st not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -40,13 +43,14 @@ DTSTART:20261114T160000Z
 DTEND:20261114T190000Z
 SUMMARY:Rider Broncs @ Yale Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Yale Bulldogs\n
- John J. Lee Amphitheater\, New Haven\, CT
+ John J. Lee Amphitheater\, New Haven\, CT\nBroadcast: ESPN+ (streaming)
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919409@open-sports-cal
@@ -54,12 +58,13 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Rider Broncs @ Fairleigh Dickinson Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Fairleigh Dicki
- nson Knights\nBogota Savings Bank Center\, Hackensack\, NJ
+ nson Knights\nBogota Savings Bank Center\, Hackensack\, NJ\nBroadcast: Bro
+ adcast not announced
 LOCATION:Bogota Savings Bank Center\, Hackensack\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -68,12 +73,13 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Rider Broncs @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Wagner Seahawks
- \nSpiro Sports Center\, Staten Island\, NY
+ \nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -82,13 +88,14 @@ DTSTART:20261124T000000Z
 DTEND:20261124T030000Z
 SUMMARY:Rider Broncs @ Seton Hall Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Seton Hall Pira
- tes\nWalsh Gymnasium\, South Orange\, NJ
+ tes\nWalsh Gymnasium\, South Orange\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Walsh Gymnasium\, South Orange\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919411@open-sports-cal
@@ -96,13 +103,15 @@ DTSTART:20261202T230000Z
 DTEND:20261203T020000Z
 SUMMARY:Long Island University Sharks @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Rider Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ @ Rider Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919412@open-sports-cal
@@ -110,13 +119,14 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Rider Broncs @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Lafayette Leopa
- rds\nKirby Sports Center\, Easton\, PA
+ rds\nKirby Sports Center\, Easton\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913672@open-sports-cal
@@ -124,13 +134,15 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Rider Broncs @ George Washington Revolutionaries
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ George Washingt
- on Revolutionaries\nCharles E. Smith Center\, Washington\, DC
+ on Revolutionaries\nCharles E. Smith Center\, Washington\, DC\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Charles E. Smith Center\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915602@open-sports-cal
@@ -138,13 +150,15 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Canisius Golden Griffins @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Rid
- er Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ er Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916200@open-sports-cal
@@ -152,13 +166,15 @@ DTSTART:20261221T210000Z
 DTEND:20261222T000000Z
 SUMMARY:Niagara Purple Eagles @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNiagara Purple Eagles @ Rider 
- Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916218@open-sports-cal
@@ -166,13 +182,14 @@ DTSTART:20261229T233000Z
 DTEND:20261230T023000Z
 SUMMARY:Rider Broncs @ Quinnipiac Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Quinnipiac Bobc
- ats\nM&T Bank Arena\, Hamden\, CT
+ ats\nM&T Bank Arena\, Hamden\, CT\nBroadcast: ESPN+ (streaming)
 LOCATION:M&T Bank Arena\, Hamden\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915649@open-sports-cal
@@ -180,12 +197,13 @@ DTSTART:20270101T190000Z
 DTEND:20270101T220000Z
 SUMMARY:Rider Broncs @ Fairfield Stags
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Fairfield Stags
- \nLeo D. Mahoney Arena\, Fairfield\, CT
+ \nLeo D. Mahoney Arena\, Fairfield\, CT\nBroadcast: Broadcast not announce
+ d
 LOCATION:Leo D. Mahoney Arena\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +212,13 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:Saint Peter's Peacocks @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Rider
-  Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+  Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadca
+ st not announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +227,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Rider Broncs @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Mount St. Mary'
- s Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ s Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +242,13 @@ DTSTART:20270113T230000Z
 DTEND:20270114T020000Z
 SUMMARY:Iona Gaels @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIona Gaels @ Rider Broncs\nAlu
- mni Gymnasium (Rider)\, Lawrenceville\, NJ
+ mni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +257,13 @@ DTSTART:20270116T230000Z
 DTEND:20270117T020000Z
 SUMMARY:Manhattan Jaspers @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nManhattan Jaspers @ Rider Bron
- cs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ cs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast no
+ t announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +272,12 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Rider Broncs @ Marist Red Foxes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Marist Red Foxe
- s\nMcCann Arena\, Poughkeepsie\, NY
+ s\nMcCann Arena\, Poughkeepsie\, NY\nBroadcast: Broadcast not announced
 LOCATION:McCann Arena\, Poughkeepsie\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +286,13 @@ DTSTART:20270121T230000Z
 DTEND:20270122T020000Z
 SUMMARY:Fairfield Stags @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFairfield Stags @ Rider Broncs
- \nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ \nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast not 
+ announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +301,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Rider Broncs @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Saint Peter's P
- eacocks\nYanitelli Center\, Jersey City\, NJ
+ eacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +316,13 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Rider Broncs @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Sacred Heart Pi
- oneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ oneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: Broadcast not 
+ announced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +331,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Quinnipiac Bobcats @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nQuinnipiac Bobcats @ Rider Bro
- ncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ ncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +346,12 @@ DTSTART:20270206T170000Z
 DTEND:20270206T200000Z
 SUMMARY:Rider Broncs @ Merrimack Warriors
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Merrimack Warri
- ors\nHammel Court\, North Andover\, MA
+ ors\nHammel Court\, North Andover\, MA\nBroadcast: Broadcast not announced
 LOCATION:Hammel Court\, North Andover\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +360,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Rider Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ @ Rider Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: 
+ Broadcast not announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +375,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Rider Broncs @ Manhattan Jaspers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Manhattan Jaspe
- rs\nDraddy Gymnasium\, Riverdale\, NY
+ rs\nDraddy Gymnasium\, Riverdale\, NY\nBroadcast: Broadcast not announced
 LOCATION:Draddy Gymnasium\, Riverdale\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +389,13 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Siena Saints @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Rider Broncs\nA
- lumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ lumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +404,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Marist Red Foxes @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarist Red Foxes @ Rider Bronc
- s\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ s\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast not
+  announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +419,13 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Rider Broncs @ Niagara Purple Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Niagara Purple 
- Eagles\nGallagher Center\, Niagara Falls\, NY
+ Eagles\nGallagher Center\, Niagara Falls\, NY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Gallagher Center\, Niagara Falls\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +434,13 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Rider Broncs @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Canisius Golden
-  Griffins\nKoessler Athletic Center\, Buffalo\, NY
+  Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

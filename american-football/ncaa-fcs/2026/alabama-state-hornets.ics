@@ -12,12 +12,13 @@ DTSTART:20260829T190000Z
 DTEND:20260829T220000Z
 SUMMARY:Alabama State Hornets @ Southern Jaguars
 DESCRIPTION:NCAA FCS Football 2026\nAlabama State Hornets @ Southern Jaguar
- s\nLegion Field (AL)\, Birmingham\, AL\nNeutral site
+ s\nLegion Field (AL)\, Birmingham\, AL\nNeutral site\nBroadcast: ESPNU
 LOCATION:Legion Field (AL)\, Birmingham\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868325@open-sports-cal
@@ -25,11 +26,12 @@ DTSTART:20260905T220000Z
 DTEND:20260906T010000Z
 SUMMARY:Lane College Dragons @ Alabama State Hornets
 DESCRIPTION:NCAA FCS Football 2026\nLane College Dragons @ Alabama State Ho
- rnets\nASU Football Stadium\, Montgomery\, AL
+ rnets\nASU Football Stadium\, Montgomery\, AL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:ASU Football Stadium\, Montgomery\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -38,12 +40,13 @@ DTSTART:20260912T200000Z
 DTEND:20260912T230000Z
 SUMMARY:Alabama State Hornets @ Troy Trojans
 DESCRIPTION:NCAA FCS Football 2026\nAlabama State Hornets @ Troy Trojans\nV
- eterans Memorial Stadium (AL)\, Troy\, AL
+ eterans Memorial Stadium (AL)\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Veterans Memorial Stadium (AL)\, Troy\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868327@open-sports-cal
@@ -51,11 +54,12 @@ DTSTART:20260926T220000Z
 DTEND:20260927T010000Z
 SUMMARY:Mississippi Valley State Delta Devils @ Alabama State Hornets
 DESCRIPTION:NCAA FCS Football 2026\nMississippi Valley State Delta Devils @
-  Alabama State Hornets\nASU Football Stadium\, Montgomery\, AL
+  Alabama State Hornets\nASU Football Stadium\, Montgomery\, AL\nBroadcast:
+  Broadcast not announced
 LOCATION:ASU Football Stadium\, Montgomery\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -64,11 +68,12 @@ DTSTART:20261003T200000Z
 DTEND:20261003T230000Z
 SUMMARY:Alabama State Hornets @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nAlabama State Hornets @ Bethune-Cookman
-  Wildcats\nDaytona Stadium\, Daytona Beach\, FL
+  Wildcats\nDaytona Stadium\, Daytona Beach\, FL\nBroadcast: Broadcast not 
+ announced
 LOCATION:Daytona Stadium\, Daytona Beach\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +82,12 @@ DTSTART:20261009T160000Z
 DTEND:20261009T190000Z
 SUMMARY:Florida A&M Rattlers @ Alabama State Hornets
 DESCRIPTION:NCAA FCS Football 2026\nFlorida A&M Rattlers @ Alabama State Ho
- rnets\nASU Football Stadium\, Montgomery\, AL
+ rnets\nASU Football Stadium\, Montgomery\, AL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:ASU Football Stadium\, Montgomery\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +96,12 @@ DTSTART:20261017T190000Z
 DTEND:20261017T220000Z
 SUMMARY:Alabama State Hornets @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA FCS Football 2026\nAlabama State Hornets @ Arkansas-Pine B
- luff Golden Lions\nSimmons Bank Field\, Pine Bluff\, AR
+ luff Golden Lions\nSimmons Bank Field\, Pine Bluff\, AR\nBroadcast: Broadc
+ ast not announced
 LOCATION:Simmons Bank Field\, Pine Bluff\, AR
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +110,14 @@ DTSTART:20261031T193000Z
 DTEND:20261031T223000Z
 SUMMARY:Alabama State Hornets @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nAlabama State Hornets @ Alabama A&M Bul
- ldogs\nLegion Field (AL)\, Birmingham\, AL\nNeutral site
+ ldogs\nLegion Field (AL)\, Birmingham\, AL\nNeutral site\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Legion Field (AL)\, Birmingham\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868331@open-sports-cal
@@ -116,12 +125,14 @@ DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
 SUMMARY:Alabama State Hornets @ Texas Southern Tigers
 DESCRIPTION:NCAA FCS Football 2026\nAlabama State Hornets @ Texas Southern 
- Tigers\nShell Energy Stadium\, Houston\, TX
+ Tigers\nShell Energy Stadium\, Houston\, TX\nBroadcast: SWAC TV (streaming
+ )
 LOCATION:Shell Energy Stadium\, Houston\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868332@open-sports-cal
@@ -129,12 +140,14 @@ DTSTART:20261114T200000Z
 DTEND:20261114T230000Z
 SUMMARY:Jackson State Tigers @ Alabama State Hornets
 DESCRIPTION:NCAA FCS Football 2026\nJackson State Tigers @ Alabama State Ho
- rnets\nASU Football Stadium\, Montgomery\, AL
+ rnets\nASU Football Stadium\, Montgomery\, AL\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:ASU Football Stadium\, Montgomery\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868353@open-sports-cal
@@ -142,12 +155,14 @@ DTSTART:20261121T200000Z
 DTEND:20261121T230000Z
 SUMMARY:Prairie View A&M Panthers @ Alabama State Hornets
 DESCRIPTION:NCAA FCS Football 2026\nPrairie View A&M Panthers @ Alabama Sta
- te Hornets\nASU Football Stadium\, Montgomery\, AL
+ te Hornets\nASU Football Stadium\, Montgomery\, AL\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:ASU Football Stadium\, Montgomery\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868354@open-sports-cal
@@ -155,11 +170,12 @@ DTSTART:20261126T200000Z
 DTEND:20261126T230000Z
 SUMMARY:Tuskegee Golden Tigers @ Alabama State Hornets
 DESCRIPTION:NCAA FCS Football 2026\nTuskegee Golden Tigers @ Alabama State 
- Hornets\nASU Football Stadium\, Montgomery\, AL
+ Hornets\nASU Football Stadium\, Montgomery\, AL\nBroadcast: Broadcast not 
+ announced
 LOCATION:ASU Football Stadium\, Montgomery\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

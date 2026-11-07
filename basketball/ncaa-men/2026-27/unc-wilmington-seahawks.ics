@@ -12,11 +12,12 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Mount Olive Trojans @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMount Olive Trojans @ UNC Wilmin
- gton Seahawks\nTrask Coliseum\, Wilmington\, NC
+ gton Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not 
+ announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -25,12 +26,14 @@ DTSTART:20261107T190000Z
 DTEND:20261107T220000Z
 SUMMARY:UNC Wilmington Seahawks @ East Carolina Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ East C
- arolina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC
+ arolina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926863@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Kent State Golden Flashes @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ UNC 
- Wilmington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ Wilmington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: FloSport
+ s (streaming)
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926864@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:Louisiana Ragin' Cajuns @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ UNC Wi
- lmington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ lmington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: FloSports 
+ (streaming)
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919808@open-sports-cal
@@ -64,11 +71,12 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:UNC Wilmington Seahawks @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Long I
- sland University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ sland University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadca
+ st: Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +85,12 @@ DTSTART:20261121T230000Z
 DTEND:20261122T020000Z
 SUMMARY:UNC Wilmington Seahawks @ Norfolk State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Norfol
- k State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA
+ k State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA\nBroadcast: Broadca
+ st not announced
 LOCATION:Joseph G. Echols Hall\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +99,12 @@ DTSTART:20261126T000000Z
 DTEND:20261126T030000Z
 SUMMARY:St. Thomas Tommies @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ UNC Wilming
- ton Seahawks\nTrask Coliseum\, Wilmington\, NC
+ ton Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,11 +113,12 @@ DTSTART:20261127T200000Z
 DTEND:20261127T230000Z
 SUMMARY:Princeton Tigers @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ UNC Wilmingto
- n Seahawks\nTrask Coliseum\, Wilmington\, NC
+ n Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,11 +127,12 @@ DTSTART:20261128T200000Z
 DTEND:20261128T230000Z
 SUMMARY:Liberty Flames @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLiberty Flames @ UNC Wilmington 
- Seahawks\nTrask Coliseum\, Wilmington\, NC
+ Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +141,14 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:UNC Wilmington Seahawks @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Marsha
- ll Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ ll Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926865@open-sports-cal
@@ -142,11 +156,12 @@ DTSTART:20261206T000000Z
 DTEND:20261206T030000Z
 SUMMARY:Valparaiso Beacons @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ UNC Wilming
- ton Seahawks\nTrask Coliseum\, Wilmington\, NC
+ ton Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -156,12 +171,13 @@ DTEND:20261213T010000Z
 SUMMARY:UNC Wilmington Seahawks @ Georgia Southern Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Georgi
  a Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\
- , GA
+ , GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922058@open-sports-cal
@@ -169,11 +185,12 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Radford Highlanders @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ UNC Wilmin
- gton Seahawks\nTrask Coliseum\, Wilmington\, NC
+ gton Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not 
+ announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -182,11 +199,12 @@ DTSTART:20261228T220000Z
 DTEND:20261229T010000Z
 SUMMARY:Columbia (SC) Fighting Koalas @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColumbia (SC) Fighting Koalas @ 
- UNC Wilmington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ UNC Wilmington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broa
+ dcast not announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -195,11 +213,12 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Campbell Fighting Camels @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ UNC W
- ilmington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ ilmington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast
+  not announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,11 +227,12 @@ DTSTART:20270103T000000Z
 DTEND:20270103T030000Z
 SUMMARY:Northeastern Huskies @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNortheastern Huskies @ UNC Wilmi
- ngton Seahawks\nTrask Coliseum\, Wilmington\, NC
+ ngton Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not
+  announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -221,11 +241,12 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:UNC Wilmington Seahawks @ North Carolina A&T Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ North 
- Carolina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC
+ Carolina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC\nBroadcast: B
+ roadcast not announced
 LOCATION:Corbett Sports Center\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -234,11 +255,11 @@ DTSTART:20270112T013000Z
 DTEND:20270112T043000Z
 SUMMARY:UNC Wilmington Seahawks @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Elon P
- hoenix\nSchar Center\, Elon\, NC
+ hoenix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +268,12 @@ DTSTART:20270117T000000Z
 DTEND:20270117T030000Z
 SUMMARY:Towson Tigers @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTowson Tigers @ UNC Wilmington S
- eahawks\nTrask Coliseum\, Wilmington\, NC
+ eahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +282,12 @@ DTSTART:20270119T000000Z
 DTEND:20270119T030000Z
 SUMMARY:William & Mary Tribe @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ UNC Wilmi
- ngton Seahawks\nTrask Coliseum\, Wilmington\, NC
+ ngton Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not
+  announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +296,12 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:UNC Wilmington Seahawks @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Monmou
- th Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+ th Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBro
+ adcast: Broadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +310,12 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:UNC Wilmington Seahawks @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Hofstr
- a Pride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ a Pride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBro
+ adcast: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +324,12 @@ DTSTART:20270128T233000Z
 DTEND:20270129T023000Z
 SUMMARY:Charleston Cougars @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Cougars @ UNC Wilming
- ton Seahawks\nTrask Coliseum\, Wilmington\, NC
+ ton Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -313,10 +339,11 @@ DTEND:20270131T000000Z
 SUMMARY:UNC Wilmington Seahawks @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Campbe
  ll Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ \nBroadcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +352,12 @@ DTSTART:20270204T230000Z
 DTEND:20270205T020000Z
 SUMMARY:UNC Wilmington Seahawks @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Willia
- m & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ m & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not
+  announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +366,12 @@ DTSTART:20270207T000000Z
 DTEND:20270207T030000Z
 SUMMARY:Hampton Pirates @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ UNC Wilmington
-  Seahawks\nTrask Coliseum\, Wilmington\, NC
+  Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +380,12 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:Stony Brook Seawolves @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStony Brook Seawolves @ UNC Wilm
- ington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ ington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast no
+ t announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +394,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:UNC Wilmington Seahawks @ Drexel Dragons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Drexel
-  Dragons\nDaskalakis Athletic Center\, Philadelphia\, PA
+  Dragons\nDaskalakis Athletic Center\, Philadelphia\, PA\nBroadcast: Broad
+ cast not announced
 LOCATION:Daskalakis Athletic Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +408,11 @@ DTSTART:20270220T210000Z
 DTEND:20270221T000000Z
 SUMMARY:UNC Wilmington Seahawks @ Towson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Towson
-  Tigers\nSECU Arena\, Towson\, MD
+  Tigers\nSECU Arena\, Towson\, MD\nBroadcast: Broadcast not announced
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +421,12 @@ DTSTART:20270226T013000Z
 DTEND:20270226T043000Z
 SUMMARY:North Carolina A&T Aggies @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina A&T Aggies @ UNC 
- Wilmington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ Wilmington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcas
+ t not announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -403,11 +435,12 @@ DTSTART:20270227T210000Z
 DTEND:20270228T000000Z
 SUMMARY:UNC Wilmington Seahawks @ Charleston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Charle
- ston Cougars\nTD Arena\, Charleston\, SC
+ ston Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announc
+ ed
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -416,11 +449,12 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Elon Phoenix @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ UNC Wilmington Se
- ahawks\nTrask Coliseum\, Wilmington\, NC
+ ahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

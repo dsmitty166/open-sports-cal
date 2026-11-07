@@ -12,13 +12,15 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Rhode Island Rams @ West Virginia Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ West Virgi
- nia Mountaineers\nHope Coliseum\, Morgantown\, WV
+ nia Mountaineers\nHope Coliseum\, Morgantown\, WV\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Hope Coliseum\, Morgantown\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915774@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T230000Z
 DTEND:20261107T020000Z
 SUMMARY:Rhode Island Rams @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Columbia L
- ions\nCurb Event Center Arena\, Nashville\, TN\nNeutral site
+ ions\nCurb Event Center Arena\, Nashville\, TN\nNeutral site\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913864@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Rhode Island Rams @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ South Flor
- ida Bulls\nCurb Event Center Arena\, Nashville\, TN\nNeutral site
+ ida Bulls\nCurb Event Center Arena\, Nashville\, TN\nNeutral site\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915775@open-sports-cal
@@ -54,13 +60,14 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Rhode Island Rams @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Wagner Sea
- hawks\nSpiro Sports Center\, Staten Island\, NY
+ hawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: NEC Front Row
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915776@open-sports-cal
@@ -68,13 +75,14 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Rhode Island Rams @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ St. John's
-  Red Storm\nCarnesecca Arena\, Queens\, NY
+  Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915777@open-sports-cal
@@ -82,13 +90,15 @@ DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:Emmanuel (MA) Lions @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEmmanuel (MA) Lions @ Rhode Is
- land Rams\nThomas M. Ryan Center\, Kingston\, RI
+ land Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915778@open-sports-cal
@@ -96,13 +106,15 @@ DTSTART:20261120T170500Z
 DTEND:20261120T200500Z
 SUMMARY:New Haven Chargers @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Haven Chargers @ Rhode Isl
- and Rams\nThomas M. Ryan Center\, Kingston\, RI
+ and Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915779@open-sports-cal
@@ -110,13 +122,15 @@ DTSTART:20261125T180000Z
 DTEND:20261125T210000Z
 SUMMARY:Rhode Island Rams @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Holy Cross
-  Crusaders\nHart Center Arena\, Worcester\, MA
+  Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928874@open-sports-cal
@@ -124,13 +138,15 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Rhode Island Rams @ Saint Joseph's Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Saint Jose
- ph's Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA
+ ph's Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Michael J. Hagan '85 Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913042@open-sports-cal
@@ -138,13 +154,15 @@ DTSTART:20261207T230000Z
 DTEND:20261208T020000Z
 SUMMARY:Providence Friars @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nProvidence Friars @ Rhode Isla
- nd Rams\nThomas M. Ryan Center\, Kingston\, RI
+ nd Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915329@open-sports-cal
@@ -152,12 +170,13 @@ DTSTART:20261210T160000Z
 DTEND:20261210T190000Z
 SUMMARY:Rhode Island Rams @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Princeton 
- Tigers\nJadwin Gymnasium\, Princeton\, NJ
+ Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -166,13 +185,14 @@ DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Maine Black Bears @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaine Black Bears @ Rhode Isla
- nd Rams\nThomas M. Ryan Center\, Kingston\, RI
+ nd Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: ESPN
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915780@open-sports-cal
@@ -180,13 +200,15 @@ DTSTART:20261218T230000Z
 DTEND:20261219T020000Z
 SUMMARY:Dartmouth Big Green @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDartmouth Big Green @ Rhode Is
- land Rams\nThomas M. Ryan Center\, Kingston\, RI
+ land Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915781@open-sports-cal
@@ -194,13 +216,15 @@ DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Central Connecticut Blue Devils @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Rhode Island Rams\nThomas M. Ryan Center\, Kingston\, RI
+ s @ Rhode Island Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928877@open-sports-cal
@@ -208,13 +232,14 @@ DTSTART:20261230T230000Z
 DTEND:20261231T020000Z
 SUMMARY:Fordham Rams @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFordham Rams @ Rhode Island Ra
- ms\nThomas M. Ryan Center\, Kingston\, RI
+ ms\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: ESPN+ (streaming)
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928883@open-sports-cal
@@ -222,12 +247,13 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:Rhode Island Rams @ George Mason Patriots
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ George Mas
- on Patriots\nEagleBank Arena\, Fairfax\, VA
+ on Patriots\nEagleBank Arena\, Fairfax\, VA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:EagleBank Arena\, Fairfax\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +262,13 @@ DTSTART:20270106T230000Z
 DTEND:20270107T020000Z
 SUMMARY:Dayton Flyers @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDayton Flyers @ Rhode Island R
- ams\nThomas M. Ryan Center\, Kingston\, RI
+ ams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +277,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Rhode Island Rams @ La Salle Explorers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ La Salle E
- xplorers\nJohn Glaser Arena\, Philadelphia\, PA
+ xplorers\nJohn Glaser Arena\, Philadelphia\, PA\nBroadcast: Broadcast not 
+ announced
 LOCATION:John Glaser Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +292,13 @@ DTSTART:20270113T230000Z
 DTEND:20270114T020000Z
 SUMMARY:Rhode Island Rams @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ St. Bonave
- nture Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ nture Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: Broadcas
+ t not announced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +307,13 @@ DTSTART:20270117T190000Z
 DTEND:20270117T220000Z
 SUMMARY:George Washington Revolutionaries @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorge Washington Revolutionar
- ies @ Rhode Island Rams\nThomas M. Ryan Center\, Kingston\, RI
+ ies @ Rhode Island Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast:
+  Broadcast not announced
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +322,13 @@ DTSTART:20270120T160000Z
 DTEND:20270120T190000Z
 SUMMARY:Saint Louis Billikens @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Louis Billikens @ Rhode 
- Island Rams\nThomas M. Ryan Center\, Kingston\, RI
+ Island Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +337,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Rhode Island Rams @ Davidson Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Davidson W
- ildcats\nJohn M. Belk Arena\, Davidson\, NC
+ ildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: Broadcast not anno
+ unced
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +352,12 @@ DTSTART:20270127T230000Z
 DTEND:20270128T020000Z
 SUMMARY:VCU Rams @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ Rhode Island Rams\n
- Thomas M. Ryan Center\, Kingston\, RI
+ Thomas M. Ryan Center\, Kingston\, RI\nBroadcast: Broadcast not announced
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +366,13 @@ DTSTART:20270131T170000Z
 DTEND:20270131T200000Z
 SUMMARY:George Mason Patriots @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorge Mason Patriots @ Rhode 
- Island Rams\nThomas M. Ryan Center\, Kingston\, RI
+ Island Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +381,13 @@ DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Rhode Island Rams @ Saint Louis Billikens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Saint Loui
- s Billikens\nChaifetz Arena\, St. Louis\, MO\nStart time TBD
+ s Billikens\nChaifetz Arena\, St. Louis\, MO\nStart time TBD\nBroadcast: B
+ roadcast not announced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928952@open-sports-cal
@@ -361,12 +395,12 @@ DTSTART:20270207T200000Z
 DTEND:20270207T230000Z
 SUMMARY:Rhode Island Rams @ Fordham Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Fordham Ra
- ms\nRose Hill Gym\, Bronx\, NY
+ ms\nRose Hill Gym\, Bronx\, NY\nBroadcast: Broadcast not announced
 LOCATION:Rose Hill Gym\, Bronx\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,12 +409,13 @@ DTSTART:20270210T230000Z
 DTEND:20270211T020000Z
 SUMMARY:Richmond Spiders @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRichmond Spiders @ Rhode Islan
- d Rams\nThomas M. Ryan Center\, Kingston\, RI
+ d Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,12 +424,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Rhode Island Rams @ Duquesne Dukes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Duquesne D
- ukes\nUPMC Cooper Fieldhouse\, Pittsburgh\, PA
+ ukes\nUPMC Cooper Fieldhouse\, Pittsburgh\, PA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -403,12 +439,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Loyola Chicago Ramblers @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Chicago Ramblers @ Rhod
- e Island Rams\nThomas M. Ryan Center\, Kingston\, RI
+ e Island Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: Broadcast
+  not announced
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -417,12 +454,13 @@ DTSTART:20270224T230000Z
 DTEND:20270225T020000Z
 SUMMARY:Rhode Island Rams @ George Washington Revolutionaries
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ George Was
- hington Revolutionaries\nCharles E. Smith Center\, Washington\, DC
+ hington Revolutionaries\nCharles E. Smith Center\, Washington\, DC\nBroadc
+ ast: Broadcast not announced
 LOCATION:Charles E. Smith Center\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -431,12 +469,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:La Salle Explorers @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLa Salle Explorers @ Rhode Isl
- and Rams\nThomas M. Ryan Center\, Kingston\, RI
+ and Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: Broadcast not 
+ announced
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

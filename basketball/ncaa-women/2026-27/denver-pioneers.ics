@@ -12,13 +12,14 @@ DTSTART:20261103T013000Z
 DTEND:20261103T043000Z
 SUMMARY:Denver Pioneers @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Air Force Fa
- lcons\nClune Arena\, Colorado Springs\, CO
+ lcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: MW+ (streaming)
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923193@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261105T010000Z
 DTEND:20261105T040000Z
 SUMMARY:Lindenwood Lions @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLindenwood Lions @ Denver Pion
- eers\nHamilton Gymnasium\, Denver\, CO
+ eers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923194@open-sports-cal
@@ -40,13 +42,14 @@ DTSTART:20261107T230000Z
 DTEND:20261108T020000Z
 SUMMARY:Denver Pioneers @ Weber State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Weber State 
- Wildcats\nDee Events Center\, Ogden\, UT
+ Wildcats\nDee Events Center\, Ogden\, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:Dee Events Center\, Ogden\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923327@open-sports-cal
@@ -54,13 +57,14 @@ DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
 SUMMARY:Colorado State Rams @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Denver P
- ioneers\nHamilton Gymnasium\, Denver\, CO
+ ioneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912967@open-sports-cal
@@ -68,13 +72,15 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Denver Pioneers @ LSU Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ LSU Tigers\n
- Pete Maravich Assembly Center\, Baton Rouge\, LA
+ Pete Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: SECN+ (stream
+ ing)
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923328@open-sports-cal
@@ -82,13 +88,15 @@ DTSTART:20261117T000000Z
 DTEND:20261117T030000Z
 SUMMARY:Regis University REGIS UNIVERSITY @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRegis University REGIS UNIVERS
- ITY @ Denver Pioneers\nHamilton Gymnasium\, Denver\, CO
+ ITY @ Denver Pioneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923329@open-sports-cal
@@ -96,13 +104,15 @@ DTSTART:20261125T010000Z
 DTEND:20261125T040000Z
 SUMMARY:Northern Colorado Bears @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Colorado Bears @ Denv
- er Pioneers\nHamilton Gymnasium\, Denver\, CO
+ er Pioneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923330@open-sports-cal
@@ -110,13 +120,15 @@ DTSTART:20261201T010000Z
 DTEND:20261201T040000Z
 SUMMARY:Colorado Christian Cougars @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Christian Cougars @ D
- enver Pioneers\nHamilton Gymnasium\, Denver\, CO
+ enver Pioneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923331@open-sports-cal
@@ -124,13 +136,14 @@ DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
 SUMMARY:Colorado Buffaloes @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Denver Pi
- oneers\nHamilton Gymnasium\, Denver\, CO
+ oneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918937@open-sports-cal
@@ -138,13 +151,14 @@ DTSTART:20261206T210000Z
 DTEND:20261207T000000Z
 SUMMARY:Denver Pioneers @ Utah Utes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Utah Utes\nJ
- on M. Huntsman Center\, Salt Lake City\, UT
+ on M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920273@open-sports-cal
@@ -152,13 +166,14 @@ DTSTART:20261210T010000Z
 DTEND:20261210T040000Z
 SUMMARY:Nevada Wolf Pack @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNevada Wolf Pack @ Denver Pion
- eers\nHamilton Gymnasium\, Denver\, CO
+ eers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921526@open-sports-cal
@@ -166,13 +181,14 @@ DTSTART:20261213T220000Z
 DTEND:20261214T010000Z
 SUMMARY:Denver Pioneers @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Cal State Fu
- llerton Titans\nTitan Gym\, Fullerton\, CA
+ llerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918825@open-sports-cal
@@ -180,12 +196,13 @@ DTSTART:20261218T010000Z
 DTEND:20261218T040000Z
 SUMMARY:Denver Pioneers @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Kansas City 
- Roos\nSwinney Center\, Kansas City\, MO
+ Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast not announce
+ d
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -194,13 +211,14 @@ DTSTART:20261222T200000Z
 DTEND:20261222T230000Z
 SUMMARY:Wyoming Cowgirls @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ Denver Pion
- eers\nHamilton Gymnasium\, Denver\, CO
+ eers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917774@open-sports-cal
@@ -208,13 +226,14 @@ DTSTART:20261231T210000Z
 DTEND:20270101T000000Z
 SUMMARY:Santa Clara Broncos @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSanta Clara Broncos @ Denver P
- ioneers\nHamilton Gymnasium\, Denver\, CO
+ ioneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917779@open-sports-cal
@@ -222,12 +241,12 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Pacific Tigers @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Denver Pionee
- rs\nHamilton Gymnasium\, Denver\, CO
+ rs\nHamilton Gymnasium\, Denver\, CO\nBroadcast: Broadcast not announced
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +255,12 @@ DTSTART:20270108T020000Z
 DTEND:20270108T050000Z
 SUMMARY:Denver Pioneers @ Seattle U Redhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Seattle U Re
- dhawks\nRedhawk Center\, Seattle\, WA
+ dhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: Broadcast not announced
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +269,12 @@ DTSTART:20270110T010000Z
 DTEND:20270110T040000Z
 SUMMARY:Denver Pioneers @ Portland Pilots
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Portland Pil
- ots\nChiles Center\, Portland\, OR
+ ots\nChiles Center\, Portland\, OR\nBroadcast: Broadcast not announced
 LOCATION:Chiles Center\, Portland\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +283,12 @@ DTSTART:20270115T010000Z
 DTEND:20270115T040000Z
 SUMMARY:Pepperdine Waves @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPepperdine Waves @ Denver Pion
- eers\nHamilton Gymnasium\, Denver\, CO
+ eers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: Broadcast not announced
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +297,13 @@ DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
 SUMMARY:San Diego Toreros @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Diego Toreros @ Denver Pio
- neers\nHamilton Gymnasium\, Denver\, CO
+ neers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: Broadcast not announce
+ d
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +312,13 @@ DTSTART:20270122T030000Z
 DTEND:20270122T060000Z
 SUMMARY:Denver Pioneers @ Santa Clara Broncos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Santa Clara 
- Broncos\nLeavey Center\, Santa Clara\, CA
+ Broncos\nLeavey Center\, Santa Clara\, CA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Leavey Center\, Santa Clara\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +327,13 @@ DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Denver Pioneers @ Saint Mary's Gaels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Saint Mary's
-  Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nStart time TBD
+  Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nStart time TBD\nBr
+ oadcast: Broadcast not announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917813@open-sports-cal
@@ -319,12 +341,13 @@ DTSTART:20270129T010000Z
 DTEND:20270129T040000Z
 SUMMARY:Seattle U Redhawks @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSeattle U Redhawks @ Denver Pi
- oneers\nHamilton Gymnasium\, Denver\, CO
+ oneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -333,12 +356,12 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Portland Pilots @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPortland Pilots @ Denver Pione
- ers\nHamilton Gymnasium\, Denver\, CO
+ ers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: Broadcast not announced
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -347,12 +370,13 @@ DTSTART:20270205T020000Z
 DTEND:20270205T050000Z
 SUMMARY:Denver Pioneers @ Loyola Marymount Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Loyola Marym
- ount Lions\nGersten Pavilion\, Los Angeles\, CA
+ ount Lions\nGersten Pavilion\, Los Angeles\, CA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Gersten Pavilion\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -361,12 +385,13 @@ DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:Denver Pioneers @ San Diego Toreros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ San Diego To
- reros\nJenny Craig Pavilion\, San Diego\, CA
+ reros\nJenny Craig Pavilion\, San Diego\, CA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Jenny Craig Pavilion\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -375,12 +400,13 @@ DTSTART:20270211T190000Z
 DTEND:20270211T220000Z
 SUMMARY:Denver Pioneers @ Pepperdine Waves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Pepperdine W
- aves\nFirestone Fieldhouse\, Malibu\, CA
+ aves\nFirestone Fieldhouse\, Malibu\, CA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Firestone Fieldhouse\, Malibu\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -389,12 +415,13 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:San Francisco Dons @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Denver Pi
- oneers\nHamilton Gymnasium\, Denver\, CO
+ oneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -403,12 +430,13 @@ DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:Loyola Marymount Lions @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Marymount Lions @ Denve
- r Pioneers\nHamilton Gymnasium\, Denver\, CO
+ r Pioneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -417,12 +445,13 @@ DTSTART:20270221T000000Z
 DTEND:20270221T030000Z
 SUMMARY:Denver Pioneers @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Pacific Tige
- rs\nAlex G. Spanos Center\, Stockton\, CA
+ rs\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -431,12 +460,13 @@ DTSTART:20270226T010000Z
 DTEND:20270226T040000Z
 SUMMARY:Saint Mary's Gaels @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Mary's Gaels @ Denver Pi
- oneers\nHamilton Gymnasium\, Denver\, CO
+ oneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -445,12 +475,13 @@ DTSTART:20270227T210000Z
 DTEND:20270228T000000Z
 SUMMARY:Denver Pioneers @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ San Francisc
- o Dons\nThe Sobrato Center\, San Francisco\, CA
+ o Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadcast not 
+ announced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

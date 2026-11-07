@@ -12,13 +12,15 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Wichita State Shockers @ Kansas State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Kansa
- s State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ s State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913873@open-sports-cal
@@ -26,13 +28,16 @@ DTSTART:20261106T233000Z
 DTEND:20261107T023000Z
 SUMMARY:Wichita State Shockers @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Kansa
- s City Roos\nSwinney Center\, Kansas City\, MO
+ s City Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Summit League N
+ etwork (streaming) / Midco Sports Plus (streaming)
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming) / Midco Sports Plus (streamin
+ g)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913874@open-sports-cal
@@ -40,13 +45,15 @@ DTSTART:20261110T170000Z
 DTEND:20261110T200000Z
 SUMMARY:Missouri State Lady Bears @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMissouri State Lady Bears @ Wi
- chita State Shockers\nCharles Koch Arena\, Wichita\, KS
+ chita State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913875@open-sports-cal
@@ -54,13 +61,15 @@ DTSTART:20261114T200000Z
 DTEND:20261114T230000Z
 SUMMARY:UC Riverside Highlanders @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Riverside Highlanders @ Wic
- hita State Shockers\nCharles Koch Arena\, Wichita\, KS
+ hita State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913876@open-sports-cal
@@ -68,12 +77,13 @@ DTSTART:20261118T010000Z
 DTEND:20261118T040000Z
 SUMMARY:Wichita State Shockers @ Oral Roberts Golden Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Oral 
- Roberts Golden Eagles\nMabee Center\, Tulsa\, OK
+ Roberts Golden Eagles\nMabee Center\, Tulsa\, OK\nBroadcast: Broadcast not
+  announced
 LOCATION:Mabee Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -82,12 +92,13 @@ DTSTART:20261122T220000Z
 DTEND:20261123T010000Z
 SUMMARY:Wichita State Shockers @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Oklah
- oma State Cowgirls\nT-Mobile Center\, Kansas City\, MO\nNeutral site
+ oma State Cowgirls\nT-Mobile Center\, Kansas City\, MO\nNeutral site\nBroa
+ dcast: Broadcast not announced
 LOCATION:T-Mobile Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -96,13 +107,15 @@ DTSTART:20261128T193000Z
 DTEND:20261128T223000Z
 SUMMARY:Wichita State Shockers @ South Alabama Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ South
-  Alabama Jaguars\nMitchell Center\, Mobile\, AL
+  Alabama Jaguars\nMitchell Center\, Mobile\, AL\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Mitchell Center\, Mobile\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913878@open-sports-cal
@@ -110,12 +123,13 @@ DTSTART:20261129T170000Z
 DTEND:20261129T200000Z
 SUMMARY:Charleston Southern Buccaneers @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Southern Buccaneers
-  @ Wichita State Shockers\nMitchell Center\, Mobile\, AL\nNeutral site
+  @ Wichita State Shockers\nMitchell Center\, Mobile\, AL\nNeutral site\nBr
+ oadcast: Broadcast not announced
 LOCATION:Mitchell Center\, Mobile\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +138,15 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Haskell Jayhawks @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHaskell Jayhawks @ Wichita Sta
- te Shockers\nCharles Koch Arena\, Wichita\, KS
+ te Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913880@open-sports-cal
@@ -138,13 +154,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Wichita State Shockers @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Middl
- e Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ e Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913881@open-sports-cal
@@ -152,13 +170,15 @@ DTSTART:20261212T200000Z
 DTEND:20261212T230000Z
 SUMMARY:Omaha Mavericks @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOmaha Mavericks @ Wichita Stat
- e Shockers\nCharles Koch Arena\, Wichita\, KS
+ e Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913882@open-sports-cal
@@ -166,13 +186,15 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Jacksonville State Gamecocks @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJacksonville State Gamecocks @
-  Wichita State Shockers\nCharles Koch Arena\, Wichita\, KS
+  Wichita State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913883@open-sports-cal
@@ -180,13 +202,15 @@ DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Wichita State Shockers @ Sam Houston Bearkats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Sam H
- ouston Bearkats\nBernard G. Johnson Coliseum\, Huntsville\, TX
+ ouston Bearkats\nBernard G. Johnson Coliseum\, Huntsville\, TX\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Bernard G. Johnson Coliseum\, Huntsville\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927632@open-sports-cal
@@ -195,14 +219,15 @@ DTEND:20261231T033000Z
 SUMMARY:Wichita State Shockers @ Tulane Green Wave
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Tulan
  e Green Wave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New Orlea
- ns\, LA
+ ns\, LA\nBroadcast: ESPN+ (streaming)
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927520@open-sports-cal
@@ -210,12 +235,13 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:UAB Blazers @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUAB Blazers @ Wichita State Sh
- ockers\nCharles Koch Arena\, Wichita\, KS
+ ockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -224,12 +250,13 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:East Carolina Pirates @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Carolina Pirates @ Wichit
- a State Shockers\nCharles Koch Arena\, Wichita\, KS
+ a State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast 
+ not announced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -238,12 +265,13 @@ DTSTART:20270110T200000Z
 DTEND:20270110T230000Z
 SUMMARY:Wichita State Shockers @ UTSA Roadrunners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ UTSA 
- Roadrunners\nUTSA Convocation Center\, San Antonio\, TX
+ Roadrunners\nUTSA Convocation Center\, San Antonio\, TX\nBroadcast: Broadc
+ ast not announced
 LOCATION:UTSA Convocation Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -252,12 +280,13 @@ DTSTART:20270114T003000Z
 DTEND:20270114T033000Z
 SUMMARY:Wichita State Shockers @ North Texas Mean Green
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ North
-  Texas Mean Green\nThe Super Pit\, Denton\, TX
+  Texas Mean Green\nThe Super Pit\, Denton\, TX\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:The Super Pit\, Denton\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +295,13 @@ DTSTART:20270117T180000Z
 DTEND:20270117T210000Z
 SUMMARY:Charlotte 49ers @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ Wichita Stat
- e Shockers\nCharles Koch Arena\, Wichita\, KS
+ e Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +310,13 @@ DTSTART:20270123T200000Z
 DTEND:20270123T230000Z
 SUMMARY:Temple Owls @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTemple Owls @ Wichita State Sh
- ockers\nCharles Koch Arena\, Wichita\, KS
+ ockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +325,13 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:South Florida Bulls @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Wichita 
- State Shockers\nCharles Koch Arena\, Wichita\, KS
+ State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast no
+ t announced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -309,12 +341,12 @@ DTEND:20270130T220000Z
 SUMMARY:Wichita State Shockers @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Flori
  da Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton
- \, FL
+ \, FL\nBroadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -323,12 +355,13 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:Memphis Tigers @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMemphis Tigers @ Wichita State
-  Shockers\nCharles Koch Arena\, Wichita\, KS
+  Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -337,12 +370,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:Wichita State Shockers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Tulsa
-  Golden Hurricane\nReynolds Center\, Tulsa\, OK
+  Golden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not 
+ announced
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -351,12 +385,13 @@ DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Rice Owls @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRice Owls @ Wichita State Shoc
- kers\nCharles Koch Arena\, Wichita\, KS
+ kers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not announce
+ d
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -365,12 +400,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Wichita State Shockers @ Temple Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Templ
- e Owls\nLiacouras Center\, Philadelphia\, PA
+ e Owls\nLiacouras Center\, Philadelphia\, PA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Liacouras Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -379,12 +415,13 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:Wichita State Shockers @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Charl
- otte 49ers\nHalton Arena\, Charlotte\, NC
+ otte 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -393,12 +430,13 @@ DTSTART:20270221T210000Z
 DTEND:20270222T000000Z
 SUMMARY:Tulane Green Wave @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTulane Green Wave @ Wichita St
- ate Shockers\nCharles Koch Arena\, Wichita\, KS
+ ate Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not 
+ announced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -407,12 +445,13 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:Wichita State Shockers @ Memphis Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Memph
- is Tigers\nElma Roane Fieldhouse\, Memphis\, TN
+ is Tigers\nElma Roane Fieldhouse\, Memphis\, TN\nBroadcast: Broadcast not 
+ announced
 LOCATION:Elma Roane Fieldhouse\, Memphis\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -421,12 +460,12 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Wichita State Shockers @ UAB Blazers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ UAB B
- lazers\nBartow Arena\, Birmingham\, AL
+ lazers\nBartow Arena\, Birmingham\, AL\nBroadcast: Broadcast not announced
 LOCATION:Bartow Arena\, Birmingham\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -435,12 +474,13 @@ DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
 SUMMARY:Tulsa Golden Hurricane @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTulsa Golden Hurricane @ Wichi
- ta State Shockers\nCharles Koch Arena\, Wichita\, KS
+ ta State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast
+  not announced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

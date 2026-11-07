@@ -12,12 +12,14 @@ DTSTART:20261103T020000Z
 DTEND:20261103T050000Z
 SUMMARY:Texas Southern Tigers @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Southern Tigers @ Grand Ca
- nyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ nyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: MW+ (stre
+ aming)
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911345@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261108T010000Z
 DTEND:20261108T040000Z
 SUMMARY:Bethune-Cookman Wildcats @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Grand
-  Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+  Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: MW+ (s
+ treaming)
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911346@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261112T020000Z
 DTEND:20261112T050000Z
 SUMMARY:Cal Poly Mustangs @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Grand Canyon
-  Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+  Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: MW+ (streamin
+ g)
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911347@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261115T010000Z
 DTEND:20261115T040000Z
 SUMMARY:UL Monroe Warhawks @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUL Monroe Warhawks @ Grand Canyo
- n Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ n Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: MW+ (streami
+ ng)
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911253@open-sports-cal
@@ -64,11 +72,12 @@ DTSTART:20261125T023000Z
 DTEND:20261125T053000Z
 SUMMARY:Grand Canyon Lopes @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ Saint Louis
-  Billikens\nAcrisure Arena\, Palm Springs\, CA\nNeutral site
+  Billikens\nAcrisure Arena\, Palm Springs\, CA\nNeutral site\nBroadcast: B
+ roadcast not announced
 LOCATION:Acrisure Arena\, Palm Springs\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +86,12 @@ DTSTART:20261130T010000Z
 DTEND:20261130T040000Z
 SUMMARY:Incarnate Word Cardinals @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIncarnate Word Cardinals @ Grand
-  Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+  Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadc
+ ast not announced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +100,14 @@ DTSTART:20261203T010000Z
 DTEND:20261203T040000Z
 SUMMARY:Grand Canyon Lopes @ Oklahoma State Cowboys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ Oklahoma St
- ate Cowboys\nGallagher-Iba Arena\, Stillwater\, OK
+ ate Cowboys\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911350@open-sports-cal
@@ -103,11 +115,12 @@ DTSTART:20261206T010000Z
 DTEND:20261206T040000Z
 SUMMARY:Santa Clara Broncos @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSanta Clara Broncos @ Grand Cany
- on Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ on Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -116,11 +129,12 @@ DTSTART:20261209T020000Z
 DTEND:20261209T050000Z
 SUMMARY:Northwestern State Demons @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern State Demons @ Gran
- d Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ d Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broad
+ cast not announced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +143,13 @@ DTSTART:20261212T010000Z
 DTEND:20261212T040000Z
 SUMMARY:Grand Canyon Lopes @ Memphis Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ Memphis Tig
- ers\nFedExForum\, Memphis\, TN
+ ers\nFedExForum\, Memphis\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:FedExForum\, Memphis\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911353@open-sports-cal
@@ -142,12 +157,14 @@ DTSTART:20261218T230000Z
 DTEND:20261219T020000Z
 SUMMARY:Grand Canyon Lopes @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ Florida Gat
- ors\nVyStar Veterans Memorial Arena\, Jacksonville\, FL\nNeutral site
+ ors\nVyStar Veterans Memorial Arena\, Jacksonville\, FL\nNeutral site\nBro
+ adcast: ESPNU
 LOCATION:VyStar Veterans Memorial Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911354@open-sports-cal
@@ -155,11 +172,12 @@ DTSTART:20261223T010000Z
 DTEND:20261223T040000Z
 SUMMARY:UMBC Retrievers @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMBC Retrievers @ Grand Canyon L
- opes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ opes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -168,11 +186,12 @@ DTSTART:20261230T010000Z
 DTEND:20261230T040000Z
 SUMMARY:Justice Lions @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJustice Lions @ Grand Canyon Lop
- es\nGlobal Credit Union Arena\, Phoenix\, AZ
+ es\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -181,11 +200,12 @@ DTSTART:20270103T010000Z
 DTEND:20270103T040000Z
 SUMMARY:Grand Canyon Lopes @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ UC Davis Ag
- gies\nUniversity Credit Union Center\, Davis\, CA
+ gies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast no
+ t announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +214,12 @@ DTSTART:20270106T033000Z
 DTEND:20270106T063000Z
 SUMMARY:UNLV Rebels @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNLV Rebels @ Grand Canyon Lopes
- \nGlobal Credit Union Arena\, Phoenix\, AZ
+ \nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +228,12 @@ DTSTART:20270109T213000Z
 DTEND:20270110T003000Z
 SUMMARY:Wyoming Cowboys @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWyoming Cowboys @ Grand Canyon L
- opes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ opes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +242,12 @@ DTSTART:20270114T040000Z
 DTEND:20270114T070000Z
 SUMMARY:Grand Canyon Lopes @ San José State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ San José S
- tate Spartans\nProvident Credit Union Event Center\, San Jose\, CA
+ tate Spartans\nProvident Credit Union Event Center\, San Jose\, CA\nBroadc
+ ast: Broadcast not announced
 LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +256,12 @@ DTSTART:20270117T030000Z
 DTEND:20270117T060000Z
 SUMMARY:Grand Canyon Lopes @ Nevada Wolf Pack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ Nevada Wolf
-  Pack\nLawlor Events Center\, Reno\, NV
+  Pack\nLawlor Events Center\, Reno\, NV\nBroadcast: Broadcast not announce
+ d
 LOCATION:Lawlor Events Center\, Reno\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +270,12 @@ DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:Hawai'i Rainbow Warriors @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHawai'i Rainbow Warriors @ Grand
-  Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nStart time TBD
+  Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nStart time TBD\nB
+ roadcast: Broadcast not announced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911405@open-sports-cal
@@ -258,11 +283,12 @@ DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Grand Canyon Lopes @ New Mexico Lobos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ New Mexico 
- Lobos\nThe Pit\, Albuquerque\, NM\nStart time TBD
+ Lobos\nThe Pit\, Albuquerque\, NM\nStart time TBD\nBroadcast: Broadcast no
+ t announced
 LOCATION:The Pit\, Albuquerque\, NM
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911363@open-sports-cal
@@ -270,11 +296,12 @@ DTSTART:20270127T033000Z
 DTEND:20270127T063000Z
 SUMMARY:Air Force Falcons @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ Grand Canyon
-  Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+  Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast not
+  announced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -283,11 +310,11 @@ DTSTART:20270131T030000Z
 DTEND:20270131T060000Z
 SUMMARY:Grand Canyon Lopes @ Wyoming Cowboys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ Wyoming Cow
- boys\nArena-Auditorium\, Laramie\, WY
+ boys\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -296,11 +323,12 @@ DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:New Mexico Lobos @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Mexico Lobos @ Grand Canyon 
- Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nStart time TBD
+ Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nStart time TBD\nBroadcast
+ : Broadcast not announced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911366@open-sports-cal
@@ -308,11 +336,11 @@ DTSTART:20270210T030000Z
 DTEND:20270210T060000Z
 SUMMARY:Grand Canyon Lopes @ UTEP Miners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ UTEP Miners
- \nDon Haskins Center\, El Paso\, TX
+ \nDon Haskins Center\, El Paso\, TX\nBroadcast: Broadcast not announced
 LOCATION:Don Haskins Center\, El Paso\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -321,11 +349,12 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Nevada Wolf Pack @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNevada Wolf Pack @ Grand Canyon 
- Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast not 
+ announced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -334,11 +363,12 @@ DTSTART:20270217T030000Z
 DTEND:20270217T060000Z
 SUMMARY:Grand Canyon Lopes @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ Air Force F
- alcons\nClune Arena\, Colorado Springs\, CO
+ alcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -347,11 +377,12 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Grand Canyon Lopes @ UNLV Rebels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ UNLV Rebels
- \nThomas & Mack Center\, Las Vegas\, NV\nStart time TBD
+ \nThomas & Mack Center\, Las Vegas\, NV\nStart time TBD\nBroadcast: Broadc
+ ast not announced
 LOCATION:Thomas & Mack Center\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911370@open-sports-cal
@@ -359,11 +390,12 @@ DTSTART:20270224T030000Z
 DTEND:20270224T060000Z
 SUMMARY:UTEP Miners @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ Grand Canyon Lopes
- \nGlobal Credit Union Arena\, Phoenix\, AZ
+ \nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -372,11 +404,12 @@ DTSTART:20270227T040000Z
 DTEND:20270227T070000Z
 SUMMARY:San José State Spartans @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSan José State Spartans @ Grand
-  Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+  Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadc
+ ast not announced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -385,11 +418,12 @@ DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:Grand Canyon Lopes @ Hawai'i Rainbow Warriors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ Hawai'i Rai
- nbow Warriors\nStan Sheriff Center\, Honolulu\, HI\nStart time TBD
+ nbow Warriors\nStan Sheriff Center\, Honolulu\, HI\nStart time TBD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911373@open-sports-cal
@@ -397,11 +431,12 @@ DTSTART:20270306T200000Z
 DTEND:20270306T230000Z
 SUMMARY:UC Davis Aggies @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ Grand Canyon L
- opes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ opes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 END:VCALENDAR

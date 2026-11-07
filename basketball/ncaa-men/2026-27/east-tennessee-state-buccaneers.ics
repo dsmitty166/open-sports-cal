@@ -13,12 +13,14 @@ DTSTART:20261103T030000Z
 DTEND:20261103T060000Z
 SUMMARY:East Tennessee State Buccaneers @ Arizona State Sun Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Arizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ @ Arizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918956@open-sports-cal
@@ -26,12 +28,14 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:East Tennessee State Buccaneers @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ NC State Wolfpack\nLenovo Center\, Raleigh\, NC
+ @ NC State Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ACCNX (strea
+ ming)
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920740@open-sports-cal
@@ -39,12 +43,14 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Campbell Fighting Camels @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ East 
- Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920857@open-sports-cal
@@ -52,12 +58,14 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:East Tennessee State Buccaneers @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Marshall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ @ Marshall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922048@open-sports-cal
@@ -65,12 +73,14 @@ DTSTART:20261121T210000Z
 DTEND:20261122T000000Z
 SUMMARY:Longwood Lancers @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLongwood Lancers @ East Tennesse
- e State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ e State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926106@open-sports-cal
@@ -78,12 +88,14 @@ DTSTART:20261124T000000Z
 DTEND:20261124T030000Z
 SUMMARY:Kentucky State Thorobreds @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky State Thorobreds @ East
-  Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+  Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911380@open-sports-cal
@@ -91,12 +103,14 @@ DTSTART:20261128T000000Z
 DTEND:20261128T030000Z
 SUMMARY:Charleston Southern Buccaneers @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Southern Buccaneers @
-  East Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+  East Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920965@open-sports-cal
@@ -104,12 +118,14 @@ DTSTART:20261129T210000Z
 DTEND:20261130T000000Z
 SUMMARY:Morehead State Eagles @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorehead State Eagles @ East Ten
- nessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ nessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926107@open-sports-cal
@@ -117,12 +133,14 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Virginia Lynchburg Dragons @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Lynchburg Dragons @ Eas
- t Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ t Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911821@open-sports-cal
@@ -130,11 +148,12 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:East Tennessee State Buccaneers @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ VMI Keydets\nCameron Hall\, Lexington\, VA
+ @ VMI Keydets\nCameron Hall\, Lexington\, VA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -143,12 +162,14 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:Presbyterian Blue Hose @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPresbyterian Blue Hose @ East Te
- nnessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ nnessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926109@open-sports-cal
@@ -156,12 +177,14 @@ DTSTART:20261212T220000Z
 DTEND:20261213T010000Z
 SUMMARY:East Tennessee State Buccaneers @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Jacksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ @ Jacksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\
+ nBroadcast: ESPN+ (streaming)
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926110@open-sports-cal
@@ -169,12 +192,14 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Northern Kentucky Norse @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Kentucky Norse @ East T
- ennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ ennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911826@open-sports-cal
@@ -182,11 +207,12 @@ DTSTART:20261219T210000Z
 DTEND:20261220T000000Z
 SUMMARY:UNC Greensboro Spartans @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ East T
- ennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ ennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcas
+ t: Broadcast not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -195,12 +221,14 @@ DTSTART:20261223T000000Z
 DTEND:20261223T030000Z
 SUMMARY:Furman Paladins @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFurman Paladins @ East Tennessee
-  State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+  State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911835@open-sports-cal
@@ -208,12 +236,13 @@ DTSTART:20261230T230000Z
 DTEND:20261231T020000Z
 SUMMARY:East Tennessee State Buccaneers @ Mercer Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Mercer Bears\nHawkins Arena\, Macon\, GA
+ @ Mercer Bears\nHawkins Arena\, Macon\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Hawkins Arena\, Macon\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911840@open-sports-cal
@@ -221,11 +250,12 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:East Tennessee State Buccaneers @ Samford Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Samford Bulldogs\nPete Hanna Center\, Homewood\, AL
+ @ Samford Bulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadcas
+ t not announced
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -234,11 +264,12 @@ DTSTART:20270109T210000Z
 DTEND:20270110T000000Z
 SUMMARY:Western Carolina Catamounts @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Ea
- st Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ st Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroa
+ dcast: Broadcast not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +278,12 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Tennessee Tech Golden Eagles @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ E
- ast Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ ast Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBro
+ adcast: Broadcast not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +292,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:East Tennessee State Buccaneers @ UNC Greensboro Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ UNC Greensboro Spartans\nBodford Arena\, Greensboro\, NC
+ @ UNC Greensboro Spartans\nBodford Arena\, Greensboro\, NC\nBroadcast: Bro
+ adcast not announced
 LOCATION:Bodford Arena\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +306,12 @@ DTSTART:20270119T000000Z
 DTEND:20270119T030000Z
 SUMMARY:East Tennessee State Buccaneers @ The Citadel Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ The Citadel Bulldogs\nMcAlister Field House\, Charleston\, SC
+ @ The Citadel Bulldogs\nMcAlister Field House\, Charleston\, SC\nBroadcast
+ : Broadcast not announced
 LOCATION:McAlister Field House\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +320,12 @@ DTSTART:20270122T010000Z
 DTEND:20270122T040000Z
 SUMMARY:Chattanooga Mocs @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChattanooga Mocs @ East Tennesse
- e State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ e State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast: Broa
+ dcast not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +334,12 @@ DTSTART:20270124T210000Z
 DTEND:20270125T000000Z
 SUMMARY:East Tennessee State Buccaneers @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Wofford Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ @ Wofford Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBr
+ oadcast: Broadcast not announced
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +348,12 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:Mercer Bears @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercer Bears @ East Tennessee St
- ate Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ ate Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast: Broadcas
+ t not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +362,12 @@ DTSTART:20270131T170000Z
 DTEND:20270131T200000Z
 SUMMARY:East Tennessee State Buccaneers @ Furman Paladins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Furman Paladins\nTimmons Arena\, Greenville\, SC
+ @ Furman Paladins\nTimmons Arena\, Greenville\, SC\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Timmons Arena\, Greenville\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +376,12 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:East Tennessee State Buccaneers @ Chattanooga Mocs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Chattanooga Mocs\nMcKenzie Arena\, Chattanooga\, TN
+ @ Chattanooga Mocs\nMcKenzie Arena\, Chattanooga\, TN\nBroadcast: Broadcas
+ t not announced
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +390,12 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:VMI Keydets @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ East Tennessee Sta
- te Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ te Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast: Broadcast
+  not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +404,12 @@ DTSTART:20270211T003000Z
 DTEND:20270211T033000Z
 SUMMARY:East Tennessee State Buccaneers @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Tennessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ @ Tennessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBro
+ adcast: Broadcast not announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +418,12 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Wofford Terriers @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ East Tennesse
- e State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ e State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast: Broa
+ dcast not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +432,12 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:East Tennessee State Buccaneers @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Western Carolina Catamounts\nRamsey Center\, Cullowhee\, NC
+ @ Western Carolina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: 
+ Broadcast not announced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -403,11 +446,12 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:The Citadel Bulldogs @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nThe Citadel Bulldogs @ East Tenn
- essee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ essee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast: 
+ Broadcast not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -416,11 +460,12 @@ DTSTART:20270227T150000Z
 DTEND:20270227T180000Z
 SUMMARY:Samford Bulldogs @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSamford Bulldogs @ East Tennesse
- e State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ e State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast: Broa
+ dcast not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

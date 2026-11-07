@@ -12,12 +12,14 @@ DTSTART:20261103T010000Z
 DTEND:20261103T040000Z
 SUMMARY:Lehigh Mountain Hawks @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLehigh Mountain Hawks @ Saint Lo
- uis Billikens\nChaifetz Arena\, St. Louis\, MO
+ uis Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: ESPN+ (streamin
+ g) / Patriot League TV (streaming)
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911249@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Saint Louis Billikens @ Missouri Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ Missouri
-  Tigers\nEnterprise Center\, St. Louis\, MO\nNeutral site
+  Tigers\nEnterprise Center\, St. Louis\, MO\nNeutral site\nBroadcast: ESPN
+ U
 LOCATION:Enterprise Center\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911250@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
 SUMMARY:Northern Kentucky Norse @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Kentucky Norse @ Saint 
- Louis Billikens\nChaifetz Arena\, St. Louis\, MO
+ Louis Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911251@open-sports-cal
@@ -51,12 +57,13 @@ DTSTART:20261115T200000Z
 DTEND:20261115T230000Z
 SUMMARY:High Point Panthers @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHigh Point Panthers @ Saint Loui
- s Billikens\nChaifetz Arena\, St. Louis\, MO
+ s Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: ESPN2
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911252@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261121T040000Z
 DTEND:20261121T070000Z
 SUMMARY:Saint Louis Billikens @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ Saint Ma
- ry's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ ry's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: ESP
+ N2
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911253@open-sports-cal
@@ -77,11 +86,12 @@ DTSTART:20261125T023000Z
 DTEND:20261125T053000Z
 SUMMARY:Grand Canyon Lopes @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ Saint Louis
-  Billikens\nAcrisure Arena\, Palm Springs\, CA\nNeutral site
+  Billikens\nAcrisure Arena\, Palm Springs\, CA\nNeutral site\nBroadcast: B
+ roadcast not announced
 LOCATION:Acrisure Arena\, Palm Springs\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +100,14 @@ DTSTART:20261129T203000Z
 DTEND:20261129T233000Z
 SUMMARY:South Florida Bulls @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Saint Loui
- s Billikens\nNationwide Arena\, Columbus\, OH\nNeutral site
+ s Billikens\nNationwide Arena\, Columbus\, OH\nNeutral site\nBroadcast: ES
+ PN
 LOCATION:Nationwide Arena\, Columbus\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911256@open-sports-cal
@@ -103,11 +115,12 @@ DTSTART:20261203T010000Z
 DTEND:20261203T040000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
-  @ Saint Louis Billikens\nChaifetz Arena\, St. Louis\, MO
+  @ Saint Louis Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broa
+ dcast not announced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -116,11 +129,12 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Southeast Missouri State Redhawks @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSoutheast Missouri State Redhawk
- s @ Saint Louis Billikens\nChaifetz Arena\, St. Louis\, MO
+ s @ Saint Louis Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Bro
+ adcast not announced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -129,11 +143,12 @@ DTSTART:20261212T233000Z
 DTEND:20261213T023000Z
 SUMMARY:DePaul Blue Demons @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Saint Louis
-  Billikens\nChaifetz Arena\, St. Louis\, MO
+  Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -142,11 +157,12 @@ DTSTART:20261216T010000Z
 DTEND:20261216T040000Z
 SUMMARY:Florida A&M Rattlers @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida A&M Rattlers @ Saint Lou
- is Billikens\nChaifetz Arena\, St. Louis\, MO
+ is Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +171,12 @@ DTSTART:20261220T200000Z
 DTEND:20261220T230000Z
 SUMMARY:Jackson State Tigers @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Saint Lou
- is Billikens\nChaifetz Arena\, St. Louis\, MO
+ is Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +185,14 @@ DTSTART:20261227T200000Z
 DTEND:20261227T230000Z
 SUMMARY:Missouri Baptist Spartans @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMissouri Baptist Spartans @ Sain
- t Louis Billikens\nChaifetz Arena\, St. Louis\, MO
+ t Louis Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927339@open-sports-cal
@@ -181,12 +200,13 @@ DTSTART:20261231T000000Z
 DTEND:20261231T030000Z
 SUMMARY:Saint Louis Billikens @ Fordham Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ Fordham 
- Rams\nRose Hill Gym\, Bronx\, NY
+ Rams\nRose Hill Gym\, Bronx\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Rose Hill Gym\, Bronx\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927222@open-sports-cal
@@ -194,11 +214,12 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:St. Bonaventure Bonnies @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Saint 
- Louis Billikens\nChaifetz Arena\, St. Louis\, MO
+ Louis Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not
+  announced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +228,12 @@ DTSTART:20270107T010000Z
 DTEND:20270107T040000Z
 SUMMARY:Saint Louis Billikens @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ Richmond
-  Spiders\nRobins Center\, Richmond\, VA
+  Spiders\nRobins Center\, Richmond\, VA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +242,11 @@ DTSTART:20270109T230000Z
 DTEND:20270110T020000Z
 SUMMARY:Dayton Flyers @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDayton Flyers @ Saint Louis Bill
- ikens\nChaifetz Arena\, St. Louis\, MO
+ ikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not announced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +255,12 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Loyola Chicago Ramblers @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Chicago Ramblers @ Saint 
- Louis Billikens\nChaifetz Arena\, St. Louis\, MO
+ Louis Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not
+  announced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +269,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Saint Louis Billikens @ La Salle Explorers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ La Salle
-  Explorers\nJohn Glaser Arena\, Philadelphia\, PA
+  Explorers\nJohn Glaser Arena\, Philadelphia\, PA\nBroadcast: Broadcast no
+ t announced
 LOCATION:John Glaser Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +283,12 @@ DTSTART:20270124T010000Z
 DTEND:20270124T040000Z
 SUMMARY:Saint Louis Billikens @ Saint Joseph's Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ Saint Jo
- seph's Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA
+ seph's Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA\nBroadcast: B
+ roadcast not announced
 LOCATION:Michael J. Hagan '85 Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +297,12 @@ DTSTART:20270127T000000Z
 DTEND:20270127T030000Z
 SUMMARY:Rhode Island Rams @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRhode Island Rams @ Saint Louis 
- Billikens\nChaifetz Arena\, St. Louis\, MO
+ Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +311,11 @@ DTSTART:20270129T230000Z
 DTEND:20270130T020000Z
 SUMMARY:Saint Louis Billikens @ Dayton Flyers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ Dayton F
- lyers\nUD Arena\, Dayton\, OH
+ lyers\nUD Arena\, Dayton\, OH\nBroadcast: Broadcast not announced
 LOCATION:UD Arena\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +324,11 @@ DTSTART:20270206T000000Z
 DTEND:20270206T030000Z
 SUMMARY:VCU Rams @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Saint Louis Billikens
- \nChaifetz Arena\, St. Louis\, MO
+ \nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not announced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +337,12 @@ DTSTART:20270210T010000Z
 DTEND:20270210T040000Z
 SUMMARY:Saint Louis Billikens @ Loyola Chicago Ramblers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ Loyola C
- hicago Ramblers\nGentile Arena\, Chicago\, IL
+ hicago Ramblers\nGentile Arena\, Chicago\, IL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Gentile Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +351,12 @@ DTSTART:20270213T000000Z
 DTEND:20270213T030000Z
 SUMMARY:Saint Joseph's Hawks @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Joseph's Hawks @ Saint Lou
- is Billikens\nChaifetz Arena\, St. Louis\, MO
+ is Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +365,12 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:Davidson Wildcats @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ Saint Louis 
- Billikens\nChaifetz Arena\, St. Louis\, MO
+ Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +379,11 @@ DTSTART:20270220T000000Z
 DTEND:20270220T030000Z
 SUMMARY:Saint Louis Billikens @ VCU Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ VCU Rams
- \nSiegel Center\, Richmond\, VA
+ \nSiegel Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +392,12 @@ DTSTART:20270225T010000Z
 DTEND:20270225T040000Z
 SUMMARY:La Salle Explorers @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLa Salle Explorers @ Saint Louis
-  Billikens\nChaifetz Arena\, St. Louis\, MO
+  Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +406,12 @@ DTSTART:20270228T010000Z
 DTEND:20270228T040000Z
 SUMMARY:Saint Louis Billikens @ George Washington Revolutionaries
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ George W
- ashington Revolutionaries\nCharles E. Smith Center\, Washington\, DC
+ ashington Revolutionaries\nCharles E. Smith Center\, Washington\, DC\nBroa
+ dcast: Broadcast not announced
 LOCATION:Charles E. Smith Center\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +420,12 @@ DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
 SUMMARY:Saint Louis Billikens @ Duquesne Dukes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ Duquesne
-  Dukes\nUPMC Cooper Fieldhouse\, Pittsburgh\, PA
+  Dukes\nUPMC Cooper Fieldhouse\, Pittsburgh\, PA\nBroadcast: Broadcast not
+  announced
 LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +434,12 @@ DTSTART:20270306T193000Z
 DTEND:20270306T223000Z
 SUMMARY:George Mason Patriots @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorge Mason Patriots @ Saint Lo
- uis Billikens\nChaifetz Arena\, St. Louis\, MO
+ uis Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

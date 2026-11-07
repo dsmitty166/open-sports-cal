@@ -13,13 +13,14 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Clarke Pride @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClarke Pride @ Western Illinoi
- s Leathernecks\nWestern Hall\, Macomb\, IL
+ s Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921435@open-sports-cal
@@ -27,13 +28,15 @@ DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
 SUMMARY:Western Illinois Leathernecks @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Nebraska Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ @ Nebraska Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: B1G
+ + (streaming)
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918782@open-sports-cal
@@ -41,13 +44,15 @@ DTSTART:20261110T003000Z
 DTEND:20261110T033000Z
 SUMMARY:Western Illinois Leathernecks @ Omaha Mavericks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Omaha Mavericks\nBaxter Arena\, Omaha\, NE
+ @ Omaha Mavericks\nBaxter Arena\, Omaha\, NE\nBroadcast: Midco Sports Plus
+  (streaming)
 LOCATION:Baxter Arena\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Midco Sports Plus (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929320@open-sports-cal
@@ -55,13 +60,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Cornell (IA) Rams @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCornell (IA) Rams @ Western Il
- linois Leathernecks\nWestern Hall\, Macomb\, IL
+ linois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929101@open-sports-cal
@@ -69,13 +76,15 @@ DTSTART:20261117T170000Z
 DTEND:20261117T200000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911758@open-sports-cal
@@ -83,13 +92,15 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Loyola Chicago Ramblers @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Chicago Ramblers @ West
- ern Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ ern Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919878@open-sports-cal
@@ -97,12 +108,13 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Western Illinois Leathernecks @ Chicago State Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Chicago State Cougars\nJones Convocation Center\, Chicago\, IL
+ @ Chicago State Cougars\nJones Convocation Center\, Chicago\, IL\nBroadcas
+ t: Broadcast not announced
 LOCATION:Jones Convocation Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -111,13 +123,15 @@ DTSTART:20261201T000000Z
 DTEND:20261201T030000Z
 SUMMARY:Hannibal LaGrange HANNIBAL LAGRANGE @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHannibal LaGrange HANNIBAL LAG
- RANGE @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ RANGE @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920019@open-sports-cal
@@ -125,13 +139,15 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Western Illinois Leathernecks @ Valparaiso Beacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Valparaiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ @ Valparaiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919671@open-sports-cal
@@ -139,12 +155,13 @@ DTSTART:20261205T200000Z
 DTEND:20261205T230000Z
 SUMMARY:Western Illinois Leathernecks @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Bradley Braves\nRenaissance Coliseum\, Peoria\, IL
+ @ Bradley Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast
+  not announced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -153,13 +170,15 @@ DTSTART:20261208T233000Z
 DTEND:20261209T023000Z
 SUMMARY:Western Illinois Leathernecks @ Kansas State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Kansas State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ @ Kansas State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929075@open-sports-cal
@@ -167,13 +186,15 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Northern Illinois Huskies @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ We
- stern Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ stern Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927065@open-sports-cal
@@ -181,12 +202,13 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:Western Illinois Leathernecks @ Illinois Fighting Illini
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Illinois Fighting Illini\nState Farm Center\, Champaign\, IL
+ @ Illinois Fighting Illini\nState Farm Center\, Champaign\, IL\nBroadcast:
+  Broadcast not announced
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -195,13 +217,15 @@ DTSTART:20261230T210000Z
 DTEND:20261231T000000Z
 SUMMARY:Culver Stockton Wildcats @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCulver Stockton Wildcats @ Wes
- tern Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ tern Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919341@open-sports-cal
@@ -209,12 +233,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:SIU Edwardsville Cougars @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSIU Edwardsville Cougars @ Wes
- tern Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ tern Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broadca
+ st not announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -223,12 +248,13 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:Western Illinois Leathernecks @ Tennessee State Lady Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Tennessee State Lady Tigers\nGentry Center\, Nashville\, TN
+ @ Tennessee State Lady Tigers\nGentry Center\, Nashville\, TN\nBroadcast: 
+ Broadcast not announced
 LOCATION:Gentry Center\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -237,12 +263,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Western Illinois Leathernecks @ Southeast Missouri State Redhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Southeast Missouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO
+ @ Southeast Missouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO\
+ nBroadcast: Broadcast not announced
 LOCATION:Show Me Center\, Cape Girardeau\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -251,12 +278,13 @@ DTSTART:20270114T230000Z
 DTEND:20270115T020000Z
 SUMMARY:Eastern Illinois Panthers @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ We
- stern Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ stern Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broadc
+ ast not announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -265,12 +293,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:UT Martin Skyhawks @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Martin Skyhawks @ Western I
- llinois Leathernecks\nWestern Hall\, Macomb\, IL
+ llinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broadcast not
+  announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -279,12 +308,13 @@ DTSTART:20270121T221500Z
 DTEND:20270122T011500Z
 SUMMARY:Western Illinois Leathernecks @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Morehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ @ Morehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast
+ : Broadcast not announced
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -293,12 +323,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Western Illinois Leathernecks @ Southern Indiana Screaming Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Southern Indiana Screaming Eagles\nLiberty Arena (IN)\, Evansville\, IN
+ @ Southern Indiana Screaming Eagles\nLiberty Arena (IN)\, Evansville\, IN\
+ nBroadcast: Broadcast not announced
 LOCATION:Liberty Arena (IN)\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +338,13 @@ DTSTART:20270128T230000Z
 DTEND:20270129T020000Z
 SUMMARY:Southeast Missouri State Redhawks @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSoutheast Missouri State Redha
- wks @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ wks @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast
+ : Broadcast not announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -321,12 +353,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Western Illinois Leathernecks @ SIU Edwardsville Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ SIU Edwardsville Cougars\nFirst Community Arena\, Edwardsville\, IL
+ @ SIU Edwardsville Cougars\nFirst Community Arena\, Edwardsville\, IL\nBro
+ adcast: Broadcast not announced
 LOCATION:First Community Arena\, Edwardsville\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -335,12 +368,13 @@ DTSTART:20270204T233000Z
 DTEND:20270205T023000Z
 SUMMARY:Western Illinois Leathernecks @ UT Martin Skyhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ UT Martin Skyhawks\nKathleen and Tom Elam Center\, Martin\, TN
+ @ UT Martin Skyhawks\nKathleen and Tom Elam Center\, Martin\, TN\nBroadcas
+ t: Broadcast not announced
 LOCATION:Kathleen and Tom Elam Center\, Martin\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -349,12 +383,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Lindenwood Lions @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLindenwood Lions @ Western Ill
- inois Leathernecks\nWestern Hall\, Macomb\, IL
+ inois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +398,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Morehead State Eagles @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Wester
- n Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ n Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broadcast 
+ not announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +413,13 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Western Illinois Leathernecks @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ @ Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: 
+ Broadcast not announced
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +428,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Tennessee State Lady Tigers @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee State Lady Tigers @ 
- Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broa
+ dcast not announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +443,13 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Southern Indiana Screaming Eagles @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Indiana Screaming Eag
- les @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ les @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast
+ : Broadcast not announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +458,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Western Illinois Leathernecks @ Lindenwood Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Lindenwood Lions\nHyland Arena\, Saint Charles\, MO
+ @ Lindenwood Lions\nHyland Arena\, Saint Charles\, MO\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hyland Arena\, Saint Charles\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

@@ -12,13 +12,15 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Saint Peter's Peacocks @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Pitts
- burgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ burgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX
+  (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919068@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:Saint Peter's Peacocks @ Georgetown Hoyas
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Georg
- etown Hoyas\nMcDonough Arena\, Washington\, DC
+ etown Hoyas\nMcDonough Arena\, Washington\, DC\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:McDonough Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913726@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Saint Peter's Peacocks @ Miami Hurricanes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Miami
-  Hurricanes\nWatsco Center\, Coral Gables\, FL
+  Hurricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: ACCNX (streamin
+ g)
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919449@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261118T230000Z
 DTEND:20261119T020000Z
 SUMMARY:Lafayette Leopards @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Saint Pet
- er's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ er's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919450@open-sports-cal
@@ -68,12 +76,13 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Saint Peter's Peacocks @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Long 
- Island University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ Island University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadc
+ ast: Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -82,12 +91,13 @@ DTSTART:20261124T000000Z
 DTEND:20261124T030000Z
 SUMMARY:Saint Peter's Peacocks @ Fairleigh Dickinson Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Fairl
- eigh Dickinson Knights\nBogota Savings Bank Center\, Hackensack\, NJ
+ eigh Dickinson Knights\nBogota Savings Bank Center\, Hackensack\, NJ\nBroa
+ dcast: Broadcast not announced
 LOCATION:Bogota Savings Bank Center\, Hackensack\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -96,13 +106,15 @@ DTSTART:20261125T170000Z
 DTEND:20261125T200000Z
 SUMMARY:NJIT Highlanders @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNJIT Highlanders @ Saint Peter
- 's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ 's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913011@open-sports-cal
@@ -110,12 +122,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Saint Peter's Peacocks @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Rutge
- rs Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ rs Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: Br
+ oadcast not announced
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +137,15 @@ DTSTART:20261209T213000Z
 DTEND:20261210T003000Z
 SUMMARY:Saint Peter's Peacocks @ Yale Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Yale 
- Bulldogs\nJohn J. Lee Amphitheater\, New Haven\, CT
+ Bulldogs\nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919452@open-sports-cal
@@ -138,13 +153,15 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Wilmington (DE) Wildcats @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilmington (DE) Wildcats @ Sai
- nt Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ nt Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919443@open-sports-cal
@@ -152,13 +169,15 @@ DTSTART:20261221T163000Z
 DTEND:20261221T193000Z
 SUMMARY:Saint Peter's Peacocks @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Sacre
- d Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ d Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: ESPN
+ + (streaming)
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915698@open-sports-cal
@@ -166,13 +185,15 @@ DTSTART:20261229T190000Z
 DTEND:20261229T220000Z
 SUMMARY:Manhattan Jaspers @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nManhattan Jaspers @ Saint Pete
- r's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ r's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916219@open-sports-cal
@@ -180,12 +201,13 @@ DTSTART:20270101T230000Z
 DTEND:20270102T020000Z
 SUMMARY:Quinnipiac Bobcats @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nQuinnipiac Bobcats @ Saint Pet
- er's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ er's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +216,13 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:Saint Peter's Peacocks @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Rider
-  Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+  Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadca
+ st not announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +231,13 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:Canisius Golden Griffins @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Sai
- nt Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ nt Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broad
+ cast not announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +246,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Niagara Purple Eagles @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNiagara Purple Eagles @ Saint 
- Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcas
+ t not announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +261,13 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Saint Peter's Peacocks @ Merrimack Warriors
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Merri
- mack Warriors\nHammel Court\, North Andover\, MA
+ mack Warriors\nHammel Court\, North Andover\, MA\nBroadcast: Broadcast not
+  announced
 LOCATION:Hammel Court\, North Andover\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +276,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Saint Peter's Peacocks @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Siena
-  Saints\nUHY Center\, Loudonville\, NY
+  Saints\nUHY Center\, Loudonville\, NY\nBroadcast: Broadcast not announced
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +290,13 @@ DTSTART:20270118T230000Z
 DTEND:20270119T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Saint Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ @ Saint Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: 
+ Broadcast not announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +305,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Rider Broncs @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Saint Peter's P
- eacocks\nYanitelli Center\, Jersey City\, NJ
+ eacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +320,13 @@ DTSTART:20270128T160000Z
 DTEND:20270128T190000Z
 SUMMARY:Saint Peter's Peacocks @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Canis
- ius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ ius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +335,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Saint Peter's Peacocks @ Niagara Purple Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Niaga
- ra Purple Eagles\nGallagher Center\, Niagara Falls\, NY
+ ra Purple Eagles\nGallagher Center\, Niagara Falls\, NY\nBroadcast: Broadc
+ ast not announced
 LOCATION:Gallagher Center\, Niagara Falls\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +350,13 @@ DTSTART:20270204T230000Z
 DTEND:20270205T020000Z
 SUMMARY:Merrimack Warriors @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMerrimack Warriors @ Saint Pet
- er's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ er's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +365,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Fairfield Stags @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFairfield Stags @ Saint Peter'
- s Peacocks\nYanitelli Center\, Jersey City\, NJ
+ s Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast not 
+ announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +380,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Saint Peter's Peacocks @ Iona Gaels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Iona 
- Gaels\nHynes Athletics Center\, New Rochelle\, NY
+ Gaels\nHynes Athletics Center\, New Rochelle\, NY\nBroadcast: Broadcast no
+ t announced
 LOCATION:Hynes Athletics Center\, New Rochelle\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +395,13 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:Saint Peter's Peacocks @ Marist Red Foxes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Maris
- t Red Foxes\nMcCann Arena\, Poughkeepsie\, NY
+ t Red Foxes\nMcCann Arena\, Poughkeepsie\, NY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:McCann Arena\, Poughkeepsie\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +410,13 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Sacred Heart Pioneers @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Saint 
- Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcas
+ t not announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +425,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Saint Peter's Peacocks @ Manhattan Jaspers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Manha
- ttan Jaspers\nDraddy Gymnasium\, Riverdale\, NY
+ ttan Jaspers\nDraddy Gymnasium\, Riverdale\, NY\nBroadcast: Broadcast not 
+ announced
 LOCATION:Draddy Gymnasium\, Riverdale\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +440,13 @@ DTSTART:20270225T233000Z
 DTEND:20270226T023000Z
 SUMMARY:Saint Peter's Peacocks @ Quinnipiac Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Quinn
- ipiac Bobcats\nM&T Bank Arena\, Hamden\, CT
+ ipiac Bobcats\nM&T Bank Arena\, Hamden\, CT\nBroadcast: Broadcast not anno
+ unced
 LOCATION:M&T Bank Arena\, Hamden\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +455,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Iona Gaels @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIona Gaels @ Saint Peter's Pea
- cocks\nYanitelli Center\, Jersey City\, NJ
+ cocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

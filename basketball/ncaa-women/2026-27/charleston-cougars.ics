@@ -12,13 +12,14 @@ DTSTART:20261102T220000Z
 DTEND:20261103T010000Z
 SUMMARY:Berry Vikings @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBerry Vikings @ Charleston Cou
- gars\nTD Arena\, Charleston\, SC
+ gars\nTD Arena\, Charleston\, SC\nBroadcast: FloSports (streaming)
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927028@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Charleston Southern Buccaneers @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Southern Buccaneers
-  @ Charleston Cougars\nTD Arena\, Charleston\, SC
+  @ Charleston Cougars\nTD Arena\, Charleston\, SC\nBroadcast: FloSports (s
+ treaming)
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927107@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261111T033000Z
 DTEND:20261111T063000Z
 SUMMARY:Charleston Cougars @ USC Trojans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ USC Troja
- ns\nGalen Center\, Los Angeles\, CA
+ ns\nGalen Center\, Los Angeles\, CA\nBroadcast: BTN
 LOCATION:Galen Center\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906065@open-sports-cal
@@ -54,13 +58,15 @@ DTSTART:20261112T190000Z
 DTEND:20261112T220000Z
 SUMMARY:Charleston Cougars @ California Golden Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Californi
- a Golden Bears\nHaas Pavilion\, Berkeley\, CA
+ a Golden Bears\nHaas Pavilion\, Berkeley\, CA\nBroadcast: ACCNX (streaming
+ )
 LOCATION:Haas Pavilion\, Berkeley\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913886@open-sports-cal
@@ -68,13 +74,15 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Charleston Cougars @ Queens University Royals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Queens Un
- iversity Royals\nCurry Arena\, Charlotte\, NC
+ iversity Royals\nCurry Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Curry Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920170@open-sports-cal
@@ -82,12 +90,13 @@ DTSTART:20261126T180000Z
 DTEND:20261126T210000Z
 SUMMARY:McNeese Cowgirls @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Charleston 
- Cougars\nMcArthur Center\, St. Petersburg\, FL\nNeutral site
+ Cougars\nMcArthur Center\, St. Petersburg\, FL\nNeutral site\nBroadcast: B
+ roadcast not announced
 LOCATION:McArthur Center\, St. Petersburg\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -96,12 +105,13 @@ DTSTART:20261127T170000Z
 DTEND:20261127T200000Z
 SUMMARY:Charleston Cougars @ Boston College Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Boston Co
- llege Eagles\nMcArthur Center\, St. Petersburg\, FL\nNeutral site
+ llege Eagles\nMcArthur Center\, St. Petersburg\, FL\nNeutral site\nBroadca
+ st: Broadcast not announced
 LOCATION:McArthur Center\, St. Petersburg\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +120,12 @@ DTSTART:20261202T160000Z
 DTEND:20261202T190000Z
 SUMMARY:LaGrange Panthers @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLaGrange Panthers @ Charleston
-  Cougars\nTD Arena\, Charleston\, SC
+  Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +134,13 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Coastal Carolina Chanticleers @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoastal Carolina Chanticleers 
- @ Charleston Cougars\nTD Arena\, Charleston\, SC
+ @ Charleston Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not
+  announced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -139,13 +150,14 @@ DTEND:20261216T020000Z
 SUMMARY:Charleston Cougars @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Georgia S
  outhern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\, G
- A
+ A\nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913703@open-sports-cal
@@ -153,12 +165,12 @@ DTSTART:20261220T170000Z
 DTEND:20261220T200000Z
 SUMMARY:Richmond Spiders @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRichmond Spiders @ Charleston 
- Cougars\nTD Arena\, Charleston\, SC
+ Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -167,13 +179,15 @@ DTSTART:20261228T190000Z
 DTEND:20261228T220000Z
 SUMMARY:Charleston Cougars @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Virginia 
- Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (streami
+ ng)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401903585@open-sports-cal
@@ -181,12 +195,12 @@ DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:Monmouth Hawks @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMonmouth Hawks @ Charleston Co
- ugars\nTD Arena\, Charleston\, SC
+ ugars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -195,12 +209,13 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:Charleston Cougars @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Hampton L
- ady Pirates\nConvocation Center (VA)\, Hampton\, VA
+ ady Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -209,12 +224,13 @@ DTSTART:20270110T180000Z
 DTEND:20270110T210000Z
 SUMMARY:Charleston Cougars @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ William &
-  Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+  Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -223,12 +239,13 @@ DTSTART:20270115T230000Z
 DTEND:20270116T020000Z
 SUMMARY:North Carolina A&T Aggies @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina A&T Aggies @ Ch
- arleston Cougars\nTD Arena\, Charleston\, SC
+ arleston Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -237,12 +254,13 @@ DTSTART:20270117T180000Z
 DTEND:20270117T210000Z
 SUMMARY:Northeastern Huskies @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Charles
- ton Cougars\nTD Arena\, Charleston\, SC
+ ton Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announce
+ d
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -251,12 +269,13 @@ DTSTART:20270122T230000Z
 DTEND:20270123T020000Z
 SUMMARY:Charleston Cougars @ Drexel Dragons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Drexel Dr
- agons\nDaskalakis Athletic Center\, Philadelphia\, PA
+ agons\nDaskalakis Athletic Center\, Philadelphia\, PA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Daskalakis Athletic Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -265,12 +284,13 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Charleston Cougars @ Monmouth Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Monmouth 
- Hawks\nOceanFirst Bank Center\, West Long Branch\, NJ
+ Hawks\nOceanFirst Bank Center\, West Long Branch\, NJ\nBroadcast: Broadcas
+ t not announced
 LOCATION:OceanFirst Bank Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -279,12 +299,13 @@ DTSTART:20270129T230000Z
 DTEND:20270130T020000Z
 SUMMARY:UNC Wilmington Seahawks @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Wilmington Seahawks @ Char
- leston Cougars\nTD Arena\, Charleston\, SC
+ leston Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not annou
+ nced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -293,12 +314,12 @@ DTSTART:20270131T180000Z
 DTEND:20270131T210000Z
 SUMMARY:Charleston Cougars @ Elon Phoenix
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Elon Phoe
- nix\nSchar Center\, Elon\, NC
+ nix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +328,13 @@ DTSTART:20270205T230000Z
 DTEND:20270206T020000Z
 SUMMARY:Stony Brook Seawolves @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStony Brook Seawolves @ Charle
- ston Cougars\nTD Arena\, Charleston\, SC
+ ston Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announc
+ ed
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -321,12 +343,12 @@ DTSTART:20270207T180000Z
 DTEND:20270207T210000Z
 SUMMARY:Towson Tigers @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTowson Tigers @ Charleston Cou
- gars\nTD Arena\, Charleston\, SC
+ gars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -335,12 +357,13 @@ DTSTART:20270212T230000Z
 DTEND:20270213T020000Z
 SUMMARY:Charleston Cougars @ Campbell Fighting Camels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Campbell 
- Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\nB
+ roadcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,12 +372,13 @@ DTSTART:20270219T233100Z
 DTEND:20270220T023100Z
 SUMMARY:Charleston Cougars @ Stony Brook Seawolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Stony Bro
- ok Seawolves\nStony Brook Arena\, Stony Brook\, NY
+ ok Seawolves\nStony Brook Arena\, Stony Brook\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Stony Brook Arena\, Stony Brook\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +387,13 @@ DTSTART:20270221T180000Z
 DTEND:20270221T210000Z
 SUMMARY:Charleston Cougars @ Hofstra Pride
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Hofstra P
- ride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ ride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadc
+ ast: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +402,13 @@ DTSTART:20270226T230000Z
 DTEND:20270227T020000Z
 SUMMARY:Campbell Fighting Camels @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCampbell Fighting Camels @ Cha
- rleston Cougars\nTD Arena\, Charleston\, SC
+ rleston Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not anno
+ unced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +417,13 @@ DTSTART:20270228T180000Z
 DTEND:20270228T210000Z
 SUMMARY:Charleston Cougars @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ UNC Wilmi
- ngton Seahawks\nTrask Coliseum\, Wilmington\, NC
+ ngton Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not
+  announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +432,13 @@ DTSTART:20270305T000000Z
 DTEND:20270305T030000Z
 SUMMARY:Hampton Lady Pirates @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ Charles
- ton Cougars\nTD Arena\, Charleston\, SC
+ ton Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announce
+ d
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +447,12 @@ DTSTART:20270306T180000Z
 DTEND:20270306T210000Z
 SUMMARY:Elon Phoenix @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nElon Phoenix @ Charleston Coug
- ars\nTD Arena\, Charleston\, SC
+ ars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

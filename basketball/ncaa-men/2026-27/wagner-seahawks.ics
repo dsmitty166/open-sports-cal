@@ -12,12 +12,13 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Wagner Seahawks @ Boston College Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Boston College
-  Eagles\nConte Forum\, Chestnut Hill\, MA
+  Eagles\nConte Forum\, Chestnut Hill\, MA\nBroadcast: ACCNX (streaming)
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921719@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261107T020000Z
 DTEND:20261107T050000Z
 SUMMARY:Wagner Seahawks @ Miami Hurricanes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Miami Hurrican
- es\nWatsco Center\, Coral Gables\, FL
+ es\nWatsco Center\, Coral Gables\, FL\nBroadcast: ACC Network
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920686@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Wagner Seahawks @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ UConn Huskies\
- nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: truTV
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926060@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Bryant & Stratton-Albany Bobcats @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBryant & Stratton-Albany Bobcats
-  @ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY
+  @ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: N
+ EC Front Row
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920194@open-sports-cal
@@ -64,12 +69,14 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Wagner Seahawks @ Saint Joseph's Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Saint Joseph's
-  Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA
+  Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Michael J. Hagan '85 Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916299@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Wagner Seahawks @ Maryland Terrapins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Maryland Terra
- pins\nXFINITY Center\, College Park\, MD
+ pins\nXFINITY Center\, College Park\, MD\nBroadcast: B1G+ (streaming)
 LOCATION:XFINITY Center\, College Park\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926061@open-sports-cal
@@ -90,11 +98,12 @@ DTSTART:20261124T220000Z
 DTEND:20261125T010000Z
 SUMMARY:Bloomsburg Huskies @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBloomsburg Huskies @ Wagner Seah
- awks\nSpiro Sports Center\, Staten Island\, NY
+ awks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +112,13 @@ DTSTART:20261202T003000Z
 DTEND:20261202T033000Z
 SUMMARY:Wagner Seahawks @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Marquette Gold
- en Eagles\nFiserv Forum\, Milwaukee\, WI
+ en Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: ESPN+ (streaming)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920416@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:Wagner Seahawks @ High Point Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ High Point Pan
- thers\nQubein Center\, High Point\, NC
+ thers\nQubein Center\, High Point\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Qubein Center\, High Point\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920684@open-sports-cal
@@ -129,12 +140,13 @@ DTSTART:20261208T233000Z
 DTEND:20261209T023000Z
 SUMMARY:Wagner Seahawks @ St. John's Red Storm
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ St. John's Red
-  Storm\nCarnesecca Arena\, Queens\, NY
+  Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921091@open-sports-cal
@@ -142,11 +154,12 @@ DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
 SUMMARY:UMBC Retrievers @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMBC Retrievers @ Wagner Seahawk
- s\nSpiro Sports Center\, Staten Island\, NY
+ s\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +168,12 @@ DTSTART:20261218T000000Z
 DTEND:20261218T030000Z
 SUMMARY:Manhattan Jaspers @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nManhattan Jaspers @ Wagner Seaha
- wks\nSpiro Sports Center\, Staten Island\, NY
+ wks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -168,11 +182,12 @@ DTSTART:20261223T180000Z
 DTEND:20261223T210000Z
 SUMMARY:NJIT Highlanders @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNJIT Highlanders @ Wagner Seahaw
- ks\nSpiro Sports Center\, Staten Island\, NY
+ ks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -181,11 +196,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Wagner Seahawks @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Stonehill Skyh
- awks\nMerkert Gymnasium\, South Easton\, MA
+ awks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +210,12 @@ DTSTART:20270105T000000Z
 DTEND:20270105T030000Z
 SUMMARY:Wagner Seahawks @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Central Connec
- ticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ ticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: Broadc
+ ast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +224,12 @@ DTSTART:20270108T180000Z
 DTEND:20270108T210000Z
 SUMMARY:Wagner Seahawks @ New Haven Chargers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ New Haven Char
- gers\nJeffery P. Hazell Athletics Center\, West Haven\, CT
+ gers\nJeffery P. Hazell Athletics Center\, West Haven\, CT\nBroadcast: Bro
+ adcast not announced
 LOCATION:Jeffery P. Hazell Athletics Center\, West Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +238,12 @@ DTSTART:20270110T180000Z
 DTEND:20270110T210000Z
 SUMMARY:Chicago State Cougars @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChicago State Cougars @ Wagner S
- eahawks\nSpiro Sports Center\, Staten Island\, NY
+ eahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast no
+ t announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +252,12 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Mercyhurst Lakers @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Wagner Seaha
- wks\nSpiro Sports Center\, Staten Island\, NY
+ wks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +266,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Le Moyne Dolphins @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Wagner Seaha
- wks\nSpiro Sports Center\, Staten Island\, NY
+ wks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +280,12 @@ DTSTART:20270120T170000Z
 DTEND:20270120T200000Z
 SUMMARY:Wagner Seahawks @ Chicago State Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Chicago State 
- Cougars\nJones Convocation Center\, Chicago\, IL
+ Cougars\nJones Convocation Center\, Chicago\, IL\nBroadcast: Broadcast not
+  announced
 LOCATION:Jones Convocation Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +294,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Wagner Seahawks @ Fairleigh Dickinson Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Fairleigh Dick
- inson Knights\nBogota Savings Bank Center\, Hackensack\, NJ
+ inson Knights\nBogota Savings Bank Center\, Hackensack\, NJ\nBroadcast: Br
+ oadcast not announced
 LOCATION:Bogota Savings Bank Center\, Hackensack\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +308,12 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Long Island University Sharks @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY
+ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +322,12 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Stonehill Skyhawks @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Wagner Seah
- awks\nSpiro Sports Center\, Staten Island\, NY
+ awks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +336,12 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:New Haven Chargers @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Haven Chargers @ Wagner Seah
- awks\nSpiro Sports Center\, Staten Island\, NY
+ awks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +350,12 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Wagner Seahawks @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Long Island Un
- iversity Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ iversity Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +364,12 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:Fairleigh Dickinson Knights @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFairleigh Dickinson Knights @ Wa
- gner Seahawks\nSpiro Sports Center\, Staten Island\, NY
+ gner Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadc
+ ast not announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +378,12 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Central Connecticut Blue Devils @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Connecticut Blue Devils 
- @ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY
+ @ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +392,11 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Wagner Seahawks @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Le Moyne Dolph
- ins\nTed Grant Court\, Syracuse\, NY
+ ins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not announced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +405,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Wagner Seahawks @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Mercyhurst Lak
- ers\nMercyhurst Athletic Center\, Erie\, PA
+ ers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

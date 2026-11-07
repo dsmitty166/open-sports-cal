@@ -12,12 +12,14 @@ DTSTART:20260828T230000Z
 DTEND:20260829T020000Z
 SUMMARY:New Hampshire Wildcats @ UAlbany Great Danes
 DESCRIPTION:NCAA FCS Football 2026\nNew Hampshire Wildcats @ UAlbany Great 
- Danes\nBob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY
+ Danes\nBob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY\nBroadcast
+ : FloSports (streaming)
 LOCATION:Bob Ford Field at Tom & Mary Casey Stadium\, Albany\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401858208@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:New Hampshire Wildcats @ Syracuse Orange
 DESCRIPTION:NCAA FCS Football 2026\nNew Hampshire Wildcats @ Syracuse Orang
- e\nJMA Wireless Dome\, Syracuse\, NY
+ e\nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: ACC Network / ACCNX (stre
+ aming)
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network / ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866631@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20260912T220000Z
 DTEND:20260913T010000Z
 SUMMARY:Stonehill Skyhawks @ New Hampshire Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nStonehill Skyhawks @ New Hampshire Wild
- cats\nWildcat Stadium (NH)\, Durham\, NH
+ cats\nWildcat Stadium (NH)\, Durham\, NH\nBroadcast: FloSports (streaming)
 LOCATION:Wildcat Stadium (NH)\, Durham\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866639@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20260919T170000Z
 DTEND:20260919T200000Z
 SUMMARY:Harvard Crimson @ New Hampshire Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nHarvard Crimson @ New Hampshire Wildcat
- s\nWildcat Stadium (NH)\, Durham\, NH
+ s\nWildcat Stadium (NH)\, Durham\, NH\nBroadcast: FloSports (streaming)
 LOCATION:Wildcat Stadium (NH)\, Durham\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866642@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20260926T160000Z
 DTEND:20260926T190000Z
 SUMMARY:New Hampshire Wildcats @ Sacred Heart Pioneers
 DESCRIPTION:NCAA FCS Football 2026\nNew Hampshire Wildcats @ Sacred Heart P
- ioneers\nCampus Field\, Fairfield\, CT
+ ioneers\nCampus Field\, Fairfield\, CT\nBroadcast: FloSports (streaming)
 LOCATION:Campus Field\, Fairfield\, CT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866650@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261003T170000Z
 DTEND:20261003T200000Z
 SUMMARY:Elon Phoenix @ New Hampshire Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nElon Phoenix @ New Hampshire Wildcats\n
- Wildcat Stadium (NH)\, Durham\, NH
+ Wildcat Stadium (NH)\, Durham\, NH\nBroadcast: FloSports (streaming)
 LOCATION:Wildcat Stadium (NH)\, Durham\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866658@open-sports-cal
@@ -90,12 +98,14 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:New Hampshire Wildcats @ North Carolina A&T Aggies
 DESCRIPTION:NCAA FCS Football 2026\nNew Hampshire Wildcats @ North Carolina
-  A&T Aggies\nTruist Stadium\, Greensboro\, NC
+  A&T Aggies\nTruist Stadium\, Greensboro\, NC\nBroadcast: FloSports (strea
+ ming)
 LOCATION:Truist Stadium\, Greensboro\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866665@open-sports-cal
@@ -103,12 +113,13 @@ DTSTART:20261017T170000Z
 DTEND:20261017T200000Z
 SUMMARY:Monmouth Hawks @ New Hampshire Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nMonmouth Hawks @ New Hampshire Wildcats
- \nWildcat Stadium (NH)\, Durham\, NH
+ \nWildcat Stadium (NH)\, Durham\, NH\nBroadcast: FloSports (streaming)
 LOCATION:Wildcat Stadium (NH)\, Durham\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866674@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:New Hampshire Wildcats @ Merrimack Warriors
 DESCRIPTION:NCAA FCS Football 2026\nNew Hampshire Wildcats @ Merrimack Warr
- iors\nDuane Stadium\, North Andover\, MA
+ iors\nDuane Stadium\, North Andover\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Duane Stadium\, North Andover\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866686@open-sports-cal
@@ -129,12 +141,13 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Rhode Island Rams @ New Hampshire Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nRhode Island Rams @ New Hampshire Wildc
- ats\nWildcat Stadium (NH)\, Durham\, NH
+ ats\nWildcat Stadium (NH)\, Durham\, NH\nBroadcast: FloSports (streaming)
 LOCATION:Wildcat Stadium (NH)\, Durham\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866691@open-sports-cal
@@ -142,12 +155,14 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Stony Brook Seawolves @ New Hampshire Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nStony Brook Seawolves @ New Hampshire W
- ildcats\nWildcat Stadium (NH)\, Durham\, NH
+ ildcats\nWildcat Stadium (NH)\, Durham\, NH\nBroadcast: FloSports (streami
+ ng)
 LOCATION:Wildcat Stadium (NH)\, Durham\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866699@open-sports-cal
@@ -155,11 +170,12 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:New Hampshire Wildcats @ Maine Black Bears
 DESCRIPTION:NCAA FCS Football 2026\nNew Hampshire Wildcats @ Maine Black Be
- ars\nHarold Alfond Sports Stadium\, Orono\, ME
+ ars\nHarold Alfond Sports Stadium\, Orono\, ME\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Harold Alfond Sports Stadium\, Orono\, ME
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

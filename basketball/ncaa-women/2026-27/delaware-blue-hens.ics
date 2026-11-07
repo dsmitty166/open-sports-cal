@@ -12,13 +12,15 @@ DTSTART:20261104T230000Z
 DTEND:20261105T020000Z
 SUMMARY:Delaware Blue Hens @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Virginia 
- Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (streami
+ ng)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927976@open-sports-cal
@@ -26,13 +28,14 @@ DTSTART:20261109T210000Z
 DTEND:20261110T000000Z
 SUMMARY:Delaware Blue Hens @ Towson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Towson Ti
- gers\nSECU Arena\, Towson\, MD
+ gers\nSECU Arena\, Towson\, MD\nBroadcast: FloSports (streaming)
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918867@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261112T003000Z
 DTEND:20261112T033000Z
 SUMMARY:Delaware Blue Hens @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Wisconsin
-  Badgers\nKohl Center\, Madison\, WI
+  Badgers\nKohl Center\, Madison\, WI\nBroadcast: B1G+ (streaming)
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919465@open-sports-cal
@@ -54,13 +58,15 @@ DTSTART:20261115T210000Z
 DTEND:20261116T000000Z
 SUMMARY:American University Eagles @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ D
- elaware Blue Hens\nBob Carpenter Center\, Newark\, DE
+ elaware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913680@open-sports-cal
@@ -68,13 +74,14 @@ DTSTART:20261120T000000Z
 DTEND:20261120T030000Z
 SUMMARY:Richmond Spiders @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRichmond Spiders @ Delaware Bl
- ue Hens\nBob Carpenter Center\, Newark\, DE
+ ue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: ESPN+ (streaming)
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927938@open-sports-cal
@@ -82,13 +89,15 @@ DTSTART:20261122T190000Z
 DTEND:20261122T220000Z
 SUMMARY:Hampton Lady Pirates @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ Delawar
- e Blue Hens\nBob Carpenter Center\, Newark\, DE
+ e Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927985@open-sports-cal
@@ -96,13 +105,15 @@ DTSTART:20261127T200000Z
 DTEND:20261127T230000Z
 SUMMARY:Delaware Blue Hens @ California Golden Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Californi
- a Golden Bears\nHaas Pavilion\, Berkeley\, CA
+ a Golden Bears\nHaas Pavilion\, Berkeley\, CA\nBroadcast: ACCNX (streaming
+ )
 LOCATION:Haas Pavilion\, Berkeley\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926018@open-sports-cal
@@ -110,13 +121,15 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Loyola Maryland Greyhounds @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Maryland Greyhounds @ D
- elaware Blue Hens\nBob Carpenter Center\, Newark\, DE
+ elaware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927974@open-sports-cal
@@ -124,12 +137,13 @@ DTSTART:20261217T160000Z
 DTEND:20261217T190000Z
 SUMMARY:Delaware Blue Hens @ Stony Brook Seawolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Stony Bro
- ok Seawolves\nStony Brook Arena\, Stony Brook\, NY
+ ok Seawolves\nStony Brook Arena\, Stony Brook\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Stony Brook Arena\, Stony Brook\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +152,14 @@ DTSTART:20261221T190000Z
 DTEND:20261221T220000Z
 SUMMARY:Delaware Blue Hens @ Bucknell Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Bucknell 
- Bison\nSojka Pavilion\, Lewisburg\, PA
+ Bison\nSojka Pavilion\, Lewisburg\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Sojka Pavilion\, Lewisburg\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927986@open-sports-cal
@@ -152,13 +167,15 @@ DTSTART:20261230T190000Z
 DTEND:20261230T220000Z
 SUMMARY:Saint Francis Red Wolves @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Francis Red Wolves @ Del
- aware Blue Hens\nBob Carpenter Center\, Newark\, DE
+ aware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401905515@open-sports-cal
@@ -166,12 +183,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Liberty Flames @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLiberty Flames @ Delaware Blue
-  Hens\nBob Carpenter Center\, Newark\, DE
+  Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +198,13 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:Missouri State Lady Bears @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMissouri State Lady Bears @ De
- laware Blue Hens\nBob Carpenter Center\, Newark\, DE
+ laware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: Broadcast
+  not announced
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +213,13 @@ DTSTART:20270110T180000Z
 DTEND:20270110T210000Z
 SUMMARY:Florida International Panthers @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
-  @ Delaware Blue Hens\nBob Carpenter Center\, Newark\, DE
+  @ Delaware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: Broa
+ dcast not announced
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +228,13 @@ DTSTART:20270115T003000Z
 DTEND:20270115T033000Z
 SUMMARY:Delaware Blue Hens @ Western Kentucky Lady Toppers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Western K
- entucky Lady Toppers\nE.A. Diddle Arena\, Bowling Green\, KY
+ entucky Lady Toppers\nE.A. Diddle Arena\, Bowling Green\, KY\nBroadcast: B
+ roadcast not announced
 LOCATION:E.A. Diddle Arena\, Bowling Green\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +243,13 @@ DTSTART:20270117T000000Z
 DTEND:20270117T030000Z
 SUMMARY:Delaware Blue Hens @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Middle Te
- nnessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ nnessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast: Broadc
+ ast not announced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +258,13 @@ DTSTART:20270121T160000Z
 DTEND:20270121T190000Z
 SUMMARY:Kennesaw State Owls @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKennesaw State Owls @ Delaware
-  Blue Hens\nBob Carpenter Center\, Newark\, DE
+  Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +273,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Jacksonville State Gamecocks @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJacksonville State Gamecocks @
-  Delaware Blue Hens\nBob Carpenter Center\, Newark\, DE
+  Delaware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: Broadc
+ ast not announced
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +288,13 @@ DTSTART:20270129T010000Z
 DTEND:20270129T040000Z
 SUMMARY:Delaware Blue Hens @ New Mexico State Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ New Mexic
- o State Aggies\nPan American Center\, Las Cruces\, NM
+ o State Aggies\nPan American Center\, Las Cruces\, NM\nBroadcast: Broadcas
+ t not announced
 LOCATION:Pan American Center\, Las Cruces\, NM
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +303,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Delaware Blue Hens @ Sam Houston Bearkats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Sam Houst
- on Bearkats\nBernard G. Johnson Coliseum\, Huntsville\, TX
+ on Bearkats\nBernard G. Johnson Coliseum\, Huntsville\, TX\nBroadcast: Bro
+ adcast not announced
 LOCATION:Bernard G. Johnson Coliseum\, Huntsville\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +318,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Delaware Blue Hens @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Florida I
- nternational Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ nternational Panthers\nOcean Bank Convocation Center\, Miami\, FL\nBroadca
+ st: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +333,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Delaware Blue Hens @ Missouri State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Missouri 
- State Lady Bears\nGreat Southern Bank Arena\, Springfield\, MO
+ State Lady Bears\nGreat Southern Bank Arena\, Springfield\, MO\nBroadcast:
+  Broadcast not announced
 LOCATION:Great Southern Bank Arena\, Springfield\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +348,13 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Delaware Blue Hens\nBob Carpenter Center\, Newark\, DE
+ @ Delaware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: Broad
+ cast not announced
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +363,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Western Kentucky Lady Toppers @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Kentucky Lady Toppers 
- @ Delaware Blue Hens\nBob Carpenter Center\, Newark\, DE
+ @ Delaware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: Broad
+ cast not announced
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +378,13 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Delaware Blue Hens @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Jacksonvi
- lle State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ lle State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadcast:
+  Broadcast not announced
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +393,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Delaware Blue Hens @ Kennesaw State Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Kennesaw 
- State Owls\nVyStar Arena\, Kennesaw\, GA
+ State Owls\nVyStar Arena\, Kennesaw\, GA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:VyStar Arena\, Kennesaw\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +408,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Sam Houston Bearkats @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSam Houston Bearkats @ Delawar
- e Blue Hens\nBob Carpenter Center\, Newark\, DE
+ e Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: Broadcast not 
+ announced
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +423,13 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:New Mexico State Aggies @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Mexico State Aggies @ Dela
- ware Blue Hens\nBob Carpenter Center\, Newark\, DE
+ ware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +438,13 @@ DTSTART:20270306T190000Z
 DTEND:20270306T220000Z
 SUMMARY:Delaware Blue Hens @ Liberty Flames
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Liberty F
- lames\nLiberty Arena (VA)\, Lynchburg\, VA
+ lames\nLiberty Arena (VA)\, Lynchburg\, VA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Liberty Arena (VA)\, Lynchburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

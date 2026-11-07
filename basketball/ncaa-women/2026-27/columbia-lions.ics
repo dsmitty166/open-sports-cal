@@ -12,13 +12,14 @@ DTSTART:20261102T160000Z
 DTEND:20261102T190000Z
 SUMMARY:Davidson Wildcats @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDavidson Wildcats @ Columbia L
- ions\nLevien Gymnasium\, New York\, NY
+ ions\nLevien Gymnasium\, New York\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915774@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261106T230000Z
 DTEND:20261107T020000Z
 SUMMARY:Rhode Island Rams @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Columbia L
- ions\nCurb Event Center Arena\, Nashville\, TN\nNeutral site
+ ions\nCurb Event Center Arena\, Nashville\, TN\nNeutral site\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919323@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261108T203000Z
 DTEND:20261108T233000Z
 SUMMARY:Columbia Lions @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Belmont Bruin
- s\nCurb Event Center Arena\, Nashville\, TN
+ s\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919324@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Michigan Wolverines @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMichigan Wolverines @ Columbia
-  Lions\nLevien Gymnasium\, New York\, NY
+  Lions\nLevien Gymnasium\, New York\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918916@open-sports-cal
@@ -68,13 +73,14 @@ DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Columbia Lions @ Maryland Terrapins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Maryland Terr
- apins\nXFINITY Center\, College Park\, MD
+ apins\nXFINITY Center\, College Park\, MD\nBroadcast: B1G+ (streaming)
 LOCATION:XFINITY Center\, College Park\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915910@open-sports-cal
@@ -82,13 +88,14 @@ DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
 SUMMARY:Duke Blue Devils @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDuke Blue Devils @ Columbia Li
- ons\nLevien Gymnasium\, New York\, NY
+ ons\nLevien Gymnasium\, New York\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915984@open-sports-cal
@@ -96,12 +103,13 @@ DTSTART:20261128T003000Z
 DTEND:20261128T033000Z
 SUMMARY:Columbia Lions @ Stanford Cardinal
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Stanford Card
- inal\nStan Sheriff Center\, Honolulu\, HI\nNeutral site
+ inal\nStan Sheriff Center\, Honolulu\, HI\nNeutral site\nBroadcast: Broadc
+ ast not announced
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +118,13 @@ DTSTART:20261128T220000Z
 DTEND:20261129T010000Z
 SUMMARY:Columbia Lions @ Hawai'i Rainbow Wahine
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Hawai'i Rainb
- ow Wahine\nStan Sheriff Center\, Honolulu\, HI
+ ow Wahine\nStan Sheriff Center\, Honolulu\, HI\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +133,13 @@ DTSTART:20261129T233000Z
 DTEND:20261130T023000Z
 SUMMARY:San Diego State Aztecs @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Diego State Aztecs @ Colum
- bia Lions\nStan Sheriff Center\, Honolulu\, HI\nNeutral site
+ bia Lions\nStan Sheriff Center\, Honolulu\, HI\nNeutral site\nBroadcast: B
+ roadcast not announced
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -138,12 +148,13 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Old Dominion Monarchs @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOld Dominion Monarchs @ Columb
- ia Lions\nLevien Gymnasium\, New York\, NY
+ ia Lions\nLevien Gymnasium\, New York\, NY\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -152,12 +163,13 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Columbia Lions @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Wagner Seahaw
- ks\nSpiro Sports Center\, Staten Island\, NY
+ ks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -166,13 +178,15 @@ DTSTART:20261209T160000Z
 DTEND:20261209T190000Z
 SUMMARY:Columbia Lions @ Saint Joseph's Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Saint Joseph'
- s Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA
+ s Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Michael J. Hagan '85 Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913032@open-sports-cal
@@ -180,13 +194,14 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Seton Hall Pirates @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSeton Hall Pirates @ Columbia 
- Lions\nLevien Gymnasium\, New York\, NY
+ Lions\nLevien Gymnasium\, New York\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919329@open-sports-cal
@@ -194,12 +209,13 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Columbia Lions @ Fairfield Stags
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Fairfield Sta
- gs\nLeo D. Mahoney Arena\, Fairfield\, CT
+ gs\nLeo D. Mahoney Arena\, Fairfield\, CT\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Leo D. Mahoney Arena\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,13 +224,14 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:Oregon State Beavers @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon State Beavers @ Columbi
- a Lions\nLevien Gymnasium\, New York\, NY
+ a Lions\nLevien Gymnasium\, New York\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914500@open-sports-cal
@@ -222,12 +239,12 @@ DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:Columbia Lions @ Cornell Big Red
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Cornell Big R
- ed\nNewman Arena\, Ithaca\, NY
+ ed\nNewman Arena\, Ithaca\, NY\nBroadcast: Broadcast not announced
 LOCATION:Newman Arena\, Ithaca\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +253,13 @@ DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Harvard Crimson @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Columbia Lio
- ns\nLevien Gymnasium\, New York\, NY\nStart time TBD
+ ns\nLevien Gymnasium\, New York\, NY\nStart time TBD\nBroadcast: Broadcast
+  not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911671@open-sports-cal
@@ -249,12 +267,13 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Columbia Lions @ Brown Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Brown Bears\n
- Pizzitola Sports Center\, Providence\, RI
+ Pizzitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -263,12 +282,13 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Columbia Lions @ Yale Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Yale Bulldogs
- \nJohn J. Lee Amphitheater\, New Haven\, CT
+ \nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: Broadcast not anno
+ unced
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -277,12 +297,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Columbia Lions @ Dartmouth Big Green
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Dartmouth Big
-  Green\nLeede Arena\, Hanover\, NH
+  Green\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -291,12 +311,13 @@ DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Pennsylvania Quakers @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPennsylvania Quakers @ Columbi
- a Lions\nLevien Gymnasium\, New York\, NY\nStart time TBD
+ a Lions\nLevien Gymnasium\, New York\, NY\nStart time TBD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915334@open-sports-cal
@@ -304,12 +325,13 @@ DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Princeton Tigers @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Columbia Li
- ons\nLevien Gymnasium\, New York\, NY\nStart time TBD
+ ons\nLevien Gymnasium\, New York\, NY\nStart time TBD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915318@open-sports-cal
@@ -317,12 +339,13 @@ DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Cornell Big Red @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCornell Big Red @ Columbia Lio
- ns\nLevien Gymnasium\, New York\, NY\nStart time TBD
+ ns\nLevien Gymnasium\, New York\, NY\nStart time TBD\nBroadcast: Broadcast
+  not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913945@open-sports-cal
@@ -330,12 +353,13 @@ DTSTART:20270212T230000Z
 DTEND:20270213T020000Z
 SUMMARY:Columbia Lions @ Pennsylvania Quakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Pennsylvania 
- Quakers\nThe Palestra\, Philadelphia\, PA
+ Quakers\nThe Palestra\, Philadelphia\, PA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -344,12 +368,12 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:Columbia Lions @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Princeton Tig
- ers\nJadwin Gymnasium\, Princeton\, NJ
+ ers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -358,12 +382,13 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Dartmouth Big Green @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDartmouth Big Green @ Columbia
-  Lions\nLevien Gymnasium\, New York\, NY\nStart time TBD
+  Lions\nLevien Gymnasium\, New York\, NY\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911680@open-sports-cal
@@ -371,12 +396,13 @@ DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:Brown Bears @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBrown Bears @ Columbia Lions\n
- Levien Gymnasium\, New York\, NY\nStart time TBD
+ Levien Gymnasium\, New York\, NY\nStart time TBD\nBroadcast: Broadcast not
+  announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917198@open-sports-cal
@@ -384,12 +410,13 @@ DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Yale Bulldogs @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nYale Bulldogs @ Columbia Lions
- \nLevien Gymnasium\, New York\, NY\nStart time TBD
+ \nLevien Gymnasium\, New York\, NY\nStart time TBD\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913938@open-sports-cal
@@ -397,12 +424,12 @@ DTSTART:20270306T190000Z
 DTEND:20270306T220000Z
 SUMMARY:Columbia Lions @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Harvard Crims
- on\nLavietes Pavilion\, Cambridge\, MA
+ on\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

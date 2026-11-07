@@ -12,13 +12,15 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  Virginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+  Virginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadca
+ st: ACCNX (streaming)
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916004@open-sports-cal
@@ -26,13 +28,14 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Virginia Cavaliers @ Davidson Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Davidson 
- Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+ Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916005@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:William & Mary Tribe @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Virgini
- a Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ a Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: ACCN
+ X (streaming)
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916006@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:Drexel Dragons @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDrexel Dragons @ Virginia Cava
- liers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ liers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: ACCNX (str
+ eaming)
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916007@open-sports-cal
@@ -68,13 +75,14 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:Virginia Cavaliers @ Old Dominion Monarchs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Old Domin
- ion Monarchs\nChartway Arena\, Norfolk\, VA
+ ion Monarchs\nChartway Arena\, Norfolk\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Chartway Arena\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916008@open-sports-cal
@@ -82,13 +90,15 @@ DTSTART:20261119T230000Z
 DTEND:20261120T020000Z
 SUMMARY:James Madison Dukes @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJames Madison Dukes @ Virginia
-  Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+  Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: ACC N
+ etwork
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923673@open-sports-cal
@@ -96,12 +106,13 @@ DTSTART:20261123T193000Z
 DTEND:20261123T223000Z
 SUMMARY:Oklahoma Sooners @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Virginia Ca
- valiers\nThe Reef\, Jacksonville\, FL\nNeutral site
+ valiers\nThe Reef\, Jacksonville\, FL\nNeutral site\nBroadcast: Broadcast 
+ not announced
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +121,13 @@ DTSTART:20261125T020000Z
 DTEND:20261125T050000Z
 SUMMARY:Virginia Cavaliers @ UAB Blazers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ UAB Blaze
- rs\nThe Reef\, Jacksonville\, FL\nNeutral site
+ rs\nThe Reef\, Jacksonville\, FL\nNeutral site\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +136,14 @@ DTSTART:20261129T230000Z
 DTEND:20261130T020000Z
 SUMMARY:Virginia Cavaliers @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ SMU Musta
- ngs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ ngs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACC Network
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916009@open-sports-cal
@@ -138,13 +151,14 @@ DTSTART:20261204T020000Z
 DTEND:20261204T050000Z
 SUMMARY:Virginia Cavaliers @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Mississip
- pi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ pi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: ESPNU
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918042@open-sports-cal
@@ -152,13 +166,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Boston College Eagles @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBoston College Eagles @ Virgin
- ia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ ia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: ACC
+ NX (streaming)
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916010@open-sports-cal
@@ -166,13 +182,15 @@ DTSTART:20261209T230000Z
 DTEND:20261210T020000Z
 SUMMARY:American University Eagles @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ V
- irginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ irginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast
+ : ACCNX (streaming)
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916011@open-sports-cal
@@ -180,13 +198,15 @@ DTSTART:20261213T230000Z
 DTEND:20261214T020000Z
 SUMMARY:Navy Midshipmen @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Virginia Cav
- aliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ aliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: ACC Netwo
+ rk
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916012@open-sports-cal
@@ -194,13 +214,15 @@ DTSTART:20261220T203000Z
 DTEND:20261220T233000Z
 SUMMARY:Kentucky Wildcats @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ Virginia C
- avaliers\nBridgestone Arena\, Nashville\, TN\nNeutral site
+ avaliers\nBridgestone Arena\, Nashville\, TN\nNeutral site\nBroadcast: ESP
+ N2
 LOCATION:Bridgestone Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916013@open-sports-cal
@@ -208,13 +230,15 @@ DTSTART:20261222T180000Z
 DTEND:20261222T210000Z
 SUMMARY:Stony Brook Seawolves @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStony Brook Seawolves @ Virgin
- ia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ ia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: ACC
+ NX (streaming)
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916014@open-sports-cal
@@ -222,13 +246,15 @@ DTSTART:20261228T230000Z
 DTEND:20261229T020000Z
 SUMMARY:Norfolk State Spartans @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorfolk State Spartans @ Virgi
- nia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ nia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: AC
+ CNX (streaming)
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918271@open-sports-cal
@@ -236,13 +262,15 @@ DTSTART:20270101T010000Z
 DTEND:20270101T040000Z
 SUMMARY:Duke Blue Devils @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDuke Blue Devils @ Virginia Ca
- valiers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ valiers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: ACC Netw
+ ork
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918280@open-sports-cal
@@ -250,13 +278,15 @@ DTSTART:20270103T170000Z
 DTEND:20270103T200000Z
 SUMMARY:Georgia Tech Yellow Jackets @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Tech Yellow Jackets @ 
- Virginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ Virginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcas
+ t: ACC Network
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918319@open-sports-cal
@@ -264,13 +294,14 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:Virginia Tech Hokies @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ Virgini
- a Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ a Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: CW
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918326@open-sports-cal
@@ -278,12 +309,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Virginia Cavaliers @ Miami Hurricanes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Miami Hur
- ricanes\nWatsco Center\, Coral Gables\, FL
+ ricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,13 +324,14 @@ DTSTART:20270117T190000Z
 DTEND:20270117T220000Z
 SUMMARY:Virginia Cavaliers @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Clemson T
- igers\nLittlejohn Coliseum\, Clemson\, SC
+ igers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACC Network
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918341@open-sports-cal
@@ -306,12 +339,13 @@ DTSTART:20270121T230000Z
 DTEND:20270122T020000Z
 SUMMARY:Wake Forest Demon Deacons @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Vi
- rginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ rginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast:
+  Broadcast not announced
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +354,13 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Virginia Cavaliers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Pittsburg
- h Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ h Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broadcast
+  not announced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +369,13 @@ DTSTART:20270128T230000Z
 DTEND:20270129T020000Z
 SUMMARY:California Golden Bears @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Golden Bears @ Virg
- inia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ inia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: B
+ roadcast not announced
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,13 +384,14 @@ DTSTART:20270201T230000Z
 DTEND:20270202T020000Z
 SUMMARY:Virginia Cavaliers @ NC State Wolfpack
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ NC State 
- Wolfpack\nReynolds Coliseum\, Raleigh\, NC
+ Wolfpack\nReynolds Coliseum\, Raleigh\, NC\nBroadcast: ESPN2
 LOCATION:Reynolds Coliseum\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918372@open-sports-cal
@@ -362,12 +399,13 @@ DTSTART:20270207T190000Z
 DTEND:20270207T220000Z
 SUMMARY:Louisville Cardinals @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Virgini
- a Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ a Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: Broa
+ dcast not announced
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,13 +414,14 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Virginia Cavaliers @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Notre Dam
- e Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ e Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ESPN2
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918389@open-sports-cal
@@ -390,12 +429,13 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Virginia Cavaliers @ Syracuse Orange
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Syracuse 
- Orange\nJMA Wireless Dome\, Syracuse\, NY
+ Orange\nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: Broadcast not announ
+ ced
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +444,13 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Florida State Seminoles @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida State Seminoles @ Virg
- inia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ inia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: B
+ roadcast not announced
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -418,13 +459,15 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:Stanford Cardinal @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Virginia C
- avaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ avaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: ACC Net
+ work
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918409@open-sports-cal
@@ -432,13 +475,15 @@ DTSTART:20270226T010000Z
 DTEND:20270226T040000Z
 SUMMARY:Virginia Cavaliers @ North Carolina Tar Heels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ North Car
- olina Tar Heels\nCarmichael Arena\, Chapel Hill\, NC
+ olina Tar Heels\nCarmichael Arena\, Chapel Hill\, NC\nBroadcast: ACC Netwo
+ rk
 LOCATION:Carmichael Arena\, Chapel Hill\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918417@open-sports-cal
@@ -446,12 +491,13 @@ DTSTART:20270228T230000Z
 DTEND:20270301T020000Z
 SUMMARY:Virginia Cavaliers @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Virginia 
- Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACC Network
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 END:VCALENDAR

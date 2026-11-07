@@ -12,12 +12,14 @@ DTSTART:20261103T030000Z
 DTEND:20261103T060000Z
 SUMMARY:Radford Highlanders @ San Francisco Dons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ San Franci
- sco Dons\nThe Sobrato Center\, San Francisco\, CA
+ sco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918052@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261105T020000Z
 DTEND:20261105T050000Z
 SUMMARY:Radford Highlanders @ California Golden Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ California
-  Golden Bears\nHaas Pavilion\, Berkeley\, CA
+  Golden Bears\nHaas Pavilion\, Berkeley\, CA\nBroadcast: ACCNX (streaming)
 LOCATION:Haas Pavilion\, Berkeley\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906849@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Radford Highlanders @ Tennessee Volunteers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ Tennessee 
- Volunteers\nFood City Center\, Knoxville\, TN
+ Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SECN+ (streaming
+ )
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922054@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20261114T193000Z
 DTEND:20261114T223000Z
 SUMMARY:Shenandoah Hornets @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nShenandoah Hornets @ Radford Hig
- hlanders\nThe Dedmon Center\, Radford\, VA
+ hlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922055@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Furman Paladins @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFurman Paladins @ Radford Highla
- nders\nThe Dedmon Center\, Radford\, VA
+ nders\nThe Dedmon Center\, Radford\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920975@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
 SUMMARY:Radford Highlanders @ Chattanooga Mocs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ Chattanoog
- a Mocs\nMcKenzie Arena\, Chattanooga\, TN
+ a Mocs\nMcKenzie Arena\, Chattanooga\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401912213@open-sports-cal
@@ -90,12 +98,14 @@ DTSTART:20261127T210000Z
 DTEND:20261128T000000Z
 SUMMARY:Radford Highlanders @ American University Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ American U
- niversity Eagles\nBender Arena\, Washington\, DC
+ niversity Eagles\nBender Arena\, Washington\, DC\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921414@open-sports-cal
@@ -103,11 +113,12 @@ DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:Hampton Pirates @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Radford Highla
- nders\nBender Arena\, Washington\, DC\nNeutral site
+ nders\nBender Arena\, Washington\, DC\nNeutral site\nBroadcast: Broadcast 
+ not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,11 +127,12 @@ DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:Radford Highlanders @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ UMass Lowe
- ll River Hawks\nBender Arena\, Washington\, DC\nNeutral site
+ ll River Hawks\nBender Arena\, Washington\, DC\nNeutral site\nBroadcast: B
+ roadcast not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +141,14 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Virginia Lynchburg Dragons @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Lynchburg Dragons @ Rad
- ford Highlanders\nThe Dedmon Center\, Radford\, VA
+ ford Highlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918981@open-sports-cal
@@ -142,11 +156,12 @@ DTSTART:20261205T210000Z
 DTEND:20261206T000000Z
 SUMMARY:Radford Highlanders @ East Carolina Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ East Carol
- ina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC
+ ina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC\nBroadcas
+ t: Broadcast not announced
 LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +170,14 @@ DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Radford Highlanders @ Virginia Tech Hokies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ Virginia T
- ech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ ech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (streamin
+ g)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922057@open-sports-cal
@@ -168,11 +185,12 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Bluefield Ramblin' Rams @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBluefield Ramblin' Rams @ Radfor
- d Highlanders\nThe Dedmon Center\, Radford\, VA
+ d Highlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broadcast not 
+ announced
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -181,11 +199,12 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Radford Highlanders @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ UNC Wilmin
- gton Seahawks\nTrask Coliseum\, Wilmington\, NC
+ gton Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not 
+ announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +213,13 @@ DTSTART:20261223T000000Z
 DTEND:20261223T030000Z
 SUMMARY:Elon Phoenix @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Radford Highlande
- rs\nThe Dedmon Center\, Radford\, VA
+ rs\nThe Dedmon Center\, Radford\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916302@open-sports-cal
@@ -207,12 +227,13 @@ DTSTART:20261229T233000Z
 DTEND:20261230T023000Z
 SUMMARY:Radford Highlanders @ Maryland Terrapins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ Maryland T
- errapins\nXFINITY Center\, College Park\, MD
+ errapins\nXFINITY Center\, College Park\, MD\nBroadcast: BTN
 LOCATION:XFINITY Center\, College Park\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924033@open-sports-cal
@@ -220,11 +241,12 @@ DTSTART:20270101T210000Z
 DTEND:20270102T000000Z
 SUMMARY:Presbyterian Blue Hose @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPresbyterian Blue Hose @ Radford
-  Highlanders\nThe Dedmon Center\, Radford\, VA
+  Highlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +255,12 @@ DTSTART:20270103T210000Z
 DTEND:20270104T000000Z
 SUMMARY:Charleston Southern Buccaneers @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Southern Buccaneers @
-  Radford Highlanders\nThe Dedmon Center\, Radford\, VA
+  Radford Highlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broadca
+ st not announced
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +269,12 @@ DTSTART:20270106T233000Z
 DTEND:20270107T023000Z
 SUMMARY:Radford Highlanders @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ South Caro
- lina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ lina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcast: Br
+ oadcast not announced
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +283,12 @@ DTSTART:20270109T193000Z
 DTEND:20270109T223000Z
 SUMMARY:High Point Panthers @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHigh Point Panthers @ Radford Hi
- ghlanders\nThe Dedmon Center\, Radford\, VA
+ ghlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +297,12 @@ DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Radford Highlanders @ Winthrop Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ Winthrop E
- agles\nWinthrop Coliseum\, Rock Hill\, SC\nStart time TBD
+ agles\nWinthrop Coliseum\, Rock Hill\, SC\nStart time TBD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Winthrop Coliseum\, Rock Hill\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924052@open-sports-cal
@@ -284,11 +310,12 @@ DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
 SUMMARY:Radford Highlanders @ Longwood Lancers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ Longwood L
- ancers\nJoan Perry Brock Center\, Farmville\, VA
+ ancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: Broadcast not
+  announced
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -297,11 +324,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:UNC Asheville Bulldogs @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Radford
-  Highlanders\nThe Dedmon Center\, Radford\, VA
+  Highlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -310,11 +338,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Radford Highlanders @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ Gardner-We
- bb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ bb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadcast: 
+ Broadcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -323,11 +352,12 @@ DTSTART:20270131T000000Z
 DTEND:20270131T030000Z
 SUMMARY:Winthrop Eagles @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWinthrop Eagles @ Radford Highla
- nders\nThe Dedmon Center\, Radford\, VA
+ nders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broadcast not announce
+ d
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -336,11 +366,12 @@ DTSTART:20270203T233000Z
 DTEND:20270204T023000Z
 SUMMARY:Radford Highlanders @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ UNC Ashevi
- lle Bulldogs\nKimmel Arena\, Asheville\, NC
+ lle Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,11 +380,12 @@ DTSTART:20270206T213000Z
 DTEND:20270207T003000Z
 SUMMARY:South Carolina Upstate Spartans @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Upstate Spartans 
- @ Radford Highlanders\nThe Dedmon Center\, Radford\, VA
+ @ Radford Highlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broadc
+ ast not announced
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,11 +394,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Radford Highlanders @ Presbyterian Blue Hose
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ Presbyteri
- an Blue Hose\nTempleton Center\, Clinton\, SC
+ an Blue Hose\nTempleton Center\, Clinton\, SC\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Templeton Center\, Clinton\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,11 +408,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Radford Highlanders @ Charleston Southern Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ Charleston
-  Southern Buccaneers\nBuccaneer Fieldhouse\, Charleston\, SC
+  Southern Buccaneers\nBuccaneer Fieldhouse\, Charleston\, SC\nBroadcast: B
+ roadcast not announced
 LOCATION:Buccaneer Fieldhouse\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -388,11 +422,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Radford Highlanders\nThe Dedmon Center\, Radford\, VA
+ Radford Highlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broadcas
+ t not announced
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -401,11 +436,12 @@ DTSTART:20270221T000000Z
 DTEND:20270221T030000Z
 SUMMARY:Longwood Lancers @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLongwood Lancers @ Radford Highl
- anders\nThe Dedmon Center\, Radford\, VA
+ anders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -414,11 +450,12 @@ DTSTART:20270228T000000Z
 DTEND:20270228T030000Z
 SUMMARY:Radford Highlanders @ High Point Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ High Point
-  Panthers\nQubein Center\, High Point\, NC
+  Panthers\nQubein Center\, High Point\, NC\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Qubein Center\, High Point\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,13 @@ DTSTART:20260829T220000Z
 DTEND:20260830T010000Z
 SUMMARY:VMI Keydets @ Idaho State Bengals
 DESCRIPTION:NCAA FCS Football 2026\nVMI Keydets @ Idaho State Bengals\nICCU
-  Dome\, Pocatello\, ID
+  Dome\, Pocatello\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:ICCU Dome\, Pocatello\, ID
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401858211@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260905T233000Z
 DTEND:20260906T023000Z
 SUMMARY:VMI Keydets @ Virginia Tech Hokies
 DESCRIPTION:NCAA FCS Football 2026\nVMI Keydets @ Virginia Tech Hokies\nLan
- e Stadium\, Blacksburg\, VA
+ e Stadium\, Blacksburg\, VA\nBroadcast: ACC Network / ACCNX (streaming)
 LOCATION:Lane Stadium\, Blacksburg\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network / ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867990@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260912T173000Z
 DTEND:20260912T203000Z
 SUMMARY:Bucknell Bison @ VMI Keydets
 DESCRIPTION:NCAA FCS Football 2026\nBucknell Bison @ VMI Keydets\nFoster St
- adium\, Lexington\, VA
+ adium\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Foster Stadium\, Lexington\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868397@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260919T170000Z
 DTEND:20260919T200000Z
 SUMMARY:VMI Keydets @ Davidson Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nVMI Keydets @ Davidson Wildcats\nRichar
- dson Stadium (Davidson\, NC)\, Davidson\, NC
+ dson Stadium (Davidson\, NC)\, Davidson\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Richardson Stadium (Davidson\, NC)\, Davidson\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868387@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:VMI Keydets @ Samford Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nVMI Keydets @ Samford Bulldogs\nSeibert
-  Stadium\, Birmingham\, AL
+  Stadium\, Birmingham\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Seibert Stadium\, Birmingham\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868381@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261003T173000Z
 DTEND:20261003T203000Z
 SUMMARY:Mercer Bears @ VMI Keydets
 DESCRIPTION:NCAA FCS Football 2026\nMercer Bears @ VMI Keydets\nFoster Stad
- ium\, Lexington\, VA
+ ium\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Foster Stadium\, Lexington\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868398@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261017T173000Z
 DTEND:20261017T203000Z
 SUMMARY:VMI Keydets @ Wofford Terriers
 DESCRIPTION:NCAA FCS Football 2026\nVMI Keydets @ Wofford Terriers\nGibbs S
- tadium\, Spartanburg\, SC
+ tadium\, Spartanburg\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Gibbs Stadium\, Spartanburg\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868348@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261024T173000Z
 DTEND:20261024T203000Z
 SUMMARY:East Tennessee State Buccaneers @ VMI Keydets
 DESCRIPTION:NCAA FCS Football 2026\nEast Tennessee State Buccaneers @ VMI K
- eydets\nFoster Stadium\, Lexington\, VA
+ eydets\nFoster Stadium\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Foster Stadium\, Lexington\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868342@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261031T170000Z
 DTEND:20261031T200000Z
 SUMMARY:VMI Keydets @ Chattanooga Mocs
 DESCRIPTION:NCAA FCS Football 2026\nVMI Keydets @ Chattanooga Mocs\nFinley 
- Stadium\, Chattanooga\, TN
+ Stadium\, Chattanooga\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Finley Stadium\, Chattanooga\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868393@open-sports-cal
@@ -129,12 +138,13 @@ DTSTART:20261107T193000Z
 DTEND:20261107T223000Z
 SUMMARY:VMI Keydets @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA FCS Football 2026\nVMI Keydets @ Tennessee Tech Golden Eag
- les\nTucker Stadium\, Cookeville\, TN
+ les\nTucker Stadium\, Cookeville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Tucker Stadium\, Cookeville\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868395@open-sports-cal
@@ -142,12 +152,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:The Citadel Bulldogs @ VMI Keydets
 DESCRIPTION:NCAA FCS Football 2026\nThe Citadel Bulldogs @ VMI Keydets\nFos
- ter Stadium\, Lexington\, VA
+ ter Stadium\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Foster Stadium\, Lexington\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868380@open-sports-cal
@@ -155,11 +166,12 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Furman Paladins @ VMI Keydets
 DESCRIPTION:NCAA FCS Football 2026\nFurman Paladins @ VMI Keydets\nFoster S
- tadium\, Lexington\, VA
+ tadium\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Foster Stadium\, Lexington\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

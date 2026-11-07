@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Rider Broncs @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Pittsburgh Panthe
- rs\nPetersen Events Center\, Pittsburgh\, PA
+ rs\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909706@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Buffalo Bulls @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Pittsburgh Panth
- ers\nPetersen Events Center\, Pittsburgh\, PA
+ ers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (streaming
+ )
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909707@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261109T010000Z
 DTEND:20261109T040000Z
 SUMMARY:Pittsburgh Panthers @ Penn State Nittany Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ Penn State
-  Nittany Lions\nThe Palestra\, Philadelphia\, PA\nNeutral site
+  Nittany Lions\nThe Palestra\, Philadelphia\, PA\nNeutral site\nBroadcast:
+  ESPN2
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902278@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261113T233000Z
 DTEND:20261114T023000Z
 SUMMARY:Pittsburgh Panthers @ Butler Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ Butler Bul
- ldogs\nHinkle Fieldhouse\, Indianapolis\, IN
+ ldogs\nHinkle Fieldhouse\, Indianapolis\, IN\nBroadcast: Peacock (streamin
+ g)
 LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909708@open-sports-cal
@@ -64,12 +71,13 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Villanova Wildcats @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Pittsburgh 
- Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACC Network
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909709@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Central Michigan Chippewas @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Michigan Chippewas @ Pit
- tsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ tsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACC
+ NX (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906806@open-sports-cal
@@ -90,11 +100,12 @@ DTSTART:20261124T183000Z
 DTEND:20261124T213000Z
 SUMMARY:Oklahoma Sooners @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Pittsburgh Pa
- nthers\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site
+ nthers\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site\nBroad
+ cast: Broadcast not announced
 LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,11 +114,12 @@ DTSTART:20261127T000000Z
 DTEND:20261127T030000Z
 SUMMARY:DePaul Blue Demons @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Pittsburgh 
- Panthers\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site
+ Panthers\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site\nBro
+ adcast: Broadcast not announced
 LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,12 +128,14 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Pittsburgh Panthers @ Missouri Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ Missouri T
- igers\nMizzou Arena\, Columbia\, MO
+ igers\nMizzou Arena\, Columbia\, MO\nBroadcast: SEC Network / SECN+ (strea
+ ming)
 LOCATION:Mizzou Arena\, Columbia\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network / SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909711@open-sports-cal
@@ -129,12 +143,14 @@ DTSTART:20261205T200000Z
 DTEND:20261205T230000Z
 SUMMARY:Tarleton State Texans @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTarleton State Texans @ Pittsbur
- gh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ gh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (s
+ treaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909712@open-sports-cal
@@ -142,12 +158,14 @@ DTSTART:20261209T230000Z
 DTEND:20261210T020000Z
 SUMMARY:West Virginia Mountaineers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Virginia Mountaineers @ Pit
- tsburgh Panthers\nPPG Paints Arena\, Pittsburgh\, PA\nNeutral site
+ tsburgh Panthers\nPPG Paints Arena\, Pittsburgh\, PA\nNeutral site\nBroadc
+ ast: ESPN2
 LOCATION:PPG Paints Arena\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909713@open-sports-cal
@@ -155,12 +173,14 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Drexel Dragons @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDrexel Dragons @ Pittsburgh Pant
- hers\nPetersen Events Center\, Pittsburgh\, PA
+ hers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (streamin
+ g)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909714@open-sports-cal
@@ -168,12 +188,14 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:Georgia State Panthers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Pittsbu
- rgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ rgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (
+ streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909715@open-sports-cal
@@ -181,12 +203,14 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Cleveland State Vikings @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCleveland State Vikings @ Pittsb
- urgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ urgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX 
+ (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918103@open-sports-cal
@@ -194,11 +218,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Miami Hurricanes @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMiami Hurricanes @ Pittsburgh Pa
- nthers\nPetersen Events Center\, Pittsburgh\, PA
+ nthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broadcast not
+  announced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +232,11 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Pittsburgh Panthers @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ NC State W
- olfpack\nLenovo Center\, Raleigh\, NC
+ olfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: Broadcast not announced
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +245,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Pittsburgh Panthers @ Duke Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ Duke Blue 
- Devils\nCameron Indoor Stadium\, Durham\, NC
+ Devils\nCameron Indoor Stadium\, Durham\, NC\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +259,12 @@ DTSTART:20270113T000000Z
 DTEND:20270113T030000Z
 SUMMARY:Syracuse Orange @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSyracuse Orange @ Pittsburgh Pan
- thers\nPetersen Events Center\, Pittsburgh\, PA
+ thers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +273,12 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Clemson Tigers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nClemson Tigers @ Pittsburgh Pant
- hers\nPetersen Events Center\, Pittsburgh\, PA
+ hers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +287,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Pittsburgh Panthers @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ Notre Dame
-  Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+  Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: Broadcast 
+ not announced
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,12 +301,14 @@ DTSTART:20270124T000000Z
 DTEND:20270124T030000Z
 SUMMARY:Boston College Eagles @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston College Eagles @ Pittsbur
- gh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ gh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACC Netw
+ ork
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918159@open-sports-cal
@@ -285,11 +316,12 @@ DTSTART:20270128T020000Z
 DTEND:20270128T050000Z
 SUMMARY:Virginia Tech Hokies @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Tech Hokies @ Pittsburg
- h Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ h Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broadcast
+  not announced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,12 +330,13 @@ DTSTART:20270130T200000Z
 DTEND:20270130T230000Z
 SUMMARY:Pittsburgh Panthers @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ Florida St
- ate Seminoles\nTucker Center\, Tallahassee\, FL
+ ate Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACC Network
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918174@open-sports-cal
@@ -311,11 +344,12 @@ DTSTART:20270203T020000Z
 DTEND:20270203T050000Z
 SUMMARY:Pittsburgh Panthers @ Louisville Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ Louisville
-  Cardinals\nKFC Yum! Center\, Louisville\, KY
+  Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,12 +358,13 @@ DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Virginia Cavaliers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Cavaliers @ Pittsburgh 
- Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACC Network
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918200@open-sports-cal
@@ -337,12 +372,14 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:Pittsburgh Panthers @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ Wake Fores
- t Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ t Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC Networ
+ k
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918210@open-sports-cal
@@ -350,12 +387,14 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:California Golden Bears @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCalifornia Golden Bears @ Pittsb
- urgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ urgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACC Ne
+ twork
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918216@open-sports-cal
@@ -363,12 +402,14 @@ DTSTART:20270221T010000Z
 DTEND:20270221T040000Z
 SUMMARY:Georgia Tech Yellow Jackets @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Tech Yellow Jackets @ Pi
- ttsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ ttsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ES
+ PN2
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918223@open-sports-cal
@@ -376,12 +417,13 @@ DTSTART:20270224T010000Z
 DTEND:20270224T040000Z
 SUMMARY:Pittsburgh Panthers @ Syracuse Orange
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ Syracuse O
- range\nJMA Wireless Dome\, Syracuse\, NY
+ range\nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: ACC Network
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918233@open-sports-cal
@@ -389,11 +431,12 @@ DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Pittsburgh Panthers @ Miami Hurricanes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ Miami Hurr
- icanes\nWatsco Center\, Coral Gables\, FL\nStart time TBD
+ icanes\nWatsco Center\, Coral Gables\, FL\nStart time TBD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918241@open-sports-cal
@@ -401,11 +444,12 @@ DTSTART:20270303T020000Z
 DTEND:20270303T050000Z
 SUMMARY:North Carolina Tar Heels @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Tar Heels @ Pitts
- burgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ burgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broad
+ cast not announced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -414,11 +458,12 @@ DTSTART:20270306T230000Z
 DTEND:20270307T020000Z
 SUMMARY:Pittsburgh Panthers @ SMU Mustangs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ SMU Mustan
- gs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ gs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ESPNU
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 END:VCALENDAR

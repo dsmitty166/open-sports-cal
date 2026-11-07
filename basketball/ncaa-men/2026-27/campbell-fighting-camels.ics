@@ -12,12 +12,13 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Campbell Fighting Camels @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ NC St
- ate Wolfpack\nLenovo Center\, Raleigh\, NC
+ ate Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ACCNX (streaming)
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920739@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:Campbell Fighting Camels @ Western Michigan Broncos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Weste
- rn Michigan Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI
+ rn Michigan Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:University Arena (MI)\, Kalamazoo\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920740@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Campbell Fighting Camels @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ East 
- Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920741@open-sports-cal
@@ -52,12 +57,13 @@ DTEND:20261115T003000Z
 SUMMARY:South Carolina Upstate Spartans @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Upstate Spartans 
  @ Campbell Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Cr
- eek\, NC
+ eek\, NC\nBroadcast: FloSports (streaming)
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906805@open-sports-cal
@@ -65,12 +71,14 @@ DTSTART:20261119T010000Z
 DTEND:20261119T040000Z
 SUMMARY:Campbell Fighting Camels @ Oklahoma Sooners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Oklah
- oma Sooners\nLloyd Noble Center\, Norman\, OK
+ oma Sooners\nLloyd Noble Center\, Norman\, OK\nBroadcast: SECN+ (streaming
+ )
 LOCATION:Lloyd Noble Center\, Norman\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909799@open-sports-cal
@@ -78,12 +86,14 @@ DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
 SUMMARY:Campbell Fighting Camels @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Kansa
- s State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ s State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920742@open-sports-cal
@@ -91,12 +101,14 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Campbell Fighting Camels @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Coast
- al Carolina Chanticleers\nThe HTC Center\, Conway\, SC
+ al Carolina Chanticleers\nThe HTC Center\, Conway\, SC\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:The HTC Center\, Conway\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920743@open-sports-cal
@@ -104,12 +116,14 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Campbell Fighting Camels @ Longwood Lancers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Longw
- ood Lancers\nJoan Perry Brock Center\, Farmville\, VA
+ ood Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920744@open-sports-cal
@@ -117,11 +131,12 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Norfolk State Spartans @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorfolk State Spartans @ Campbel
- l Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ l Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\
+ nBroadcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -130,12 +145,14 @@ DTSTART:20261210T003000Z
 DTEND:20261210T033000Z
 SUMMARY:Campbell Fighting Camels @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ David
- son Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+ son Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911398@open-sports-cal
@@ -143,11 +160,12 @@ DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
 SUMMARY:Campbell Fighting Camels @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Gardn
- er-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ er-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadc
+ ast: Broadcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -156,12 +174,13 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Campbell Fighting Camels @ Duke Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Duke 
- Blue Devils\nCameron Indoor Stadium\, Durham\, NC
+ Blue Devils\nCameron Indoor Stadium\, Durham\, NC\nBroadcast: ACC Network
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918984@open-sports-cal
@@ -169,11 +188,12 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:Campbell Fighting Camels @ East Carolina Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ East 
- Carolina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC
+ Carolina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC\nBro
+ adcast: Broadcast not announced
 LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -182,12 +202,14 @@ DTSTART:20261229T003000Z
 DTEND:20261229T033000Z
 SUMMARY:Campbell Fighting Camels @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Missi
- ssippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ssippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SEC
+ N+ (streaming)
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401905215@open-sports-cal
@@ -195,11 +217,12 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Campbell Fighting Camels @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ UNC W
- ilmington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ ilmington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast
+  not announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,11 +231,12 @@ DTSTART:20270102T170000Z
 DTEND:20270102T200000Z
 SUMMARY:Towson Tigers @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTowson Tigers @ Campbell Fightin
- g Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ g Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\nBroadcas
+ t: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -221,11 +245,12 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Elon Phoenix @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Campbell Fighting
-  Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+  Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\nBroadcast
+ : Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -235,11 +260,11 @@ DTEND:20270109T220000Z
 SUMMARY:North Carolina A&T Aggies @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina A&T Aggies @ Camp
  bell Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, 
- NC
+ NC\nBroadcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -248,11 +273,12 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Campbell Fighting Camels @ Charleston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Charl
- eston Cougars\nTD Arena\, Charleston\, SC
+ eston Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announ
+ ced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -261,11 +287,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Campbell Fighting Camels @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Willi
- am & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ am & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -274,11 +301,12 @@ DTSTART:20270119T000000Z
 DTEND:20270119T030000Z
 SUMMARY:Stony Brook Seawolves @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStony Brook Seawolves @ Campbell
-  Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+  Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\n
+ Broadcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -287,11 +315,12 @@ DTSTART:20270126T013000Z
 DTEND:20270126T043000Z
 SUMMARY:Campbell Fighting Camels @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Hampt
- on Pirates\nConvocation Center (VA)\, Hampton\, VA
+ on Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -300,11 +329,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Hofstra Pride @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Campbell Fightin
- g Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ g Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\nBroadcas
+ t: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -314,10 +344,11 @@ DTEND:20270131T000000Z
 SUMMARY:UNC Wilmington Seahawks @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Campbe
  ll Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ \nBroadcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -326,11 +357,12 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Campbell Fighting Camels @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Monmo
- uth Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+ uth Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBr
+ oadcast: Broadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -339,11 +371,12 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Campbell Fighting Camels @ Stony Brook Seawolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Stony
-  Brook Seawolves\nStony Brook Arena\, Stony Brook\, NY
+  Brook Seawolves\nStony Brook Arena\, Stony Brook\, NY\nBroadcast: Broadca
+ st not announced
 LOCATION:Stony Brook Arena\, Stony Brook\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -352,11 +385,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Drexel Dragons @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDrexel Dragons @ Campbell Fighti
- ng Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ ng Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\nBroadca
+ st: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -365,11 +399,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:William & Mary Tribe @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Campbell 
- Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\nB
+ roadcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -378,11 +413,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Campbell Fighting Camels @ Northeastern Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ North
- eastern Huskies\nCabot Center\, Boston\, MA
+ eastern Huskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,11 +427,11 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Campbell Fighting Camels @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Elon 
- Phoenix\nSchar Center\, Elon\, NC
+ Phoenix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,11 +440,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Campbell Fighting Camels @ North Carolina A&T Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ North
-  Carolina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC
+  Carolina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC\nBroadcast: 
+ Broadcast not announced
 LOCATION:Corbett Sports Center\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -417,11 +454,12 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Charleston Cougars @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Cougars @ Campbell Fi
- ghting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ ghting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\nBro
+ adcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

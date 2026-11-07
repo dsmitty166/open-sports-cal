@@ -12,12 +12,13 @@ DTSTART:20261102T233000Z
 DTEND:20261103T023000Z
 SUMMARY:Monmouth Hawks @ St. John's Red Storm
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ St. John's Red 
- Storm\nCarnesecca Arena\, Queens\, NY
+ Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920062@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261107T210000Z
 DTEND:20261108T000000Z
 SUMMARY:Monmouth Hawks @ Rhode Island Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Rhode Island Ra
- ms\nMohegan Sun Arena\, Uncasville\, CT\nNeutral site
+ ms\nMohegan Sun Arena\, Uncasville\, CT\nNeutral site\nBroadcast: NESN
 LOCATION:Mohegan Sun Arena\, Uncasville\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NESN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924857@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Monmouth Hawks @ Quinnipiac Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Quinnipiac Bobc
- ats\nM&T Bank Arena\, Hamden\, CT
+ ats\nM&T Bank Arena\, Hamden\, CT\nBroadcast: ESPN+ (streaming)
 LOCATION:M&T Bank Arena\, Hamden\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909729@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Monmouth Hawks @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Wake Forest Dem
- on Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ on Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACCNX (streamin
+ g)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924736@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Monmouth Hawks @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Princeton Tiger
- s\nJadwin Gymnasium\, Princeton\, NJ
+ s\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913102@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261124T010000Z
 DTEND:20261124T040000Z
 SUMMARY:Monmouth Hawks @ North Carolina Tar Heels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ North Carolina 
- Tar Heels\nDean E. Smith Center\, Chapel Hill\, NC
+ Tar Heels\nDean E. Smith Center\, Chapel Hill\, NC\nBroadcast: ACC Network
 LOCATION:Dean E. Smith Center\, Chapel Hill\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920197@open-sports-cal
@@ -90,11 +97,12 @@ DTSTART:20261128T220000Z
 DTEND:20261129T010000Z
 SUMMARY:Saint Joseph's Hawks @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Joseph's Hawks @ Monmouth 
- Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+ Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroadc
+ ast: Broadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +111,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Monmouth Hawks @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Cincinnati Bear
- cats\nFifth Third Arena\, Cincinnati\, OH
+ cats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926759@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Monmouth Hawks @ Lehigh Mountain Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Lehigh Mountain
-  Hawks\nStabler Arena\, Bethlehem\, PA
+  Hawks\nStabler Arena\, Bethlehem\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Stabler Arena\, Bethlehem\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925815@open-sports-cal
@@ -129,11 +139,12 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:La Salle Explorers @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLa Salle Explorers @ Monmouth Ha
- wks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+ wks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroadcas
+ t: Broadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +153,14 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Monmouth Hawks @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Robert Morris C
- olonials\nUPMC Events Center\, Moon Township\, PA
+ olonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924885@open-sports-cal
@@ -155,11 +168,12 @@ DTSTART:20261215T220000Z
 DTEND:20261216T010000Z
 SUMMARY:Siena Saints @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSiena Saints @ Monmouth Hawks\nH
- ackensack Meridian Athletic Center\, West Long Branch\, NJ
+ ackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroadcast: Bro
+ adcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -168,11 +182,13 @@ DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Monmouth Hawks @ Pennsylvania Quakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Pennsylvania Qu
- akers\nThe Palestra\, Philadelphia\, PA\nStart time TBD
+ akers\nThe Palestra\, Philadelphia\, PA\nStart time TBD\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924725@open-sports-cal
@@ -180,12 +196,14 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Cornell Big Red @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCornell Big Red @ Monmouth Hawks
- \nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+ \nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401905212@open-sports-cal
@@ -193,11 +211,12 @@ DTSTART:20261231T180000Z
 DTEND:20261231T210000Z
 SUMMARY:Monmouth Hawks @ Stony Brook Seawolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Stony Brook Sea
- wolves\nStony Brook Arena\, Stony Brook\, NY
+ wolves\nStony Brook Arena\, Stony Brook\, NY\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Stony Brook Arena\, Stony Brook\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -206,11 +225,12 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Hampton Pirates @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Monmouth Hawks
- \nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+ \nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroadcast: 
+ Broadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -219,11 +239,12 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:Charleston Cougars @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Cougars @ Monmouth Ha
- wks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+ wks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroadcas
+ t: Broadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -232,11 +253,11 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Monmouth Hawks @ Towson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Towson Tigers\n
- SECU Arena\, Towson\, MD
+ SECU Arena\, Towson\, MD\nBroadcast: Broadcast not announced
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -245,11 +266,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Drexel Dragons @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDrexel Dragons @ Monmouth Hawks\
- nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+ nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroadcast: B
+ roadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -258,11 +280,11 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Monmouth Hawks @ Northeastern Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Northeastern Hu
- skies\nCabot Center\, Boston\, MA
+ skies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -271,11 +293,12 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:UNC Wilmington Seahawks @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Monmou
- th Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+ th Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBro
+ adcast: Broadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -284,11 +307,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Monmouth Hawks @ North Carolina A&T Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ North Carolina 
- A&T Aggies\nCorbett Sports Center\, Greensboro\, NC
+ A&T Aggies\nCorbett Sports Center\, Greensboro\, NC\nBroadcast: Broadcast 
+ not announced
 LOCATION:Corbett Sports Center\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -297,11 +321,11 @@ DTSTART:20270131T000000Z
 DTEND:20270131T030000Z
 SUMMARY:Monmouth Hawks @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Elon Phoenix\nS
- char Center\, Elon\, NC
+ char Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -310,11 +334,12 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Campbell Fighting Camels @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Monmo
- uth Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+ uth Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBr
+ oadcast: Broadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -323,11 +348,12 @@ DTSTART:20270209T020000Z
 DTEND:20270209T050000Z
 SUMMARY:Monmouth Hawks @ Drexel Dragons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Drexel Dragons\
- nDaskalakis Athletic Center\, Philadelphia\, PA
+ nDaskalakis Athletic Center\, Philadelphia\, PA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Daskalakis Athletic Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -336,11 +362,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Towson Tigers @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTowson Tigers @ Monmouth Hawks\n
- Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+ Hackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroadcast: Br
+ oadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,11 +376,12 @@ DTSTART:20270216T013000Z
 DTEND:20270216T043000Z
 SUMMARY:Hofstra Pride @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Monmouth Hawks\n
- Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+ Hackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroadcast: Br
+ oadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,11 +390,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Monmouth Hawks @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ William & Mary 
- Tribe\nKaplan Arena\, Williamsburg\, VA
+ Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,11 +404,12 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Monmouth Hawks @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Hampton Pirates
- \nConvocation Center (VA)\, Hampton\, VA
+ \nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -388,11 +418,12 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Northeastern Huskies @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNortheastern Huskies @ Monmouth 
- Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+ Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroadc
+ ast: Broadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -401,11 +432,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Stony Brook Seawolves @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStony Brook Seawolves @ Monmouth
-  Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+  Hawks\nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroad
+ cast: Broadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -414,11 +446,12 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Monmouth Hawks @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Hofstra Pride\n
- David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ David S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

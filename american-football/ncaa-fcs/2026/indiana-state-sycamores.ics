@@ -13,12 +13,13 @@ DTEND:20260830T010000Z
 SUMMARY:Southeast Missouri State Redhawks @ Indiana State Sycamores
 DESCRIPTION:NCAA FCS Football 2026\nSoutheast Missouri State Redhawks @ Ind
  iana State Sycamores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, 
- IN
+ IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Memorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401858435@open-sports-cal
@@ -26,12 +27,13 @@ DTSTART:20260904T230000Z
 DTEND:20260905T020000Z
 SUMMARY:Indiana State Sycamores @ Purdue Boilermakers
 DESCRIPTION:NCAA FCS Football 2026\nIndiana State Sycamores @ Purdue Boiler
- makers\nRoss-Ade Stadium\, West Lafayette\, IN
+ makers\nRoss-Ade Stadium\, West Lafayette\, IN\nBroadcast: BTN
 LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867856@open-sports-cal
@@ -39,12 +41,14 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Indiana State Sycamores @ Eastern Illinois Panthers
 DESCRIPTION:NCAA FCS Football 2026\nIndiana State Sycamores @ Eastern Illin
- ois Panthers\nO'Brien Field\, Charleston\, IL
+ ois Panthers\nO'Brien Field\, Charleston\, IL\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:O'Brien Field\, Charleston\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867857@open-sports-cal
@@ -52,12 +56,14 @@ DTSTART:20260919T170000Z
 DTEND:20260919T200000Z
 SUMMARY:Valparaiso Beacons @ Indiana State Sycamores
 DESCRIPTION:NCAA FCS Football 2026\nValparaiso Beacons @ Indiana State Syca
- mores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
+ mores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Memorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867858@open-sports-cal
@@ -65,12 +71,14 @@ DTSTART:20260926T170000Z
 DTEND:20260926T200000Z
 SUMMARY:North Dakota Fighting Hawks @ Indiana State Sycamores
 DESCRIPTION:NCAA FCS Football 2026\nNorth Dakota Fighting Hawks @ Indiana S
- tate Sycamores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
+ tate Sycamores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN\nBr
+ oadcast: ESPN+ (streaming)
 LOCATION:Memorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867859@open-sports-cal
@@ -78,12 +86,14 @@ DTSTART:20261003T190000Z
 DTEND:20261003T220000Z
 SUMMARY:Indiana State Sycamores @ South Dakota Coyotes
 DESCRIPTION:NCAA FCS Football 2026\nIndiana State Sycamores @ South Dakota 
- Coyotes\nThe DakotaDome\, Vermillion\, SD
+ Coyotes\nThe DakotaDome\, Vermillion\, SD\nBroadcast: ESPN+ (streaming) / 
+ Midco Sports Plus (streaming)
 LOCATION:The DakotaDome\, Vermillion\, SD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming) / Midco Sports Plus (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867860@open-sports-cal
@@ -91,12 +101,14 @@ DTSTART:20261010T170000Z
 DTEND:20261010T200000Z
 SUMMARY:Youngstown State Penguins @ Indiana State Sycamores
 DESCRIPTION:NCAA FCS Football 2026\nYoungstown State Penguins @ Indiana Sta
- te Sycamores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
+ te Sycamores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Memorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867850@open-sports-cal
@@ -104,12 +116,13 @@ DTSTART:20261024T190000Z
 DTEND:20261024T220000Z
 SUMMARY:Indiana State Sycamores @ Illinois State Redbirds
 DESCRIPTION:NCAA FCS Football 2026\nIndiana State Sycamores @ Illinois Stat
- e Redbirds\nHancock Stadium\, Normal\, IL
+ e Redbirds\nHancock Stadium\, Normal\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Hancock Stadium\, Normal\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867861@open-sports-cal
@@ -117,12 +130,13 @@ DTSTART:20261031T180000Z
 DTEND:20261031T210000Z
 SUMMARY:Indiana State Sycamores @ Northern Iowa Panthers
 DESCRIPTION:NCAA FCS Football 2026\nIndiana State Sycamores @ Northern Iowa
-  Panthers\nUNI-Dome\, Cedar Falls\, IA
+  Panthers\nUNI-Dome\, Cedar Falls\, IA\nBroadcast: ESPN+ (streaming)
 LOCATION:UNI-Dome\, Cedar Falls\, IA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867862@open-sports-cal
@@ -130,12 +144,14 @@ DTSTART:20261107T230000Z
 DTEND:20261108T020000Z
 SUMMARY:Southern Illinois Salukis @ Indiana State Sycamores
 DESCRIPTION:NCAA FCS Football 2026\nSouthern Illinois Salukis @ Indiana Sta
- te Sycamores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
+ te Sycamores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Memorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867863@open-sports-cal
@@ -143,12 +159,14 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Murray State Racers @ Indiana State Sycamores
 DESCRIPTION:NCAA FCS Football 2026\nMurray State Racers @ Indiana State Syc
- amores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
+ amores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Memorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867864@open-sports-cal
@@ -156,11 +174,13 @@ DTSTART:20261121T200000Z
 DTEND:20261121T230000Z
 SUMMARY:Indiana State Sycamores @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA FCS Football 2026\nIndiana State Sycamores @ South Dakota 
- State Jackrabbits\nDana J. Dykhouse Stadium\, Brookings\, SD
+ State Jackrabbits\nDana J. Dykhouse Stadium\, Brookings\, SD\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Dana J. Dykhouse Stadium\, Brookings\, SD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

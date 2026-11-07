@@ -12,13 +12,15 @@ DTSTART:20261102T190000Z
 DTEND:20261102T220000Z
 SUMMARY:Lafayette Leopards @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ St. John'
- s Red Storm\nCarnesecca Arena\, Queens\, NY
+ s Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming) 
+ / Patriot League TV (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919961@open-sports-cal
@@ -26,13 +28,14 @@ DTSTART:20261106T013000Z
 DTEND:20261106T043000Z
 SUMMARY:Wagner Seahawks @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Lafayette Le
- opards\nKirby Sports Center\, Easton\, PA
+ opards\nKirby Sports Center\, Easton\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913787@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:NJIT Highlanders @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNJIT Highlanders @ Lafayette L
- eopards\nKirby Sports Center\, Easton\, PA
+ eopards\nKirby Sports Center\, Easton\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916099@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:Lafayette Leopards @ Marist Red Foxes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Marist Re
- d Foxes\nMcCann Arena\, Poughkeepsie\, NY
+ d Foxes\nMcCann Arena\, Poughkeepsie\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:McCann Arena\, Poughkeepsie\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919449@open-sports-cal
@@ -68,13 +73,15 @@ DTSTART:20261118T230000Z
 DTEND:20261119T020000Z
 SUMMARY:Lafayette Leopards @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Saint Pet
- er's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ er's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918890@open-sports-cal
@@ -82,12 +89,12 @@ DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Lafayette Leopards @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Wisconsin
-  Badgers\nKohl Center\, Madison\, WI
+  Badgers\nKohl Center\, Madison\, WI\nBroadcast: Broadcast not announced
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -96,12 +103,13 @@ DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:Lafayette Leopards @ Le Moyne Dolphins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Le Moyne 
- Dolphins\nTed Grant Court\, Syracuse\, NY
+ Dolphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,13 +118,15 @@ DTSTART:20261202T230000Z
 DTEND:20261203T020000Z
 SUMMARY:Fairleigh Dickinson Knights @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFairleigh Dickinson Knights @ 
- Lafayette Leopards\nKirby Sports Center\, Easton\, PA
+ Lafayette Leopards\nKirby Sports Center\, Easton\, PA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919412@open-sports-cal
@@ -124,13 +134,14 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Rider Broncs @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Lafayette Leopa
- rds\nKirby Sports Center\, Easton\, PA
+ rds\nKirby Sports Center\, Easton\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923122@open-sports-cal
@@ -138,12 +149,13 @@ DTSTART:20261217T230000Z
 DTEND:20261218T020000Z
 SUMMARY:Penn State Brandywine Nittany Lions @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPenn State Brandywine Nittany 
- Lions @ Lafayette Leopards\nKirby Sports Center\, Easton\, PA
+ Lions @ Lafayette Leopards\nKirby Sports Center\, Easton\, PA\nBroadcast: 
+ Broadcast not announced
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -152,12 +164,13 @@ DTSTART:20261220T220000Z
 DTEND:20261221T010000Z
 SUMMARY:Lafayette Leopards @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Rutgers S
- carlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ carlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: Broadc
+ ast not announced
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -166,13 +179,14 @@ DTSTART:20261230T180000Z
 DTEND:20261230T210000Z
 SUMMARY:Navy Midshipmen @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Lafayette Le
- opards\nKirby Sports Center\, Easton\, PA
+ opards\nKirby Sports Center\, Easton\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919558@open-sports-cal
@@ -180,12 +194,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Lafayette Leopards @ Colgate Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Colgate R
- aiders\nCotterell Court\, Hamilton\, NY
+ aiders\nCotterell Court\, Hamilton\, NY\nBroadcast: Broadcast not announce
+ d
 LOCATION:Cotterell Court\, Hamilton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +209,13 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Lafayette Leopards @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Loyola Ma
- ryland Greyhounds\nReitz Arena\, Baltimore\, MD
+ ryland Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: Broadcast not 
+ announced
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +224,13 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:American University Eagles @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ L
- afayette Leopards\nKirby Sports Center\, Easton\, PA
+ afayette Leopards\nKirby Sports Center\, Easton\, PA\nBroadcast: Broadcast
+  not announced
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +239,13 @@ DTSTART:20270113T163000Z
 DTEND:20270113T193000Z
 SUMMARY:Lafayette Leopards @ Boston University Terriers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Boston Un
- iversity Terriers\nCase Gym\, Boston\, MA
+ iversity Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +254,13 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Army Black Knights @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArmy Black Knights @ Lafayette
-  Leopards\nKirby Sports Center\, Easton\, PA
+  Leopards\nKirby Sports Center\, Easton\, PA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +269,13 @@ DTSTART:20270120T160000Z
 DTEND:20270120T190000Z
 SUMMARY:Loyola Maryland Greyhounds @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Maryland Greyhounds @ L
- afayette Leopards\nKirby Sports Center\, Easton\, PA
+ afayette Leopards\nKirby Sports Center\, Easton\, PA\nBroadcast: Broadcast
+  not announced
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +284,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Lafayette Leopards @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ American 
- University Eagles\nBender Arena\, Washington\, DC
+ University Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broadcast no
+ t announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +299,13 @@ DTSTART:20270127T230000Z
 DTEND:20270128T020000Z
 SUMMARY:Boston University Terriers @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBoston University Terriers @ L
- afayette Leopards\nKirby Sports Center\, Easton\, PA
+ afayette Leopards\nKirby Sports Center\, Easton\, PA\nBroadcast: Broadcast
+  not announced
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +314,13 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:Lafayette Leopards @ Lehigh Mountain Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Lehigh Mo
- untain Hawks\nStabler Arena\, Bethlehem\, PA
+ untain Hawks\nStabler Arena\, Bethlehem\, PA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Stabler Arena\, Bethlehem\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +329,13 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Lafayette Leopards @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Holy Cros
- s Crusaders\nHart Center Arena\, Worcester\, MA
+ s Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +344,13 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Colgate Raiders @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColgate Raiders @ Lafayette Le
- opards\nKirby Sports Center\, Easton\, PA
+ opards\nKirby Sports Center\, Easton\, PA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +359,13 @@ DTSTART:20270210T230000Z
 DTEND:20270211T020000Z
 SUMMARY:Lafayette Leopards @ Army Black Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Army Blac
- k Knights\nChristl Arena\, West Point\, NY
+ k Knights\nChristl Arena\, West Point\, NY\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Christl Arena\, West Point\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +374,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Bucknell Bison @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBucknell Bison @ Lafayette Leo
- pards\nKirby Sports Center\, Easton\, PA
+ pards\nKirby Sports Center\, Easton\, PA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +389,13 @@ DTSTART:20270217T230000Z
 DTEND:20270218T020000Z
 SUMMARY:Lafayette Leopards @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Navy Mids
- hipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ hipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +404,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Lehigh Mountain Hawks @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLehigh Mountain Hawks @ Lafaye
- tte Leopards\nKirby Sports Center\, Easton\, PA
+ tte Leopards\nKirby Sports Center\, Easton\, PA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +419,13 @@ DTSTART:20270223T230000Z
 DTEND:20270224T020000Z
 SUMMARY:Holy Cross Crusaders @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Lafayet
- te Leopards\nKirby Sports Center\, Easton\, PA
+ te Leopards\nKirby Sports Center\, Easton\, PA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +434,12 @@ DTSTART:20270226T230000Z
 DTEND:20270227T020000Z
 SUMMARY:Lafayette Leopards @ Bucknell Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Bucknell 
- Bison\nSojka Pavilion\, Lewisburg\, PA
+ Bison\nSojka Pavilion\, Lewisburg\, PA\nBroadcast: Broadcast not announced
 LOCATION:Sojka Pavilion\, Lewisburg\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

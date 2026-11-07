@@ -12,13 +12,15 @@ DTSTART:20261102T170000Z
 DTEND:20261102T200000Z
 SUMMARY:Texas A&M-Kingsville Javelinas @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Kingsville Javelinas
-  @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+  @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920166@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T003000Z
 DTEND:20261106T033000Z
 SUMMARY:Grambling Lady Tigers @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrambling Lady Tigers @ McNees
- e Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ e Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920167@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:Louisiana Tech Lady Techsters @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisiana Tech Lady Techsters 
- @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912966@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
 SUMMARY:McNeese Cowgirls @ LSU Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ LSU Tigers\
- nPete Maravich Assembly Center\, Baton Rouge\, LA
+ nPete Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: SECN+ (strea
+ ming)
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920168@open-sports-cal
@@ -68,13 +76,15 @@ DTSTART:20261114T003000Z
 DTEND:20261114T033000Z
 SUMMARY:College of Biblical Studies Ambassadors @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCollege of Biblical Studies Am
- bassadors @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ bassadors @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916059@open-sports-cal
@@ -83,14 +93,15 @@ DTEND:20261117T033000Z
 SUMMARY:McNeese Cowgirls @ Tulane Green Wave
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Tulane Gree
  n Wave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
- A
+ A\nBroadcast: ESPN+ (streaming)
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920169@open-sports-cal
@@ -98,13 +109,15 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:McNeese Cowgirls @ Southern Miss Lady Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Southern Mi
- ss Lady Eagles\nReed Green Coliseum\, Hattiesburg\, MS
+ ss Lady Eagles\nReed Green Coliseum\, Hattiesburg\, MS\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Reed Green Coliseum\, Hattiesburg\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920170@open-sports-cal
@@ -112,12 +125,13 @@ DTSTART:20261126T180000Z
 DTEND:20261126T210000Z
 SUMMARY:McNeese Cowgirls @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Charleston 
- Cougars\nMcArthur Center\, St. Petersburg\, FL\nNeutral site
+ Cougars\nMcArthur Center\, St. Petersburg\, FL\nNeutral site\nBroadcast: B
+ roadcast not announced
 LOCATION:McArthur Center\, St. Petersburg\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -126,12 +140,13 @@ DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 SUMMARY:McNeese Cowgirls @ North Dakota State Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ North Dakot
- a State Bison\nMcArthur Center\, St. Petersburg\, FL\nNeutral site
+ a State Bison\nMcArthur Center\, St. Petersburg\, FL\nNeutral site\nBroadc
+ ast: Broadcast not announced
 LOCATION:McArthur Center\, St. Petersburg\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -140,13 +155,15 @@ DTSTART:20261204T003000Z
 DTEND:20261204T033000Z
 SUMMARY:Incarnate Word Cardinals @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIncarnate Word Cardinals @ McN
- eese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ eese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920172@open-sports-cal
@@ -154,13 +171,15 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Houston Christian Huskies @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHouston Christian Huskies @ Mc
- Neese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ Neese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918673@open-sports-cal
@@ -168,13 +187,15 @@ DTSTART:20261210T003000Z
 DTEND:20261210T033000Z
 SUMMARY:Louisiana Ragin' Cajuns @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisiana Ragin' Cajuns @ McNe
- ese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ ese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920173@open-sports-cal
@@ -182,12 +203,13 @@ DTSTART:20261218T003000Z
 DTEND:20261218T033000Z
 SUMMARY:McNeese Cowgirls @ East Texas A&M Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ East Texas 
- A&M Lions\nThe Field House\, Commerce\, TX
+ A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcast not annou
+ nced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -196,12 +218,13 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:McNeese Cowgirls @ Northwestern State Lady Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Northwester
- n State Lady Demons\nPrather Coliseum\, Natchitoches\, LA
+ n State Lady Demons\nPrather Coliseum\, Natchitoches\, LA\nBroadcast: Broa
+ dcast not announced
 LOCATION:Prather Coliseum\, Natchitoches\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -210,13 +233,15 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920096@open-sports-cal
@@ -224,12 +249,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Lamar Cardinals @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ McNeese Cowg
- irls\nTownsley Law Arena\, Lake Charles\, LA
+ irls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -238,12 +264,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:McNeese Cowgirls @ SE Louisiana Lady Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ SE Louisian
- a Lady Lions\nUniversity Center\, Hammond\, LA
+ a Lady Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -252,12 +279,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:McNeese Cowgirls @ Nicholls Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Nicholls Co
- lonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA
+ lonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA\nBroadcast: Broadcast 
+ not announced
 LOCATION:David R. Stopher Gymnasium\, Thibodaux\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +294,13 @@ DTSTART:20270115T003000Z
 DTEND:20270115T033000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ ders @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast
+ : Broadcast not announced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +309,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +324,12 @@ DTSTART:20270122T003000Z
 DTEND:20270122T033000Z
 SUMMARY:McNeese Cowgirls @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Lamar Cardi
- nals\nMontagne Center\, Beaumont\, TX
+ nals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadcast not announced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +338,13 @@ DTSTART:20270123T200000Z
 DTEND:20270123T230000Z
 SUMMARY:McNeese Cowgirls @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Stephen F. 
- Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\nBroadcas
+ t: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +353,13 @@ DTSTART:20270129T003000Z
 DTEND:20270129T033000Z
 SUMMARY:McNeese Cowgirls @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ LSU New Orl
- eans Privateers\nLakefront Arena\, New Orleans\, LA
+ eans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +368,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:SE Louisiana Lady Lions @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSE Louisiana Lady Lions @ McNe
- ese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ ese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: Broadcast
+  not announced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +383,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:McNeese Cowgirls @ Houston Christian Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Houston Chr
- istian Huskies\nSharp Gymnasium\, Houston\, TX
+ istian Huskies\nSharp Gymnasium\, Houston\, TX\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Sharp Gymnasium\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -364,12 +398,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:McNeese Cowgirls @ Incarnate Word Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Incarnate W
- ord Cardinals\nMcDermott Center\, San Antonio\, TX
+ ord Cardinals\nMcDermott Center\, San Antonio\, TX\nBroadcast: Broadcast n
+ ot announced
 LOCATION:McDermott Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -378,12 +413,13 @@ DTSTART:20270212T003000Z
 DTEND:20270212T033000Z
 SUMMARY:Northwestern State Lady Demons @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwestern State Lady Demons
-  @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+  @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: Br
+ oadcast not announced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -392,12 +428,13 @@ DTSTART:20270219T003000Z
 DTEND:20270219T033000Z
 SUMMARY:McNeese Cowgirls @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ UT Rio Gran
- de Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ de Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: Broadcast
+  not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -406,12 +443,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:McNeese Cowgirls @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Texas A&M-C
- orpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ orpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nBroadcast:
+  Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -420,12 +458,13 @@ DTSTART:20270226T003000Z
 DTEND:20270226T033000Z
 SUMMARY:LSU New Orleans Privateers @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ M
- cNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ cNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -434,12 +473,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Nicholls Colonels @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNicholls Colonels @ McNeese Co
- wgirls\nTownsley Law Arena\, Lake Charles\, LA
+ wgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -448,12 +488,13 @@ DTSTART:20270303T003000Z
 DTEND:20270303T033000Z
 SUMMARY:East Texas A&M Lions @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Texas A&M Lions @ McNeese
-  Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+  Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

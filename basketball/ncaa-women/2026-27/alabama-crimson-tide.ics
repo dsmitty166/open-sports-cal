@@ -12,13 +12,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Queens University Royals @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nQueens University Royals @ Ala
- bama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ bama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (s
+ treaming)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912989@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261105T000000Z
 DTEND:20261105T030000Z
 SUMMARY:LSU New Orleans Privateers @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ A
- labama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ labama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ 
+ (streaming)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927485@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Alabama A&M Bulldogs @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama A&M Bulldogs @ Alabama
-  Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+  Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (strea
+ ming)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912991@open-sports-cal
@@ -55,14 +61,15 @@ DTEND:20261108T210000Z
 SUMMARY:Alabama Crimson Tide @ Tulane Green Wave
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Tulane 
  Green Wave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans
- \, LA
+ \, LA\nBroadcast: ESPN2
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912992@open-sports-cal
@@ -70,13 +77,15 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Alabama Crimson Tide @ Memphis Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Memphis
-  Tigers\nElma Roane Fieldhouse\, Memphis\, TN
+  Tigers\nElma Roane Fieldhouse\, Memphis\, TN\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Elma Roane Fieldhouse\, Memphis\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912993@open-sports-cal
@@ -84,13 +93,14 @@ DTSTART:20261115T200000Z
 DTEND:20261115T230000Z
 SUMMARY:Mercer Bears @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMercer Bears @ Alabama Crimson
-  Tide\nColeman Coliseum\, Tuscaloosa\, AL
+  Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912994@open-sports-cal
@@ -98,13 +108,15 @@ DTSTART:20261120T013000Z
 DTEND:20261120T043000Z
 SUMMARY:Alabama Crimson Tide @ Florida A&M Rattlers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Florida
-  A&M Rattlers\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+  A&M Rattlers\nState Farm Field House\, Kissimmee\, FL\nNeutral site\nBroa
+ dcast: ESPNU
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906093@open-sports-cal
@@ -112,13 +124,15 @@ DTSTART:20261121T220000Z
 DTEND:20261122T010000Z
 SUMMARY:Alabama Crimson Tide @ North Carolina Tar Heels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ North C
- arolina Tar Heels\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+ arolina Tar Heels\nState Farm Field House\, Kissimmee\, FL\nNeutral site\n
+ Broadcast: ESPN+ (streaming)
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912995@open-sports-cal
@@ -126,13 +140,15 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:UL Monroe Warhawks @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUL Monroe Warhawks @ Alabama C
- rimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ rimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (streami
+ ng)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912996@open-sports-cal
@@ -140,13 +156,15 @@ DTSTART:20261126T000000Z
 DTEND:20261126T030000Z
 SUMMARY:Samford Bulldogs @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Alabama Cri
- mson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ mson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (streaming
+ )
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912997@open-sports-cal
@@ -154,13 +172,15 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Georgia Tech Yellow Jackets @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Tech Yellow Jackets @ 
- Alabama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ Alabama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC N
+ etwork
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912998@open-sports-cal
@@ -168,13 +188,15 @@ DTSTART:20261206T200000Z
 DTEND:20261206T230000Z
 SUMMARY:Tennessee State Lady Tigers @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee State Lady Tigers @ 
- Alabama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ Alabama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+
+  (streaming)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912999@open-sports-cal
@@ -182,13 +204,15 @@ DTSTART:20261214T170000Z
 DTEND:20261214T200000Z
 SUMMARY:West Georgia Wolves @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWest Georgia Wolves @ Alabama 
- Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (stream
+ ing)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913000@open-sports-cal
@@ -196,13 +220,15 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Alcorn State Lady Braves @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlcorn State Lady Braves @ Ala
- bama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ bama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (s
+ treaming)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913001@open-sports-cal
@@ -210,13 +236,15 @@ DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Chattanooga Mocs @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nChattanooga Mocs @ Alabama Cri
- mson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ mson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (streaming
+ )
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913002@open-sports-cal
@@ -224,13 +252,15 @@ DTSTART:20261221T200000Z
 DTEND:20261221T230000Z
 SUMMARY:Coastal Carolina Chanticleers @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoastal Carolina Chanticleers 
- @ Alabama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ @ Alabama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC
+ N+ (streaming)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912830@open-sports-cal
@@ -238,13 +268,15 @@ DTSTART:20270101T000000Z
 DTEND:20270101T030000Z
 SUMMARY:Alabama Crimson Tide @ South Carolina Gamecocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ South C
- arolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ arolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Net
+ work
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912832@open-sports-cal
@@ -252,13 +284,14 @@ DTSTART:20270103T230000Z
 DTEND:20270104T020000Z
 SUMMARY:Georgia Lady Bulldogs @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Lady Bulldogs @ Alabam
- a Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ a Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912840@open-sports-cal
@@ -266,12 +299,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Florida Gators @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gators @ Alabama Crims
- on Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ on Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -280,13 +314,15 @@ DTSTART:20270112T000000Z
 DTEND:20270112T030000Z
 SUMMARY:Alabama Crimson Tide @ Ole Miss Rebels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Ole Mis
- s Rebels\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+ s Rebels\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS\nBro
+ adcast: SEC Network
 LOCATION:The Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912862@open-sports-cal
@@ -294,12 +330,12 @@ DTSTART:20270115T010000Z
 DTEND:20270115T040000Z
 SUMMARY:Alabama Crimson Tide @ Texas Longhorns
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Texas L
- onghorns\nMoody Center\, Austin\, TX
+ onghorns\nMoody Center\, Austin\, TX\nBroadcast: Broadcast not announced
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +344,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:LSU Tigers @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU Tigers @ Alabama Crimson T
- ide\nColeman Coliseum\, Tuscaloosa\, AL
+ ide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: Broadcast not announce
+ d
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,13 +359,15 @@ DTSTART:20270124T180000Z
 DTEND:20270124T210000Z
 SUMMARY:Alabama Crimson Tide @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Tenness
- ee Lady Volunteers\nFood City Center\, Knoxville\, TN
+ ee Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SEC Netw
+ ork
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912887@open-sports-cal
@@ -336,13 +375,15 @@ DTSTART:20270129T013000Z
 DTEND:20270129T043000Z
 SUMMARY:Alabama Crimson Tide @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Kentuck
- y Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ y Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SEC Networ
+ k
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912894@open-sports-cal
@@ -350,13 +391,14 @@ DTSTART:20270202T000000Z
 DTEND:20270202T030000Z
 SUMMARY:Missouri Tigers @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMissouri Tigers @ Alabama Crim
- son Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ son Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912900@open-sports-cal
@@ -364,12 +406,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Alabama Crimson Tide @ Oklahoma Sooners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Oklahom
- a Sooners\nLloyd Noble Center\, Norman\, OK
+ a Sooners\nLloyd Noble Center\, Norman\, OK\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Lloyd Noble Center\, Norman\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -378,13 +421,14 @@ DTSTART:20270207T230000Z
 DTEND:20270208T020000Z
 SUMMARY:Auburn Tigers @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Alabama Crimso
- n Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ n Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912912@open-sports-cal
@@ -392,13 +436,14 @@ DTSTART:20270212T013000Z
 DTEND:20270212T043000Z
 SUMMARY:Vanderbilt Commodores @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Alabam
- a Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ a Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912920@open-sports-cal
@@ -406,12 +451,13 @@ DTSTART:20270214T200000Z
 DTEND:20270214T230000Z
 SUMMARY:Alabama Crimson Tide @ Arkansas Razorbacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Arkansa
- s Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ s Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -420,12 +466,13 @@ DTSTART:20270221T200000Z
 DTEND:20270221T230000Z
 SUMMARY:Alabama Crimson Tide @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Mississ
- ippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: Broad
+ cast not announced
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -434,13 +481,14 @@ DTSTART:20270226T020000Z
 DTEND:20270226T050000Z
 SUMMARY:Ole Miss Rebels @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOle Miss Rebels @ Alabama Crim
- son Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ son Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912944@open-sports-cal
@@ -448,12 +496,13 @@ DTSTART:20270228T200000Z
 DTEND:20270228T230000Z
 SUMMARY:Texas A&M Aggies @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M Aggies @ Alabama Cri
- mson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ mson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

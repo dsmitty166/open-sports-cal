@@ -12,13 +12,14 @@ DTSTART:20261102T170000Z
 DTEND:20261102T200000Z
 SUMMARY:Radford Highlanders @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRadford Highlanders @ Clemson 
- Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACCNX (streaming)
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915791@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:East Tennessee State Buccaneers @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ s @ Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACCNX (
+ streaming)
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915885@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:UNC Greensboro Spartans @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Greensboro Spartans @ Clem
- son Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ son Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACCNX (streamin
+ g)
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915886@open-sports-cal
@@ -54,13 +59,14 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:South Carolina Gamecocks @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Gamecocks @ Cle
- mson Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ mson Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ESPN2
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915887@open-sports-cal
@@ -68,13 +74,14 @@ DTSTART:20261115T220000Z
 DTEND:20261116T010000Z
 SUMMARY:Stetson Hatters @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStetson Hatters @ Clemson Tige
- rs\nLittlejohn Coliseum\, Clemson\, SC
+ rs\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACC Network
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915888@open-sports-cal
@@ -82,13 +89,15 @@ DTSTART:20261118T230000Z
 DTEND:20261119T020000Z
 SUMMARY:South Carolina Upstate Spartans @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
- s @ Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ s @ Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACC Net
+ work
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915889@open-sports-cal
@@ -96,13 +105,15 @@ DTSTART:20261120T220000Z
 DTEND:20261121T010000Z
 SUMMARY:UNC Asheville Bulldogs @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Asheville Bulldogs @ Clems
- on Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ on Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACCNX (streaming
+ )
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915872@open-sports-cal
@@ -110,12 +121,13 @@ DTSTART:20261126T160000Z
 DTEND:20261126T190000Z
 SUMMARY:Clemson Tigers @ Robert Morris Colonials
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Robert Morris
-  Colonials\nOcean Center\, Daytona Beach\, FL\nNeutral site
+  Colonials\nOcean Center\, Daytona Beach\, FL\nNeutral site\nBroadcast: Br
+ oadcast not announced
 LOCATION:Ocean Center\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +136,13 @@ DTSTART:20261127T193000Z
 DTEND:20261127T223000Z
 SUMMARY:Georgetown Hoyas @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgetown Hoyas @ Clemson Tig
- ers\nOcean Center\, Daytona Beach\, FL\nNeutral site
+ ers\nOcean Center\, Daytona Beach\, FL\nNeutral site\nBroadcast: Broadcast
+  not announced
 LOCATION:Ocean Center\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +151,14 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:Elon Phoenix @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nElon Phoenix @ Clemson Tigers\
- nLittlejohn Coliseum\, Clemson\, SC
+ nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACC Network
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915891@open-sports-cal
@@ -152,13 +166,14 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Clemson Tigers @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Kentucky Wild
- cats\nRupp Arena\, Lexington\, KY
+ cats\nRupp Arena\, Lexington\, KY\nBroadcast: ESPN2
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911498@open-sports-cal
@@ -166,13 +181,15 @@ DTSTART:20261206T230000Z
 DTEND:20261207T020000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs 
- @ Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ @ Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACCNX (st
+ reaming)
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918259@open-sports-cal
@@ -180,13 +197,14 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Clemson Tigers @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Wake Forest D
- emon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ emon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC Network
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915892@open-sports-cal
@@ -194,13 +212,15 @@ DTSTART:20261215T160000Z
 DTEND:20261215T190000Z
 SUMMARY:Western Carolina Catamounts @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Carolina Catamounts @ 
- Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACCNX (stre
+ aming)
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918267@open-sports-cal
@@ -208,13 +228,14 @@ DTSTART:20261220T223000Z
 DTEND:20261221T013000Z
 SUMMARY:Clemson Tigers @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Louisville Ca
- rdinals\nKFC Yum! Center\, Louisville\, KY
+ rdinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ESPN2
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915893@open-sports-cal
@@ -222,13 +243,14 @@ DTSTART:20261229T000000Z
 DTEND:20261229T030000Z
 SUMMARY:Kennesaw State Owls @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKennesaw State Owls @ Clemson 
- Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACCNX (streaming)
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918276@open-sports-cal
@@ -236,13 +258,14 @@ DTSTART:20270101T000000Z
 DTEND:20270101T030000Z
 SUMMARY:Stanford Cardinal @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Clemson Ti
- gers\nLittlejohn Coliseum\, Clemson\, SC
+ gers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACCNX (streaming)
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918281@open-sports-cal
@@ -250,13 +273,14 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:North Carolina Tar Heels @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Tar Heels @ Cle
- mson Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ mson Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: CW
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918286@open-sports-cal
@@ -264,12 +288,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Clemson Tigers @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Georgia Tech 
- Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+ Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA\nBroadcast: Broadcast not
+  announced
 LOCATION:McCamish Pavilion\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +303,12 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Clemson Tigers @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ SMU Mustangs\
- nMoody Coliseum (Dallas)\, Dallas\, TX
+ nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: Broadcast not announced
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -292,13 +317,14 @@ DTSTART:20270117T190000Z
 DTEND:20270117T220000Z
 SUMMARY:Virginia Cavaliers @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Clemson T
- igers\nLittlejohn Coliseum\, Clemson\, SC
+ igers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACC Network
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918335@open-sports-cal
@@ -306,12 +332,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Miami Hurricanes @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiami Hurricanes @ Clemson Tig
- ers\nLittlejohn Coliseum\, Clemson\, SC
+ ers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: Broadcast not announce
+ d
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +347,13 @@ DTSTART:20270124T170000Z
 DTEND:20270124T200000Z
 SUMMARY:Clemson Tigers @ Duke Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Duke Blue Dev
- ils\nCameron Indoor Stadium\, Durham\, NC
+ ils\nCameron Indoor Stadium\, Durham\, NC\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,13 +362,14 @@ DTSTART:20270128T230000Z
 DTEND:20270129T020000Z
 SUMMARY:Clemson Tigers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Pittsburgh Pa
- nthers\nPetersen Events Center\, Pittsburgh\, PA
+ nthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACC Network
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918369@open-sports-cal
@@ -348,13 +377,14 @@ DTSTART:20270204T230000Z
 DTEND:20270205T020000Z
 SUMMARY:Virginia Tech Hokies @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ Clemson
-  Tigers\nLittlejohn Coliseum\, Clemson\, SC
+  Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACC Network
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918375@open-sports-cal
@@ -362,12 +392,13 @@ DTSTART:20270207T170000Z
 DTEND:20270207T200000Z
 SUMMARY:Notre Dame Fighting Irish @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Cl
- emson Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ emson Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: Broadcast not
+  announced
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +407,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Clemson Tigers @ Florida State Seminoles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Florida State
-  Seminoles\nTucker Center\, Tallahassee\, FL
+  Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +422,13 @@ DTSTART:20270214T170000Z
 DTEND:20270214T200000Z
 SUMMARY:Clemson Tigers @ Boston College Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Boston Colleg
- e Eagles\nConte Forum\, Chestnut Hill\, MA
+ e Eagles\nConte Forum\, Chestnut Hill\, MA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,13 +437,14 @@ DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:California Golden Bears @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Golden Bears @ Clem
- son Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ son Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACC Network
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918404@open-sports-cal
@@ -418,13 +452,14 @@ DTSTART:20270222T230000Z
 DTEND:20270223T020000Z
 SUMMARY:Syracuse Orange @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSyracuse Orange @ Clemson Tige
- rs\nLittlejohn Coliseum\, Clemson\, SC
+ rs\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ESPN2
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918406@open-sports-cal
@@ -432,12 +467,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Georgia Tech Yellow Jackets @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Tech Yellow Jackets @ 
- Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -446,12 +482,13 @@ DTSTART:20270228T170000Z
 DTEND:20270228T200000Z
 SUMMARY:Clemson Tigers @ NC State Wolfpack
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ NC State Wolf
- pack\nReynolds Coliseum\, Raleigh\, NC
+ pack\nReynolds Coliseum\, Raleigh\, NC\nBroadcast: CW
 LOCATION:Reynolds Coliseum\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 END:VCALENDAR

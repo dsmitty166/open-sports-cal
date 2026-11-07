@@ -12,12 +12,13 @@ DTSTART:20260905T201500Z
 DTEND:20260905T231500Z
 SUMMARY:Northern Illinois Huskies @ Iowa Hawkeyes
 DESCRIPTION:NCAA FBS Football 2026\nNorthern Illinois Huskies @ Iowa Hawkey
- es\nKinnick Stadium\, Iowa City\, IA
+ es\nKinnick Stadium\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Kinnick Stadium\, Iowa City\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856788@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T233000Z
 DTEND:20260913T023000Z
 SUMMARY:Iowa State Cyclones @ Iowa Hawkeyes
 DESCRIPTION:NCAA FBS Football 2026\nIowa State Cyclones @ Iowa Hawkeyes\nKi
- nnick Stadium\, Iowa City\, IA
+ nnick Stadium\, Iowa City\, IA\nBroadcast: NBC
 LOCATION:Kinnick Stadium\, Iowa City\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858471@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T200000Z
 DTEND:20260919T230000Z
 SUMMARY:Northern Iowa Panthers @ Iowa Hawkeyes
 DESCRIPTION:NCAA FBS Football 2026\nNorthern Iowa Panthers @ Iowa Hawkeyes\
- nKinnick Stadium\, Iowa City\, IA
+ nKinnick Stadium\, Iowa City\, IA\nBroadcast: FS1
 LOCATION:Kinnick Stadium\, Iowa City\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858463@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:Iowa Hawkeyes @ Michigan Wolverines
 DESCRIPTION:NCAA FBS Football 2026\nIowa Hawkeyes @ Michigan Wolverines\nMi
- chigan Stadium\, Ann Arbor\, MI
+ chigan Stadium\, Ann Arbor\, MI\nBroadcast: CBS
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858473@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Ohio State Buckeyes @ Iowa Hawkeyes
 DESCRIPTION:NCAA FBS Football 2026\nOhio State Buckeyes @ Iowa Hawkeyes\nKi
- nnick Stadium\, Iowa City\, IA
+ nnick Stadium\, Iowa City\, IA\nBroadcast: CBS
 LOCATION:Kinnick Stadium\, Iowa City\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858487@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T010000Z
 DTEND:20261010T040000Z
 SUMMARY:Iowa Hawkeyes @ Washington Huskies
 DESCRIPTION:NCAA FBS Football 2026\nIowa Hawkeyes @ Washington Huskies\nHus
- ky Stadium\, Seattle\, WA
+ ky Stadium\, Seattle\, WA\nBroadcast: Fox
 LOCATION:Husky Stadium\, Seattle\, WA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858497@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:Iowa Hawkeyes @ Minnesota Golden Gophers
 DESCRIPTION:NCAA FBS Football 2026\nIowa Hawkeyes @ Minnesota Golden Gopher
- s\nHuntington Bank Stadium\, Minneapolis\, MN
+ s\nHuntington Bank Stadium\, Minneapolis\, MN\nBroadcast: FS1
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858502@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Wisconsin Badgers @ Iowa Hawkeyes
 DESCRIPTION:NCAA FBS Football 2026\nWisconsin Badgers @ Iowa Hawkeyes\nKinn
- ick Stadium\, Iowa City\, IA
+ ick Stadium\, Iowa City\, IA\nBroadcast: Fox
 LOCATION:Kinnick Stadium\, Iowa City\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858513@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261108T003000Z
 DTEND:20261108T033000Z
 SUMMARY:Iowa Hawkeyes @ Northwestern Wildcats
 DESCRIPTION:NCAA FBS Football 2026\nIowa Hawkeyes @ Northwestern Wildcats\n
- Ryan Field\, Evanston\, IL
+ Ryan Field\, Evanston\, IL\nBroadcast: Fox
 LOCATION:Ryan Field\, Evanston\, IL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858519@open-sports-cal
@@ -129,11 +138,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Purdue Boilermakers @ Iowa Hawkeyes
 DESCRIPTION:NCAA FBS Football 2026\nPurdue Boilermakers @ Iowa Hawkeyes\nKi
- nnick Stadium\, Iowa City\, IA\nStart time TBD
+ nnick Stadium\, Iowa City\, IA\nStart time TBD\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Kinnick Stadium\, Iowa City\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858527@open-sports-cal
@@ -141,11 +151,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Iowa Hawkeyes @ Illinois Fighting Illini
 DESCRIPTION:NCAA FBS Football 2026\nIowa Hawkeyes @ Illinois Fighting Illin
- i\nGies Memorial Stadium\, Champaign\, IL\nStart time TBD
+ i\nGies Memorial Stadium\, Champaign\, IL\nStart time TBD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Gies Memorial Stadium\, Champaign\, IL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858536@open-sports-cal
@@ -153,11 +164,12 @@ DTSTART:20261127T170000Z
 DTEND:20261127T200000Z
 SUMMARY:Nebraska Cornhuskers @ Iowa Hawkeyes
 DESCRIPTION:NCAA FBS Football 2026\nNebraska Cornhuskers @ Iowa Hawkeyes\nK
- innick Stadium\, Iowa City\, IA
+ innick Stadium\, Iowa City\, IA\nBroadcast: CBS
 LOCATION:Kinnick Stadium\, Iowa City\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 END:VCALENDAR

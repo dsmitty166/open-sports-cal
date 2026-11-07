@@ -12,12 +12,13 @@ DTSTART:20261104T010000Z
 DTEND:20261104T040000Z
 SUMMARY:Lipscomb Bisons @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLipscomb Bisons @ Iowa Hawkeyes\
- nCarver-Hawkeye Arena\, Iowa City\, IA
+ nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920726@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261107T013000Z
 DTEND:20261107T043000Z
 SUMMARY:Eastern Illinois Panthers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Illinois Panthers @ Iowa
-  Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+  Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920378@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Virginia Tech Hokies @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Tech Hokies @ Iowa Hawk
- eyes\nTyson Events Center\, Sioux City\, IA\nNeutral site
+ eyes\nTyson Events Center\, Sioux City\, IA\nNeutral site\nBroadcast: FS1
 LOCATION:Tyson Events Center\, Sioux City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909493@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20261115T200000Z
 DTEND:20261115T230000Z
 SUMMARY:Creighton Bluejays @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCreighton Bluejays @ Iowa Hawkey
- es\nCasey's Center\, Des Moines\, IA\nNeutral site
+ es\nCasey's Center\, Des Moines\, IA\nNeutral site\nBroadcast: FS1
 LOCATION:Casey's Center\, Des Moines\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909545@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261121T003000Z
 DTEND:20261121T033000Z
 SUMMARY:Iowa Hawkeyes @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Xavier Musketeer
- s\nCintas Center\, Cincinnati\, OH
+ s\nCintas Center\, Cincinnati\, OH\nBroadcast: TNT
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920727@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:UMBC Retrievers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMBC Retrievers @ Iowa Hawkeyes\
- nCarver-Hawkeye Arena\, Iowa City\, IA
+ nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: B1G+ (streaming)
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920728@open-sports-cal
@@ -90,11 +96,13 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Prairie View A&M Panthers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrairie View A&M Panthers @ Iowa
-  Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nStart time TBD
+  Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nStart time TBD\nBroadcas
+ t: B1G+ (streaming)
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921874@open-sports-cal
@@ -102,12 +110,13 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Iowa Hawkeyes @ Purdue Boilermakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Purdue Boilermak
- ers\nMackey Arena\, West Lafayette\, IN
+ ers\nMackey Arena\, West Lafayette\, IN\nBroadcast: Peacock (streaming)
 LOCATION:Mackey Arena\, West Lafayette\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921882@open-sports-cal
@@ -115,12 +124,13 @@ DTSTART:20261208T000000Z
 DTEND:20261208T030000Z
 SUMMARY:Indiana Hoosiers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana Hoosiers @ Iowa Hawkeyes
- \nCarver-Hawkeye Arena\, Iowa City\, IA
+ \nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: FS1
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909778@open-sports-cal
@@ -128,12 +138,13 @@ DTSTART:20261211T000000Z
 DTEND:20261211T030000Z
 SUMMARY:Iowa State Cyclones @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa State Cyclones @ Iowa Hawke
- yes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ yes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: FS1
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920729@open-sports-cal
@@ -141,12 +152,13 @@ DTSTART:20261213T230000Z
 DTEND:20261214T020000Z
 SUMMARY:Western Illinois Leathernecks @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Iowa Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ Iowa Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920730@open-sports-cal
@@ -154,12 +166,13 @@ DTSTART:20261218T020000Z
 DTEND:20261218T050000Z
 SUMMARY:Bethune-Cookman Wildcats @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Iowa 
- Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906767@open-sports-cal
@@ -167,12 +180,14 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Alabama Crimson Tide @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Iowa Hawk
- eyes\nCasey's Center\, Des Moines\, IA\nNeutral site
+ eyes\nCasey's Center\, Des Moines\, IA\nNeutral site\nBroadcast: Peacock (
+ streaming)
 LOCATION:Casey's Center\, Des Moines\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920731@open-sports-cal
@@ -180,12 +195,13 @@ DTSTART:20261230T013000Z
 DTEND:20261230T043000Z
 SUMMARY:South Dakota Coyotes @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota Coyotes @ Iowa Hawk
- eyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ eyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921893@open-sports-cal
@@ -193,12 +209,13 @@ DTSTART:20270102T170000Z
 DTEND:20270102T200000Z
 SUMMARY:Ohio State Buckeyes @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio State Buckeyes @ Iowa Hawke
- yes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ yes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Peacock (streaming)
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921837@open-sports-cal
@@ -206,12 +223,13 @@ DTSTART:20270107T013000Z
 DTEND:20270107T043000Z
 SUMMARY:Wisconsin Badgers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWisconsin Badgers @ Iowa Hawkeye
- s\nCarver-Hawkeye Arena\, Iowa City\, IA
+ s\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: FS1
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921910@open-sports-cal
@@ -219,12 +237,13 @@ DTSTART:20270109T230000Z
 DTEND:20270110T020000Z
 SUMMARY:Maryland Terrapins @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaryland Terrapins @ Iowa Hawkey
- es\nCarver-Hawkeye Arena\, Iowa City\, IA
+ es\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: FS1
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921916@open-sports-cal
@@ -232,12 +251,13 @@ DTSTART:20270113T013000Z
 DTEND:20270113T043000Z
 SUMMARY:Iowa Hawkeyes @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Rutgers Scarlet 
- Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921922@open-sports-cal
@@ -245,11 +265,12 @@ DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
 SUMMARY:Iowa Hawkeyes @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Nebraska Cornhus
- kers\nPinnacle Bank Arena\, Lincoln\, NE
+ kers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -258,12 +279,13 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Penn State Nittany Lions @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPenn State Nittany Lions @ Iowa 
- Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921941@open-sports-cal
@@ -271,12 +293,13 @@ DTSTART:20270126T230000Z
 DTEND:20270127T020000Z
 SUMMARY:Iowa Hawkeyes @ Ohio State Buckeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Ohio State Bucke
- yes\nSchottenstein Center\, Columbus\, OH
+ yes\nSchottenstein Center\, Columbus\, OH\nBroadcast: FS1
 LOCATION:Schottenstein Center\, Columbus\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921946@open-sports-cal
@@ -284,12 +307,14 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:Nebraska Cornhuskers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Iowa Hawk
- eyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ eyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Peacock (streaming
+ )
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921955@open-sports-cal
@@ -297,12 +322,13 @@ DTSTART:20270204T033000Z
 DTEND:20270204T063000Z
 SUMMARY:Iowa Hawkeyes @ USC Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ USC Trojans\nGal
- en Center\, Los Angeles\, CA
+ en Center\, Los Angeles\, CA\nBroadcast: BTN
 LOCATION:Galen Center\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921959@open-sports-cal
@@ -310,11 +336,12 @@ DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Iowa Hawkeyes @ UCLA Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ UCLA Bruins\nPau
- ley Pavilion\, Los Angeles\, CA\nStart time TBD
+ ley Pavilion\, Los Angeles\, CA\nStart time TBD\nBroadcast: Fox
 LOCATION:Pauley Pavilion\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921965@open-sports-cal
@@ -322,12 +349,13 @@ DTSTART:20270211T013000Z
 DTEND:20270211T043000Z
 SUMMARY:Oregon Ducks @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOregon Ducks @ Iowa Hawkeyes\nCa
- rver-Hawkeye Arena\, Iowa City\, IA
+ rver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921972@open-sports-cal
@@ -335,12 +363,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Iowa Hawkeyes @ Northwestern Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Northwestern Wil
- dcats\nWelsh-Ryan Arena\, Evanston\, IL
+ dcats\nWelsh-Ryan Arena\, Evanston\, IL\nBroadcast: FS1
 LOCATION:Welsh-Ryan Arena\, Evanston\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921976@open-sports-cal
@@ -348,12 +377,14 @@ DTSTART:20270217T020000Z
 DTEND:20270217T050000Z
 SUMMARY:Michigan State Spartans @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ Iowa H
- awkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ awkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Peacock (stream
+ ing)
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921982@open-sports-cal
@@ -361,12 +392,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Iowa Hawkeyes @ Michigan Wolverines
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Michigan Wolveri
- nes\nCrisler Center\, Ann Arbor\, MI
+ nes\nCrisler Center\, Ann Arbor\, MI\nBroadcast: CBS
 LOCATION:Crisler Center\, Ann Arbor\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921869@open-sports-cal
@@ -374,12 +406,13 @@ DTSTART:20270225T013000Z
 DTEND:20270225T043000Z
 SUMMARY:Iowa Hawkeyes @ Wisconsin Badgers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Wisconsin Badger
- s\nKohl Center\, Madison\, WI
+ s\nKohl Center\, Madison\, WI\nBroadcast: FS1
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921998@open-sports-cal
@@ -387,12 +420,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Minnesota Golden Gophers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMinnesota Golden Gophers @ Iowa 
- Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922004@open-sports-cal
@@ -400,12 +434,13 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Washington Huskies @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWashington Huskies @ Iowa Hawkey
- es\nCarver-Hawkeye Arena\, Iowa City\, IA
+ es\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922011@open-sports-cal
@@ -413,11 +448,12 @@ DTSTART:20270307T010000Z
 DTEND:20270307T040000Z
 SUMMARY:Iowa Hawkeyes @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Illinois Fightin
- g Illini\nState Farm Center\, Champaign\, IL
+ g Illini\nState Farm Center\, Champaign\, IL\nBroadcast: Fox
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 END:VCALENDAR

@@ -12,13 +12,15 @@ DTSTART:20261102T233000Z
 DTEND:20261103T023000Z
 SUMMARY:Duquesne Dukes @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDuquesne Dukes @ Tennessee Lad
- y Volunteers\nFood City Center\, Knoxville\, TN
+ y Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SECN+ (streami
+ ng)
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912953@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Tennessee Lady Volunteers @ Coppin State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Co
- ppin State Eagles\nPhysical Education Complex\, Baltimore\, MD
+ ppin State Eagles\nPhysical Education Complex\, Baltimore\, MD\nBroadcast:
+  MEAC Network (streaming)
 LOCATION:Physical Education Complex\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MEAC Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912954@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261110T233000Z
 DTEND:20261111T023000Z
 SUMMARY:New Haven Chargers @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Haven Chargers @ Tennessee
-  Lady Volunteers\nFood City Center\, Knoxville\, TN
+  Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SECN+ (str
+ eaming)
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912955@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261112T233000Z
 DTEND:20261113T023000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Tennessee Lady Volunteers\nFood City Center\, Knoxville\, TN
+ @ Tennessee Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast:
+  SECN+ (streaming)
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912956@open-sports-cal
@@ -68,13 +76,15 @@ DTSTART:20261118T003000Z
 DTEND:20261118T033000Z
 SUMMARY:Tennessee Lady Volunteers @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Be
- lmont Bruins\nCurb Event Center Arena\, Nashville\, TN
+ lmont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911508@open-sports-cal
@@ -82,13 +92,15 @@ DTSTART:20261120T000000Z
 DTEND:20261120T030000Z
 SUMMARY:Radford Highlanders @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRadford Highlanders @ Tennesse
- e Lady Volunteers\nFood City Center\, Knoxville\, TN
+ e Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SEC Netwo
+ rk
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912957@open-sports-cal
@@ -96,13 +108,14 @@ DTSTART:20261122T223000Z
 DTEND:20261123T013000Z
 SUMMARY:UCLA Bruins @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUCLA Bruins @ Tennessee Lady V
- olunteers\nFood City Center\, Knoxville\, TN
+ olunteers\nFood City Center\, Knoxville\, TN\nBroadcast: ESPN
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927024@open-sports-cal
@@ -110,12 +123,13 @@ DTSTART:20261127T233000Z
 DTEND:20261128T023000Z
 SUMMARY:Tennessee Lady Volunteers @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Fl
- orida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ orida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadca
+ st not announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +138,14 @@ DTSTART:20261204T020000Z
 DTEND:20261204T050000Z
 SUMMARY:Tennessee Lady Volunteers @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Vi
- rginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ rginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ESPN2
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912959@open-sports-cal
@@ -138,13 +153,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Georgia State Panthers @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Tenne
- ssee Lady Volunteers\nFood City Center\, Knoxville\, TN
+ ssee Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SECN+ 
+ (streaming)
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912960@open-sports-cal
@@ -152,13 +169,15 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:North Carolina Central Eagles @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ Tennessee Lady Volunteers\nFood City Center\, Knoxville\, TN
+ @ Tennessee Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast:
+  SEC Network
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911745@open-sports-cal
@@ -166,12 +185,13 @@ DTSTART:20261212T193000Z
 DTEND:20261212T223000Z
 SUMMARY:Tennessee Lady Volunteers @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ UC
- onn Huskies\nPeoplesBank Arena\, Hartford\, CT
+ onn Huskies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -180,13 +200,15 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Alabama A&M Bulldogs @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama A&M Bulldogs @ Tenness
- ee Lady Volunteers\nFood City Center\, Knoxville\, TN
+ ee Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SEC Netw
+ ork
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912962@open-sports-cal
@@ -194,13 +216,15 @@ DTSTART:20261218T230000Z
 DTEND:20261219T020000Z
 SUMMARY:Baylor Bears @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBaylor Bears @ Tennessee Lady 
- Volunteers\nBridgestone Arena\, Nashville\, TN\nNeutral site
+ Volunteers\nBridgestone Arena\, Nashville\, TN\nNeutral site\nBroadcast: E
+ SPN2
 LOCATION:Bridgestone Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912963@open-sports-cal
@@ -208,13 +232,15 @@ DTSTART:20261221T190000Z
 DTEND:20261221T220000Z
 SUMMARY:Morehead State Eagles @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Tennes
- see Lady Volunteers\nFood City Center\, Knoxville\, TN
+ see Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SECN+ (
+ streaming)
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912826@open-sports-cal
@@ -222,12 +248,13 @@ DTSTART:20261231T200000Z
 DTEND:20261231T230000Z
 SUMMARY:Tennessee Lady Volunteers @ Texas A&M Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Te
- xas A&M Aggies\nReed Arena\, College Station\, TX
+ xas A&M Aggies\nReed Arena\, College Station\, TX\nBroadcast: Broadcast no
+ t announced
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -236,13 +263,14 @@ DTSTART:20270103T220000Z
 DTEND:20270104T010000Z
 SUMMARY:Ole Miss Rebels @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOle Miss Rebels @ Tennessee La
- dy Volunteers\nFood City Center\, Knoxville\, TN
+ dy Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: ESPN
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912847@open-sports-cal
@@ -250,12 +278,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Tennessee Lady Volunteers @ Texas Longhorns
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Te
- xas Longhorns\nMoody Center\, Austin\, TX
+ xas Longhorns\nMoody Center\, Austin\, TX\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,13 +293,14 @@ DTSTART:20270110T220000Z
 DTEND:20270111T010000Z
 SUMMARY:Oklahoma Sooners @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Tennessee L
- ady Volunteers\nFood City Center\, Knoxville\, TN
+ ady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: ESPN
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912861@open-sports-cal
@@ -278,12 +308,13 @@ DTSTART:20270114T233000Z
 DTEND:20270115T023000Z
 SUMMARY:Georgia Lady Bulldogs @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Lady Bulldogs @ Tennes
- see Lady Volunteers\nFood City Center\, Knoxville\, TN
+ see Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: Broadca
+ st not announced
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,13 +323,15 @@ DTSTART:20270119T000000Z
 DTEND:20270119T030000Z
 SUMMARY:Tennessee Lady Volunteers @ Florida Gators
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Fl
- orida Gators\nStephen C. O'Connell Center\, Gainesville\, FL
+ orida Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: S
+ EC Network
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912874@open-sports-cal
@@ -306,13 +339,14 @@ DTSTART:20270122T010000Z
 DTEND:20270122T040000Z
 SUMMARY:Tennessee Lady Volunteers @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Ke
- ntucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ ntucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: ESPNU
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912880@open-sports-cal
@@ -320,13 +354,15 @@ DTSTART:20270124T180000Z
 DTEND:20270124T210000Z
 SUMMARY:Alabama Crimson Tide @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Tenness
- ee Lady Volunteers\nFood City Center\, Knoxville\, TN
+ ee Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SEC Netw
+ ork
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912888@open-sports-cal
@@ -334,13 +370,15 @@ DTSTART:20270128T233000Z
 DTEND:20270129T023000Z
 SUMMARY:South Carolina Gamecocks @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Gamecocks @ Ten
- nessee Lady Volunteers\nFood City Center\, Knoxville\, TN
+ nessee Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SEC 
+ Network
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912899@open-sports-cal
@@ -348,12 +386,13 @@ DTSTART:20270205T003000Z
 DTEND:20270205T033000Z
 SUMMARY:Tennessee Lady Volunteers @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Mi
- ssissippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ssissippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: 
+ Broadcast not announced
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +402,13 @@ DTEND;VALUE=DATE:20270208
 SUMMARY:Tennessee Lady Volunteers @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Va
  nderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nStart time 
- TBD
+ TBD\nBroadcast: ESPN
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912919@open-sports-cal
@@ -376,12 +416,13 @@ DTSTART:20270211T233000Z
 DTEND:20270212T023000Z
 SUMMARY:Auburn Tigers @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Tennessee Lady
-  Volunteers\nFood City Center\, Knoxville\, TN
+  Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,13 +431,14 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Tennessee Lady Volunteers @ Missouri Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Mi
- ssouri Tigers\nMizzou Arena\, Columbia\, MO
+ ssouri Tigers\nMizzou Arena\, Columbia\, MO\nBroadcast: SEC Network
 LOCATION:Mizzou Arena\, Columbia\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912932@open-sports-cal
@@ -404,13 +446,14 @@ DTSTART:20270221T180000Z
 DTEND:20270221T210000Z
 SUMMARY:Kentucky Wildcats @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ Tennessee 
- Lady Volunteers\nFood City Center\, Knoxville\, TN
+ Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SEC Network
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912942@open-sports-cal
@@ -418,13 +461,14 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:LSU Tigers @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU Tigers @ Tennessee Lady Vo
- lunteers\nFood City Center\, Knoxville\, TN
+ lunteers\nFood City Center\, Knoxville\, TN\nBroadcast: ESPN
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912945@open-sports-cal
@@ -432,12 +476,13 @@ DTSTART:20270228T200000Z
 DTEND:20270228T230000Z
 SUMMARY:Tennessee Lady Volunteers @ Arkansas Razorbacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Ar
- kansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ kansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: Broadc
+ ast not announced
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,14 @@ DTSTART:20260829T160000Z
 DTEND:20260829T190000Z
 SUMMARY:North Carolina Tar Heels @ TCU Horned Frogs
 DESCRIPTION:NCAA FBS Football 2026\nNorth Carolina Tar Heels @ TCU Horned F
- rogs\nAviva Stadium\, Dublin\nNeutral site
+ rogs\nAviva Stadium\, Dublin\nNeutral site\nBroadcast: ESPN / Disney+ (str
+ eaming)
 LOCATION:Aviva Stadium\, Dublin
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Europe/Dublin
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856789@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260913T000000Z
 DTEND:20260913T030000Z
 SUMMARY:Grambling Tigers @ TCU Horned Frogs
 DESCRIPTION:NCAA FBS Football 2026\nGrambling Tigers @ TCU Horned Frogs\nAm
- on G. Carter Stadium\, Fort Worth\, TX
+ on G. Carter Stadium\, Fort Worth\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856799@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260920T000000Z
 DTEND:20260920T030000Z
 SUMMARY:Arkansas State Red Wolves @ TCU Horned Frogs
 DESCRIPTION:NCAA FBS Football 2026\nArkansas State Red Wolves @ TCU Horned 
- Frogs\nAmon G. Carter Stadium\, Fort Worth\, TX
+ Frogs\nAmon G. Carter Stadium\, Fort Worth\, TX\nBroadcast: ESPNU
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856815@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:TCU Horned Frogs @ UCF Knights
 DESCRIPTION:NCAA FBS Football 2026\nTCU Horned Frogs @ UCF Knights\nAcrisur
- e Bounce House\, Orlando\, FL
+ e Bounce House\, Orlando\, FL\nBroadcast: FS1
 LOCATION:Acrisure Bounce House\, Orlando\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856818@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T230000Z
 DTEND:20261004T020000Z
 SUMMARY:BYU Cougars @ TCU Horned Frogs
 DESCRIPTION:NCAA FBS Football 2026\nBYU Cougars @ TCU Horned Frogs\nAmon G.
-  Carter Stadium\, Fort Worth\, TX
+  Carter Stadium\, Fort Worth\, TX\nBroadcast: ESPN / Disney+ (streaming)
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856832@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261017T230000Z
 DTEND:20261018T020000Z
 SUMMARY:TCU Horned Frogs @ Baylor Bears
 DESCRIPTION:NCAA FBS Football 2026\nTCU Horned Frogs @ Baylor Bears\nMcLane
-  Stadium\, Waco\, TX
+  Stadium\, Waco\, TX\nBroadcast: FS1
 LOCATION:McLane Stadium\, Waco\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856841@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:West Virginia Mountaineers @ TCU Horned Frogs
 DESCRIPTION:NCAA FBS Football 2026\nWest Virginia Mountaineers @ TCU Horned
-  Frogs\nAmon G. Carter Stadium\, Fort Worth\, TX
+  Frogs\nAmon G. Carter Stadium\, Fort Worth\, TX\nBroadcast: ESPN2
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856845@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261031T193000Z
 DTEND:20261031T223000Z
 SUMMARY:Kansas Jayhawks @ TCU Horned Frogs
 DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ TCU Horned Frogs\nAmo
- n G. Carter Stadium\, Fort Worth\, TX
+ n G. Carter Stadium\, Fort Worth\, TX\nBroadcast: FS1
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856855@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T031500Z
 DTEND:20261107T061500Z
 SUMMARY:TCU Horned Frogs @ Arizona Wildcats
 DESCRIPTION:NCAA FBS Football 2026\nTCU Horned Frogs @ Arizona Wildcats\nCa
- sino Del Sol Stadium\, Tucson\, AZ
+ sino Del Sol Stadium\, Tucson\, AZ\nBroadcast: ESPN
 LOCATION:Casino Del Sol Stadium\, Tucson\, AZ
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856862@open-sports-cal
@@ -129,11 +139,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Kansas State Wildcats @ TCU Horned Frogs
 DESCRIPTION:NCAA FBS Football 2026\nKansas State Wildcats @ TCU Horned Frog
- s\nAmon G. Carter Stadium\, Fort Worth\, TX\nStart time TBD
+ s\nAmon G. Carter Stadium\, Fort Worth\, TX\nStart time TBD\nBroadcast: Br
+ oadcast not announced
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856872@open-sports-cal
@@ -141,11 +152,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Utah Utes @ TCU Horned Frogs
 DESCRIPTION:NCAA FBS Football 2026\nUtah Utes @ TCU Horned Frogs\nAmon G. C
- arter Stadium\, Fort Worth\, TX\nStart time TBD
+ arter Stadium\, Fort Worth\, TX\nStart time TBD\nBroadcast: Broadcast not 
+ announced
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856879@open-sports-cal
@@ -153,11 +165,12 @@ DTSTART:20261127T010000Z
 DTEND:20261127T040000Z
 SUMMARY:TCU Horned Frogs @ Texas Tech Red Raiders
 DESCRIPTION:NCAA FBS Football 2026\nTCU Horned Frogs @ Texas Tech Red Raide
- rs\nGalaxy Stadium\, Lubbock\, TX
+ rs\nGalaxy Stadium\, Lubbock\, TX\nBroadcast: ESPN
 LOCATION:Galaxy Stadium\, Lubbock\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 END:VCALENDAR

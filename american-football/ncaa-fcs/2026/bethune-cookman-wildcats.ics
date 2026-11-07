@@ -12,12 +12,13 @@ DTSTART:20260903T230000Z
 DTEND:20260904T020000Z
 SUMMARY:Bethune-Cookman Wildcats @ UCF Knights
 DESCRIPTION:NCAA FCS Football 2026\nBethune-Cookman Wildcats @ UCF Knights\
- nAcrisure Bounce House\, Orlando\, FL
+ nAcrisure Bounce House\, Orlando\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Acrisure Bounce House\, Orlando\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868285@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T211500Z
 DTEND:20260913T001500Z
 SUMMARY:Stetson Hatters @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nStetson Hatters @ Bethune-Cookman Wildc
- ats\nDaytona Stadium\, Daytona Beach\, FL
+ ats\nDaytona Stadium\, Daytona Beach\, FL\nBroadcast: SWAC TV (streaming)
 LOCATION:Daytona Stadium\, Daytona Beach\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868942@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20260919T200000Z
 DTEND:20260919T230000Z
 SUMMARY:Virginia Lynchburg Dragons @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nVirginia Lynchburg Dragons @ Bethune-Co
- okman Wildcats\nDaytona Stadium\, Daytona Beach\, FL
+ okman Wildcats\nDaytona Stadium\, Daytona Beach\, FL\nBroadcast: SWAC TV (
+ streaming)
 LOCATION:Daytona Stadium\, Daytona Beach\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867985@open-sports-cal
@@ -51,11 +55,12 @@ DTSTART:20260926T230000Z
 DTEND:20260927T020000Z
 SUMMARY:South Carolina State Bulldogs @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nSouth Carolina State Bulldogs @ Bethune
- -Cookman Wildcats\nDaytona Stadium\, Daytona Beach\, FL
+ -Cookman Wildcats\nDaytona Stadium\, Daytona Beach\, FL\nBroadcast: Broadc
+ ast not announced
 LOCATION:Daytona Stadium\, Daytona Beach\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -64,11 +69,12 @@ DTSTART:20261003T200000Z
 DTEND:20261003T230000Z
 SUMMARY:Alabama State Hornets @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nAlabama State Hornets @ Bethune-Cookman
-  Wildcats\nDaytona Stadium\, Daytona Beach\, FL
+  Wildcats\nDaytona Stadium\, Daytona Beach\, FL\nBroadcast: Broadcast not 
+ announced
 LOCATION:Daytona Stadium\, Daytona Beach\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +83,12 @@ DTSTART:20261010T170000Z
 DTEND:20261010T200000Z
 SUMMARY:Bethune-Cookman Wildcats @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nBethune-Cookman Wildcats @ Alabama A&M 
- Bulldogs\nLouis Crews Stadium\, Huntsville\, AL
+ Bulldogs\nLouis Crews Stadium\, Huntsville\, AL\nBroadcast: Broadcast not 
+ announced
 LOCATION:Louis Crews Stadium\, Huntsville\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +97,12 @@ DTSTART:20261017T190000Z
 DTEND:20261017T220000Z
 SUMMARY:Bethune-Cookman Wildcats @ Mississippi Valley State Delta Devils
 DESCRIPTION:NCAA FCS Football 2026\nBethune-Cookman Wildcats @ Mississippi 
- Valley State Delta Devils\nRice-Totten Stadium\, Itta Bena\, MS
+ Valley State Delta Devils\nRice-Totten Stadium\, Itta Bena\, MS\nBroadcast
+ : Broadcast not announced
 LOCATION:Rice-Totten Stadium\, Itta Bena\, MS
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -103,11 +111,12 @@ DTSTART:20261024T170000Z
 DTEND:20261024T200000Z
 SUMMARY:Jackson State Tigers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nJackson State Tigers @ Bethune-Cookman 
- Wildcats\nDaytona Stadium\, Daytona Beach\, FL
+ Wildcats\nDaytona Stadium\, Daytona Beach\, FL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Daytona Stadium\, Daytona Beach\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,12 +125,14 @@ DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 SUMMARY:Bethune-Cookman Wildcats @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA FCS Football 2026\nBethune-Cookman Wildcats @ Arkansas-Pin
- e Bluff Golden Lions\nSimmons Bank Field\, Pine Bluff\, AR
+ e Bluff Golden Lions\nSimmons Bank Field\, Pine Bluff\, AR\nBroadcast: SWA
+ C TV (streaming)
 LOCATION:Simmons Bank Field\, Pine Bluff\, AR
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868945@open-sports-cal
@@ -129,12 +140,14 @@ DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
 SUMMARY:Bethune-Cookman Wildcats @ Southern Jaguars
 DESCRIPTION:NCAA FCS Football 2026\nBethune-Cookman Wildcats @ Southern Jag
- uars\nA.W. Mumford Stadium\, Baton Rouge\, LA
+ uars\nA.W. Mumford Stadium\, Baton Rouge\, LA\nBroadcast: SWAC TV (streami
+ ng)
 LOCATION:A.W. Mumford Stadium\, Baton Rouge\, LA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868946@open-sports-cal
@@ -142,11 +155,12 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Grambling Tigers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nGrambling Tigers @ Bethune-Cookman Wild
- cats\nDaytona Stadium\, Daytona Beach\, FL
+ cats\nDaytona Stadium\, Daytona Beach\, FL\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Daytona Stadium\, Daytona Beach\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +169,13 @@ DTSTART:20261121T203000Z
 DTEND:20261121T233000Z
 SUMMARY:Florida A&M Rattlers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nFlorida A&M Rattlers @ Bethune-Cookman 
- Wildcats\nCamping World Stadium\, Orlando\, FL\nNeutral site
+ Wildcats\nCamping World Stadium\, Orlando\, FL\nNeutral site\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Camping World Stadium\, Orlando\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

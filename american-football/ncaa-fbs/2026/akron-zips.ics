@@ -12,12 +12,14 @@ DTSTART:20260903T230000Z
 DTEND:20260904T020000Z
 SUMMARY:Akron Zips @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA FBS Football 2026\nAkron Zips @ Wake Forest Demon Deacons\
- nAllegacy Federal Credit Union Stadium\, Winston-Salem\, NC
+ nAllegacy Federal Credit Union Stadium\, Winston-Salem\, NC\nBroadcast: AC
+ C Network
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866412@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260912T193000Z
 DTEND:20260912T223000Z
 SUMMARY:Robert Morris Colonials @ Akron Zips
 DESCRIPTION:NCAA FBS Football 2026\nRobert Morris Colonials @ Akron Zips\nI
- nfoCision Stadium\, Akron\, OH
+ nfoCision Stadium\, Akron\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:InfoCision Stadium\, Akron\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858451@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 SUMMARY:Akron Zips @ Minnesota Golden Gophers
 DESCRIPTION:NCAA FBS Football 2026\nAkron Zips @ Minnesota Golden Gophers\n
- Huntington Bank Stadium\, Minneapolis\, MN
+ Huntington Bank Stadium\, Minneapolis\, MN\nBroadcast: BTN
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864512@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260926T160000Z
 DTEND:20260926T190000Z
 SUMMARY:UNLV Rebels @ Akron Zips
 DESCRIPTION:NCAA FBS Football 2026\nUNLV Rebels @ Akron Zips\nInfoCision St
- adium\, Akron\, OH
+ adium\, Akron\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:InfoCision Stadium\, Akron\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866430@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Akron Zips @ Central Michigan Chippewas
 DESCRIPTION:NCAA FBS Football 2026\nAkron Zips @ Central Michigan Chippewas
- \nKelly/Shorts Stadium\, Mount Pleasant\, MI
+ \nKelly/Shorts Stadium\, Mount Pleasant\, MI\nBroadcast: ESPN+ (streaming)
 LOCATION:Kelly/Shorts Stadium\, Mount Pleasant\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866435@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261010T193000Z
 DTEND:20261010T223000Z
 SUMMARY:Eastern Michigan Eagles @ Akron Zips
 DESCRIPTION:NCAA FBS Football 2026\nEastern Michigan Eagles @ Akron Zips\nI
- nfoCision Stadium\, Akron\, OH
+ nfoCision Stadium\, Akron\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:InfoCision Stadium\, Akron\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866478@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261017T193000Z
 DTEND:20261017T223000Z
 SUMMARY:Akron Zips @ Miami (OH) RedHawks
 DESCRIPTION:NCAA FBS Football 2026\nAkron Zips @ Miami (OH) RedHawks\nYager
-  Stadium\, Oxford\, OH
+  Stadium\, Oxford\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Yager Stadium\, Oxford\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866446@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261024T170000Z
 DTEND:20261024T200000Z
 SUMMARY:Akron Zips @ Kent State Golden Flashes
 DESCRIPTION:NCAA FBS Football 2026\nAkron Zips @ Kent State Golden Flashes\
- nZoeller Field at Dix Stadium\, Kent\, OH
+ nZoeller Field at Dix Stadium\, Kent\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Zoeller Field at Dix Stadium\, Kent\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866453@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Ohio Bobcats @ Akron Zips
 DESCRIPTION:NCAA FBS Football 2026\nOhio Bobcats @ Akron Zips\nInfoCision S
- tadium\, Akron\, OH
+ tadium\, Akron\, OH\nBroadcast: ESPN2
 LOCATION:InfoCision Stadium\, Akron\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866458@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Western Michigan Broncos @ Akron Zips
 DESCRIPTION:NCAA FBS Football 2026\nWestern Michigan Broncos @ Akron Zips\n
- InfoCision Stadium\, Akron\, OH
+ InfoCision Stadium\, Akron\, OH\nBroadcast: CBSSN
 LOCATION:InfoCision Stadium\, Akron\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866467@open-sports-cal
@@ -142,11 +153,12 @@ DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Akron Zips @ Massachusetts Minutemen
 DESCRIPTION:NCAA FBS Football 2026\nAkron Zips @ Massachusetts Minutemen\nW
- arren McGuirk Alumni Stadium\, Amherst\, MA\nStart time TBD
+ arren McGuirk Alumni Stadium\, Amherst\, MA\nStart time TBD\nBroadcast: Br
+ oadcast not announced
 LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866472@open-sports-cal
@@ -154,11 +166,11 @@ DTSTART:20261127T170000Z
 DTEND:20261127T200000Z
 SUMMARY:Buffalo Bulls @ Akron Zips
 DESCRIPTION:NCAA FBS Football 2026\nBuffalo Bulls @ Akron Zips\nInfoCision 
- Stadium\, Akron\, OH
+ Stadium\, Akron\, OH\nBroadcast: Broadcast not announced
 LOCATION:InfoCision Stadium\, Akron\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

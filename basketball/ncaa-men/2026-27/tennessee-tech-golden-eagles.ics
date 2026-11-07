@@ -12,12 +12,14 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ M
- ississippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ississippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast:
+  SECN+ (streaming)
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926214@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261105T003000Z
 DTEND:20261105T033000Z
 SUMMARY:Blue Mountain Christian Toppers @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBlue Mountain Christian Toppers 
- @ Tennessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ @ Tennessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926215@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261108T200000Z
 DTEND:20261108T230000Z
 SUMMARY:Western Kentucky Hilltoppers @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Kentucky Hilltoppers @ T
- ennessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ ennessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916288@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261112T233000Z
 DTEND:20261113T023000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Indiana Hoosiers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ I
- ndiana Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+ ndiana Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN\nBroadcast:
+  BTN
 LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926216@open-sports-cal
@@ -64,12 +72,14 @@ DTSTART:20261115T200000Z
 DTEND:20261115T230000Z
 SUMMARY:Wright State-Lake Lakers @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWright State-Lake Lakers @ Tenne
- ssee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ ssee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922292@open-sports-cal
@@ -77,12 +87,14 @@ DTSTART:20261118T233000Z
 DTEND:20261119T023000Z
 SUMMARY:Tennessee Tech Golden Eagles @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ U
- NC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC
+ NC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926217@open-sports-cal
@@ -90,12 +102,14 @@ DTSTART:20261122T003000Z
 DTEND:20261122T033000Z
 SUMMARY:Presbyterian Blue Hose @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPresbyterian Blue Hose @ Tenness
- ee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ ee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917904@open-sports-cal
@@ -103,12 +117,14 @@ DTSTART:20261125T003000Z
 DTEND:20261125T033000Z
 SUMMARY:West Georgia Wolves @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Tennessee 
- Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926218@open-sports-cal
@@ -116,12 +132,14 @@ DTSTART:20261128T210000Z
 DTEND:20261129T000000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ E
- astern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ astern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926219@open-sports-cal
@@ -129,12 +147,14 @@ DTSTART:20261202T003000Z
 DTEND:20261202T033000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ M
- iddle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ iddle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911824@open-sports-cal
@@ -142,12 +162,14 @@ DTSTART:20261205T220000Z
 DTEND:20261206T010000Z
 SUMMARY:Samford Bulldogs @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSamford Bulldogs @ Tennessee Tec
- h Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ h Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926220@open-sports-cal
@@ -155,12 +177,14 @@ DTSTART:20261208T003000Z
 DTEND:20261208T033000Z
 SUMMARY:Welch Flames @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWelch Flames @ Tennessee Tech Go
- lden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ lden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909746@open-sports-cal
@@ -168,12 +192,14 @@ DTSTART:20261212T193000Z
 DTEND:20261212T223000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Arizona Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ A
- rizona Wildcats\nMcKale Center at ALKEME Arena\, Tucson\, AZ
+ rizona Wildcats\nMcKale Center at ALKEME Arena\, Tucson\, AZ\nBroadcast: C
+ BSSN
 LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911825@open-sports-cal
@@ -181,12 +207,14 @@ DTSTART:20261219T180000Z
 DTEND:20261219T210000Z
 SUMMARY:Tennessee Tech Golden Eagles @ The Citadel Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ T
- he Citadel Bulldogs\nMcAlister Field House\, Charleston\, SC
+ he Citadel Bulldogs\nMcAlister Field House\, Charleston\, SC\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:McAlister Field House\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911831@open-sports-cal
@@ -194,12 +222,14 @@ DTSTART:20261223T003000Z
 DTEND:20261223T033000Z
 SUMMARY:Mercer Bears @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercer Bears @ Tennessee Tech Go
- lden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ lden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911838@open-sports-cal
@@ -207,12 +237,14 @@ DTSTART:20261230T230000Z
 DTEND:20261231T020000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ W
- offord Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ offord Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911841@open-sports-cal
@@ -220,11 +252,12 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Furman Paladins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ F
- urman Paladins\nTimmons Arena\, Greenville\, SC
+ urman Paladins\nTimmons Arena\, Greenville\, SC\nBroadcast: Broadcast not 
+ announced
 LOCATION:Timmons Arena\, Greenville\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +266,12 @@ DTSTART:20270108T003000Z
 DTEND:20270108T033000Z
 SUMMARY:VMI Keydets @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Tennessee Tech Gol
- den Eagles\nHooper Eblen Center\, Cookeville\, TN
+ den Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: Broadcast no
+ t announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +280,12 @@ DTSTART:20270110T003000Z
 DTEND:20270110T033000Z
 SUMMARY:UNC Greensboro Spartans @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Tennes
- see Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ see Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: 
+ Broadcast not announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +294,12 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Tennessee Tech Golden Eagles @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ E
- ast Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ ast Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBro
+ adcast: Broadcast not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +308,12 @@ DTSTART:20270119T023000Z
 DTEND:20270119T053000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Chattanooga Mocs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ C
- hattanooga Mocs\nMcKenzie Arena\, Chattanooga\, TN
+ hattanooga Mocs\nMcKenzie Arena\, Chattanooga\, TN\nBroadcast: Broadcast n
+ ot announced
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +322,12 @@ DTSTART:20270122T003000Z
 DTEND:20270122T033000Z
 SUMMARY:Western Carolina Catamounts @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Te
- nnessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ nnessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadca
+ st: Broadcast not announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +336,12 @@ DTSTART:20270123T220000Z
 DTEND:20270124T010000Z
 SUMMARY:Furman Paladins @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFurman Paladins @ Tennessee Tech
-  Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+  Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +350,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Tennessee Tech Golden Eagles @ UNC Greensboro Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ U
- NC Greensboro Spartans\nBodford Arena\, Greensboro\, NC
+ NC Greensboro Spartans\nBodford Arena\, Greensboro\, NC\nBroadcast: Broadc
+ ast not announced
 LOCATION:Bodford Arena\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +364,12 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Tennessee Tech Golden Eagles @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ V
- MI Keydets\nCameron Hall\, Lexington\, VA
+ MI Keydets\nCameron Hall\, Lexington\, VA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +378,12 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ W
- estern Carolina Catamounts\nRamsey Center\, Cullowhee\, NC
+ estern Carolina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: Bro
+ adcast not announced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +392,12 @@ DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:The Citadel Bulldogs @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nThe Citadel Bulldogs @ Tennessee
-  Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+  Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: Bro
+ adcast not announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +406,12 @@ DTSTART:20270211T003000Z
 DTEND:20270211T033000Z
 SUMMARY:East Tennessee State Buccaneers @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Tennessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ @ Tennessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBro
+ adcast: Broadcast not announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +420,12 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Mercer Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ M
- ercer Bears\nHawkins Arena\, Macon\, GA
+ ercer Bears\nHawkins Arena\, Macon\, GA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Hawkins Arena\, Macon\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +434,12 @@ DTSTART:20270220T233000Z
 DTEND:20270221T023000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Samford Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ S
- amford Bulldogs\nPete Hanna Center\, Homewood\, AL
+ amford Bulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +448,12 @@ DTSTART:20270225T003000Z
 DTEND:20270225T033000Z
 SUMMARY:Wofford Terriers @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ Tennessee Tec
- h Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ h Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: Broadca
+ st not announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +462,12 @@ DTSTART:20270228T003000Z
 DTEND:20270228T033000Z
 SUMMARY:Chattanooga Mocs @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChattanooga Mocs @ Tennessee Tec
- h Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ h Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: Broadca
+ st not announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

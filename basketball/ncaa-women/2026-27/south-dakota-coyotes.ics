@@ -12,13 +12,15 @@ DTSTART:20261103T013000Z
 DTEND:20261103T043000Z
 SUMMARY:York (NE) YORK (NE) @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nYork (NE) YORK (NE) @ South Da
- kota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ kota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: S
+ ummit League Network (streaming)
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918738@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T170000Z
 DTEND:20261106T200000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ @ South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBr
+ oadcast: Summit League Network (streaming)
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911792@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:South Dakota Coyotes @ Creighton Bluejays
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ Creight
- on Bluejays\nSanford Pentagon\, Sioux Falls\, SD\nNeutral site
+ on Bluejays\nSanford Pentagon\, Sioux Falls\, SD\nNeutral site\nBroadcast:
+  Summit League Network (streaming) / Midco Sports Net
 LOCATION:Sanford Pentagon\, Sioux Falls\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming) / Midco Sports Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918739@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261115T200000Z
 DTEND:20261115T230000Z
 SUMMARY:Idaho State Bengals @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ South Da
- kota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ kota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: S
+ ummit League Network (streaming)
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918740@open-sports-cal
@@ -68,12 +76,13 @@ DTSTART:20261118T190000Z
 DTEND:20261118T220000Z
 SUMMARY:South Dakota Coyotes @ Chicago State Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ Chicago
-  State Cougars\nJones Convocation Center\, Chicago\, IL
+  State Cougars\nJones Convocation Center\, Chicago\, IL\nBroadcast: Broadc
+ ast not announced
 LOCATION:Jones Convocation Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -82,13 +91,15 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:South Dakota Coyotes @ Valparaiso Beacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ Valpara
- iso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ iso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918742@open-sports-cal
@@ -96,12 +107,13 @@ DTSTART:20261124T010000Z
 DTEND:20261124T040000Z
 SUMMARY:Nebraska Wesleyan Prairie Wolves @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNebraska Wesleyan Prairie Wolv
- es @ South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ es @ South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\
+ nBroadcast: Broadcast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -110,13 +122,15 @@ DTSTART:20261127T183000Z
 DTEND:20261127T213000Z
 SUMMARY:South Dakota Coyotes @ North Florida Ospreys
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ North F
- lorida Ospreys\nUNF Arena\, Jacksonville\, FL
+ lorida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918545@open-sports-cal
@@ -124,12 +138,13 @@ DTSTART:20261128T160000Z
 DTEND:20261128T190000Z
 SUMMARY:South Dakota Coyotes @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ Abilene
-  Christian Wildcats\nUNF Arena\, Jacksonville\, FL\nNeutral site
+  Christian Wildcats\nUNF Arena\, Jacksonville\, FL\nNeutral site\nBroadcas
+ t: Broadcast not announced
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -138,12 +153,13 @@ DTSTART:20261202T010000Z
 DTEND:20261202T040000Z
 SUMMARY:Waldorf Warriors @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWaldorf Warriors @ South Dakot
- a Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ a Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -152,13 +168,14 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:South Dakota Coyotes @ Lindenwood Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ Lindenw
- ood Lions\nHyland Arena\, Saint Charles\, MO
+ ood Lions\nHyland Arena\, Saint Charles\, MO\nBroadcast: ESPN+ (streaming)
 LOCATION:Hyland Arena\, Saint Charles\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918746@open-sports-cal
@@ -166,12 +183,13 @@ DTSTART:20261209T010000Z
 DTEND:20261209T040000Z
 SUMMARY:Bradley Braves @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ South Dakota 
- Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: Broadc
+ ast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +198,13 @@ DTSTART:20261216T010000Z
 DTEND:20261216T040000Z
 SUMMARY:Drake Bulldogs @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDrake Bulldogs @ South Dakota 
- Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: Broadc
+ ast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -194,13 +213,14 @@ DTSTART:20261219T210000Z
 DTEND:20261220T000000Z
 SUMMARY:South Dakota Coyotes @ Montana Lady Griz
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ Montana
-  Lady Griz\nDahlberg Arena\, Missoula\, MT
+  Lady Griz\nDahlberg Arena\, Missoula\, MT\nBroadcast: ESPN+ (streaming)
 LOCATION:Dahlberg Arena\, Missoula\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918769@open-sports-cal
@@ -208,12 +228,13 @@ DTSTART:20261222T170000Z
 DTEND:20261222T200000Z
 SUMMARY:Bellevue Bruins @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBellevue Bruins @ South Dakota
-  Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+  Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: Broad
+ cast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +243,13 @@ DTSTART:20261231T210000Z
 DTEND:20270101T000000Z
 SUMMARY:South Dakota Coyotes @ Boise State Broncos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ Boise S
- tate Broncos\nExtraMile Arena\, Boise\, ID
+ tate Broncos\nExtraMile Arena\, Boise\, ID\nBroadcast: Broadcast not annou
+ nced
 LOCATION:ExtraMile Arena\, Boise\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +258,13 @@ DTSTART:20270108T010000Z
 DTEND:20270108T040000Z
 SUMMARY:Oral Roberts Golden Eagles @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOral Roberts Golden Eagles @ S
- outh Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ outh Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroad
+ cast: Broadcast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +273,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Kansas City Roos @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ South Dakot
- a Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ a Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +288,13 @@ DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
 SUMMARY:South Dakota Coyotes @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ South D
- akota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ akota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadc
+ ast: Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +303,13 @@ DTSTART:20270122T010000Z
 DTEND:20270122T040000Z
 SUMMARY:South Dakota Coyotes @ North Dakota Fighting Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ North D
- akota Fighting Hawks\nBetty Engelstad Sioux Center\, Grand Forks\, ND
+ akota Fighting Hawks\nBetty Engelstad Sioux Center\, Grand Forks\, ND\nBro
+ adcast: Broadcast not announced
 LOCATION:Betty Engelstad Sioux Center\, Grand Forks\, ND
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +318,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:South Dakota Coyotes @ North Dakota State Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ North D
- akota State Bison\nScheels Center\, Fargo\, ND
+ akota State Bison\nScheels Center\, Fargo\, ND\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Scheels Center\, Fargo\, ND
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +333,13 @@ DTSTART:20270129T010000Z
 DTEND:20270129T040000Z
 SUMMARY:Omaha Mavericks @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOmaha Mavericks @ South Dakota
-  Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+  Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: Broad
+ cast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +348,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:St. Thomas Tommies @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. Thomas Tommies @ South Dak
- ota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ ota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: Br
+ oadcast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +363,13 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:South Dakota Coyotes @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ Kansas 
- City Roos\nSwinney Center\, Kansas City\, MO
+ City Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +378,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:South Dakota Coyotes @ Oral Roberts Golden Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ Oral Ro
- berts Golden Eagles\nMabee Center\, Tulsa\, OK
+ berts Golden Eagles\nMabee Center\, Tulsa\, OK\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Mabee Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +393,13 @@ DTSTART:20270213T010000Z
 DTEND:20270213T040000Z
 SUMMARY:South Dakota State Jackrabbits @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota State Jackrabbits
-  @ South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+  @ South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nB
+ roadcast: Broadcast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +408,13 @@ DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:North Dakota State Bison @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Dakota State Bison @ Sou
- th Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ th Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadca
+ st: Broadcast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +423,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:North Dakota Fighting Hawks @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Dakota Fighting Hawks @ 
- South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroa
+ dcast: Broadcast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +438,13 @@ DTSTART:20270226T010000Z
 DTEND:20270226T040000Z
 SUMMARY:South Dakota Coyotes @ St. Thomas Tommies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ St. Tho
- mas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ mas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Broa
+ dcast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +453,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:South Dakota Coyotes @ Omaha Mavericks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ Omaha M
- avericks\nBaxter Arena\, Omaha\, NE
+ avericks\nBaxter Arena\, Omaha\, NE\nBroadcast: Broadcast not announced
 LOCATION:Baxter Arena\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

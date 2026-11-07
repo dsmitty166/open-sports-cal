@@ -13,13 +13,15 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:West Florida Argonauts @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWest Florida Argonauts @ East 
- Tennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+ Tennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915791@open-sports-cal
@@ -27,13 +29,15 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:East Tennessee State Buccaneers @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ s @ Clemson Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACCNX (
+ streaming)
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928197@open-sports-cal
@@ -41,13 +45,15 @@ DTSTART:20261108T210000Z
 DTEND:20261109T000000Z
 SUMMARY:UVA Wise Cavaliers @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUVA Wise Cavaliers @ East Tenn
- essee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+ essee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927927@open-sports-cal
@@ -55,13 +61,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:East Tennessee State Buccaneers @ Elon Phoenix
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Elon Phoenix\nSchar Center\, Elon\, NC
+ s @ Elon Phoenix\nSchar Center\, Elon\, NC\nBroadcast: FloSports (streamin
+ g)
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918697@open-sports-cal
@@ -69,13 +77,15 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:Coastal Carolina Chanticleers @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoastal Carolina Chanticleers 
- @ East Tennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+ @ East Tennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911495@open-sports-cal
@@ -84,13 +94,14 @@ DTEND:20261119T020000Z
 SUMMARY:East Tennessee State Buccaneers @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
  s @ Gardner-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, N
- C
+ C\nBroadcast: ESPN+ (streaming)
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927997@open-sports-cal
@@ -98,13 +109,15 @@ DTSTART:20261121T183000Z
 DTEND:20261121T213000Z
 SUMMARY:Kennesaw State Owls @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKennesaw State Owls @ East Ten
- nessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ nessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927056@open-sports-cal
@@ -112,13 +125,15 @@ DTSTART:20261124T233000Z
 DTEND:20261125T023000Z
 SUMMARY:East Tennessee State Buccaneers @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC
+ s @ UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906083@open-sports-cal
@@ -126,13 +141,15 @@ DTSTART:20261129T170000Z
 DTEND:20261129T200000Z
 SUMMARY:East Tennessee State Buccaneers @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Louisville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ s @ Louisville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: AC
+ C Network
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911511@open-sports-cal
@@ -140,13 +157,15 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:East Tennessee State Buccaneers @ Radford Highlanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Radford Highlanders\nThe Dedmon Center\, Radford\, VA
+ s @ Radford Highlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: ESPN
+ + (streaming)
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927961@open-sports-cal
@@ -154,13 +173,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Morehead State Eagles @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ East T
- ennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+ ennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928198@open-sports-cal
@@ -169,13 +190,14 @@ DTEND:20261214T000000Z
 SUMMARY:East Tennessee State Buccaneers @ Southern Indiana Screaming Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
  s @ Southern Indiana Screaming Eagles\nLiberty Arena (IN)\, Evansville\, I
- N
+ N\nBroadcast: ESPN+ (streaming)
 LOCATION:Liberty Arena (IN)\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927033@open-sports-cal
@@ -183,13 +205,15 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Charleston Southern Buccaneers @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Southern Buccaneers
-  @ East Tennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+  @ East Tennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\n
+ Broadcast: ESPN+ (streaming)
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926028@open-sports-cal
@@ -197,13 +221,15 @@ DTSTART:20261220T190000Z
 DTEND:20261220T220000Z
 SUMMARY:Charlotte 49ers @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ East Tenness
- ee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+ ee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914117@open-sports-cal
@@ -211,13 +237,15 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:Tennessee Tech Golden Eagles @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Tech Golden Eagles @
-  East Tennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+  East Tennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBr
+ oadcast: ESPN+ (streaming)
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914144@open-sports-cal
@@ -225,12 +253,13 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Western Carolina Catamounts @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Carolina Catamounts @ 
- East Tennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+ East Tennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBro
+ adcast: Broadcast not announced
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -239,12 +268,13 @@ DTSTART:20270105T233000Z
 DTEND:20270106T023000Z
 SUMMARY:East Tennessee State Buccaneers @ Furman Paladins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Furman Paladins\nTimmons Arena\, Greenville\, SC
+ s @ Furman Paladins\nTimmons Arena\, Greenville\, SC\nBroadcast: Broadcast
+  not announced
 LOCATION:Timmons Arena\, Greenville\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -253,12 +283,13 @@ DTSTART:20270109T183000Z
 DTEND:20270109T213000Z
 SUMMARY:Samford Bulldogs @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ East Tennes
- see State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ see State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast: Br
+ oadcast not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -267,12 +298,13 @@ DTSTART:20270113T000000Z
 DTEND:20270113T030000Z
 SUMMARY:Wofford Terriers @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWofford Terriers @ East Tennes
- see State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+ see State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBroadcast: Bro
+ adcast not announced
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -281,12 +313,13 @@ DTSTART:20270116T220000Z
 DTEND:20270117T010000Z
 SUMMARY:East Tennessee State Buccaneers @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Tennessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ s @ Tennessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nB
+ roadcast: Broadcast not announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -295,12 +328,13 @@ DTSTART:20270119T230000Z
 DTEND:20270120T020000Z
 SUMMARY:East Tennessee State Buccaneers @ Western Carolina Catamounts
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Western Carolina Catamounts\nRamsey Center\, Cullowhee\, NC
+ s @ Western Carolina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast
+ : Broadcast not announced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -309,12 +343,13 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Mercer Bears @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMercer Bears @ East Tennessee 
- State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+ State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBroadcast: Broadca
+ st not announced
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -323,12 +358,13 @@ DTSTART:20270127T000000Z
 DTEND:20270127T030000Z
 SUMMARY:UNC Greensboro Spartans @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Greensboro Spartans @ East
-  Tennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+  Tennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBroadca
+ st: Broadcast not announced
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,12 +373,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:East Tennessee State Buccaneers @ Chattanooga Mocs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Chattanooga Mocs\nMcKenzie Arena\, Chattanooga\, TN
+ s @ Chattanooga Mocs\nMcKenzie Arena\, Chattanooga\, TN\nBroadcast: Broadc
+ ast not announced
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -351,12 +388,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:East Tennessee State Buccaneers @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Samford Bulldogs\nPete Hanna Center\, Homewood\, AL
+ s @ Samford Bulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadc
+ ast not announced
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -365,12 +403,13 @@ DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Furman Paladins @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFurman Paladins @ East Tenness
- ee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+ ee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBroadcast: Broa
+ dcast not announced
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -379,12 +418,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:East Tennessee State Buccaneers @ Mercer Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Mercer Bears\nHawkins Arena\, Macon\, GA
+ s @ Mercer Bears\nHawkins Arena\, Macon\, GA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Hawkins Arena\, Macon\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -393,12 +433,13 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:East Tennessee State Buccaneers @ Wofford Terriers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Wofford Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ s @ Wofford Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\n
+ Broadcast: Broadcast not announced
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -407,12 +448,13 @@ DTSTART:20270220T210000Z
 DTEND:20270221T000000Z
 SUMMARY:Chattanooga Mocs @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nChattanooga Mocs @ East Tennes
- see State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+ see State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBroadcast: Bro
+ adcast not announced
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -421,12 +463,13 @@ DTSTART:20270223T160000Z
 DTEND:20270223T190000Z
 SUMMARY:East Tennessee State Buccaneers @ UNC Greensboro Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ UNC Greensboro Spartans\nBodford Arena\, Greensboro\, NC
+ s @ UNC Greensboro Spartans\nBodford Arena\, Greensboro\, NC\nBroadcast: B
+ roadcast not announced
 LOCATION:Bodford Arena\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

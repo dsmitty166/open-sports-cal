@@ -12,12 +12,13 @@ DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 SUMMARY:Dartmouth Big Green @ Lehigh Mountain Hawks
 DESCRIPTION:NCAA FCS Football 2026\nDartmouth Big Green @ Lehigh Mountain H
- awks\nGoodman Stadium\, Bethlehem\, PA
+ awks\nGoodman Stadium\, Bethlehem\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Goodman Stadium\, Bethlehem\, PA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866647@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260926T170000Z
 DTEND:20260926T200000Z
 SUMMARY:Monmouth Hawks @ Dartmouth Big Green
 DESCRIPTION:NCAA FCS Football 2026\nMonmouth Hawks @ Dartmouth Big Green\nM
- emorial Field (Dartmouth)\, Hanover\, NH
+ emorial Field (Dartmouth)\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Memorial Field (Dartmouth)\, Hanover\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867835@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20261003T173000Z
 DTEND:20261003T203000Z
 SUMMARY:Pennsylvania Quakers @ Dartmouth Big Green
 DESCRIPTION:NCAA FCS Football 2026\nPennsylvania Quakers @ Dartmouth Big Gr
- een\nMemorial Field (Dartmouth)\, Hanover\, NH
+ een\nMemorial Field (Dartmouth)\, Hanover\, NH\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Memorial Field (Dartmouth)\, Hanover\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867836@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:Dartmouth Big Green @ Yale Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nDartmouth Big Green @ Yale Bulldogs\nYa
- le Bowl\, New Haven\, CT
+ le Bowl\, New Haven\, CT\nBroadcast: ESPNU
 LOCATION:Yale Bowl\, New Haven\, CT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867837@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261017T170000Z
 DTEND:20261017T200000Z
 SUMMARY:Merrimack Warriors @ Dartmouth Big Green
 DESCRIPTION:NCAA FCS Football 2026\nMerrimack Warriors @ Dartmouth Big Gree
- n\nMemorial Field (Dartmouth)\, Hanover\, NH
+ n\nMemorial Field (Dartmouth)\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Memorial Field (Dartmouth)\, Hanover\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867822@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261024T173000Z
 DTEND:20261024T203000Z
 SUMMARY:Dartmouth Big Green @ Columbia Lions
 DESCRIPTION:NCAA FCS Football 2026\nDartmouth Big Green @ Columbia Lions\nL
- awrence A. Wien Stadium\, New York\, NY
+ awrence A. Wien Stadium\, New York\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Lawrence A. Wien Stadium\, New York\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867838@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261030T230000Z
 DTEND:20261031T020000Z
 SUMMARY:Harvard Crimson @ Dartmouth Big Green
 DESCRIPTION:NCAA FCS Football 2026\nHarvard Crimson @ Dartmouth Big Green\n
- Memorial Field (Dartmouth)\, Hanover\, NH
+ Memorial Field (Dartmouth)\, Hanover\, NH\nBroadcast: ESPNU
 LOCATION:Memorial Field (Dartmouth)\, Hanover\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867839@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:Dartmouth Big Green @ Princeton Tigers
 DESCRIPTION:NCAA FCS Football 2026\nDartmouth Big Green @ Princeton Tigers\
- nPrinceton Stadium\, Princeton\, NJ
+ nPrinceton Stadium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Princeton Stadium\, Princeton\, NJ
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867833@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Dartmouth Big Green @ Cornell Big Red
 DESCRIPTION:NCAA FCS Football 2026\nDartmouth Big Green @ Cornell Big Red\n
- Schoellkopf Field\, Ithaca\, NY
+ Schoellkopf Field\, Ithaca\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Schoellkopf Field\, Ithaca\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867812@open-sports-cal
@@ -129,11 +139,12 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Brown Bears @ Dartmouth Big Green
 DESCRIPTION:NCAA FCS Football 2026\nBrown Bears @ Dartmouth Big Green\nMemo
- rial Field (Dartmouth)\, Hanover\, NH
+ rial Field (Dartmouth)\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Memorial Field (Dartmouth)\, Hanover\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

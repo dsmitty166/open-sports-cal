@@ -12,12 +12,13 @@ DTSTART:20261102T160000Z
 DTEND:20261102T190000Z
 SUMMARY:Washington Adventist Shock @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWashington Adventist Shock @ M
- organ State Lady Bears\nHill Field House\, Baltimore\, MD
+ organ State Lady Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -26,13 +27,15 @@ DTSTART:20261105T010000Z
 DTEND:20261105T040000Z
 SUMMARY:Morgan State Lady Bears @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Colo
- rado Buffaloes\nCU Events Center\, Boulder\, CO
+ rado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907047@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261106T230000Z
 DTEND:20261107T020000Z
 SUMMARY:Morgan State Lady Bears @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Okla
- homa State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ homa State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927414@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261108T200000Z
 DTEND:20261108T230000Z
 SUMMARY:Morgan State Lady Bears @ Oklahoma Sooners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Okla
- homa Sooners\nLloyd Noble Center\, Norman\, OK
+ homa Sooners\nLloyd Noble Center\, Norman\, OK\nBroadcast: SECN+ (streamin
+ g)
 LOCATION:Lloyd Noble Center\, Norman\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916038@open-sports-cal
@@ -68,13 +75,15 @@ DTSTART:20261113T233000Z
 DTEND:20261114T023000Z
 SUMMARY:Morgan State Lady Bears @ UMBC Retrievers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ UMBC
-  Retrievers\nChesapeake Employers Insurance Arena\, Baltimore\, MD
+  Retrievers\nChesapeake Employers Insurance Arena\, Baltimore\, MD\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:Chesapeake Employers Insurance Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929631@open-sports-cal
@@ -82,12 +91,13 @@ DTSTART:20261118T230000Z
 DTEND:20261119T020000Z
 SUMMARY:Virginia Lynchburg Dragons @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Lynchburg Dragons @ M
- organ State Lady Bears\nHill Field House\, Baltimore\, MD
+ organ State Lady Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -96,12 +106,13 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Morgan State Lady Bears @ Maryland Terrapins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Mary
- land Terrapins\nXFINITY Center\, College Park\, MD
+ land Terrapins\nXFINITY Center\, College Park\, MD\nBroadcast: Broadcast n
+ ot announced
 LOCATION:XFINITY Center\, College Park\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,13 +121,14 @@ DTSTART:20261123T230000Z
 DTEND:20261124T020000Z
 SUMMARY:Morgan State Lady Bears @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ VCU 
- Rams\nSiegel Center\, Richmond\, VA
+ Rams\nSiegel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919071@open-sports-cal
@@ -124,13 +136,15 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Morgan State Lady Bears @ Georgetown Hoyas
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Geor
- getown Hoyas\nMcDonough Arena\, Washington\, DC
+ getown Hoyas\nMcDonough Arena\, Washington\, DC\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:McDonough Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913869@open-sports-cal
@@ -138,13 +152,15 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:Morgan State Lady Bears @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Sout
- h Florida Bulls\nYuengling Center\, Tampa\, FL
+ h Florida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919064@open-sports-cal
@@ -152,13 +168,15 @@ DTSTART:20261207T233000Z
 DTEND:20261208T023000Z
 SUMMARY:Morgan State Lady Bears @ UCF Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ UCF 
- Knights\nAddition Financial Arena\, Orlando\, FL
+ Knights\nAddition Financial Arena\, Orlando\, FL\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Addition Financial Arena\, Orlando\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916169@open-sports-cal
@@ -166,12 +184,13 @@ DTSTART:20261210T230000Z
 DTEND:20261211T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Morgan State Lady Bears\nHill Field House\, Baltimore\, MD
+ @ Morgan State Lady Bears\nHill Field House\, Baltimore\, MD\nBroadcast: B
+ roadcast not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -180,13 +199,15 @@ DTSTART:20261218T160000Z
 DTEND:20261218T190000Z
 SUMMARY:Morgan State Lady Bears @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Flor
- ida International Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ ida International Panthers\nOcean Bank Convocation Center\, Miami\, FL\nBr
+ oadcast: ESPN+ (streaming)
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927941@open-sports-cal
@@ -195,12 +216,14 @@ DTEND:20261219T213000Z
 SUMMARY:Morgan State Lady Bears @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Hamp
  ton Lady Pirates\nOcean Bank Convocation Center\, Miami\, FL\nNeutral site
+ \nBroadcast: ESPN+ (streaming)
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913733@open-sports-cal
@@ -208,13 +231,14 @@ DTSTART:20261220T190000Z
 DTEND:20261220T220000Z
 SUMMARY:Morgan State Lady Bears @ Miami Hurricanes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Miam
- i Hurricanes\nWatsco Center\, Coral Gables\, FL
+ i Hurricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: ACC Network
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929348@open-sports-cal
@@ -222,13 +246,15 @@ DTSTART:20261228T190000Z
 DTEND:20261228T220000Z
 SUMMARY:Morgan State Lady Bears @ Old Dominion Monarchs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Old 
- Dominion Monarchs\nChartway Arena\, Norfolk\, VA
+ Dominion Monarchs\nChartway Arena\, Norfolk\, VA\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Chartway Arena\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919614@open-sports-cal
@@ -236,12 +262,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  Morgan State Lady Bears\nHill Field House\, Baltimore\, MD
+  Morgan State Lady Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Br
+ oadcast not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +277,13 @@ DTSTART:20270107T233000Z
 DTEND:20270108T023000Z
 SUMMARY:Morgan State Lady Bears @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Nort
- h Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ h Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroadca
+ st: Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -265,12 +293,12 @@ DTEND;VALUE=DATE:20270110
 SUMMARY:Morgan State Lady Bears @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Sout
  h Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Center\, 
- Orangeburg\, SC\nStart time TBD
+ Orangeburg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919617@open-sports-cal
@@ -278,12 +306,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Delaware State Hornets @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware State Hornets @ Morga
- n State Lady Bears\nHill Field House\, Baltimore\, MD
+ n State Lady Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +321,13 @@ DTSTART:20270121T230000Z
 DTEND:20270122T020000Z
 SUMMARY:Norfolk State Spartans @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorfolk State Spartans @ Morga
- n State Lady Bears\nHill Field House\, Baltimore\, MD
+ n State Lady Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +336,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Howard Bison @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoward Bison @ Morgan State La
- dy Bears\nHill Field House\, Baltimore\, MD
+ dy Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +351,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Coppin State Eagles @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoppin State Eagles @ Morgan S
- tate Lady Bears\nHill Field House\, Baltimore\, MD
+ tate Lady Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +366,13 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Morgan State Lady Bears @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Mary
- land Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ land Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadcast: B
+ roadcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +381,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:North Carolina Central Eagles @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ Morgan State Lady Bears\nHill Field House\, Baltimore\, MD
+ @ Morgan State Lady Bears\nHill Field House\, Baltimore\, MD\nBroadcast: B
+ roadcast not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +396,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Morgan State Lady Bears\nHill Field House\, Baltimore\, MD
+ dogs @ Morgan State Lady Bears\nHill Field House\, Baltimore\, MD\nBroadca
+ st: Broadcast not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +411,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Morgan State Lady Bears @ Delaware State Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Dela
- ware State Hornets\nMemorial Hall (DE)\, Dover\, DE
+ ware State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast 
+ not announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +426,13 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Morgan State Lady Bears @ Norfolk State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Norf
- olk State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA
+ olk State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA\nBroadcast: Broad
+ cast not announced
 LOCATION:Joseph G. Echols Hall\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +441,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Morgan State Lady Bears @ Howard Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Howa
- rd Bison\nBurr Gymnasium\, Washington\, DC
+ rd Bison\nBurr Gymnasium\, Washington\, DC\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Burr Gymnasium\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +456,13 @@ DTSTART:20270304T223000Z
 DTEND:20270305T013000Z
 SUMMARY:Morgan State Lady Bears @ Coppin State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Copp
- in State Eagles\nPhysical Education Complex\, Baltimore\, MD
+ in State Eagles\nPhysical Education Complex\, Baltimore\, MD\nBroadcast: B
+ roadcast not announced
 LOCATION:Physical Education Complex\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

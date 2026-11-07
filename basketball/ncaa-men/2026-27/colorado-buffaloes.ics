@@ -12,12 +12,14 @@ DTSTART:20261103T020000Z
 DTEND:20261103T050000Z
 SUMMARY:Abilene Christian Wildcats @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Col
- orado Buffaloes\nCU Events Center\, Boulder\, CO
+ orado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909760@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T203000Z
 DTEND:20261107T233000Z
 SUMMARY:San Diego State Aztecs @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSan Diego State Aztecs @ Colorad
- o Buffaloes\nPechanga Arena\, San Diego\, CA\nNeutral site
+ o Buffaloes\nPechanga Arena\, San Diego\, CA\nNeutral site\nBroadcast: USA
+  Net
 LOCATION:Pechanga Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:USA Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909761@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20261111T020000Z
 DTEND:20261111T050000Z
 SUMMARY:San Diego Toreros @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSan Diego Toreros @ Colorado Buf
- faloes\nCU Events Center\, Boulder\, CO
+ faloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909534@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261114T230000Z
 DTEND:20261115T020000Z
 SUMMARY:Colorado Buffaloes @ Providence Friars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ Providence 
- Friars\nAmica Mutual Pavilion\, Providence\, RI
+ Friars\nAmica Mutual Pavilion\, Providence\, RI\nBroadcast: Peacock (strea
+ ming)
 LOCATION:Amica Mutual Pavilion\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909762@open-sports-cal
@@ -64,12 +71,13 @@ DTSTART:20261119T020000Z
 DTEND:20261119T050000Z
 SUMMARY:Portland Pilots @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland Pilots @ Colorado Buffa
- loes\nCU Events Center\, Boulder\, CO
+ loes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909763@open-sports-cal
@@ -77,11 +85,12 @@ DTSTART:20261125T045900Z
 DTEND:20261125T075900Z
 SUMMARY:Stanford Cardinal @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStanford Cardinal @ Colorado Buf
- faloes\nAcrisure Arena\, Palm Springs\, CA\nNeutral site
+ faloes\nAcrisure Arena\, Palm Springs\, CA\nNeutral site\nBroadcast: Broad
+ cast not announced
 LOCATION:Acrisure Arena\, Palm Springs\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +99,13 @@ DTSTART:20261202T020000Z
 DTEND:20261202T050000Z
 SUMMARY:UTEP Miners @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ Colorado Buffaloes
- \nCU Events Center\, Boulder\, CO
+ \nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909765@open-sports-cal
@@ -103,12 +113,13 @@ DTSTART:20261206T030000Z
 DTEND:20261206T060000Z
 SUMMARY:Colorado State Rams @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado State Rams @ Colorado B
- uffaloes\nCU Events Center\, Boulder\, CO
+ uffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: TNT
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909766@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261213T020000Z
 DTEND:20261213T050000Z
 SUMMARY:Central Arkansas Bears @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Arkansas Bears @ Colorad
- o Buffaloes\nCU Events Center\, Boulder\, CO
+ o Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909767@open-sports-cal
@@ -129,12 +141,13 @@ DTSTART:20261216T020000Z
 DTEND:20261216T050000Z
 SUMMARY:Cal Poly Mustangs @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Colorado Buf
- faloes\nCU Events Center\, Boulder\, CO
+ faloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909768@open-sports-cal
@@ -142,12 +155,14 @@ DTSTART:20261219T223000Z
 DTEND:20261220T013000Z
 SUMMARY:Colorado Buffaloes @ Purdue Boilermakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ Purdue Boil
- ermakers\nGainbridge Fieldhouse\, Indianapolis\, IN\nNeutral site
+ ermakers\nGainbridge Fieldhouse\, Indianapolis\, IN\nNeutral site\nBroadca
+ st: FS1
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909769@open-sports-cal
@@ -155,11 +170,12 @@ DTSTART:20261223T020000Z
 DTEND:20261223T050000Z
 SUMMARY:North Dakota Fighting Hawks @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Dakota Fighting Hawks @ Co
- lorado Buffaloes\nCU Events Center\, Boulder\, CO
+ lorado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast no
+ t announced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +184,13 @@ DTSTART:20261230T010000Z
 DTEND:20261230T040000Z
 SUMMARY:Denver Pioneers @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDenver Pioneers @ Colorado Buffa
- loes\nCU Events Center\, Boulder\, CO
+ loes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922771@open-sports-cal
@@ -181,12 +198,13 @@ DTSTART:20270103T010000Z
 DTEND:20270103T040000Z
 SUMMARY:Colorado Buffaloes @ Oklahoma State Cowboys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ Oklahoma St
- ate Cowboys\nGallagher-Iba Arena\, Stillwater\, OK
+ ate Cowboys\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: CBSSN
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922779@open-sports-cal
@@ -194,11 +212,12 @@ DTSTART:20270106T040000Z
 DTEND:20270106T070000Z
 SUMMARY:Iowa State Cyclones @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa State Cyclones @ Colorado B
- uffaloes\nCU Events Center\, Boulder\, CO
+ uffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not announ
+ ced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +226,12 @@ DTSTART:20270109T200000Z
 DTEND:20270109T230000Z
 SUMMARY:West Virginia Mountaineers @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Virginia Mountaineers @ Col
- orado Buffaloes\nCU Events Center\, Boulder\, CO
+ orado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not
+  announced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +240,11 @@ DTSTART:20270114T020000Z
 DTEND:20270114T050000Z
 SUMMARY:Colorado Buffaloes @ Kansas Jayhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ Kansas Jayh
- awks\nAllen Fieldhouse\, Lawrence\, KS
+ awks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: Broadcast not announced
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +253,11 @@ DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
 SUMMARY:Houston Cougars @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHouston Cougars @ Colorado Buffa
- loes\nCU Events Center\, Boulder\, CO
+ loes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not announced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +266,12 @@ DTSTART:20270120T000000Z
 DTEND:20270120T030000Z
 SUMMARY:Colorado Buffaloes @ UCF Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ UCF Knights
- \nAddition Financial Arena\, Orlando\, FL
+ \nAddition Financial Arena\, Orlando\, FL\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Addition Financial Arena\, Orlando\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +280,12 @@ DTSTART:20270123T200000Z
 DTEND:20270123T230000Z
 SUMMARY:Cincinnati Bearcats @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ Colorado B
- uffaloes\nCU Events Center\, Boulder\, CO
+ uffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not announ
+ ced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -272,12 +294,13 @@ DTSTART:20270128T010000Z
 DTEND:20270128T040000Z
 SUMMARY:Colorado Buffaloes @ Baylor Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ Baylor Bear
- s\nFoster Pavilion\, Waco\, TX
+ s\nFoster Pavilion\, Waco\, TX\nBroadcast: CBSSN
 LOCATION:Foster Pavilion\, Waco\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922697@open-sports-cal
@@ -285,11 +308,12 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:Colorado Buffaloes @ TCU Horned Frogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ TCU Horned 
- Frogs\nSchollmaier Arena\, Fort Worth\, TX
+ Frogs\nSchollmaier Arena\, Fort Worth\, TX\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Schollmaier Arena\, Fort Worth\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,12 +322,13 @@ DTSTART:20270203T040000Z
 DTEND:20270203T070000Z
 SUMMARY:Texas Tech Red Raiders @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Colorad
- o Buffaloes\nCU Events Center\, Boulder\, CO
+ o Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922709@open-sports-cal
@@ -311,11 +336,12 @@ DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:Colorado Buffaloes @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ Kansas Stat
- e Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ e Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +350,11 @@ DTSTART:20270213T200000Z
 DTEND:20270213T230000Z
 SUMMARY:Baylor Bears @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBaylor Bears @ Colorado Buffaloe
- s\nCU Events Center\, Boulder\, CO
+ s\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not announced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -337,12 +363,13 @@ DTSTART:20270218T020000Z
 DTEND:20270218T050000Z
 SUMMARY:BYU Cougars @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBYU Cougars @ Colorado Buffaloes
- \nCU Events Center\, Boulder\, CO
+ \nCU Events Center\, Boulder\, CO\nBroadcast: Peacock (streaming)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922735@open-sports-cal
@@ -350,11 +377,12 @@ DTSTART:20270221T000000Z
 DTEND:20270221T030000Z
 SUMMARY:Colorado Buffaloes @ Utah Utes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ Utah Utes\n
- Jon M. Huntsman Center\, Salt Lake City\, UT
+ Jon M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +391,11 @@ DTSTART:20270225T020000Z
 DTEND:20270225T050000Z
 SUMMARY:Colorado Buffaloes @ Houston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ Houston Cou
- gars\nFertitta Center\, Houston\, TX
+ gars\nFertitta Center\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Fertitta Center\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +404,13 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Arizona State Sun Devils @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArizona State Sun Devils @ Color
- ado Buffaloes\nCU Events Center\, Boulder\, CO
+ ado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: TNT
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922759@open-sports-cal
@@ -389,12 +418,13 @@ DTSTART:20270304T020000Z
 DTEND:20270304T050000Z
 SUMMARY:Colorado Buffaloes @ Arizona Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ Arizona Wil
- dcats\nMcKale Center at ALKEME Arena\, Tucson\, AZ
+ dcats\nMcKale Center at ALKEME Arena\, Tucson\, AZ\nBroadcast: FS1
 LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922767@open-sports-cal
@@ -402,11 +432,11 @@ DTSTART:20270306T200000Z
 DTEND:20270306T230000Z
 SUMMARY:Utah Utes @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUtah Utes @ Colorado Buffaloes\n
- CU Events Center\, Boulder\, CO
+ CU Events Center\, Boulder\, CO\nBroadcast: Broadcast not announced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 END:VCALENDAR

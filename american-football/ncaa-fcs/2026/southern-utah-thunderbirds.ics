@@ -12,12 +12,14 @@ DTSTART:20260830T010000Z
 DTEND:20260830T040000Z
 SUMMARY:Southern Utah Thunderbirds @ Montana Grizzlies
 DESCRIPTION:NCAA FCS Football 2026\nSouthern Utah Thunderbirds @ Montana Gr
- izzlies\nWashington-Grizzly Stadium\, Missoula\, MT
+ izzlies\nWashington-Grizzly Stadium\, Missoula\, MT\nBroadcast: ESPN+ (str
+ eaming) / Scripps Sports (streaming)
 LOCATION:Washington-Grizzly Stadium\, Missoula\, MT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming) / Scripps Sports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868158@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20260906T000000Z
 DTEND:20260906T030000Z
 SUMMARY:Weber State Wildcats @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA FCS Football 2026\nWeber State Wildcats @ Southern Utah Th
- underbirds\nEccles Coliseum\, Cedar City\, UT
+ underbirds\nEccles Coliseum\, Cedar City\, UT\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Eccles Coliseum\, Cedar City\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401860882@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Southern Utah Thunderbirds @ Colorado State Rams
 DESCRIPTION:NCAA FCS Football 2026\nSouthern Utah Thunderbirds @ Colorado S
- tate Rams\nCanvas Stadium\, Fort Collins\, CO
+ tate Rams\nCanvas Stadium\, Fort Collins\, CO\nBroadcast: CBSSN
 LOCATION:Canvas Stadium\, Fort Collins\, CO
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868159@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20260919T180000Z
 DTEND:20260919T210000Z
 SUMMARY:Southern Utah Thunderbirds @ St. Thomas Tommies
 DESCRIPTION:NCAA FCS Football 2026\nSouthern Utah Thunderbirds @ St. Thomas
-  Tommies\nO'Shaughnessy Stadium\, Saint Paul\, MN
+  Tommies\nO'Shaughnessy Stadium\, Saint Paul\, MN\nBroadcast: Midco Sports
+  Plus (streaming)
 LOCATION:O'Shaughnessy Stadium\, Saint Paul\, MN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Midco Sports Plus (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868103@open-sports-cal
@@ -64,12 +71,13 @@ DTSTART:20260927T000000Z
 DTEND:20260927T030000Z
 SUMMARY:Idaho State Bengals @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA FCS Football 2026\nIdaho State Bengals @ Southern Utah Thu
- nderbirds\nEccles Coliseum\, Cedar City\, UT
+ nderbirds\nEccles Coliseum\, Cedar City\, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:Eccles Coliseum\, Cedar City\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868160@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20261004T000000Z
 DTEND:20261004T030000Z
 SUMMARY:Southern Utah Thunderbirds @ Utah Tech Trailblazers
 DESCRIPTION:NCAA FCS Football 2026\nSouthern Utah Thunderbirds @ Utah Tech 
- Trailblazers\nGreater Zion Stadium\, Saint George\, UT
+ Trailblazers\nGreater Zion Stadium\, Saint George\, UT\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Greater Zion Stadium\, Saint George\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868161@open-sports-cal
@@ -90,12 +100,13 @@ DTSTART:20261018T000000Z
 DTEND:20261018T030000Z
 SUMMARY:UC Davis Aggies @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA FCS Football 2026\nUC Davis Aggies @ Southern Utah Thunder
- birds\nEccles Coliseum\, Cedar City\, UT
+ birds\nEccles Coliseum\, Cedar City\, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:Eccles Coliseum\, Cedar City\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868097@open-sports-cal
@@ -103,12 +114,13 @@ DTSTART:20261024T210000Z
 DTEND:20261025T000000Z
 SUMMARY:Southern Utah Thunderbirds @ Idaho Vandals
 DESCRIPTION:NCAA FCS Football 2026\nSouthern Utah Thunderbirds @ Idaho Vand
- als\nKibbie Dome\, Moscow\, ID
+ als\nKibbie Dome\, Moscow\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:Kibbie Dome\, Moscow\, ID
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868126@open-sports-cal
@@ -116,12 +128,14 @@ DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 SUMMARY:Northern Arizona Lumberjacks @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA FCS Football 2026\nNorthern Arizona Lumberjacks @ Southern
-  Utah Thunderbirds\nEccles Coliseum\, Cedar City\, UT
+  Utah Thunderbirds\nEccles Coliseum\, Cedar City\, UT\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Eccles Coliseum\, Cedar City\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868153@open-sports-cal
@@ -129,12 +143,14 @@ DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
 SUMMARY:Northern Colorado Bears @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA FCS Football 2026\nNorthern Colorado Bears @ Southern Utah
-  Thunderbirds\nEccles Coliseum\, Cedar City\, UT
+  Thunderbirds\nEccles Coliseum\, Cedar City\, UT\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Eccles Coliseum\, Cedar City\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868157@open-sports-cal
@@ -142,12 +158,14 @@ DTSTART:20261114T030000Z
 DTEND:20261114T060000Z
 SUMMARY:Southern Utah Thunderbirds @ Portland State Vikings
 DESCRIPTION:NCAA FCS Football 2026\nSouthern Utah Thunderbirds @ Portland S
- tate Vikings\nHillsboro Stadium\, Portland\, OR
+ tate Vikings\nHillsboro Stadium\, Portland\, OR\nBroadcast: ESPN+ (streami
+ ng) / Rose City Sports Net
 LOCATION:Hillsboro Stadium\, Portland\, OR
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming) / Rose City Sports Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401891330@open-sports-cal
@@ -155,11 +173,13 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Chicago State Cougars @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA FCS Football 2026\nChicago State Cougars @ Southern Utah T
- hunderbirds\nEccles Coliseum\, Cedar City\, UT
+ hunderbirds\nEccles Coliseum\, Cedar City\, UT\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Eccles Coliseum\, Cedar City\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

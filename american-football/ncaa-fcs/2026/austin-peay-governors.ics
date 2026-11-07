@@ -12,12 +12,14 @@ DTSTART:20260827T230000Z
 DTEND:20260828T020000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Austin Peay Governors
 DESCRIPTION:NCAA FCS Football 2026\nGardner-Webb Runnin' Bulldogs @ Austin 
- Peay Governors\nFortera Stadium\, Clarksville\, TN
+ Peay Governors\nFortera Stadium\, Clarksville\, TN\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Fortera Stadium\, Clarksville\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401856669@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260905T230000Z
 DTEND:20260906T020000Z
 SUMMARY:Austin Peay Governors @ Vanderbilt Commodores
 DESCRIPTION:NCAA FCS Football 2026\nAustin Peay Governors @ Vanderbilt Comm
- odores\nFirstBank Stadium\, Nashville\, TN
+ odores\nFirstBank Stadium\, Nashville\, TN\nBroadcast: SECN+ (streaming)
 LOCATION:FirstBank Stadium\, Nashville\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868061@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260912T210000Z
 DTEND:20260913T000000Z
 SUMMARY:Morehead State Eagles @ Austin Peay Governors
 DESCRIPTION:NCAA FCS Football 2026\nMorehead State Eagles @ Austin Peay Gov
- ernors\nFortera Stadium\, Clarksville\, TN
+ ernors\nFortera Stadium\, Clarksville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Fortera Stadium\, Clarksville\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868062@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Austin Peay Governors @ West Florida Argonauts
 DESCRIPTION:NCAA FCS Football 2026\nAustin Peay Governors @ West Florida Ar
- gonauts\nPen-Air Field\, Pensacola\, FL
+ gonauts\nPen-Air Field\, Pensacola\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Pen-Air Field\, Pensacola\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868063@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20260926T180000Z
 DTEND:20260926T210000Z
 SUMMARY:UT Martin Skyhawks @ Austin Peay Governors
 DESCRIPTION:NCAA FCS Football 2026\nUT Martin Skyhawks @ Austin Peay Govern
- ors\nFortera Stadium\, Clarksville\, TN
+ ors\nFortera Stadium\, Clarksville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Fortera Stadium\, Clarksville\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868064@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261003T210000Z
 DTEND:20261004T000000Z
 SUMMARY:New Haven Chargers @ Austin Peay Governors
 DESCRIPTION:NCAA FCS Football 2026\nNew Haven Chargers @ Austin Peay Govern
- ors\nFortera Stadium\, Clarksville\, TN
+ ors\nFortera Stadium\, Clarksville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Fortera Stadium\, Clarksville\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868065@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261010T230000Z
 DTEND:20261011T020000Z
 SUMMARY:Tarleton State Texans @ Austin Peay Governors
 DESCRIPTION:NCAA FCS Football 2026\nTarleton State Texans @ Austin Peay Gov
- ernors\nFortera Stadium\, Clarksville\, TN
+ ernors\nFortera Stadium\, Clarksville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Fortera Stadium\, Clarksville\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868066@open-sports-cal
@@ -103,12 +111,14 @@ DTSTART:20261017T180000Z
 DTEND:20261017T210000Z
 SUMMARY:Austin Peay Governors @ West Georgia Wolves
 DESCRIPTION:NCAA FCS Football 2026\nAustin Peay Governors @ West Georgia Wo
- lves\nUniversity Stadium (GA)\, Carrollton\, GA
+ lves\nUniversity Stadium (GA)\, Carrollton\, GA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:University Stadium (GA)\, Carrollton\, GA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868067@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261024T230000Z
 DTEND:20261025T020000Z
 SUMMARY:Austin Peay Governors @ North Alabama Lions
 DESCRIPTION:NCAA FCS Football 2026\nAustin Peay Governors @ North Alabama L
- ions\nBraly Stadium\, Florence\, AL
+ ions\nBraly Stadium\, Florence\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Braly Stadium\, Florence\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868068@open-sports-cal
@@ -129,12 +140,14 @@ DTSTART:20261107T210000Z
 DTEND:20261108T000000Z
 SUMMARY:Eastern Kentucky Colonels @ Austin Peay Governors
 DESCRIPTION:NCAA FCS Football 2026\nEastern Kentucky Colonels @ Austin Peay
-  Governors\nFortera Stadium\, Clarksville\, TN
+  Governors\nFortera Stadium\, Clarksville\, TN\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Fortera Stadium\, Clarksville\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868058@open-sports-cal
@@ -142,12 +155,14 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Abilene Christian Wildcats @ Austin Peay Governors
 DESCRIPTION:NCAA FCS Football 2026\nAbilene Christian Wildcats @ Austin Pea
- y Governors\nFortera Stadium\, Clarksville\, TN
+ y Governors\nFortera Stadium\, Clarksville\, TN\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Fortera Stadium\, Clarksville\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868069@open-sports-cal
@@ -155,11 +170,12 @@ DTSTART:20261121T220000Z
 DTEND:20261122T010000Z
 SUMMARY:Austin Peay Governors @ Central Arkansas Bears
 DESCRIPTION:NCAA FCS Football 2026\nAustin Peay Governors @ Central Arkansa
- s Bears\nEstes Stadium\, Conway\, AR
+ s Bears\nEstes Stadium\, Conway\, AR\nBroadcast: ESPN+ (streaming)
 LOCATION:Estes Stadium\, Conway\, AR
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

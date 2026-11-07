@@ -12,12 +12,13 @@ DTSTART:20260829T220000Z
 DTEND:20260830T010000Z
 SUMMARY:Bryant Bulldogs @ Stonehill Skyhawks
 DESCRIPTION:NCAA FCS Football 2026\nBryant Bulldogs @ Stonehill Skyhawks\nW
- .B. Mason Stadium\, North Easton\, MA
+ .B. Mason Stadium\, North Easton\, MA\nBroadcast: NEC Front Row
 LOCATION:W.B. Mason Stadium\, North Easton\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867924@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:Stonehill Skyhawks @ New Haven Chargers
 DESCRIPTION:NCAA FCS Football 2026\nStonehill Skyhawks @ New Haven Chargers
- \nRalph F. DellaCamera Stadium\, West Haven\, CT
+ \nRalph F. DellaCamera Stadium\, West Haven\, CT\nBroadcast: NEC Front Row
 LOCATION:Ralph F. DellaCamera Stadium\, West Haven\, CT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866631@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260912T220000Z
 DTEND:20260913T010000Z
 SUMMARY:Stonehill Skyhawks @ New Hampshire Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nStonehill Skyhawks @ New Hampshire Wild
- cats\nWildcat Stadium (NH)\, Durham\, NH
+ cats\nWildcat Stadium (NH)\, Durham\, NH\nBroadcast: FloSports (streaming)
 LOCATION:Wildcat Stadium (NH)\, Durham\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866424@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20260919T193000Z
 DTEND:20260919T223000Z
 SUMMARY:Stonehill Skyhawks @ Massachusetts Minutemen
 DESCRIPTION:NCAA FCS Football 2026\nStonehill Skyhawks @ Massachusetts Minu
- temen\nWarren McGuirk Alumni Stadium\, Amherst\, MA
+ temen\nWarren McGuirk Alumni Stadium\, Amherst\, MA\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866428@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:Stonehill Skyhawks @ Ohio Bobcats
 DESCRIPTION:NCAA FCS Football 2026\nStonehill Skyhawks @ Ohio Bobcats\nPede
- n Stadium\, Athens\, OH
+ n Stadium\, Athens\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Peden Stadium\, Athens\, OH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866660@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:Stonehill Skyhawks @ Sacred Heart Pioneers
 DESCRIPTION:NCAA FCS Football 2026\nStonehill Skyhawks @ Sacred Heart Pione
- ers\nCampus Field\, Fairfield\, CT
+ ers\nCampus Field\, Fairfield\, CT\nBroadcast: FloSports (streaming)
 LOCATION:Campus Field\, Fairfield\, CT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867925@open-sports-cal
@@ -90,12 +97,14 @@ DTSTART:20261017T160000Z
 DTEND:20261017T190000Z
 SUMMARY:Duquesne Dukes @ Stonehill Skyhawks
 DESCRIPTION:NCAA FCS Football 2026\nDuquesne Dukes @ Stonehill Skyhawks\nW.
- B. Mason Stadium\, North Easton\, MA
+ B. Mason Stadium\, North Easton\, MA\nBroadcast: NEC Front Row / SITV (str
+ eaming)
 LOCATION:W.B. Mason Stadium\, North Easton\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row / SITV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867913@open-sports-cal
@@ -103,12 +112,13 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:Stonehill Skyhawks @ Long Island University Sharks
 DESCRIPTION:NCAA FCS Football 2026\nStonehill Skyhawks @ Long Island Univer
- sity Sharks\nShark Stadium\, Brookville\, NY
+ sity Sharks\nShark Stadium\, Brookville\, NY\nBroadcast: NEC Front Row
 LOCATION:Shark Stadium\, Brookville\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867926@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Mercyhurst Lakers @ Stonehill Skyhawks
 DESCRIPTION:NCAA FCS Football 2026\nMercyhurst Lakers @ Stonehill Skyhawks\
- nW.B. Mason Stadium\, North Easton\, MA
+ nW.B. Mason Stadium\, North Easton\, MA\nBroadcast: NEC Front Row
 LOCATION:W.B. Mason Stadium\, North Easton\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867904@open-sports-cal
@@ -129,12 +140,14 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Central Connecticut Blue Devils @ Stonehill Skyhawks
 DESCRIPTION:NCAA FCS Football 2026\nCentral Connecticut Blue Devils @ Stone
- hill Skyhawks\nW.B. Mason Stadium\, North Easton\, MA
+ hill Skyhawks\nW.B. Mason Stadium\, North Easton\, MA\nBroadcast: ESPN+ (s
+ treaming) / NEC Front Row
 LOCATION:W.B. Mason Stadium\, North Easton\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867923@open-sports-cal
@@ -142,12 +155,14 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Stonehill Skyhawks @ Robert Morris Colonials
 DESCRIPTION:NCAA FCS Football 2026\nStonehill Skyhawks @ Robert Morris Colo
- nials\nJoe Walton Stadium\, Moon Township\, PA
+ nials\nJoe Walton Stadium\, Moon Township\, PA\nBroadcast: ESPN+ (streamin
+ g) / NEC Front Row
 LOCATION:Joe Walton Stadium\, Moon Township\, PA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867927@open-sports-cal
@@ -155,11 +170,11 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Wagner Seahawks @ Stonehill Skyhawks
 DESCRIPTION:NCAA FCS Football 2026\nWagner Seahawks @ Stonehill Skyhawks\nW
- .B. Mason Stadium\, North Easton\, MA
+ .B. Mason Stadium\, North Easton\, MA\nBroadcast: Broadcast not announced
 LOCATION:W.B. Mason Stadium\, North Easton\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

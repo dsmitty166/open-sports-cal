@@ -12,11 +12,11 @@ DTSTART:20260827T230000Z
 DTEND:20260828T020000Z
 SUMMARY:Lafayette Leopards @ Georgetown Hoyas
 DESCRIPTION:NCAA FCS Football 2026\nLafayette Leopards @ Georgetown Hoyas\n
- Cooper Field\, Washington\, DC
+ Cooper Field\, Washington\, DC\nBroadcast: Broadcast not announced
 LOCATION:Cooper Field\, Washington\, DC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -25,12 +25,13 @@ DTSTART:20260905T163000Z
 DTEND:20260905T193000Z
 SUMMARY:Lehigh Mountain Hawks @ Georgetown Hoyas
 DESCRIPTION:NCAA FCS Football 2026\nLehigh Mountain Hawks @ Georgetown Hoya
- s\nCooper Field\, Washington\, DC
+ s\nCooper Field\, Washington\, DC\nBroadcast: ESPN+ (streaming)
 LOCATION:Cooper Field\, Washington\, DC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868018@open-sports-cal
@@ -38,12 +39,14 @@ DTSTART:20260919T193000Z
 DTEND:20260919T223000Z
 SUMMARY:Georgetown Hoyas @ Richmond Spiders
 DESCRIPTION:NCAA FCS Football 2026\nGeorgetown Hoyas @ Richmond Spiders\nRo
- bins Stadium\, Richmond\, VA
+ bins Stadium\, Richmond\, VA\nBroadcast: ESPN+ (streaming) / MNMT / Patrio
+ t League TV (streaming)
 LOCATION:Robins Stadium\, Richmond\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / MNMT / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867818@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T163000Z
 DTEND:20260926T193000Z
 SUMMARY:Columbia Lions @ Georgetown Hoyas
 DESCRIPTION:NCAA FCS Football 2026\nColumbia Lions @ Georgetown Hoyas\nCoop
- er Field\, Washington\, DC
+ er Field\, Washington\, DC\nBroadcast: ESPN+ (streaming)
 LOCATION:Cooper Field\, Washington\, DC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867828@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T163000Z
 DTEND:20261003T193000Z
 SUMMARY:Cornell Big Red @ Georgetown Hoyas
 DESCRIPTION:NCAA FCS Football 2026\nCornell Big Red @ Georgetown Hoyas\nCoo
- per Field\, Washington\, DC
+ per Field\, Washington\, DC\nBroadcast: ESPN+ (streaming)
 LOCATION:Cooper Field\, Washington\, DC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867992@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T163000Z
 DTEND:20261010T193000Z
 SUMMARY:Bucknell Bison @ Georgetown Hoyas
 DESCRIPTION:NCAA FCS Football 2026\nBucknell Bison @ Georgetown Hoyas\nCoop
- er Field\, Washington\, DC
+ er Field\, Washington\, DC\nBroadcast: ESPN+ (streaming)
 LOCATION:Cooper Field\, Washington\, DC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868002@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261017T170000Z
 DTEND:20261017T200000Z
 SUMMARY:Georgetown Hoyas @ Colgate Raiders
 DESCRIPTION:NCAA FCS Football 2026\nGeorgetown Hoyas @ Colgate Raiders\nAnd
- y Kerr Stadium\, Hamilton\, NY
+ y Kerr Stadium\, Hamilton\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Andy Kerr Stadium\, Hamilton\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868019@open-sports-cal
@@ -103,12 +110,14 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:Georgetown Hoyas @ William & Mary Tribe
 DESCRIPTION:NCAA FCS Football 2026\nGeorgetown Hoyas @ William & Mary Tribe
- \nWalter J. Zable Stadium\, Williamsburg\, VA
+ \nWalter J. Zable Stadium\, Williamsburg\, VA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Walter J. Zable Stadium\, Williamsburg\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868020@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T173000Z
 DTEND:20261107T203000Z
 SUMMARY:Holy Cross Crusaders @ Georgetown Hoyas
 DESCRIPTION:NCAA FCS Football 2026\nHoly Cross Crusaders @ Georgetown Hoyas
- \nCooper Field\, Washington\, DC
+ \nCooper Field\, Washington\, DC\nBroadcast: ESPN+ (streaming)
 LOCATION:Cooper Field\, Washington\, DC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868014@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Georgetown Hoyas @ Fordham Rams
 DESCRIPTION:NCAA FCS Football 2026\nGeorgetown Hoyas @ Fordham Rams\nMoglia
-  Stadium at Jack Coffey Field\, Bronx\, NY
+  Stadium at Jack Coffey Field\, Bronx\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Moglia Stadium at Jack Coffey Field\, Bronx\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868021@open-sports-cal
@@ -142,11 +153,12 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Georgetown Hoyas @ Villanova Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nGeorgetown Hoyas @ Villanova Wildcats\n
- Villanova Stadium\, Philadelphia\, PA
+ Villanova Stadium\, Philadelphia\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Villanova Stadium\, Philadelphia\, PA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

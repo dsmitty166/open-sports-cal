@@ -12,11 +12,12 @@ DTSTART:20261102T170000Z
 DTEND:20261102T200000Z
 SUMMARY:Morris Hornets @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorris Hornets @ South Carolina 
- State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
+ State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangeburg\, SC\
+ nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -25,12 +26,14 @@ DTSTART:20261106T233000Z
 DTEND:20261107T023000Z
 SUMMARY:South Carolina State Bulldogs @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- South Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ South Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919733@open-sports-cal
@@ -39,11 +42,11 @@ DTEND;VALUE=DATE:20261110
 SUMMARY:South Carolina State Bulldogs @ Chicago State Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
  Chicago State Cougars\nJones Convocation Center\, Chicago\, IL\nStart time
-  TBD
+  TBD\nBroadcast: Broadcast not announced
 LOCATION:Jones Convocation Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925682@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:South Carolina State Bulldogs @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Notre Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ Notre Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: 
+ ACCNX (streaming)
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925926@open-sports-cal
@@ -64,12 +69,14 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:South Carolina State Bulldogs @ Charleston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Charleston Cougars\nTD Arena\, Charleston\, SC
+ Charleston Cougars\nTD Arena\, Charleston\, SC\nBroadcast: FloSports (stre
+ aming)
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925927@open-sports-cal
@@ -77,12 +84,14 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:South Carolina State Bulldogs @ The Citadel Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- The Citadel Bulldogs\nMcAlister Field House\, Charleston\, SC
+ The Citadel Bulldogs\nMcAlister Field House\, Charleston\, SC\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:McAlister Field House\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921157@open-sports-cal
@@ -91,11 +100,11 @@ DTEND:20261124T030000Z
 SUMMARY:North Carolina A&T Aggies @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina A&T Aggies @ Sout
  h Carolina State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orang
- eburg\, SC
+ eburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -104,12 +113,14 @@ DTSTART:20261129T003000Z
 DTEND:20261129T033000Z
 SUMMARY:South Carolina State Bulldogs @ Duquesne Dukes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Duquesne Dukes\nUPMC Cooper Fieldhouse\, Pittsburgh\, PA
+ Duquesne Dukes\nUPMC Cooper Fieldhouse\, Pittsburgh\, PA\nBroadcast: ESPN+
+  (streaming)
 LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925711@open-sports-cal
@@ -118,11 +129,11 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Winthrop Eagles @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWinthrop Eagles @ South Carolina
   State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
- \nStart time TBD
+ \nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911383@open-sports-cal
@@ -131,11 +142,11 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:Charleston Southern Buccaneers @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Southern Buccaneers @
   South Carolina State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, 
- Orangeburg\, SC\nStart time TBD
+ Orangeburg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925928@open-sports-cal
@@ -143,12 +154,14 @@ DTSTART:20261212T000000Z
 DTEND:20261212T030000Z
 SUMMARY:South Carolina State Bulldogs @ Northern Kentucky Norse
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Northern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ Northern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920981@open-sports-cal
@@ -156,12 +169,14 @@ DTSTART:20261217T003000Z
 DTEND:20261217T033000Z
 SUMMARY:South Carolina State Bulldogs @ Chattanooga Mocs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Chattanooga Mocs\nMcKenzie Arena\, Chattanooga\, TN
+ Chattanooga Mocs\nMcKenzie Arena\, Chattanooga\, TN\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919037@open-sports-cal
@@ -169,12 +184,14 @@ DTSTART:20261219T003000Z
 DTEND:20261219T033000Z
 SUMMARY:South Carolina State Bulldogs @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Wichita State Shockers\nCharles Koch Arena\, Wichita\, KS
+ Wichita State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921771@open-sports-cal
@@ -182,12 +199,14 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:South Carolina State Bulldogs @ West Virginia Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- West Virginia Mountaineers\nHope Coliseum\, Morgantown\, WV
+ West Virginia Mountaineers\nHope Coliseum\, Morgantown\, WV\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Hope Coliseum\, Morgantown\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921824@open-sports-cal
@@ -195,12 +214,14 @@ DTSTART:20261229T210000Z
 DTEND:20261230T000000Z
 SUMMARY:South Carolina State Bulldogs @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- South Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ South Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: 
+ SECN+ (streaming)
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925929@open-sports-cal
@@ -208,11 +229,12 @@ DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:South Carolina State Bulldogs @ Howard Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Howard Bison\nBurr Gymnasium\, Washington\, DC\nStart time TBD
+ Howard Bison\nBurr Gymnasium\, Washington\, DC\nStart time TBD\nBroadcast:
+  Broadcast not announced
 LOCATION:Burr Gymnasium\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925930@open-sports-cal
@@ -221,11 +243,11 @@ DTEND;VALUE=DATE:20270106
 SUMMARY:Brewton Parker Wildcats @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrewton Parker Wildcats @ South 
  Carolina State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangeb
- urg\, SC\nStart time TBD
+ urg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401931235@open-sports-cal
@@ -234,11 +256,11 @@ DTEND:20270110T000000Z
 SUMMARY:Morgan State Bears @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ South Carol
  ina State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangeburg\,
-  SC
+  SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -248,11 +270,11 @@ DTEND:20270112T030000Z
 SUMMARY:Coppin State Eagles @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCoppin State Eagles @ South Caro
  lina State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangeburg\
- , SC
+ , SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -261,11 +283,12 @@ DTSTART:20270116T213000Z
 DTEND:20270117T003000Z
 SUMMARY:South Carolina State Bulldogs @ Norfolk State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Norfolk State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA
+ Norfolk State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA\nBroadcast: B
+ roadcast not announced
 LOCATION:Joseph G. Echols Hall\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -275,11 +298,11 @@ DTEND;VALUE=DATE:20270120
 SUMMARY:Mid Atlantic Christian Mustangs @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMid Atlantic Christian Mustangs 
  @ South Carolina State Bulldogs\nSmith-Hammond-Middleton Memorial Center\,
-  Orangeburg\, SC\nStart time TBD
+  Orangeburg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925848@open-sports-cal
@@ -287,11 +310,12 @@ DTSTART:20270123T203000Z
 DTEND:20270123T233000Z
 SUMMARY:South Carolina State Bulldogs @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadcas
+ t: Broadcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -300,11 +324,12 @@ DTSTART:20270126T000000Z
 DTEND:20270126T030000Z
 SUMMARY:South Carolina State Bulldogs @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Delaware State Hornets\nMemorial Hall (DE)\, Dover\, DE
+ Delaware State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadc
+ ast not announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -313,11 +338,12 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:South Carolina State Bulldogs @ North Carolina Central Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- North Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ North Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBro
+ adcast: Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -327,11 +353,11 @@ DTEND;VALUE=DATE:20270207
 SUMMARY:Howard Bison @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ South Carolina St
  ate Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangeburg\, SC\nS
- tart time TBD
+ tart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925936@open-sports-cal
@@ -339,11 +365,12 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:South Carolina State Bulldogs @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Morgan State Bears\nHill Field House\, Baltimore\, MD
+ Morgan State Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -352,11 +379,12 @@ DTSTART:20270216T000000Z
 DTEND:20270216T030000Z
 SUMMARY:South Carolina State Bulldogs @ Coppin State Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Coppin State Eagles\nPhysical Education Complex\, Baltimore\, MD
+ Coppin State Eagles\nPhysical Education Complex\, Baltimore\, MD\nBroadcas
+ t: Broadcast not announced
 LOCATION:Physical Education Complex\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -366,11 +394,11 @@ DTEND:20270221T003000Z
 SUMMARY:Norfolk State Spartans @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorfolk State Spartans @ South C
  arolina State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangebu
- rg\, SC
+ rg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -380,11 +408,11 @@ DTEND;VALUE=DATE:20270228
 SUMMARY:Maryland Eastern Shore Hawks @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaryland Eastern Shore Hawks @ S
  outh Carolina State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Or
- angeburg\, SC\nStart time TBD
+ angeburg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925937@open-sports-cal
@@ -393,11 +421,11 @@ DTEND;VALUE=DATE:20270302
 SUMMARY:Delaware State Hornets @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ South C
  arolina State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangebu
- rg\, SC\nStart time TBD
+ rg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925938@open-sports-cal
@@ -406,10 +434,10 @@ DTEND;VALUE=DATE:20270305
 SUMMARY:North Carolina Central Eagles @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Central Eagles @ 
  South Carolina State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, O
- rangeburg\, SC\nStart time TBD
+ rangeburg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,13 @@ DTSTART:20260827T230000Z
 DTEND:20260828T020000Z
 SUMMARY:Anderson (SC) Trojans @ Furman Paladins
 DESCRIPTION:NCAA FCS Football 2026\nAnderson (SC) Trojans @ Furman Paladins
- \nPaladin Stadium\, Greenville\, SC
+ \nPaladin Stadium\, Greenville\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Paladin Stadium\, Greenville\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401856666@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260905T193000Z
 DTEND:20260905T223000Z
 SUMMARY:Furman Paladins @ Tennessee Volunteers
 DESCRIPTION:NCAA FCS Football 2026\nFurman Paladins @ Tennessee Volunteers\
- nNeyland Stadium\, Knoxville\, TN
+ nNeyland Stadium\, Knoxville\, TN\nBroadcast: SECN+ (streaming)
 LOCATION:Neyland Stadium\, Knoxville\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868374@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260912T220000Z
 DTEND:20260913T010000Z
 SUMMARY:Furman Paladins @ Mercer Bears
 DESCRIPTION:NCAA FCS Football 2026\nFurman Paladins @ Mercer Bears\nFive St
- ar Stadium\, Macon\, GA
+ ar Stadium\, Macon\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Five Star Stadium\, Macon\, GA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867984@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260919T233000Z
 DTEND:20260920T023000Z
 SUMMARY:South Carolina State Bulldogs @ Furman Paladins
 DESCRIPTION:NCAA FCS Football 2026\nSouth Carolina State Bulldogs @ Furman 
- Paladins\nPaladin Stadium\, Greenville\, SC
+ Paladins\nPaladin Stadium\, Greenville\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Paladin Stadium\, Greenville\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868037@open-sports-cal
@@ -64,12 +68,14 @@ DTSTART:20260926T180000Z
 DTEND:20260926T210000Z
 SUMMARY:Furman Paladins @ Richmond Spiders
 DESCRIPTION:NCAA FCS Football 2026\nFurman Paladins @ Richmond Spiders\nRob
- ins Stadium\, Richmond\, VA
+ ins Stadium\, Richmond\, VA\nBroadcast: ESPN+ (streaming) / Patriot League
+  TV (streaming)
 LOCATION:Robins Stadium\, Richmond\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868375@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261003T180000Z
 DTEND:20261003T210000Z
 SUMMARY:Wofford Terriers @ Furman Paladins
 DESCRIPTION:NCAA FCS Football 2026\nWofford Terriers @ Furman Paladins\nPal
- adin Stadium\, Greenville\, SC
+ adin Stadium\, Greenville\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Paladin Stadium\, Greenville\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868376@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261010T193000Z
 DTEND:20261010T223000Z
 SUMMARY:Furman Paladins @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA FCS Football 2026\nFurman Paladins @ Tennessee Tech Golden
-  Eagles\nTucker Stadium\, Cookeville\, TN
+  Eagles\nTucker Stadium\, Cookeville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Tucker Stadium\, Cookeville\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868377@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261024T180000Z
 DTEND:20261024T210000Z
 SUMMARY:Samford Bulldogs @ Furman Paladins
 DESCRIPTION:NCAA FCS Football 2026\nSamford Bulldogs @ Furman Paladins\nPal
- adin Stadium\, Greenville\, SC
+ adin Stadium\, Greenville\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Paladin Stadium\, Greenville\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868378@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261031T180000Z
 DTEND:20261031T210000Z
 SUMMARY:Western Carolina Catamounts @ Furman Paladins
 DESCRIPTION:NCAA FCS Football 2026\nWestern Carolina Catamounts @ Furman Pa
- ladins\nPaladin Stadium\, Greenville\, SC
+ ladins\nPaladin Stadium\, Greenville\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Paladin Stadium\, Greenville\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868379@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261107T190000Z
 DTEND:20261107T220000Z
 SUMMARY:Furman Paladins @ The Citadel Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nFurman Paladins @ The Citadel Bulldogs\
- nJohnson Hagood Stadium\, Charleston\, SC
+ nJohnson Hagood Stadium\, Charleston\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Johnson Hagood Stadium\, Charleston\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868344@open-sports-cal
@@ -142,12 +153,13 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Chattanooga Mocs @ Furman Paladins
 DESCRIPTION:NCAA FCS Football 2026\nChattanooga Mocs @ Furman Paladins\nPal
- adin Stadium\, Greenville\, SC
+ adin Stadium\, Greenville\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Paladin Stadium\, Greenville\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868380@open-sports-cal
@@ -155,11 +167,12 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Furman Paladins @ VMI Keydets
 DESCRIPTION:NCAA FCS Football 2026\nFurman Paladins @ VMI Keydets\nFoster S
- tadium\, Lexington\, VA
+ tadium\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Foster Stadium\, Lexington\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,13 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:Liberty Flames @ James Madison Dukes
 DESCRIPTION:NCAA FBS Football 2026\nLiberty Flames @ James Madison Dukes\nB
- ridgeforth Stadium\, Harrisonburg\, VA
+ ridgeforth Stadium\, Harrisonburg\, VA\nBroadcast: ESPNU
 LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401868187@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Liberty Flames
 DESCRIPTION:NCAA FBS Football 2026\nGardner-Webb Runnin' Bulldogs @ Liberty
-  Flames\nWilliams Stadium (VA)\, Lynchburg\, VA
+  Flames\nWilliams Stadium (VA)\, Lynchburg\, VA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Williams Stadium (VA)\, Lynchburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866422@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260919T200000Z
 DTEND:20260919T230000Z
 SUMMARY:Ball State Cardinals @ Liberty Flames
 DESCRIPTION:NCAA FBS Football 2026\nBall State Cardinals @ Liberty Flames\n
- Williams Stadium (VA)\, Lynchburg\, VA
+ Williams Stadium (VA)\, Lynchburg\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Williams Stadium (VA)\, Lynchburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869941@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260924T233000Z
 DTEND:20260925T023000Z
 SUMMARY:Liberty Flames @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA FBS Football 2026\nLiberty Flames @ Coastal Carolina Chant
- icleers\nBrooks Stadium (SC)\, Conway\, SC
+ icleers\nBrooks Stadium (SC)\, Conway\, SC\nBroadcast: ESPN
 LOCATION:Brooks Stadium (SC)\, Conway\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871050@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261002T230000Z
 DTEND:20261003T020000Z
 SUMMARY:Liberty Flames @ Delaware Blue Hens
 DESCRIPTION:NCAA FBS Football 2026\nLiberty Flames @ Delaware Blue Hens\nDe
- laware Stadium\, Newark\, DE
+ laware Stadium\, Newark\, DE\nBroadcast: CBSSN
 LOCATION:Delaware Stadium\, Newark\, DE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401870766@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261008T230000Z
 DTEND:20261009T020000Z
 SUMMARY:Sam Houston Bearkats @ Liberty Flames
 DESCRIPTION:NCAA FBS Football 2026\nSam Houston Bearkats @ Liberty Flames\n
- Williams Stadium (VA)\, Lynchburg\, VA
+ Williams Stadium (VA)\, Lynchburg\, VA\nBroadcast: ESPNU
 LOCATION:Williams Stadium (VA)\, Lynchburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871056@open-sports-cal
@@ -90,12 +97,14 @@ DTSTART:20261022T230000Z
 DTEND:20261023T020000Z
 SUMMARY:Liberty Flames @ Kennesaw State Owls
 DESCRIPTION:NCAA FBS Football 2026\nLiberty Flames @ Kennesaw State Owls\nW
- alens Family Field at Fifth Third Stadium\, Kennesaw\, GA
+ alens Family Field at Fifth Third Stadium\, Kennesaw\, GA\nBroadcast: CBSS
+ N
 LOCATION:Walens Family Field at Fifth Third Stadium\, Kennesaw\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871059@open-sports-cal
@@ -103,12 +112,13 @@ DTSTART:20261031T193000Z
 DTEND:20261031T223000Z
 SUMMARY:Florida International Panthers @ Liberty Flames
 DESCRIPTION:NCAA FBS Football 2026\nFlorida International Panthers @ Libert
- y Flames\nWilliams Stadium (VA)\, Lynchburg\, VA
+ y Flames\nWilliams Stadium (VA)\, Lynchburg\, VA\nBroadcast: CBSSN
 LOCATION:Williams Stadium (VA)\, Lynchburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401870795@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261108T010000Z
 DTEND:20261108T040000Z
 SUMMARY:Liberty Flames @ New Mexico State Aggies
 DESCRIPTION:NCAA FBS Football 2026\nLiberty Flames @ New Mexico State Aggie
- s\nAggie Memorial Stadium\, Las Cruces\, NM
+ s\nAggie Memorial Stadium\, Las Cruces\, NM\nBroadcast: ESPNU
 LOCATION:Aggie Memorial Stadium\, Las Cruces\, NM
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871061@open-sports-cal
@@ -129,12 +140,13 @@ DTSTART:20261114T203000Z
 DTEND:20261114T233000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Liberty Flames
 DESCRIPTION:NCAA FBS Football 2026\nMiddle Tennessee Blue Raiders @ Liberty
-  Flames\nWilliams Stadium (VA)\, Lynchburg\, VA
+  Flames\nWilliams Stadium (VA)\, Lynchburg\, VA\nBroadcast: CBSSN
 LOCATION:Williams Stadium (VA)\, Lynchburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871080@open-sports-cal
@@ -142,11 +154,12 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Western Kentucky Hilltoppers @ Liberty Flames
 DESCRIPTION:NCAA FBS Football 2026\nWestern Kentucky Hilltoppers @ Liberty 
- Flames\nWilliams Stadium (VA)\, Lynchburg\, VA
+ Flames\nWilliams Stadium (VA)\, Lynchburg\, VA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Williams Stadium (VA)\, Lynchburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +168,12 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:Liberty Flames @ Missouri State Bears
 DESCRIPTION:NCAA FBS Football 2026\nLiberty Flames @ Missouri State Bears\n
- Robert W. Plaster Stadium\, Springfield\, MO
+ Robert W. Plaster Stadium\, Springfield\, MO\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Robert W. Plaster Stadium\, Springfield\, MO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

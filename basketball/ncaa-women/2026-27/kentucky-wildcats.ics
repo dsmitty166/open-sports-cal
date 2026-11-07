@@ -12,13 +12,15 @@ DTSTART:20261102T233000Z
 DTEND:20261103T023000Z
 SUMMARY:Morehead State Eagles @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Kentuc
- ky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ ky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SECN+ (st
+ reaming)
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929059@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261105T233000Z
 DTEND:20261106T023000Z
 SUMMARY:Northern Kentucky Norse @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Kent
- ucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ ucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SECN+ (
+ streaming)
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913737@open-sports-cal
@@ -40,13 +44,14 @@ DTSTART:20261108T200000Z
 DTEND:20261108T230000Z
 SUMMARY:Kentucky Wildcats @ NC State Wolfpack
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ NC State W
- olfpack\nSpectrum Center\, Charlotte\, NC\nNeutral site
+ olfpack\nSpectrum Center\, Charlotte\, NC\nNeutral site\nBroadcast: ESPN2
 LOCATION:Spectrum Center\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919680@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261111T233000Z
 DTEND:20261112T023000Z
 SUMMARY:Evansville Purple Aces @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEvansville Purple Aces @ Kentu
- cky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ cky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SECN+ (s
+ treaming)
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929060@open-sports-cal
@@ -68,13 +75,15 @@ DTSTART:20261115T170000Z
 DTEND:20261115T200000Z
 SUMMARY:Eastern Michigan Eagles @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Michigan Eagles @ Kent
- ucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ ucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SEC Net
+ work
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918660@open-sports-cal
@@ -82,13 +91,15 @@ DTSTART:20261120T230000Z
 DTEND:20261121T020000Z
 SUMMARY:Marshall Thundering Herd @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Ken
- tucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ tucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SECN+ 
+ (streaming)
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915877@open-sports-cal
@@ -96,12 +107,13 @@ DTSTART:20261127T214500Z
 DTEND:20261128T004500Z
 SUMMARY:Maine Black Bears @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaine Black Bears @ Kentucky W
- ildcats\nOcean Center\, Daytona Beach\, FL\nNeutral site
+ ildcats\nOcean Center\, Daytona Beach\, FL\nNeutral site\nBroadcast: Broad
+ cast not announced
 LOCATION:Ocean Center\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +122,13 @@ DTSTART:20261128T203000Z
 DTEND:20261128T233000Z
 SUMMARY:South Dakota State Jackrabbits @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota State Jackrabbits
-  @ Kentucky Wildcats\nOcean Center\, Daytona Beach\, FL\nNeutral site
+  @ Kentucky Wildcats\nOcean Center\, Daytona Beach\, FL\nNeutral site\nBro
+ adcast: Broadcast not announced
 LOCATION:Ocean Center\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +137,14 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Clemson Tigers @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Kentucky Wild
- cats\nRupp Arena\, Lexington\, KY
+ cats\nRupp Arena\, Lexington\, KY\nBroadcast: ESPN2
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926097@open-sports-cal
@@ -138,13 +152,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Bellarmine Knights @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBellarmine Knights @ Kentucky 
- Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SECN+ (strea
+ ming)
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906086@open-sports-cal
@@ -152,13 +168,14 @@ DTSTART:20261210T020000Z
 DTEND:20261210T050000Z
 SUMMARY:Louisville Cardinals @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Kentuck
- y Wildcats\nRupp Arena\, Lexington\, KY
+ y Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: ESPN
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919918@open-sports-cal
@@ -166,12 +183,13 @@ DTSTART:20261213T170000Z
 DTEND:20261213T200000Z
 SUMMARY:Kentucky Wildcats @ Le Moyne Dolphins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ Le Moyne D
- olphins\nTed Grant Court\, Syracuse\, NY
+ olphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -180,13 +198,15 @@ DTSTART:20261220T203000Z
 DTEND:20261220T233000Z
 SUMMARY:Kentucky Wildcats @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ Virginia C
- avaliers\nBridgestone Arena\, Nashville\, TN\nNeutral site
+ avaliers\nBridgestone Arena\, Nashville\, TN\nNeutral site\nBroadcast: ESP
+ N2
 LOCATION:Bridgestone Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929061@open-sports-cal
@@ -194,13 +214,15 @@ DTSTART:20261228T200000Z
 DTEND:20261228T230000Z
 SUMMARY:Kent State Golden Flashes @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKent State Golden Flashes @ Ke
- ntucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ ntucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SECN+
+  (streaming)
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912827@open-sports-cal
@@ -208,13 +230,15 @@ DTSTART:20261231T200000Z
 DTEND:20261231T230000Z
 SUMMARY:Kentucky Wildcats @ Florida Gators
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ Florida Ga
- tors\nStephen C. O'Connell Center\, Gainesville\, FL
+ tors\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: SECN+ (st
+ reaming)
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912837@open-sports-cal
@@ -222,13 +246,14 @@ DTSTART:20270103T170000Z
 DTEND:20270103T200000Z
 SUMMARY:Auburn Tigers @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Kentucky Wildc
- ats\nMemorial Coliseum (KY)\, Lexington\, KY
+ ats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SEC Network
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912844@open-sports-cal
@@ -236,12 +261,12 @@ DTSTART:20270108T003000Z
 DTEND:20270108T033000Z
 SUMMARY:Kentucky Wildcats @ Missouri Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ Missouri T
- igers\nMizzou Arena\, Columbia\, MO
+ igers\nMizzou Arena\, Columbia\, MO\nBroadcast: Broadcast not announced
 LOCATION:Mizzou Arena\, Columbia\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -250,13 +275,14 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:Texas Longhorns @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Kentucky Wil
- dcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ dcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: ABC
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912858@open-sports-cal
@@ -264,13 +290,14 @@ DTSTART:20270115T003000Z
 DTEND:20270115T033000Z
 SUMMARY:Arkansas Razorbacks @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas Razorbacks @ Kentucky
-  Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+  Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SEC Network
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912874@open-sports-cal
@@ -278,13 +305,14 @@ DTSTART:20270122T010000Z
 DTEND:20270122T040000Z
 SUMMARY:Tennessee Lady Volunteers @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Ke
- ntucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ ntucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: ESPNU
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912879@open-sports-cal
@@ -292,12 +320,13 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Kentucky Wildcats @ Oklahoma Sooners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ Oklahoma S
- ooners\nLloyd Noble Center\, Norman\, OK
+ ooners\nLloyd Noble Center\, Norman\, OK\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Lloyd Noble Center\, Norman\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -306,13 +335,15 @@ DTSTART:20270129T013000Z
 DTEND:20270129T043000Z
 SUMMARY:Alabama Crimson Tide @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Kentuck
- y Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ y Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SEC Networ
+ k
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912893@open-sports-cal
@@ -320,13 +351,14 @@ DTSTART:20270131T200000Z
 DTEND:20270131T230000Z
 SUMMARY:Kentucky Wildcats @ South Carolina Gamecocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ South Caro
- lina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ lina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: ESPN
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912901@open-sports-cal
@@ -334,13 +366,14 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:LSU Tigers @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU Tigers @ Kentucky Wildcats
- \nMemorial Coliseum (KY)\, Lexington\, KY
+ \nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: ESPN2
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912908@open-sports-cal
@@ -348,13 +381,14 @@ DTSTART:20270207T170000Z
 DTEND:20270207T200000Z
 SUMMARY:Kentucky Wildcats @ Georgia Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ Georgia La
- dy Bulldogs\nStegeman Coliseum\, Athens\, GA
+ dy Bulldogs\nStegeman Coliseum\, Athens\, GA\nBroadcast: SEC Network
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912917@open-sports-cal
@@ -362,12 +396,13 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Kentucky Wildcats @ Ole Miss Rebels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ Ole Miss R
- ebels\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+ ebels\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS\nBroadc
+ ast: Broadcast not announced
 LOCATION:The Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,13 +411,14 @@ DTSTART:20270215T230000Z
 DTEND:20270216T020000Z
 SUMMARY:Vanderbilt Commodores @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Kentuc
- ky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ ky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: ESPN2
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912932@open-sports-cal
@@ -390,13 +426,14 @@ DTSTART:20270221T180000Z
 DTEND:20270221T210000Z
 SUMMARY:Kentucky Wildcats @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ Tennessee 
- Lady Volunteers\nFood City Center\, Knoxville\, TN
+ Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SEC Network
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912939@open-sports-cal
@@ -404,12 +441,13 @@ DTSTART:20270226T010000Z
 DTEND:20270226T040000Z
 SUMMARY:Kentucky Wildcats @ Texas A&M Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Wildcats @ Texas A&M 
- Aggies\nReed Arena\, College Station\, TX
+ Aggies\nReed Arena\, College Station\, TX\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +456,14 @@ DTSTART:20270228T190000Z
 DTEND:20270228T220000Z
 SUMMARY:Mississippi State Bulldogs @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ K
- entucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ entucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SEC 
+ Network
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 END:VCALENDAR

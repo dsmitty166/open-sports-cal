@@ -170,3 +170,8 @@ Only published regular-season matchups with identified teams are included. No es
 ## Data Source
 
 [ESPN NCAA FCS Football schedules](https://www.espn.com/college-football/schedule), using ESPN's public JSON team-schedule API. ESPN is a third-party broadcaster, not the NCAA; it is used here as the existing NFL calendars do. Division membership comes from ESPN's season group hierarchy.
+
+
+## TV and Streaming
+
+Published US TV and streaming networks are included in event descriptions and shown in the online calendar. ESPN is the broadcaster-listing source; listings refresh with the daily schedule update. Missing listings display **Broadcast not announced**. Streaming services are labeled separately. These are network names, not local channel numbers, watch links, or guarantees of availability in your region or subscription.

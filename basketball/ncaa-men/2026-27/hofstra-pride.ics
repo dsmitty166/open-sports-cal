@@ -13,12 +13,13 @@ DTEND:20261102T193000Z
 SUMMARY:St. Joseph's Long Island Golden Eagles @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Joseph's Long Island Golden 
  Eagles @ Hofstra Pride\nDavid S. Mack Sports and Exhibition Complex\, Hemp
- stead\, NY
+ stead\, NY\nBroadcast: FloSports (streaming)
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924733@open-sports-cal
@@ -26,12 +27,13 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Hofstra Pride @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Princeton Tigers
- \nJadwin Gymnasium\, Princeton\, NJ
+ \nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921733@open-sports-cal
@@ -39,12 +41,14 @@ DTSTART:20261111T020000Z
 DTEND:20261111T050000Z
 SUMMARY:Hofstra Pride @ Arizona State Sun Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Arizona State Su
- n Devils\nDesert Financial Arena\, Tempe\, AZ
+ n Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921191@open-sports-cal
@@ -52,12 +56,14 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Iona Gaels @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIona Gaels @ Hofstra Pride\nDavi
- d S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ d S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadcast: FloSp
+ orts (streaming)
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927381@open-sports-cal
@@ -65,12 +71,14 @@ DTSTART:20261117T170000Z
 DTEND:20261117T200000Z
 SUMMARY:Hofstra Pride @ Murray State Racers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Murray State Rac
- ers\nLanders Center\, Southaven\, MS\nNeutral site
+ ers\nLanders Center\, Southaven\, MS\nNeutral site\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Landers Center\, Southaven\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920774@open-sports-cal
@@ -78,11 +86,12 @@ DTSTART:20261127T203000Z
 DTEND:20261127T233000Z
 SUMMARY:Colgate Raiders @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColgate Raiders @ Hofstra Pride\
- nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadcast: 
+ Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -91,11 +100,12 @@ DTSTART:20261128T203000Z
 DTEND:20261128T233000Z
 SUMMARY:Merrimack Warriors @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMerrimack Warriors @ Hofstra Pri
- de\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ de\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadcas
+ t: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -104,11 +114,12 @@ DTSTART:20261129T193000Z
 DTEND:20261129T223000Z
 SUMMARY:Vermont Catamounts @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Hofstra Pri
- de\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ de\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadcas
+ t: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -117,12 +128,14 @@ DTSTART:20261202T023000Z
 DTEND:20261202T053000Z
 SUMMARY:Hofstra Pride @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Saint Mary's Gae
- ls\nUniversity Credit Union Pavilion\, Moraga\, CA
+ ls\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921812@open-sports-cal
@@ -130,12 +143,13 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Hofstra Pride @ LSU Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ LSU Tigers\nPete
-  Maravich Assembly Center\, Baton Rouge\, LA
+  Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: SECN+ (streaming)
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924707@open-sports-cal
@@ -143,11 +157,11 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:Hofstra Pride @ Columbia Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Columbia Lions\n
- Levien Gymnasium\, New York\, NY
+ Levien Gymnasium\, New York\, NY\nBroadcast: Broadcast not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -156,11 +170,11 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Hofstra Pride @ Quinnipiac Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Quinnipiac Bobca
- ts\nM&T Bank Arena\, Hamden\, CT
+ ts\nM&T Bank Arena\, Hamden\, CT\nBroadcast: Broadcast not announced
 LOCATION:M&T Bank Arena\, Hamden\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -169,11 +183,12 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Bucknell Bison @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBucknell Bison @ Hofstra Pride\n
- David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ David S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -182,11 +197,12 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:Molloy Lions @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMolloy Lions @ Hofstra Pride\nDa
- vid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ vid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadcast: Bro
+ adcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -195,11 +211,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Stony Brook Seawolves @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStony Brook Seawolves @ Hofstra 
- Pride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ Pride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroad
+ cast: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,11 +225,11 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Hofstra Pride @ Towson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Towson Tigers\nS
- ECU Arena\, Towson\, MD
+ ECU Arena\, Towson\, MD\nBroadcast: Broadcast not announced
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -221,11 +238,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:William & Mary Tribe @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Hofstra P
- ride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ ride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadc
+ ast: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -234,11 +252,11 @@ DTSTART:20270114T233000Z
 DTEND:20270115T023000Z
 SUMMARY:Hofstra Pride @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Elon Phoenix\nSc
- har Center\, Elon\, NC
+ har Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +265,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Hofstra Pride @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Hampton Pirates\
- nConvocation Center (VA)\, Hampton\, VA
+ nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +279,12 @@ DTSTART:20270119T000000Z
 DTEND:20270119T030000Z
 SUMMARY:Drexel Dragons @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDrexel Dragons @ Hofstra Pride\n
- David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ David S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +293,12 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Northeastern Huskies @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNortheastern Huskies @ Hofstra P
- ride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ ride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadc
+ ast: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +307,12 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:UNC Wilmington Seahawks @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Hofstr
- a Pride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ a Pride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBro
+ adcast: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +321,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Hofstra Pride @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Campbell Fightin
- g Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ g Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\nBroadcas
+ t: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +335,11 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Hofstra Pride @ Charleston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Charleston Couga
- rs\nTD Arena\, Charleston\, SC
+ rs\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +348,12 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:North Carolina A&T Aggies @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina A&T Aggies @ Hofs
- tra Pride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ tra Pride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nB
+ roadcast: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +362,12 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:Towson Tigers @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTowson Tigers @ Hofstra Pride\nD
- avid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ avid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +376,11 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Hofstra Pride @ Northeastern Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Northeastern Hus
- kies\nCabot Center\, Boston\, MA
+ kies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +389,12 @@ DTSTART:20270216T013000Z
 DTEND:20270216T043000Z
 SUMMARY:Hofstra Pride @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Monmouth Hawks\n
- Hackensack Meridian Athletic Center\, West Long Branch\, NJ
+ Hackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroadcast: Br
+ oadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +403,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Charleston Cougars @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Cougars @ Hofstra Pri
- de\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ de\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadcas
+ t: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +417,12 @@ DTSTART:20270223T000000Z
 DTEND:20270223T030000Z
 SUMMARY:Hofstra Pride @ Stony Brook Seawolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Stony Brook Seaw
- olves\nStony Brook Arena\, Stony Brook\, NY
+ olves\nStony Brook Arena\, Stony Brook\, NY\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Stony Brook Arena\, Stony Brook\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -403,11 +431,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Hofstra Pride @ Drexel Dragons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Drexel Dragons\n
- Daskalakis Athletic Center\, Philadelphia\, PA
+ Daskalakis Athletic Center\, Philadelphia\, PA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Daskalakis Athletic Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -416,11 +445,12 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Monmouth Hawks @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Hofstra Pride\n
- David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ David S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

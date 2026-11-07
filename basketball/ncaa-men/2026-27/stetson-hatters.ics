@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Stetson Hatters @ Clemson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Clemson Tigers
- \nLittlejohn Coliseum\, Clemson\, SC
+ \nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACCNX (streaming)
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921819@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Stetson Hatters @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ South Carolina
-  Gamecocks\nColonial Life Arena\, Columbia\, SC
+  Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SECN+ (streami
+ ng)
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921767@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Stetson Hatters @ West Virginia Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ West Virginia 
- Mountaineers\nHope Coliseum\, Morgantown\, WV
+ Mountaineers\nHope Coliseum\, Morgantown\, WV\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Hope Coliseum\, Morgantown\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922239@open-sports-cal
@@ -51,11 +56,12 @@ DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Stetson Hatters @ Howard Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Howard Bison\n
- Burr Gymnasium\, Washington\, DC\nStart time TBD
+ Burr Gymnasium\, Washington\, DC\nStart time TBD\nBroadcast: Broadcast not
+  announced
 LOCATION:Burr Gymnasium\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922240@open-sports-cal
@@ -63,12 +69,14 @@ DTSTART:20261117T000000Z
 DTEND:20261117T030000Z
 SUMMARY:Florida Memorial Lions @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Memorial Lions @ Stetson
-  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918950@open-sports-cal
@@ -76,12 +84,13 @@ DTSTART:20261120T010000Z
 DTEND:20261120T040000Z
 SUMMARY:Stetson Hatters @ Louisville Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Louisville Car
- dinals\nKFC Yum! Center\, Louisville\, KY
+ dinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACC Network
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918996@open-sports-cal
@@ -89,12 +98,13 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Stetson Hatters @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ South Florida 
- Bulls\nYuengling Center\, Tampa\, FL
+ Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922241@open-sports-cal
@@ -102,12 +112,14 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:New College Mighty Banyans @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew College Mighty Banyans @ Ste
- tson Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ tson Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\n
+ Broadcast: ESPN+ (streaming)
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922242@open-sports-cal
@@ -116,12 +128,13 @@ DTEND:20261203T030000Z
 SUMMARY:Trinity College of Jacksonville Eagles @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTrinity College of Jacksonville 
  Eagles @ Stetson Hatters\nInsight Credit Union Arena at Edmunds Center\, D
- eLand\, FL
+ eLand\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921724@open-sports-cal
@@ -129,12 +142,13 @@ DTSTART:20261205T220000Z
 DTEND:20261206T010000Z
 SUMMARY:Stetson Hatters @ Miami Hurricanes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Miami Hurrican
- es\nWatsco Center\, Coral Gables\, FL
+ es\nWatsco Center\, Coral Gables\, FL\nBroadcast: ACC Network
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921750@open-sports-cal
@@ -142,12 +156,13 @@ DTSTART:20261215T000000Z
 DTEND:20261215T030000Z
 SUMMARY:Stetson Hatters @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Cincinnati Bea
- rcats\nFifth Third Arena\, Cincinnati\, OH
+ rcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922243@open-sports-cal
@@ -155,12 +170,13 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Stetson Hatters @ Wright State Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Wright State R
- aiders\nNutter Center\, Dayton\, OH
+ aiders\nNutter Center\, Dayton\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Nutter Center\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917973@open-sports-cal
@@ -168,12 +184,14 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Abilene Christian Wildcats @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Ste
- tson Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ tson Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\n
+ Broadcast: ESPN+ (streaming)
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922244@open-sports-cal
@@ -181,12 +199,14 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Tarleton State Texans @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTarleton State Texans @ Stetson 
- Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917946@open-sports-cal
@@ -194,12 +214,13 @@ DTSTART:20261229T003000Z
 DTEND:20261229T033000Z
 SUMMARY:Stetson Hatters @ Central Arkansas Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Central Arkans
- as Bears\nFarris Center\, Conway\, AR
+ as Bears\nFarris Center\, Conway\, AR\nBroadcast: ESPN+ (streaming)
 LOCATION:Farris Center\, Conway\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922245@open-sports-cal
@@ -207,12 +228,14 @@ DTSTART:20261231T010000Z
 DTEND:20261231T040000Z
 SUMMARY:Stetson Hatters @ Little Rock Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Little Rock Tr
- ojans\nJack Stephens Center\, Little Rock\, AR
+ ojans\nJack Stephens Center\, Little Rock\, AR\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Jack Stephens Center\, Little Rock\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922246@open-sports-cal
@@ -220,11 +243,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:UT Arlington Mavericks @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Stetson
-  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroa
+ dcast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +257,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Florida Gulf Coast Eagles @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Stet
- son Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ son Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nB
+ roadcast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +271,11 @@ DTSTART:20270115T010000Z
 DTEND:20270115T040000Z
 SUMMARY:Stetson Hatters @ Lipscomb Bisons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Lipscomb Bison
- s\nAllen Arena\, Nashville\, TN
+ s\nAllen Arena\, Nashville\, TN\nBroadcast: Broadcast not announced
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +284,11 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Stetson Hatters @ Bellarmine Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Bellarmine Kni
- ghts\nKnights Hall\, Louisville\, KY
+ ghts\nKnights Hall\, Louisville\, KY\nBroadcast: Broadcast not announced
 LOCATION:Knights Hall\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +297,12 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Queens University Royals @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nQueens University Royals @ Stets
- on Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ on Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBr
+ oadcast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +311,12 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:West Florida Argonauts @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Florida Argonauts @ Stetson
-  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroa
+ dcast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +325,11 @@ DTSTART:20270129T010000Z
 DTEND:20270129T040000Z
 SUMMARY:Stetson Hatters @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ North Florida 
- Ospreys\nUNF Arena\, Jacksonville\, FL
+ Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: Broadcast not announced
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +338,12 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Stetson Hatters @ Jacksonville Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Jacksonville D
- olphins\nSwisher Gymnasium\, Jacksonville\, FL
+ olphins\nSwisher Gymnasium\, Jacksonville\, FL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Swisher Gymnasium\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +352,12 @@ DTSTART:20270203T000000Z
 DTEND:20270203T030000Z
 SUMMARY:Fort Lauderdale Eagles @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFort Lauderdale Eagles @ Stetson
-  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroa
+ dcast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +366,12 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Stetson Hatters @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Florida Gulf C
- oast Eagles\nAlico Arena\, Fort Myers\, FL
+ oast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +380,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Bellarmine Knights @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBellarmine Knights @ Stetson Hat
- ters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ ters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroadcas
+ t: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +394,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Lipscomb Bisons @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLipscomb Bisons @ Stetson Hatter
- s\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ s\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroadcast: 
+ Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +408,12 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Stetson Hatters @ West Florida Argonauts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ West Florida A
- rgonauts\nUWF Field House\, Pensacola\, FL
+ rgonauts\nUWF Field House\, Pensacola\, FL\nBroadcast: Broadcast not annou
+ nced
 LOCATION:UWF Field House\, Pensacola\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +422,12 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:Stetson Hatters @ Queens University Royals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Queens Univers
- ity Royals\nCurry Arena\, Charlotte\, NC
+ ity Royals\nCurry Arena\, Charlotte\, NC\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Curry Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +436,12 @@ DTSTART:20270226T003000Z
 DTEND:20270226T033000Z
 SUMMARY:Jacksonville Dolphins @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville Dolphins @ Stetson 
- Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroad
+ cast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +450,12 @@ DTSTART:20270227T203000Z
 DTEND:20270227T233000Z
 SUMMARY:North Florida Ospreys @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Stetson 
- Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroad
+ cast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

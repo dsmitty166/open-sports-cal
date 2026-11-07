@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Rider Broncs @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Pittsburgh Panthe
- rs\nPetersen Events Center\, Pittsburgh\, PA
+ rs\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921681@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:New Hampshire Wildcats @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Rider B
- roncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ roncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911274@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261108T210000Z
 DTEND:20261109T000000Z
 SUMMARY:Rider Broncs @ Binghamton Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Binghamton Bearca
- ts\nEvents Center (Binghamton)\, Binghamton\, NY
+ ts\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924870@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:William Paterson Pioneers @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam Paterson Pioneers @ Ride
- r Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ r Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921775@open-sports-cal
@@ -64,12 +71,13 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:Rider Broncs @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Villanova Wildcat
- s\nFinneran Pavilion\, Villanova\, PA
+ s\nFinneran Pavilion\, Villanova\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921722@open-sports-cal
@@ -77,12 +85,13 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Rider Broncs @ Miami Hurricanes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Miami Hurricanes\
- nWatsco Center\, Coral Gables\, FL
+ nWatsco Center\, Coral Gables\, FL\nBroadcast: ACCNX (streaming)
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921222@open-sports-cal
@@ -90,12 +99,14 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Navy Midshipmen @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNavy Midshipmen @ Rider Broncs\n
- Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ Alumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921266@open-sports-cal
@@ -103,12 +114,13 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Rider Broncs @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Loyola Maryland G
- reyhounds\nReitz Arena\, Baltimore\, MD
+ reyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: ESPN+ (streaming)
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401912232@open-sports-cal
@@ -116,12 +128,13 @@ DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:Rider Broncs @ Army Black Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Army Black Knight
- s\nChristl Arena\, West Point\, NY
+ s\nChristl Arena\, West Point\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Christl Arena\, West Point\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920687@open-sports-cal
@@ -129,12 +142,13 @@ DTSTART:20261130T233000Z
 DTEND:20261201T023000Z
 SUMMARY:Rider Broncs @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ UConn Huskies\nM&
- T Bank Center at Gampel Pavilion\, Storrs\, CT
+ T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: FS1
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920281@open-sports-cal
@@ -142,12 +156,14 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:Rider Broncs @ Canisius Golden Griffins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Canisius Golden G
- riffins\nKoessler Athletic Center\, Buffalo\, NY
+ riffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924846@open-sports-cal
@@ -155,12 +171,13 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Rider Broncs @ Niagara Purple Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Niagara Purple Ea
- gles\nGallagher Center\, Niagara Falls\, NY
+ gles\nGallagher Center\, Niagara Falls\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Gallagher Center\, Niagara Falls\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909519@open-sports-cal
@@ -168,12 +185,13 @@ DTSTART:20261209T233000Z
 DTEND:20261210T023000Z
 SUMMARY:Rider Broncs @ Georgetown Hoyas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Georgetown Hoyas\
- nCapital One Arena\, Washington\, DC
+ nCapital One Arena\, Washington\, DC\nBroadcast: ESPN+ (streaming)
 LOCATION:Capital One Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924864@open-sports-cal
@@ -181,12 +199,14 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:Quinnipiac Bobcats @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nQuinnipiac Bobcats @ Rider Bronc
- s\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ s\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924768@open-sports-cal
@@ -194,11 +214,12 @@ DTSTART:20270102T000000Z
 DTEND:20270102T030000Z
 SUMMARY:Fairfield Stags @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFairfield Stags @ Rider Broncs\n
- Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ Alumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +228,12 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:Rider Broncs @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Saint Peter's Pea
- cocks\nYanitelli Center\, Jersey City\, NJ
+ cocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +242,12 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMount St. Mary's Mountaineers @ 
- Rider Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ Rider Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Br
+ oadcast not announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +256,11 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Rider Broncs @ Iona Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Iona Gaels\nHynes
-  Athletics Center\, New Rochelle\, NY
+  Athletics Center\, New Rochelle\, NY\nBroadcast: Broadcast not announced
 LOCATION:Hynes Athletics Center\, New Rochelle\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +269,11 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Rider Broncs @ Manhattan Jaspers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Manhattan Jaspers
- \nDraddy Gymnasium\, Riverdale\, NY
+ \nDraddy Gymnasium\, Riverdale\, NY\nBroadcast: Broadcast not announced
 LOCATION:Draddy Gymnasium\, Riverdale\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +282,12 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Marist Red Foxes @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarist Red Foxes @ Rider Broncs\
- nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +296,11 @@ DTSTART:20270123T000000Z
 DTEND:20270123T030000Z
 SUMMARY:Rider Broncs @ Fairfield Stags
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Fairfield Stags\n
- Leo D. Mahoney Arena\, Fairfield\, CT
+ Leo D. Mahoney Arena\, Fairfield\, CT\nBroadcast: Broadcast not announced
 LOCATION:Leo D. Mahoney Arena\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +309,12 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Saint Peter's Peacocks @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Rider B
- roncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ roncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast
+  not announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +323,12 @@ DTSTART:20270130T000000Z
 DTEND:20270130T030000Z
 SUMMARY:Sacred Heart Pioneers @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSacred Heart Pioneers @ Rider Br
- oncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ oncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast 
+ not announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +337,11 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:Rider Broncs @ Quinnipiac Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Quinnipiac Bobcat
- s\nM&T Bank Arena\, Hamden\, CT
+ s\nM&T Bank Arena\, Hamden\, CT\nBroadcast: Broadcast not announced
 LOCATION:M&T Bank Arena\, Hamden\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +350,12 @@ DTSTART:20270207T190000Z
 DTEND:20270207T220000Z
 SUMMARY:Merrimack Warriors @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMerrimack Warriors @ Rider Bronc
- s\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ s\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast not
+  announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +364,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Rider Broncs @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Mount St. Mary's 
- Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +378,12 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:Manhattan Jaspers @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nManhattan Jaspers @ Rider Broncs
- \nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ \nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast not 
+ announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +392,11 @@ DTSTART:20270220T000000Z
 DTEND:20270220T030000Z
 SUMMARY:Rider Broncs @ Siena Saints
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Siena Saints\nMVP
-  Arena\, Albany\, NY
+  Arena\, Albany\, NY\nBroadcast: Broadcast not announced
 LOCATION:MVP Arena\, Albany\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +405,11 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:Rider Broncs @ Marist Red Foxes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Marist Red Foxes\
- nMcCann Arena\, Poughkeepsie\, NY
+ nMcCann Arena\, Poughkeepsie\, NY\nBroadcast: Broadcast not announced
 LOCATION:McCann Arena\, Poughkeepsie\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +418,12 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:Niagara Purple Eagles @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNiagara Purple Eagles @ Rider Br
- oncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ oncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast 
+ not announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +432,12 @@ DTSTART:20270228T190000Z
 DTEND:20270228T220000Z
 SUMMARY:Canisius Golden Griffins @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCanisius Golden Griffins @ Rider
-  Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+  Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadca
+ st not announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

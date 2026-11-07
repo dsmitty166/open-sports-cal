@@ -12,13 +12,15 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Florida Gulf Coast Eagles @ Indiana Hoosiers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ In
- diana Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+ diana Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN\nBroadcast: 
+ B1G+ (streaming)
 LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918704@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261107T190000Z
 DTEND:20261107T220000Z
 SUMMARY:Arkansas State Red Wolves @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas State Red Wolves @ Fl
- orida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ orida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927022@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Ave Maria Gyrenes @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAve Maria Gyrenes @ Florida Gu
- lf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ lf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926033@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Florida Atlantic Owls @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ Florid
- a Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ a Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918851@open-sports-cal
@@ -68,13 +76,15 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Florida Gulf Coast Eagles @ South Carolina Gamecocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ So
- uth Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ uth Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SE
+ CN+ (streaming)
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918687@open-sports-cal
@@ -83,13 +93,14 @@ DTEND:20261121T020000Z
 SUMMARY:Florida Gulf Coast Eagles @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Ge
  orgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesb
- oro\, GA
+ oro\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927023@open-sports-cal
@@ -97,13 +108,15 @@ DTSTART:20261124T190000Z
 DTEND:20261124T220000Z
 SUMMARY:Fresno State Bulldogs @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFresno State Bulldogs @ Florid
- a Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ a Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927024@open-sports-cal
@@ -111,12 +124,13 @@ DTSTART:20261127T233000Z
 DTEND:20261128T023000Z
 SUMMARY:Tennessee Lady Volunteers @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Fl
- orida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ orida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadca
+ st not announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -125,12 +139,13 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Florida Gulf Coast Eagles @ Florida A&M Rattlers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Fl
- orida A&M Rattlers\nAl Lawson Center\, Tallahassee\, FL
+ orida A&M Rattlers\nAl Lawson Center\, Tallahassee\, FL\nBroadcast: Broadc
+ ast not announced
 LOCATION:Al Lawson Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -139,13 +154,15 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Florida Gulf Coast Eagles @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Ap
- p State Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ p State Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921083@open-sports-cal
@@ -153,13 +170,15 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:George Mason Patriots @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorge Mason Patriots @ Florid
- a Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ a Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923337@open-sports-cal
@@ -167,13 +186,15 @@ DTSTART:20261219T200000Z
 DTEND:20261219T230000Z
 SUMMARY:Florida Gulf Coast Eagles @ UT Arlington Mavericks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ UT
-  Arlington Mavericks\nCollege Park Center\, Arlington\, TX
+  Arlington Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918549@open-sports-cal
@@ -181,13 +202,15 @@ DTSTART:20261221T190000Z
 DTEND:20261221T220000Z
 SUMMARY:Florida Gulf Coast Eagles @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Ab
- ilene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ ilene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927026@open-sports-cal
@@ -195,13 +218,15 @@ DTSTART:20261228T220000Z
 DTEND:20261229T010000Z
 SUMMARY:New College Mighty Banyans @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew College Mighty Banyans @ F
- lorida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ lorida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918527@open-sports-cal
@@ -209,13 +234,15 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Central Arkansas Sugar Bears @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Arkansas Sugar Bears @
-  Florida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+  Florida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927027@open-sports-cal
@@ -223,12 +250,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Little Rock Trojans @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLittle Rock Trojans @ Florida 
- Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -237,12 +265,13 @@ DTSTART:20270106T010000Z
 DTEND:20270106T040000Z
 SUMMARY:Florida Gulf Coast Eagles @ Tarleton State Texans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Ta
- rleton State Texans\nEECU Center\, Stephenville\, TX
+ rleton State Texans\nEECU Center\, Stephenville\, TX\nBroadcast: Broadcast
+  not announced
 LOCATION:EECU Center\, Stephenville\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -251,12 +280,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Stetson Hatters @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStetson Hatters @ Florida Gulf
-  Coast Eagles\nAlico Arena\, Fort Myers\, FL
+  Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -265,12 +295,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Queens University Royals @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nQueens University Royals @ Flo
- rida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ rida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcas
+ t not announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -279,12 +310,13 @@ DTSTART:20270116T170000Z
 DTEND:20270116T200000Z
 SUMMARY:West Florida Argonauts @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWest Florida Argonauts @ Flori
- da Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ da Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast 
+ not announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -293,12 +325,13 @@ DTSTART:20270121T233000Z
 DTEND:20270122T023000Z
 SUMMARY:Florida Gulf Coast Eagles @ Bellarmine Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Be
- llarmine Knights\nKnights Hall\, Louisville\, KY
+ llarmine Knights\nKnights Hall\, Louisville\, KY\nBroadcast: Broadcast not
+  announced
 LOCATION:Knights Hall\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +340,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Florida Gulf Coast Eagles @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Li
- pscomb Bisons\nAllen Arena\, Nashville\, TN
+ pscomb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -321,12 +355,13 @@ DTSTART:20270128T233000Z
 DTEND:20270129T023000Z
 SUMMARY:Florida Gulf Coast Eagles @ Jacksonville Dolphins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Ja
- cksonville Dolphins\nSwisher Gymnasium\, Jacksonville\, FL
+ cksonville Dolphins\nSwisher Gymnasium\, Jacksonville\, FL\nBroadcast: Bro
+ adcast not announced
 LOCATION:Swisher Gymnasium\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -335,12 +370,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Florida Gulf Coast Eagles @ North Florida Ospreys
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ No
- rth Florida Ospreys\nUNF Arena\, Jacksonville\, FL
+ rth Florida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: Broadcast n
+ ot announced
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,12 +385,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Lipscomb Bisons @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Florida Gulf
-  Coast Eagles\nAlico Arena\, Fort Myers\, FL
+  Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +400,13 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:Bellarmine Knights @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBellarmine Knights @ Florida G
- ulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ ulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast not 
+ announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +415,13 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Florida Gulf Coast Eagles @ West Florida Argonauts
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ We
- st Florida Argonauts\nUWF Field House\, Pensacola\, FL
+ st Florida Argonauts\nUWF Field House\, Pensacola\, FL\nBroadcast: Broadca
+ st not announced
 LOCATION:UWF Field House\, Pensacola\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +430,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Florida Gulf Coast Eagles @ Queens University Royals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Qu
- eens University Royals\nCurry Arena\, Charlotte\, NC
+ eens University Royals\nCurry Arena\, Charlotte\, NC\nBroadcast: Broadcast
+  not announced
 LOCATION:Curry Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +445,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Florida Gulf Coast Eagles @ Stetson Hatters
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ St
- etson Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ etson Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\
+ nBroadcast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +460,13 @@ DTSTART:20270225T220000Z
 DTEND:20270226T010000Z
 SUMMARY:North Florida Ospreys @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Florida Ospreys @ Florid
- a Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ a Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -433,12 +475,13 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Jacksonville Dolphins @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJacksonville Dolphins @ Florid
- a Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ a Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

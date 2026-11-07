@@ -12,12 +12,13 @@ DTSTART:20260905T163000Z
 DTEND:20260905T193000Z
 SUMMARY:Ball State Cardinals @ Ohio State Buckeyes
 DESCRIPTION:NCAA FBS Football 2026\nBall State Cardinals @ Ohio State Bucke
- yes\nOhio Stadium\, Columbus\, OH
+ yes\nOhio Stadium\, Columbus\, OH\nBroadcast: BTN
 LOCATION:Ohio Stadium\, Columbus\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856682@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T233000Z
 DTEND:20260913T023000Z
 SUMMARY:Ohio State Buckeyes @ Texas Longhorns
 DESCRIPTION:NCAA FBS Football 2026\nOhio State Buckeyes @ Texas Longhorns\n
- DKR-Texas Memorial Stadium\, Austin\, TX
+ DKR-Texas Memorial Stadium\, Austin\, TX\nBroadcast: ABC
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858454@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 SUMMARY:Kent State Golden Flashes @ Ohio State Buckeyes
 DESCRIPTION:NCAA FBS Football 2026\nKent State Golden Flashes @ Ohio State 
- Buckeyes\nOhio Stadium\, Columbus\, OH
+ Buckeyes\nOhio Stadium\, Columbus\, OH\nBroadcast: Fox
 LOCATION:Ohio Stadium\, Columbus\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858465@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T160000Z
 DTEND:20260926T190000Z
 SUMMARY:Illinois Fighting Illini @ Ohio State Buckeyes
 DESCRIPTION:NCAA FBS Football 2026\nIllinois Fighting Illini @ Ohio State B
- uckeyes\nOhio Stadium\, Columbus\, OH
+ uckeyes\nOhio Stadium\, Columbus\, OH\nBroadcast: Fox
 LOCATION:Ohio Stadium\, Columbus\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858473@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Ohio State Buckeyes @ Iowa Hawkeyes
 DESCRIPTION:NCAA FBS Football 2026\nOhio State Buckeyes @ Iowa Hawkeyes\nKi
- nnick Stadium\, Iowa City\, IA
+ nnick Stadium\, Iowa City\, IA\nBroadcast: CBS
 LOCATION:Kinnick Stadium\, Iowa City\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858483@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T201500Z
 DTEND:20261010T231500Z
 SUMMARY:Maryland Terrapins @ Ohio State Buckeyes
 DESCRIPTION:NCAA FBS Football 2026\nMaryland Terrapins @ Ohio State Buckeye
- s\nOhio Stadium\, Columbus\, OH
+ s\nOhio Stadium\, Columbus\, OH\nBroadcast: BTN
 LOCATION:Ohio Stadium\, Columbus\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858488@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261017T160000Z
 DTEND:20261017T190000Z
 SUMMARY:Ohio State Buckeyes @ Indiana Hoosiers
 DESCRIPTION:NCAA FBS Football 2026\nOhio State Buckeyes @ Indiana Hoosiers\
- nMemorial Stadium (Bloomington\, IN)\, Bloomington\, IN
+ nMemorial Stadium (Bloomington\, IN)\, Bloomington\, IN\nBroadcast: Fox
 LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858509@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261031T233000Z
 DTEND:20261101T023000Z
 SUMMARY:Ohio State Buckeyes @ USC Trojans
 DESCRIPTION:NCAA FBS Football 2026\nOhio State Buckeyes @ USC Trojans\nLos 
- Angeles Memorial Coliseum\, Los Angeles\, CA
+ Angeles Memorial Coliseum\, Los Angeles\, CA\nBroadcast: NBC
 LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858514@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261107T203000Z
 DTEND:20261107T233000Z
 SUMMARY:Oregon Ducks @ Ohio State Buckeyes
 DESCRIPTION:NCAA FBS Football 2026\nOregon Ducks @ Ohio State Buckeyes\nOhi
- o Stadium\, Columbus\, OH
+ o Stadium\, Columbus\, OH\nBroadcast: CBS
 LOCATION:Ohio Stadium\, Columbus\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858522@open-sports-cal
@@ -129,12 +138,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Northwestern Wildcats @ Ohio State Buckeyes
 DESCRIPTION:NCAA FBS Football 2026\nNorthwestern Wildcats @ Ohio State Buck
- eyes\nOhio Stadium\, Columbus\, OH
+ eyes\nOhio Stadium\, Columbus\, OH\nBroadcast: Fox
 LOCATION:Ohio Stadium\, Columbus\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858531@open-sports-cal
@@ -142,11 +152,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Ohio State Buckeyes @ Nebraska Cornhuskers
 DESCRIPTION:NCAA FBS Football 2026\nOhio State Buckeyes @ Nebraska Cornhusk
- ers\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE\nStart time TBD
+ ers\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE\nStart time TBD\nBroad
+ cast: Broadcast not announced
 LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858540@open-sports-cal
@@ -154,11 +165,12 @@ DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 SUMMARY:Michigan Wolverines @ Ohio State Buckeyes
 DESCRIPTION:NCAA FBS Football 2026\nMichigan Wolverines @ Ohio State Buckey
- es\nOhio Stadium\, Columbus\, OH
+ es\nOhio Stadium\, Columbus\, OH\nBroadcast: Fox
 LOCATION:Ohio Stadium\, Columbus\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 END:VCALENDAR

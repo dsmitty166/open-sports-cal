@@ -12,13 +12,14 @@ DTSTART:20261104T020000Z
 DTEND:20261104T050000Z
 SUMMARY:Idaho State Bengals @ BYU Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ BYU Coug
- ars\nMarriott Center\, Provo\, UT
+ ars\nMarriott Center\, Provo\, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:Marriott Center\, Provo\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926983@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261107T020000Z
 DTEND:20261107T050000Z
 SUMMARY:Westminster (UT) Griffins @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestminster (UT) Griffins @ Id
- aho State Bengals\nReed Gym\, Pocatello\, ID
+ aho State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921464@open-sports-cal
@@ -40,13 +42,14 @@ DTSTART:20261110T020000Z
 DTEND:20261110T050000Z
 SUMMARY:Cal Poly Mustangs @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal Poly Mustangs @ Idaho Stat
- e Bengals\nReed Gym\, Pocatello\, ID
+ e Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926984@open-sports-cal
@@ -54,13 +57,15 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:Idaho State Bengals @ Utah State Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Utah Sta
- te Aggies\nDee Glen Smith Spectrum\, Logan\, UT
+ te Aggies\nDee Glen Smith Spectrum\, Logan\, UT\nBroadcast: YouTube (strea
+ ming)
 LOCATION:Dee Glen Smith Spectrum\, Logan\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918739@open-sports-cal
@@ -68,13 +73,15 @@ DTSTART:20261115T200000Z
 DTEND:20261115T230000Z
 SUMMARY:Idaho State Bengals @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ South Da
- kota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ kota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: S
+ ummit League Network (streaming)
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921616@open-sports-cal
@@ -82,13 +89,15 @@ DTSTART:20261119T020000Z
 DTEND:20261119T050000Z
 SUMMARY:Idaho State Bengals @ UC Irvine Anteaters
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ UC Irvin
- e Anteaters\nBren Events Center\, Irvine\, CA
+ e Anteaters\nBren Events Center\, Irvine\, CA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Bren Events Center\, Irvine\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917712@open-sports-cal
@@ -96,13 +105,15 @@ DTSTART:20261121T030000Z
 DTEND:20261121T060000Z
 SUMMARY:Idaho State Bengals @ Loyola Marymount Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Loyola M
- arymount Lions\nGersten Pavilion\, Los Angeles\, CA
+ arymount Lions\nGersten Pavilion\, Los Angeles\, CA\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Gersten Pavilion\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926985@open-sports-cal
@@ -110,13 +121,14 @@ DTSTART:20261122T220000Z
 DTEND:20261123T010000Z
 SUMMARY:Idaho State Bengals @ UC Riverside Highlanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ UC River
- side Highlanders\nSRC Arena\, Riverside\, CA
+ side Highlanders\nSRC Arena\, Riverside\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:SRC Arena\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923133@open-sports-cal
@@ -124,13 +136,14 @@ DTSTART:20261129T000000Z
 DTEND:20261129T030000Z
 SUMMARY:Utah Valley Wolverines @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah Valley Wolverines @ Idaho
-  State Bengals\nReed Gym\, Pocatello\, ID
+  State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914331@open-sports-cal
@@ -138,13 +151,15 @@ DTSTART:20261204T020000Z
 DTEND:20261204T050000Z
 SUMMARY:Southern Utah Thunderbirds @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ I
- daho State Bengals\nReed Gym\, Pocatello\, ID
+ daho State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914336@open-sports-cal
@@ -152,13 +167,14 @@ DTSTART:20261205T210000Z
 DTEND:20261206T000000Z
 SUMMARY:Utah Tech Trailblazers @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah Tech Trailblazers @ Idaho
-  State Bengals\nReed Gym\, Pocatello\, ID
+  State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928314@open-sports-cal
@@ -166,12 +182,13 @@ DTSTART:20261219T030000Z
 DTEND:20261219T060000Z
 SUMMARY:Oregon State Beavers @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon State Beavers @ Idaho S
- tate Bengals\nSeabury Hall\, Makawao\, HI\nNeutral site
+ tate Bengals\nSeabury Hall\, Makawao\, HI\nNeutral site\nBroadcast: Broadc
+ ast not announced
 LOCATION:Seabury Hall\, Makawao\, HI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +197,13 @@ DTSTART:20261220T003000Z
 DTEND:20261220T033000Z
 SUMMARY:San Francisco Dons @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Idaho Sta
- te Bengals\nSeabury Hall\, Makawao\, HI\nNeutral site
+ te Bengals\nSeabury Hall\, Makawao\, HI\nNeutral site\nBroadcast: Broadcas
+ t not announced
 LOCATION:Seabury Hall\, Makawao\, HI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +212,13 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Idaho State Bengals @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Northern
-  Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+  Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadca
+ st: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +227,13 @@ DTSTART:20270108T020000Z
 DTEND:20270108T050000Z
 SUMMARY:Idaho State Bengals @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Montana 
- State Bobcats\nWorthington Arena\, Bozeman\, MT
+ State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadcast not 
+ announced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +242,13 @@ DTSTART:20270109T210000Z
 DTEND:20270110T000000Z
 SUMMARY:Idaho State Bengals @ Montana Lady Griz
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Montana 
- Lady Griz\nDahlberg Arena\, Missoula\, MT
+ Lady Griz\nDahlberg Arena\, Missoula\, MT\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Dahlberg Arena\, Missoula\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +257,13 @@ DTSTART:20270115T020000Z
 DTEND:20270115T050000Z
 SUMMARY:Northern Colorado Bears @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Colorado Bears @ Idah
- o State Bengals\nReed Gym\, Pocatello\, ID
+ o State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +272,13 @@ DTSTART:20270116T230000Z
 DTEND:20270117T020000Z
 SUMMARY:Portland State Vikings @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPortland State Vikings @ Idaho
-  State Bengals\nReed Gym\, Pocatello\, ID
+  State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +287,13 @@ DTSTART:20270119T020000Z
 DTEND:20270119T050000Z
 SUMMARY:Eastern Washington Eagles @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Washington Eagles @ Id
- aho State Bengals\nReed Gym\, Pocatello\, ID
+ aho State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +302,13 @@ DTSTART:20270123T230000Z
 DTEND:20270124T020000Z
 SUMMARY:Weber State Wildcats @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWeber State Wildcats @ Idaho S
- tate Bengals\nReed Gym\, Pocatello\, ID
+ tate Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not announce
+ d
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +317,12 @@ DTSTART:20270126T020000Z
 DTEND:20270126T050000Z
 SUMMARY:Idaho Vandals @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Idaho State Be
- ngals\nReed Gym\, Pocatello\, ID
+ ngals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not announced
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +331,13 @@ DTSTART:20270129T020000Z
 DTEND:20270129T050000Z
 SUMMARY:Idaho State Bengals @ Utah Tech Trailblazers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Utah Tec
- h Trailblazers\nBurns Arena\, St. George\, UT
+ h Trailblazers\nBurns Arena\, St. George\, UT\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Burns Arena\, St. George\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +346,13 @@ DTSTART:20270130T210000Z
 DTEND:20270131T000000Z
 SUMMARY:Idaho State Bengals @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Southern
-  Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+  Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroadcas
+ t: Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +361,13 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:Northern Arizona Lumberjacks @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Idaho State Bengals\nReed Gym\, Pocatello\, ID
+  Idaho State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not 
+ announced
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +376,13 @@ DTSTART:20270212T030000Z
 DTEND:20270212T060000Z
 SUMMARY:Idaho State Bengals @ Portland State Vikings
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Portland
-  State Vikings\nViking Pavilion\, Portland\, OR
+  State Vikings\nViking Pavilion\, Portland\, OR\nBroadcast: Broadcast not 
+ announced
 LOCATION:Viking Pavilion\, Portland\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +391,13 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Idaho State Bengals @ Northern Colorado Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Northern
-  Colorado Bears\nBank of Colorado Arena\, Greeley\, CO
+  Colorado Bears\nBank of Colorado Arena\, Greeley\, CO\nBroadcast: Broadca
+ st not announced
 LOCATION:Bank of Colorado Arena\, Greeley\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +406,12 @@ DTSTART:20270219T020000Z
 DTEND:20270219T050000Z
 SUMMARY:Montana Lady Griz @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana Lady Griz @ Idaho Stat
- e Bengals\nReed Gym\, Pocatello\, ID
+ e Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not announced
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +420,13 @@ DTSTART:20270220T210000Z
 DTEND:20270221T000000Z
 SUMMARY:Montana State Bobcats @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Idaho 
- State Bengals\nReed Gym\, Pocatello\, ID
+ State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +435,13 @@ DTSTART:20270223T020000Z
 DTEND:20270223T050000Z
 SUMMARY:Idaho State Bengals @ Eastern Washington Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Eastern 
- Washington Eagles\nReese Court\, Cheney\, WA
+ Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +450,13 @@ DTSTART:20270227T210000Z
 DTEND:20270228T000000Z
 SUMMARY:Idaho State Bengals @ Weber State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Weber St
- ate Wildcats\nDee Events Center\, Ogden\, UT
+ ate Wildcats\nDee Events Center\, Ogden\, UT\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Dee Events Center\, Ogden\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +465,12 @@ DTSTART:20270302T020000Z
 DTEND:20270302T050000Z
 SUMMARY:Idaho State Bengals @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Idaho Va
- ndals\nICCU Arena\, Moscow\, ID
+ ndals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announced
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

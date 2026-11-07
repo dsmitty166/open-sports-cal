@@ -178,7 +178,7 @@
     $('gamecount').textContent = `${visible.length} ${visible.length===1?'game':'games'}`;
     $('games').innerHTML = visible.length ? visible.map(e => {
       const date = e.localDay;
-      return `<article class="game" style="--event-color:${color(e.calendars[0])}"><span class="stripe"></span><div class="info"><div class="category">${e.calendars.map(id=>esc(itemLabel(byId.get(id)))).join(' / ')}</div><div class="title">${esc(e.summary)}</div><div class="venue">${esc(e.location || 'Venue TBD')}</div></div><div class="time">${esc(eventTime(e))}<div class="date">${esc(new Date(date+'T12:00:00').toLocaleDateString(undefined,{month:'short',day:'numeric'}))}</div></div></article>`;
+      return `<article class="game" style="--event-color:${color(e.calendars[0])}"><span class="stripe"></span><div class="info"><div class="category">${e.calendars.map(id=>esc(itemLabel(byId.get(id)))).join(' / ')}</div><div class="title">${esc(e.summary)}</div><div class="venue">${esc(e.location || 'Venue TBD')}</div><div class="broadcast">${e.broadcast?'TV / streaming: '+esc(e.broadcast):'Broadcast not announced'}</div></div><div class="time">${esc(eventTime(e))}<div class="date">${esc(new Date(date+'T12:00:00').toLocaleDateString(undefined,{month:'short',day:'numeric'}))}</div></div></article>`;
     }).join('') : `<p class="notice">${selected.length?'No games for the selected calendars on '+(view==='month'?'this day.':'this month.'):'Choose calendars to see your combined schedule.'}</p>`;
   }
   function baseUrl() {

@@ -12,12 +12,14 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Bowling Green Falcons @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Georgia 
- State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911010@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Cleveland State Vikings @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCleveland State Vikings @ Bowlin
- g Green Falcons\nStroh Center\, Bowling Green\, OH
+ g Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911013@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Niagara Purple Eagles @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNiagara Purple Eagles @ Bowling 
- Green Falcons\nStroh Center\, Bowling Green\, OH
+ Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911018@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Bowling Green Falcons @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ William 
- & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: FloSports (stre
+ aming)
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911022@open-sports-cal
@@ -64,12 +72,14 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Northern Illinois Huskies @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Illinois Huskies @ Bowl
- ing Green Falcons\nStroh Center\, Bowling Green\, OH
+ ing Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911027@open-sports-cal
@@ -77,12 +87,14 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Bowling Green Falcons\nStroh Center\, Bowling Green\, OH
+ Bowling Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911030@open-sports-cal
@@ -90,12 +102,13 @@ DTSTART:20261127T230000Z
 DTEND:20261128T020000Z
 SUMMARY:Bowling Green Falcons @ Indiana Hoosiers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Indiana 
- Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+ Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN\nBroadcast: BTN
 LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911035@open-sports-cal
@@ -103,12 +116,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Bowling Green Falcons @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Kent Sta
- te Golden Flashes\nM.A.C. Center\, Kent\, OH
+ te Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911040@open-sports-cal
@@ -116,12 +130,14 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Western Michigan Broncos @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Michigan Broncos @ Bowli
- ng Green Falcons\nStroh Center\, Bowling Green\, OH
+ ng Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911055@open-sports-cal
@@ -129,12 +145,14 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Miami (OH) RedHawks @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMiami (OH) RedHawks @ Bowling Gr
- een Falcons\nStroh Center\, Bowling Green\, OH
+ een Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911056@open-sports-cal
@@ -142,12 +160,13 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Bowling Green Falcons @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Akron Zi
- ps\nJames A. Rhodes Arena\, Akron\, OH
+ ps\nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911061@open-sports-cal
@@ -155,11 +174,12 @@ DTSTART:20261222T190000Z
 DTEND:20261222T220000Z
 SUMMARY:Cornerstone CORNERSTNE @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCornerstone CORNERSTNE @ Bowling
-  Green Falcons\nStroh Center\, Bowling Green\, OH
+  Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast no
+ t announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -168,11 +188,12 @@ DTSTART:20261229T230000Z
 DTEND:20261230T020000Z
 SUMMARY:Aquinas Saints @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAquinas Saints @ Bowling Green F
- alcons\nStroh Center\, Bowling Green\, OH
+ alcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -181,11 +202,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Ohio Bobcats @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Bowling Green Fal
- cons\nStroh Center\, Bowling Green\, OH
+ cons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast not announce
+ d
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +216,12 @@ DTSTART:20270106T000000Z
 DTEND:20270106T030000Z
 SUMMARY:Bowling Green Falcons @ Central Michigan Chippewas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Central 
- Michigan Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI
+ Michigan Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI\nBroadcast: Broadc
+ ast not announced
 LOCATION:McGuirk Arena\, Mount Pleasant\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +230,12 @@ DTSTART:20270109T203000Z
 DTEND:20270109T233000Z
 SUMMARY:Bowling Green Falcons @ Eastern Michigan Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Eastern 
- Michigan Eagles\nGervin GameAbove Center\, Ypsilanti\, MI
+ Michigan Eagles\nGervin GameAbove Center\, Ypsilanti\, MI\nBroadcast: Broa
+ dcast not announced
 LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +244,12 @@ DTSTART:20270113T000000Z
 DTEND:20270113T030000Z
 SUMMARY:Ball State Cardinals @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBall State Cardinals @ Bowling G
- reen Falcons\nStroh Center\, Bowling Green\, OH
+ reen Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast not 
+ announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +258,11 @@ DTSTART:20270116T193000Z
 DTEND:20270116T223000Z
 SUMMARY:Bowling Green Falcons @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Buffalo 
- Bulls\nBroadview Arena\, Buffalo\, NY
+ Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announced
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +271,12 @@ DTSTART:20270120T000000Z
 DTEND:20270120T030000Z
 SUMMARY:Massachusetts Minutemen @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Bowlin
- g Green Falcons\nStroh Center\, Bowling Green\, OH
+ g Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +285,12 @@ DTSTART:20270123T000000Z
 DTEND:20270123T030000Z
 SUMMARY:Kent State Golden Flashes @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Bowl
- ing Green Falcons\nStroh Center\, Bowling Green\, OH
+ ing Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast
+  not announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +299,12 @@ DTSTART:20270127T000000Z
 DTEND:20270127T030000Z
 SUMMARY:Bowling Green Falcons @ Western Michigan Broncos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Western 
- Michigan Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI
+ Michigan Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI\nBroadcast: Broad
+ cast not announced
 LOCATION:University Arena (MI)\, Kalamazoo\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +313,12 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:Toledo Rockets @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nToledo Rockets @ Bowling Green F
- alcons\nStroh Center\, Bowling Green\, OH
+ alcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +327,12 @@ DTSTART:20270203T000000Z
 DTEND:20270203T030000Z
 SUMMARY:Bowling Green Falcons @ Ball State Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Ball Sta
- te Cardinals\nWorthen Arena\, Muncie\, IN
+ te Cardinals\nWorthen Arena\, Muncie\, IN\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Worthen Arena\, Muncie\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +341,12 @@ DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Bowling Green Falcons @ Miami (OH) RedHawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Miami (O
- H) RedHawks\nMillett Hall\, Oxford\, OH
+ H) RedHawks\nMillett Hall\, Oxford\, OH\nBroadcast: Broadcast not announce
+ d
 LOCATION:Millett Hall\, Oxford\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +355,12 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Buffalo Bulls @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Bowling Green Fa
- lcons\nStroh Center\, Bowling Green\, OH
+ lcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +369,11 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:Akron Zips @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Bowling Green Falco
- ns\nStroh Center\, Bowling Green\, OH
+ ns\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast not announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +382,11 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Bowling Green Falcons @ Toledo Rockets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Toledo R
- ockets\nSavage Arena\, Toledo\, OH
+ ockets\nSavage Arena\, Toledo\, OH\nBroadcast: Broadcast not announced
 LOCATION:Savage Arena\, Toledo\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +395,12 @@ DTSTART:20270224T000000Z
 DTEND:20270224T030000Z
 SUMMARY:Central Michigan Chippewas @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Michigan Chippewas @ Bow
- ling Green Falcons\nStroh Center\, Bowling Green\, OH
+ ling Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcas
+ t not announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +409,12 @@ DTSTART:20270227T230000Z
 DTEND:20270228T020000Z
 SUMMARY:Bowling Green Falcons @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Massachu
- setts Minutemen\nMullins Center\, Amherst\, MA
+ setts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +423,12 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Bowling Green Falcons @ Ohio Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Ohio Bob
- cats\nConvocation Center (OH)\, Athens\, OH
+ cats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +437,12 @@ DTSTART:20270306T000000Z
 DTEND:20270306T030000Z
 SUMMARY:Eastern Michigan Eagles @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Michigan Eagles @ Bowlin
- g Green Falcons\nStroh Center\, Bowling Green\, OH
+ g Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

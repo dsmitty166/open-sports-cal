@@ -12,13 +12,15 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Marshall Thundering Herd @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Mas
- sachusetts Minutewomen\nMullins Center\, Amherst\, MA
+ sachusetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913035@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Massachusetts Minutewomen @ Providence Friars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Pr
- ovidence Friars\nAlumni Hall (RI)\, Providence\, RI
+ ovidence Friars\nAlumni Hall (RI)\, Providence\, RI\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Alumni Hall (RI)\, Providence\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913857@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Massachusetts Minutewomen @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Ha
- rvard Crimson\nLavietes Pavilion\, Cambridge\, MA
+ rvard Crimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929175@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Central Connecticut Blue Devils @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Massachusetts Minutewomen\nMullins Center\, Amherst\, MA
+ s @ Massachusetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919493@open-sports-cal
@@ -68,13 +76,15 @@ DTSTART:20261117T220000Z
 DTEND:20261118T010000Z
 SUMMARY:Army Black Knights @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArmy Black Knights @ Massachus
- etts Minutewomen\nMullins Center\, Amherst\, MA
+ etts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: ESPN+ (streami
+ ng) / Patriot League TV (streaming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906036@open-sports-cal
@@ -82,13 +92,15 @@ DTSTART:20261120T230000Z
 DTEND:20261121T020000Z
 SUMMARY:Massachusetts Minutewomen @ Boston College Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Bo
- ston College Eagles\nConte Forum\, Chestnut Hill\, MA
+ ston College Eagles\nConte Forum\, Chestnut Hill\, MA\nBroadcast: ACCNX (s
+ treaming)
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929184@open-sports-cal
@@ -96,12 +108,13 @@ DTSTART:20261128T183000Z
 DTEND:20261128T213000Z
 SUMMARY:Massachusetts Minutewomen @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Ok
- lahoma State Cowgirls\nAlico Arena\, Fort Myers\, FL\nNeutral site
+ lahoma State Cowgirls\nAlico Arena\, Fort Myers\, FL\nNeutral site\nBroadc
+ ast: Broadcast not announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +123,13 @@ DTSTART:20261129T183000Z
 DTEND:20261129T213000Z
 SUMMARY:Massachusetts Minutewomen @ Washington Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Wa
- shington Huskies\nAlico Arena\, Fort Myers\, FL\nNeutral site
+ shington Huskies\nAlico Arena\, Fort Myers\, FL\nNeutral site\nBroadcast: 
+ Broadcast not announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +138,13 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:Massachusetts Minutewomen @ Binghamton Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Bi
- nghamton Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY
+ nghamton Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast
+ : Broadcast not announced
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +153,15 @@ DTSTART:20261207T230000Z
 DTEND:20261208T020000Z
 SUMMARY:Holy Cross Crusaders @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Massach
- usetts Minutewomen\nMullins Center\, Amherst\, MA
+ usetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913820@open-sports-cal
@@ -152,13 +169,15 @@ DTSTART:20261216T230000Z
 DTEND:20261217T020000Z
 SUMMARY:UMass Lowell River Hawks @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUMass Lowell River Hawks @ Mas
- sachusetts Minutewomen\nMullins Center\, Amherst\, MA
+ sachusetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929185@open-sports-cal
@@ -166,13 +185,15 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Massachusetts Minutewomen @ New Hampshire Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Ne
- w Hampshire Wildcats\nLundholm Gymnasium\, Durham\, NH
+ w Hampshire Wildcats\nLundholm Gymnasium\, Durham\, NH\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Lundholm Gymnasium\, Durham\, NH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913809@open-sports-cal
@@ -180,12 +201,13 @@ DTSTART:20261221T183000Z
 DTEND:20261221T213000Z
 SUMMARY:UAlbany Great Danes @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUAlbany Great Danes @ Massachu
- setts Minutewomen\nMullins Center\, Amherst\, MA
+ setts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not
+  announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +216,13 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Massachusetts Minutewomen @ Akron Zips
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Ak
- ron Zips\nJames A. Rhodes Arena\, Akron\, OH
+ ron Zips\nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +231,13 @@ DTSTART:20270106T230000Z
 DTEND:20270107T020000Z
 SUMMARY:Buffalo Bulls @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBuffalo Bulls @ Massachusetts 
- Minutewomen\nMullins Center\, Amherst\, MA
+ Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +246,13 @@ DTSTART:20270109T170000Z
 DTEND:20270109T200000Z
 SUMMARY:Western Michigan Broncos @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Michigan Broncos @ Mas
- sachusetts Minutewomen\nMullins Center\, Amherst\, MA
+ sachusetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +261,13 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Massachusetts Minutewomen @ Miami (OH) RedHawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Mi
- ami (OH) RedHawks\nMillett Hall\, Oxford\, OH
+ ami (OH) RedHawks\nMillett Hall\, Oxford\, OH\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Millett Hall\, Oxford\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +276,13 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Kent State Golden Flashes @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKent State Golden Flashes @ Ma
- ssachusetts Minutewomen\nMullins Center\, Amherst\, MA
+ ssachusetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: Broadca
+ st not announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +291,13 @@ DTSTART:20270120T160000Z
 DTEND:20270120T190000Z
 SUMMARY:Ball State Cardinals @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBall State Cardinals @ Massach
- usetts Minutewomen\nMullins Center\, Amherst\, MA
+ usetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +306,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Massachusetts Minutewomen @ Central Michigan Chippewas
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Ce
- ntral Michigan Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI
+ ntral Michigan Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI\nBroadcast: 
+ Broadcast not announced
 LOCATION:McGuirk Arena\, Mount Pleasant\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +321,13 @@ DTSTART:20270127T230000Z
 DTEND:20270128T020000Z
 SUMMARY:Akron Zips @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAkron Zips @ Massachusetts Min
- utewomen\nMullins Center\, Amherst\, MA
+ utewomen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +336,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Massachusetts Minutewomen @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Oh
- io Bobcats\nConvocation Center (OH)\, Athens\, OH
+ io Bobcats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast no
+ t announced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +351,13 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:Massachusetts Minutewomen @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Bo
- wling Green Falcons\nStroh Center\, Bowling Green\, OH
+ wling Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadca
+ st not announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +366,13 @@ DTSTART:20270210T230000Z
 DTEND:20270211T020000Z
 SUMMARY:Eastern Michigan Eagles @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Michigan Eagles @ Mass
- achusetts Minutewomen\nMullins Center\, Amherst\, MA
+ achusetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast
+  not announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +381,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Massachusetts Minutewomen @ Western Michigan Broncos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ We
- stern Michigan Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI
+ stern Michigan Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI\nBroadcast:
+  Broadcast not announced
 LOCATION:University Arena (MI)\, Kalamazoo\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +396,13 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:Massachusetts Minutewomen @ Kent State Golden Flashes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Ke
- nt State Golden Flashes\nM.A.C. Center\, Kent\, OH
+ nt State Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: Broadcast n
+ ot announced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +411,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Toledo Rockets @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nToledo Rockets @ Massachusetts
-  Minutewomen\nMullins Center\, Amherst\, MA
+  Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +426,13 @@ DTSTART:20270224T230000Z
 DTEND:20270225T020000Z
 SUMMARY:Miami (OH) RedHawks @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiami (OH) RedHawks @ Massachu
- setts Minutewomen\nMullins Center\, Amherst\, MA
+ setts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not
+  announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +441,13 @@ DTSTART:20270227T160000Z
 DTEND:20270227T190000Z
 SUMMARY:Massachusetts Minutewomen @ Ball State Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Ba
- ll State Cardinals\nWorthen Arena\, Muncie\, IN
+ ll State Cardinals\nWorthen Arena\, Muncie\, IN\nBroadcast: Broadcast not 
+ announced
 LOCATION:Worthen Arena\, Muncie\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +456,13 @@ DTSTART:20270303T230000Z
 DTEND:20270304T020000Z
 SUMMARY:Massachusetts Minutewomen @ Buffalo Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Bu
- ffalo Bulls\nBroadview Arena\, Buffalo\, NY
+ ffalo Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +471,13 @@ DTSTART:20270306T180000Z
 DTEND:20270306T210000Z
 SUMMARY:Bowling Green Falcons @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Massac
- husetts Minutewomen\nMullins Center\, Amherst\, MA
+ husetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

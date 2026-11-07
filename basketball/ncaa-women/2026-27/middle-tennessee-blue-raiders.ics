@@ -13,13 +13,15 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Saint Louis Billikens @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Louis Billikens @ Middle
-  Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+  Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926041@open-sports-cal
@@ -27,13 +29,15 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Memphis Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Memphis Tigers\nElma Roane Fieldhouse\, Memphis\, TN
+ @ Memphis Tigers\nElma Roane Fieldhouse\, Memphis\, TN\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Elma Roane Fieldhouse\, Memphis\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912955@open-sports-cal
@@ -41,13 +45,15 @@ DTSTART:20261112T233000Z
 DTEND:20261113T023000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Tennessee Lady Volunteers\nFood City Center\, Knoxville\, TN
+ @ Tennessee Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast:
+  SECN+ (streaming)
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928008@open-sports-cal
@@ -55,13 +61,15 @@ DTSTART:20261117T003000Z
 DTEND:20261117T033000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Tech Golden Eagles @
-  Middle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+  Middle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928009@open-sports-cal
@@ -69,13 +77,14 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Auburn Tigers\nNeville Arena\, Auburn\, AL
+ @ Auburn Tigers\nNeville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923672@open-sports-cal
@@ -83,12 +92,13 @@ DTSTART:20261123T170000Z
 DTEND:20261123T200000Z
 SUMMARY:Oregon State Beavers @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon State Beavers @ Middle 
- Tennessee Blue Raiders\nThe Reef\, Jacksonville\, FL\nNeutral site
+ Tennessee Blue Raiders\nThe Reef\, Jacksonville\, FL\nNeutral site\nBroadc
+ ast: Broadcast not announced
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -97,12 +107,13 @@ DTSTART:20261125T210000Z
 DTEND:20261126T000000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Montana State Bobcats\nThe Reef\, Jacksonville\, FL\nNeutral site
+ @ Montana State Bobcats\nThe Reef\, Jacksonville\, FL\nNeutral site\nBroad
+ cast: Broadcast not announced
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -111,13 +122,15 @@ DTSTART:20261201T003000Z
 DTEND:20261201T033000Z
 SUMMARY:Lipscomb Bisons @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Middle Tenne
- ssee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ ssee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928010@open-sports-cal
@@ -125,13 +138,15 @@ DTSTART:20261203T163000Z
 DTEND:20261203T193000Z
 SUMMARY:Southern Indiana Screaming Eagles @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Indiana Screaming Eag
- les @ Middle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ les @ Middle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBr
+ oadcast: ESPN+ (streaming)
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913880@open-sports-cal
@@ -139,13 +154,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Wichita State Shockers @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Middl
- e Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ e Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919665@open-sports-cal
@@ -153,13 +170,15 @@ DTSTART:20261213T200000Z
 DTEND:20261213T230000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Belmont Bruins\nCurb Event Center Arena\, Nashville\, TN
+ @ Belmont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913840@open-sports-cal
@@ -167,12 +186,13 @@ DTSTART:20261218T000000Z
 DTEND:20261218T030000Z
 SUMMARY:Rice Owls @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRice Owls @ Middle Tennessee B
- lue Raiders\nMurphy Center\, Murfreesboro\, TN
+ lue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -182,12 +202,12 @@ DTEND:20261221T023000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
  @ Tulsa Golden Hurricane\nHarrah's Cherokee Resort\, Cherokee\, NC\nNeutra
- l site
+ l site\nBroadcast: Broadcast not announced
 LOCATION:Harrah's Cherokee Resort\, Cherokee\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -197,12 +217,12 @@ DTEND:20261222T023000Z
 SUMMARY:Middle Tennessee Blue Raiders @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
  @ South Florida Bulls\nHarrah's Cherokee Center\, Asheville\, NC\nNeutral 
- site
+ site\nBroadcast: Broadcast not announced
 LOCATION:Harrah's Cherokee Center\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -211,12 +231,13 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:Jacksonville State Gamecocks @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJacksonville State Gamecocks @
-  Middle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+  Middle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadca
+ st: Broadcast not announced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -225,12 +246,13 @@ DTSTART:20270105T003000Z
 DTEND:20270105T033000Z
 SUMMARY:Kennesaw State Owls @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKennesaw State Owls @ Middle T
- ennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ ennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast: Broad
+ cast not announced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -239,12 +261,13 @@ DTSTART:20270109T003000Z
 DTEND:20270109T033000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Sam Houston Bearkats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Sam Houston Bearkats\nBernard G. Johnson Coliseum\, Huntsville\, TX
+ @ Sam Houston Bearkats\nBernard G. Johnson Coliseum\, Huntsville\, TX\nBro
+ adcast: Broadcast not announced
 LOCATION:Bernard G. Johnson Coliseum\, Huntsville\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -253,12 +276,13 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:Middle Tennessee Blue Raiders @ New Mexico State Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ New Mexico State Aggies\nPan American Center\, Las Cruces\, NM
+ @ New Mexico State Aggies\nPan American Center\, Las Cruces\, NM\nBroadcas
+ t: Broadcast not announced
 LOCATION:Pan American Center\, Las Cruces\, NM
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -267,12 +291,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Liberty Flames @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLiberty Flames @ Middle Tennes
- see Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ see Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast: Broadcast 
+ not announced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -281,12 +306,13 @@ DTSTART:20270117T000000Z
 DTEND:20270117T030000Z
 SUMMARY:Delaware Blue Hens @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Middle Te
- nnessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ nnessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast: Broadc
+ ast not announced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -296,12 +322,12 @@ DTEND:20270122T030000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
  @ Florida International Panthers\nOcean Bank Convocation Center\, Miami\, 
- FL
+ FL\nBroadcast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -310,12 +336,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Missouri State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Missouri State Lady Bears\nGreat Southern Bank Arena\, Springfield\, MO
+ @ Missouri State Lady Bears\nGreat Southern Bank Arena\, Springfield\, MO\
+ nBroadcast: Broadcast not announced
 LOCATION:Great Southern Bank Arena\, Springfield\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -324,12 +351,13 @@ DTSTART:20270130T200000Z
 DTEND:20270130T230000Z
 SUMMARY:Western Kentucky Lady Toppers @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Kentucky Lady Toppers 
- @ Middle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ @ Middle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadc
+ ast: Broadcast not announced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -338,12 +366,13 @@ DTSTART:20270205T003000Z
 DTEND:20270205T033000Z
 SUMMARY:New Mexico State Aggies @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Mexico State Aggies @ Midd
- le Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ le Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast: B
+ roadcast not announced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -352,12 +381,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:Sam Houston Bearkats @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSam Houston Bearkats @ Middle 
- Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast: Broa
+ dcast not announced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -366,12 +396,13 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Delaware Blue Hens\nBob Carpenter Center\, Newark\, DE
+ @ Delaware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: Broad
+ cast not announced
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -380,12 +411,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Liberty Flames
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Liberty Flames\nLiberty Arena (VA)\, Lynchburg\, VA
+ @ Liberty Flames\nLiberty Arena (VA)\, Lynchburg\, VA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Liberty Arena (VA)\, Lynchburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -394,12 +426,13 @@ DTSTART:20270219T003000Z
 DTEND:20270219T033000Z
 SUMMARY:Missouri State Lady Bears @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMissouri State Lady Bears @ Mi
- ddle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ ddle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast:
+  Broadcast not announced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -408,12 +441,13 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:Florida International Panthers @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
-  @ Middle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+  @ Middle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroad
+ cast: Broadcast not announced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -422,12 +456,13 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Western Kentucky Lady Toppers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Western Kentucky Lady Toppers\nE.A. Diddle Arena\, Bowling Green\, KY
+ @ Western Kentucky Lady Toppers\nE.A. Diddle Arena\, Bowling Green\, KY\nB
+ roadcast: Broadcast not announced
 LOCATION:E.A. Diddle Arena\, Bowling Green\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -436,12 +471,13 @@ DTSTART:20270304T230000Z
 DTEND:20270305T020000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Kennesaw State Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Kennesaw State Owls\nVyStar Arena\, Kennesaw\, GA
+ @ Kennesaw State Owls\nVyStar Arena\, Kennesaw\, GA\nBroadcast: Broadcast 
+ not announced
 LOCATION:VyStar Arena\, Kennesaw\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -450,12 +486,13 @@ DTSTART:20270306T200000Z
 DTEND:20270306T230000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Jacksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ @ Jacksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\
+ nBroadcast: Broadcast not announced
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

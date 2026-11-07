@@ -12,12 +12,13 @@ DTSTART:20260906T000000Z
 DTEND:20260906T030000Z
 SUMMARY:Hampton Pirates @ Maryland Terrapins
 DESCRIPTION:NCAA FBS Football 2026\nHampton Pirates @ Maryland Terrapins\nS
- ECU Stadium\, College Park\, MD
+ ECU Stadium\, College Park\, MD\nBroadcast: BTN
 LOCATION:SECU Stadium\, College Park\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858444@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T193000Z
 DTEND:20260912T223000Z
 SUMMARY:Maryland Terrapins @ UConn Huskies
 DESCRIPTION:NCAA FBS Football 2026\nMaryland Terrapins @ UConn Huskies\nPra
- tt & Whitney Stadium\, East Hartford\, CT
+ tt & Whitney Stadium\, East Hartford\, CT\nBroadcast: CBSSN
 LOCATION:Pratt & Whitney Stadium\, East Hartford\, CT
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858232@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T233000Z
 DTEND:20260920T023000Z
 SUMMARY:Virginia Tech Hokies @ Maryland Terrapins
 DESCRIPTION:NCAA FBS Football 2026\nVirginia Tech Hokies @ Maryland Terrapi
- ns\nSECU Stadium\, College Park\, MD
+ ns\nSECU Stadium\, College Park\, MD\nBroadcast: FS1
 LOCATION:SECU Stadium\, College Park\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858462@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T173000Z
 DTEND:20260926T203000Z
 SUMMARY:UCLA Bruins @ Maryland Terrapins
 DESCRIPTION:NCAA FBS Football 2026\nUCLA Bruins @ Maryland Terrapins\nSECU 
- Stadium\, College Park\, MD
+ Stadium\, College Park\, MD\nBroadcast: BTN
 LOCATION:SECU Stadium\, College Park\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858475@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T200000Z
 DTEND:20261003T230000Z
 SUMMARY:Maryland Terrapins @ Nebraska Cornhuskers
 DESCRIPTION:NCAA FBS Football 2026\nMaryland Terrapins @ Nebraska Cornhuske
- rs\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE
+ rs\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE\nBroadcast: FS1
 LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858483@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T201500Z
 DTEND:20261010T231500Z
 SUMMARY:Maryland Terrapins @ Ohio State Buckeyes
 DESCRIPTION:NCAA FBS Football 2026\nMaryland Terrapins @ Ohio State Buckeye
- s\nOhio Stadium\, Columbus\, OH
+ s\nOhio Stadium\, Columbus\, OH\nBroadcast: BTN
 LOCATION:Ohio Stadium\, Columbus\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858489@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261017T163000Z
 DTEND:20261017T193000Z
 SUMMARY:Rutgers Scarlet Knights @ Maryland Terrapins
 DESCRIPTION:NCAA FBS Football 2026\nRutgers Scarlet Knights @ Maryland Terr
- apins\nSECU Stadium\, College Park\, MD
+ apins\nSECU Stadium\, College Park\, MD\nBroadcast: BTN
 LOCATION:SECU Stadium\, College Park\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858503@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Illinois Fighting Illini @ Maryland Terrapins
 DESCRIPTION:NCAA FBS Football 2026\nIllinois Fighting Illini @ Maryland Ter
- rapins\nSECU Stadium\, College Park\, MD
+ rapins\nSECU Stadium\, College Park\, MD\nBroadcast: FS1
 LOCATION:SECU Stadium\, College Park\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858515@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261107T173000Z
 DTEND:20261107T203000Z
 SUMMARY:Maryland Terrapins @ Purdue Boilermakers
 DESCRIPTION:NCAA FBS Football 2026\nMaryland Terrapins @ Purdue Boilermaker
- s\nRoss-Ade Stadium\, West Lafayette\, IN
+ s\nRoss-Ade Stadium\, West Lafayette\, IN\nBroadcast: BTN
 LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858520@open-sports-cal
@@ -129,12 +138,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Wisconsin Badgers @ Maryland Terrapins
 DESCRIPTION:NCAA FBS Football 2026\nWisconsin Badgers @ Maryland Terrapins\
- nSECU Stadium\, College Park\, MD
+ nSECU Stadium\, College Park\, MD\nBroadcast: FS1
 LOCATION:SECU Stadium\, College Park\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858534@open-sports-cal
@@ -142,11 +152,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Maryland Terrapins @ USC Trojans
 DESCRIPTION:NCAA FBS Football 2026\nMaryland Terrapins @ USC Trojans\nLos A
- ngeles Memorial Coliseum\, Los Angeles\, CA\nStart time TBD
+ ngeles Memorial Coliseum\, Los Angeles\, CA\nStart time TBD\nBroadcast: Br
+ oadcast not announced
 LOCATION:Los Angeles Memorial Coliseum\, Los Angeles\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858539@open-sports-cal
@@ -154,10 +165,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Penn State Nittany Lions @ Maryland Terrapins
 DESCRIPTION:NCAA FBS Football 2026\nPenn State Nittany Lions @ Maryland Ter
- rapins\nSECU Stadium\, College Park\, MD\nStart time TBD
+ rapins\nSECU Stadium\, College Park\, MD\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:SECU Stadium\, College Park\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

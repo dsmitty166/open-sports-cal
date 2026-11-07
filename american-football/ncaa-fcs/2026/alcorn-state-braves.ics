@@ -12,12 +12,13 @@ DTSTART:20260829T230000Z
 DTEND:20260830T020000Z
 SUMMARY:Miles Golden Bears @ Alcorn State Braves
 DESCRIPTION:NCAA FCS Football 2026\nMiles Golden Bears @ Alcorn State Brave
- s\nSpinks-Casem Stadium\, Lorman\, MS
+ s\nSpinks-Casem Stadium\, Lorman\, MS\nBroadcast: SWAC TV (streaming)
 LOCATION:Spinks-Casem Stadium\, Lorman\, MS
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868356@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20260905T210000Z
 DTEND:20260906T000000Z
 SUMMARY:Alcorn State Braves @ Southern Miss Golden Eagles
 DESCRIPTION:NCAA FCS Football 2026\nAlcorn State Braves @ Southern Miss Gol
- den Eagles\nM. M. Roberts Stadium\, Hattiesburg\, MS
+ den Eagles\nM. M. Roberts Stadium\, Hattiesburg\, MS\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:M. M. Roberts Stadium\, Hattiesburg\, MS
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868355@open-sports-cal
@@ -39,10 +42,11 @@ DTEND:20260913T020000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Alcorn State Braves
 DESCRIPTION:NCAA FCS Football 2026\nArkansas-Pine Bluff Golden Lions @ Alco
  rn State Braves\nSimmons Bank Liberty Stadium\, Memphis\, TN\nNeutral site
+ \nBroadcast: Broadcast not announced
 LOCATION:Simmons Bank Liberty Stadium\, Memphis\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -51,12 +55,13 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Alcorn State Braves @ North Alabama Lions
 DESCRIPTION:NCAA FCS Football 2026\nAlcorn State Braves @ North Alabama Lio
- ns\nBraly Stadium\, Florence\, AL
+ ns\nBraly Stadium\, Florence\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Braly Stadium\, Florence\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868358@open-sports-cal
@@ -64,11 +69,12 @@ DTSTART:20260926T200000Z
 DTEND:20260926T230000Z
 SUMMARY:Texas Southern Tigers @ Alcorn State Braves
 DESCRIPTION:NCAA FCS Football 2026\nTexas Southern Tigers @ Alcorn State Br
- aves\nSpinks-Casem Stadium\, Lorman\, MS
+ aves\nSpinks-Casem Stadium\, Lorman\, MS\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Spinks-Casem Stadium\, Lorman\, MS
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +83,12 @@ DTSTART:20261003T190000Z
 DTEND:20261003T220000Z
 SUMMARY:Alcorn State Braves @ Grambling Tigers
 DESCRIPTION:NCAA FCS Football 2026\nAlcorn State Braves @ Grambling Tigers\
- nEddie G. Robinson Memorial Stadium\, Grambling\, LA
+ nEddie G. Robinson Memorial Stadium\, Grambling\, LA\nBroadcast: Broadcast
+  not announced
 LOCATION:Eddie G. Robinson Memorial Stadium\, Grambling\, LA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +97,12 @@ DTSTART:20261010T190000Z
 DTEND:20261010T220000Z
 SUMMARY:Arkansas Baptist Buffaloes @ Alcorn State Braves
 DESCRIPTION:NCAA FCS Football 2026\nArkansas Baptist Buffaloes @ Alcorn Sta
- te Braves\nSpinks-Casem Stadium\, Lorman\, MS
+ te Braves\nSpinks-Casem Stadium\, Lorman\, MS\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Spinks-Casem Stadium\, Lorman\, MS
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -103,11 +111,12 @@ DTSTART:20261017T190000Z
 DTEND:20261017T220000Z
 SUMMARY:Alcorn State Braves @ Prairie View A&M Panthers
 DESCRIPTION:NCAA FCS Football 2026\nAlcorn State Braves @ Prairie View A&M 
- Panthers\nPanther Stadium\, Prairie View\, TX
+ Panthers\nPanther Stadium\, Prairie View\, TX\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Panther Stadium\, Prairie View\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -116,12 +125,14 @@ DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 SUMMARY:Alcorn State Braves @ Mississippi Valley State Delta Devils
 DESCRIPTION:NCAA FCS Football 2026\nAlcorn State Braves @ Mississippi Valle
- y State Delta Devils\nRice-Totten Stadium\, Itta Bena\, MS
+ y State Delta Devils\nRice-Totten Stadium\, Itta Bena\, MS\nBroadcast: SWA
+ C TV (streaming)
 LOCATION:Rice-Totten Stadium\, Itta Bena\, MS
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868363@open-sports-cal
@@ -129,12 +140,13 @@ DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
 SUMMARY:Florida A&M Rattlers @ Alcorn State Braves
 DESCRIPTION:NCAA FCS Football 2026\nFlorida A&M Rattlers @ Alcorn State Bra
- ves\nSpinks-Casem Stadium\, Lorman\, MS
+ ves\nSpinks-Casem Stadium\, Lorman\, MS\nBroadcast: SWAC TV (streaming)
 LOCATION:Spinks-Casem Stadium\, Lorman\, MS
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868364@open-sports-cal
@@ -142,11 +154,12 @@ DTSTART:20261114T200000Z
 DTEND:20261114T230000Z
 SUMMARY:Alcorn State Braves @ Southern Jaguars
 DESCRIPTION:NCAA FCS Football 2026\nAlcorn State Braves @ Southern Jaguars\
- nA.W. Mumford Stadium\, Baton Rouge\, LA
+ nA.W. Mumford Stadium\, Baton Rouge\, LA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:A.W. Mumford Stadium\, Baton Rouge\, LA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +168,12 @@ DTSTART:20261121T200000Z
 DTEND:20261121T230000Z
 SUMMARY:Jackson State Tigers @ Alcorn State Braves
 DESCRIPTION:NCAA FCS Football 2026\nJackson State Tigers @ Alcorn State Bra
- ves\nSpinks-Casem Stadium\, Lorman\, MS
+ ves\nSpinks-Casem Stadium\, Lorman\, MS\nBroadcast: ESPN+ (streaming)
 LOCATION:Spinks-Casem Stadium\, Lorman\, MS
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

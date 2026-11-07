@@ -13,14 +13,15 @@ DTEND:20261103T020000Z
 SUMMARY:Harvard Crimson @ Minnesota Golden Gophers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Minnesota Go
  lden Gophers\nThe Barn by Blue Cross and Blue Shield of Minnesota\, Minnea
- polis\, MN
+ polis\, MN\nBroadcast: B1G+ (streaming)
 LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
  , MN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906032@open-sports-cal
@@ -28,13 +29,15 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Boston College Eagles @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBoston College Eagles @ Harvar
- d Crimson\nLavietes Pavilion\, Cambridge\, MA
+ d Crimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913856@open-sports-cal
@@ -42,13 +45,15 @@ DTSTART:20261109T230000Z
 DTEND:20261110T020000Z
 SUMMARY:Harvard Crimson @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Holy Cross C
- rusaders\nHart Center Arena\, Worcester\, MA
+ rusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: ESPN+ (streaming)
+  / Patriot League TV (streaming)
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913857@open-sports-cal
@@ -56,13 +61,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Massachusetts Minutewomen @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Ha
- rvard Crimson\nLavietes Pavilion\, Cambridge\, MA
+ rvard Crimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913858@open-sports-cal
@@ -70,13 +77,15 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:Michigan State Spartans @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMichigan State Spartans @ Harv
- ard Crimson\nLavietes Pavilion\, Cambridge\, MA
+ ard Crimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913859@open-sports-cal
@@ -84,13 +93,14 @@ DTSTART:20261118T220000Z
 DTEND:20261119T010000Z
 SUMMARY:Syracuse Orange @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSyracuse Orange @ Harvard Crim
- son\nLavietes Pavilion\, Cambridge\, MA
+ son\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913860@open-sports-cal
@@ -98,12 +108,13 @@ DTSTART:20261121T013000Z
 DTEND:20261121T043000Z
 SUMMARY:Harvard Crimson @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Colorado Sta
- te Rams\nMoby Arena\, Fort Collins\, CO
+ te Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not announce
+ d
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -112,12 +123,12 @@ DTSTART:20261122T210000Z
 DTEND:20261123T000000Z
 SUMMARY:Harvard Crimson @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Wyoming Cowg
- irls\nArena-Auditorium\, Laramie\, WY
+ irls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -126,13 +137,15 @@ DTSTART:20261125T170000Z
 DTEND:20261125T200000Z
 SUMMARY:Illinois State Redbirds @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Harv
- ard Crimson\nLavietes Pavilion\, Cambridge\, MA
+ ard Crimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913750@open-sports-cal
@@ -140,12 +153,13 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Harvard Crimson @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Pittsburgh P
- anthers\nStabler Arena\, Bethlehem\, PA\nNeutral site\nStart time TBD
+ anthers\nStabler Arena\, Bethlehem\, PA\nNeutral site\nStart time TBD\nBro
+ adcast: Broadcast not announced
 LOCATION:Stabler Arena\, Bethlehem\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907170@open-sports-cal
@@ -153,13 +167,15 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:Harvard Crimson @ West Virginia Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ West Virgini
- a Mountaineers\nHope Coliseum\, Morgantown\, WV
+ a Mountaineers\nHope Coliseum\, Morgantown\, WV\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Hope Coliseum\, Morgantown\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913924@open-sports-cal
@@ -167,13 +183,15 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Harvard Crimson @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Marshall Thu
- ndering Herd\nCam Henderson Center\, Huntington\, WV
+ ndering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913925@open-sports-cal
@@ -181,13 +199,14 @@ DTSTART:20261220T170000Z
 DTEND:20261220T200000Z
 SUMMARY:UC Davis Aggies @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Davis Aggies @ Harvard Crim
- son\nLavietes Pavilion\, Cambridge\, MA
+ son\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913926@open-sports-cal
@@ -195,13 +214,14 @@ DTSTART:20261229T010000Z
 DTEND:20261229T040000Z
 SUMMARY:Harvard Crimson @ Texas Longhorns
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Texas Longho
- rns\nMoody Center\, Austin\, TX
+ rns\nMoody Center\, Austin\, TX\nBroadcast: SECN+ (streaming)
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913927@open-sports-cal
@@ -209,12 +229,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Dartmouth Big Green @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDartmouth Big Green @ Harvard 
- Crimson\nLavietes Pavilion\, Cambridge\, MA
+ Crimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -223,12 +244,13 @@ DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Harvard Crimson @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Columbia Lio
- ns\nLevien Gymnasium\, New York\, NY\nStart time TBD
+ ns\nLevien Gymnasium\, New York\, NY\nStart time TBD\nBroadcast: Broadcast
+  not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913929@open-sports-cal
@@ -236,12 +258,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Princeton Tigers @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Harvard Cri
- mson\nLavietes Pavilion\, Cambridge\, MA
+ mson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +273,13 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Pennsylvania Quakers @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPennsylvania Quakers @ Harvard
-  Crimson\nLavietes Pavilion\, Cambridge\, MA
+  Crimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +288,13 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Cornell Big Red @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCornell Big Red @ Harvard Crim
- son\nLavietes Pavilion\, Cambridge\, MA
+ son\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +303,13 @@ DTSTART:20270130T000000Z
 DTEND:20270130T030000Z
 SUMMARY:Harvard Crimson @ Brown Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Brown Bears\
- nPizzitola Sports Center\, Providence\, RI
+ nPizzitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +318,13 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:Harvard Crimson @ Yale Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Yale Bulldog
- s\nJohn J. Lee Amphitheater\, New Haven\, CT
+ s\nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +333,12 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Harvard Crimson @ Dartmouth Big Green
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Dartmouth Bi
- g Green\nLeede Arena\, Hanover\, NH
+ g Green\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +347,12 @@ DTSTART:20270213T000000Z
 DTEND:20270213T030000Z
 SUMMARY:Brown Bears @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBrown Bears @ Harvard Crimson\
- nLavietes Pavilion\, Cambridge\, MA
+ nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +361,12 @@ DTSTART:20270213T230000Z
 DTEND:20270214T020000Z
 SUMMARY:Yale Bulldogs @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nYale Bulldogs @ Harvard Crimso
- n\nLavietes Pavilion\, Cambridge\, MA
+ n\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +375,13 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Harvard Crimson @ Cornell Big Red
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Cornell Big 
- Red\nNewman Arena\, Ithaca\, NY\nStart time TBD
+ Red\nNewman Arena\, Ithaca\, NY\nStart time TBD\nBroadcast: Broadcast not 
+ announced
 LOCATION:Newman Arena\, Ithaca\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913936@open-sports-cal
@@ -361,12 +389,13 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:Harvard Crimson @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Princeton Ti
- gers\nJadwin Gymnasium\, Princeton\, NJ
+ gers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announce
+ d
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,12 +404,13 @@ DTSTART:20270227T210000Z
 DTEND:20270228T000000Z
 SUMMARY:Harvard Crimson @ Pennsylvania Quakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Pennsylvania
-  Quakers\nThe Palestra\, Philadelphia\, PA
+  Quakers\nThe Palestra\, Philadelphia\, PA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,12 +419,12 @@ DTSTART:20270306T190000Z
 DTEND:20270306T220000Z
 SUMMARY:Columbia Lions @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Harvard Crims
- on\nLavietes Pavilion\, Cambridge\, MA
+ on\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

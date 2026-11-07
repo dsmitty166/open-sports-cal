@@ -12,12 +12,14 @@ DTSTART:20261103T020000Z
 DTEND:20261103T050000Z
 SUMMARY:Abilene Christian Wildcats @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Col
- orado Buffaloes\nCU Events Center\, Boulder\, CO
+ orado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917962@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T190000Z
 DTEND:20261107T220000Z
 SUMMARY:Lamar Cardinals @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLamar Cardinals @ Abilene Christ
- ian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ ian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917963@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261112T020000Z
 DTEND:20261112T050000Z
 SUMMARY:Stephen F. Austin Lumberjacks @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStephen F. Austin Lumberjacks @ 
- Abilene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ Abilene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917964@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261117T010000Z
 DTEND:20261117T040000Z
 SUMMARY:Abilene Christian Wildcats @ Missouri State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Mis
- souri State Bears\nGreat Southern Bank Arena\, Springfield\, MO
+ souri State Bears\nGreat Southern Bank Arena\, Springfield\, MO\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Great Southern Bank Arena\, Springfield\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917965@open-sports-cal
@@ -64,12 +72,14 @@ DTSTART:20261119T020000Z
 DTEND:20261119T050000Z
 SUMMARY:McMurry War Hawks @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMcMurry War Hawks @ Abilene Chri
- stian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ stian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917966@open-sports-cal
@@ -77,12 +87,14 @@ DTSTART:20261122T010000Z
 DTEND:20261122T040000Z
 SUMMARY:Southwestern Adventist Knights @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthwestern Adventist Knights @
-  Abilene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+  Abilene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917967@open-sports-cal
@@ -90,11 +102,12 @@ DTSTART:20261125T190000Z
 DTEND:20261125T220000Z
 SUMMARY:Abilene Christian Wildcats @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Sou
- th Dakota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ th Dakota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBr
+ oadcast: Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +116,14 @@ DTSTART:20261129T010000Z
 DTEND:20261129T040000Z
 SUMMARY:Dallas Crusaders @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDallas Crusaders @ Abilene Chris
- tian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ tian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917969@open-sports-cal
@@ -116,12 +131,14 @@ DTSTART:20261202T010000Z
 DTEND:20261202T040000Z
 SUMMARY:Pepperdine Waves @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPepperdine Waves @ Abilene Chris
- tian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ tian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917970@open-sports-cal
@@ -129,12 +146,14 @@ DTSTART:20261206T000000Z
 DTEND:20261206T030000Z
 SUMMARY:South Dakota State Jackrabbits @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  Abilene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+  Abilene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917971@open-sports-cal
@@ -142,12 +161,14 @@ DTSTART:20261210T010000Z
 DTEND:20261210T040000Z
 SUMMARY:Hardin Simmons Cowboys @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHardin Simmons Cowboys @ Abilene
-  Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+  Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917972@open-sports-cal
@@ -155,12 +176,14 @@ DTSTART:20261213T200000Z
 DTEND:20261213T230000Z
 SUMMARY:Abilene Christian Wildcats @ Utah Utes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Uta
- h Utes\nJon M. Huntsman Center\, Salt Lake City\, UT
+ h Utes\nJon M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917973@open-sports-cal
@@ -168,12 +191,14 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Abilene Christian Wildcats @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Ste
- tson Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ tson Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\n
+ Broadcast: ESPN+ (streaming)
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917974@open-sports-cal
@@ -181,12 +206,14 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Abilene Christian Wildcats @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Flo
- rida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ rida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917975@open-sports-cal
@@ -194,12 +221,14 @@ DTSTART:20261231T210000Z
 DTEND:20270101T000000Z
 SUMMARY:North Florida Ospreys @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Abilene 
- Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917976@open-sports-cal
@@ -207,11 +236,12 @@ DTSTART:20270103T000000Z
 DTEND:20270103T030000Z
 SUMMARY:Jacksonville Dolphins @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville Dolphins @ Abilene 
- Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: Br
+ oadcast not announced
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +250,12 @@ DTSTART:20270107T010000Z
 DTEND:20270107T040000Z
 SUMMARY:Little Rock Trojans @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Abilene Ch
- ristian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ ristian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: Broa
+ dcast not announced
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +264,12 @@ DTSTART:20270114T013000Z
 DTEND:20270114T043000Z
 SUMMARY:Abilene Christian Wildcats @ Central Arkansas Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Cen
- tral Arkansas Bears\nFarris Center\, Conway\, AR
+ tral Arkansas Bears\nFarris Center\, Conway\, AR\nBroadcast: Broadcast not
+  announced
 LOCATION:Farris Center\, Conway\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +278,12 @@ DTSTART:20270117T000000Z
 DTEND:20270117T030000Z
 SUMMARY:UT Arlington Mavericks @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Abilene
-  Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+  Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: B
+ roadcast not announced
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +292,12 @@ DTSTART:20270121T014500Z
 DTEND:20270121T044500Z
 SUMMARY:Abilene Christian Wildcats @ North Alabama Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Nor
- th Alabama Lions\nCB&S Bank Arena at Flowers Hall\, Florence\, AL
+ th Alabama Lions\nCB&S Bank Arena at Flowers Hall\, Florence\, AL\nBroadca
+ st: Broadcast not announced
 LOCATION:CB&S Bank Arena at Flowers Hall\, Florence\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +306,12 @@ DTSTART:20270123T213000Z
 DTEND:20270124T003000Z
 SUMMARY:Abilene Christian Wildcats @ West Georgia Wolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Wes
- t Georgia Wolves\nThe Coliseum\, Carrollton\, GA
+ t Georgia Wolves\nThe Coliseum\, Carrollton\, GA\nBroadcast: Broadcast not
+  announced
 LOCATION:The Coliseum\, Carrollton\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +320,12 @@ DTSTART:20270128T010000Z
 DTEND:20270128T040000Z
 SUMMARY:Austin Peay Governors @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAustin Peay Governors @ Abilene 
- Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: Br
+ oadcast not announced
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +334,12 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Abilene Christian Wildcats @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ UT 
- Arlington Mavericks\nCollege Park Center\, Arlington\, TX
+ Arlington Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: Broa
+ dcast not announced
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +348,12 @@ DTSTART:20270204T010000Z
 DTEND:20270204T040000Z
 SUMMARY:Central Arkansas Bears @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Arkansas Bears @ Abilene
-  Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+  Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: B
+ roadcast not announced
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +362,12 @@ DTSTART:20270207T000000Z
 DTEND:20270207T030000Z
 SUMMARY:Tarleton State Texans @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTarleton State Texans @ Abilene 
- Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: Br
+ oadcast not announced
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +376,12 @@ DTSTART:20270211T013000Z
 DTEND:20270211T043000Z
 SUMMARY:Abilene Christian Wildcats @ Austin Peay Governors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Aus
- tin Peay Governors\nF&M Bank Arena\, Clarksville\, TN
+ tin Peay Governors\nF&M Bank Arena\, Clarksville\, TN\nBroadcast: Broadcas
+ t not announced
 LOCATION:F&M Bank Arena\, Clarksville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +390,12 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Abilene Christian Wildcats @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Eas
- tern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ tern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: B
+ roadcast not announced
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +404,12 @@ DTSTART:20270218T020000Z
 DTEND:20270218T050000Z
 SUMMARY:North Alabama Lions @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Alabama Lions @ Abilene Ch
- ristian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ ristian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: Broa
+ dcast not announced
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +418,12 @@ DTSTART:20270221T000000Z
 DTEND:20270221T030000Z
 SUMMARY:West Georgia Wolves @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ Abilene Ch
- ristian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ ristian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: Broa
+ dcast not announced
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +432,12 @@ DTSTART:20270225T014500Z
 DTEND:20270225T044500Z
 SUMMARY:Abilene Christian Wildcats @ Tarleton State Texans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Tar
- leton State Texans\nEECU Center\, Stephenville\, TX
+ leton State Texans\nEECU Center\, Stephenville\, TX\nBroadcast: Broadcast 
+ not announced
 LOCATION:EECU Center\, Stephenville\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +446,12 @@ DTSTART:20270304T010000Z
 DTEND:20270304T040000Z
 SUMMARY:Eastern Kentucky Colonels @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Kentucky Colonels @ Abil
- ene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ ene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast
+ : Broadcast not announced
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +460,12 @@ DTSTART:20270307T010000Z
 DTEND:20270307T040000Z
 SUMMARY:Abilene Christian Wildcats @ Little Rock Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Lit
- tle Rock Trojans\nJack Stephens Center\, Little Rock\, AR
+ tle Rock Trojans\nJack Stephens Center\, Little Rock\, AR\nBroadcast: Broa
+ dcast not announced
 LOCATION:Jack Stephens Center\, Little Rock\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

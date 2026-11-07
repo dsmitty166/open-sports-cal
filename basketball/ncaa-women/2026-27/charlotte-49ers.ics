@@ -12,13 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Richmond Spiders @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRichmond Spiders @ Charlotte 4
- 9ers\nHalton Arena\, Charlotte\, NC
+ 9ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918940@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Charlotte 49ers @ Texas Tech Lady Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ Texas Tech L
- ady Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ ady Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922324@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Longwood Lancers @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Charlotte 4
- 9ers\nHalton Arena\, Charlotte\, NC
+ 9ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926025@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261118T230000Z
 DTEND:20261119T020000Z
 SUMMARY:Wofford Terriers @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWofford Terriers @ Charlotte 4
- 9ers\nHalton Arena\, Charlotte\, NC
+ 9ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921021@open-sports-cal
@@ -68,13 +73,14 @@ DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
 SUMMARY:Charlotte 49ers @ Davidson Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ Davidson Wil
- dcats\nJohn M. Belk Arena\, Davidson\, NC
+ dcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919062@open-sports-cal
@@ -82,12 +88,13 @@ DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Charlotte 49ers @ UCF Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ UCF Knights\
- nCommunity School of Naples\, Naples\, FL\nNeutral site\nStart time TBD
+ nCommunity School of Naples\, Naples\, FL\nNeutral site\nStart time TBD\nB
+ roadcast: Broadcast not announced
 LOCATION:Community School of Naples\, Naples\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926026@open-sports-cal
@@ -95,12 +102,13 @@ DTSTART:20261128T203000Z
 DTEND:20261128T233000Z
 SUMMARY:Texas A&M Aggies @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M Aggies @ Charlotte 4
- 9ers\nCommunity School of Naples\, Naples\, FL\nNeutral site
+ 9ers\nCommunity School of Naples\, Naples\, FL\nNeutral site\nBroadcast: B
+ roadcast not announced
 LOCATION:Community School of Naples\, Naples\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -109,13 +117,14 @@ DTSTART:20261202T220000Z
 DTEND:20261203T010000Z
 SUMMARY:Kennesaw State Owls @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKennesaw State Owls @ Charlott
- e 49ers\nHalton Arena\, Charlotte\, NC
+ e 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915789@open-sports-cal
@@ -123,13 +132,14 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Charlotte 49ers @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ VCU Rams\nSi
- egel Center\, Richmond\, VA
+ egel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401909678@open-sports-cal
@@ -137,13 +147,14 @@ DTSTART:20261216T160000Z
 DTEND:20261216T190000Z
 SUMMARY:Winthrop Eagles @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWinthrop Eagles @ Charlotte 49
- ers\nHalton Arena\, Charlotte\, NC
+ ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926028@open-sports-cal
@@ -151,13 +162,15 @@ DTSTART:20261220T190000Z
 DTEND:20261220T220000Z
 SUMMARY:Charlotte 49ers @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ East Tenness
- ee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+ ee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927628@open-sports-cal
@@ -165,13 +178,14 @@ DTSTART:20261230T180000Z
 DTEND:20261230T210000Z
 SUMMARY:Charlotte 49ers @ Temple Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ Temple Owls\
- nLiacouras Center\, Philadelphia\, PA
+ nLiacouras Center\, Philadelphia\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Liacouras Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927521@open-sports-cal
@@ -179,12 +193,12 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Tulane Green Wave @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTulane Green Wave @ Charlotte 
- 49ers\nHalton Arena\, Charlotte\, NC
+ 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -193,12 +207,12 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Charlotte 49ers @ UAB Blazers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ UAB Blazers\
- nBartow Arena\, Birmingham\, AL
+ nBartow Arena\, Birmingham\, AL\nBroadcast: Broadcast not announced
 LOCATION:Bartow Arena\, Birmingham\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -207,12 +221,13 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:Charlotte 49ers @ Memphis Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ Memphis Tige
- rs\nElma Roane Fieldhouse\, Memphis\, TN
+ rs\nElma Roane Fieldhouse\, Memphis\, TN\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Elma Roane Fieldhouse\, Memphis\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -221,12 +236,12 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:South Florida Bulls @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Charlott
- e 49ers\nHalton Arena\, Charlotte\, NC
+ e 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -235,12 +250,13 @@ DTSTART:20270117T180000Z
 DTEND:20270117T210000Z
 SUMMARY:Charlotte 49ers @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ Wichita Stat
- e Shockers\nCharles Koch Arena\, Wichita\, KS
+ e Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -249,12 +265,13 @@ DTSTART:20270121T003000Z
 DTEND:20270121T033000Z
 SUMMARY:Charlotte 49ers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ Tulsa Golden
-  Hurricane\nReynolds Center\, Tulsa\, OK
+  Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -263,12 +280,12 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Memphis Tigers @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMemphis Tigers @ Charlotte 49e
- rs\nHalton Arena\, Charlotte\, NC
+ rs\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -277,12 +294,12 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:UTSA Roadrunners @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUTSA Roadrunners @ Charlotte 4
- 9ers\nHalton Arena\, Charlotte\, NC
+ 9ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -291,12 +308,12 @@ DTSTART:20270131T200000Z
 DTEND:20270131T230000Z
 SUMMARY:Charlotte 49ers @ Rice Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ Rice Owls\nT
- udor Fieldhouse\, Houston\, TX
+ udor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -305,12 +322,13 @@ DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Florida Atlantic Owls @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ Charlo
- tte 49ers\nHalton Arena\, Charlotte\, NC\nStart time TBD
+ tte 49ers\nHalton Arena\, Charlotte\, NC\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927585@open-sports-cal
@@ -318,12 +336,13 @@ DTSTART:20270211T003000Z
 DTEND:20270211T033000Z
 SUMMARY:Charlotte 49ers @ North Texas Mean Green
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ North Texas 
- Mean Green\nThe Super Pit\, Denton\, TX
+ Mean Green\nThe Super Pit\, Denton\, TX\nBroadcast: Broadcast not announce
+ d
 LOCATION:The Super Pit\, Denton\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -333,12 +352,12 @@ DTEND;VALUE=DATE:20270214
 SUMMARY:Charlotte 49ers @ East Carolina Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ East Carolin
  a Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC\nStart time
-  TBD
+  TBD\nBroadcast: Broadcast not announced
 LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927593@open-sports-cal
@@ -346,12 +365,13 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:Wichita State Shockers @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Charl
- otte 49ers\nHalton Arena\, Charlotte\, NC
+ otte 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -360,12 +380,12 @@ DTSTART:20270221T200000Z
 DTEND:20270221T230000Z
 SUMMARY:UAB Blazers @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUAB Blazers @ Charlotte 49ers\
- nHalton Arena\, Charlotte\, NC
+ nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -374,12 +394,13 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:North Texas Mean Green @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Texas Mean Green @ Charl
- otte 49ers\nHalton Arena\, Charlotte\, NC
+ otte 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,12 +410,13 @@ DTEND:20270227T230000Z
 SUMMARY:Charlotte 49ers @ Tulane Green Wave
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ Tulane Green
   Wave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, LA
+ \nBroadcast: Broadcast not announced
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -403,11 +425,12 @@ DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:East Carolina Pirates @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Carolina Pirates @ Charlo
- tte 49ers\nHalton Arena\, Charlotte\, NC\nStart time TBD
+ tte 49ers\nHalton Arena\, Charlotte\, NC\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

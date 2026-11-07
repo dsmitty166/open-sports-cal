@@ -13,12 +13,13 @@ DTEND:20261103T030000Z
 SUMMARY:Long Island University Sharks @ Florida Atlantic Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
  Florida Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca 
- Raton\, FL
+ Raton\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919804@open-sports-cal
@@ -26,12 +27,13 @@ DTSTART:20261105T233000Z
 DTEND:20261106T023000Z
 SUMMARY:Long Island University Sharks @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Seton Hall Pirates\nWalsh Gymnasium\, South Orange\, NJ
+ Seton Hall Pirates\nWalsh Gymnasium\, South Orange\, NJ\nBroadcast: truTV
 LOCATION:Walsh Gymnasium\, South Orange\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919805@open-sports-cal
@@ -39,12 +41,14 @@ DTSTART:20261107T203000Z
 DTEND:20261107T233000Z
 SUMMARY:Long Island University Sharks @ La Salle Explorers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- La Salle Explorers\nJohn Glaser Arena\, Philadelphia\, PA
+ La Salle Explorers\nJohn Glaser Arena\, Philadelphia\, PA\nBroadcast: ESPN
+ + (streaming)
 LOCATION:John Glaser Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919806@open-sports-cal
@@ -52,12 +56,13 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Long Island University Sharks @ Towson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Towson Tigers\nSECU Arena\, Towson\, MD
+ Towson Tigers\nSECU Arena\, Towson\, MD\nBroadcast: FloSports (streaming)
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911197@open-sports-cal
@@ -65,12 +70,13 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Long Island University Sharks @ Fordham Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Fordham Rams\nRose Hill Gym\, Bronx\, NY
+ Fordham Rams\nRose Hill Gym\, Bronx\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Rose Hill Gym\, Bronx\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919807@open-sports-cal
@@ -78,12 +84,14 @@ DTSTART:20261117T000000Z
 DTEND:20261117T030000Z
 SUMMARY:St. Thomas Tommies @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ Long Island
-  University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+  University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: N
+ EC Front Row
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919808@open-sports-cal
@@ -91,11 +99,12 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:UNC Wilmington Seahawks @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Long I
- sland University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ sland University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadca
+ st: Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -104,11 +113,12 @@ DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Fairfield Stags @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFairfield Stags @ Long Island Un
- iversity Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ iversity Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -117,11 +127,12 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Cornell Big Red @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCornell Big Red @ Long Island Un
- iversity Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ iversity Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -131,12 +142,13 @@ DTEND:20261205T220000Z
 SUMMARY:Long Island University Sharks @ George Washington Revolutionaries
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
  George Washington Revolutionaries\nCharles E. Smith Center\, Washington\, 
- DC
+ DC\nBroadcast: ESPN+ (streaming)
 LOCATION:Charles E. Smith Center\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919812@open-sports-cal
@@ -144,12 +156,14 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:Long Island University Sharks @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Notre Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ Notre Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: 
+ ACCNX (streaming)
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919813@open-sports-cal
@@ -157,11 +171,12 @@ DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
 SUMMARY:Princeton Tigers @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Long Island U
- niversity Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ niversity Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: Bro
+ adcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -170,12 +185,14 @@ DTSTART:20261217T020000Z
 DTEND:20261217T050000Z
 SUMMARY:Long Island University Sharks @ Louisville Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Louisville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ Louisville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACC Ne
+ twork
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919814@open-sports-cal
@@ -183,11 +200,12 @@ DTSTART:20261222T230000Z
 DTEND:20261223T020000Z
 SUMMARY:Long Island University Sharks @ San Diego State Aztecs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- San Diego State Aztecs\nViejas Arena\, San Diego\, CA
+ San Diego State Aztecs\nViejas Arena\, San Diego\, CA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Viejas Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -196,12 +214,14 @@ DTSTART:20261229T230000Z
 DTEND:20261230T020000Z
 SUMMARY:Long Island University Sharks @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Florida Gators\nStephen C. O'Connell Center\, Gainesville\, FL
+ Florida Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast:
+  SEC Network
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919793@open-sports-cal
@@ -209,11 +229,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Le Moyne Dolphins @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Long Island 
- University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,11 +243,12 @@ DTSTART:20270104T180000Z
 DTEND:20270104T210000Z
 SUMMARY:Long Island University Sharks @ New Haven Chargers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- New Haven Chargers\nJeffery P. Hazell Athletics Center\, West Haven\, CT
+ New Haven Chargers\nJeffery P. Hazell Athletics Center\, West Haven\, CT\n
+ Broadcast: Broadcast not announced
 LOCATION:Jeffery P. Hazell Athletics Center\, West Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -235,11 +257,12 @@ DTSTART:20270110T180000Z
 DTEND:20270110T210000Z
 SUMMARY:Fairleigh Dickinson Knights @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFairleigh Dickinson Knights @ Lo
- ng Island University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ ng Island University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBro
+ adcast: Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -248,11 +271,12 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Long Island University Sharks @ Chicago State Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Chicago State Cougars\nJones Convocation Center\, Chicago\, IL
+ Chicago State Cougars\nJones Convocation Center\, Chicago\, IL\nBroadcast:
+  Broadcast not announced
 LOCATION:Jones Convocation Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -261,11 +285,12 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Stonehill Skyhawks @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Long Island
-  University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+  University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -274,11 +299,12 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Mercyhurst Lakers @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Long Island 
- University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -287,11 +313,12 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:New Haven Chargers @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Haven Chargers @ Long Island
-  University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+  University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -300,11 +327,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Long Island University Sharks @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Central Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ Central Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBro
+ adcast: Broadcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -313,11 +341,12 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Long Island University Sharks @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY
+ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -326,11 +355,12 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Long Island University Sharks @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Mercyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ Mercyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broa
+ dcast not announced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -339,11 +369,12 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Long Island University Sharks @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Le Moyne Dolphins\nTed Grant Court\, Syracuse\, NY
+ Le Moyne Dolphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -352,11 +383,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Chicago State Cougars @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChicago State Cougars @ Long Isl
- and University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ and University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast
+ : Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -365,11 +397,12 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Wagner Seahawks @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Long Island Un
- iversity Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ iversity Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -378,11 +411,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Long Island University Sharks @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Stonehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+ Stonehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broa
+ dcast not announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,11 +425,12 @@ DTSTART:20270221T000000Z
 DTEND:20270221T030000Z
 SUMMARY:Long Island University Sharks @ Fairleigh Dickinson Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Fairleigh Dickinson Knights\nBogota Savings Bank Center\, Hackensack\, NJ
+ Fairleigh Dickinson Knights\nBogota Savings Bank Center\, Hackensack\, NJ\
+ nBroadcast: Broadcast not announced
 LOCATION:Bogota Savings Bank Center\, Hackensack\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,11 +439,12 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Central Connecticut Blue Devils @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Connecticut Blue Devils 
- @ Long Island University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ @ Long Island University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\
+ nBroadcast: Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

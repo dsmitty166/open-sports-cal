@@ -12,12 +12,13 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Saint Peter's Peacocks @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Seton H
- all Pirates\nPrudential Center\, Newark\, NJ
+ all Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919804@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261105T233000Z
 DTEND:20261106T023000Z
 SUMMARY:Long Island University Sharks @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Seton Hall Pirates\nWalsh Gymnasium\, South Orange\, NJ
+ Seton Hall Pirates\nWalsh Gymnasium\, South Orange\, NJ\nBroadcast: truTV
 LOCATION:Walsh Gymnasium\, South Orange\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920887@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20261110T023000Z
 DTEND:20261110T053000Z
 SUMMARY:Seton Hall Pirates @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Charlotte 4
- 9ers\nThe Palestra\, Philadelphia\, PA\nNeutral site
+ 9ers\nThe Palestra\, Philadelphia\, PA\nNeutral site\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906760@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261114T020000Z
 DTEND:20261114T050000Z
 SUMMARY:Seton Hall Pirates @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Alabama Cri
- mson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ mson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920888@open-sports-cal
@@ -64,12 +69,14 @@ DTSTART:20261120T013000Z
 DTEND:20261120T043000Z
 SUMMARY:Seton Hall Pirates @ Wisconsin Badgers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Wisconsin B
- adgers\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site
+ adgers\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site\nBroad
+ cast: CBSSN
 LOCATION:Baha Mar Convention Center\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920889@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:New Hampshire Wildcats @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Seton H
- all Pirates\nPrudential Center\, Newark\, NJ
+ all Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920890@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 SUMMARY:Siena Saints @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSiena Saints @ Seton Hall Pirate
- s\nPrudential Center\, Newark\, NJ
+ s\nPrudential Center\, Newark\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909801@open-sports-cal
@@ -103,12 +112,13 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:Kansas State Wildcats @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ Seton Ha
- ll Pirates\nPrudential Center\, Newark\, NJ
+ ll Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: truTV
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920871@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261208T000000Z
 DTEND:20261208T030000Z
 SUMMARY:NJIT Highlanders @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNJIT Highlanders @ Seton Hall Pi
- rates\nPrudential Center\, Newark\, NJ
+ rates\nPrudential Center\, Newark\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920891@open-sports-cal
@@ -129,12 +140,13 @@ DTSTART:20261212T213000Z
 DTEND:20261213T003000Z
 SUMMARY:Seton Hall Pirates @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Rutgers Sca
- rlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ rlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: FS1
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920892@open-sports-cal
@@ -142,12 +154,14 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:UNC Greensboro Spartans @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Seton 
- Hall Pirates\nPrudential Center\, Newark\, NJ
+ Hall Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920571@open-sports-cal
@@ -155,12 +169,13 @@ DTSTART:20261219T170000Z
 DTEND:20261219T200000Z
 SUMMARY:Seton Hall Pirates @ Georgetown Hoyas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Georgetown 
- Hoyas\nCapital One Arena\, Washington\, DC
+ Hoyas\nCapital One Arena\, Washington\, DC\nBroadcast: truTV
 LOCATION:Capital One Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920577@open-sports-cal
@@ -168,12 +183,13 @@ DTSTART:20261224T010000Z
 DTEND:20261224T040000Z
 SUMMARY:St. John's Red Storm @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. John's Red Storm @ Seton Hal
- l Pirates\nPrudential Center\, Newark\, NJ
+ l Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: FS1
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920580@open-sports-cal
@@ -181,12 +197,13 @@ DTSTART:20261230T210000Z
 DTEND:20261231T000000Z
 SUMMARY:Seton Hall Pirates @ DePaul Blue Demons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ DePaul Blue
-  Demons\nWintrust Arena\, Chicago\, IL
+  Demons\nWintrust Arena\, Chicago\, IL\nBroadcast: truTV
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920585@open-sports-cal
@@ -194,12 +211,13 @@ DTSTART:20270102T170000Z
 DTEND:20270102T200000Z
 SUMMARY:Seton Hall Pirates @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Xavier Musk
- eteers\nCintas Center\, Cincinnati\, OH
+ eteers\nCintas Center\, Cincinnati\, OH\nBroadcast: FS1
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920590@open-sports-cal
@@ -207,12 +225,13 @@ DTSTART:20270106T230000Z
 DTEND:20270107T020000Z
 SUMMARY:Creighton Bluejays @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCreighton Bluejays @ Seton Hall 
- Pirates\nPrudential Center\, Newark\, NJ
+ Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: Peacock (streaming)
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920595@open-sports-cal
@@ -220,12 +239,13 @@ DTSTART:20270110T000000Z
 DTEND:20270110T030000Z
 SUMMARY:UConn Huskies @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Seton Hall Pirat
- es\nPrudential Center\, Newark\, NJ
+ es\nPrudential Center\, Newark\, NJ\nBroadcast: Peacock (streaming)
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920601@open-sports-cal
@@ -233,12 +253,14 @@ DTSTART:20270112T230000Z
 DTEND:20270113T020000Z
 SUMMARY:Seton Hall Pirates @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Villanova W
- ildcats\nFinneran Pavilion\, Villanova\, PA
+ ildcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: Peacock (streaming
+ )
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920604@open-sports-cal
@@ -246,12 +268,13 @@ DTSTART:20270116T010000Z
 DTEND:20270116T040000Z
 SUMMARY:Georgetown Hoyas @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgetown Hoyas @ Seton Hall Pi
- rates\nPrudential Center\, Newark\, NJ
+ rates\nPrudential Center\, Newark\, NJ\nBroadcast: FS1
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920618@open-sports-cal
@@ -259,12 +282,14 @@ DTSTART:20270123T170000Z
 DTEND:20270123T200000Z
 SUMMARY:Seton Hall Pirates @ St. John's Red Storm
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ St. John's 
- Red Storm\nMadison Square Garden\, New York\, NY
+ Red Storm\nMadison Square Garden\, New York\, NY\nBroadcast: Peacock (stre
+ aming)
 LOCATION:Madison Square Garden\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920622@open-sports-cal
@@ -272,12 +297,13 @@ DTSTART:20270127T233000Z
 DTEND:20270128T023000Z
 SUMMARY:Marquette Golden Eagles @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ Seton 
- Hall Pirates\nPrudential Center\, Newark\, NJ
+ Hall Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: FS1
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920627@open-sports-cal
@@ -285,12 +311,13 @@ DTSTART:20270130T170000Z
 DTEND:20270130T200000Z
 SUMMARY:Seton Hall Pirates @ Providence Friars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Providence 
- Friars\nAmica Mutual Pavilion\, Providence\, RI
+ Friars\nAmica Mutual Pavilion\, Providence\, RI\nBroadcast: FS1
 LOCATION:Amica Mutual Pavilion\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920632@open-sports-cal
@@ -298,12 +325,13 @@ DTSTART:20270203T233000Z
 DTEND:20270204T023000Z
 SUMMARY:Butler Bulldogs @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nButler Bulldogs @ Seton Hall Pir
- ates\nPrudential Center\, Newark\, NJ
+ ates\nPrudential Center\, Newark\, NJ\nBroadcast: FS1
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920638@open-sports-cal
@@ -311,12 +339,13 @@ DTSTART:20270207T193000Z
 DTEND:20270207T223000Z
 SUMMARY:DePaul Blue Demons @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Seton Hall 
- Pirates\nPrudential Center\, Newark\, NJ
+ Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: FS1
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920643@open-sports-cal
@@ -324,12 +353,13 @@ DTSTART:20270211T010000Z
 DTEND:20270211T040000Z
 SUMMARY:Villanova Wildcats @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Seton Hall 
- Pirates\nPrudential Center\, Newark\, NJ
+ Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: Peacock (streaming)
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920648@open-sports-cal
@@ -337,12 +367,13 @@ DTSTART:20270214T200000Z
 DTEND:20270214T230000Z
 SUMMARY:Seton Hall Pirates @ Creighton Bluejays
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Creighton B
- luejays\nCHI Health Center Omaha\, Omaha\, NE
+ luejays\nCHI Health Center Omaha\, Omaha\, NE\nBroadcast: FS1
 LOCATION:CHI Health Center Omaha\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920652@open-sports-cal
@@ -350,12 +381,14 @@ DTSTART:20270218T010000Z
 DTEND:20270218T040000Z
 SUMMARY:Seton Hall Pirates @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ UConn Huski
- es\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ es\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: Peacock (
+ streaming)
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920657@open-sports-cal
@@ -363,12 +396,13 @@ DTSTART:20270221T013000Z
 DTEND:20270221T043000Z
 SUMMARY:Providence Friars @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nProvidence Friars @ Seton Hall P
- irates\nPrudential Center\, Newark\, NJ
+ irates\nPrudential Center\, Newark\, NJ\nBroadcast: FS1
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920660@open-sports-cal
@@ -376,12 +410,13 @@ DTSTART:20270224T020000Z
 DTEND:20270224T050000Z
 SUMMARY:Seton Hall Pirates @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Marquette G
- olden Eagles\nFiserv Forum\, Milwaukee\, WI
+ olden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: TNT
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920668@open-sports-cal
@@ -389,12 +424,13 @@ DTSTART:20270228T170000Z
 DTEND:20270228T200000Z
 SUMMARY:Xavier Musketeers @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Seton Hall P
- irates\nPrudential Center\, Newark\, NJ
+ irates\nPrudential Center\, Newark\, NJ\nBroadcast: FS1
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920678@open-sports-cal
@@ -402,11 +438,12 @@ DTSTART:20270306T183000Z
 DTEND:20270306T213000Z
 SUMMARY:Seton Hall Pirates @ Butler Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Butler Bull
- dogs\nHinkle Fieldhouse\, Indianapolis\, IN
+ dogs\nHinkle Fieldhouse\, Indianapolis\, IN\nBroadcast: FS1
 LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 END:VCALENDAR

@@ -12,13 +12,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Eastern Kentucky Colonels @ UT Martin Skyhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ UT
-  Martin Skyhawks\nKathleen and Tom Elam Center\, Martin\, TN
+  Martin Skyhawks\nKathleen and Tom Elam Center\, Martin\, TN\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Kathleen and Tom Elam Center\, Martin\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918447@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T004500Z
 DTEND:20261106T034500Z
 SUMMARY:Eastern Kentucky Colonels @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Mo
- rehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ rehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911505@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
 SUMMARY:Radford Highlanders @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRadford Highlanders @ Eastern 
- Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918448@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261110T230000Z
 DTEND:20261111T020000Z
 SUMMARY:Midway Eagles @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMidway Eagles @ Eastern Kentuc
- ky Colonels\nBaptist Health Arena\, Richmond\, KY
+ ky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918449@open-sports-cal
@@ -68,13 +76,15 @@ DTSTART:20261112T230000Z
 DTEND:20261113T020000Z
 SUMMARY:Southern Illinois Salukis @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Illinois Salukis @ Ea
- stern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ stern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918450@open-sports-cal
@@ -82,13 +92,15 @@ DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:Northern Kentucky Norse @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ East
- ern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ ern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918511@open-sports-cal
@@ -96,13 +108,15 @@ DTSTART:20261120T210000Z
 DTEND:20261121T000000Z
 SUMMARY:Simmons (KY) Falcons @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSimmons (KY) Falcons @ Eastern
-  Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+  Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918512@open-sports-cal
@@ -110,12 +124,13 @@ DTSTART:20261125T020000Z
 DTEND:20261125T050000Z
 SUMMARY:Eastern Kentucky Colonels @ New Mexico Lobos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Ne
- w Mexico Lobos\nThe Pit\, Albuquerque\, NM
+ w Mexico Lobos\nThe Pit\, Albuquerque\, NM\nBroadcast: Broadcast not annou
+ nced
 LOCATION:The Pit\, Albuquerque\, NM
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +139,15 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:Transylvania Pioneers @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTransylvania Pioneers @ Easter
- n Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ n Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918514@open-sports-cal
@@ -138,13 +155,15 @@ DTSTART:20261202T170000Z
 DTEND:20261202T200000Z
 SUMMARY:Presbyterian Blue Hose @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPresbyterian Blue Hose @ Easte
- rn Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ rn Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906085@open-sports-cal
@@ -152,13 +171,15 @@ DTSTART:20261206T210000Z
 DTEND:20261207T000000Z
 SUMMARY:Eastern Kentucky Colonels @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Lo
- uisville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ uisville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACC Netw
+ ork
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918515@open-sports-cal
@@ -166,13 +187,15 @@ DTSTART:20261213T200000Z
 DTEND:20261213T230000Z
 SUMMARY:Eastern Kentucky Colonels @ Milwaukee Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Mi
- lwaukee Panthers\nKlotsche Center\, Milwaukee\, WI
+ lwaukee Panthers\nKlotsche Center\, Milwaukee\, WI\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Klotsche Center\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916077@open-sports-cal
@@ -180,13 +203,14 @@ DTSTART:20261219T193000Z
 DTEND:20261219T223000Z
 SUMMARY:Eastern Kentucky Colonels @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Li
- pscomb Bisons\nAllen Arena\, Nashville\, TN
+ pscomb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918516@open-sports-cal
@@ -194,13 +218,15 @@ DTSTART:20261221T233000Z
 DTEND:20261222T023000Z
 SUMMARY:Eastern Kentucky Colonels @ Bellarmine Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Be
- llarmine Knights\nKnights Hall\, Louisville\, KY
+ llarmine Knights\nKnights Hall\, Louisville\, KY\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Knights Hall\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913911@open-sports-cal
@@ -208,13 +234,15 @@ DTSTART:20261231T230000Z
 DTEND:20270101T020000Z
 SUMMARY:West Florida Argonauts @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWest Florida Argonauts @ Easte
- rn Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ rn Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913896@open-sports-cal
@@ -222,12 +250,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Queens University Royals @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nQueens University Royals @ Eas
- tern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ tern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: B
+ roadcast not announced
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +265,13 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Austin Peay Governors @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAustin Peay Governors @ Easter
- n Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ n Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +280,13 @@ DTSTART:20270109T200000Z
 DTEND:20270109T230000Z
 SUMMARY:Eastern Kentucky Colonels @ Tarleton State Texans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Ta
- rleton State Texans\nEECU Center\, Stephenville\, TX
+ rleton State Texans\nEECU Center\, Stephenville\, TX\nBroadcast: Broadcast
+  not announced
 LOCATION:EECU Center\, Stephenville\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +295,13 @@ DTSTART:20270113T220000Z
 DTEND:20270114T010000Z
 SUMMARY:North Alabama Lions @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Alabama Lions @ Eastern 
- Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: Broadc
+ ast not announced
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +310,13 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Abilene Christian Wildcats @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAbilene Christian Wildcats @ E
- astern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ astern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast:
+  Broadcast not announced
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +325,13 @@ DTSTART:20270120T223000Z
 DTEND:20270121T013000Z
 SUMMARY:Eastern Kentucky Colonels @ West Georgia Wolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ We
- st Georgia Wolves\nThe Coliseum\, Carrollton\, GA
+ st Georgia Wolves\nThe Coliseum\, Carrollton\, GA\nBroadcast: Broadcast no
+ t announced
 LOCATION:The Coliseum\, Carrollton\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +340,13 @@ DTSTART:20270128T010000Z
 DTEND:20270128T040000Z
 SUMMARY:Eastern Kentucky Colonels @ Little Rock Trojans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Li
- ttle Rock Trojans\nJack Stephens Center\, Little Rock\, AR
+ ttle Rock Trojans\nJack Stephens Center\, Little Rock\, AR\nBroadcast: Bro
+ adcast not announced
 LOCATION:Jack Stephens Center\, Little Rock\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +355,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Eastern Kentucky Colonels @ Central Arkansas Sugar Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Ce
- ntral Arkansas Sugar Bears\nFarris Center\, Conway\, AR
+ ntral Arkansas Sugar Bears\nFarris Center\, Conway\, AR\nBroadcast: Broadc
+ ast not announced
 LOCATION:Farris Center\, Conway\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +370,13 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:UT Arlington Mavericks @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Arlington Mavericks @ Easte
- rn Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ rn Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: Bro
+ adcast not announced
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +385,13 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Tarleton State Texans @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTarleton State Texans @ Easter
- n Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ n Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +400,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Little Rock Trojans @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLittle Rock Trojans @ Eastern 
- Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: Broadc
+ ast not announced
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +415,13 @@ DTSTART:20270217T230000Z
 DTEND:20270218T020000Z
 SUMMARY:Eastern Kentucky Colonels @ UT Arlington Mavericks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ UT
-  Arlington Mavericks\nCollege Park Center\, Arlington\, TX
+  Arlington Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: Bro
+ adcast not announced
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +430,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Eastern Kentucky Colonels @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Ab
- ilene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ ilene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadca
+ st: Broadcast not announced
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +445,13 @@ DTSTART:20270224T233000Z
 DTEND:20270225T023000Z
 SUMMARY:Eastern Kentucky Colonels @ North Alabama Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ No
- rth Alabama Lions\nCB&S Bank Arena at Flowers Hall\, Florence\, AL
+ rth Alabama Lions\nCB&S Bank Arena at Flowers Hall\, Florence\, AL\nBroadc
+ ast: Broadcast not announced
 LOCATION:CB&S Bank Arena at Flowers Hall\, Florence\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +460,13 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:West Georgia Wolves @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWest Georgia Wolves @ Eastern 
- Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: Broadc
+ ast not announced
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +475,13 @@ DTSTART:20270303T230000Z
 DTEND:20270304T020000Z
 SUMMARY:Central Arkansas Sugar Bears @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Arkansas Sugar Bears @
-  Eastern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+  Eastern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcas
+ t: Broadcast not announced
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -446,12 +490,13 @@ DTSTART:20270306T180000Z
 DTEND:20270306T210000Z
 SUMMARY:Eastern Kentucky Colonels @ Austin Peay Governors
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Au
- stin Peay Governors\nF&M Bank Arena\, Clarksville\, TN
+ stin Peay Governors\nF&M Bank Arena\, Clarksville\, TN\nBroadcast: Broadca
+ st not announced
 LOCATION:F&M Bank Arena\, Clarksville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

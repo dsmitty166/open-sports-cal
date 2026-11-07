@@ -12,12 +12,13 @@ DTSTART:20260830T020000Z
 DTEND:20260830T050000Z
 SUMMARY:Memphis Tigers @ UNLV Rebels
 DESCRIPTION:NCAA FBS Football 2026\nMemphis Tigers @ UNLV Rebels\nAllegiant
-  Stadium\, Las Vegas\, NV
+  Stadium\, Las Vegas\, NV\nBroadcast: Fox
 LOCATION:Allegiant Stadium\, Las Vegas\, NV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862695@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20260905T230000Z
 DTEND:20260906T020000Z
 SUMMARY:Arkansas State Red Wolves @ Memphis Tigers
 DESCRIPTION:NCAA FBS Football 2026\nArkansas State Red Wolves @ Memphis Tig
- ers\nSimmons Bank Liberty Stadium\, Memphis\, TN
+ ers\nSimmons Bank Liberty Stadium\, Memphis\, TN\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Simmons Bank Liberty Stadium\, Memphis\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401860881@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260912T220000Z
 DTEND:20260913T010000Z
 SUMMARY:Memphis Tigers @ Boise State Broncos
 DESCRIPTION:NCAA FBS Football 2026\nMemphis Tigers @ Boise State Broncos\nA
- lbertsons Stadium\, Boise\, ID
+ lbertsons Stadium\, Boise\, ID\nBroadcast: USA Net
 LOCATION:Albertsons Stadium\, Boise\, ID
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:USA Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862772@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:UT Martin Skyhawks @ Memphis Tigers
 DESCRIPTION:NCAA FBS Football 2026\nUT Martin Skyhawks @ Memphis Tigers\nSi
- mmons Bank Liberty Stadium\, Memphis\, TN
+ mmons Bank Liberty Stadium\, Memphis\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Simmons Bank Liberty Stadium\, Memphis\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862787@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T150000Z
 DTEND:20261003T180000Z
 SUMMARY:Memphis Tigers @ Charlotte 49ers
 DESCRIPTION:NCAA FBS Football 2026\nMemphis Tigers @ Charlotte 49ers\nJerry
-  Richardson Stadium\, Charlotte\, NC
+  Richardson Stadium\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Jerry Richardson Stadium\, Charlotte\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862798@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261010T230000Z
 DTEND:20261011T020000Z
 SUMMARY:UAB Blazers @ Memphis Tigers
 DESCRIPTION:NCAA FBS Football 2026\nUAB Blazers @ Memphis Tigers\nSimmons B
- ank Liberty Stadium\, Memphis\, TN
+ ank Liberty Stadium\, Memphis\, TN\nBroadcast: ESPN2
 LOCATION:Simmons Bank Liberty Stadium\, Memphis\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862801@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261016T233000Z
 DTEND:20261017T023000Z
 SUMMARY:Memphis Tigers @ Tulane Green Wave
 DESCRIPTION:NCAA FBS Football 2026\nMemphis Tigers @ Tulane Green Wave\nYul
- man Stadium\, New Orleans\, LA
+ man Stadium\, New Orleans\, LA\nBroadcast: ESPN
 LOCATION:Yulman Stadium\, New Orleans\, LA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862807@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261022T233000Z
 DTEND:20261023T023000Z
 SUMMARY:East Carolina Pirates @ Memphis Tigers
 DESCRIPTION:NCAA FBS Football 2026\nEast Carolina Pirates @ Memphis Tigers\
- nSimmons Bank Liberty Stadium\, Memphis\, TN
+ nSimmons Bank Liberty Stadium\, Memphis\, TN\nBroadcast: ESPN2
 LOCATION:Simmons Bank Liberty Stadium\, Memphis\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862814@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261101T000000Z
 DTEND:20261101T030000Z
 SUMMARY:Army Black Knights @ Memphis Tigers
 DESCRIPTION:NCAA FBS Football 2026\nArmy Black Knights @ Memphis Tigers\nSi
- mmons Bank Liberty Stadium\, Memphis\, TN
+ mmons Bank Liberty Stadium\, Memphis\, TN\nBroadcast: ESPNU
 LOCATION:Simmons Bank Liberty Stadium\, Memphis\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862824@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261113T010000Z
 DTEND:20261113T040000Z
 SUMMARY:Memphis Tigers @ South Florida Bulls
 DESCRIPTION:NCAA FBS Football 2026\nMemphis Tigers @ South Florida Bulls\nR
- aymond James Stadium\, Tampa\, FL
+ aymond James Stadium\, Tampa\, FL\nBroadcast: ESPN
 LOCATION:Raymond James Stadium\, Tampa\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862834@open-sports-cal
@@ -142,11 +153,12 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Memphis Tigers @ Navy Midshipmen
 DESCRIPTION:NCAA FBS Football 2026\nMemphis Tigers @ Navy Midshipmen\nNavy-
- Marine Corps Memorial Stadium\, Annapolis\, MD
+ Marine Corps Memorial Stadium\, Annapolis\, MD\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Navy-Marine Corps Memorial Stadium\, Annapolis\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,10 +167,11 @@ DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Temple Owls @ Memphis Tigers
 DESCRIPTION:NCAA FBS Football 2026\nTemple Owls @ Memphis Tigers\nSimmons B
- ank Liberty Stadium\, Memphis\, TN\nStart time TBD
+ ank Liberty Stadium\, Memphis\, TN\nStart time TBD\nBroadcast: ESPN
 LOCATION:Simmons Bank Liberty Stadium\, Memphis\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN
 END:VEVENT
 END:VCALENDAR

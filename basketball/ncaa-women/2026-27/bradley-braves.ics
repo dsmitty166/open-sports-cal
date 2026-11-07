@@ -12,13 +12,14 @@ DTSTART:20261104T003000Z
 DTEND:20261104T033000Z
 SUMMARY:Bradley Braves @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Wisconsin Bad
- gers\nKohl Center\, Madison\, WI
+ gers\nKohl Center\, Madison\, WI\nBroadcast: B1G+ (streaming)
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919666@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Northern Illinois Huskies @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Br
- adley Braves\nRenaissance Coliseum\, Peoria\, IL
+ adley Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918925@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Bradley Braves @ Indiana Hoosiers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Indiana Hoosi
- ers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+ ers\nSimon Skjodt Assembly Hall\, Bloomington\, IN\nBroadcast: B1G+ (strea
+ ming)
 LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919667@open-sports-cal
@@ -54,13 +59,14 @@ DTSTART:20261114T220000Z
 DTEND:20261115T010000Z
 SUMMARY:Bradley Braves @ Bellarmine Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Bellarmine Kn
- ights\nKnights Hall\, Louisville\, KY
+ ights\nKnights Hall\, Louisville\, KY\nBroadcast: ESPN+ (streaming)
 LOCATION:Knights Hall\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913048@open-sports-cal
@@ -68,13 +74,14 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Bradley Braves @ DePaul Blue Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ DePaul Blue D
- emons\nWintrust Arena\, Chicago\, IL
+ emons\nWintrust Arena\, Chicago\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919668@open-sports-cal
@@ -83,12 +90,12 @@ DTEND:20261126T000000Z
 SUMMARY:UTEP Miners @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUTEP Miners @ Bradley Braves\n
  Strahan Arena at the University Events Center\, San Marcos\, TX\nNeutral s
- ite
+ ite\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -97,12 +104,13 @@ DTSTART:20261127T200000Z
 DTEND:20261127T230000Z
 SUMMARY:Bradley Braves @ Texas State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Texas State B
- obcats\nStrahan Arena at the University Events Center\, San Marcos\, TX
+ obcats\nStrahan Arena at the University Events Center\, San Marcos\, TX\nB
+ roadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -112,12 +120,12 @@ DTEND:20261128T220000Z
 SUMMARY:Pacific Tigers @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Bradley Brave
  s\nStrahan Arena at the University Events Center\, San Marcos\, TX\nNeutra
- l site
+ l site\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -126,13 +134,15 @@ DTSTART:20261202T170000Z
 DTEND:20261202T200000Z
 SUMMARY:Kent State Golden Flashes @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKent State Golden Flashes @ Br
- adley Braves\nRenaissance Coliseum\, Peoria\, IL
+ adley Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919671@open-sports-cal
@@ -140,12 +150,13 @@ DTSTART:20261205T200000Z
 DTEND:20261205T230000Z
 SUMMARY:Western Illinois Leathernecks @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Bradley Braves\nRenaissance Coliseum\, Peoria\, IL
+ @ Bradley Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast
+  not announced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -154,12 +165,13 @@ DTSTART:20261209T010000Z
 DTEND:20261209T040000Z
 SUMMARY:Bradley Braves @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ South Dakota 
- Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: Broadc
+ ast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -168,13 +180,14 @@ DTSTART:20261213T200000Z
 DTEND:20261213T230000Z
 SUMMARY:Memphis Tigers @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMemphis Tigers @ Bradley Brave
- s\nRenaissance Coliseum\, Peoria\, IL
+ s\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922353@open-sports-cal
@@ -182,13 +195,14 @@ DTSTART:20261220T200000Z
 DTEND:20261220T230000Z
 SUMMARY:Bradley Braves @ Murray State Racers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Murray State 
- Racers\nCFSB Center\, Murray\, KY
+ Racers\nCFSB Center\, Murray\, KY\nBroadcast: ESPN+ (streaming)
 LOCATION:CFSB Center\, Murray\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922358@open-sports-cal
@@ -196,13 +210,14 @@ DTSTART:20261222T190000Z
 DTEND:20261222T220000Z
 SUMMARY:Bradley Braves @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Belmont Bruin
- s\nCurb Event Center Arena\, Nashville\, TN
+ s\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922385@open-sports-cal
@@ -210,13 +225,14 @@ DTSTART:20261231T000000Z
 DTEND:20261231T030000Z
 SUMMARY:Drake Bulldogs @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDrake Bulldogs @ Bradley Brave
- s\nRenaissance Coliseum\, Peoria\, IL
+ s\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922390@open-sports-cal
@@ -224,12 +240,13 @@ DTSTART:20270102T000000Z
 DTEND:20270102T030000Z
 SUMMARY:Valparaiso Beacons @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nValparaiso Beacons @ Bradley B
- raves\nRenaissance Coliseum\, Peoria\, IL
+ raves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -238,12 +255,13 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:Bradley Braves @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Indiana State
-  Sycamores\nHulman Center\, Terre Haute\, IN
+  Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -252,12 +270,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Bradley Braves @ Evansville Purple Aces
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Evansville Pu
- rple Aces\nMeeks Family Fieldhouse\, Evansville\, IN
+ rple Aces\nMeeks Family Fieldhouse\, Evansville\, IN\nBroadcast: Broadcast
+  not announced
 LOCATION:Meeks Family Fieldhouse\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +285,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Southern Illinois Salukis @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Illinois Salukis @ Br
- adley Braves\nRenaissance Coliseum\, Peoria\, IL
+ adley Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast not
+  announced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +300,12 @@ DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
 SUMMARY:Bradley Braves @ UIC Flames
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ UIC Flames\nC
- redit Union 1 Arena\, Chicago\, IL
+ redit Union 1 Arena\, Chicago\, IL\nBroadcast: Broadcast not announced
 LOCATION:Credit Union 1 Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +314,13 @@ DTSTART:20270120T000000Z
 DTEND:20270120T030000Z
 SUMMARY:Northern Iowa Panthers @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Iowa Panthers @ Bradl
- ey Braves\nRenaissance Coliseum\, Peoria\, IL
+ ey Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +329,13 @@ DTSTART:20270123T000000Z
 DTEND:20270123T030000Z
 SUMMARY:Illinois State Redbirds @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Brad
- ley Braves\nRenaissance Coliseum\, Peoria\, IL
+ ley Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +344,13 @@ DTSTART:20270124T200000Z
 DTEND:20270124T230000Z
 SUMMARY:Bradley Braves @ Valparaiso Beacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Valparaiso Be
- acons\nAthletics-Recreation Center\, Valparaiso\, IN
+ acons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: Broadcast
+  not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +359,13 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Murray State Racers @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Bradley 
- Braves\nRenaissance Coliseum\, Peoria\, IL
+ Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +374,13 @@ DTSTART:20270130T200000Z
 DTEND:20270130T230000Z
 SUMMARY:Evansville Purple Aces @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEvansville Purple Aces @ Bradl
- ey Braves\nRenaissance Coliseum\, Peoria\, IL
+ ey Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -364,12 +389,12 @@ DTSTART:20270207T200000Z
 DTEND:20270207T230000Z
 SUMMARY:Belmont Bruins @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Bradley Brave
- s\nRenaissance Coliseum\, Peoria\, IL
+ s\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast not announced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -378,12 +403,13 @@ DTSTART:20270213T000000Z
 DTEND:20270213T030000Z
 SUMMARY:Indiana State Sycamores @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Brad
- ley Braves\nRenaissance Coliseum\, Peoria\, IL
+ ley Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -392,12 +418,13 @@ DTSTART:20270214T180000Z
 DTEND:20270214T210000Z
 SUMMARY:Bradley Braves @ Southern Illinois Salukis
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Southern Illi
- nois Salukis\nBanterra Center\, Carbondale\, IL
+ nois Salukis\nBanterra Center\, Carbondale\, IL\nBroadcast: Broadcast not 
+ announced
 LOCATION:Banterra Center\, Carbondale\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -406,12 +433,12 @@ DTSTART:20270220T000000Z
 DTEND:20270220T030000Z
 SUMMARY:Bradley Braves @ Drake Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Drake Bulldog
- s\nKnapp Center\, Des Moines\, IA
+ s\nKnapp Center\, Des Moines\, IA\nBroadcast: Broadcast not announced
 LOCATION:Knapp Center\, Des Moines\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -420,12 +447,13 @@ DTSTART:20270221T220000Z
 DTEND:20270222T010000Z
 SUMMARY:Bradley Braves @ Northern Iowa Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Northern Iowa
-  Panthers\nMcLeod Center\, Cedar Falls\, IA
+  Panthers\nMcLeod Center\, Cedar Falls\, IA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:McLeod Center\, Cedar Falls\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -434,12 +462,12 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:UIC Flames @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUIC Flames @ Bradley Braves\nR
- enaissance Coliseum\, Peoria\, IL
+ enaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast not announced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -448,12 +476,12 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:Bradley Braves @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Illinois Stat
- e Redbirds\nCEFCU Arena\, Normal\, IL
+ e Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcast not announced
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Charlotte 49ers @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Indiana State 
- Sycamores\nHulman Center\, Terre Haute\, IN
+ Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925819@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Georgia State Panthers @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Charlot
- te 49ers\nHalton Arena\, Charlotte\, NC
+ te 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920887@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20261110T023000Z
 DTEND:20261110T053000Z
 SUMMARY:Seton Hall Pirates @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Charlotte 4
- 9ers\nThe Palestra\, Philadelphia\, PA\nNeutral site
+ 9ers\nThe Palestra\, Philadelphia\, PA\nNeutral site\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925820@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:App State Mountaineers @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nApp State Mountaineers @ Charlot
- te 49ers\nHalton Arena\, Charlotte\, NC
+ te 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925775@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Charlotte 49ers @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Davidson Wildc
- ats\nJohn M. Belk Arena\, Davidson\, NC
+ ats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921701@open-sports-cal
@@ -77,11 +83,12 @@ DTSTART:20261123T183000Z
 DTEND:20261123T213000Z
 SUMMARY:Charlotte 49ers @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Florida Gulf C
- oast Eagles\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site
+ oast Eagles\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site\n
+ Broadcast: Broadcast not announced
 LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +97,12 @@ DTSTART:20261125T160000Z
 DTEND:20261125T190000Z
 SUMMARY:Northern Iowa Panthers @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Iowa Panthers @ Charlot
- te 49ers\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site
+ te 49ers\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site\nBro
+ adcast: Broadcast not announced
 LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +111,13 @@ DTSTART:20261129T200000Z
 DTEND:20261129T230000Z
 SUMMARY:Western Carolina Catamounts @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Ch
- arlotte 49ers\nHalton Arena\, Charlotte\, NC
+ arlotte 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925822@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261203T010000Z
 DTEND:20261203T040000Z
 SUMMARY:Charleston Cougars @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Cougars @ Charlotte 4
- 9ers\nHalton Arena\, Charlotte\, NC
+ 9ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925823@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:North Alabama Lions @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Alabama Lions @ Charlotte 
- 49ers\nHalton Arena\, Charlotte\, NC
+ 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925824@open-sports-cal
@@ -142,12 +153,14 @@ DTSTART:20261213T200000Z
 DTEND:20261213T230000Z
 SUMMARY:Johnson C. Smith Golden Bulls @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJohnson C. Smith Golden Bulls @ 
- Charlotte 49ers\nHalton Arena\, Charlotte\, NC
+ Charlotte 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921195@open-sports-cal
@@ -155,12 +168,13 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Iona Gaels @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIona Gaels @ Charlotte 49ers\nHa
- lton Arena\, Charlotte\, NC
+ lton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925825@open-sports-cal
@@ -168,12 +182,13 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:Charlotte 49ers @ UIC Flames
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ UIC Flames\nCr
- edit Union 1 Arena\, Chicago\, IL
+ edit Union 1 Arena\, Chicago\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Credit Union 1 Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921164@open-sports-cal
@@ -181,12 +196,13 @@ DTSTART:20261222T230000Z
 DTEND:20261223T020000Z
 SUMMARY:North Carolina A&T Aggies @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina A&T Aggies @ Char
- lotte 49ers\nHalton Arena\, Charlotte\, NC
+ lotte 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927752@open-sports-cal
@@ -194,12 +210,14 @@ DTSTART:20261231T230000Z
 DTEND:20270101T020000Z
 SUMMARY:Charlotte 49ers @ Florida Atlantic Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Florida Atlant
- ic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+ ic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL\nBr
+ oadcast: ESPNU
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927639@open-sports-cal
@@ -207,11 +225,12 @@ DTSTART:20270103T200000Z
 DTEND:20270103T230000Z
 SUMMARY:Wichita State Shockers @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Charlot
- te 49ers\nHalton Arena\, Charlotte\, NC
+ te 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announce
+ d
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +239,11 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Charlotte 49ers @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ South Florida 
- Bulls\nYuengling Center\, Tampa\, FL
+ Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +252,11 @@ DTSTART:20270110T210000Z
 DTEND:20270111T000000Z
 SUMMARY:Temple Owls @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTemple Owls @ Charlotte 49ers\nH
- alton Arena\, Charlotte\, NC
+ alton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +265,11 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:UTSA Roadrunners @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Charlotte 49e
- rs\nHalton Arena\, Charlotte\, NC
+ rs\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +278,11 @@ DTSTART:20270117T210000Z
 DTEND:20270118T000000Z
 SUMMARY:Charlotte 49ers @ North Texas Mean Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ North Texas Me
- an Green\nThe Super Pit\, Denton\, TX
+ an Green\nThe Super Pit\, Denton\, TX\nBroadcast: Broadcast not announced
 LOCATION:The Super Pit\, Denton\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +291,11 @@ DTSTART:20270121T020000Z
 DTEND:20270121T050000Z
 SUMMARY:Memphis Tigers @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMemphis Tigers @ Charlotte 49ers
- \nHalton Arena\, Charlotte\, NC
+ \nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,12 +304,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Charlotte 49ers @ Tulane Green Wave
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Tulane Green W
- ave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, LA
+ ave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, LA\n
+ Broadcast: Broadcast not announced
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +319,11 @@ DTSTART:20270127T000000Z
 DTEND:20270127T030000Z
 SUMMARY:UAB Blazers @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUAB Blazers @ Charlotte 49ers\nH
- alton Arena\, Charlotte\, NC
+ alton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +332,12 @@ DTSTART:20270131T210000Z
 DTEND:20270201T000000Z
 SUMMARY:Charlotte 49ers @ East Carolina Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ East Carolina 
- Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC
+ Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC\nBroadcast: B
+ roadcast not announced
 LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +346,11 @@ DTSTART:20270207T190000Z
 DTEND:20270207T220000Z
 SUMMARY:South Florida Bulls @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Charlotte 
- 49ers\nHalton Arena\, Charlotte\, NC
+ 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +359,11 @@ DTSTART:20270212T010000Z
 DTEND:20270212T040000Z
 SUMMARY:Charlotte 49ers @ Memphis Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Memphis Tigers
- \nFedExForum\, Memphis\, TN
+ \nFedExForum\, Memphis\, TN\nBroadcast: Broadcast not announced
 LOCATION:FedExForum\, Memphis\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +372,11 @@ DTSTART:20270214T200000Z
 DTEND:20270214T230000Z
 SUMMARY:Charlotte 49ers @ UAB Blazers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ UAB Blazers\nB
- artow Arena\, Birmingham\, AL
+ artow Arena\, Birmingham\, AL\nBroadcast: Broadcast not announced
 LOCATION:Bartow Arena\, Birmingham\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +385,11 @@ DTSTART:20270217T220000Z
 DTEND:20270218T010000Z
 SUMMARY:Florida Atlantic Owls @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Atlantic Owls @ Charlott
- e 49ers\nHalton Arena\, Charlotte\, NC
+ e 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +398,11 @@ DTSTART:20270220T220000Z
 DTEND:20270221T010000Z
 SUMMARY:Rice Owls @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Charlotte 49ers\nHal
- ton Arena\, Charlotte\, NC
+ ton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +411,12 @@ DTSTART:20270228T190000Z
 DTEND:20270228T220000Z
 SUMMARY:Charlotte 49ers @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Wichita State 
- Shockers\nCharles Koch Arena\, Wichita\, KS
+ Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -403,11 +425,11 @@ DTSTART:20270304T010000Z
 DTEND:20270304T040000Z
 SUMMARY:Charlotte 49ers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Tulsa Golden H
- urricane\nReynolds Center\, Tulsa\, OK
+ urricane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not announced
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -416,11 +438,11 @@ DTSTART:20270307T190000Z
 DTEND:20270307T220000Z
 SUMMARY:East Carolina Pirates @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Carolina Pirates @ Charlott
- e 49ers\nHalton Arena\, Charlotte\, NC
+ e 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

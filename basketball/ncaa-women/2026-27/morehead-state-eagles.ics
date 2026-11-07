@@ -12,13 +12,15 @@ DTSTART:20261102T233000Z
 DTEND:20261103T023000Z
 SUMMARY:Morehead State Eagles @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Kentuc
- ky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ ky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SECN+ (st
+ reaming)
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918447@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T004500Z
 DTEND:20261106T034500Z
 SUMMARY:Eastern Kentucky Colonels @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Mo
- rehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ rehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918828@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261110T003000Z
 DTEND:20261110T033000Z
 SUMMARY:Morehead State Eagles @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Vander
- bilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ bilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: SECN
+ + (streaming)
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919709@open-sports-cal
@@ -54,13 +60,14 @@ DTSTART:20261112T170000Z
 DTEND:20261112T200000Z
 SUMMARY:Morehead State Eagles @ Murray State Racers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Murray
-  State Racers\nCFSB Center\, Murray\, KY
+  State Racers\nCFSB Center\, Murray\, KY\nBroadcast: ESPN+ (streaming)
 LOCATION:CFSB Center\, Murray\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927956@open-sports-cal
@@ -68,13 +75,15 @@ DTSTART:20261115T230000Z
 DTEND:20261116T020000Z
 SUMMARY:IU Indianapolis Jaguars @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIU Indianapolis Jaguars @ More
- head State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ head State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927957@open-sports-cal
@@ -82,13 +91,15 @@ DTSTART:20261119T230000Z
 DTEND:20261120T020000Z
 SUMMARY:Tusculum Pioneers @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTusculum Pioneers @ Morehead S
- tate Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ tate Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927958@open-sports-cal
@@ -96,13 +107,15 @@ DTSTART:20261122T190000Z
 DTEND:20261122T220000Z
 SUMMARY:Morehead State Eagles @ Western Carolina Catamounts
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Wester
- n Carolina Catamounts\nRamsey Center\, Cullowhee\, NC
+ n Carolina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927959@open-sports-cal
@@ -111,12 +124,12 @@ DTEND:20261127T200000Z
 SUMMARY:Morehead State Eagles @ Buffalo Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Buffal
  o Bulls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL\nNe
- utral site
+ utral site\nBroadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -126,12 +139,12 @@ DTEND:20261128T200000Z
 SUMMARY:Western Kentucky Lady Toppers @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Kentucky Lady Toppers 
  @ Morehead State Eagles\nAbessinio Court at Eleanor R. Baldwin Arena\, Boc
- a Raton\, FL\nNeutral site
+ a Raton\, FL\nNeutral site\nBroadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -140,13 +153,15 @@ DTSTART:20261202T221500Z
 DTEND:20261203T011500Z
 SUMMARY:Louisiana Ragin' Cajuns @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisiana Ragin' Cajuns @ More
- head State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ head State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927961@open-sports-cal
@@ -154,13 +169,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Morehead State Eagles @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ East T
- ennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN
+ ennessee State Buccaneers\nBrooks Gymnasium\, Johnson City\, TN\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Brooks Gymnasium\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927962@open-sports-cal
@@ -168,13 +185,15 @@ DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Northern Kentucky Norse @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ More
- head State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ head State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927963@open-sports-cal
@@ -182,13 +201,15 @@ DTSTART:20261217T160000Z
 DTEND:20261217T190000Z
 SUMMARY:Alice Lloyd Eagles @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlice Lloyd Eagles @ Morehead 
- State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927964@open-sports-cal
@@ -196,13 +217,15 @@ DTSTART:20261219T180000Z
 DTEND:20261219T210000Z
 SUMMARY:Davis & Elkins Senators @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDavis & Elkins Senators @ More
- head State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ head State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912963@open-sports-cal
@@ -210,13 +233,15 @@ DTSTART:20261221T190000Z
 DTEND:20261221T220000Z
 SUMMARY:Morehead State Eagles @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Tennes
- see Lady Volunteers\nFood City Center\, Knoxville\, TN
+ see Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SECN+ (
+ streaming)
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919338@open-sports-cal
@@ -224,13 +249,15 @@ DTSTART:20261230T233000Z
 DTEND:20261231T023000Z
 SUMMARY:Morehead State Eagles @ UT Martin Skyhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ UT Mar
- tin Skyhawks\nKathleen and Tom Elam Center\, Martin\, TN
+ tin Skyhawks\nKathleen and Tom Elam Center\, Martin\, TN\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Kathleen and Tom Elam Center\, Martin\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927965@open-sports-cal
@@ -238,12 +265,13 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:Kentucky Christian Knights @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKentucky Christian Knights @ M
- orehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ orehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: B
+ roadcast not announced
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -252,12 +280,13 @@ DTSTART:20270107T221500Z
 DTEND:20270108T011500Z
 SUMMARY:Eastern Illinois Panthers @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Mo
- rehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ rehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +295,13 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:Lindenwood Lions @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLindenwood Lions @ Morehead St
- ate Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ ate Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +310,13 @@ DTSTART:20270113T221500Z
 DTEND:20270114T011500Z
 SUMMARY:Southern Indiana Screaming Eagles @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Indiana Screaming Eag
- les @ Morehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ les @ Morehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroad
+ cast: Broadcast not announced
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +325,13 @@ DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
 SUMMARY:Morehead State Eagles @ Tennessee State Lady Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Tennes
- see State Lady Tigers\nGentry Center\, Nashville\, TN
+ see State Lady Tigers\nGentry Center\, Nashville\, TN\nBroadcast: Broadcas
+ t not announced
 LOCATION:Gentry Center\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +340,13 @@ DTSTART:20270121T221500Z
 DTEND:20270122T011500Z
 SUMMARY:Western Illinois Leathernecks @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Morehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ @ Morehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast
+ : Broadcast not announced
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +355,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:SIU Edwardsville Cougars @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSIU Edwardsville Cougars @ Mor
- ehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ ehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: Bro
+ adcast not announced
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +370,13 @@ DTSTART:20270128T230000Z
 DTEND:20270129T020000Z
 SUMMARY:Morehead State Eagles @ Lindenwood Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Linden
- wood Lions\nHyland Arena\, Saint Charles\, MO
+ wood Lions\nHyland Arena\, Saint Charles\, MO\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Hyland Arena\, Saint Charles\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +385,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Morehead State Eagles @ Southern Indiana Screaming Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Southe
- rn Indiana Screaming Eagles\nLiberty Arena (IN)\, Evansville\, IN
+ rn Indiana Screaming Eagles\nLiberty Arena (IN)\, Evansville\, IN\nBroadca
+ st: Broadcast not announced
 LOCATION:Liberty Arena (IN)\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -364,12 +400,13 @@ DTSTART:20270204T221500Z
 DTEND:20270205T011500Z
 SUMMARY:Southeast Missouri State Redhawks @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSoutheast Missouri State Redha
- wks @ Morehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ wks @ Morehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroad
+ cast: Broadcast not announced
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -378,12 +415,13 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Tennessee State Lady Tigers @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee State Lady Tigers @ 
- Morehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ Morehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: 
+ Broadcast not announced
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -392,12 +430,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Morehead State Eagles @ SIU Edwardsville Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ SIU Ed
- wardsville Cougars\nFirst Community Arena\, Edwardsville\, IL
+ wardsville Cougars\nFirst Community Arena\, Edwardsville\, IL\nBroadcast: 
+ Broadcast not announced
 LOCATION:First Community Arena\, Edwardsville\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -406,12 +445,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Morehead State Eagles @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Wester
- n Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ n Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broadcast 
+ not announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -420,12 +460,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:UT Martin Skyhawks @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Martin Skyhawks @ Morehead 
- State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: Broadcast
+  not announced
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -434,12 +475,13 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Morehead State Eagles @ Southeast Missouri State Redhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Southe
- ast Missouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO
+ ast Missouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO\nBroadca
+ st: Broadcast not announced
 LOCATION:Show Me Center\, Cape Girardeau\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -448,12 +490,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Morehead State Eagles @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Easter
- n Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ n Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: Broadcas
+ t not announced
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

@@ -13,13 +13,15 @@ DTSTART:20261103T010000Z
 DTEND:20261103T040000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Texas A&M Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Texas A&M Aggies\nReed Arena\, College Station\, TX
+ ns @ Texas A&M Aggies\nReed Arena\, College Station\, TX\nBroadcast: SECN+
+  (streaming)
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918431@open-sports-cal
@@ -27,13 +29,15 @@ DTSTART:20261104T170000Z
 DTEND:20261104T200000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Tarleton State Texans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Tarleton State Texans\nEECU Center\, Stephenville\, TX
+ ns @ Tarleton State Texans\nEECU Center\, Stephenville\, TX\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:EECU Center\, Stephenville\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929232@open-sports-cal
@@ -41,12 +45,13 @@ DTSTART:20261109T223000Z
 DTEND:20261110T013000Z
 SUMMARY:Arkansas Baptist Buffaloes @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas Baptist Buffaloes @ A
- rkansas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ rkansas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nBr
+ oadcast: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -55,13 +60,15 @@ DTSTART:20261113T003000Z
 DTEND:20261113T033000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Arkansas Razorbacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Arkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ ns @ Arkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast:
+  SECN+ (streaming)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918648@open-sports-cal
@@ -69,13 +76,15 @@ DTSTART:20261116T230000Z
 DTEND:20261117T020000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ UL Monroe Warhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ UL Monroe Warhawks\nb1Bank Fant Coliseum\, Monroe\, LA
+ ns @ UL Monroe Warhawks\nb1Bank Fant Coliseum\, Monroe\, LA\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:b1Bank Fant Coliseum\, Monroe\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928004@open-sports-cal
@@ -83,13 +92,15 @@ DTSTART:20261119T003000Z
 DTEND:20261119T033000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Louisiana Tech Lady Techsters
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Louisiana Tech Lady Techsters\nThomas Assembly Center\, Ruston\, LA
+ ns @ Louisiana Tech Lady Techsters\nThomas Assembly Center\, Ruston\, LA\n
+ Broadcast: ESPN+ (streaming)
 LOCATION:Thomas Assembly Center\, Ruston\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929233@open-sports-cal
@@ -97,12 +108,13 @@ DTSTART:20261124T233000Z
 DTEND:20261125T023000Z
 SUMMARY:East Texas A&M Lions @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Texas A&M Lions @ Arkansa
- s-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ s-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nBroadcas
+ t: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -111,13 +123,15 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Miami Hurricanes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Miami Hurricanes\nWatsco Center\, Coral Gables\, FL
+ ns @ Miami Hurricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: ACCNX
+  (streaming)
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913868@open-sports-cal
@@ -125,13 +139,15 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ South Florida Bulls\nYuengling Center\, Tampa\, FL
+ ns @ South Florida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921237@open-sports-cal
@@ -140,12 +156,12 @@ DTEND;VALUE=DATE:20261206
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Saint Louis Billikens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
  ns @ Saint Louis Billikens\nChaifetz Arena\, St. Louis\, MO\nStart time TB
- D
+ D\nBroadcast: Broadcast not announced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929234@open-sports-cal
@@ -153,12 +169,13 @@ DTSTART:20261207T223000Z
 DTEND:20261208T013000Z
 SUMMARY:LeMoyne-Owen Magicians @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLeMoyne-Owen Magicians @ Arkan
- sas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ sas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nBroadc
+ ast: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -167,13 +184,15 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ UAB Blazers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ UAB Blazers\nBartow Arena\, Birmingham\, AL
+ ns @ UAB Blazers\nBartow Arena\, Birmingham\, AL\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Bartow Arena\, Birmingham\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928570@open-sports-cal
@@ -182,13 +201,13 @@ DTEND:20261219T233000Z
 SUMMARY:Texas State Bobcats @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas State Bobcats @ Arkansas
  -Pine Bluff Golden Lions\nAvron B. Fogelman Arena in the Devlin Fieldhouse
- \, New Orleans\, LA\nNeutral site
+ \, New Orleans\, LA\nNeutral site\nBroadcast: Broadcast not announced
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -197,12 +216,13 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Alabama A&M Bulldogs\nEvent Center\, Huntsville\, AL
+ ns @ Alabama A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broa
+ dcast not announced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -211,12 +231,13 @@ DTSTART:20270104T230000Z
 DTEND:20270105T020000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Alabama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+ ns @ Alabama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBr
+ oadcast: Broadcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -226,11 +247,12 @@ DTEND:20270108T023000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
   @ Arkansas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ \nBroadcast: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -239,12 +261,13 @@ DTSTART:20270109T210000Z
 DTEND:20270110T000000Z
 SUMMARY:Texas Southern Tigers @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Southern Tigers @ Arkans
- as-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ as-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nBroadca
+ st: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -253,12 +276,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Bethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ ns @ Bethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\n
+ Broadcast: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -267,12 +291,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Florida A&M Rattlers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Florida A&M Rattlers\nAl Lawson Center\, Tallahassee\, FL
+ ns @ Florida A&M Rattlers\nAl Lawson Center\, Tallahassee\, FL\nBroadcast:
+  Broadcast not announced
 LOCATION:Al Lawson Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -281,12 +306,13 @@ DTSTART:20270121T233000Z
 DTEND:20270122T023000Z
 SUMMARY:Grambling Lady Tigers @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrambling Lady Tigers @ Arkans
- as-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ as-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nBroadca
+ st: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -295,12 +321,13 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Southern Jaguars @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Arkansas-Pi
- ne Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ ne Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nBroadcast: B
+ roadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,12 +338,12 @@ SUMMARY:Mississippi Valley State Devilettes @ Arkansas-Pine Bluff Golden Li
  ons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi Valley State Devil
  ettes @ Arkansas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff
- \, AR
+ \, AR\nBroadcast: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -326,12 +353,12 @@ DTEND:20270205T030000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Jackson State Lady Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
  ns @ Jackson State Lady Tigers\nLee E. Williams Athletics and Assembly Cen
- ter\, Jackson\, MS
+ ter\, Jackson\, MS\nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -340,12 +367,13 @@ DTSTART:20270211T190000Z
 DTEND:20270211T220000Z
 SUMMARY:Alabama A&M Bulldogs @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama A&M Bulldogs @ Arkansa
- s-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ s-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nBroadcas
+ t: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -354,12 +382,13 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Alabama State Lady Hornets @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ A
- rkansas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ rkansas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nBr
+ oadcast: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -368,12 +397,13 @@ DTSTART:20270218T200000Z
 DTEND:20270218T230000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Texas Southern Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Texas Southern Tigers\nH&PE Arena\, Houston\, TX
+ ns @ Texas Southern Tigers\nH&PE Arena\, Houston\, TX\nBroadcast: Broadcas
+ t not announced
 LOCATION:H&PE Arena\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -383,12 +413,12 @@ DTEND:20270219T030000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
  ns @ Prairie View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie V
- iew\, TX
+ iew\, TX\nBroadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -399,12 +429,12 @@ SUMMARY:Arkansas-Pine Bluff Golden Lions @ Mississippi Valley State Devilet
  tes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
  ns @ Mississippi Valley State Devilettes\nR.W. Harrison HPER Complex\, Itt
- a Bena\, MS
+ a Bena\, MS\nBroadcast: Broadcast not announced
 LOCATION:R.W. Harrison HPER Complex\, Itta Bena\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -413,12 +443,13 @@ DTSTART:20270302T233000Z
 DTEND:20270303T023000Z
 SUMMARY:Jackson State Lady Tigers @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJackson State Lady Tigers @ Ar
- kansas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ kansas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nBro
+ adcast: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -427,12 +458,13 @@ DTSTART:20270304T230000Z
 DTEND:20270305T020000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Alcorn State Lady Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Alcorn State Lady Braves\nDavey L. Whitney Complex\, Lorman\, MS
+ ns @ Alcorn State Lady Braves\nDavey L. Whitney Complex\, Lorman\, MS\nBro
+ adcast: Broadcast not announced
 LOCATION:Davey L. Whitney Complex\, Lorman\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

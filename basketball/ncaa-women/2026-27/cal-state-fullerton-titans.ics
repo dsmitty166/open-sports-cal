@@ -12,12 +12,13 @@ DTSTART:20261103T020000Z
 DTEND:20261103T050000Z
 SUMMARY:Cal State Fullerton Titans @ San Diego State Aztecs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ S
- an Diego State Aztecs\nViejas Arena\, San Diego\, CA
+ an Diego State Aztecs\nViejas Arena\, San Diego\, CA\nBroadcast: Broadcast
+  not announced
 LOCATION:Viejas Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -26,13 +27,15 @@ DTSTART:20261105T030000Z
 DTEND:20261105T060000Z
 SUMMARY:Hope International Royals @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHope International Royals @ Ca
- l State Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ l State Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921521@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:Westcliff Warriors @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestcliff Warriors @ Cal State
-  Fullerton Titans\nTitan Gym\, Fullerton\, CA
+  Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920404@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261112T190000Z
 DTEND:20261112T220000Z
 SUMMARY:Cal State Fullerton Titans @ UC Davis Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ U
- C Davis Aggies\nUniversity Credit Union Center\, Davis\, CA
+ C Davis Aggies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: MW
+ + (streaming)
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917704@open-sports-cal
@@ -68,13 +75,14 @@ DTSTART:20261115T220000Z
 DTEND:20261116T010000Z
 SUMMARY:Pacific Tigers @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ Cal State Ful
- lerton Titans\nTitan Gym\, Fullerton\, CA
+ lerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921522@open-sports-cal
@@ -82,13 +90,15 @@ DTSTART:20261120T030000Z
 DTEND:20261120T060000Z
 SUMMARY:Weber State Wildcats @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWeber State Wildcats @ Cal Sta
- te Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ te Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921523@open-sports-cal
@@ -96,13 +106,15 @@ DTSTART:20261125T030000Z
 DTEND:20261125T060000Z
 SUMMARY:Cal State Fullerton Titans @ Portland State Vikings
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ P
- ortland State Vikings\nViking Pavilion\, Portland\, OR
+ ortland State Vikings\nViking Pavilion\, Portland\, OR\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Viking Pavilion\, Portland\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921524@open-sports-cal
@@ -110,13 +122,15 @@ DTSTART:20261204T023000Z
 DTEND:20261204T053000Z
 SUMMARY:Cal State Fullerton Titans @ Sacramento State Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ S
- acramento State Hornets\nHornet Pavilion\, Sacramento\, CA
+ acramento State Hornets\nHornet Pavilion\, Sacramento\, CA\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Hornet Pavilion\, Sacramento\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921525@open-sports-cal
@@ -125,13 +139,14 @@ DTEND:20261206T010000Z
 SUMMARY:Cal State Fullerton Titans @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ L
  ong Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, C
- A
+ A\nBroadcast: ESPN+ (streaming)
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921526@open-sports-cal
@@ -139,13 +154,14 @@ DTSTART:20261213T220000Z
 DTEND:20261214T010000Z
 SUMMARY:Denver Pioneers @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Cal State Fu
- llerton Titans\nTitan Gym\, Fullerton\, CA
+ llerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921527@open-sports-cal
@@ -153,13 +169,15 @@ DTSTART:20261219T013000Z
 DTEND:20261219T043000Z
 SUMMARY:Cal State Fullerton Titans @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ S
- outhern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ outhern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920250@open-sports-cal
@@ -167,13 +185,14 @@ DTSTART:20261220T190000Z
 DTEND:20261220T220000Z
 SUMMARY:Air Force Falcons @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ Cal State 
- Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921528@open-sports-cal
@@ -181,13 +200,15 @@ DTSTART:20261231T220000Z
 DTEND:20270101T010000Z
 SUMMARY:Cal State Fullerton Titans @ UC San Diego Tritons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ U
- C San Diego Tritons\nLionTree Arena\, San Diego\, CA
+ C San Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921529@open-sports-cal
@@ -195,12 +216,13 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:Cal State Fullerton Titans @ UC Irvine Anteaters
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ U
- C Irvine Anteaters\nBren Events Center\, Irvine\, CA
+ C Irvine Anteaters\nBren Events Center\, Irvine\, CA\nBroadcast: Broadcast
+  not announced
 LOCATION:Bren Events Center\, Irvine\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -209,12 +231,13 @@ DTSTART:20270108T030000Z
 DTEND:20270108T060000Z
 SUMMARY:UC Santa Barbara Gauchos @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Santa Barbara Gauchos @ Cal
-  State Fullerton Titans\nTitan Gym\, Fullerton\, CA
+  State Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -223,12 +246,13 @@ DTSTART:20270109T220000Z
 DTEND:20270110T010000Z
 SUMMARY:Cal Poly Mustangs @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal Poly Mustangs @ Cal State 
- Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -237,12 +261,13 @@ DTSTART:20270115T023000Z
 DTEND:20270115T053000Z
 SUMMARY:Cal State Fullerton Titans @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ C
- al State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ al State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadc
+ ast: Broadcast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -252,12 +277,12 @@ DTEND:20270117T010000Z
 SUMMARY:Cal State Fullerton Titans @ Cal State Northridge Matadors
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ C
  al State Northridge Matadors\nPremier America Credit Union Arena\, Northri
- dge\, CA
+ dge\, CA\nBroadcast: Broadcast not announced
 LOCATION:Premier America Credit Union Arena\, Northridge\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +291,13 @@ DTSTART:20270122T030000Z
 DTEND:20270122T060000Z
 SUMMARY:UC Irvine Anteaters @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Irvine Anteaters @ Cal Stat
- e Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ e Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +306,13 @@ DTSTART:20270123T220000Z
 DTEND:20270124T010000Z
 SUMMARY:UC San Diego Tritons @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC San Diego Tritons @ Cal Sta
- te Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ te Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +321,13 @@ DTSTART:20270129T030000Z
 DTEND:20270129T060000Z
 SUMMARY:UC Riverside Highlanders @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Riverside Highlanders @ Cal
-  State Fullerton Titans\nTitan Gym\, Fullerton\, CA
+  State Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +336,13 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:California Baptist Lancers @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ C
- al State Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ al State Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +351,13 @@ DTSTART:20270205T020000Z
 DTEND:20270205T050000Z
 SUMMARY:Cal State Fullerton Titans @ Cal Poly Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ C
- al Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+ al Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA\nBroadcast:
+  Broadcast not announced
 LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +366,13 @@ DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:Cal State Fullerton Titans @ UC Santa Barbara Gauchos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ U
- C Santa Barbara Gauchos\nThe Thunderdome\, Santa Barbara\, CA
+ C Santa Barbara Gauchos\nThe Thunderdome\, Santa Barbara\, CA\nBroadcast: 
+ Broadcast not announced
 LOCATION:The Thunderdome\, Santa Barbara\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +381,13 @@ DTSTART:20270212T030000Z
 DTEND:20270212T060000Z
 SUMMARY:Cal State Northridge Matadors @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Northridge Matadors 
- @ Cal State Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ @ Cal State Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Broad
+ cast not announced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -364,12 +396,13 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Bakersfield Roadrunn
- ers @ Cal State Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ ers @ Cal State Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: B
+ roadcast not announced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -378,12 +411,13 @@ DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:Cal State Fullerton Titans @ Utah Valley Wolverines
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ U
- tah Valley Wolverines\nLockhart Arena\, Orem\, UT
+ tah Valley Wolverines\nLockhart Arena\, Orem\, UT\nBroadcast: Broadcast no
+ t announced
 LOCATION:Lockhart Arena\, Orem\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -392,12 +426,13 @@ DTSTART:20270220T220000Z
 DTEND:20270221T010000Z
 SUMMARY:Long Beach State Beach @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ Cal S
- tate Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ tate Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -406,12 +441,13 @@ DTSTART:20270226T030000Z
 DTEND:20270226T060000Z
 SUMMARY:Sacramento State Hornets @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacramento State Hornets @ Cal
-  State Fullerton Titans\nTitan Gym\, Fullerton\, CA
+  State Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -420,12 +456,13 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:Utah Valley Wolverines @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah Valley Wolverines @ Cal S
- tate Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ tate Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -435,12 +472,12 @@ DTEND:20270305T050000Z
 SUMMARY:Cal State Fullerton Titans @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ C
  alifornia Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Ri
- verside\, CA
+ verside\, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -449,12 +486,13 @@ DTSTART:20270306T210000Z
 DTEND:20270307T000000Z
 SUMMARY:Cal State Fullerton Titans @ UC Riverside Highlanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ U
- C Riverside Highlanders\nSRC Arena\, Riverside\, CA
+ C Riverside Highlanders\nSRC Arena\, Riverside\, CA\nBroadcast: Broadcast 
+ not announced
 LOCATION:SRC Arena\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

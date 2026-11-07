@@ -12,11 +12,12 @@ DTSTART:20261103T020000Z
 DTEND:20261103T050000Z
 SUMMARY:Davidson Wildcats @ Washington State Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ Washington S
- tate Cougars\nBeasley Coliseum\, Pullman\, WA
+ tate Cougars\nBeasley Coliseum\, Pullman\, WA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Beasley Coliseum\, Pullman\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -25,12 +26,13 @@ DTSTART:20261108T000000Z
 DTEND:20261108T030000Z
 SUMMARY:Mercer Bears @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercer Bears @ Davidson Wildcats
- \nJohn M. Belk Arena\, Davidson\, NC
+ \nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925773@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Bradley Braves @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBradley Braves @ Davidson Wildca
- ts\nJohn M. Belk Arena\, Davidson\, NC
+ ts\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925774@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:Howard Bison @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Davidson Wildcats
- \nJohn M. Belk Arena\, Davidson\, NC
+ \nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925775@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Charlotte 49ers @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Davidson Wildc
- ats\nJohn M. Belk Arena\, Davidson\, NC
+ ats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921700@open-sports-cal
@@ -77,11 +82,12 @@ DTSTART:20261123T160000Z
 DTEND:20261123T190000Z
 SUMMARY:Northern Iowa Panthers @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Iowa Panthers @ Davidso
- n Wildcats\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site
+ n Wildcats\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site\nB
+ roadcast: Broadcast not announced
 LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +96,12 @@ DTSTART:20261125T183000Z
 DTEND:20261125T213000Z
 SUMMARY:Tulane Green Wave @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulane Green Wave @ Davidson Wil
- dcats\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site
+ dcats\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site\nBroadc
+ ast: Broadcast not announced
 LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +110,14 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:Davidson Wildcats @ Florida Atlantic Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ Florida Atla
- ntic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+ ntic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL\n
+ Broadcast: ESPN+ (streaming)
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920239@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Dartmouth Big Green @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Davidson W
- ildcats\nJohn M. Belk Arena\, Davidson\, NC
+ ildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925776@open-sports-cal
@@ -129,11 +139,11 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Davidson Wildcats @ Charleston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ Charleston C
- ougars\nTD Arena\, Charleston\, SC
+ ougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +152,14 @@ DTSTART:20261210T003000Z
 DTEND:20261210T033000Z
 SUMMARY:Campbell Fighting Camels @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ David
- son Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+ son Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922287@open-sports-cal
@@ -155,12 +167,14 @@ DTSTART:20261212T210000Z
 DTEND:20261213T000000Z
 SUMMARY:South Carolina Upstate Spartans @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Upstate Spartans 
- @ Davidson Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+ @ Davidson Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925777@open-sports-cal
@@ -168,11 +182,12 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:Drake Bulldogs @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Davidson Wildca
- ts\nT-Mobile Center\, Kansas City\, MO\nNeutral site
+ ts\nT-Mobile Center\, Kansas City\, MO\nNeutral site\nBroadcast: Broadcast
+  not announced
 LOCATION:T-Mobile Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -181,12 +196,13 @@ DTSTART:20261222T190000Z
 DTEND:20261222T220000Z
 SUMMARY:UT Martin Skyhawks @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Martin Skyhawks @ Davidson Wi
- ldcats\nJohn M. Belk Arena\, Davidson\, NC
+ ldcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927334@open-sports-cal
@@ -194,12 +210,13 @@ DTSTART:20261231T000000Z
 DTEND:20261231T030000Z
 SUMMARY:Davidson Wildcats @ Duquesne Dukes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ Duquesne Duk
- es\nUPMC Cooper Fieldhouse\, Pittsburgh\, PA
+ es\nUPMC Cooper Fieldhouse\, Pittsburgh\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927216@open-sports-cal
@@ -207,11 +224,11 @@ DTSTART:20270102T193000Z
 DTEND:20270102T223000Z
 SUMMARY:Dayton Flyers @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDayton Flyers @ Davidson Wildcat
- s\nJohn M. Belk Arena\, Davidson\, NC
+ s\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: Broadcast not announced
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +237,11 @@ DTSTART:20270106T230000Z
 DTEND:20270107T020000Z
 SUMMARY:Davidson Wildcats @ VCU Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ VCU Rams\nSi
- egel Center\, Richmond\, VA
+ egel Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +250,12 @@ DTSTART:20270109T193000Z
 DTEND:20270109T223000Z
 SUMMARY:Richmond Spiders @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ Davidson Wild
- cats\nJohn M. Belk Arena\, Davidson\, NC
+ cats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: Broadcast not announc
+ ed
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +264,12 @@ DTSTART:20270116T193000Z
 DTEND:20270116T223000Z
 SUMMARY:Davidson Wildcats @ Loyola Chicago Ramblers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ Loyola Chica
- go Ramblers\nGentile Arena\, Chicago\, IL
+ go Ramblers\nGentile Arena\, Chicago\, IL\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Gentile Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +278,11 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Fordham Rams @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFordham Rams @ Davidson Wildcats
- \nJohn M. Belk Arena\, Davidson\, NC
+ \nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: Broadcast not announced
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +291,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Davidson Wildcats @ La Salle Explorers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ La Salle Exp
- lorers\nJohn Glaser Arena\, Philadelphia\, PA
+ lorers\nJohn Glaser Arena\, Philadelphia\, PA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:John Glaser Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +305,12 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:Saint Joseph's Hawks @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Joseph's Hawks @ Davidson 
- Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+ Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +319,12 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Loyola Chicago Ramblers @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Chicago Ramblers @ Davids
- on Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+ on Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: Broadcast not 
+ announced
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +333,11 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:Davidson Wildcats @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ Richmond Spi
- ders\nRobins Center\, Richmond\, VA
+ ders\nRobins Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +346,12 @@ DTSTART:20270207T190000Z
 DTEND:20270207T220000Z
 SUMMARY:Davidson Wildcats @ Rhode Island Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ Rhode Island
-  Rams\nThomas M. Ryan Center\, Kingston\, RI
+  Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +360,12 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:St. Bonaventure Bonnies @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Davids
- on Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+ on Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: Broadcast not 
+ announced
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +374,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:George Mason Patriots @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorge Mason Patriots @ Davidson
-  Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+  Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: Broadcast not an
+ nounced
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +388,12 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:Davidson Wildcats @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ Saint Louis 
- Billikens\nChaifetz Arena\, St. Louis\, MO
+ Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +402,12 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:George Washington Revolutionaries @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorge Washington Revolutionarie
- s @ Davidson Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+ s @ Davidson Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: Broa
+ dcast not announced
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +416,12 @@ DTSTART:20270227T193000Z
 DTEND:20270227T223000Z
 SUMMARY:Davidson Wildcats @ Saint Joseph's Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ Saint Joseph
- 's Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA
+ 's Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA\nBroadcast: Broad
+ cast not announced
 LOCATION:Michael J. Hagan '85 Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +430,11 @@ DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
 SUMMARY:Davidson Wildcats @ Fordham Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ Fordham Rams
- \nRose Hill Gym\, Bronx\, NY
+ \nRose Hill Gym\, Bronx\, NY\nBroadcast: Broadcast not announced
 LOCATION:Rose Hill Gym\, Bronx\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +443,11 @@ DTSTART:20270306T190000Z
 DTEND:20270306T220000Z
 SUMMARY:Duquesne Dukes @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDuquesne Dukes @ Davidson Wildca
- ts\nJohn M. Belk Arena\, Davidson\, NC
+ ts\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: Broadcast not announced
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

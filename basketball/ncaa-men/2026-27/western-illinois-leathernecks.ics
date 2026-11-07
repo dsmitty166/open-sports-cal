@@ -12,12 +12,14 @@ DTSTART:20261103T010000Z
 DTEND:20261103T040000Z
 SUMMARY:Western Illinois Leathernecks @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Valparaiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ Valparaiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924951@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261108T000000Z
 DTEND:20261108T030000Z
 SUMMARY:Houston Christian Huskies @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHouston Christian Huskies @ West
- ern Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ ern Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929047@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Simpson (IA) Storm @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSimpson (IA) Storm @ Western Ill
- inois Leathernecks\nWestern Hall\, Macomb\, IL
+ inois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920135@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ s @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916307@open-sports-cal
@@ -65,13 +73,14 @@ DTEND:20261117T040000Z
 SUMMARY:Western Illinois Leathernecks @ Minnesota Golden Gophers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
  Minnesota Golden Gophers\nThe Barn by Blue Cross and Blue Shield of Minnes
- ota\, Minneapolis\, MN
+ ota\, Minneapolis\, MN\nBroadcast: BTN
 LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
  , MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919826@open-sports-cal
@@ -80,10 +89,11 @@ DTEND:20261120T230000Z
 SUMMARY:Western Illinois Leathernecks @ UAlbany Great Danes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
  UAlbany Great Danes\nKoessler Athletic Center\, Buffalo\, NY\nNeutral site
+ \nBroadcast: Broadcast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -92,11 +102,12 @@ DTSTART:20261121T183000Z
 DTEND:20261121T213000Z
 SUMMARY:Mercyhurst Lakers @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Western Illi
- nois Leathernecks\nKoessler Athletic Center\, Buffalo\, NY\nNeutral site
+ nois Leathernecks\nKoessler Athletic Center\, Buffalo\, NY\nNeutral site\n
+ Broadcast: Broadcast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -105,12 +116,14 @@ DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Western Illinois Leathernecks @ Canisius Golden Griffins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Canisius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ Canisius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929048@open-sports-cal
@@ -118,12 +131,14 @@ DTSTART:20261128T200000Z
 DTEND:20261128T230000Z
 SUMMARY:Western Illinois Leathernecks @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Coastal Carolina Chanticleers\nThe HTC Center\, Conway\, SC
+ Coastal Carolina Chanticleers\nThe HTC Center\, Conway\, SC\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:The HTC Center\, Conway\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924954@open-sports-cal
@@ -131,12 +146,14 @@ DTSTART:20261201T010000Z
 DTEND:20261201T040000Z
 SUMMARY:Western Illinois Leathernecks @ Houston Christian Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Houston Christian Huskies\nSharp Gymnasium\, Houston\, TX
+ Houston Christian Huskies\nSharp Gymnasium\, Houston\, TX\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Sharp Gymnasium\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916292@open-sports-cal
@@ -144,12 +161,14 @@ DTSTART:20261203T230000Z
 DTEND:20261204T020000Z
 SUMMARY:Western Illinois Leathernecks @ Indiana Hoosiers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Indiana Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+ Indiana Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN\nBroadcast
+ : BTN
 LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929050@open-sports-cal
@@ -157,12 +176,14 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:St. Ambrose Fighting Bees @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Ambrose Fighting Bees @ West
- ern Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ ern Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911710@open-sports-cal
@@ -170,12 +191,14 @@ DTSTART:20261212T000000Z
 DTEND:20261212T030000Z
 SUMMARY:Tennessee State Tigers @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee State Tigers @ Western
-  Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+  Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920729@open-sports-cal
@@ -183,12 +206,13 @@ DTSTART:20261213T230000Z
 DTEND:20261214T020000Z
 SUMMARY:Western Illinois Leathernecks @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Iowa Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ Iowa Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929051@open-sports-cal
@@ -196,12 +220,14 @@ DTSTART:20261221T220000Z
 DTEND:20261222T010000Z
 SUMMARY:East West Phantoms @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast West Phantoms @ Western Ill
- inois Leathernecks\nWestern Hall\, Macomb\, IL
+ inois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929052@open-sports-cal
@@ -209,12 +235,14 @@ DTSTART:20261230T190000Z
 DTEND:20261230T220000Z
 SUMMARY:Culver Stockton Wildcats @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCulver Stockton Wildcats @ Weste
- rn Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ rn Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911689@open-sports-cal
@@ -222,11 +250,12 @@ DTSTART:20270102T213000Z
 DTEND:20270103T003000Z
 SUMMARY:SIU Edwardsville Cougars @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSIU Edwardsville Cougars @ Weste
- rn Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ rn Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broadcast
+  not announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -235,11 +264,12 @@ DTSTART:20270108T013000Z
 DTEND:20270108T043000Z
 SUMMARY:Western Illinois Leathernecks @ Tennessee State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Tennessee State Tigers\nGentry Center\, Nashville\, TN
+ Tennessee State Tigers\nGentry Center\, Nashville\, TN\nBroadcast: Broadca
+ st not announced
 LOCATION:Gentry Center\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -248,11 +278,12 @@ DTSTART:20270109T213000Z
 DTEND:20270110T003000Z
 SUMMARY:Western Illinois Leathernecks @ Southeast Missouri State Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Southeast Missouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO
+ Southeast Missouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO\nB
+ roadcast: Broadcast not announced
 LOCATION:Show Me Center\, Cape Girardeau\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -261,11 +292,12 @@ DTSTART:20270115T013000Z
 DTEND:20270115T043000Z
 SUMMARY:Eastern Illinois Panthers @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Illinois Panthers @ West
- ern Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ ern Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broadcas
+ t not announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -274,11 +306,12 @@ DTSTART:20270116T213000Z
 DTEND:20270117T003000Z
 SUMMARY:UT Martin Skyhawks @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Martin Skyhawks @ Western Ill
- inois Leathernecks\nWestern Hall\, Macomb\, IL
+ inois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -287,11 +320,12 @@ DTSTART:20270122T004500Z
 DTEND:20270122T034500Z
 SUMMARY:Western Illinois Leathernecks @ Morehead State Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Morehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ Morehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: 
+ Broadcast not announced
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -300,11 +334,12 @@ DTSTART:20270123T213000Z
 DTEND:20270124T003000Z
 SUMMARY:Western Illinois Leathernecks @ Southern Indiana Screaming Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Southern Indiana Screaming Eagles\nLiberty Arena (IN)\, Evansville\, IN
+ Southern Indiana Screaming Eagles\nLiberty Arena (IN)\, Evansville\, IN\nB
+ roadcast: Broadcast not announced
 LOCATION:Liberty Arena (IN)\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -313,11 +348,12 @@ DTSTART:20270129T013000Z
 DTEND:20270129T043000Z
 SUMMARY:Southeast Missouri State Redhawks @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSoutheast Missouri State Redhawk
- s @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ s @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: 
+ Broadcast not announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -326,11 +362,12 @@ DTSTART:20270130T213000Z
 DTEND:20270131T003000Z
 SUMMARY:Western Illinois Leathernecks @ SIU Edwardsville Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- SIU Edwardsville Cougars\nFirst Community Arena\, Edwardsville\, IL
+ SIU Edwardsville Cougars\nFirst Community Arena\, Edwardsville\, IL\nBroad
+ cast: Broadcast not announced
 LOCATION:First Community Arena\, Edwardsville\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -339,11 +376,12 @@ DTSTART:20270205T020000Z
 DTEND:20270205T050000Z
 SUMMARY:Western Illinois Leathernecks @ UT Martin Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- UT Martin Skyhawks\nKathleen and Tom Elam Center\, Martin\, TN
+ UT Martin Skyhawks\nKathleen and Tom Elam Center\, Martin\, TN\nBroadcast:
+  Broadcast not announced
 LOCATION:Kathleen and Tom Elam Center\, Martin\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -352,11 +390,12 @@ DTSTART:20270212T013000Z
 DTEND:20270212T043000Z
 SUMMARY:Lindenwood Lions @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLindenwood Lions @ Western Illin
- ois Leathernecks\nWestern Hall\, Macomb\, IL
+ ois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -365,11 +404,12 @@ DTSTART:20270213T213000Z
 DTEND:20270214T003000Z
 SUMMARY:Morehead State Eagles @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorehead State Eagles @ Western 
- Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broadcast no
+ t announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -378,11 +418,12 @@ DTSTART:20270219T013000Z
 DTEND:20270219T043000Z
 SUMMARY:Western Illinois Leathernecks @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: Br
+ oadcast not announced
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -391,11 +432,12 @@ DTSTART:20270226T013000Z
 DTEND:20270226T043000Z
 SUMMARY:Southern Indiana Screaming Eagles @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Indiana Screaming Eagle
- s @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ s @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: 
+ Broadcast not announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -404,11 +446,12 @@ DTSTART:20270227T213000Z
 DTEND:20270228T003000Z
 SUMMARY:Western Illinois Leathernecks @ Lindenwood Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Lindenwood Lions\nHyland Arena\, Saint Charles\, MO
+ Lindenwood Lions\nHyland Arena\, Saint Charles\, MO\nBroadcast: Broadcast 
+ not announced
 LOCATION:Hyland Arena\, Saint Charles\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

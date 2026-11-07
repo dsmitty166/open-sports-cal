@@ -12,12 +12,14 @@ DTSTART:20261102T210000Z
 DTEND:20261103T000000Z
 SUMMARY:Carnegie Mellon Tartans @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCarnegie Mellon Tartans @ Prince
- ton Tigers\nJadwin Gymnasium\, Princeton\, NJ
+ ton Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924733@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Hofstra Pride @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Princeton Tigers
- \nJadwin Gymnasium\, Princeton\, NJ
+ \nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924734@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Princeton Tigers @ Siena Saints
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Siena Saints\
- nMVP Arena\, Albany\, NY
+ nMVP Arena\, Albany\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:MVP Arena\, Albany\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924735@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Stony Brook Seawolves @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStony Brook Seawolves @ Princeto
- n Tigers\nJadwin Gymnasium\, Princeton\, NJ
+ n Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920065@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:Princeton Tigers @ Rhode Island Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Rhode Island 
- Rams\nThomas M. Ryan Center\, Kingston\, RI
+ Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: ESPN+ (streaming)
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924736@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Monmouth Hawks @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Princeton Tiger
- s\nJadwin Gymnasium\, Princeton\, NJ
+ s\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924737@open-sports-cal
@@ -90,11 +97,12 @@ DTSTART:20261125T210000Z
 DTEND:20261126T000000Z
 SUMMARY:Liberty Flames @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLiberty Flames @ Princeton Tiger
- s\nTrask Coliseum\, Wilmington\, NC\nNeutral site
+ s\nTrask Coliseum\, Wilmington\, NC\nNeutral site\nBroadcast: Broadcast no
+ t announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,11 +111,12 @@ DTSTART:20261127T200000Z
 DTEND:20261127T230000Z
 SUMMARY:Princeton Tigers @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ UNC Wilmingto
- n Seahawks\nTrask Coliseum\, Wilmington\, NC
+ n Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,11 +125,12 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Princeton Tigers @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ St. Thomas To
- mmies\nTrask Coliseum\, Wilmington\, NC\nNeutral site\nStart time TBD
+ mmies\nTrask Coliseum\, Wilmington\, NC\nNeutral site\nStart time TBD\nBro
+ adcast: Broadcast not announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920696@open-sports-cal
@@ -128,11 +138,12 @@ DTSTART:20261203T230000Z
 DTEND:20261204T020000Z
 SUMMARY:Princeton Tigers @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Vermont Catam
- ounts\nPatrick Gymnasium\, Burlington\, VT
+ ounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -141,11 +152,11 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Princeton Tigers @ Northeastern Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Northeastern 
- Huskies\nCabot Center\, Boston\, MA
+ Huskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -154,12 +165,14 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:Bryant & Stratton-Albany Bobcats @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBryant & Stratton-Albany Bobcats
-  @ Princeton Tigers\nJadwin Gymnasium\, Princeton\, NJ
+  @ Princeton Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919813@open-sports-cal
@@ -167,11 +180,12 @@ DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
 SUMMARY:Princeton Tigers @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Long Island U
- niversity Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ niversity Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: Bro
+ adcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +194,13 @@ DTSTART:20261223T000000Z
 DTEND:20261223T030000Z
 SUMMARY:Temple Owls @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTemple Owls @ Princeton Tigers\n
- Jadwin Gymnasium\, Princeton\, NJ
+ Jadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917591@open-sports-cal
@@ -193,12 +208,14 @@ DTSTART:20261230T030000Z
 DTEND:20261230T060000Z
 SUMMARY:Princeton Tigers @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Saint Mary's 
- Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911410@open-sports-cal
@@ -206,11 +223,12 @@ DTSTART:20270105T000000Z
 DTEND:20270105T030000Z
 SUMMARY:Pennsylvania Quakers @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPennsylvania Quakers @ Princeton
-  Tigers\nJadwin Gymnasium\, Princeton\, NJ
+  Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -219,11 +237,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Princeton Tigers @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Yale Bulldogs
- \nJohn J. Lee Amphitheater\, New Haven\, CT
+ \nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: Broadcast not anno
+ unced
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -232,11 +251,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Dartmouth Big Green @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Princeton 
- Tigers\nJadwin Gymnasium\, Princeton\, NJ
+ Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -245,11 +265,11 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Harvard Crimson @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Princeton Tige
- rs\nJadwin Gymnasium\, Princeton\, NJ
+ rs\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -258,11 +278,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Princeton Tigers @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Brown Bears\n
- Pizzitola Sports Center\, Providence\, RI
+ Pizzitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -271,11 +292,11 @@ DTSTART:20270130T000000Z
 DTEND:20270130T030000Z
 SUMMARY:Columbia Lions @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColumbia Lions @ Princeton Tiger
- s\nJadwin Gymnasium\, Princeton\, NJ
+ s\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -284,12 +305,13 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Cornell Big Red @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCornell Big Red @ Princeton Tige
- rs\nJadwin Gymnasium\, Princeton\, NJ
+ rs\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911416@open-sports-cal
@@ -297,11 +319,12 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:Princeton Tigers @ Pennsylvania Quakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Pennsylvania 
- Quakers\nThe Palestra\, Philadelphia\, PA
+ Quakers\nThe Palestra\, Philadelphia\, PA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -310,11 +333,11 @@ DTSTART:20270213T000000Z
 DTEND:20270213T030000Z
 SUMMARY:Princeton Tigers @ Columbia Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Columbia Lion
- s\nLevien Gymnasium\, New York\, NY
+ s\nLevien Gymnasium\, New York\, NY\nBroadcast: Broadcast not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -323,12 +346,13 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:Princeton Tigers @ Cornell Big Red
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Cornell Big R
- ed\nNewman Arena\, Ithaca\, NY
+ ed\nNewman Arena\, Ithaca\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Newman Arena\, Ithaca\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911329@open-sports-cal
@@ -336,11 +360,11 @@ DTSTART:20270220T000000Z
 DTEND:20270220T030000Z
 SUMMARY:Brown Bears @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Princeton Tigers\n
- Jadwin Gymnasium\, Princeton\, NJ
+ Jadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,11 +373,11 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:Princeton Tigers @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Dartmouth Big
-  Green\nLeede Arena\, Hanover\, NH
+  Green\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,11 +386,11 @@ DTSTART:20270227T230000Z
 DTEND:20270228T020000Z
 SUMMARY:Princeton Tigers @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Harvard Crims
- on\nLavietes Pavilion\, Cambridge\, MA
+ on\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,11 +399,11 @@ DTSTART:20270306T190000Z
 DTEND:20270306T220000Z
 SUMMARY:Yale Bulldogs @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Princeton Tigers
- \nJadwin Gymnasium\, Princeton\, NJ
+ \nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

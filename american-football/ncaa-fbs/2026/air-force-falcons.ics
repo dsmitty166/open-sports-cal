@@ -12,12 +12,13 @@ DTSTART:20260905T170000Z
 DTEND:20260905T200000Z
 SUMMARY:Duquesne Dukes @ Air Force Falcons
 DESCRIPTION:NCAA FBS Football 2026\nDuquesne Dukes @ Air Force Falcons\nFal
- con Stadium\, USAF Academy\, CO
+ con Stadium\, USAF Academy\, CO\nBroadcast: MW+ (streaming)
 LOCATION:Falcon Stadium\, USAF Academy\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864502@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260913T020000Z
 DTEND:20260913T050000Z
 SUMMARY:North Dakota State Bison @ Air Force Falcons
 DESCRIPTION:NCAA FBS Football 2026\nNorth Dakota State Bison @ Air Force Fa
- lcons\nFalcon Stadium\, USAF Academy\, CO
+ lcons\nFalcon Stadium\, USAF Academy\, CO\nBroadcast: FS1
 LOCATION:Falcon Stadium\, USAF Academy\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864509@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260927T023000Z
 DTEND:20260927T053000Z
 SUMMARY:Air Force Falcons @ Nevada Wolf Pack
 DESCRIPTION:NCAA FBS Football 2026\nAir Force Falcons @ Nevada Wolf Pack\nM
- ackay Stadium\, Reno\, NV
+ ackay Stadium\, Reno\, NV\nBroadcast: FS1
 LOCATION:Mackay Stadium\, Reno\, NV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862791@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Navy Midshipmen @ Air Force Falcons
 DESCRIPTION:NCAA FBS Football 2026\nNavy Midshipmen @ Air Force Falcons\nFa
- lcon Stadium\, USAF Academy\, CO
+ lcon Stadium\, USAF Academy\, CO\nBroadcast: CBS
 LOCATION:Falcon Stadium\, USAF Academy\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864516@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261010T233000Z
 DTEND:20261011T023000Z
 SUMMARY:Air Force Falcons @ Northern Illinois Huskies
 DESCRIPTION:NCAA FBS Football 2026\nAir Force Falcons @ Northern Illinois H
- uskies\nHuskie Stadium\, Dekalb\, IL
+ uskies\nHuskie Stadium\, Dekalb\, IL\nBroadcast: CBSSN
 LOCATION:Huskie Stadium\, Dekalb\, IL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864524@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261017T193000Z
 DTEND:20261017T223000Z
 SUMMARY:UNLV Rebels @ Air Force Falcons
 DESCRIPTION:NCAA FBS Football 2026\nUNLV Rebels @ Air Force Falcons\nFalcon
-  Stadium\, USAF Academy\, CO
+  Stadium\, USAF Academy\, CO\nBroadcast: CBSSN
 LOCATION:Falcon Stadium\, USAF Academy\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864525@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261024T010000Z
 DTEND:20261024T040000Z
 SUMMARY:Air Force Falcons @ Wyoming Cowboys
 DESCRIPTION:NCAA FBS Football 2026\nAir Force Falcons @ Wyoming Cowboys\nWa
- r Memorial Stadium\, Laramie\, WY
+ r Memorial Stadium\, Laramie\, WY\nBroadcast: CW
 LOCATION:War Memorial Stadium\, Laramie\, WY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401861966@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 SUMMARY:UConn Huskies @ Air Force Falcons
 DESCRIPTION:NCAA FBS Football 2026\nUConn Huskies @ Air Force Falcons\nFalc
- on Stadium\, USAF Academy\, CO
+ on Stadium\, USAF Academy\, CO\nBroadcast: MW+ (streaming)
 LOCATION:Falcon Stadium\, USAF Academy\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862823@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261108T003000Z
 DTEND:20261108T033000Z
 SUMMARY:Air Force Falcons @ Army Black Knights
 DESCRIPTION:NCAA FBS Football 2026\nAir Force Falcons @ Army Black Knights\
- nMichie Stadium\, West Point\, NY
+ nMichie Stadium\, West Point\, NY\nBroadcast: CBS
 LOCATION:Michie Stadium\, West Point\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864538@open-sports-cal
@@ -129,12 +138,13 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:San José State Spartans @ Air Force Falcons
 DESCRIPTION:NCAA FBS Football 2026\nSan José State Spartans @ Air Force Fa
- lcons\nFalcon Stadium\, USAF Academy\, CO
+ lcons\nFalcon Stadium\, USAF Academy\, CO\nBroadcast: CBSSN
 LOCATION:Falcon Stadium\, USAF Academy\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864545@open-sports-cal
@@ -142,12 +152,13 @@ DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
 SUMMARY:UTEP Miners @ Air Force Falcons
 DESCRIPTION:NCAA FBS Football 2026\nUTEP Miners @ Air Force Falcons\nFalcon
-  Stadium\, USAF Academy\, CO
+  Stadium\, USAF Academy\, CO\nBroadcast: CW
 LOCATION:Falcon Stadium\, USAF Academy\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864546@open-sports-cal
@@ -155,11 +166,12 @@ DTSTART:20261127T213000Z
 DTEND:20261128T003000Z
 SUMMARY:Air Force Falcons @ New Mexico Lobos
 DESCRIPTION:NCAA FBS Football 2026\nAir Force Falcons @ New Mexico Lobos\nU
- niversity Stadium (NM)\, Albuquerque\, NM
+ niversity Stadium (NM)\, Albuquerque\, NM\nBroadcast: CW
 LOCATION:University Stadium (NM)\, Albuquerque\, NM
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CW
 END:VEVENT
 END:VCALENDAR

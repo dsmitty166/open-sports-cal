@@ -12,12 +12,13 @@ DTSTART:20260829T193000Z
 DTEND:20260829T223000Z
 SUMMARY:NC State Wolfpack @ Virginia Cavaliers
 DESCRIPTION:NCAA FBS Football 2026\nNC State Wolfpack @ Virginia Cavaliers\
- nScott Stadium\, Charlottesville\, VA
+ nScott Stadium\, Charlottesville\, VA\nBroadcast: ESPN
 LOCATION:Scott Stadium\, Charlottesville\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858222@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260911T230000Z
 DTEND:20260912T020000Z
 SUMMARY:Richmond Spiders @ NC State Wolfpack
 DESCRIPTION:NCAA FBS Football 2026\nRichmond Spiders @ NC State Wolfpack\nC
- arter-Finley Stadium\, Raleigh\, NC
+ arter-Finley Stadium\, Raleigh\, NC\nBroadcast: ESPNU
 LOCATION:Carter-Finley Stadium\, Raleigh\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856695@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T164500Z
 DTEND:20260919T194500Z
 SUMMARY:NC State Wolfpack @ Vanderbilt Commodores
 DESCRIPTION:NCAA FBS Football 2026\nNC State Wolfpack @ Vanderbilt Commodor
- es\nFirstBank Stadium\, Nashville\, TN
+ es\nFirstBank Stadium\, Nashville\, TN\nBroadcast: SEC Network
 LOCATION:FirstBank Stadium\, Nashville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864572@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T233000Z
 DTEND:20260927T023000Z
 SUMMARY:App State Mountaineers @ NC State Wolfpack
 DESCRIPTION:NCAA FBS Football 2026\nApp State Mountaineers @ NC State Wolfp
- ack\nCarter-Finley Stadium\, Raleigh\, NC
+ ack\nCarter-Finley Stadium\, Raleigh\, NC\nBroadcast: ESPNU
 LOCATION:Carter-Finley Stadium\, Raleigh\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858248@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Louisville Cardinals @ NC State Wolfpack
 DESCRIPTION:NCAA FBS Football 2026\nLouisville Cardinals @ NC State Wolfpac
- k\nCarter-Finley Stadium\, Raleigh\, NC
+ k\nCarter-Finley Stadium\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Carter-Finley Stadium\, Raleigh\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858260@open-sports-cal
@@ -77,12 +82,14 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:Wake Forest Demon Deacons @ NC State Wolfpack
 DESCRIPTION:NCAA FBS Football 2026\nWake Forest Demon Deacons @ NC State Wo
- lfpack\nCarter-Finley Stadium\, Raleigh\, NC
+ lfpack\nCarter-Finley Stadium\, Raleigh\, NC\nBroadcast: CW / ESPN Unlmtd 
+ (streaming)
 LOCATION:Carter-Finley Stadium\, Raleigh\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW / ESPN Unlmtd (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858272@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261024T023000Z
 DTEND:20261024T053000Z
 SUMMARY:NC State Wolfpack @ Stanford Cardinal
 DESCRIPTION:NCAA FBS Football 2026\nNC State Wolfpack @ Stanford Cardinal\n
- Stanford Stadium\, Stanford\, CA
+ Stanford Stadium\, Stanford\, CA\nBroadcast: ESPN
 LOCATION:Stanford Stadium\, Stanford\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858277@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:California Golden Bears @ NC State Wolfpack
 DESCRIPTION:NCAA FBS Football 2026\nCalifornia Golden Bears @ NC State Wolf
- pack\nCarter-Finley Stadium\, Raleigh\, NC
+ pack\nCarter-Finley Stadium\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Carter-Finley Stadium\, Raleigh\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858286@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T173000Z
 DTEND:20261107T203000Z
 SUMMARY:Duke Blue Devils @ NC State Wolfpack
 DESCRIPTION:NCAA FBS Football 2026\nDuke Blue Devils @ NC State Wolfpack\nC
- arter-Finley Stadium\, Raleigh\, NC
+ arter-Finley Stadium\, Raleigh\, NC\nBroadcast: CW
 LOCATION:Carter-Finley Stadium\, Raleigh\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858300@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Syracuse Orange @ NC State Wolfpack
 DESCRIPTION:NCAA FBS Football 2026\nSyracuse Orange @ NC State Wolfpack\nCa
- rter-Finley Stadium\, Raleigh\, NC
+ rter-Finley Stadium\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Carter-Finley Stadium\, Raleigh\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858304@open-sports-cal
@@ -142,11 +153,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:NC State Wolfpack @ Florida State Seminoles
 DESCRIPTION:NCAA FBS Football 2026\nNC State Wolfpack @ Florida State Semin
- oles\nDoak Campbell Stadium\, Tallahassee\, FL\nStart time TBD
+ oles\nDoak Campbell Stadium\, Tallahassee\, FL\nStart time TBD\nBroadcast:
+  Broadcast not announced
 LOCATION:Doak Campbell Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858313@open-sports-cal
@@ -154,10 +166,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:NC State Wolfpack @ North Carolina Tar Heels
 DESCRIPTION:NCAA FBS Football 2026\nNC State Wolfpack @ North Carolina Tar 
- Heels\nKenan Stadium\, Chapel Hill\, NC\nStart time TBD
+ Heels\nKenan Stadium\, Chapel Hill\, NC\nStart time TBD\nBroadcast: Broadc
+ ast not announced
 LOCATION:Kenan Stadium\, Chapel Hill\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

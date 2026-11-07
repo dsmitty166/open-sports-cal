@@ -12,12 +12,13 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Virginia Lynchburg Dragons @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Lynchburg Dragons @ VMI
-  Keydets\nCameron Hall\, Lexington\, VA
+  Keydets\nCameron Hall\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918968@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261106T010000Z
 DTEND:20261106T040000Z
 SUMMARY:VMI Keydets @ SMU Mustangs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ SMU Mustangs\nMood
- y Coliseum (Dallas)\, Dallas\, TX
+ y Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACCNX (streaming)
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926201@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:VMI Keydets @ UTSA Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ UTSA Roadrunners\n
- UTSA Convocation Center\, San Antonio\, TX
+ UTSA Convocation Center\, San Antonio\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:UTSA Convocation Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926202@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:North Carolina Central Eagles @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Central Eagles @ 
- VMI Keydets\nCameron Hall\, Lexington\, VA
+ VMI Keydets\nCameron Hall\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926203@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261113T170000Z
 DTEND:20261113T200000Z
 SUMMARY:Mary Baldwin Fighting Squirrels @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMary Baldwin Fighting Squirrels 
- @ VMI Keydets\nCameron Hall\, Lexington\, VA
+ @ VMI Keydets\nCameron Hall\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922047@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:VMI Keydets @ Longwood Lancers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Longwood Lancers\n
- Joan Perry Brock Center\, Farmville\, VA
+ Joan Perry Brock Center\, Farmville\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911394@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- VMI Keydets\nCameron Hall\, Lexington\, VA
+ VMI Keydets\nCameron Hall\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923395@open-sports-cal
@@ -103,12 +110,14 @@ DTSTART:20261124T230000Z
 DTEND:20261125T020000Z
 SUMMARY:Southern Indiana Screaming Eagles @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Indiana Screaming Eagle
- s @ VMI Keydets\nCameron Hall\, Lexington\, VA
+ s @ VMI Keydets\nCameron Hall\, Lexington\, VA\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911242@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261128T230000Z
 DTEND:20261129T020000Z
 SUMMARY:VMI Keydets @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Richmond Spiders\n
- Robins Center\, Richmond\, VA
+ Robins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911819@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261201T230000Z
 DTEND:20261202T020000Z
 SUMMARY:UNC Greensboro Spartans @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ VMI Ke
- ydets\nCameron Hall\, Lexington\, VA
+ ydets\nCameron Hall\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911821@open-sports-cal
@@ -142,11 +153,12 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:East Tennessee State Buccaneers @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ VMI Keydets\nCameron Hall\, Lexington\, VA
+ @ VMI Keydets\nCameron Hall\, Lexington\, VA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +167,13 @@ DTSTART:20261207T230000Z
 DTEND:20261208T020000Z
 SUMMARY:Christendom Crusaders @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChristendom Crusaders @ VMI Keyd
- ets\nCameron Hall\, Lexington\, VA
+ ets\nCameron Hall\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926205@open-sports-cal
@@ -168,12 +181,13 @@ DTSTART:20261210T230000Z
 DTEND:20261211T020000Z
 SUMMARY:Bluefield Ramblin' Rams @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBluefield Ramblin' Rams @ VMI Ke
- ydets\nCameron Hall\, Lexington\, VA
+ ydets\nCameron Hall\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920408@open-sports-cal
@@ -181,12 +195,13 @@ DTSTART:20261221T230000Z
 DTEND:20261222T020000Z
 SUMMARY:VMI Keydets @ Virginia Tech Hokies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Virginia Tech Hoki
- es\nCassell Coliseum\, Blacksburg\, VA
+ es\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (streaming)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911836@open-sports-cal
@@ -194,12 +209,13 @@ DTSTART:20261230T230000Z
 DTEND:20261231T020000Z
 SUMMARY:Furman Paladins @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFurman Paladins @ VMI Keydets\nC
- ameron Hall\, Lexington\, VA
+ ameron Hall\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911843@open-sports-cal
@@ -207,11 +223,12 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:VMI Keydets @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Western Carolina C
- atamounts\nRamsey Center\, Cullowhee\, NC
+ atamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +237,12 @@ DTSTART:20270108T003000Z
 DTEND:20270108T033000Z
 SUMMARY:VMI Keydets @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Tennessee Tech Gol
- den Eagles\nHooper Eblen Center\, Cookeville\, TN
+ den Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: Broadcast no
+ t announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +251,11 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:VMI Keydets @ Chattanooga Mocs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Chattanooga Mocs\n
- McKenzie Arena\, Chattanooga\, TN
+ McKenzie Arena\, Chattanooga\, TN\nBroadcast: Broadcast not announced
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +264,11 @@ DTSTART:20270113T230000Z
 DTEND:20270114T020000Z
 SUMMARY:Wofford Terriers @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ VMI Keydets\n
- Cameron Hall\, Lexington\, VA
+ Cameron Hall\, Lexington\, VA\nBroadcast: Broadcast not announced
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +277,11 @@ DTSTART:20270116T150000Z
 DTEND:20270116T180000Z
 SUMMARY:The Citadel Bulldogs @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nThe Citadel Bulldogs @ VMI Keyde
- ts\nCameron Hall\, Lexington\, VA
+ ts\nCameron Hall\, Lexington\, VA\nBroadcast: Broadcast not announced
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +290,11 @@ DTSTART:20270118T233000Z
 DTEND:20270119T023000Z
 SUMMARY:VMI Keydets @ Samford Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Samford Bulldogs\n
- Pete Hanna Center\, Homewood\, AL
+ Pete Hanna Center\, Homewood\, AL\nBroadcast: Broadcast not announced
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +303,11 @@ DTSTART:20270120T230000Z
 DTEND:20270121T020000Z
 SUMMARY:VMI Keydets @ Mercer Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Mercer Bears\nHawk
- ins Arena\, Macon\, GA
+ ins Arena\, Macon\, GA\nBroadcast: Broadcast not announced
 LOCATION:Hawkins Arena\, Macon\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +316,11 @@ DTSTART:20270128T230000Z
 DTEND:20270129T020000Z
 SUMMARY:Chattanooga Mocs @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChattanooga Mocs @ VMI Keydets\n
- Cameron Hall\, Lexington\, VA
+ Cameron Hall\, Lexington\, VA\nBroadcast: Broadcast not announced
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +329,12 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Tennessee Tech Golden Eagles @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ V
- MI Keydets\nCameron Hall\, Lexington\, VA
+ MI Keydets\nCameron Hall\, Lexington\, VA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +343,12 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:VMI Keydets @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Wofford Terriers\n
- Jerry Richardson Indoor Stadium\, Spartanburg\, SC
+ Jerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +357,12 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:VMI Keydets @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ East Tennessee Sta
- te Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ te Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast: Broadcast
+  not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +371,11 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Mercer Bears @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercer Bears @ VMI Keydets\nCame
- ron Hall\, Lexington\, VA
+ ron Hall\, Lexington\, VA\nBroadcast: Broadcast not announced
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +384,11 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Samford Bulldogs @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSamford Bulldogs @ VMI Keydets\n
- Cameron Hall\, Lexington\, VA
+ Cameron Hall\, Lexington\, VA\nBroadcast: Broadcast not announced
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +397,11 @@ DTSTART:20270218T233000Z
 DTEND:20270219T023000Z
 SUMMARY:VMI Keydets @ Furman Paladins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Furman Paladins\nT
- immons Arena\, Greenville\, SC
+ immons Arena\, Greenville\, SC\nBroadcast: Broadcast not announced
 LOCATION:Timmons Arena\, Greenville\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +410,12 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:VMI Keydets @ The Citadel Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ The Citadel Bulldo
- gs\nMcAlister Field House\, Charleston\, SC
+ gs\nMcAlister Field House\, Charleston\, SC\nBroadcast: Broadcast not anno
+ unced
 LOCATION:McAlister Field House\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +424,11 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:VMI Keydets @ UNC Greensboro Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ UNC Greensboro Spa
- rtans\nBodford Arena\, Greensboro\, NC
+ rtans\nBodford Arena\, Greensboro\, NC\nBroadcast: Broadcast not announced
 LOCATION:Bodford Arena\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +437,12 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Western Carolina Catamounts @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ VM
- I Keydets\nCameron Hall\, Lexington\, VA
+ I Keydets\nCameron Hall\, Lexington\, VA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

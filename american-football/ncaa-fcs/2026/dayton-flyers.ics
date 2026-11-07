@@ -12,12 +12,13 @@ DTSTART:20260829T160000Z
 DTEND:20260829T190000Z
 SUMMARY:Fairmont State Falcons @ Dayton Flyers
 DESCRIPTION:NCAA FCS Football 2026\nFairmont State Falcons @ Dayton Flyers\
- nWelcome Stadium\, Dayton\, OH
+ nWelcome Stadium\, Dayton\, OH\nBroadcast: YouTube (streaming)
 LOCATION:Welcome Stadium\, Dayton\, OH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868227@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:Thomas More Saints @ Dayton Flyers
 DESCRIPTION:NCAA FCS Football 2026\nThomas More Saints @ Dayton Flyers\nWel
- come Stadium\, Dayton\, OH
+ come Stadium\, Dayton\, OH\nBroadcast: YouTube (streaming)
 LOCATION:Welcome Stadium\, Dayton\, OH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868142@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T220000Z
 DTEND:20260920T010000Z
 SUMMARY:Dayton Flyers @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA FCS Football 2026\nDayton Flyers @ Eastern Kentucky Colone
- ls\nRoy Kidd Stadium\, Richmond\, KY
+ ls\nRoy Kidd Stadium\, Richmond\, KY\nBroadcast: ESPN+ (streaming)
 LOCATION:Roy Kidd Stadium\, Richmond\, KY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868228@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20261003T170000Z
 DTEND:20261003T200000Z
 SUMMARY:Dayton Flyers @ Drake Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nDayton Flyers @ Drake Bulldogs\nDrake S
- tadium (IA)\, Des Moines\, IA
+ tadium (IA)\, Des Moines\, IA\nBroadcast: ESPN+ (streaming)
 LOCATION:Drake Stadium (IA)\, Des Moines\, IA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868229@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:Morehead State Eagles @ Dayton Flyers
 DESCRIPTION:NCAA FCS Football 2026\nMorehead State Eagles @ Dayton Flyers\n
- Welcome Stadium\, Dayton\, OH
+ Welcome Stadium\, Dayton\, OH\nBroadcast: YouTube (streaming)
 LOCATION:Welcome Stadium\, Dayton\, OH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868213@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261017T170000Z
 DTEND:20261017T200000Z
 SUMMARY:Dayton Flyers @ Butler Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nDayton Flyers @ Butler Bulldogs\nBud an
- d Jackie Sellick Bowl\, Indianapolis\, IN
+ d Jackie Sellick Bowl\, Indianapolis\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Bud and Jackie Sellick Bowl\, Indianapolis\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868230@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:San Diego Toreros @ Dayton Flyers
 DESCRIPTION:NCAA FCS Football 2026\nSan Diego Toreros @ Dayton Flyers\nWelc
- ome Stadium\, Dayton\, OH
+ ome Stadium\, Dayton\, OH\nBroadcast: FloSports (streaming)
 LOCATION:Welcome Stadium\, Dayton\, OH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868231@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261031T170000Z
 DTEND:20261031T200000Z
 SUMMARY:Dayton Flyers @ Stetson Hatters
 DESCRIPTION:NCAA FCS Football 2026\nDayton Flyers @ Stetson Hatters\nSpec M
- artin Memorial Stadium\, DeLand\, FL
+ artin Memorial Stadium\, DeLand\, FL\nBroadcast: YouTube (streaming)
 LOCATION:Spec Martin Memorial Stadium\, DeLand\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868232@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:Valparaiso Beacons @ Dayton Flyers
 DESCRIPTION:NCAA FCS Football 2026\nValparaiso Beacons @ Dayton Flyers\nWel
- come Stadium\, Dayton\, OH
+ come Stadium\, Dayton\, OH\nBroadcast: YouTube (streaming)
 LOCATION:Welcome Stadium\, Dayton\, OH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868225@open-sports-cal
@@ -129,12 +138,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Davidson Wildcats @ Dayton Flyers
 DESCRIPTION:NCAA FCS Football 2026\nDavidson Wildcats @ Dayton Flyers\nWelc
- ome Stadium\, Dayton\, OH
+ ome Stadium\, Dayton\, OH\nBroadcast: YouTube (streaming)
 LOCATION:Welcome Stadium\, Dayton\, OH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868253@open-sports-cal
@@ -142,11 +152,12 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Dayton Flyers @ Presbyterian Blue Hose
 DESCRIPTION:NCAA FCS Football 2026\nDayton Flyers @ Presbyterian Blue Hose\
- nBailey Memorial Stadium\, Clinton\, SC
+ nBailey Memorial Stadium\, Clinton\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Bailey Memorial Stadium\, Clinton\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

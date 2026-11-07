@@ -11,95 +11,112 @@ UID:nba-2026-27-2026-10-21-chicago-bulls-vs-toronto-raptors@open-sports-cal
 DTSTART:20261021T233000Z
 DTEND:20261022T023000Z
 SUMMARY:Chicago Bulls @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nChicago Bulls @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Toronto Raptors\nScotiabank Arena\
+ nBroadcast: NBA League Pass
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-23-toronto-raptors-vs-washington-wizards@open-sports-cal
 DTSTART:20261023T230000Z
 DTEND:20261024T020000Z
 SUMMARY:Toronto Raptors @ Washington Wizards
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Washington Wizards\nCapital One Arena
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Washington Wizards\nCapital One 
+ Arena\nBroadcast: MNMT / NBA League Pass
 LOCATION:Capital One Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MNMT / NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-25-toronto-raptors-vs-minnesota-timberwolves@open-sports-cal
 DTSTART:20261025T230000Z
 DTEND:20261026T020000Z
 SUMMARY:Toronto Raptors @ Minnesota Timberwolves
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Minnesota Timberwolves\nTarget Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Minnesota Timberwolves\nTarget C
+ enter\nBroadcast: NBA TV / DAZN MIN (streaming)
 LOCATION:Target Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBA TV / DAZN MIN (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-28-orlando-magic-vs-toronto-raptors@open-sports-cal
 DTSTART:20261028T233000Z
 DTEND:20261029T023000Z
 SUMMARY:Orlando Magic @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nOrlando Magic @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Toronto Raptors\nScotiabank Arena\
+ nBroadcast: NBA League Pass
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-30-orlando-magic-vs-toronto-raptors@open-sports-cal
 DTSTART:20261030T233000Z
 DTEND:20261031T023000Z
 SUMMARY:Orlando Magic @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nOrlando Magic @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Toronto Raptors\nScotiabank Arena\
+ nBroadcast: NBA League Pass
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-01-toronto-raptors-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261102T020000Z
 DTEND:20261102T050000Z
 SUMMARY:Toronto Raptors @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Los Angeles Lakers\nCrypto.com A
+ rena\nBroadcast: NBA League Pass / Spectrum Sports Net / Spectrum Sports N
+ et + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBA League Pass / Spectrum Sports Net / Spectrum Sports Net + (
+ streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-02-toronto-raptors-vs-la-clippers@open-sports-cal
 DTSTART:20261103T030000Z
 DTEND:20261103T060000Z
 SUMMARY:Toronto Raptors @ LA Clippers
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ LA Clippers\nIntuit Dome
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ LA Clippers\nIntuit Dome\nBroadc
+ ast: NBA League Pass / KTLA / ClipperVision (streaming)
 LOCATION:Intuit Dome
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBA League Pass / KTLA / ClipperVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-04-toronto-raptors-vs-denver-nuggets@open-sports-cal
 DTSTART:20261105T020000Z
 DTEND:20261105T050000Z
 SUMMARY:Toronto Raptors @ Denver Nuggets
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Denver Nuggets\nBall Arena
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Denver Nuggets\nBall Arena\nBroa
+ dcast: Broadcast not announced
 LOCATION:Ball Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -107,24 +124,28 @@ UID:nba-2026-27-2026-11-06-toronto-raptors-vs-milwaukee-bucks@open-sports-cal
 DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:Toronto Raptors @ Milwaukee Bucks
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Milwaukee Bucks\nFiserv Forum
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Milwaukee Bucks\nFiserv Forum\nB
+ roadcast: MyMi / Bucks App (streaming)
 LOCATION:Fiserv Forum
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:MyMi / Bucks App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-09-memphis-grizzlies-vs-toronto-raptors@open-sports-cal
 DTSTART:20261110T003000Z
 DTEND:20261110T033000Z
 SUMMARY:Memphis Grizzlies @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Toronto Raptors\nScotiabank Ar
+ ena\nBroadcast: DAZN MEM (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:DAZN MEM (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-11-boston-celtics-vs-toronto-raptors@open-sports-cal
@@ -132,10 +153,11 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Boston Celtics @ Toronto Raptors
 DESCRIPTION:NBA 2026-27\nBoston Celtics @ Toronto Raptors\nScotiabank Arena
+ \nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -143,11 +165,12 @@ UID:nba-2026-27-2026-11-12-toronto-raptors-vs-philadelphia-76ers@open-sports-cal
 DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Toronto Raptors @ Philadelphia 76ers
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Philadelphia 76ers\nXfinity Mobile Arena
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Philadelphia 76ers\nXfinity Mobi
+ le Arena\nBroadcast: Broadcast not announced
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +178,12 @@ UID:nba-2026-27-2026-11-15-new-york-knicks-vs-toronto-raptors@open-sports-cal
 DTSTART:20261115T230000Z
 DTEND:20261116T020000Z
 SUMMARY:New York Knicks @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nNew York Knicks @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Toronto Raptors\nScotiabank Aren
+ a\nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -167,11 +191,12 @@ UID:nba-2026-27-2026-11-17-new-york-knicks-vs-toronto-raptors@open-sports-cal
 DTSTART:20261118T003000Z
 DTEND:20261118T033000Z
 SUMMARY:New York Knicks @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nNew York Knicks @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Toronto Raptors\nScotiabank Aren
+ a\nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -179,48 +204,56 @@ UID:nba-2026-27-2026-11-18-washington-wizards-vs-toronto-raptors@open-sports-cal
 DTSTART:20261119T003000Z
 DTEND:20261119T033000Z
 SUMMARY:Washington Wizards @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nWashington Wizards @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Toronto Raptors\nScotiabank A
+ rena\nBroadcast: MNMT
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:MNMT
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-20-toronto-raptors-vs-detroit-pistons@open-sports-cal
 DTSTART:20261121T003000Z
 DTEND:20261121T033000Z
 SUMMARY:Toronto Raptors @ Detroit Pistons
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Detroit Pistons\nLittle Caesars Arena
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Detroit Pistons\nLittle Caesars 
+ Arena\nBroadcast: Prime Video (streaming)
 LOCATION:Little Caesars Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-23-milwaukee-bucks-vs-toronto-raptors@open-sports-cal
 DTSTART:20261124T003000Z
 DTEND:20261124T033000Z
 SUMMARY:Milwaukee Bucks @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Toronto Raptors\nScotiabank Aren
+ a\nBroadcast: MyMi / Bucks App (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:MyMi / Bucks App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-27-brooklyn-nets-vs-toronto-raptors@open-sports-cal
 DTSTART:20261128T003000Z
 DTEND:20261128T033000Z
 SUMMARY:Brooklyn Nets @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Toronto Raptors\nScotiabank Arena\
+ nBroadcast: DAZN (YES) (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:DAZN (YES) (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-29-denver-nuggets-vs-toronto-raptors@open-sports-cal
@@ -228,10 +261,11 @@ DTSTART:20261129T230000Z
 DTEND:20261130T020000Z
 SUMMARY:Denver Nuggets @ Toronto Raptors
 DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Toronto Raptors\nScotiabank Arena
+ \nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -239,11 +273,12 @@ UID:nba-2026-27-2026-12-01-toronto-raptors-vs-houston-rockets@open-sports-cal
 DTSTART:20261202T013000Z
 DTEND:20261202T043000Z
 SUMMARY:Toronto Raptors @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Houston Rockets\nToyota Center\n
+ Broadcast: Broadcast not announced
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -251,11 +286,12 @@ UID:nba-2026-27-2026-12-03-toronto-raptors-vs-san-antonio-spurs@open-sports-cal
 DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
 SUMMARY:Toronto Raptors @ San Antonio Spurs
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ San Antonio Spurs\nFrost Bank Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ San Antonio Spurs\nFrost Bank Ce
+ nter\nBroadcast: Broadcast not announced
 LOCATION:Frost Bank Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -263,23 +299,26 @@ UID:nba-2026-27-2026-12-13-toronto-raptors-vs-oklahoma-city-thunder@open-sports-
 DTSTART:20261213T203000Z
 DTEND:20261213T233000Z
 SUMMARY:Toronto Raptors @ Oklahoma City Thunder
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Oklahoma City Thunder\nPaycom Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Oklahoma City Thunder\nPaycom Ce
+ nter\nBroadcast: KSBI / Thunder App (streaming)
 LOCATION:Paycom Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:KSBI / Thunder App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-14-toronto-raptors-vs-charlotte-hornets@open-sports-cal
 DTSTART:20261215T000000Z
 DTEND:20261215T030000Z
 SUMMARY:Toronto Raptors @ Charlotte Hornets
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Charlotte Hornets\nSpectrum Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Charlotte Hornets\nSpectrum Cent
+ er\nBroadcast: Broadcast not announced
 LOCATION:Spectrum Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -287,23 +326,26 @@ UID:nba-2026-27-2026-12-16-san-antonio-spurs-vs-toronto-raptors@open-sports-cal
 DTSTART:20261217T003000Z
 DTEND:20261217T033000Z
 SUMMARY:San Antonio Spurs @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Toronto Raptors\nScotiabank Ar
+ ena\nBroadcast: DAZN SAS (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:DAZN SAS (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-18-golden-state-warriors-vs-toronto-raptors@open-sports-cal
 DTSTART:20261219T003000Z
 DTEND:20261219T033000Z
 SUMMARY:Golden State Warriors @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Toronto Raptors\nScotiaban
+ k Arena\nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +353,12 @@ UID:nba-2026-27-2026-12-20-houston-rockets-vs-toronto-raptors@open-sports-cal
 DTSTART:20261220T203000Z
 DTEND:20261220T233000Z
 SUMMARY:Houston Rockets @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Toronto Raptors\nScotiabank Aren
+ a\nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -323,23 +366,26 @@ UID:nba-2026-27-2026-12-22-toronto-raptors-vs-washington-wizards@open-sports-cal
 DTSTART:20261223T000000Z
 DTEND:20261223T030000Z
 SUMMARY:Toronto Raptors @ Washington Wizards
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Washington Wizards\nCapital One Arena
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Washington Wizards\nCapital One 
+ Arena\nBroadcast: MNMT
 LOCATION:Capital One Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MNMT
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-23-toronto-raptors-vs-memphis-grizzlies@open-sports-cal
 DTSTART:20261224T010000Z
 DTEND:20261224T040000Z
 SUMMARY:Toronto Raptors @ Memphis Grizzlies
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Memphis Grizzlies\nFedExForum
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Memphis Grizzlies\nFedExForum\nB
+ roadcast: Broadcast not announced
 LOCATION:FedExForum
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -347,11 +393,12 @@ UID:nba-2026-27-2026-12-26-toronto-raptors-vs-orlando-magic@open-sports-cal
 DTSTART:20261227T000000Z
 DTEND:20261227T030000Z
 SUMMARY:Toronto Raptors @ Orlando Magic
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Orlando Magic\nKia Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Orlando Magic\nKia Center\nBroad
+ cast: Broadcast not announced
 LOCATION:Kia Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -359,95 +406,110 @@ UID:nba-2026-27-2026-12-28-new-orleans-pelicans-vs-toronto-raptors@open-sports-c
 DTSTART:20261229T003000Z
 DTEND:20261229T033000Z
 SUMMARY:New Orleans Pelicans @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Toronto Raptors\nScotiabank
+  Arena\nBroadcast: GCSEN (streaming) / Pelicans.com (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:GCSEN (streaming) / Pelicans.com (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-30-washington-wizards-vs-toronto-raptors@open-sports-cal
 DTSTART:20261231T003000Z
 DTEND:20261231T033000Z
 SUMMARY:Washington Wizards @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nWashington Wizards @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Toronto Raptors\nScotiabank A
+ rena\nBroadcast: NBA TV / MNMT
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:NBA TV / MNMT
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-01-la-clippers-vs-toronto-raptors@open-sports-cal
 DTSTART:20270102T003000Z
 DTEND:20270102T033000Z
 SUMMARY:LA Clippers @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nLA Clippers @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Toronto Raptors\nScotiabank Arena\nB
+ roadcast: ClipperVision (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:ClipperVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-03-los-angeles-lakers-vs-toronto-raptors@open-sports-cal
 DTSTART:20270104T000000Z
 DTEND:20270104T030000Z
 SUMMARY:Los Angeles Lakers @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Toronto Raptors\nScotiabank A
+ rena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-05-toronto-raptors-vs-cleveland-cavaliers@open-sports-cal
 DTSTART:20270106T000000Z
 DTEND:20270106T030000Z
 SUMMARY:Toronto Raptors @ Cleveland Cavaliers
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Cleveland Cavaliers\nRocket Arena
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Cleveland Cavaliers\nRocket Aren
+ a\nBroadcast: DAZN CLE (streaming)
 LOCATION:Rocket Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:DAZN CLE (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-07-minnesota-timberwolves-vs-toronto-raptors@open-sports-cal
 DTSTART:20270108T003000Z
 DTEND:20270108T033000Z
 SUMMARY:Minnesota Timberwolves @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Toronto Raptors\nScotiaba
+ nk Arena\nBroadcast: Prime Video (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-08-utah-jazz-vs-toronto-raptors@open-sports-cal
 DTSTART:20270109T003000Z
 DTEND:20270109T033000Z
 SUMMARY:Utah Jazz @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nUtah Jazz @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Toronto Raptors\nScotiabank Arena\nBro
+ adcast: KJZZ-TV / Jazz+ (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:KJZZ-TV / Jazz+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-10-philadelphia-76ers-vs-toronto-raptors@open-sports-cal
 DTSTART:20270110T230000Z
 DTEND:20270111T020000Z
 SUMMARY:Philadelphia 76ers @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Toronto Raptors\nScotiabank A
+ rena\nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -455,11 +517,12 @@ UID:nba-2026-27-2027-01-12-detroit-pistons-vs-toronto-raptors@open-sports-cal
 DTSTART:20270113T003000Z
 DTEND:20270113T033000Z
 SUMMARY:Detroit Pistons @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Toronto Raptors\nScotiabank Aren
+ a\nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -467,23 +530,26 @@ UID:nba-2026-27-2027-01-13-phoenix-suns-vs-toronto-raptors@open-sports-cal
 DTSTART:20270114T003000Z
 DTEND:20270114T033000Z
 SUMMARY:Phoenix Suns @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Toronto Raptors\nScotiabank Arena\n
+ Broadcast: Arizona's Family 3TV / Suns Live (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:Arizona's Family 3TV / Suns Live (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-15-miami-heat-vs-toronto-raptors@open-sports-cal
 DTSTART:20270116T003000Z
 DTEND:20270116T033000Z
 SUMMARY:Miami Heat @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nMiami Heat @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Toronto Raptors\nScotiabank Arena\nBr
+ oadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -491,11 +557,12 @@ UID:nba-2026-27-2027-01-17-toronto-raptors-vs-chicago-bulls@open-sports-cal
 DTSTART:20270117T203000Z
 DTEND:20270117T233000Z
 SUMMARY:Toronto Raptors @ Chicago Bulls
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Chicago Bulls\nUnited Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Chicago Bulls\nUnited Center\nBr
+ oadcast: Broadcast not announced
 LOCATION:United Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -503,11 +570,12 @@ UID:nba-2026-27-2027-01-19-chicago-bulls-vs-toronto-raptors@open-sports-cal
 DTSTART:20270120T000000Z
 DTEND:20270120T030000Z
 SUMMARY:Chicago Bulls @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nChicago Bulls @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Toronto Raptors\nScotiabank Arena\
+ nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -515,11 +583,12 @@ UID:nba-2026-27-2027-01-20-toronto-raptors-vs-new-york-knicks@open-sports-cal
 DTSTART:20270121T003000Z
 DTEND:20270121T033000Z
 SUMMARY:Toronto Raptors @ New York Knicks
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ New York Knicks\nMadison Square Garden
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ New York Knicks\nMadison Square 
+ Garden\nBroadcast: Broadcast not announced
 LOCATION:Madison Square Garden
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -527,48 +596,56 @@ UID:nba-2026-27-2027-01-23-toronto-raptors-vs-brooklyn-nets@open-sports-cal
 DTSTART:20270123T230000Z
 DTEND:20270124T020000Z
 SUMMARY:Toronto Raptors @ Brooklyn Nets
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Brooklyn Nets\nBarclays Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Brooklyn Nets\nBarclays Center\n
+ Broadcast: DAZN (YES) (streaming)
 LOCATION:Barclays Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:DAZN (YES) (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-25-toronto-raptors-vs-boston-celtics@open-sports-cal
 DTSTART:20270126T000000Z
 DTEND:20270126T030000Z
 SUMMARY:Toronto Raptors @ Boston Celtics
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Boston Celtics\nTD Garden
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Boston Celtics\nTD Garden\nBroad
+ cast: NBCSN
 LOCATION:TD Garden
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBCSN
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-27-dallas-mavericks-vs-toronto-raptors@open-sports-cal
 DTSTART:20270128T003000Z
 DTEND:20270128T033000Z
 SUMMARY:Dallas Mavericks @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Toronto Raptors\nScotiabank Are
+ na\nBroadcast: KFAA-TV / MavsTV (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:KFAA-TV / MavsTV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-29-cleveland-cavaliers-vs-toronto-raptors@open-sports-cal
 DTSTART:20270130T000000Z
 DTEND:20270130T030000Z
 SUMMARY:Cleveland Cavaliers @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Toronto Raptors\nScotiabank 
+ Arena\nBroadcast: ESPN
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-31-boston-celtics-vs-toronto-raptors@open-sports-cal
@@ -576,10 +653,11 @@ DTSTART:20270131T230000Z
 DTEND:20270201T020000Z
 SUMMARY:Boston Celtics @ Toronto Raptors
 DESCRIPTION:NBA 2026-27\nBoston Celtics @ Toronto Raptors\nScotiabank Arena
+ \nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -587,23 +665,26 @@ UID:nba-2026-27-2027-02-02-toronto-raptors-vs-dallas-mavericks@open-sports-cal
 DTSTART:20270203T010000Z
 DTEND:20270203T040000Z
 SUMMARY:Toronto Raptors @ Dallas Mavericks
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Dallas Mavericks\nAmerican Airlines Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Dallas Mavericks\nAmerican Airli
+ nes Center\nBroadcast: KFAA-TV / MavsTV (streaming)
 LOCATION:American Airlines Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:KFAA-TV / MavsTV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-04-toronto-raptors-vs-new-york-knicks@open-sports-cal
 DTSTART:20270205T003000Z
 DTEND:20270205T033000Z
 SUMMARY:Toronto Raptors @ New York Knicks
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ New York Knicks\nMadison Square Garden
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ New York Knicks\nMadison Square 
+ Garden\nBroadcast: Broadcast not announced
 LOCATION:Madison Square Garden
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -611,59 +692,68 @@ UID:nba-2026-27-2027-02-06-milwaukee-bucks-vs-toronto-raptors@open-sports-cal
 DTSTART:20270207T003000Z
 DTEND:20270207T033000Z
 SUMMARY:Milwaukee Bucks @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Toronto Raptors\nScotiabank Aren
+ a\nBroadcast: MyMi / Bucks App (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:MyMi / Bucks App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-07-charlotte-hornets-vs-toronto-raptors@open-sports-cal
 DTSTART:20270207T230000Z
 DTEND:20270208T020000Z
 SUMMARY:Charlotte Hornets @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Toronto Raptors\nScotiabank Ar
+ ena\nBroadcast: DAZN CHA (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:DAZN CHA (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-09-toronto-raptors-vs-cleveland-cavaliers@open-sports-cal
 DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Toronto Raptors @ Cleveland Cavaliers
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Cleveland Cavaliers\nRocket Arena
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Cleveland Cavaliers\nRocket Aren
+ a\nBroadcast: DAZN CLE (streaming)
 LOCATION:Rocket Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:DAZN CLE (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-12-cleveland-cavaliers-vs-toronto-raptors@open-sports-cal
 DTSTART:20270213T003000Z
 DTEND:20270213T033000Z
 SUMMARY:Cleveland Cavaliers @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Toronto Raptors\nScotiabank 
+ Arena\nBroadcast: DAZN CLE (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:DAZN CLE (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-14-toronto-raptors-vs-boston-celtics@open-sports-cal
 DTSTART:20270214T180000Z
 DTEND:20270214T210000Z
 SUMMARY:Toronto Raptors @ Boston Celtics
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Boston Celtics\nTD Garden
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Boston Celtics\nTD Garden\nBroad
+ cast: Broadcast not announced
 LOCATION:TD Garden
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -671,35 +761,40 @@ UID:nba-2026-27-2027-02-16-toronto-raptors-vs-atlanta-hawks@open-sports-cal
 DTSTART:20270217T010000Z
 DTEND:20270217T040000Z
 SUMMARY:Toronto Raptors @ Atlanta Hawks
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Atlanta Hawks\nState Farm Arena
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Atlanta Hawks\nState Farm Arena\
+ nBroadcast: NBC
 LOCATION:State Farm Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-17-toronto-raptors-vs-charlotte-hornets@open-sports-cal
 DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:Toronto Raptors @ Charlotte Hornets
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Charlotte Hornets\nSpectrum Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Charlotte Hornets\nSpectrum Cent
+ er\nBroadcast: DAZN CHA (streaming)
 LOCATION:Spectrum Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:DAZN CHA (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-26-atlanta-hawks-vs-toronto-raptors@open-sports-cal
 DTSTART:20270227T003000Z
 DTEND:20270227T033000Z
 SUMMARY:Atlanta Hawks @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Toronto Raptors\nScotiabank Arena\
+ nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -707,23 +802,26 @@ UID:nba-2026-27-2027-02-28-toronto-raptors-vs-indiana-pacers@open-sports-cal
 DTSTART:20270228T210000Z
 DTEND:20270301T000000Z
 SUMMARY:Toronto Raptors @ Indiana Pacers
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Indiana Pacers\nGainbridge Fieldhouse
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Indiana Pacers\nGainbridge Field
+ house\nBroadcast: DAZN IND (streaming)
 LOCATION:Gainbridge Fieldhouse
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Indiana/Indianapolis
+X-BROADCAST:DAZN IND (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-02-toronto-raptors-vs-miami-heat@open-sports-cal
 DTSTART:20270303T003000Z
 DTEND:20270303T033000Z
 SUMMARY:Toronto Raptors @ Miami Heat
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Miami Heat\nKaseya Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Miami Heat\nKaseya Center\nBroad
+ cast: Broadcast not announced
 LOCATION:Kaseya Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -731,83 +829,96 @@ UID:nba-2026-27-2027-03-03-toronto-raptors-vs-miami-heat@open-sports-cal
 DTSTART:20270304T003000Z
 DTEND:20270304T033000Z
 SUMMARY:Toronto Raptors @ Miami Heat
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Miami Heat\nKaseya Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Miami Heat\nKaseya Center\nBroad
+ cast: ESPN
 LOCATION:Kaseya Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-05-portland-trail-blazers-vs-toronto-raptors@open-sports-cal
 DTSTART:20270306T003000Z
 DTEND:20270306T033000Z
 SUMMARY:Portland Trail Blazers @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Toronto Raptors\nScotiaba
+ nk Arena\nBroadcast: KUNP 16 / BlazerVision (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:KUNP 16 / BlazerVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-10-oklahoma-city-thunder-vs-toronto-raptors@open-sports-cal
 DTSTART:20270311T003000Z
 DTEND:20270311T033000Z
 SUMMARY:Oklahoma City Thunder @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Toronto Raptors\nScotiaban
+ k Arena\nBroadcast: KSBI / Thunder App (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:KSBI / Thunder App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-12-toronto-raptors-vs-new-orleans-pelicans@open-sports-cal
 DTSTART:20270313T010000Z
 DTEND:20270313T040000Z
 SUMMARY:Toronto Raptors @ New Orleans Pelicans
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ New Orleans Pelicans\nSmoothie King Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ New Orleans Pelicans\nSmoothie K
+ ing Center\nBroadcast: GCSEN (streaming) / Pelicans.com (streaming)
 LOCATION:Smoothie King Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:GCSEN (streaming) / Pelicans.com (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-14-detroit-pistons-vs-toronto-raptors@open-sports-cal
 DTSTART:20270314T210000Z
 DTEND:20270315T000000Z
 SUMMARY:Detroit Pistons @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Toronto Raptors\nScotiabank Aren
+ a\nBroadcast: NBA TV
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:NBA TV
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-15-toronto-raptors-vs-philadelphia-76ers@open-sports-cal
 DTSTART:20270315T230000Z
 DTEND:20270316T020000Z
 SUMMARY:Toronto Raptors @ Philadelphia 76ers
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Philadelphia 76ers\nXfinity Mobile Arena
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Philadelphia 76ers\nXfinity Mobi
+ le Arena\nBroadcast: NBCSN
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBCSN
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-18-toronto-raptors-vs-indiana-pacers@open-sports-cal
 DTSTART:20270318T230000Z
 DTEND:20270319T020000Z
 SUMMARY:Toronto Raptors @ Indiana Pacers
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Indiana Pacers\nGainbridge Fieldhouse
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Indiana Pacers\nGainbridge Field
+ house\nBroadcast: Broadcast not announced
 LOCATION:Gainbridge Fieldhouse
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Indiana/Indianapolis
 END:VEVENT
 BEGIN:VEVENT
@@ -815,11 +926,12 @@ UID:nba-2026-27-2027-03-19-sacramento-kings-vs-toronto-raptors@open-sports-cal
 DTSTART:20270319T233000Z
 DTEND:20270320T023000Z
 SUMMARY:Sacramento Kings @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nSacramento Kings @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Toronto Raptors\nScotiabank Are
+ na\nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -827,35 +939,40 @@ UID:nba-2026-27-2027-03-21-toronto-raptors-vs-utah-jazz@open-sports-cal
 DTSTART:20270321T210000Z
 DTEND:20270322T000000Z
 SUMMARY:Toronto Raptors @ Utah Jazz
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Utah Jazz\nDelta Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Utah Jazz\nDelta Center\nBroadca
+ st: KJZZ-TV / Jazz+ (streaming)
 LOCATION:Delta Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:KJZZ-TV / Jazz+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-23-toronto-raptors-vs-portland-trail-blazers@open-sports-cal
 DTSTART:20270324T020000Z
 DTEND:20270324T050000Z
 SUMMARY:Toronto Raptors @ Portland Trail Blazers
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Portland Trail Blazers\nModa Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Portland Trail Blazers\nModa Cen
+ ter\nBroadcast: KUNP 16 / BlazerVision (streaming)
 LOCATION:Moda Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:KUNP 16 / BlazerVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-25-toronto-raptors-vs-golden-state-warriors@open-sports-cal
 DTSTART:20270326T020000Z
 DTEND:20270326T050000Z
 SUMMARY:Toronto Raptors @ Golden State Warriors
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Golden State Warriors\nChase Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Golden State Warriors\nChase Cen
+ ter\nBroadcast: Broadcast not announced
 LOCATION:Chase Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -863,11 +980,12 @@ UID:nba-2026-27-2027-03-27-toronto-raptors-vs-sacramento-kings@open-sports-cal
 DTSTART:20270328T020000Z
 DTEND:20270328T050000Z
 SUMMARY:Toronto Raptors @ Sacramento Kings
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Sacramento Kings\nGolden 1 Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Sacramento Kings\nGolden 1 Cente
+ r\nBroadcast: Broadcast not announced
 LOCATION:Golden 1 Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -875,23 +993,26 @@ UID:nba-2026-27-2027-03-28-toronto-raptors-vs-phoenix-suns@open-sports-cal
 DTSTART:20270329T010000Z
 DTEND:20270329T040000Z
 SUMMARY:Toronto Raptors @ Phoenix Suns
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Phoenix Suns\nMortgage Matchup Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Phoenix Suns\nMortgage Matchup C
+ enter\nBroadcast: Suns Live (streaming) / Arizona's Family 3TV
 LOCATION:Mortgage Matchup Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:Suns Live (streaming) / Arizona's Family 3TV
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-31-toronto-raptors-vs-detroit-pistons@open-sports-cal
 DTSTART:20270331T230000Z
 DTEND:20270401T020000Z
 SUMMARY:Toronto Raptors @ Detroit Pistons
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Detroit Pistons\nLittle Caesars Arena
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Detroit Pistons\nLittle Caesars 
+ Arena\nBroadcast: Broadcast not announced
 LOCATION:Little Caesars Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -899,11 +1020,12 @@ UID:nba-2026-27-2027-04-02-atlanta-hawks-vs-toronto-raptors@open-sports-cal
 DTSTART:20270403T003000Z
 DTEND:20270403T033000Z
 SUMMARY:Atlanta Hawks @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Toronto Raptors\nScotiabank Arena\
+ nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -912,22 +1034,25 @@ DTSTART:20270404T193000Z
 DTEND:20270404T223000Z
 SUMMARY:Indiana Pacers @ Toronto Raptors
 DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Toronto Raptors\nScotiabank Arena
+ \nBroadcast: DAZN IND (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:DAZN IND (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-04-06-philadelphia-76ers-vs-toronto-raptors@open-sports-cal
 DTSTART:20270406T233000Z
 DTEND:20270407T023000Z
 SUMMARY:Philadelphia 76ers @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Toronto Raptors\nScotiabank A
+ rena\nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -935,23 +1060,26 @@ UID:nba-2026-27-2027-04-07-brooklyn-nets-vs-toronto-raptors@open-sports-cal
 DTSTART:20270407T233000Z
 DTEND:20270408T023000Z
 SUMMARY:Brooklyn Nets @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Toronto Raptors\nScotiabank Arena\
+ nBroadcast: DAZN (YES) (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:DAZN (YES) (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-04-09-toronto-raptors-vs-orlando-magic@open-sports-cal
 DTSTART:20270409T230000Z
 DTEND:20270410T020000Z
 SUMMARY:Toronto Raptors @ Orlando Magic
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Orlando Magic\nKia Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Orlando Magic\nKia Center\nBroad
+ cast: Broadcast not announced
 LOCATION:Kia Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -959,11 +1087,13 @@ UID:nba-2026-27-2027-04-11-toronto-raptors-vs-brooklyn-nets@open-sports-cal
 DTSTART:20270411T220000Z
 DTEND:20270412T010000Z
 SUMMARY:Toronto Raptors @ Brooklyn Nets
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Brooklyn Nets\nBarclays Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Brooklyn Nets\nBarclays Center\n
+ Broadcast: DAZN (YES) (streaming)
 LOCATION:Barclays Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:DAZN (YES) (streaming)
 END:VEVENT
 END:VCALENDAR

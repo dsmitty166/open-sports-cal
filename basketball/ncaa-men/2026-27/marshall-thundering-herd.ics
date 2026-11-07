@@ -12,12 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Buffalo Bulls @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Marshall Thunder
- ing Herd\nCam Henderson Center\, Huntington\, WV
+ ing Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920856@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T190000Z
 DTEND:20261107T220000Z
 SUMMARY:Toledo Rockets @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nToledo Rockets @ Marshall Thunde
- ring Herd\nCam Henderson Center\, Huntington\, WV
+ ring Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916315@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20261109T230000Z
 DTEND:20261110T020000Z
 SUMMARY:Marshall Thundering Herd @ Ohio State Buckeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ Ohio 
- State Buckeyes\nSchottenstein Center\, Columbus\, OH
+ State Buckeyes\nSchottenstein Center\, Columbus\, OH\nBroadcast: BTN
 LOCATION:Schottenstein Center\, Columbus\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920750@open-sports-cal
@@ -52,12 +57,13 @@ DTEND:20261115T020000Z
 SUMMARY:Marshall Thundering Herd @ Youngstown State Penguins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ Young
  stown State Penguins\nZidian Family Arena at Beeghly Center\, Youngstown\,
-  OH
+  OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Zidian Family Arena at Beeghly Center\, Youngstown\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920857@open-sports-cal
@@ -65,12 +71,14 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:East Tennessee State Buccaneers @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Marshall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ @ Marshall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401912710@open-sports-cal
@@ -78,12 +86,14 @@ DTSTART:20261121T020000Z
 DTEND:20261121T050000Z
 SUMMARY:Marshall Thundering Herd @ North Carolina Tar Heels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ North
-  Carolina Tar Heels\nDean E. Smith Center\, Chapel Hill\, NC
+  Carolina Tar Heels\nDean E. Smith Center\, Chapel Hill\, NC\nBroadcast: A
+ CC Network
 LOCATION:Dean E. Smith Center\, Chapel Hill\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920858@open-sports-cal
@@ -91,12 +101,14 @@ DTSTART:20261125T210000Z
 DTEND:20261126T000000Z
 SUMMARY:Prairie View A&M Panthers @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrairie View A&M Panthers @ Mars
- hall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ hall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920859@open-sports-cal
@@ -104,12 +116,14 @@ DTSTART:20261128T210000Z
 DTEND:20261129T000000Z
 SUMMARY:East Texas A&M Lions @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Marshall 
- Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920860@open-sports-cal
@@ -117,12 +131,14 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:UNC Wilmington Seahawks @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Marsha
- ll Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ ll Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920861@open-sports-cal
@@ -130,12 +146,14 @@ DTSTART:20261206T000000Z
 DTEND:20261206T030000Z
 SUMMARY:Bethune-Cookman Wildcats @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Marsh
- all Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ all Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920862@open-sports-cal
@@ -143,12 +161,14 @@ DTSTART:20261213T000000Z
 DTEND:20261213T030000Z
 SUMMARY:Kentucky Christian Knights @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Christian Knights @ Mar
- shall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ shall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911947@open-sports-cal
@@ -156,12 +176,14 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Old Dominion Monarchs @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOld Dominion Monarchs @ Marshall
-  Thundering Herd\nCam Henderson Center\, Huntington\, WV
+  Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911955@open-sports-cal
@@ -169,12 +191,14 @@ DTSTART:20261219T210000Z
 DTEND:20261220T000000Z
 SUMMARY:Marshall Thundering Herd @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ Louis
- iana Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ iana Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920863@open-sports-cal
@@ -182,12 +206,14 @@ DTSTART:20261224T000000Z
 DTEND:20261224T030000Z
 SUMMARY:WVU Tech Golden Bears @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWVU Tech Golden Bears @ Marshall
-  Thundering Herd\nCam Henderson Center\, Huntington\, WV
+  Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911962@open-sports-cal
@@ -195,12 +221,14 @@ DTSTART:20261231T210000Z
 DTEND:20270101T000000Z
 SUMMARY:South Alabama Jaguars @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Alabama Jaguars @ Marshall
-  Thundering Herd\nCam Henderson Center\, Huntington\, WV
+  Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911969@open-sports-cal
@@ -208,11 +236,12 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Arkansas State Red Wolves @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas State Red Wolves @ Mars
- hall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ hall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: B
+ roadcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -221,11 +250,12 @@ DTSTART:20270108T003000Z
 DTEND:20270108T033000Z
 SUMMARY:Marshall Thundering Herd @ UL Monroe Warhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ UL Mo
- nroe Warhawks\nb1Bank Fant Coliseum\, Monroe\, LA
+ nroe Warhawks\nb1Bank Fant Coliseum\, Monroe\, LA\nBroadcast: Broadcast no
+ t announced
 LOCATION:b1Bank Fant Coliseum\, Monroe\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -234,11 +264,12 @@ DTSTART:20270109T210000Z
 DTEND:20270110T000000Z
 SUMMARY:Marshall Thundering Herd @ Louisiana Tech Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ Louis
- iana Tech Bulldogs\nThomas Assembly Center\, Ruston\, LA
+ iana Tech Bulldogs\nThomas Assembly Center\, Ruston\, LA\nBroadcast: Broad
+ cast not announced
 LOCATION:Thomas Assembly Center\, Ruston\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +278,12 @@ DTSTART:20270114T200000Z
 DTEND:20270114T230000Z
 SUMMARY:Marshall Thundering Herd @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ Georg
- ia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ ia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broad
+ cast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +292,12 @@ DTSTART:20270117T000000Z
 DTEND:20270117T030000Z
 SUMMARY:Georgia Southern Eagles @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Marsha
- ll Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ ll Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: Bro
+ adcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +306,12 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Marshall Thundering Herd @ James Madison Dukes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ James
-  Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA
+  Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA\nBroadcast:
+  Broadcast not announced
 LOCATION:Atlantic Union Bank Center\, Harrisonburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +320,12 @@ DTSTART:20270123T200000Z
 DTEND:20270123T230000Z
 SUMMARY:Marshall Thundering Herd @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ Coast
- al Carolina Chanticleers\nThe HTC Center\, Conway\, SC
+ al Carolina Chanticleers\nThe HTC Center\, Conway\, SC\nBroadcast: Broadca
+ st not announced
 LOCATION:The HTC Center\, Conway\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +334,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Georgia State Panthers @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Marshal
- l Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ l Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: Broa
+ dcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +348,12 @@ DTSTART:20270131T000000Z
 DTEND:20270131T030000Z
 SUMMARY:App State Mountaineers @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nApp State Mountaineers @ Marshal
- l Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ l Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: Broa
+ dcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -326,11 +363,11 @@ DTEND:20270204T030000Z
 SUMMARY:Marshall Thundering Herd @ Georgia Southern Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ Georg
  ia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro
- \, GA
+ \, GA\nBroadcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -339,11 +376,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Coastal Carolina Chanticleers @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCoastal Carolina Chanticleers @ 
- Marshall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ Marshall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcas
+ t: Broadcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -352,11 +390,12 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:James Madison Dukes @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJames Madison Dukes @ Marshall T
- hundering Herd\nCam Henderson Center\, Huntington\, WV
+ hundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: Broadca
+ st not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -365,11 +404,12 @@ DTSTART:20270218T233000Z
 DTEND:20270219T023000Z
 SUMMARY:Marshall Thundering Herd @ App State Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ App S
- tate Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ tate Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: Broa
+ dcast not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -378,11 +418,12 @@ DTSTART:20270221T000000Z
 DTEND:20270221T030000Z
 SUMMARY:Marshall Thundering Herd @ Old Dominion Monarchs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ Old D
- ominion Monarchs\nChartway Arena\, Norfolk\, VA
+ ominion Monarchs\nChartway Arena\, Norfolk\, VA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Chartway Arena\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,11 +432,12 @@ DTSTART:20270227T020000Z
 DTEND:20270227T050000Z
 SUMMARY:Troy Trojans @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Marshall Thunderi
- ng Herd\nCam Henderson Center\, Huntington\, WV
+ ng Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: Broadcast not 
+ announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

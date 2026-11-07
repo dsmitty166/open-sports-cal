@@ -12,12 +12,13 @@ DTSTART:20261103T030000Z
 DTEND:20261103T060000Z
 SUMMARY:Robert Morris Colonials @ Nevada Wolf Pack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Nevada
-  Wolf Pack\nLawlor Events Center\, Reno\, NV
+  Wolf Pack\nLawlor Events Center\, Reno\, NV\nBroadcast: MW+ (streaming)
 LOCATION:Lawlor Events Center\, Reno\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928823@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:Robert Morris Colonials @ UIC Flames
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ UIC Fl
- ames\nCredit Union 1 Arena\, Chicago\, IL
+ ames\nCredit Union 1 Arena\, Chicago\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Credit Union 1 Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928824@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20261112T010000Z
 DTEND:20261112T040000Z
 SUMMARY:Robert Morris Colonials @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Arkans
- as Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ as Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SECN+ (str
+ eaming)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928825@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:Capital Crusaders @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCapital Crusaders @ Robert Morri
- s Colonials\nUPMC Events Center\, Moon Township\, PA
+ s Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928826@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261120T000000Z
 DTEND:20261120T030000Z
 SUMMARY:Robert Morris Colonials @ Toledo Rockets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Toledo
-  Rockets\nSavage Arena\, Toledo\, OH
+  Rockets\nSavage Arena\, Toledo\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Savage Arena\, Toledo\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928790@open-sports-cal
@@ -77,11 +84,12 @@ DTSTART:20261122T193000Z
 DTEND:20261122T223000Z
 SUMMARY:Robert Morris Colonials @ New Mexico State Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ New Me
- xico State Aggies\nThe Reef\, Jacksonville\, FL\nNeutral site
+ xico State Aggies\nThe Reef\, Jacksonville\, FL\nNeutral site\nBroadcast: 
+ Broadcast not announced
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +98,12 @@ DTSTART:20261124T233000Z
 DTEND:20261125T023000Z
 SUMMARY:Robert Morris Colonials @ Lamar Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Lamar 
- Cardinals\nThe Reef\, Jacksonville\, FL\nNeutral site
+ Cardinals\nThe Reef\, Jacksonville\, FL\nNeutral site\nBroadcast: Broadcas
+ t not announced
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +112,14 @@ DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:Robert Morris Colonials @ Northern Iowa Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Northe
- rn Iowa Panthers\nMcLeod Center\, Cedar Falls\, IA
+ rn Iowa Panthers\nMcLeod Center\, Cedar Falls\, IA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:McLeod Center\, Cedar Falls\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919205@open-sports-cal
@@ -116,12 +127,14 @@ DTSTART:20261202T233000Z
 DTEND:20261203T023000Z
 SUMMARY:Robert Morris Colonials @ IU Indianapolis Jaguars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ IU Ind
- ianapolis Jaguars\nJames T. Morris Arena\, Indianapolis\, IN
+ ianapolis Jaguars\nJames T. Morris Arena\, Indianapolis\, IN\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:James T. Morris Arena\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919213@open-sports-cal
@@ -129,12 +142,14 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:Youngstown State Penguins @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYoungstown State Penguins @ Robe
- rt Morris Colonials\nUPMC Events Center\, Moon Township\, PA
+ rt Morris Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921688@open-sports-cal
@@ -142,11 +157,12 @@ DTSTART:20261210T013000Z
 DTEND:20261210T043000Z
 SUMMARY:Duquesne Dukes @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDuquesne Dukes @ Robert Morris C
- olonials\nPPG Paints Arena\, Pittsburgh\, PA\nNeutral site
+ olonials\nPPG Paints Arena\, Pittsburgh\, PA\nNeutral site\nBroadcast: Bro
+ adcast not announced
 LOCATION:PPG Paints Arena\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +171,14 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Monmouth Hawks @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Robert Morris C
- olonials\nUPMC Events Center\, Moon Township\, PA
+ olonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920699@open-sports-cal
@@ -168,12 +186,14 @@ DTSTART:20261220T190000Z
 DTEND:20261220T220000Z
 SUMMARY:Vermont Catamounts @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Robert Morr
- is Colonials\nUPMC Events Center\, Moon Township\, PA
+ is Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928827@open-sports-cal
@@ -181,12 +201,14 @@ DTSTART:20261223T190000Z
 DTEND:20261223T220000Z
 SUMMARY:Ohio Bobcats @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Robert Morris Col
- onials\nUPMC Events Center\, Moon Township\, PA
+ onials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919219@open-sports-cal
@@ -194,12 +216,14 @@ DTSTART:20261231T000000Z
 DTEND:20261231T030000Z
 SUMMARY:Robert Morris Colonials @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Purdue
-  Fort Wayne Mastodons\nMemorial Coliseum (IN)\, Fort Wayne\, IN
+  Fort Wayne Mastodons\nMemorial Coliseum (IN)\, Fort Wayne\, IN\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Memorial Coliseum (IN)\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919222@open-sports-cal
@@ -207,11 +231,12 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:Northern Illinois Huskies @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Illinois Huskies @ Robe
- rt Morris Colonials\nUPMC Events Center\, Moon Township\, PA
+ rt Morris Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: B
+ roadcast not announced
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +245,12 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Detroit Mercy Titans @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDetroit Mercy Titans @ Robert Mo
- rris Colonials\nUPMC Events Center\, Moon Township\, PA
+ rris Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: Broadc
+ ast not announced
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +259,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Oakland Golden Grizzlies @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Rober
- t Morris Colonials\nUPMC Events Center\, Moon Township\, PA
+ t Morris Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: Br
+ oadcast not announced
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +273,12 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Robert Morris Colonials @ Wright State Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Wright
-  State Raiders\nNutter Center\, Dayton\, OH
+  State Raiders\nNutter Center\, Dayton\, OH\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Nutter Center\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +287,12 @@ DTSTART:20270117T190000Z
 DTEND:20270117T220000Z
 SUMMARY:Robert Morris Colonials @ Cleveland State Vikings
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Clevel
- and State Vikings\nWolstein Center\, Cleveland\, OH
+ and State Vikings\nWolstein Center\, Cleveland\, OH\nBroadcast: Broadcast 
+ not announced
 LOCATION:Wolstein Center\, Cleveland\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +301,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ Ro
- bert Morris Colonials\nUPMC Events Center\, Moon Township\, PA
+ bert Morris Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast:
+  Broadcast not announced
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +315,12 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:IU Indianapolis Jaguars @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIU Indianapolis Jaguars @ Robert
-  Morris Colonials\nUPMC Events Center\, Moon Township\, PA
+  Morris Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: Bro
+ adcast not announced
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +329,12 @@ DTSTART:20270128T010000Z
 DTEND:20270128T040000Z
 SUMMARY:Robert Morris Colonials @ Milwaukee Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Milwau
- kee Panthers\nUW-Milwaukee Panther Arena\, Milwaukee\, WI
+ kee Panthers\nUW-Milwaukee Panther Arena\, Milwaukee\, WI\nBroadcast: Broa
+ dcast not announced
 LOCATION:UW-Milwaukee Panther Arena\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +343,12 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Robert Morris Colonials @ Green Bay Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Green 
- Bay Phoenix\nResch Center\, Ashwaubenon\, WI
+ Bay Phoenix\nResch Center\, Ashwaubenon\, WI\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Resch Center\, Ashwaubenon\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +357,12 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Cleveland State Vikings @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCleveland State Vikings @ Robert
-  Morris Colonials\nUPMC Events Center\, Moon Township\, PA
+  Morris Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: Bro
+ adcast not announced
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +372,11 @@ DTEND:20270207T220000Z
 SUMMARY:Robert Morris Colonials @ Youngstown State Penguins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Youngs
  town State Penguins\nZidian Family Arena at Beeghly Center\, Youngstown\, 
- OH
+ OH\nBroadcast: Broadcast not announced
 LOCATION:Zidian Family Arena at Beeghly Center\, Youngstown\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +385,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Robert Morris Colonials @ Detroit Mercy Titans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Detroi
- t Mercy Titans\nCalihan Hall\, Detroit\, MI
+ t Mercy Titans\nCalihan Hall\, Detroit\, MI\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Calihan Hall\, Detroit\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +399,12 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Robert Morris Colonials @ Oakland Golden Grizzlies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Oaklan
- d Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+ d Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI\nBroadcast: Br
+ oadcast not announced
 LOCATION:OU Credit Union O'rena\, Rochester\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +413,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Northern Kentucky Norse @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Kentucky Norse @ Robert
-  Morris Colonials\nUPMC Events Center\, Moon Township\, PA
+  Morris Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: Bro
+ adcast not announced
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +427,12 @@ DTSTART:20270221T200000Z
 DTEND:20270221T230000Z
 SUMMARY:Robert Morris Colonials @ Northern Illinois Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Northe
- rn Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ rn Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: Broa
+ dcast not announced
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -403,11 +441,12 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:Milwaukee Panthers @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMilwaukee Panthers @ Robert Morr
- is Colonials\nUPMC Events Center\, Moon Township\, PA
+ is Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: Broadcas
+ t not announced
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -416,11 +455,12 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Green Bay Phoenix @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGreen Bay Phoenix @ Robert Morri
- s Colonials\nUPMC Events Center\, Moon Township\, PA
+ s Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: Broadcast
+  not announced
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

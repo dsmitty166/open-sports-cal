@@ -12,13 +12,14 @@ DTSTART:20261103T230000Z
 DTEND:20261104T020000Z
 SUMMARY:Central Connecticut Blue Devils @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ VCU Rams\nSiegel Center\, Richmond\, VA
+ s @ VCU Rams\nSiegel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915783@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261112T230000Z
 DTEND:20261113T020000Z
 SUMMARY:Virginia Tech Hokies @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ VCU Ram
- s\nSiegel Center\, Richmond\, VA
+ s\nSiegel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915784@open-sports-cal
@@ -40,13 +42,14 @@ DTSTART:20261116T230000Z
 DTEND:20261117T020000Z
 SUMMARY:North Carolina Central Eagles @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ VCU Rams\nSiegel Center\, Richmond\, VA
+ @ VCU Rams\nSiegel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913766@open-sports-cal
@@ -54,13 +57,15 @@ DTSTART:20261119T230000Z
 DTEND:20261120T020000Z
 SUMMARY:VCU Rams @ Maine Black Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ Maine Black Bears\n
- Skip Chappelle Court in Memorial Gymnasium\, Orono\, ME
+ Skip Chappelle Court in Memorial Gymnasium\, Orono\, ME\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Skip Chappelle Court in Memorial Gymnasium\, Orono\, ME
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915785@open-sports-cal
@@ -68,13 +73,14 @@ DTSTART:20261123T230000Z
 DTEND:20261124T020000Z
 SUMMARY:Morgan State Lady Bears @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ VCU 
- Rams\nSiegel Center\, Richmond\, VA
+ Rams\nSiegel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915786@open-sports-cal
@@ -82,12 +88,13 @@ DTSTART:20261128T003000Z
 DTEND:20261128T033000Z
 SUMMARY:VCU Rams @ Coppin State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ Coppin State Eagles
- \nHenrico Sports & Events Center\, Glen Allen\, VA\nNeutral site
+ \nHenrico Sports & Events Center\, Glen Allen\, VA\nNeutral site\nBroadcas
+ t: Broadcast not announced
 LOCATION:Henrico Sports & Events Center\, Glen Allen\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -96,13 +103,15 @@ DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 SUMMARY:VCU Rams @ Ohio State Buckeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ Ohio State Buckeyes
- \nHenrico Sports & Events Center\, Glen Allen\, VA\nNeutral site
+ \nHenrico Sports & Events Center\, Glen Allen\, VA\nNeutral site\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Henrico Sports & Events Center\, Glen Allen\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915788@open-sports-cal
@@ -110,13 +119,15 @@ DTSTART:20261129T170000Z
 DTEND:20261129T200000Z
 SUMMARY:Florida State Seminoles @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida State Seminoles @ VCU 
- Rams\nHenrico Sports & Events Center\, Glen Allen\, VA\nNeutral site
+ Rams\nHenrico Sports & Events Center\, Glen Allen\, VA\nNeutral site\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Henrico Sports & Events Center\, Glen Allen\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928869@open-sports-cal
@@ -124,13 +135,14 @@ DTSTART:20261202T230000Z
 DTEND:20261203T020000Z
 SUMMARY:Dayton Flyers @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDayton Flyers @ VCU Rams\nSieg
- el Center\, Richmond\, VA
+ el Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915789@open-sports-cal
@@ -138,13 +150,14 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Charlotte 49ers @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharlotte 49ers @ VCU Rams\nSi
- egel Center\, Richmond\, VA
+ egel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913782@open-sports-cal
@@ -152,13 +165,14 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:New Hampshire Wildcats @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Hampshire Wildcats @ VCU R
- ams\nSiegel Center\, Richmond\, VA
+ ams\nSiegel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915790@open-sports-cal
@@ -166,13 +180,14 @@ DTSTART:20261221T180000Z
 DTEND:20261221T210000Z
 SUMMARY:Southern Miss Lady Eagles @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Miss Lady Eagles @ VC
- U Rams\nSiegel Center\, Richmond\, VA
+ U Rams\nSiegel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928881@open-sports-cal
@@ -180,13 +195,14 @@ DTSTART:20261230T230000Z
 DTEND:20261231T020000Z
 SUMMARY:St. Bonaventure Bonnies @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. Bonaventure Bonnies @ VCU 
- Rams\nSiegel Center\, Richmond\, VA
+ Rams\nSiegel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928886@open-sports-cal
@@ -194,12 +210,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:VCU Rams @ Duquesne Dukes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ Duquesne Dukes\nUPM
- C Cooper Fieldhouse\, Pittsburgh\, PA
+ C Cooper Fieldhouse\, Pittsburgh\, PA\nBroadcast: Broadcast not announced
 LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +224,12 @@ DTSTART:20270106T160000Z
 DTEND:20270106T190000Z
 SUMMARY:VCU Rams @ Fordham Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ Fordham Rams\nRose 
- Hill Gym\, Bronx\, NY
+ Hill Gym\, Bronx\, NY\nBroadcast: Broadcast not announced
 LOCATION:Rose Hill Gym\, Bronx\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +238,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Loyola Chicago Ramblers @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Chicago Ramblers @ VCU 
- Rams\nSiegel Center\, Richmond\, VA
+ Rams\nSiegel Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +252,12 @@ DTSTART:20270117T190000Z
 DTEND:20270117T220000Z
 SUMMARY:VCU Rams @ Richmond Spiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ Richmond Spiders\nR
- obins Center\, Richmond\, VA
+ obins Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +266,13 @@ DTSTART:20270120T230000Z
 DTEND:20270121T020000Z
 SUMMARY:VCU Rams @ George Washington Revolutionaries
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ George Washington R
- evolutionaries\nCharles E. Smith Center\, Washington\, DC
+ evolutionaries\nCharles E. Smith Center\, Washington\, DC\nBroadcast: Broa
+ dcast not announced
 LOCATION:Charles E. Smith Center\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +281,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:La Salle Explorers @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLa Salle Explorers @ VCU Rams\
- nSiegel Center\, Richmond\, VA
+ nSiegel Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +295,12 @@ DTSTART:20270127T230000Z
 DTEND:20270128T020000Z
 SUMMARY:VCU Rams @ Rhode Island Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ Rhode Island Rams\n
- Thomas M. Ryan Center\, Kingston\, RI
+ Thomas M. Ryan Center\, Kingston\, RI\nBroadcast: Broadcast not announced
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +309,12 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:Saint Louis Billikens @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Louis Billikens @ VCU Ra
- ms\nSiegel Center\, Richmond\, VA
+ ms\nSiegel Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +323,12 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:VCU Rams @ George Mason Patriots
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ George Mason Patrio
- ts\nEagleBank Arena\, Fairfax\, VA
+ ts\nEagleBank Arena\, Fairfax\, VA\nBroadcast: Broadcast not announced
 LOCATION:EagleBank Arena\, Fairfax\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +337,12 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Duquesne Dukes @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDuquesne Dukes @ VCU Rams\nSie
- gel Center\, Richmond\, VA
+ gel Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +351,12 @@ DTSTART:20270210T160000Z
 DTEND:20270210T190000Z
 SUMMARY:VCU Rams @ Dayton Flyers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ Dayton Flyers\nUD A
- rena\, Dayton\, OH
+ rena\, Dayton\, OH\nBroadcast: Broadcast not announced
 LOCATION:UD Arena\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +365,12 @@ DTSTART:20270214T170000Z
 DTEND:20270214T200000Z
 SUMMARY:Richmond Spiders @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRichmond Spiders @ VCU Rams\nS
- iegel Center\, Richmond\, VA
+ iegel Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +379,12 @@ DTSTART:20270217T160000Z
 DTEND:20270217T190000Z
 SUMMARY:Saint Joseph's Hawks @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Joseph's Hawks @ VCU Ram
- s\nSiegel Center\, Richmond\, VA
+ s\nSiegel Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +393,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:VCU Rams @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ St. Bonaventure Bon
- nies\nReilly Center\, Saint Bonaventure\, NY
+ nies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +408,12 @@ DTSTART:20270224T230000Z
 DTEND:20270225T020000Z
 SUMMARY:George Mason Patriots @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorge Mason Patriots @ VCU Ra
- ms\nSiegel Center\, Richmond\, VA
+ ms\nSiegel Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +422,12 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:VCU Rams @ Davidson Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVCU Rams @ Davidson Wildcats\n
- John M. Belk Arena\, Davidson\, NC
+ John M. Belk Arena\, Davidson\, NC\nBroadcast: Broadcast not announced
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

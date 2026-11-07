@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Charlotte 49ers @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Indiana State 
- Sycamores\nHulman Center\, Terre Haute\, IN
+ Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911005@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Indiana State Sycamores @ Ball State Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Ball S
- tate Cardinals\nWorthen Arena\, Muncie\, IN
+ tate Cardinals\nWorthen Arena\, Muncie\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Worthen Arena\, Muncie\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926868@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Milwaukee Panthers @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMilwaukee Panthers @ Indiana Sta
- te Sycamores\nHulman Center\, Terre Haute\, IN
+ te Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927377@open-sports-cal
@@ -51,11 +55,12 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:Earlham Quakers @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEarlham Quakers @ Indiana State 
- Sycamores\nHulman Center\, Terre Haute\, IN
+ Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -65,13 +70,14 @@ DTEND:20261120T230000Z
 SUMMARY:Indiana State Sycamores @ Stephen F. Austin Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Stephe
  n F. Austin Lumberjacks\nElridge Blake Sports and Fitness Center\, Charlot
- te Amalie\, Virgin Islands\nNeutral site
+ te Amalie\, Virgin Islands\nNeutral site\nBroadcast: ESPN+ (streaming)
 LOCATION:Elridge Blake Sports and Fitness Center\, Charlotte Amalie\, Virgi
  n Islands
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/St_Thomas
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927379@open-sports-cal
@@ -79,12 +85,14 @@ DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:IU Columbus Crimson Pride @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIU Columbus Crimson Pride @ Indi
- ana State Sycamores\nHulman Center\, Terre Haute\, IN
+ ana State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926146@open-sports-cal
@@ -92,12 +100,14 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:SIU Edwardsville Cougars @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSIU Edwardsville Cougars @ India
- na State Sycamores\nHulman Center\, Terre Haute\, IN
+ na State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923396@open-sports-cal
@@ -105,12 +115,14 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Southern Indiana Screaming Eagles @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Indiana Screaming Eagle
- s @ Indiana State Sycamores\nHulman Center\, Terre Haute\, IN
+ s @ Indiana State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926074@open-sports-cal
@@ -118,12 +130,13 @@ DTSTART:20261212T210000Z
 DTEND:20261213T000000Z
 SUMMARY:Indiana State Sycamores @ Oregon Ducks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Oregon
-  Ducks\nMatthew Knight Arena\, Eugene\, OR
+  Ducks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: BTN
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922512@open-sports-cal
@@ -131,12 +144,13 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Indiana State Sycamores @ UIC Flames
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ UIC Fl
- ames\nCredit Union 1 Arena\, Chicago\, IL
+ ames\nCredit Union 1 Arena\, Chicago\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Credit Union 1 Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922516@open-sports-cal
@@ -144,12 +158,14 @@ DTSTART:20261219T180000Z
 DTEND:20261219T210000Z
 SUMMARY:Murray State Racers @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMurray State Racers @ Indiana St
- ate Sycamores\nHulman Center\, Terre Haute\, IN
+ ate Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909794@open-sports-cal
@@ -157,12 +173,13 @@ DTSTART:20261222T230000Z
 DTEND:20261223T020000Z
 SUMMARY:Indiana State Sycamores @ Kansas Jayhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Kansas
-  Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+  Jayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN2
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922521@open-sports-cal
@@ -170,11 +187,12 @@ DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:Drake Bulldogs @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Indiana State S
- ycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD
+ ycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD\nBroadcast: Bro
+ adcast not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922529@open-sports-cal
@@ -182,11 +200,12 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:Indiana State Sycamores @ Illinois State Redbirds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Illino
- is State Redbirds\nCEFCU Arena\, Normal\, IL
+ is State Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -195,11 +214,12 @@ DTSTART:20270106T010000Z
 DTEND:20270106T040000Z
 SUMMARY:Indiana State Sycamores @ Evansville Purple Aces
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Evansv
- ille Purple Aces\nFord Center\, Evansville\, IN
+ ille Purple Aces\nFord Center\, Evansville\, IN\nBroadcast: Broadcast not 
+ announced
 LOCATION:Ford Center\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -208,11 +228,12 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:Northern Iowa Panthers @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Iowa Panthers @ Indiana
-  State Sycamores\nHulman Center\, Terre Haute\, IN
+  State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -221,11 +242,12 @@ DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Bradley Braves @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBradley Braves @ Indiana State S
- ycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD
+ ycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD\nBroadcast: Bro
+ adcast not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922549@open-sports-cal
@@ -233,11 +255,12 @@ DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Indiana State Sycamores @ Murray State Racers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Murray
-  State Racers\nCFSB Center\, Murray\, KY\nStart time TBD
+  State Racers\nCFSB Center\, Murray\, KY\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:CFSB Center\, Murray\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922551@open-sports-cal
@@ -245,11 +268,12 @@ DTSTART:20270119T003000Z
 DTEND:20270119T033000Z
 SUMMARY:Indiana State Sycamores @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Belmon
- t Bruins\nCurb Event Center Arena\, Nashville\, TN
+ t Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -258,11 +282,12 @@ DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Southern Illinois Salukis @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Illinois Salukis @ Indi
- ana State Sycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD
+ ana State Sycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD\nBro
+ adcast: Broadcast not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922570@open-sports-cal
@@ -270,11 +295,12 @@ DTSTART:20270128T010000Z
 DTEND:20270128T040000Z
 SUMMARY:Indiana State Sycamores @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Valpar
- aiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ aiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: Br
+ oadcast not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -283,11 +309,12 @@ DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Evansville Purple Aces @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEvansville Purple Aces @ Indiana
-  State Sycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD
+  State Sycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922579@open-sports-cal
@@ -295,11 +322,12 @@ DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Indiana State Sycamores @ Southern Illinois Salukis
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Southe
- rn Illinois Salukis\nBanterra Center\, Carbondale\, IL\nStart time TBD
+ rn Illinois Salukis\nBanterra Center\, Carbondale\, IL\nStart time TBD\nBr
+ oadcast: Broadcast not announced
 LOCATION:Banterra Center\, Carbondale\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922584@open-sports-cal
@@ -307,11 +335,12 @@ DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Illinois State Redbirds @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois State Redbirds @ Indian
- a State Sycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD
+ a State Sycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD\nBroad
+ cast: Broadcast not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922588@open-sports-cal
@@ -319,11 +348,12 @@ DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:Indiana State Sycamores @ Northern Iowa Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Northe
- rn Iowa Panthers\nMcLeod Center\, Cedar Falls\, IA\nStart time TBD
+ rn Iowa Panthers\nMcLeod Center\, Cedar Falls\, IA\nStart time TBD\nBroadc
+ ast: Broadcast not announced
 LOCATION:McLeod Center\, Cedar Falls\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922595@open-sports-cal
@@ -331,11 +361,12 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Valparaiso Beacons @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Indiana Sta
- te Sycamores\nHulman Center\, Terre Haute\, IN
+ te Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -344,11 +375,12 @@ DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 SUMMARY:Belmont Bruins @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Indiana State S
- ycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD
+ ycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD\nBroadcast: Bro
+ adcast not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922603@open-sports-cal
@@ -356,11 +388,12 @@ DTSTART:20270219T003000Z
 DTEND:20270219T033000Z
 SUMMARY:Indiana State Sycamores @ Drake Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Drake 
- Bulldogs\nKnapp Center\, Des Moines\, IA
+ Bulldogs\nKnapp Center\, Des Moines\, IA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Knapp Center\, Des Moines\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -369,11 +402,12 @@ DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:UIC Flames @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUIC Flames @ Indiana State Sycam
- ores\nHulman Center\, Terre Haute\, IN\nStart time TBD
+ ores\nHulman Center\, Terre Haute\, IN\nStart time TBD\nBroadcast: Broadca
+ st not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922612@open-sports-cal
@@ -381,10 +415,11 @@ DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:Indiana State Sycamores @ Bradley Braves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Bradle
- y Braves\nCarver Arena\, Peoria\, IL\nStart time TBD
+ y Braves\nCarver Arena\, Peoria\, IL\nStart time TBD\nBroadcast: Broadcast
+  not announced
 LOCATION:Carver Arena\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

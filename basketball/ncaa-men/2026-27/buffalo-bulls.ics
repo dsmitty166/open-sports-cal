@@ -12,12 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Buffalo Bulls @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Marshall Thunder
- ing Herd\nCam Henderson Center\, Huntington\, WV
+ ing Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909706@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Buffalo Bulls @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Pittsburgh Panth
- ers\nPetersen Events Center\, Pittsburgh\, PA
+ ers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (streaming
+ )
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911009@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261109T233000Z
 DTEND:20261110T023000Z
 SUMMARY:Penn State Schuylkill Nittany Lions @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPenn State Schuylkill Nittany Li
- ons @ Buffalo Bulls\nBroadview Arena\, Buffalo\, NY
+ ons @ Buffalo Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911017@open-sports-cal
@@ -51,12 +57,13 @@ DTSTART:20261115T223000Z
 DTEND:20261116T013000Z
 SUMMARY:Canisius Golden Griffins @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCanisius Golden Griffins @ Buffa
- lo Bulls\nBroadview Arena\, Buffalo\, NY
+ lo Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911021@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261120T000000Z
 DTEND:20261120T030000Z
 SUMMARY:Buffalo Bulls @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ St. Bonaventure 
- Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911025@open-sports-cal
@@ -77,12 +86,13 @@ DTSTART:20261123T233000Z
 DTEND:20261124T023000Z
 SUMMARY:RIT Tigers @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRIT Tigers @ Buffalo Bulls\nBroa
- dview Arena\, Buffalo\, NY
+ dview Arena\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911032@open-sports-cal
@@ -90,11 +100,12 @@ DTSTART:20261128T203000Z
 DTEND:20261128T233000Z
 SUMMARY:Buffalo Bulls @ Towson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Towson Tigers\nT
- he Palestra\, Philadelphia\, PA\nNeutral site
+ he Palestra\, Philadelphia\, PA\nNeutral site\nBroadcast: Broadcast not an
+ nounced
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +114,14 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Buffalo Bulls @ Western Michigan Broncos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Western Michigan
-  Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI
+  Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:University Arena (MI)\, Kalamazoo\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911042@open-sports-cal
@@ -116,12 +129,13 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Miami (OH) RedHawks @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMiami (OH) RedHawks @ Buffalo Bu
- lls\nBroadview Arena\, Buffalo\, NY
+ lls\nBroadview Arena\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911048@open-sports-cal
@@ -129,12 +143,13 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ Bu
- ffalo Bulls\nBroadview Arena\, Buffalo\, NY
+ ffalo Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911053@open-sports-cal
@@ -142,12 +157,13 @@ DTSTART:20261216T233000Z
 DTEND:20261217T023000Z
 SUMMARY:Akron Zips @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Buffalo Bulls\nBroa
- dview Arena\, Buffalo\, NY
+ dview Arena\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911057@open-sports-cal
@@ -155,12 +171,13 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Buffalo Bulls @ Ohio Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Ohio Bobcats\nCo
- nvocation Center (OH)\, Athens\, OH
+ nvocation Center (OH)\, Athens\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911062@open-sports-cal
@@ -168,12 +185,13 @@ DTSTART:20261222T230000Z
 DTEND:20261223T020000Z
 SUMMARY:Buffalo Bulls @ Rhode Island Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Rhode Island Ram
- s\nThomas M. Ryan Center\, Kingston\, RI
+ s\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: ESPN+ (streaming)
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911070@open-sports-cal
@@ -181,11 +199,11 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Buffalo Bulls @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Kent State Golde
- n Flashes\nM.A.C. Center\, Kent\, OH
+ n Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: Broadcast not announced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +212,12 @@ DTSTART:20270105T233000Z
 DTEND:20270106T023000Z
 SUMMARY:Massachusetts Minutemen @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Buffal
- o Bulls\nBroadview Arena\, Buffalo\, NY
+ o Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announce
+ d
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +226,11 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:Buffalo Bulls @ Toledo Rockets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Toledo Rockets\n
- Savage Arena\, Toledo\, OH
+ Savage Arena\, Toledo\, OH\nBroadcast: Broadcast not announced
 LOCATION:Savage Arena\, Toledo\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +239,12 @@ DTSTART:20270113T000000Z
 DTEND:20270113T030000Z
 SUMMARY:Buffalo Bulls @ Central Michigan Chippewas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Central Michigan
-  Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI
+  Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI\nBroadcast: Broadcast not 
+ announced
 LOCATION:McGuirk Arena\, Mount Pleasant\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +253,11 @@ DTSTART:20270116T193000Z
 DTEND:20270116T223000Z
 SUMMARY:Bowling Green Falcons @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Buffalo 
- Bulls\nBroadview Arena\, Buffalo\, NY
+ Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announced
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +266,11 @@ DTSTART:20270120T000000Z
 DTEND:20270120T030000Z
 SUMMARY:Buffalo Bulls @ Miami (OH) RedHawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Miami (OH) RedHa
- wks\nMillett Hall\, Oxford\, OH
+ wks\nMillett Hall\, Oxford\, OH\nBroadcast: Broadcast not announced
 LOCATION:Millett Hall\, Oxford\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +279,11 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Toledo Rockets @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nToledo Rockets @ Buffalo Bulls\n
- Broadview Arena\, Buffalo\, NY
+ Broadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announced
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +292,12 @@ DTSTART:20270126T233000Z
 DTEND:20270127T023000Z
 SUMMARY:Eastern Michigan Eagles @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Michigan Eagles @ Buffal
- o Bulls\nBroadview Arena\, Buffalo\, NY
+ o Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announce
+ d
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +306,11 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Buffalo Bulls @ Ball State Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Ball State Cardi
- nals\nWorthen Arena\, Muncie\, IN
+ nals\nWorthen Arena\, Muncie\, IN\nBroadcast: Broadcast not announced
 LOCATION:Worthen Arena\, Muncie\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +319,11 @@ DTSTART:20270202T233000Z
 DTEND:20270203T023000Z
 SUMMARY:Ohio Bobcats @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Buffalo Bulls\nBr
- oadview Arena\, Buffalo\, NY
+ oadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announced
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +332,11 @@ DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Buffalo Bulls @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Akron Zips\nJame
- s A. Rhodes Arena\, Akron\, OH
+ s A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not announced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +345,12 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Buffalo Bulls @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Bowling Green Fa
- lcons\nStroh Center\, Bowling Green\, OH
+ lcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +359,12 @@ DTSTART:20270216T233000Z
 DTEND:20270217T023000Z
 SUMMARY:Central Michigan Chippewas @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Michigan Chippewas @ Buf
- falo Bulls\nBroadview Arena\, Buffalo\, NY
+ falo Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +373,12 @@ DTSTART:20270220T220000Z
 DTEND:20270221T010000Z
 SUMMARY:Kent State Golden Flashes @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Buff
- alo Bulls\nBroadview Arena\, Buffalo\, NY
+ alo Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +387,11 @@ DTSTART:20270224T000000Z
 DTEND:20270224T030000Z
 SUMMARY:Buffalo Bulls @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Massachusetts Mi
- nutemen\nMullins Center\, Amherst\, MA
+ nutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +400,12 @@ DTSTART:20270227T203000Z
 DTEND:20270227T233000Z
 SUMMARY:Buffalo Bulls @ Eastern Michigan Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Eastern Michigan
-  Eagles\nGervin GameAbove Center\, Ypsilanti\, MI
+  Eagles\nGervin GameAbove Center\, Ypsilanti\, MI\nBroadcast: Broadcast no
+ t announced
 LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +414,11 @@ DTSTART:20270302T233000Z
 DTEND:20270303T023000Z
 SUMMARY:Ball State Cardinals @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBall State Cardinals @ Buffalo B
- ulls\nBroadview Arena\, Buffalo\, NY
+ ulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announced
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +427,12 @@ DTSTART:20270305T233000Z
 DTEND:20270306T023000Z
 SUMMARY:Western Michigan Broncos @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Michigan Broncos @ Buffa
- lo Bulls\nBroadview Arena\, Buffalo\, NY
+ lo Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

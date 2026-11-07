@@ -12,12 +12,14 @@ DTSTART:20261104T003000Z
 DTEND:20261104T033000Z
 SUMMARY:Sam Houston Bearkats @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSam Houston Bearkats @ Alabama C
- rimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ rimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (streami
+ ng)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906758@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T003000Z
 DTEND:20261107T033000Z
 SUMMARY:Arkansas State Red Wolves @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas State Red Wolves @ Alab
- ama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ ama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (st
+ reaming)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906759@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261110T003000Z
 DTEND:20261110T033000Z
 SUMMARY:Oakland Golden Grizzlies @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Alaba
- ma Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ ma Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (str
+ eaming)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906760@open-sports-cal
@@ -51,12 +57,13 @@ DTSTART:20261114T020000Z
 DTEND:20261114T050000Z
 SUMMARY:Seton Hall Pirates @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Alabama Cri
- mson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ mson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906761@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261118T003000Z
 DTEND:20261118T033000Z
 SUMMARY:Kennesaw State Owls @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKennesaw State Owls @ Alabama Cr
- imson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ imson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (streamin
+ g)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906762@open-sports-cal
@@ -77,12 +86,13 @@ DTSTART:20261125T030000Z
 DTEND:20261125T060000Z
 SUMMARY:Baylor Bears @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBaylor Bears @ Alabama Crimson T
- ide\nT-Mobile Arena\, Las Vegas\, NV\nNeutral site
+ ide\nT-Mobile Arena\, Las Vegas\, NV\nNeutral site\nBroadcast: ESPN2
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906763@open-sports-cal
@@ -90,12 +100,13 @@ DTSTART:20261203T021500Z
 DTEND:20261203T051500Z
 SUMMARY:Alabama Crimson Tide @ Miami Hurricanes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Miami Hur
- ricanes\nWatsco Center\, Coral Gables\, FL
+ ricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: ESPN
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906764@open-sports-cal
@@ -103,12 +114,14 @@ DTSTART:20261208T233000Z
 DTEND:20261209T023000Z
 SUMMARY:Alabama Crimson Tide @ Houston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Houston C
- ougars\nMadison Square Garden\, New York\, NY\nNeutral site
+ ougars\nMadison Square Garden\, New York\, NY\nNeutral site\nBroadcast: ES
+ PN
 LOCATION:Madison Square Garden\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906765@open-sports-cal
@@ -116,12 +129,14 @@ DTSTART:20261212T203000Z
 DTEND:20261212T233000Z
 SUMMARY:St. John's Red Storm @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. John's Red Storm @ Alabama C
- rimson Tide\nLegacy Arena at BJCC\, Birmingham\, AL\nNeutral site
+ rimson Tide\nLegacy Arena at BJCC\, Birmingham\, AL\nNeutral site\nBroadca
+ st: ESPN
 LOCATION:Legacy Arena at BJCC\, Birmingham\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906766@open-sports-cal
@@ -129,12 +144,13 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Alabama Crimson Tide @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ South Flo
- rida Bulls\nYuengling Center\, Tampa\, FL
+ rida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN2
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906767@open-sports-cal
@@ -142,12 +158,14 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Alabama Crimson Tide @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Iowa Hawk
- eyes\nCasey's Center\, Des Moines\, IA\nNeutral site
+ eyes\nCasey's Center\, Des Moines\, IA\nNeutral site\nBroadcast: Peacock (
+ streaming)
 LOCATION:Casey's Center\, Des Moines\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906768@open-sports-cal
@@ -155,12 +173,13 @@ DTSTART:20261230T030000Z
 DTEND:20261230T060000Z
 SUMMARY:Samford Bulldogs @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSamford Bulldogs @ Alabama Crims
- on Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ on Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902305@open-sports-cal
@@ -168,12 +187,14 @@ DTSTART:20270102T230000Z
 DTEND:20270103T020000Z
 SUMMARY:Alabama Crimson Tide @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Mississip
- pi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ pi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SEC Net
+ work
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902311@open-sports-cal
@@ -181,12 +202,13 @@ DTSTART:20270106T000000Z
 DTEND:20270106T030000Z
 SUMMARY:LSU Tigers @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Alabama Crimson Tid
- e\nColeman Coliseum\, Tuscaloosa\, AL
+ e\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902319@open-sports-cal
@@ -194,12 +216,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Alabama Crimson Tide @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Arkansas 
- Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: ESPN2
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902331@open-sports-cal
@@ -207,12 +230,13 @@ DTSTART:20270114T020000Z
 DTEND:20270114T050000Z
 SUMMARY:Ole Miss Rebels @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOle Miss Rebels @ Alabama Crimso
- n Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ n Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902335@open-sports-cal
@@ -220,11 +244,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Florida Gators @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ Alabama Crimson
-  Tide\nColeman Coliseum\, Tuscaloosa\, AL
+  Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,12 +258,14 @@ DTSTART:20270120T230000Z
 DTEND:20270121T020000Z
 SUMMARY:Alabama Crimson Tide @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ South Car
- olina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ olina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Netwo
+ rk
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902350@open-sports-cal
@@ -246,12 +273,13 @@ DTSTART:20270124T013000Z
 DTEND:20270124T043000Z
 SUMMARY:Oklahoma Sooners @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Alabama Crims
- on Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ on Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902358@open-sports-cal
@@ -259,12 +287,13 @@ DTSTART:20270127T020000Z
 DTEND:20270127T050000Z
 SUMMARY:Alabama Crimson Tide @ Missouri Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Missouri 
- Tigers\nMizzou Arena\, Columbia\, MO
+ Tigers\nMizzou Arena\, Columbia\, MO\nBroadcast: ESPN
 LOCATION:Mizzou Arena\, Columbia\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902364@open-sports-cal
@@ -272,11 +301,12 @@ DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Auburn Tigers @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAuburn Tigers @ Alabama Crimson 
- Tide\nColeman Coliseum\, Tuscaloosa\, AL\nStart time TBD
+ Tide\nColeman Coliseum\, Tuscaloosa\, AL\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902383@open-sports-cal
@@ -284,11 +314,11 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Alabama Crimson Tide @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Kentucky 
- Wildcats\nRupp Arena\, Lexington\, KY
+ Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: Broadcast not announced
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -297,12 +327,13 @@ DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Alabama Crimson Tide @ Texas Longhorns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Texas Lon
- ghorns\nMoody Center\, Austin\, TX
+ ghorns\nMoody Center\, Austin\, TX\nBroadcast: ESPN
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902392@open-sports-cal
@@ -310,12 +341,13 @@ DTSTART:20270214T010000Z
 DTEND:20270214T040000Z
 SUMMARY:Arkansas Razorbacks @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Alabama Cr
- imson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ imson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: ESPN2
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902402@open-sports-cal
@@ -323,12 +355,14 @@ DTSTART:20270217T020000Z
 DTEND:20270217T050000Z
 SUMMARY:Mississippi State Bulldogs @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi State Bulldogs @ Ala
- bama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ bama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Netw
+ ork
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902414@open-sports-cal
@@ -336,11 +370,12 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Alabama Crimson Tide @ Tennessee Volunteers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Tennessee
-  Volunteers\nFood City Center\, Knoxville\, TN
+  Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,12 +384,13 @@ DTSTART:20270224T020000Z
 DTEND:20270224T050000Z
 SUMMARY:Alabama Crimson Tide @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Texas A&M
-  Aggies\nReed Arena\, College Station\, TX
+  Aggies\nReed Arena\, College Station\, TX\nBroadcast: SEC Network
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902423@open-sports-cal
@@ -362,11 +398,12 @@ DTSTART:20270228T013000Z
 DTEND:20270228T043000Z
 SUMMARY:Vanderbilt Commodores @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVanderbilt Commodores @ Alabama 
- Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: Broadcast not
+  announced
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -375,11 +412,12 @@ DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
 SUMMARY:Georgia Bulldogs @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Bulldogs @ Alabama Crims
- on Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ on Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -388,11 +426,12 @@ DTSTART:20270306T230000Z
 DTEND:20270307T020000Z
 SUMMARY:Alabama Crimson Tide @ Auburn Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Auburn Ti
- gers\nNeville Arena\, Auburn\, AL
+ gers\nNeville Arena\, Auburn\, AL\nBroadcast: SEC Network
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 END:VCALENDAR

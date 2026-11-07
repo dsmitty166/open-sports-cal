@@ -12,12 +12,13 @@ DTSTART:20260905T000000Z
 DTEND:20260905T030000Z
 SUMMARY:UTEP Miners @ Oklahoma Sooners
 DESCRIPTION:NCAA FBS Football 2026\nUTEP Miners @ Oklahoma Sooners\nMemoria
- l Stadium (Norman\, OK)\, Norman\, OK
+ l Stadium (Norman\, OK)\, Norman\, OK\nBroadcast: SECN+ (streaming)
 LOCATION:Memorial Stadium (Norman\, OK)\, Norman\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864505@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260913T010000Z
 DTEND:20260913T040000Z
 SUMMARY:Texas Southern Tigers @ UTEP Miners
 DESCRIPTION:NCAA FBS Football 2026\nTexas Southern Tigers @ UTEP Miners\nSu
- n Bowl\, El Paso\, TX
+ n Bowl\, El Paso\, TX\nBroadcast: MW+ (streaming)
 LOCATION:Sun Bowl\, El Paso\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858450@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T193000Z
 DTEND:20260919T223000Z
 SUMMARY:UTEP Miners @ Michigan Wolverines
 DESCRIPTION:NCAA FBS Football 2026\nUTEP Miners @ Michigan Wolverines\nMich
- igan Stadium\, Ann Arbor\, MI
+ igan Stadium\, Ann Arbor\, MI\nBroadcast: BTN
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401860895@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260927T010000Z
 DTEND:20260927T040000Z
 SUMMARY:Oregon State Beavers @ UTEP Miners
 DESCRIPTION:NCAA FBS Football 2026\nOregon State Beavers @ UTEP Miners\nSun
-  Bowl\, El Paso\, TX
+  Bowl\, El Paso\, TX\nBroadcast: MW+ (streaming)
 LOCATION:Sun Bowl\, El Paso\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864514@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T200000Z
 DTEND:20261003T230000Z
 SUMMARY:UTEP Miners @ New Mexico Lobos
 DESCRIPTION:NCAA FBS Football 2026\nUTEP Miners @ New Mexico Lobos\nUnivers
- ity Stadium (NM)\, Albuquerque\, NM
+ ity Stadium (NM)\, Albuquerque\, NM\nBroadcast: MW+ (streaming)
 LOCATION:University Stadium (NM)\, Albuquerque\, NM
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864517@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T230000Z
 DTEND:20261011T020000Z
 SUMMARY:Nevada Wolf Pack @ UTEP Miners
 DESCRIPTION:NCAA FBS Football 2026\nNevada Wolf Pack @ UTEP Miners\nSun Bow
- l\, El Paso\, TX
+ l\, El Paso\, TX\nBroadcast: FS1
 LOCATION:Sun Bowl\, El Paso\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864523@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261018T010000Z
 DTEND:20261018T040000Z
 SUMMARY:San José State Spartans @ UTEP Miners
 DESCRIPTION:NCAA FBS Football 2026\nSan José State Spartans @ UTEP Miners\
- nSun Bowl\, El Paso\, TX
+ nSun Bowl\, El Paso\, TX\nBroadcast: MW+ (streaming)
 LOCATION:Sun Bowl\, El Paso\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864531@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261031T193000Z
 DTEND:20261031T223000Z
 SUMMARY:UTEP Miners @ North Dakota State Bison
 DESCRIPTION:NCAA FBS Football 2026\nUTEP Miners @ North Dakota State Bison\
- nFargodome\, Fargo\, ND
+ nFargodome\, Fargo\, ND\nBroadcast: MW+ (streaming)
 LOCATION:Fargodome\, Fargo\, ND
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864532@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261108T023000Z
 DTEND:20261108T053000Z
 SUMMARY:Hawai'i Rainbow Warriors @ UTEP Miners
 DESCRIPTION:NCAA FBS Football 2026\nHawai'i Rainbow Warriors @ UTEP Miners\
- nSun Bowl\, El Paso\, TX
+ nSun Bowl\, El Paso\, TX\nBroadcast: FS1
 LOCATION:Sun Bowl\, El Paso\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864540@open-sports-cal
@@ -129,12 +138,13 @@ DTSTART:20261115T030000Z
 DTEND:20261115T060000Z
 SUMMARY:Wyoming Cowboys @ UTEP Miners
 DESCRIPTION:NCAA FBS Football 2026\nWyoming Cowboys @ UTEP Miners\nSun Bowl
- \, El Paso\, TX
+ \, El Paso\, TX\nBroadcast: FS1
 LOCATION:Sun Bowl\, El Paso\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864545@open-sports-cal
@@ -142,12 +152,13 @@ DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
 SUMMARY:UTEP Miners @ Air Force Falcons
 DESCRIPTION:NCAA FBS Football 2026\nUTEP Miners @ Air Force Falcons\nFalcon
-  Stadium\, USAF Academy\, CO
+  Stadium\, USAF Academy\, CO\nBroadcast: CW
 LOCATION:Falcon Stadium\, USAF Academy\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864550@open-sports-cal
@@ -155,10 +166,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:UTEP Miners @ Northern Illinois Huskies
 DESCRIPTION:NCAA FBS Football 2026\nUTEP Miners @ Northern Illinois Huskies
- \nHuskie Stadium\, Dekalb\, IL\nStart time TBD
+ \nHuskie Stadium\, Dekalb\, IL\nStart time TBD\nBroadcast: MW+ (streaming)
 LOCATION:Huskie Stadium\, Dekalb\, IL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 END:VCALENDAR

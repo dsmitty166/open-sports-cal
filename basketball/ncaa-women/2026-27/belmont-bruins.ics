@@ -12,13 +12,14 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Belmont Bruins @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Princeton Tig
- ers\nJadwin Gymnasium\, Princeton\, NJ
+ ers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913863@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261107T013000Z
 DTEND:20261107T043000Z
 SUMMARY:South Florida Bulls @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Belmont 
- Bruins\nCurb Event Center Arena\, Nashville\, TN
+ Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919323@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261108T203000Z
 DTEND:20261108T233000Z
 SUMMARY:Columbia Lions @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Belmont Bruin
- s\nCurb Event Center Arena\, Nashville\, TN
+ s\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919663@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261113T170000Z
 DTEND:20261113T200000Z
 SUMMARY:Troy Trojans @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Belmont Bruins\
- nCurb Event Center Arena\, Nashville\, TN
+ nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912956@open-sports-cal
@@ -68,13 +73,15 @@ DTSTART:20261118T003000Z
 DTEND:20261118T033000Z
 SUMMARY:Tennessee Lady Volunteers @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Be
- lmont Bruins\nCurb Event Center Arena\, Nashville\, TN
+ lmont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919664@open-sports-cal
@@ -82,13 +89,14 @@ DTSTART:20261121T003000Z
 DTEND:20261121T033000Z
 SUMMARY:Dayton Flyers @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDayton Flyers @ Belmont Bruins
- \nCurb Event Center Arena\, Nashville\, TN
+ \nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912970@open-sports-cal
@@ -96,13 +104,15 @@ DTSTART:20261124T010000Z
 DTEND:20261124T040000Z
 SUMMARY:Belmont Bruins @ LSU Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ LSU Tigers\nP
- ete Maravich Assembly Center\, Baton Rouge\, LA
+ ete Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: SECN+ (streami
+ ng)
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917933@open-sports-cal
@@ -110,12 +120,13 @@ DTSTART:20261127T210000Z
 DTEND:20261128T000000Z
 SUMMARY:Belmont Bruins @ Iowa State Cyclones
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Iowa State Cy
- clones\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site
+ clones\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site\nBroad
+ cast: Broadcast not announced
 LOCATION:Baha Mar Convention Center\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +135,13 @@ DTSTART:20261129T210000Z
 DTEND:20261130T000000Z
 SUMMARY:Marquette Golden Eagles @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarquette Golden Eagles @ Belm
- ont Bruins\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site
+ ont Bruins\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site\nB
+ roadcast: Broadcast not announced
 LOCATION:Baha Mar Convention Center\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +150,14 @@ DTSTART:20261203T170000Z
 DTEND:20261203T200000Z
 SUMMARY:Belmont Bruins @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Lipscomb Biso
- ns\nAllen Arena\, Nashville\, TN
+ ns\nAllen Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919665@open-sports-cal
@@ -152,13 +165,15 @@ DTSTART:20261213T200000Z
 DTEND:20261213T230000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Belmont Bruins\nCurb Event Center Arena\, Nashville\, TN
+ @ Belmont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918837@open-sports-cal
@@ -166,13 +181,15 @@ DTSTART:20261219T013000Z
 DTEND:20261219T043000Z
 SUMMARY:Belmont Bruins @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Vanderbilt Co
- mmodores\nBridgestone Arena\, Nashville\, TN\nNeutral site
+ mmodores\nBridgestone Arena\, Nashville\, TN\nNeutral site\nBroadcast: ESP
+ NU
 LOCATION:Bridgestone Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922358@open-sports-cal
@@ -180,13 +197,14 @@ DTSTART:20261222T190000Z
 DTEND:20261222T220000Z
 SUMMARY:Bradley Braves @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Belmont Bruin
- s\nCurb Event Center Arena\, Nashville\, TN
+ s\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922361@open-sports-cal
@@ -194,13 +212,14 @@ DTSTART:20261230T003000Z
 DTEND:20261230T033000Z
 SUMMARY:Belmont Bruins @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Illinois Stat
- e Redbirds\nCEFCU Arena\, Normal\, IL
+ e Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922386@open-sports-cal
@@ -208,12 +227,13 @@ DTSTART:20270101T190000Z
 DTEND:20270101T220000Z
 SUMMARY:UIC Flames @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUIC Flames @ Belmont Bruins\nC
- urb Event Center Arena\, Nashville\, TN
+ urb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast not announce
+ d
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +242,13 @@ DTSTART:20270103T200000Z
 DTEND:20270103T230000Z
 SUMMARY:Belmont Bruins @ Evansville Purple Aces
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Evansville Pu
- rple Aces\nMeeks Family Fieldhouse\, Evansville\, IN
+ rple Aces\nMeeks Family Fieldhouse\, Evansville\, IN\nBroadcast: Broadcast
+  not announced
 LOCATION:Meeks Family Fieldhouse\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +257,13 @@ DTSTART:20270108T003000Z
 DTEND:20270108T033000Z
 SUMMARY:Southern Illinois Salukis @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Illinois Salukis @ Be
- lmont Bruins\nCurb Event Center Arena\, Nashville\, TN
+ lmont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadca
+ st not announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +272,13 @@ DTSTART:20270109T220000Z
 DTEND:20270110T010000Z
 SUMMARY:Indiana State Sycamores @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Belm
- ont Bruins\nCurb Event Center Arena\, Nashville\, TN
+ ont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast
+  not announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +287,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Belmont Bruins @ Northern Iowa Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Northern Iowa
-  Panthers\nMcLeod Center\, Cedar Falls\, IA
+  Panthers\nMcLeod Center\, Cedar Falls\, IA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:McLeod Center\, Cedar Falls\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +302,12 @@ DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
 SUMMARY:Belmont Bruins @ Drake Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Drake Bulldog
- s\nKnapp Center\, Des Moines\, IA
+ s\nKnapp Center\, Des Moines\, IA\nBroadcast: Broadcast not announced
 LOCATION:Knapp Center\, Des Moines\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +316,13 @@ DTSTART:20270122T003000Z
 DTEND:20270122T033000Z
 SUMMARY:Evansville Purple Aces @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEvansville Purple Aces @ Belmo
- nt Bruins\nCurb Event Center Arena\, Nashville\, TN
+ nt Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast 
+ not announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +331,13 @@ DTSTART:20270123T200000Z
 DTEND:20270123T230000Z
 SUMMARY:Belmont Bruins @ Southern Illinois Salukis
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Southern Illi
- nois Salukis\nBanterra Center\, Carbondale\, IL
+ nois Salukis\nBanterra Center\, Carbondale\, IL\nBroadcast: Broadcast not 
+ announced
 LOCATION:Banterra Center\, Carbondale\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +346,13 @@ DTSTART:20270129T003000Z
 DTEND:20270129T033000Z
 SUMMARY:Valparaiso Beacons @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nValparaiso Beacons @ Belmont B
- ruins\nCurb Event Center Arena\, Nashville\, TN
+ ruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast not 
+ announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +361,13 @@ DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Belmont Bruins @ Murray State Racers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Murray State 
- Racers\nCFSB Center\, Murray\, KY\nStart time TBD
+ Racers\nCFSB Center\, Murray\, KY\nStart time TBD\nBroadcast: Broadcast no
+ t announced
 LOCATION:CFSB Center\, Murray\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922441@open-sports-cal
@@ -347,12 +375,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Belmont Bruins @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Indiana State
-  Sycamores\nHulman Center\, Terre Haute\, IN
+  Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -361,12 +390,12 @@ DTSTART:20270207T200000Z
 DTEND:20270207T230000Z
 SUMMARY:Belmont Bruins @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Bradley Brave
- s\nRenaissance Coliseum\, Peoria\, IL
+ s\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast not announced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -375,12 +404,13 @@ DTSTART:20270212T003000Z
 DTEND:20270212T033000Z
 SUMMARY:Drake Bulldogs @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDrake Bulldogs @ Belmont Bruin
- s\nCurb Event Center Arena\, Nashville\, TN
+ s\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -389,12 +419,13 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:Northern Iowa Panthers @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Iowa Panthers @ Belmo
- nt Bruins\nCurb Event Center Arena\, Nashville\, TN
+ nt Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast 
+ not announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -403,12 +434,13 @@ DTSTART:20270219T003000Z
 DTEND:20270219T033000Z
 SUMMARY:Illinois State Redbirds @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Belm
- ont Bruins\nCurb Event Center Arena\, Nashville\, TN
+ ont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast
+  not announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -417,12 +449,13 @@ DTSTART:20270221T200000Z
 DTEND:20270221T230000Z
 SUMMARY:Murray State Racers @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Belmont 
- Bruins\nCurb Event Center Arena\, Nashville\, TN
+ Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast not
+  announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -431,12 +464,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Belmont Bruins @ Valparaiso Beacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Valparaiso Be
- acons\nAthletics-Recreation Center\, Valparaiso\, IN
+ acons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: Broadcast
+  not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -445,12 +479,12 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Belmont Bruins @ UIC Flames
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ UIC Flames\nC
- redit Union 1 Arena\, Chicago\, IL
+ redit Union 1 Arena\, Chicago\, IL\nBroadcast: Broadcast not announced
 LOCATION:Credit Union 1 Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

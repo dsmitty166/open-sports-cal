@@ -12,13 +12,14 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Eastern Illinois Panthers @ Drake Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Dr
- ake Bulldogs\nKnapp Center\, Des Moines\, IA
+ ake Bulldogs\nKnapp Center\, Des Moines\, IA\nBroadcast: ESPN+ (streaming)
 LOCATION:Knapp Center\, Des Moines\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921425@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261106T010000Z
 DTEND:20261106T040000Z
 SUMMARY:Eastern Illinois Panthers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Io
- wa Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ wa Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: B1G+ (strea
+ ming)
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917928@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261108T200000Z
 DTEND:20261108T230000Z
 SUMMARY:Eastern Illinois Panthers @ Iowa State Cyclones
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Io
- wa State Cyclones\nHilton Coliseum\, Ames\, IA
+ wa State Cyclones\nHilton Coliseum\, Ames\, IA\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Hilton Coliseum\, Ames\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921234@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261111T220000Z
 DTEND:20261112T010000Z
 SUMMARY:Eastern Illinois Panthers @ Saint Louis Billikens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Sa
- int Louis Billikens\nChaifetz Arena\, St. Louis\, MO
+ int Louis Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919681@open-sports-cal
@@ -68,13 +75,15 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Evansville Purple Aces @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEvansville Purple Aces @ Easte
- rn Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ rn Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919985@open-sports-cal
@@ -82,13 +91,15 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Eastern Illinois Panthers @ Southern Illinois Salukis
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ So
- uthern Illinois Salukis\nBanterra Center\, Carbondale\, IL
+ uthern Illinois Salukis\nBanterra Center\, Carbondale\, IL\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Banterra Center\, Carbondale\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919710@open-sports-cal
@@ -96,13 +107,14 @@ DTSTART:20261122T010000Z
 DTEND:20261122T040000Z
 SUMMARY:Eastern Illinois Panthers @ Murray State Racers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Mu
- rray State Racers\nCFSB Center\, Murray\, KY
+ rray State Racers\nCFSB Center\, Murray\, KY\nBroadcast: ESPN+ (streaming)
 LOCATION:CFSB Center\, Murray\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927935@open-sports-cal
@@ -110,13 +122,15 @@ DTSTART:20261125T190000Z
 DTEND:20261125T220000Z
 SUMMARY:Oakland Golden Grizzlies @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOakland Golden Grizzlies @ Eas
- tern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ tern Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920506@open-sports-cal
@@ -124,13 +138,15 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:Eastern Illinois Panthers @ Green Bay Phoenix
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Gr
- een Bay Phoenix\nKress Center\, Green Bay\, WI
+ een Bay Phoenix\nKress Center\, Green Bay\, WI\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Kress Center\, Green Bay\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919696@open-sports-cal
@@ -138,13 +154,15 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Illinois State Redbirds @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ East
- ern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ ern Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927936@open-sports-cal
@@ -152,13 +170,14 @@ DTSTART:20261206T200000Z
 DTEND:20261206T230000Z
 SUMMARY:Eastern Illinois Panthers @ Missouri Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Mi
- ssouri Tigers\nMizzou Arena\, Columbia\, MO
+ ssouri Tigers\nMizzou Arena\, Columbia\, MO\nBroadcast: SECN+ (streaming)
 LOCATION:Mizzou Arena\, Columbia\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919706@open-sports-cal
@@ -166,13 +185,15 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:Indiana State Sycamores @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ East
- ern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ ern Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921457@open-sports-cal
@@ -180,12 +201,13 @@ DTSTART:20261213T170000Z
 DTEND:20261213T200000Z
 SUMMARY:Eastern Illinois Panthers @ Purdue Boilermakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Pu
- rdue Boilermakers\nMackey Arena\, West Lafayette\, IN
+ rdue Boilermakers\nMackey Arena\, West Lafayette\, IN\nBroadcast: Broadcas
+ t not announced
 LOCATION:Mackey Arena\, West Lafayette\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,13 +216,15 @@ DTSTART:20261217T170000Z
 DTEND:20261217T200000Z
 SUMMARY:Eastern Illinois Panthers @ DePaul Blue Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ De
- Paul Blue Demons\nWintrust Arena\, Chicago\, IL
+ Paul Blue Demons\nWintrust Arena\, Chicago\, IL\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921445@open-sports-cal
@@ -208,12 +232,13 @@ DTSTART:20261222T010000Z
 DTEND:20261222T040000Z
 SUMMARY:Eastern Illinois Panthers @ Northwestern Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ No
- rthwestern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+ rthwestern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL\nBroadcast: Broadcas
+ t not announced
 LOCATION:Welsh-Ryan Arena\, Evanston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -222,13 +247,15 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Southeast Missouri State Redhawks @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSoutheast Missouri State Redha
- wks @ Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ wks @ Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919343@open-sports-cal
@@ -236,12 +263,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Tennessee State Lady Tigers @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee State Lady Tigers @ 
- Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: Br
+ oadcast not announced
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +278,13 @@ DTSTART:20270107T221500Z
 DTEND:20270108T011500Z
 SUMMARY:Eastern Illinois Panthers @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Mo
- rehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ rehead State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +293,13 @@ DTSTART:20270114T230000Z
 DTEND:20270115T020000Z
 SUMMARY:Eastern Illinois Panthers @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ We
- stern Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ stern Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: Broadc
+ ast not announced
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +308,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Lindenwood Lions @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLindenwood Lions @ Eastern Ill
- inois Panthers\nGroniger Arena\, Charleston\, IL
+ inois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: Broadcast not
+  announced
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +323,13 @@ DTSTART:20270121T230000Z
 DTEND:20270122T020000Z
 SUMMARY:Eastern Illinois Panthers @ Southeast Missouri State Redhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ So
- utheast Missouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO
+ utheast Missouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO\nBro
+ adcast: Broadcast not announced
 LOCATION:Show Me Center\, Cape Girardeau\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +338,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:UT Martin Skyhawks @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Martin Skyhawks @ Eastern I
- llinois Panthers\nGroniger Arena\, Charleston\, IL
+ llinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +353,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Eastern Illinois Panthers @ Lindenwood Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Li
- ndenwood Lions\nHyland Arena\, Saint Charles\, MO
+ ndenwood Lions\nHyland Arena\, Saint Charles\, MO\nBroadcast: Broadcast no
+ t announced
 LOCATION:Hyland Arena\, Saint Charles\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +368,13 @@ DTSTART:20270204T230000Z
 DTEND:20270205T020000Z
 SUMMARY:Southern Indiana Screaming Eagles @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Indiana Screaming Eag
- les @ Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ les @ Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadca
+ st: Broadcast not announced
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +383,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:SIU Edwardsville Cougars @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSIU Edwardsville Cougars @ Eas
- tern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ tern Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: Broad
+ cast not announced
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +398,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Eastern Illinois Panthers @ Tennessee State Lady Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Te
- nnessee State Lady Tigers\nGentry Center\, Nashville\, TN
+ nnessee State Lady Tigers\nGentry Center\, Nashville\, TN\nBroadcast: Broa
+ dcast not announced
 LOCATION:Gentry Center\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +413,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Eastern Illinois Panthers @ UT Martin Skyhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ UT
-  Martin Skyhawks\nKathleen and Tom Elam Center\, Martin\, TN
+  Martin Skyhawks\nKathleen and Tom Elam Center\, Martin\, TN\nBroadcast: B
+ roadcast not announced
 LOCATION:Kathleen and Tom Elam Center\, Martin\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +428,13 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Western Illinois Leathernecks @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Illinois Leathernecks 
- @ Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ @ Eastern Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: 
+ Broadcast not announced
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +443,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Eastern Illinois Panthers @ Southern Indiana Screaming Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ So
- uthern Indiana Screaming Eagles\nLiberty Arena (IN)\, Evansville\, IN
+ uthern Indiana Screaming Eagles\nLiberty Arena (IN)\, Evansville\, IN\nBro
+ adcast: Broadcast not announced
 LOCATION:Liberty Arena (IN)\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +458,13 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Eastern Illinois Panthers @ SIU Edwardsville Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ SI
- U Edwardsville Cougars\nFirst Community Arena\, Edwardsville\, IL
+ U Edwardsville Cougars\nFirst Community Arena\, Edwardsville\, IL\nBroadca
+ st: Broadcast not announced
 LOCATION:First Community Arena\, Edwardsville\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +473,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Morehead State Eagles @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Easter
- n Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ n Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: Broadcas
+ t not announced
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

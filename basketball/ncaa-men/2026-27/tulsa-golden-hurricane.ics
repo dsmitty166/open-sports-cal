@@ -12,12 +12,13 @@ DTSTART:20261103T010000Z
 DTEND:20261103T040000Z
 SUMMARY:Ottawa (KS) Braves @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOttawa (KS) Braves @ Tulsa Golde
- n Hurricane\nReynolds Center\, Tulsa\, OK
+ n Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPN+ (streaming)
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920913@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261106T010000Z
 DTEND:20261106T040000Z
 SUMMARY:Northern Illinois Huskies @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Illinois Huskies @ Tuls
- a Golden Hurricane\nReynolds Center\, Tulsa\, OK
+ a Golden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925863@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261112T010000Z
 DTEND:20261112T040000Z
 SUMMARY:Oral Roberts Golden Eagles @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOral Roberts Golden Eagles @ Tul
- sa Golden Hurricane\nReynolds Center\, Tulsa\, OK
+ sa Golden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925864@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20261117T000000Z
 DTEND:20261117T030000Z
 SUMMARY:Western Kentucky Hilltoppers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Kentucky Hilltoppers @ T
- ulsa Golden Hurricane\nReynolds Center\, Tulsa\, OK
+ ulsa Golden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPNU
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925865@open-sports-cal
@@ -64,11 +70,12 @@ DTSTART:20261121T003000Z
 DTEND:20261121T033000Z
 SUMMARY:Mississippi State Bulldogs @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi State Bulldogs @ Tul
- sa Golden Hurricane\nMississippi Coliseum\, Jackson\, MS\nNeutral site
+ sa Golden Hurricane\nMississippi Coliseum\, Jackson\, MS\nNeutral site\nBr
+ oadcast: Broadcast not announced
 LOCATION:Mississippi Coliseum\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +84,12 @@ DTSTART:20261123T190000Z
 DTEND:20261123T220000Z
 SUMMARY:Tulsa Golden Hurricane @ Oregon State Beavers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ Oregon 
- State Beavers\nAcrisure Arena\, Palm Springs\, CA\nNeutral site
+ State Beavers\nAcrisure Arena\, Palm Springs\, CA\nNeutral site\nBroadcast
+ : Broadcast not announced
 LOCATION:Acrisure Arena\, Palm Springs\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +98,12 @@ DTSTART:20261124T213000Z
 DTEND:20261125T003000Z
 SUMMARY:Tulsa Golden Hurricane @ Illinois State Redbirds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ Illinoi
- s State Redbirds\nAcrisure Arena\, Palm Springs\, CA\nNeutral site
+ s State Redbirds\nAcrisure Arena\, Palm Springs\, CA\nNeutral site\nBroadc
+ ast: Broadcast not announced
 LOCATION:Acrisure Arena\, Palm Springs\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +112,14 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:IU Indianapolis Jaguars @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIU Indianapolis Jaguars @ Tulsa 
- Golden Hurricane\nReynolds Center\, Tulsa\, OK
+ Golden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925867@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261203T010000Z
 DTEND:20261203T040000Z
 SUMMARY:Haskell Jayhawks @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHaskell Jayhawks @ Tulsa Golden 
- Hurricane\nReynolds Center\, Tulsa\, OK
+ Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPN+ (streaming)
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925868@open-sports-cal
@@ -129,12 +141,14 @@ DTSTART:20261207T000000Z
 DTEND:20261207T030000Z
 SUMMARY:Tulsa Golden Hurricane @ Missouri State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ Missour
- i State Bears\nGreat Southern Bank Arena\, Springfield\, MO
+ i State Bears\nGreat Southern Bank Arena\, Springfield\, MO\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Great Southern Bank Arena\, Springfield\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925869@open-sports-cal
@@ -142,12 +156,13 @@ DTSTART:20261212T200000Z
 DTEND:20261212T230000Z
 SUMMARY:Florida A&M Rattlers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida A&M Rattlers @ Tulsa Gol
- den Hurricane\nReynolds Center\, Tulsa\, OK
+ den Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPN+ (streaming)
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921039@open-sports-cal
@@ -155,12 +170,13 @@ DTSTART:20261216T010000Z
 DTEND:20261216T040000Z
 SUMMARY:Jackson State Tigers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Tulsa Gol
- den Hurricane\nReynolds Center\, Tulsa\, OK
+ den Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPN+ (streaming)
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925870@open-sports-cal
@@ -168,11 +184,12 @@ DTSTART:20261220T013000Z
 DTEND:20261220T043000Z
 SUMMARY:Utah State Aggies @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUtah State Aggies @ Tulsa Golden
-  Hurricane\nComerica Center\, Frisco\, TX\nNeutral site
+  Hurricane\nComerica Center\, Frisco\, TX\nNeutral site\nBroadcast: Broadc
+ ast not announced
 LOCATION:Comerica Center\, Frisco\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -181,11 +198,12 @@ DTSTART:20261221T210000Z
 DTEND:20261222T000000Z
 SUMMARY:Tulsa Golden Hurricane @ San Francisco Dons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ San Fra
- ncisco Dons\nComerica Center\, Frisco\, TX\nNeutral site
+ ncisco Dons\nComerica Center\, Frisco\, TX\nNeutral site\nBroadcast: Broad
+ cast not announced
 LOCATION:Comerica Center\, Frisco\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +212,13 @@ DTSTART:20261231T010000Z
 DTEND:20261231T040000Z
 SUMMARY:South Florida Bulls @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Tulsa Gold
- en Hurricane\nReynolds Center\, Tulsa\, OK
+ en Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPN2
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927640@open-sports-cal
@@ -207,11 +226,12 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:Florida Atlantic Owls @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Atlantic Owls @ Tulsa Go
- lden Hurricane\nReynolds Center\, Tulsa\, OK
+ lden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +240,12 @@ DTSTART:20270108T010000Z
 DTEND:20270108T040000Z
 SUMMARY:Tulsa Golden Hurricane @ UTSA Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ UTSA Ro
- adrunners\nUTSA Convocation Center\, San Antonio\, TX
+ adrunners\nUTSA Convocation Center\, San Antonio\, TX\nBroadcast: Broadcas
+ t not announced
 LOCATION:UTSA Convocation Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +254,12 @@ DTSTART:20270115T010000Z
 DTEND:20270115T040000Z
 SUMMARY:East Carolina Pirates @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Carolina Pirates @ Tulsa Go
- lden Hurricane\nReynolds Center\, Tulsa\, OK
+ lden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +268,12 @@ DTSTART:20270117T180000Z
 DTEND:20270117T210000Z
 SUMMARY:Tulsa Golden Hurricane @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ South F
- lorida Bulls\nYuengling Center\, Tampa\, FL
+ lorida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +283,11 @@ DTEND:20270121T010000Z
 SUMMARY:Tulsa Golden Hurricane @ Florida Atlantic Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ Florida
   Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\,
-  FL
+  FL\nBroadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +296,12 @@ DTSTART:20270123T200000Z
 DTEND:20270123T230000Z
 SUMMARY:Wichita State Shockers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Tulsa G
- olden Hurricane\nReynolds Center\, Tulsa\, OK
+ olden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +310,12 @@ DTSTART:20270128T233000Z
 DTEND:20270129T023000Z
 SUMMARY:Tulsa Golden Hurricane @ Temple Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ Temple 
- Owls\nLiacouras Center\, Philadelphia\, PA
+ Owls\nLiacouras Center\, Philadelphia\, PA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Liacouras Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +324,12 @@ DTSTART:20270131T210000Z
 DTEND:20270201T000000Z
 SUMMARY:Tulsa Golden Hurricane @ North Texas Mean Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ North T
- exas Mean Green\nThe Super Pit\, Denton\, TX
+ exas Mean Green\nThe Super Pit\, Denton\, TX\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:The Super Pit\, Denton\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +338,11 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:UAB Blazers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUAB Blazers @ Tulsa Golden Hurri
- cane\nReynolds Center\, Tulsa\, OK
+ cane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not announced
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +351,12 @@ DTSTART:20270207T200000Z
 DTEND:20270207T230000Z
 SUMMARY:Tulane Green Wave @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulane Green Wave @ Tulsa Golden
-  Hurricane\nReynolds Center\, Tulsa\, OK
+  Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +365,11 @@ DTSTART:20270212T010000Z
 DTEND:20270212T040000Z
 SUMMARY:Tulsa Golden Hurricane @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ Rice Ow
- ls\nTudor Fieldhouse\, Houston\, TX
+ ls\nTudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +378,12 @@ DTSTART:20270214T200000Z
 DTEND:20270214T230000Z
 SUMMARY:North Texas Mean Green @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Texas Mean Green @ Tulsa G
- olden Hurricane\nReynolds Center\, Tulsa\, OK
+ olden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +392,12 @@ DTSTART:20270221T200000Z
 DTEND:20270221T230000Z
 SUMMARY:UTSA Roadrunners @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Tulsa Golden 
- Hurricane\nReynolds Center\, Tulsa\, OK
+ Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not announce
+ d
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +406,11 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Tulsa Golden Hurricane @ Memphis Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ Memphis
-  Tigers\nFedExForum\, Memphis\, TN
+  Tigers\nFedExForum\, Memphis\, TN\nBroadcast: Broadcast not announced
 LOCATION:FedExForum\, Memphis\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +419,11 @@ DTSTART:20270228T210000Z
 DTEND:20270301T000000Z
 SUMMARY:Tulsa Golden Hurricane @ UAB Blazers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ UAB Bla
- zers\nBartow Arena\, Birmingham\, AL
+ zers\nBartow Arena\, Birmingham\, AL\nBroadcast: Broadcast not announced
 LOCATION:Bartow Arena\, Birmingham\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -403,11 +432,11 @@ DTSTART:20270304T010000Z
 DTEND:20270304T040000Z
 SUMMARY:Charlotte 49ers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Tulsa Golden H
- urricane\nReynolds Center\, Tulsa\, OK
+ urricane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not announced
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -416,11 +445,12 @@ DTSTART:20270307T000000Z
 DTEND:20270307T030000Z
 SUMMARY:Tulsa Golden Hurricane @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ Wichita
-  State Shockers\nCharles Koch Arena\, Wichita\, KS
+  State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

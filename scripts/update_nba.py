@@ -18,6 +18,7 @@ from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).parent))
 from common import slug, fmt_utc, make_vevent, make_calendar, DTSTAMP
+from broadcasts import broadcast_names, fetch_team_broadcasts, game_key
 
 OUT_DIR = Path("basketball/nba/2026-27")
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
@@ -139,6 +140,7 @@ def build_playoff_events(espn_events):
             "date_str": dt.astimezone(ZoneInfo(tz)).date().strftime("%Y-%m-%d"),
             "home": home_name, "away": away_name,
             "location": location, "tz": tz, "round_name": round_name,
+            "broadcast": broadcast_names(comp),
         })
 
     games.sort(key=lambda g: g["date"])
@@ -160,12 +162,14 @@ def build_playoff_events(espn_events):
         g["home_slug"] = home_s
         g["vevent"] = make_vevent(uid, summary,
                                  fmt_utc(g["date"]), fmt_utc(g["date"] + timedelta(hours=GAME_HOURS)),
-                                 g["location"], description, PLAYOFF_CATEGORIES, g["tz"])
+                                 g["location"], description, PLAYOFF_CATEGORIES, g["tz"], broadcast=g["broadcast"])
         result.append(g)
     return result
 
 
 def main():
+    print("NBA: fetching ESPN broadcast listings...")
+    broadcasts = fetch_team_broadcasts("basketball", "nba", 2027)
     print("NBA: fetching regular season from fixturedownload.com...")
     fixtures = fetch_fixtures()
     print(f"  Got {len(fixtures)} fixtures")
@@ -196,7 +200,8 @@ def main():
         description = f"{SEASON}\\n{away} @ {home}\\n{location}"
 
         vevent = make_vevent(uid, summary, fmt_utc(dt), fmt_utc(dt + timedelta(hours=GAME_HOURS)),
-                             location, description, CATEGORIES, tz)
+                             location, description, CATEGORIES, tz,
+                             broadcast=broadcasts.get(game_key(away, home, dt), ""))
         events.append(vevent)
         team_events[home_s].append((vevent, home))
         team_events[away_s].append((vevent, away))

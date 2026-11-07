@@ -12,12 +12,13 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:Oregon State Beavers @ Houston Cougars
 DESCRIPTION:NCAA FBS Football 2026\nOregon State Beavers @ Houston Cougars\
- nTDECU Stadium\, Houston\, TX
+ nTDECU Stadium\, Houston\, TX\nBroadcast: ESPNEWS / Disney+ (streaming)
 LOCATION:TDECU Stadium\, Houston\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNEWS / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856787@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Southern Jaguars @ Houston Cougars
 DESCRIPTION:NCAA FBS Football 2026\nSouthern Jaguars @ Houston Cougars\nTDE
- CU Stadium\, Houston\, TX
+ CU Stadium\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:TDECU Stadium\, Houston\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856811@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T000000Z
 DTEND:20260919T030000Z
 SUMMARY:Houston Cougars @ Texas Tech Red Raiders
 DESCRIPTION:NCAA FBS Football 2026\nHouston Cougars @ Texas Tech Red Raider
- s\nGalaxy Stadium\, Lubbock\, TX
+ s\nGalaxy Stadium\, Lubbock\, TX\nBroadcast: Fox
 LOCATION:Galaxy Stadium\, Lubbock\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856806@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T200000Z
 DTEND:20260926T230000Z
 SUMMARY:Houston Cougars @ Georgia Southern Eagles
 DESCRIPTION:NCAA FBS Football 2026\nHouston Cougars @ Georgia Southern Eagl
- es\nAllen E. Paulson Stadium\, Statesboro\, GA
+ es\nAllen E. Paulson Stadium\, Statesboro\, GA\nBroadcast: ESPNU
 LOCATION:Allen E. Paulson Stadium\, Statesboro\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856819@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:UCF Knights @ Houston Cougars
 DESCRIPTION:NCAA FBS Football 2026\nUCF Knights @ Houston Cougars\nTDECU St
- adium\, Houston\, TX
+ adium\, Houston\, TX\nBroadcast: ESPN2
 LOCATION:TDECU Stadium\, Houston\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856825@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T193000Z
 DTEND:20261010T223000Z
 SUMMARY:Houston Cougars @ Kansas State Wildcats
 DESCRIPTION:NCAA FBS Football 2026\nHouston Cougars @ Kansas State Wildcats
- \nBill Snyder Family Stadium\, Manhattan\, KS
+ \nBill Snyder Family Stadium\, Manhattan\, KS\nBroadcast: Fox
 LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856831@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261017T233000Z
 DTEND:20261018T023000Z
 SUMMARY:Oklahoma State Cowboys @ Houston Cougars
 DESCRIPTION:NCAA FBS Football 2026\nOklahoma State Cowboys @ Houston Cougar
- s\nTDECU Stadium\, Houston\, TX
+ s\nTDECU Stadium\, Houston\, TX\nBroadcast: Fox
 LOCATION:TDECU Stadium\, Houston\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856837@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261025T021500Z
 DTEND:20261025T051500Z
 SUMMARY:Houston Cougars @ Utah Utes
 DESCRIPTION:NCAA FBS Football 2026\nHouston Cougars @ Utah Utes\nRice-Eccle
- s Stadium\, Salt Lake City\, UT
+ s Stadium\, Salt Lake City\, UT\nBroadcast: ESPN
 LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856851@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261107T203000Z
 DTEND:20261107T233000Z
 SUMMARY:Cincinnati Bearcats @ Houston Cougars
 DESCRIPTION:NCAA FBS Football 2026\nCincinnati Bearcats @ Houston Cougars\n
- TDECU Stadium\, Houston\, TX
+ TDECU Stadium\, Houston\, TX\nBroadcast: Fox
 LOCATION:TDECU Stadium\, Houston\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856860@open-sports-cal
@@ -129,12 +138,13 @@ DTSTART:20261114T031500Z
 DTEND:20261114T061500Z
 SUMMARY:Houston Cougars @ Colorado Buffaloes
 DESCRIPTION:NCAA FBS Football 2026\nHouston Cougars @ Colorado Buffaloes\nF
- olsom Field\, Boulder\, CO
+ olsom Field\, Boulder\, CO\nBroadcast: ESPN
 LOCATION:Folsom Field\, Boulder\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856868@open-sports-cal
@@ -142,11 +152,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Houston Cougars @ West Virginia Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nHouston Cougars @ West Virginia Mountai
- neers\nMilan Puskar Stadium\, Morgantown\, WV\nStart time TBD
+ neers\nMilan Puskar Stadium\, Morgantown\, WV\nStart time TBD\nBroadcast: 
+ Broadcast not announced
 LOCATION:Milan Puskar Stadium\, Morgantown\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856874@open-sports-cal
@@ -154,10 +165,10 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Baylor Bears @ Houston Cougars
 DESCRIPTION:NCAA FBS Football 2026\nBaylor Bears @ Houston Cougars\nTDECU S
- tadium\, Houston\, TX\nStart time TBD
+ tadium\, Houston\, TX\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:TDECU Stadium\, Houston\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

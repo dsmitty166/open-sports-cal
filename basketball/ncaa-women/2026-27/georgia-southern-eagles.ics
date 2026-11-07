@@ -12,13 +12,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Georgia Southern Eagles @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Bowl
- ing Green Falcons\nStroh Center\, Bowling Green\, OH
+ ing Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918683@open-sports-cal
@@ -26,13 +28,14 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Georgia Southern Eagles @ Mercer Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Merc
- er Bears\nHawkins Arena\, Macon\, GA
+ er Bears\nHawkins Arena\, Macon\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Hawkins Arena\, Macon\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918684@open-sports-cal
@@ -41,13 +44,14 @@ DTEND:20261110T020000Z
 SUMMARY:Savannah State Tigers @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSavannah State Tigers @ Georgi
  a Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\
- , GA
+ , GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918685@open-sports-cal
@@ -55,13 +59,15 @@ DTSTART:20261114T160000Z
 DTEND:20261114T190000Z
 SUMMARY:Wofford Terriers @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWofford Terriers @ Georgia Sou
- thern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+ thern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\, GA\
+ nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918686@open-sports-cal
@@ -70,13 +76,14 @@ DTEND:20261118T010000Z
 SUMMARY:Coastal Georgia Mariner @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoastal Georgia Mariner @ Geor
  gia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesbor
- o\, GA
+ o\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918687@open-sports-cal
@@ -85,13 +92,14 @@ DTEND:20261121T020000Z
 SUMMARY:Florida Gulf Coast Eagles @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Ge
  orgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesb
- oro\, GA
+ oro\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918688@open-sports-cal
@@ -99,13 +107,15 @@ DTSTART:20261124T230000Z
 DTEND:20261125T020000Z
 SUMMARY:Georgia Southern Eagles @ Cleveland State Vikings
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Clev
- eland State Vikings\nWoodling Gymnasium\, Cleveland\, OH
+ eland State Vikings\nWoodling Gymnasium\, Cleveland\, OH\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Woodling Gymnasium\, Cleveland\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918689@open-sports-cal
@@ -113,12 +123,13 @@ DTSTART:20261125T170000Z
 DTEND:20261125T200000Z
 SUMMARY:Western Michigan Broncos @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Michigan Broncos @ Geo
- rgia Southern Eagles\nWoodling Gymnasium\, Cleveland\, OH\nNeutral site
+ rgia Southern Eagles\nWoodling Gymnasium\, Cleveland\, OH\nNeutral site\nB
+ roadcast: Broadcast not announced
 LOCATION:Woodling Gymnasium\, Cleveland\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -127,13 +138,14 @@ DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:Georgia Southern Eagles @ Furman Paladins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Furm
- an Paladins\nTimmons Arena\, Greenville\, SC
+ an Paladins\nTimmons Arena\, Greenville\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Timmons Arena\, Greenville\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918691@open-sports-cal
@@ -142,13 +154,14 @@ DTEND:20261207T190000Z
 SUMMARY:Charleston Southern Buccaneers @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Southern Buccaneers
   @ Georgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, St
- atesboro\, GA
+ atesboro\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918692@open-sports-cal
@@ -157,13 +170,14 @@ DTEND:20261212T210000Z
 SUMMARY:Florida International Panthers @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
   @ Georgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, St
- atesboro\, GA
+ atesboro\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918693@open-sports-cal
@@ -172,13 +186,14 @@ DTEND:20261216T020000Z
 SUMMARY:Charleston Cougars @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Georgia S
  outhern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\, G
- A
+ A\nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912075@open-sports-cal
@@ -187,13 +202,14 @@ DTEND:20261219T220000Z
 SUMMARY:Arkansas State Red Wolves @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas State Red Wolves @ Ge
  orgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesb
- oro\, GA
+ oro\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912081@open-sports-cal
@@ -201,13 +217,15 @@ DTSTART:20261222T170000Z
 DTEND:20261222T200000Z
 SUMMARY:Georgia Southern Eagles @ James Madison Dukes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Jame
- s Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA
+ s Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Atlantic Union Bank Center\, Harrisonburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912987@open-sports-cal
@@ -215,13 +233,15 @@ DTSTART:20261228T200000Z
 DTEND:20261228T230000Z
 SUMMARY:Georgia Southern Eagles @ Georgia Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Geor
- gia Lady Bulldogs\nStegeman Coliseum\, Athens\, GA
+ gia Lady Bulldogs\nStegeman Coliseum\, Athens\, GA\nBroadcast: SECN+ (stre
+ aming)
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912086@open-sports-cal
@@ -229,13 +249,15 @@ DTSTART:20261231T200000Z
 DTEND:20261231T230000Z
 SUMMARY:Georgia Southern Eagles @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Loui
- siana Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ siana Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912091@open-sports-cal
@@ -243,12 +265,13 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:Georgia Southern Eagles @ Southern Miss Lady Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Sout
- hern Miss Lady Eagles\nReed Green Coliseum\, Hattiesburg\, MS
+ hern Miss Lady Eagles\nReed Green Coliseum\, Hattiesburg\, MS\nBroadcast: 
+ Broadcast not announced
 LOCATION:Reed Green Coliseum\, Hattiesburg\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -258,12 +281,12 @@ DTEND:20270107T020000Z
 SUMMARY:South Alabama Jaguars @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Alabama Jaguars @ Georgi
  a Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\
- , GA
+ , GA\nBroadcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,12 +295,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Troy Trojans @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Georgia Souther
- n Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
+ n Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\, GA\nBro
+ adcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -286,12 +310,13 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Georgia Southern Eagles @ Louisiana Tech Lady Techsters
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Loui
- siana Tech Lady Techsters\nThomas Assembly Center\, Ruston\, LA
+ siana Tech Lady Techsters\nThomas Assembly Center\, Ruston\, LA\nBroadcast
+ : Broadcast not announced
 LOCATION:Thomas Assembly Center\, Ruston\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -301,12 +326,12 @@ DTEND:20270121T020000Z
 SUMMARY:Marshall Thundering Herd @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Geo
  rgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesbo
- ro\, GA
+ ro\, GA\nBroadcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -316,12 +341,12 @@ DTEND:20270123T220000Z
 SUMMARY:Coastal Carolina Chanticleers @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoastal Carolina Chanticleers 
  @ Georgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Sta
- tesboro\, GA
+ tesboro\, GA\nBroadcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -330,12 +355,13 @@ DTSTART:20270128T233000Z
 DTEND:20270129T023000Z
 SUMMARY:Georgia Southern Eagles @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ App 
- State Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ State Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: Bro
+ adcast not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -344,12 +370,13 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Georgia Southern Eagles @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Geor
- gia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ gia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broa
+ dcast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -358,12 +385,13 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Georgia Southern Eagles @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Mars
- hall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ hall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: B
+ roadcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -373,12 +401,12 @@ DTEND:20270211T020000Z
 SUMMARY:Georgia State Panthers @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Georg
  ia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro
- \, GA
+ \, GA\nBroadcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -388,12 +416,12 @@ DTEND:20270213T220000Z
 SUMMARY:James Madison Dukes @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJames Madison Dukes @ Georgia 
  Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\, 
- GA
+ GA\nBroadcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,12 +430,13 @@ DTSTART:20270218T233000Z
 DTEND:20270219T023000Z
 SUMMARY:Georgia Southern Eagles @ Old Dominion Monarchs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Old 
- Dominion Monarchs\nChartway Arena\, Norfolk\, VA
+ Dominion Monarchs\nChartway Arena\, Norfolk\, VA\nBroadcast: Broadcast not
+  announced
 LOCATION:Chartway Arena\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -416,12 +445,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Georgia Southern Eagles @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Coas
- tal Carolina Chanticleers\nThe HTC Center\, Conway\, SC
+ tal Carolina Chanticleers\nThe HTC Center\, Conway\, SC\nBroadcast: Broadc
+ ast not announced
 LOCATION:The HTC Center\, Conway\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -431,12 +461,12 @@ DTEND:20270224T020000Z
 SUMMARY:App State Mountaineers @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Georg
  ia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro
- \, GA
+ \, GA\nBroadcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -446,12 +476,12 @@ DTEND:20270227T010000Z
 SUMMARY:Old Dominion Monarchs @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOld Dominion Monarchs @ Georgi
  a Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\
- , GA
+ , GA\nBroadcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

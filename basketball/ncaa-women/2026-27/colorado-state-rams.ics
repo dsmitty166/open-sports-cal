@@ -12,12 +12,13 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Lindenwood Lions @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLindenwood Lions @ Colorado St
- ate Rams\nMoby Arena\, Fort Collins\, CO
+ ate Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -26,13 +27,15 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Colorado State Rams @ Utah Utes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Utah Ute
- s\nJon M. Huntsman Center\, Salt Lake City\, UT
+ s\nJon M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923327@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
 SUMMARY:Colorado State Rams @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Denver P
- ioneers\nHamilton Gymnasium\, Denver\, CO
+ ioneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920498@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261114T013000Z
 DTEND:20261114T043000Z
 SUMMARY:Wyoming Cowgirls @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ Colorado St
- ate Rams\nMoby Arena\, Fort Collins\, CO
+ ate Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: YouTube (streaming)
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913860@open-sports-cal
@@ -68,12 +73,13 @@ DTSTART:20261121T013000Z
 DTEND:20261121T043000Z
 SUMMARY:Harvard Crimson @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Colorado Sta
- te Rams\nMoby Arena\, Fort Collins\, CO
+ te Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not announce
+ d
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -82,12 +88,13 @@ DTSTART:20261122T200000Z
 DTEND:20261122T230000Z
 SUMMARY:Weber State Wildcats @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWeber State Wildcats @ Colorad
- o State Rams\nMoby Arena\, Fort Collins\, CO
+ o State Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -97,14 +104,15 @@ DTEND:20261126T230000Z
 SUMMARY:Grambling Lady Tigers @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrambling Lady Tigers @ Colora
  do State Rams\nElridge Blake Sports and Fitness Center\, Charlotte Amalie\
- , Virgin Islands\nNeutral site
+ , Virgin Islands\nNeutral site\nBroadcast: ESPN+ (streaming)
 LOCATION:Elridge Blake Sports and Fitness Center\, Charlotte Amalie\, Virgi
  n Islands
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/St_Thomas
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928264@open-sports-cal
@@ -112,12 +120,13 @@ DTSTART:20261205T200000Z
 DTEND:20261205T230000Z
 SUMMARY:Southern Jaguars @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Colorado St
- ate Rams\nMoby Arena\, Fort Collins\, CO
+ ate Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -126,12 +135,13 @@ DTSTART:20261210T013000Z
 DTEND:20261210T043000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Colorado State Rams\nMoby Arena\, Fort Collins\, CO
+ dogs @ Colorado State Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Bro
+ adcast not announced
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -140,12 +150,13 @@ DTSTART:20261212T211500Z
 DTEND:20261213T001500Z
 SUMMARY:Colorado State Rams @ Troy Trojans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Troy Tro
- jans\nJenny Craig Pavilion\, San Diego\, CA\nNeutral site
+ jans\nJenny Craig Pavilion\, San Diego\, CA\nNeutral site\nBroadcast: Broa
+ dcast not announced
 LOCATION:Jenny Craig Pavilion\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -154,12 +165,13 @@ DTSTART:20261213T233000Z
 DTEND:20261214T023000Z
 SUMMARY:Colorado State Rams @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Arizona 
- State Sun Devils\nJenny Craig Pavilion\, San Diego\, CA\nNeutral site
+ State Sun Devils\nJenny Craig Pavilion\, San Diego\, CA\nNeutral site\nBro
+ adcast: Broadcast not announced
 LOCATION:Jenny Craig Pavilion\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +180,13 @@ DTSTART:20261219T200000Z
 DTEND:20261219T230000Z
 SUMMARY:Northern Colorado Bears @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Colorado Bears @ Colo
- rado State Rams\nMoby Arena\, Fort Collins\, CO
+ rado State Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not 
+ announced
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -182,13 +195,15 @@ DTSTART:20261223T180000Z
 DTEND:20261223T210000Z
 SUMMARY:Colorado State Rams @ Loyola Chicago Ramblers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Loyola C
- hicago Ramblers\nGentile Arena\, Chicago\, IL
+ hicago Ramblers\nGentile Arena\, Chicago\, IL\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Gentile Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928265@open-sports-cal
@@ -196,12 +211,13 @@ DTSTART:20261230T200000Z
 DTEND:20261230T230000Z
 SUMMARY:South Dakota Mines Hardrockers @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Mines Hardrockers
-  @ Colorado State Rams\nMoby Arena\, Fort Collins\, CO
+  @ Colorado State Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadca
+ st not announced
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -210,12 +226,13 @@ DTSTART:20270108T013000Z
 DTEND:20270108T043000Z
 SUMMARY:Fresno State Bulldogs @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFresno State Bulldogs @ Colora
- do State Rams\nMoby Arena\, Fort Collins\, CO
+ do State Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -224,12 +241,13 @@ DTSTART:20270114T020000Z
 DTEND:20270114T050000Z
 SUMMARY:Colorado State Rams @ Utah State Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Utah Sta
- te Aggies\nDee Glen Smith Spectrum\, Logan\, UT
+ te Aggies\nDee Glen Smith Spectrum\, Logan\, UT\nBroadcast: Broadcast not 
+ announced
 LOCATION:Dee Glen Smith Spectrum\, Logan\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -238,13 +256,14 @@ DTSTART:20270117T020000Z
 DTEND:20270117T050000Z
 SUMMARY:San Diego State Aztecs @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Diego State Aztecs @ Color
- ado State Rams\nMoby Arena\, Fort Collins\, CO
+ ado State Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: CW
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928269@open-sports-cal
@@ -252,12 +271,13 @@ DTSTART:20270121T020000Z
 DTEND:20270121T050000Z
 SUMMARY:Colorado State Rams @ Washington State Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Washingt
- on State Cougars\nBeasley Coliseum\, Pullman\, WA
+ on State Cougars\nBeasley Coliseum\, Pullman\, WA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Beasley Coliseum\, Pullman\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +286,13 @@ DTSTART:20270124T210000Z
 DTEND:20270125T000000Z
 SUMMARY:Colorado State Rams @ Boise State Broncos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Boise St
- ate Broncos\nExtraMile Arena\, Boise\, ID
+ ate Broncos\nExtraMile Arena\, Boise\, ID\nBroadcast: Broadcast not announ
+ ced
 LOCATION:ExtraMile Arena\, Boise\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +301,13 @@ DTSTART:20270128T013000Z
 DTEND:20270128T043000Z
 SUMMARY:Texas State Bobcats @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas State Bobcats @ Colorado
-  State Rams\nMoby Arena\, Fort Collins\, CO
+  State Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -294,13 +316,14 @@ DTSTART:20270131T200000Z
 DTEND:20270131T230000Z
 SUMMARY:Colorado State Rams @ San Diego State Aztecs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ San Dieg
- o State Aztecs\nViejas Arena\, San Diego\, CA
+ o State Aztecs\nViejas Arena\, San Diego\, CA\nBroadcast: CW
 LOCATION:Viejas Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928272@open-sports-cal
@@ -308,13 +331,14 @@ DTSTART:20270204T030000Z
 DTEND:20270204T060000Z
 SUMMARY:Gonzaga Bulldogs @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Colorado St
- ate Rams\nMoby Arena\, Fort Collins\, CO
+ ate Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: USA Net
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:USA Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928273@open-sports-cal
@@ -322,12 +346,13 @@ DTSTART:20270207T220000Z
 DTEND:20270208T010000Z
 SUMMARY:Colorado State Rams @ Fresno State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Fresno S
- tate Bulldogs\nSave Mart Center\, Fresno\, CA
+ tate Bulldogs\nSave Mart Center\, Fresno\, CA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Save Mart Center\, Fresno\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -337,12 +362,12 @@ DTEND:20270211T040000Z
 SUMMARY:Colorado State Rams @ Texas State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Texas St
  ate Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, 
- TX
+ TX\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -351,13 +376,14 @@ DTSTART:20270214T183000Z
 DTEND:20270214T213000Z
 SUMMARY:Washington State Cougars @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWashington State Cougars @ Col
- orado State Rams\nMoby Arena\, Fort Collins\, CO
+ orado State Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: CW
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928276@open-sports-cal
@@ -365,12 +391,13 @@ DTSTART:20270217T180000Z
 DTEND:20270217T210000Z
 SUMMARY:Utah State Aggies @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah State Aggies @ Colorado S
- tate Rams\nMoby Arena\, Fort Collins\, CO
+ tate Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -379,13 +406,14 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:Colorado State Rams @ Oregon State Beavers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Oregon S
- tate Beavers\nGill Coliseum\, Corvallis\, OR
+ tate Beavers\nGill Coliseum\, Corvallis\, OR\nBroadcast: CW
 LOCATION:Gill Coliseum\, Corvallis\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928278@open-sports-cal
@@ -393,13 +421,14 @@ DTSTART:20270225T030000Z
 DTEND:20270225T060000Z
 SUMMARY:Colorado State Rams @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Gonzaga 
- Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: USA Net
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:USA Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928261@open-sports-cal
@@ -407,12 +436,13 @@ DTSTART:20270304T013000Z
 DTEND:20270304T043000Z
 SUMMARY:Boise State Broncos @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBoise State Broncos @ Colorado
-  State Rams\nMoby Arena\, Fort Collins\, CO
+  State Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -421,12 +451,13 @@ DTSTART:20270306T200000Z
 DTEND:20270306T230000Z
 SUMMARY:Oregon State Beavers @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon State Beavers @ Colorad
- o State Rams\nMoby Arena\, Fort Collins\, CO
+ o State Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 END:VCALENDAR

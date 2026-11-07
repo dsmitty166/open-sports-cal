@@ -12,11 +12,12 @@ DTSTART:20260829T220000Z
 DTEND:20260830T010000Z
 SUMMARY:Winston-Salem State Rams @ Norfolk State Spartans
 DESCRIPTION:NCAA FCS Football 2026\nWinston-Salem State Rams @ Norfolk Stat
- e Spartans\nWilliam "Dick" Price Stadium\, Norfolk\, VA
+ e Spartans\nWilliam "Dick" Price Stadium\, Norfolk\, VA\nBroadcast: Broadc
+ ast not announced
 LOCATION:William "Dick" Price Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -25,12 +26,13 @@ DTSTART:20260905T220000Z
 DTEND:20260906T010000Z
 SUMMARY:Norfolk State Spartans @ Old Dominion Monarchs
 DESCRIPTION:NCAA FCS Football 2026\nNorfolk State Spartans @ Old Dominion M
- onarchs\nS.B. Ballard Stadium\, Norfolk\, VA
+ onarchs\nS.B. Ballard Stadium\, Norfolk\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401858220@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260911T230000Z
 DTEND:20260912T020000Z
 SUMMARY:Norfolk State Spartans @ Virginia Cavaliers
 DESCRIPTION:NCAA FCS Football 2026\nNorfolk State Spartans @ Virginia Caval
- iers\nScott Stadium\, Charlottesville\, VA
+ iers\nScott Stadium\, Charlottesville\, VA\nBroadcast: ACCNX (streaming)
 LOCATION:Scott Stadium\, Charlottesville\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866641@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20260919T200000Z
 DTEND:20260919T230000Z
 SUMMARY:Hampton Pirates @ Norfolk State Spartans
 DESCRIPTION:NCAA FCS Football 2026\nHampton Pirates @ Norfolk State Spartan
- s\nWilliam "Dick" Price Stadium\, Norfolk\, VA
+ s\nWilliam "Dick" Price Stadium\, Norfolk\, VA\nBroadcast: MEAC Network (s
+ treaming)
 LOCATION:William "Dick" Price Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MEAC Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867687@open-sports-cal
@@ -64,11 +69,12 @@ DTSTART:20260926T230000Z
 DTEND:20260927T020000Z
 SUMMARY:Norfolk State Spartans @ Chicago State Cougars
 DESCRIPTION:NCAA FCS Football 2026\nNorfolk State Spartans @ Chicago State 
- Cougars\nSeatGeek Stadium\, Bridgeview\, IL
+ Cougars\nSeatGeek Stadium\, Bridgeview\, IL\nBroadcast: Broadcast not anno
+ unced
 LOCATION:SeatGeek Stadium\, Bridgeview\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -77,12 +83,14 @@ DTSTART:20261003T180000Z
 DTEND:20261003T210000Z
 SUMMARY:Norfolk State Spartans @ Robert Morris Colonials
 DESCRIPTION:NCAA FCS Football 2026\nNorfolk State Spartans @ Robert Morris 
- Colonials\nJoe Walton Stadium\, Moon Township\, PA
+ Colonials\nJoe Walton Stadium\, Moon Township\, PA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Joe Walton Stadium\, Moon Township\, PA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867974@open-sports-cal
@@ -90,11 +98,12 @@ DTSTART:20261010T180000Z
 DTEND:20261010T210000Z
 SUMMARY:Virginia Lynchburg Dragons @ Norfolk State Spartans
 DESCRIPTION:NCAA FCS Football 2026\nVirginia Lynchburg Dragons @ Norfolk St
- ate Spartans\nWilliam "Dick" Price Stadium\, Norfolk\, VA
+ ate Spartans\nWilliam "Dick" Price Stadium\, Norfolk\, VA\nBroadcast: Broa
+ dcast not announced
 LOCATION:William "Dick" Price Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +112,14 @@ DTSTART:20261024T173000Z
 DTEND:20261024T203000Z
 SUMMARY:Norfolk State Spartans @ South Carolina State Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nNorfolk State Spartans @ South Carolina
-  State Bulldogs\nOliver C. Dawson Stadium\, Orangeburg\, SC
+  State Bulldogs\nOliver C. Dawson Stadium\, Orangeburg\, SC\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Oliver C. Dawson Stadium\, Orangeburg\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867956@open-sports-cal
@@ -116,12 +127,14 @@ DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 SUMMARY:Delaware State Hornets @ Norfolk State Spartans
 DESCRIPTION:NCAA FCS Football 2026\nDelaware State Hornets @ Norfolk State 
- Spartans\nLincoln Financial Field\, Philadelphia\, PA\nNeutral site
+ Spartans\nLincoln Financial Field\, Philadelphia\, PA\nNeutral site\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867976@open-sports-cal
@@ -129,12 +142,14 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:North Carolina Central Eagles @ Norfolk State Spartans
 DESCRIPTION:NCAA FCS Football 2026\nNorth Carolina Central Eagles @ Norfolk
-  State Spartans\nWilliam "Dick" Price Stadium\, Norfolk\, VA
+  State Spartans\nWilliam "Dick" Price Stadium\, Norfolk\, VA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:William "Dick" Price Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867970@open-sports-cal
@@ -142,12 +157,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Norfolk State Spartans @ Morgan State Bears
 DESCRIPTION:NCAA FCS Football 2026\nNorfolk State Spartans @ Morgan State B
- ears\nHughes Stadium (MD)\, Baltimore\, MD
+ ears\nHughes Stadium (MD)\, Baltimore\, MD\nBroadcast: ESPN+ (streaming)
 LOCATION:Hughes Stadium (MD)\, Baltimore\, MD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867965@open-sports-cal
@@ -155,11 +171,12 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Howard Bison @ Norfolk State Spartans
 DESCRIPTION:NCAA FCS Football 2026\nHoward Bison @ Norfolk State Spartans\n
- William "Dick" Price Stadium\, Norfolk\, VA
+ William "Dick" Price Stadium\, Norfolk\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:William "Dick" Price Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

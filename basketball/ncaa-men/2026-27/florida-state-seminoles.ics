@@ -12,12 +12,14 @@ DTSTART:20261103T021500Z
 DTEND:20261103T051500Z
 SUMMARY:Florida State Seminoles @ Florida A&M Rattlers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Florid
- a A&M Rattlers\nBenchmark International Arena\, Tampa\, FL\nNeutral site
+ a A&M Rattlers\nBenchmark International Arena\, Tampa\, FL\nNeutral site\n
+ Broadcast: ESPNU
 LOCATION:Benchmark International Arena\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909695@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Troy Trojans @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Florida State Sem
- inoles\nTucker Center\, Tallahassee\, FL
+ inoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACCNX (streaming)
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906771@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261110T230000Z
 DTEND:20261111T020000Z
 SUMMARY:Florida Gators @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ Florida State S
- eminoles\nTucker Center\, Tallahassee\, FL
+ eminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ESPN2
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909696@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20261113T220000Z
 DTEND:20261114T010000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M-Corpus Christi Islande
- rs @ Florida State Seminoles\nTucker Center\, Tallahassee\, FL
+ rs @ Florida State Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast:
+  ACCNX (streaming)
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909697@open-sports-cal
@@ -64,12 +70,14 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Ball State Cardinals @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBall State Cardinals @ Florida S
- tate Seminoles\nTucker Center\, Tallahassee\, FL
+ tate Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACCNX (stream
+ ing)
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909698@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
 SUMMARY:Green Bay Phoenix @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGreen Bay Phoenix @ Florida Stat
- e Seminoles\nTucker Center\, Tallahassee\, FL
+ e Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACCNX (streaming
+ )
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909699@open-sports-cal
@@ -90,12 +100,13 @@ DTSTART:20261125T020000Z
 DTEND:20261125T050000Z
 SUMMARY:UNC Asheville Bulldogs @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Florida
-  State Seminoles\nTucker Center\, Tallahassee\, FL
+  State Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACC Network
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922254@open-sports-cal
@@ -103,11 +114,12 @@ DTSTART:20261129T200000Z
 DTEND:20261129T230000Z
 SUMMARY:West Florida Argonauts @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Florida Argonauts @ Florida
-  State Seminoles\nPensacola Bay Center\, Pensacola\, FL\nNeutral site
+  State Seminoles\nPensacola Bay Center\, Pensacola\, FL\nNeutral site\nBro
+ adcast: Broadcast not announced
 LOCATION:Pensacola Bay Center\, Pensacola\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -116,12 +128,13 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Florida State Seminoles @ Tennessee Volunteers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Tennes
- see Volunteers\nFood City Center\, Knoxville\, TN
+ see Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: ESPN2
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909700@open-sports-cal
@@ -129,12 +142,13 @@ DTSTART:20261205T170000Z
 DTEND:20261205T200000Z
 SUMMARY:Dayton Flyers @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDayton Flyers @ Florida State Se
- minoles\nTucker Center\, Tallahassee\, FL
+ minoles\nTucker Center\, Tallahassee\, FL\nBroadcast: CW
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909701@open-sports-cal
@@ -142,12 +156,14 @@ DTSTART:20261212T200000Z
 DTEND:20261212T230000Z
 SUMMARY:Florida State Seminoles @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Texas 
- A&M Aggies\nToyota Center (Houston)\, Houston\, TX\nNeutral site
+ A&M Aggies\nToyota Center (Houston)\, Houston\, TX\nNeutral site\nBroadcas
+ t: ESPNU
 LOCATION:Toyota Center (Houston)\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909702@open-sports-cal
@@ -155,12 +171,13 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Jacksonville Dolphins @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville Dolphins @ Florida 
- State Seminoles\nTucker Center\, Tallahassee\, FL
+ State Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACC Network
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909703@open-sports-cal
@@ -169,12 +186,13 @@ DTEND:20261220T210000Z
 SUMMARY:Houston Cougars @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHouston Cougars @ Florida State 
  Seminoles\nVyStar Veterans Memorial Arena\, Jacksonville\, FL\nNeutral sit
- e
+ e\nBroadcast: ESPN2
 LOCATION:VyStar Veterans Memorial Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909704@open-sports-cal
@@ -182,12 +200,14 @@ DTSTART:20261222T230000Z
 DTEND:20261223T020000Z
 SUMMARY:Bethune-Cookman Wildcats @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Flori
- da State Seminoles\nTucker Center\, Tallahassee\, FL
+ da State Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACC Netwo
+ rk
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918093@open-sports-cal
@@ -195,12 +215,13 @@ DTSTART:20261229T230000Z
 DTEND:20261230T020000Z
 SUMMARY:Syracuse Orange @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSyracuse Orange @ Florida State 
- Seminoles\nTucker Center\, Tallahassee\, FL
+ Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACC Network
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918113@open-sports-cal
@@ -208,12 +229,13 @@ DTSTART:20270107T020000Z
 DTEND:20270107T050000Z
 SUMMARY:Florida State Seminoles @ California Golden Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Califo
- rnia Golden Bears\nHaas Pavilion\, Berkeley\, CA
+ rnia Golden Bears\nHaas Pavilion\, Berkeley\, CA\nBroadcast: ESPNU
 LOCATION:Haas Pavilion\, Berkeley\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918118@open-sports-cal
@@ -221,12 +243,13 @@ DTSTART:20270109T223000Z
 DTEND:20270110T013000Z
 SUMMARY:Florida State Seminoles @ Stanford Cardinal
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Stanfo
- rd Cardinal\nMaples Pavilion\, Stanford\, CA
+ rd Cardinal\nMaples Pavilion\, Stanford\, CA\nBroadcast: ACC Network
 LOCATION:Maples Pavilion\, Stanford\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918132@open-sports-cal
@@ -234,11 +257,12 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:North Carolina Tar Heels @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Tar Heels @ Flori
- da State Seminoles\nTucker Center\, Tallahassee\, FL
+ da State Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: Broadcast
+  not announced
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -247,12 +271,14 @@ DTSTART:20270116T213000Z
 DTEND:20270117T003000Z
 SUMMARY:Florida State Seminoles @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Wake F
- orest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ orest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC Ne
+ twork
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918147@open-sports-cal
@@ -260,12 +286,13 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Virginia Tech Hokies @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Tech Hokies @ Florida S
- tate Seminoles\nTucker Center\, Tallahassee\, FL
+ tate Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACC Network
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918152@open-sports-cal
@@ -273,11 +300,12 @@ DTSTART:20270123T170000Z
 DTEND:20270123T200000Z
 SUMMARY:Florida State Seminoles @ Clemson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Clemso
- n Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ n Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -286,12 +314,14 @@ DTSTART:20270127T000000Z
 DTEND:20270127T030000Z
 SUMMARY:Notre Dame Fighting Irish @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNotre Dame Fighting Irish @ Flor
- ida State Seminoles\nTucker Center\, Tallahassee\, FL
+ ida State Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACC Netw
+ ork
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918168@open-sports-cal
@@ -299,12 +329,13 @@ DTSTART:20270130T200000Z
 DTEND:20270130T230000Z
 SUMMARY:Pittsburgh Panthers @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ Florida St
- ate Seminoles\nTucker Center\, Tallahassee\, FL
+ ate Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACC Network
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918180@open-sports-cal
@@ -312,12 +343,13 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Florida State Seminoles @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ NC Sta
- te Wolfpack\nLenovo Center\, Raleigh\, NC
+ te Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ESPNU
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918184@open-sports-cal
@@ -325,11 +357,12 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Florida State Seminoles @ Miami Hurricanes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Miami 
- Hurricanes\nWatsco Center\, Coral Gables\, FL
+ Hurricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -338,12 +371,13 @@ DTSTART:20270213T201500Z
 DTEND:20270213T231500Z
 SUMMARY:Clemson Tigers @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nClemson Tigers @ Florida State S
- eminoles\nTucker Center\, Tallahassee\, FL
+ eminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: CW
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918207@open-sports-cal
@@ -351,11 +385,12 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:Florida State Seminoles @ Duke Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Duke B
- lue Devils\nCameron Indoor Stadium\, Durham\, NC
+ lue Devils\nCameron Indoor Stadium\, Durham\, NC\nBroadcast: Broadcast not
+  announced
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +399,12 @@ DTSTART:20270221T210000Z
 DTEND:20270222T000000Z
 SUMMARY:Louisville Cardinals @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisville Cardinals @ Florida S
- tate Seminoles\nTucker Center\, Tallahassee\, FL
+ tate Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +413,14 @@ DTSTART:20270223T230000Z
 DTEND:20270224T020000Z
 SUMMARY:Georgia Tech Yellow Jackets @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Tech Yellow Jackets @ Fl
- orida State Seminoles\nTucker Center\, Tallahassee\, FL
+ orida State Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACC Ne
+ twork
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918234@open-sports-cal
@@ -390,11 +428,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Florida State Seminoles @ Virginia Cavaliers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Virgin
- ia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ ia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: Bro
+ adcast not announced
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -403,12 +442,13 @@ DTSTART:20270303T233000Z
 DTEND:20270304T023000Z
 SUMMARY:Florida State Seminoles @ Boston College Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Boston
-  College Eagles\nConte Forum\, Chestnut Hill\, MA
+  College Eagles\nConte Forum\, Chestnut Hill\, MA\nBroadcast: ACC Network
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918252@open-sports-cal
@@ -416,11 +456,12 @@ DTSTART:20270306T190000Z
 DTEND:20270306T220000Z
 SUMMARY:Miami Hurricanes @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMiami Hurricanes @ Florida State
-  Seminoles\nTucker Center\, Tallahassee\, FL
+  Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

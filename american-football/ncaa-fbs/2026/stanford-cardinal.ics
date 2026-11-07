@@ -12,12 +12,13 @@ DTSTART:20260829T230000Z
 DTEND:20260830T020000Z
 SUMMARY:Hawai'i Rainbow Warriors @ Stanford Cardinal
 DESCRIPTION:NCAA FBS Football 2026\nHawai'i Rainbow Warriors @ Stanford Car
- dinal\nStanford Stadium\, Stanford\, CA
+ dinal\nStanford Stadium\, Stanford\, CA\nBroadcast: ACC Network
 LOCATION:Stanford Stadium\, Stanford\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858206@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260905T010000Z
 DTEND:20260905T040000Z
 SUMMARY:Miami Hurricanes @ Stanford Cardinal
 DESCRIPTION:NCAA FBS Football 2026\nMiami Hurricanes @ Stanford Cardinal\nS
- tanford Stadium\, Stanford\, CA
+ tanford Stadium\, Stanford\, CA\nBroadcast: ESPN
 LOCATION:Stanford Stadium\, Stanford\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858231@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T200000Z
 DTEND:20260919T230000Z
 SUMMARY:Stanford Cardinal @ Duke Blue Devils
 DESCRIPTION:NCAA FBS Football 2026\nStanford Cardinal @ Duke Blue Devils\nW
- allace Wade Stadium\, Durham\, NC
+ allace Wade Stadium\, Durham\, NC\nBroadcast: CW
 LOCATION:Wallace Wade Stadium\, Durham\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858240@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260927T023000Z
 DTEND:20260927T053000Z
 SUMMARY:Georgia Tech Yellow Jackets @ Stanford Cardinal
 DESCRIPTION:NCAA FBS Football 2026\nGeorgia Tech Yellow Jackets @ Stanford 
- Cardinal\nStanford Stadium\, Stanford\, CA
+ Cardinal\nStanford Stadium\, Stanford\, CA\nBroadcast: ESPN
 LOCATION:Stanford Stadium\, Stanford\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858251@open-sports-cal
@@ -64,12 +68,14 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Stanford Cardinal @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA FBS Football 2026\nStanford Cardinal @ Wake Forest Demon D
- eacons\nAllegacy Federal Credit Union Stadium\, Winston-Salem\, NC
+ eacons\nAllegacy Federal Credit Union Stadium\, Winston-Salem\, NC\nBroadc
+ ast: ACC Network
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858257@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261010T193000Z
 DTEND:20261010T223000Z
 SUMMARY:Stanford Cardinal @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA FBS Football 2026\nStanford Cardinal @ Notre Dame Fighting
-  Irish\nNotre Dame Stadium\, Notre Dame\, IN
+  Irish\nNotre Dame Stadium\, Notre Dame\, IN\nBroadcast: NBC
 LOCATION:Notre Dame Stadium\, Notre Dame\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858262@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261017T233000Z
 DTEND:20261018T023000Z
 SUMMARY:Elon Phoenix @ Stanford Cardinal
 DESCRIPTION:NCAA FBS Football 2026\nElon Phoenix @ Stanford Cardinal\nStanf
- ord Stadium\, Stanford\, CA
+ ord Stadium\, Stanford\, CA\nBroadcast: ACCNX (streaming)
 LOCATION:Stanford Stadium\, Stanford\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858272@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261024T023000Z
 DTEND:20261024T053000Z
 SUMMARY:NC State Wolfpack @ Stanford Cardinal
 DESCRIPTION:NCAA FBS Football 2026\nNC State Wolfpack @ Stanford Cardinal\n
- Stanford Stadium\, Stanford\, CA
+ Stanford Stadium\, Stanford\, CA\nBroadcast: ESPN
 LOCATION:Stanford Stadium\, Stanford\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858283@open-sports-cal
@@ -116,12 +125,14 @@ DTSTART:20261031T191500Z
 DTEND:20261031T221500Z
 SUMMARY:Stanford Cardinal @ Louisville Cardinals
 DESCRIPTION:NCAA FBS Football 2026\nStanford Cardinal @ Louisville Cardinal
- s\nL&N Federal Credit Union Stadium\, Louisville\, KY
+ s\nL&N Federal Credit Union Stadium\, Louisville\, KY\nBroadcast: ACC Netw
+ ork
 LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858299@open-sports-cal
@@ -129,11 +140,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Stanford Cardinal @ Virginia Tech Hokies
 DESCRIPTION:NCAA FBS Football 2026\nStanford Cardinal @ Virginia Tech Hokie
- s\nLane Stadium\, Blacksburg\, VA\nStart time TBD
+ s\nLane Stadium\, Blacksburg\, VA\nStart time TBD\nBroadcast: Broadcast no
+ t announced
 LOCATION:Lane Stadium\, Blacksburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858308@open-sports-cal
@@ -141,11 +153,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Stanford Cardinal @ California Golden Bears
 DESCRIPTION:NCAA FBS Football 2026\nStanford Cardinal @ California Golden B
- ears\nCalifornia Memorial Stadium\, Berkeley\, CA\nStart time TBD
+ ears\nCalifornia Memorial Stadium\, Berkeley\, CA\nStart time TBD\nBroadca
+ st: Broadcast not announced
 LOCATION:California Memorial Stadium\, Berkeley\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858316@open-sports-cal
@@ -153,10 +166,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:SMU Mustangs @ Stanford Cardinal
 DESCRIPTION:NCAA FBS Football 2026\nSMU Mustangs @ Stanford Cardinal\nStanf
- ord Stadium\, Stanford\, CA\nStart time TBD
+ ord Stadium\, Stanford\, CA\nStart time TBD\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Stanford Stadium\, Stanford\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

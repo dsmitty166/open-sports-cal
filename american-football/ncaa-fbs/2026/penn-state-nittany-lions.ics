@@ -12,12 +12,13 @@ DTSTART:20260905T193000Z
 DTEND:20260905T223000Z
 SUMMARY:Marshall Thundering Herd @ Penn State Nittany Lions
 DESCRIPTION:NCAA FBS Football 2026\nMarshall Thundering Herd @ Penn State N
- ittany Lions\nBeaver Stadium\, University Park\, PA
+ ittany Lions\nBeaver Stadium\, University Park\, PA\nBroadcast: FS1
 LOCATION:Beaver Stadium\, University Park\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858442@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:Penn State Nittany Lions @ Temple Owls
 DESCRIPTION:NCAA FBS Football 2026\nPenn State Nittany Lions @ Temple Owls\
- nLincoln Financial Field\, Philadelphia\, PA
+ nLincoln Financial Field\, Philadelphia\, PA\nBroadcast: ESPN2
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858456@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 SUMMARY:Buffalo Bulls @ Penn State Nittany Lions
 DESCRIPTION:NCAA FBS Football 2026\nBuffalo Bulls @ Penn State Nittany Lion
- s\nBeaver Stadium\, University Park\, PA
+ s\nBeaver Stadium\, University Park\, PA\nBroadcast: BTN
 LOCATION:Beaver Stadium\, University Park\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858466@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20260926T210000Z
 DTEND:20260927T000000Z
 SUMMARY:Wisconsin Badgers @ Penn State Nittany Lions
 DESCRIPTION:NCAA FBS Football 2026\nWisconsin Badgers @ Penn State Nittany 
- Lions\nBeaver Stadium\, University Park\, PA
+ Lions\nBeaver Stadium\, University Park\, PA\nBroadcast: Peacock (streamin
+ g)
 LOCATION:Beaver Stadium\, University Park\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858476@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T000000Z
 DTEND:20261003T030000Z
 SUMMARY:Penn State Nittany Lions @ Northwestern Wildcats
 DESCRIPTION:NCAA FBS Football 2026\nPenn State Nittany Lions @ Northwestern
-  Wildcats\nRyan Field\, Evanston\, IL
+  Wildcats\nRyan Field\, Evanston\, IL\nBroadcast: Fox
 LOCATION:Ryan Field\, Evanston\, IL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858485@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261010T233000Z
 DTEND:20261011T023000Z
 SUMMARY:USC Trojans @ Penn State Nittany Lions
 DESCRIPTION:NCAA FBS Football 2026\nUSC Trojans @ Penn State Nittany Lions\
- nBeaver Stadium\, University Park\, PA
+ nBeaver Stadium\, University Park\, PA\nBroadcast: NBC
 LOCATION:Beaver Stadium\, University Park\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858490@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261017T193000Z
 DTEND:20261017T223000Z
 SUMMARY:Penn State Nittany Lions @ Michigan Wolverines
 DESCRIPTION:NCAA FBS Football 2026\nPenn State Nittany Lions @ Michigan Wol
- verines\nMichigan Stadium\, Ann Arbor\, MI
+ verines\nMichigan Stadium\, Ann Arbor\, MI\nBroadcast: CBS
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858506@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261031T201500Z
 DTEND:20261031T231500Z
 SUMMARY:Purdue Boilermakers @ Penn State Nittany Lions
 DESCRIPTION:NCAA FBS Football 2026\nPurdue Boilermakers @ Penn State Nittan
- y Lions\nBeaver Stadium\, University Park\, PA
+ y Lions\nBeaver Stadium\, University Park\, PA\nBroadcast: BTN
 LOCATION:Beaver Stadium\, University Park\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858516@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T203000Z
 DTEND:20261107T233000Z
 SUMMARY:Penn State Nittany Lions @ Washington Huskies
 DESCRIPTION:NCAA FBS Football 2026\nPenn State Nittany Lions @ Washington H
- uskies\nHusky Stadium\, Seattle\, WA
+ uskies\nHusky Stadium\, Seattle\, WA\nBroadcast: FS1
 LOCATION:Husky Stadium\, Seattle\, WA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858524@open-sports-cal
@@ -129,11 +139,12 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:Minnesota Golden Gophers @ Penn State Nittany Lions
 DESCRIPTION:NCAA FBS Football 2026\nMinnesota Golden Gophers @ Penn State N
- ittany Lions\nBeaver Stadium\, University Park\, PA
+ ittany Lions\nBeaver Stadium\, University Park\, PA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Beaver Stadium\, University Park\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,11 +153,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Rutgers Scarlet Knights @ Penn State Nittany Lions
 DESCRIPTION:NCAA FBS Football 2026\nRutgers Scarlet Knights @ Penn State Ni
- ttany Lions\nBeaver Stadium\, University Park\, PA\nStart time TBD
+ ttany Lions\nBeaver Stadium\, University Park\, PA\nStart time TBD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Beaver Stadium\, University Park\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858539@open-sports-cal
@@ -154,10 +166,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Penn State Nittany Lions @ Maryland Terrapins
 DESCRIPTION:NCAA FBS Football 2026\nPenn State Nittany Lions @ Maryland Ter
- rapins\nSECU Stadium\, College Park\, MD\nStart time TBD
+ rapins\nSECU Stadium\, College Park\, MD\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:SECU Stadium\, College Park\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

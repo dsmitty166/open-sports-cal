@@ -12,12 +12,13 @@ DTSTART:20260905T193000Z
 DTEND:20260905T223000Z
 SUMMARY:Furman Paladins @ Tennessee Volunteers
 DESCRIPTION:NCAA FBS Football 2026\nFurman Paladins @ Tennessee Volunteers\
- nNeyland Stadium\, Knoxville\, TN
+ nNeyland Stadium\, Knoxville\, TN\nBroadcast: SECN+ (streaming)
 LOCATION:Neyland Stadium\, Knoxville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856681@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Tennessee Volunteers @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA FBS Football 2026\nTennessee Volunteers @ Georgia Tech Yel
- low Jackets\nBobby Dodd Stadium\, Atlanta\, GA
+ low Jackets\nBobby Dodd Stadium\, Atlanta\, GA\nBroadcast: ESPN
 LOCATION:Bobby Dodd Stadium\, Atlanta\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856692@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T234500Z
 DTEND:20260920T024500Z
 SUMMARY:Kennesaw State Owls @ Tennessee Volunteers
 DESCRIPTION:NCAA FBS Football 2026\nKennesaw State Owls @ Tennessee Volunte
- ers\nNeyland Stadium\, Knoxville\, TN
+ ers\nNeyland Stadium\, Knoxville\, TN\nBroadcast: SECN+ (streaming)
 LOCATION:Neyland Stadium\, Knoxville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856704@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T160000Z
 DTEND:20260926T190000Z
 SUMMARY:Texas Longhorns @ Tennessee Volunteers
 DESCRIPTION:NCAA FBS Football 2026\nTexas Longhorns @ Tennessee Volunteers\
- nNeyland Stadium\, Knoxville\, TN
+ nNeyland Stadium\, Knoxville\, TN\nBroadcast: ABC
 LOCATION:Neyland Stadium\, Knoxville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856710@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Auburn Tigers @ Tennessee Volunteers
 DESCRIPTION:NCAA FBS Football 2026\nAuburn Tigers @ Tennessee Volunteers\nN
- eyland Stadium\, Knoxville\, TN
+ eyland Stadium\, Knoxville\, TN\nBroadcast: ESPN
 LOCATION:Neyland Stadium\, Knoxville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856713@open-sports-cal
@@ -77,12 +82,14 @@ DTSTART:20261010T201500Z
 DTEND:20261010T231500Z
 SUMMARY:Tennessee Volunteers @ Arkansas Razorbacks
 DESCRIPTION:NCAA FBS Football 2026\nTennessee Volunteers @ Arkansas Razorba
- cks\nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR
+ cks\nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR\nBroadcast: 
+ SEC Network
 LOCATION:Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856723@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261017T193000Z
 DTEND:20261017T223000Z
 SUMMARY:Alabama Crimson Tide @ Tennessee Volunteers
 DESCRIPTION:NCAA FBS Football 2026\nAlabama Crimson Tide @ Tennessee Volunt
- eers\nNeyland Stadium\, Knoxville\, TN
+ eers\nNeyland Stadium\, Knoxville\, TN\nBroadcast: ABC
 LOCATION:Neyland Stadium\, Knoxville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856731@open-sports-cal
@@ -103,12 +111,14 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:Tennessee Volunteers @ South Carolina Gamecocks
 DESCRIPTION:NCAA FBS Football 2026\nTennessee Volunteers @ South Carolina G
- amecocks\nWilliams-Brice Stadium\, Columbia\, SC
+ amecocks\nWilliams-Brice Stadium\, Columbia\, SC\nBroadcast: ESPN / Disney
+ + (streaming)
 LOCATION:Williams-Brice Stadium\, Columbia\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856745@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261107T231500Z
 DTEND:20261108T021500Z
 SUMMARY:Kentucky Wildcats @ Tennessee Volunteers
 DESCRIPTION:NCAA FBS Football 2026\nKentucky Wildcats @ Tennessee Volunteer
- s\nNeyland Stadium\, Knoxville\, TN
+ s\nNeyland Stadium\, Knoxville\, TN\nBroadcast: ESPN
 LOCATION:Neyland Stadium\, Knoxville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856888@open-sports-cal
@@ -129,11 +140,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Tennessee Volunteers @ Texas A&M Aggies
 DESCRIPTION:NCAA FBS Football 2026\nTennessee Volunteers @ Texas A&M Aggies
- \nKyle Field\, College Station\, TX\nStart time TBD
+ \nKyle Field\, College Station\, TX\nStart time TBD\nBroadcast: Broadcast 
+ not announced
 LOCATION:Kyle Field\, College Station\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856754@open-sports-cal
@@ -141,11 +153,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:LSU Tigers @ Tennessee Volunteers
 DESCRIPTION:NCAA FBS Football 2026\nLSU Tigers @ Tennessee Volunteers\nNeyl
- and Stadium\, Knoxville\, TN\nStart time TBD
+ and Stadium\, Knoxville\, TN\nStart time TBD\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Neyland Stadium\, Knoxville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856765@open-sports-cal
@@ -153,10 +166,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Tennessee Volunteers @ Vanderbilt Commodores
 DESCRIPTION:NCAA FBS Football 2026\nTennessee Volunteers @ Vanderbilt Commo
- dores\nFirstBank Stadium\, Nashville\, TN\nStart time TBD
+ dores\nFirstBank Stadium\, Nashville\, TN\nStart time TBD\nBroadcast: Broa
+ dcast not announced
 LOCATION:FirstBank Stadium\, Nashville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

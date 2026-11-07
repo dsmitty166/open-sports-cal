@@ -12,13 +12,14 @@ DTSTART:20261102T180000Z
 DTEND:20261102T210000Z
 SUMMARY:Hampton Lady Pirates @ Houston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ Houston
-  Cougars\nFertitta Center\, Houston\, TX
+  Cougars\nFertitta Center\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Fertitta Center\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915961@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261105T170000Z
 DTEND:20261105T200000Z
 SUMMARY:Hampton Lady Pirates @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ SMU Mus
- tangs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ tangs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACCNX (streaming)
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927937@open-sports-cal
@@ -40,13 +42,15 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Apprentice School Builders @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApprentice School Builders @ H
- ampton Lady Pirates\nConvocation Center (VA)\, Hampton\, VA
+ ampton Lady Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Fl
+ oSports (streaming)
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919647@open-sports-cal
@@ -54,13 +58,15 @@ DTSTART:20261114T230000Z
 DTEND:20261115T020000Z
 SUMMARY:Norfolk State Spartans @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorfolk State Spartans @ Hampt
- on Lady Pirates\nConvocation Center (VA)\, Hampton\, VA
+ on Lady Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: FloSpo
+ rts (streaming)
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920338@open-sports-cal
@@ -68,13 +74,15 @@ DTSTART:20261117T000000Z
 DTEND:20261117T030000Z
 SUMMARY:Hampton Lady Pirates @ High Point Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ High Po
- int Panthers\nQubein Center\, High Point\, NC
+ int Panthers\nQubein Center\, High Point\, NC\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Qubein Center\, High Point\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927938@open-sports-cal
@@ -82,13 +90,15 @@ DTSTART:20261122T190000Z
 DTEND:20261122T220000Z
 SUMMARY:Hampton Lady Pirates @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ Delawar
- e Blue Hens\nBob Carpenter Center\, Newark\, DE
+ e Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401909675@open-sports-cal
@@ -96,13 +106,14 @@ DTSTART:20261130T220000Z
 DTEND:20261201T010000Z
 SUMMARY:Hampton Lady Pirates @ Winthrop Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ Winthro
- p Eagles\nWinthrop Coliseum\, Rock Hill\, SC
+ p Eagles\nWinthrop Coliseum\, Rock Hill\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Winthrop Coliseum\, Rock Hill\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927939@open-sports-cal
@@ -110,12 +121,13 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:Hampton Lady Pirates @ Howard Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ Howard 
- Bison\nBurr Gymnasium\, Washington\, DC
+ Bison\nBurr Gymnasium\, Washington\, DC\nBroadcast: Broadcast not announce
+ d
 LOCATION:Burr Gymnasium\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +136,13 @@ DTSTART:20261215T000000Z
 DTEND:20261215T030000Z
 SUMMARY:Saint Francis Red Wolves @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Francis Red Wolves @ Ham
- pton Lady Pirates\nConvocation Center (VA)\, Hampton\, VA
+ pton Lady Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broa
+ dcast not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -139,13 +152,14 @@ DTEND:20261218T213000Z
 SUMMARY:Hampton Lady Pirates @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ North C
  arolina Central Eagles\nOcean Bank Convocation Center\, Miami\, FL\nNeutra
- l site
+ l site\nBroadcast: ESPN+ (streaming)
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927941@open-sports-cal
@@ -154,12 +168,14 @@ DTEND:20261219T213000Z
 SUMMARY:Morgan State Lady Bears @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Hamp
  ton Lady Pirates\nOcean Bank Convocation Center\, Miami\, FL\nNeutral site
+ \nBroadcast: ESPN+ (streaming)
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401903584@open-sports-cal
@@ -167,12 +183,13 @@ DTSTART:20270101T190000Z
 DTEND:20270101T220000Z
 SUMMARY:Hampton Lady Pirates @ North Carolina A&T Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ North C
- arolina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC
+ arolina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC\nBroadcast: Br
+ oadcast not announced
 LOCATION:Corbett Sports Center\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -181,12 +198,13 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:Hampton Lady Pirates @ Campbell Fighting Camels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ Campbel
- l Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ l Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\
+ nBroadcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -195,12 +213,13 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:Charleston Cougars @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Hampton L
- ady Pirates\nConvocation Center (VA)\, Hampton\, VA
+ ady Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -209,12 +228,13 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:Northeastern Huskies @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Hampton
-  Lady Pirates\nConvocation Center (VA)\, Hampton\, VA
+  Lady Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -223,12 +243,13 @@ DTSTART:20270116T000000Z
 DTEND:20270116T030000Z
 SUMMARY:Hampton Lady Pirates @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ William
-  & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+  & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -237,12 +258,12 @@ DTSTART:20270117T190000Z
 DTEND:20270117T220000Z
 SUMMARY:Hampton Lady Pirates @ Towson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ Towson 
- Tigers\nSECU Arena\, Towson\, MD
+ Tigers\nSECU Arena\, Towson\, MD\nBroadcast: Broadcast not announced
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -251,12 +272,13 @@ DTSTART:20270123T000000Z
 DTEND:20270123T030000Z
 SUMMARY:UNC Wilmington Seahawks @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Wilmington Seahawks @ Hamp
- ton Lady Pirates\nConvocation Center (VA)\, Hampton\, VA
+ ton Lady Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broad
+ cast not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -265,12 +287,13 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Hofstra Pride @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHofstra Pride @ Hampton Lady P
- irates\nConvocation Center (VA)\, Hampton\, VA
+ irates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -279,12 +302,12 @@ DTSTART:20270130T000000Z
 DTEND:20270130T030000Z
 SUMMARY:Hampton Lady Pirates @ Elon Phoenix
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ Elon Ph
- oenix\nSchar Center\, Elon\, NC
+ oenix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -293,12 +316,13 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:William & Mary Tribe @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Hampton
-  Lady Pirates\nConvocation Center (VA)\, Hampton\, VA
+  Lady Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +331,13 @@ DTSTART:20270206T000000Z
 DTEND:20270206T030000Z
 SUMMARY:North Carolina A&T Aggies @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina A&T Aggies @ Ha
- mpton Lady Pirates\nConvocation Center (VA)\, Hampton\, VA
+ mpton Lady Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -321,12 +346,13 @@ DTSTART:20270212T180000Z
 DTEND:20270212T210000Z
 SUMMARY:Hampton Lady Pirates @ Stony Brook Seawolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ Stony B
- rook Seawolves\nStony Brook Arena\, Stony Brook\, NY
+ rook Seawolves\nStony Brook Arena\, Stony Brook\, NY\nBroadcast: Broadcast
+  not announced
 LOCATION:Stony Brook Arena\, Stony Brook\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -335,12 +361,13 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Hampton Lady Pirates @ Monmouth Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ Monmout
- h Hawks\nOceanFirst Bank Center\, West Long Branch\, NJ
+ h Hawks\nOceanFirst Bank Center\, West Long Branch\, NJ\nBroadcast: Broadc
+ ast not announced
 LOCATION:OceanFirst Bank Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,12 +376,13 @@ DTSTART:20270219T230000Z
 DTEND:20270220T020000Z
 SUMMARY:Hampton Lady Pirates @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ UNC Wil
- mington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ mington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +391,13 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:Drexel Dragons @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDrexel Dragons @ Hampton Lady 
- Pirates\nConvocation Center (VA)\, Hampton\, VA
+ Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +406,13 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:Towson Tigers @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTowson Tigers @ Hampton Lady P
- irates\nConvocation Center (VA)\, Hampton\, VA
+ irates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +421,13 @@ DTSTART:20270228T190000Z
 DTEND:20270228T220000Z
 SUMMARY:Elon Phoenix @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nElon Phoenix @ Hampton Lady Pi
- rates\nConvocation Center (VA)\, Hampton\, VA
+ rates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +436,13 @@ DTSTART:20270305T000000Z
 DTEND:20270305T030000Z
 SUMMARY:Hampton Lady Pirates @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ Charles
- ton Cougars\nTD Arena\, Charleston\, SC
+ ton Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announce
+ d
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

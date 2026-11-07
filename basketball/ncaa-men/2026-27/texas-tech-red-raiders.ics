@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Jackson State Tigers @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Texas Tec
- h Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ h Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: CBSSN
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921133@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261106T020000Z
 DTEND:20261106T050000Z
 SUMMARY:Bethune-Cookman Wildcats @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Texas
-  Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+  Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913527@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
 SUMMARY:Illinois Fighting Illini @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Texas
-  Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+  Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: Pe
+ acock (streaming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919847@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Stonehill Skyhawks @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Texas Tech 
- Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921134@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261119T003000Z
 DTEND:20261119T033000Z
 SUMMARY:LSU New Orleans Privateers @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU New Orleans Privateers @ Tex
- as Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ as Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401915942@open-sports-cal
@@ -77,12 +86,14 @@ DTSTART:20261125T010000Z
 DTEND:20261125T040000Z
 SUMMARY:Texas Tech Red Raiders @ Louisville Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Louisvi
- lle Cardinals\nMichelob ULTRA Arena\, Las Vegas\, NV\nNeutral site
+ lle Cardinals\nMichelob ULTRA Arena\, Las Vegas\, NV\nNeutral site\nBroadc
+ ast: ESPN
 LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921135@open-sports-cal
@@ -90,12 +101,14 @@ DTSTART:20261209T003000Z
 DTEND:20261209T033000Z
 SUMMARY:Omaha Mavericks @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOmaha Mavericks @ Texas Tech Red
-  Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+  Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921136@open-sports-cal
@@ -103,12 +116,13 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:USC Trojans @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUSC Trojans @ Texas Tech Red Rai
- ders\nDickies Arena\, Fort Worth\, TX\nNeutral site
+ ders\nDickies Arena\, Fort Worth\, TX\nNeutral site\nBroadcast: ESPN2
 LOCATION:Dickies Arena\, Fort Worth\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921137@open-sports-cal
@@ -116,11 +130,12 @@ DTSTART:20261216T003000Z
 DTEND:20261216T033000Z
 SUMMARY:Incarnate Word Cardinals @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIncarnate Word Cardinals @ Texas
-  Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+  Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: Br
+ oadcast not announced
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -129,11 +144,12 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Texas Tech Red Raiders @ Duke Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Duke Bl
- ue Devils\nMadison Square Garden\, New York\, NY\nNeutral site
+ ue Devils\nMadison Square Garden\, New York\, NY\nNeutral site\nBroadcast:
+  Broadcast not announced
 LOCATION:Madison Square Garden\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +158,14 @@ DTSTART:20261229T003000Z
 DTEND:20261229T033000Z
 SUMMARY:Mississippi Valley State Delta Devils @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi Valley State Delta D
- evils @ Texas Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ evils @ Texas Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\n
+ Broadcast: ESPN+ (streaming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922774@open-sports-cal
@@ -155,12 +173,13 @@ DTSTART:20270102T170000Z
 DTEND:20270102T200000Z
 SUMMARY:Texas Tech Red Raiders @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Cincinn
- ati Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ ati Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: Fox
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922781@open-sports-cal
@@ -168,12 +187,14 @@ DTSTART:20270107T010000Z
 DTEND:20270107T040000Z
 SUMMARY:Baylor Bears @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBaylor Bears @ Texas Tech Red Ra
- iders\nUnited Supermarkets Arena\, Lubbock\, TX
+ iders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: Peacock (strea
+ ming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922790@open-sports-cal
@@ -181,12 +202,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Texas Tech Red Raiders @ TCU Horned Frogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ TCU Hor
- ned Frogs\nSchollmaier Arena\, Fort Worth\, TX
+ ned Frogs\nSchollmaier Arena\, Fort Worth\, TX\nBroadcast: TNT
 LOCATION:Schollmaier Arena\, Fort Worth\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922793@open-sports-cal
@@ -194,12 +216,14 @@ DTSTART:20270113T030000Z
 DTEND:20270113T060000Z
 SUMMARY:Arizona State Sun Devils @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArizona State Sun Devils @ Texas
-  Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+  Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: FS
+ 1
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922805@open-sports-cal
@@ -207,11 +231,12 @@ DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
 SUMMARY:Iowa State Cyclones @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa State Cyclones @ Texas Tech
-  Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+  Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: Broadca
+ st not announced
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +245,12 @@ DTSTART:20270120T000000Z
 DTEND:20270120T030000Z
 SUMMARY:Texas Tech Red Raiders @ Houston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Houston
-  Cougars\nFertitta Center\, Houston\, TX
+  Cougars\nFertitta Center\, Houston\, TX\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Fertitta Center\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,12 +259,13 @@ DTSTART:20270123T010000Z
 DTEND:20270123T040000Z
 SUMMARY:Arizona Wildcats @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArizona Wildcats @ Texas Tech Re
- d Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ d Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: Fox
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922827@open-sports-cal
@@ -246,12 +273,14 @@ DTSTART:20270128T020000Z
 DTEND:20270128T050000Z
 SUMMARY:Texas Tech Red Raiders @ Oklahoma State Cowboys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Oklahom
- a State Cowboys\nGallagher-Iba Arena\, Stillwater\, OK
+ a State Cowboys\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: Peacock
+  (streaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922696@open-sports-cal
@@ -259,11 +288,12 @@ DTSTART:20270130T210000Z
 DTEND:20270131T000000Z
 SUMMARY:UCF Knights @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUCF Knights @ Texas Tech Red Rai
- ders\nUnited Supermarkets Arena\, Lubbock\, TX
+ ders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -272,12 +302,13 @@ DTSTART:20270203T040000Z
 DTEND:20270203T070000Z
 SUMMARY:Texas Tech Red Raiders @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Colorad
- o Buffaloes\nCU Events Center\, Boulder\, CO
+ o Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922712@open-sports-cal
@@ -285,12 +316,13 @@ DTSTART:20270206T170000Z
 DTEND:20270206T200000Z
 SUMMARY:Texas Tech Red Raiders @ Kansas Jayhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Kansas 
- Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+ Jayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ABC
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922726@open-sports-cal
@@ -298,12 +330,14 @@ DTSTART:20270213T230000Z
 DTEND:20270214T020000Z
 SUMMARY:West Virginia Mountaineers @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Virginia Mountaineers @ Tex
- as Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ as Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: 
+ ESPN2
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920525@open-sports-cal
@@ -311,12 +345,13 @@ DTSTART:20270216T020000Z
 DTEND:20270216T050000Z
 SUMMARY:Houston Cougars @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHouston Cougars @ Texas Tech Red
-  Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+  Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: ESPN
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922739@open-sports-cal
@@ -324,11 +359,12 @@ DTSTART:20270220T230000Z
 DTEND:20270221T020000Z
 SUMMARY:Texas Tech Red Raiders @ UCF Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ UCF Kni
- ghts\nAddition Financial Arena\, Orlando\, FL
+ ghts\nAddition Financial Arena\, Orlando\, FL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Addition Financial Arena\, Orlando\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +373,12 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:Texas Tech Red Raiders @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Kansas 
- State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +387,12 @@ DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Cincinnati Bearcats @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ Texas Tech
-  Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nStart time TBD
+  Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nStart time TBD\nBr
+ oadcast: Broadcast not announced
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922758@open-sports-cal
@@ -362,11 +400,12 @@ DTSTART:20270303T040000Z
 DTEND:20270303T070000Z
 SUMMARY:Texas Tech Red Raiders @ Utah Utes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Utah Ut
- es\nJon M. Huntsman Center\, Salt Lake City\, UT
+ es\nJon M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: Broadcast not
+  announced
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -375,11 +414,12 @@ DTSTART:20270306T020000Z
 DTEND:20270306T050000Z
 SUMMARY:BYU Cougars @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBYU Cougars @ Texas Tech Red Rai
- ders\nUnited Supermarkets Arena\, Lubbock\, TX
+ ders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: FS1
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 END:VCALENDAR

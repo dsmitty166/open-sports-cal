@@ -12,12 +12,13 @@ DTSTART:20261103T020000Z
 DTEND:20261103T050000Z
 SUMMARY:North Dakota State Bison @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Dakota State Bison @ Gon
- zaga Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ zaga Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: Broadc
+ ast not announced
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -26,13 +27,15 @@ DTSTART:20261107T020000Z
 DTEND:20261107T050000Z
 SUMMARY:Idaho Vandals @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Gonzaga Bulldo
- gs\nMcCarthey Athletic Center\, Spokane\, WA
+ gs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: YouTube (streamin
+ g)
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928298@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261108T220000Z
 DTEND:20261109T010000Z
 SUMMARY:UC Riverside Highlanders @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Riverside Highlanders @ Gon
- zaga Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ zaga Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: YouTub
+ e (streaming)
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920260@open-sports-cal
@@ -54,13 +59,14 @@ DTSTART:20261114T010000Z
 DTEND:20261114T040000Z
 SUMMARY:Gonzaga Bulldogs @ Grand Canyon Lopes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Grand Canyo
- n Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ n Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: CW
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915981@open-sports-cal
@@ -68,13 +74,14 @@ DTSTART:20261115T220000Z
 DTEND:20261116T010000Z
 SUMMARY:Gonzaga Bulldogs @ Stanford Cardinal
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Stanford Ca
- rdinal\nMaples Pavilion\, Stanford\, CA
+ rdinal\nMaples Pavilion\, Stanford\, CA\nBroadcast: ACCNX (streaming)
 LOCATION:Maples Pavilion\, Stanford\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926987@open-sports-cal
@@ -82,12 +89,13 @@ DTSTART:20261119T020000Z
 DTEND:20261119T050000Z
 SUMMARY:Montana Lady Griz @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana Lady Griz @ Gonzaga Bu
- lldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ lldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: Broadcast not
+  announced
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -96,12 +104,13 @@ DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
 SUMMARY:Gonzaga Bulldogs @ Hawai'i Rainbow Wahine
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Hawai'i Rai
- nbow Wahine\nGeorge Q. Cannon Activities Center\, Laie\, HI\nNeutral site
+ nbow Wahine\nGeorge Q. Cannon Activities Center\, Laie\, HI\nNeutral site\
+ nBroadcast: Broadcast not announced
 LOCATION:George Q. Cannon Activities Center\, Laie\, HI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -111,11 +120,12 @@ DTEND:20261124T020000Z
 SUMMARY:Gonzaga Bulldogs @ California Golden Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ California 
  Golden Bears\nGeorge Q. Cannon Activities Center\, Laie\, HI\nNeutral site
+ \nBroadcast: Broadcast not announced
 LOCATION:George Q. Cannon Activities Center\, Laie\, HI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +134,14 @@ DTSTART:20261129T220000Z
 DTEND:20261130T010000Z
 SUMMARY:Gonzaga Bulldogs @ Eastern Washington Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Eastern Was
- hington Eagles\nReese Court\, Cheney\, WA
+ hington Eagles\nReese Court\, Cheney\, WA\nBroadcast: ESPN+ (streaming)
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917189@open-sports-cal
@@ -138,12 +149,13 @@ DTSTART:20261205T020000Z
 DTEND:20261205T050000Z
 SUMMARY:Yale Bulldogs @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nYale Bulldogs @ Gonzaga Bulldo
- gs\nMcCarthey Athletic Center\, Spokane\, WA
+ gs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -152,12 +164,13 @@ DTSTART:20261206T210000Z
 DTEND:20261207T000000Z
 SUMMARY:Gonzaga Bulldogs @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Arizona Sta
- te Sun Devils\nMullett Arena\, Tempe\, AZ
+ te Sun Devils\nMullett Arena\, Tempe\, AZ\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Mullett Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -166,12 +179,13 @@ DTSTART:20261211T020000Z
 DTEND:20261211T050000Z
 SUMMARY:Loyola Marymount Lions @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Marymount Lions @ Gonza
- ga Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ ga Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: Broadcas
+ t not announced
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +194,13 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Gonzaga Bulldogs @ Michigan State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Michigan St
- ate Spartans\nAcrisure Arena\, Palm Springs\, CA\nNeutral site
+ ate Spartans\nAcrisure Arena\, Palm Springs\, CA\nNeutral site\nBroadcast:
+  Broadcast not announced
 LOCATION:Acrisure Arena\, Palm Springs\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +209,13 @@ DTSTART:20261231T020000Z
 DTEND:20261231T050000Z
 SUMMARY:South Dakota State Jackrabbits @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota State Jackrabbits
-  @ Gonzaga Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+  @ Gonzaga Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: 
+ Broadcast not announced
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +224,13 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:St. Thomas Tommies @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. Thomas Tommies @ Gonzaga B
- ulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ ulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: Broadcast no
+ t announced
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +239,13 @@ DTSTART:20270107T020000Z
 DTEND:20270107T050000Z
 SUMMARY:Oregon State Beavers @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon State Beavers @ Gonzaga
-  Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+  Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: Broadcast 
+ not announced
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +254,13 @@ DTSTART:20270110T010000Z
 DTEND:20270110T040000Z
 SUMMARY:Gonzaga Bulldogs @ Fresno State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Fresno Stat
- e Bulldogs\nSave Mart Center\, Fresno\, CA
+ e Bulldogs\nSave Mart Center\, Fresno\, CA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Save Mart Center\, Fresno\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +269,13 @@ DTSTART:20270114T020000Z
 DTEND:20270114T050000Z
 SUMMARY:Texas State Bobcats @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas State Bobcats @ Gonzaga 
- Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +284,12 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Gonzaga Bulldogs @ Boise State Broncos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Boise State
-  Broncos\nExtraMile Arena\, Boise\, ID
+  Broncos\nExtraMile Arena\, Boise\, ID\nBroadcast: Broadcast not announced
 LOCATION:ExtraMile Arena\, Boise\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +298,13 @@ DTSTART:20270122T020000Z
 DTEND:20270122T050000Z
 SUMMARY:Gonzaga Bulldogs @ San Diego State Aztecs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ San Diego S
- tate Aztecs\nViejas Arena\, San Diego\, CA
+ tate Aztecs\nViejas Arena\, San Diego\, CA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Viejas Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +313,13 @@ DTSTART:20270129T020000Z
 DTEND:20270129T050000Z
 SUMMARY:Utah State Aggies @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah State Aggies @ Gonzaga Bu
- lldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ lldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: Broadcast not
+  announced
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +328,13 @@ DTSTART:20270131T220000Z
 DTEND:20270201T010000Z
 SUMMARY:Fresno State Bulldogs @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFresno State Bulldogs @ Gonzag
- a Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ a Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: Broadcast
+  not announced
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -320,13 +343,14 @@ DTSTART:20270204T030000Z
 DTEND:20270204T060000Z
 SUMMARY:Gonzaga Bulldogs @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Colorado St
- ate Rams\nMoby Arena\, Fort Collins\, CO
+ ate Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: USA Net
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:USA Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928305@open-sports-cal
@@ -334,13 +358,14 @@ DTSTART:20270207T040000Z
 DTEND:20270207T070000Z
 SUMMARY:San Diego State Aztecs @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Diego State Aztecs @ Gonza
- ga Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ ga Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: CW
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928306@open-sports-cal
@@ -348,13 +373,14 @@ DTSTART:20270212T040000Z
 DTEND:20270212T070000Z
 SUMMARY:Gonzaga Bulldogs @ Oregon State Beavers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Oregon Stat
- e Beavers\nGill Coliseum\, Corvallis\, OR
+ e Beavers\nGill Coliseum\, Corvallis\, OR\nBroadcast: USA Net
 LOCATION:Gill Coliseum\, Corvallis\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:USA Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928307@open-sports-cal
@@ -362,13 +388,14 @@ DTSTART:20270218T030000Z
 DTEND:20270218T060000Z
 SUMMARY:Gonzaga Bulldogs @ Washington State Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Washington 
- State Cougars\nBeasley Coliseum\, Pullman\, WA
+ State Cougars\nBeasley Coliseum\, Pullman\, WA\nBroadcast: USA Net
 LOCATION:Beasley Coliseum\, Pullman\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:USA Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928258@open-sports-cal
@@ -376,12 +403,13 @@ DTSTART:20270220T220000Z
 DTEND:20270221T010000Z
 SUMMARY:Boise State Broncos @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBoise State Broncos @ Gonzaga 
- Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -390,13 +418,14 @@ DTSTART:20270225T030000Z
 DTEND:20270225T060000Z
 SUMMARY:Colorado State Rams @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Gonzaga 
- Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: USA Net
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:USA Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928308@open-sports-cal
@@ -404,12 +433,13 @@ DTSTART:20270228T023000Z
 DTEND:20270228T053000Z
 SUMMARY:Gonzaga Bulldogs @ Utah State Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Utah State 
- Aggies\nDee Glen Smith Spectrum\, Logan\, UT
+ Aggies\nDee Glen Smith Spectrum\, Logan\, UT\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Dee Glen Smith Spectrum\, Logan\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +448,13 @@ DTSTART:20270304T010000Z
 DTEND:20270304T040000Z
 SUMMARY:Gonzaga Bulldogs @ Texas State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Texas State
-  Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, TX
+  Bobcats\nStrahan Arena at the University Events Center\, San Marcos\, TX\
+ nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +463,13 @@ DTSTART:20270307T030000Z
 DTEND:20270307T060000Z
 SUMMARY:Washington State Cougars @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWashington State Cougars @ Gon
- zaga Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA
+ zaga Bulldogs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: CW
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CW
 END:VEVENT
 END:VCALENDAR

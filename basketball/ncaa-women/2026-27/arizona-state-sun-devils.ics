@@ -12,13 +12,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Jackson State Lady Tigers @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJackson State Lady Tigers @ Ar
- izona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ izona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916081@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T013000Z
 DTEND:20261106T043000Z
 SUMMARY:Northern Arizona Lumberjacks @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Arizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+  Arizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916082@open-sports-cal
@@ -40,13 +44,14 @@ DTSTART:20261111T023000Z
 DTEND:20261111T053000Z
 SUMMARY:Arizona State Sun Devils @ UNLV Lady Rebels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ UNL
- V Lady Rebels\nThe Pavilion\, Las Vegas\, NV
+ V Lady Rebels\nThe Pavilion\, Las Vegas\, NV\nBroadcast: MW+ (streaming)
 LOCATION:The Pavilion\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916083@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261115T210000Z
 DTEND:20261116T000000Z
 SUMMARY:Penn State Lady Lions @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPenn State Lady Lions @ Arizon
- a State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ a State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916084@open-sports-cal
@@ -68,13 +75,15 @@ DTSTART:20261118T013000Z
 DTEND:20261118T043000Z
 SUMMARY:San Diego Toreros @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Diego Toreros @ Arizona St
- ate Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ ate Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916085@open-sports-cal
@@ -82,13 +91,14 @@ DTSTART:20261121T013000Z
 DTEND:20261121T043000Z
 SUMMARY:Santa Clara Broncos @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSanta Clara Broncos @ Arizona 
- State Sun Devils\nMullett Arena\, Tempe\, AZ
+ State Sun Devils\nMullett Arena\, Tempe\, AZ\nBroadcast: ESPN+ (streaming)
 LOCATION:Mullett Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916086@open-sports-cal
@@ -96,13 +106,15 @@ DTSTART:20261125T013000Z
 DTEND:20261125T043000Z
 SUMMARY:San José State Spartans @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan José State Spartans @ Ari
- zona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ zona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916087@open-sports-cal
@@ -110,13 +122,15 @@ DTSTART:20261128T213000Z
 DTEND:20261129T003000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Bakersfield Roadrunn
- ers @ Arizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ ers @ Arizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906110@open-sports-cal
@@ -124,13 +138,15 @@ DTSTART:20261129T193000Z
 DTEND:20261129T223000Z
 SUMMARY:Wake Forest Demon Deacons @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Ar
- izona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ izona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916088@open-sports-cal
@@ -138,12 +154,13 @@ DTSTART:20261206T210000Z
 DTEND:20261207T000000Z
 SUMMARY:Gonzaga Bulldogs @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGonzaga Bulldogs @ Arizona Sta
- te Sun Devils\nMullett Arena\, Tempe\, AZ
+ te Sun Devils\nMullett Arena\, Tempe\, AZ\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Mullett Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -152,13 +169,15 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ Arizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ @ Arizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401903563@open-sports-cal
@@ -167,11 +186,12 @@ DTEND:20261213T023000Z
 SUMMARY:Arizona State Sun Devils @ Washington State Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Was
  hington State Cougars\nJenny Craig Pavilion\, San Diego\, CA\nNeutral site
+ \nBroadcast: Broadcast not announced
 LOCATION:Jenny Craig Pavilion\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +200,13 @@ DTSTART:20261213T233000Z
 DTEND:20261214T023000Z
 SUMMARY:Colorado State Rams @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado State Rams @ Arizona 
- State Sun Devils\nJenny Craig Pavilion\, San Diego\, CA\nNeutral site
+ State Sun Devils\nJenny Craig Pavilion\, San Diego\, CA\nNeutral site\nBro
+ adcast: Broadcast not announced
 LOCATION:Jenny Craig Pavilion\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +215,13 @@ DTSTART:20261218T030000Z
 DTEND:20261218T060000Z
 SUMMARY:Arizona State Sun Devils @ Stanford Cardinal
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Sta
- nford Cardinal\nMaples Pavilion\, Stanford\, CA
+ nford Cardinal\nMaples Pavilion\, Stanford\, CA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Maples Pavilion\, Stanford\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -208,13 +230,14 @@ DTSTART:20261221T200000Z
 DTEND:20261221T230000Z
 SUMMARY:Utah Utes @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah Utes @ Arizona State Sun 
- Devils\nDesert Financial Arena\, Tempe\, AZ
+ Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: ESPN+ (streaming)
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922865@open-sports-cal
@@ -222,12 +245,13 @@ DTSTART:20261231T010000Z
 DTEND:20261231T040000Z
 SUMMARY:Arizona State Sun Devils @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Col
- orado Buffaloes\nCU Events Center\, Boulder\, CO
+ orado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not
+  announced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +260,13 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:Arizona State Sun Devils @ UCF Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ UCF
-  Knights\nAddition Financial Arena\, Orlando\, FL
+  Knights\nAddition Financial Arena\, Orlando\, FL\nBroadcast: Broadcast no
+ t announced
 LOCATION:Addition Financial Arena\, Orlando\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +275,13 @@ DTSTART:20270107T013000Z
 DTEND:20270107T043000Z
 SUMMARY:Iowa State Cyclones @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa State Cyclones @ Arizona 
- State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: Broadcas
+ t not announced
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +290,12 @@ DTSTART:20270109T230000Z
 DTEND:20270110T020000Z
 SUMMARY:Arizona State Sun Devils @ BYU Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ BYU
-  Cougars\nMarriott Center\, Provo\, UT
+  Cougars\nMarriott Center\, Provo\, UT\nBroadcast: Broadcast not announced
 LOCATION:Marriott Center\, Provo\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +304,13 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Texas Tech Lady Raiders @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Tech Lady Raiders @ Ariz
- ona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ ona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: Broa
+ dcast not announced
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -292,13 +319,14 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:TCU Horned Frogs @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTCU Horned Frogs @ Arizona Sta
- te Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ te Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: CBSSN
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922923@open-sports-cal
@@ -306,12 +334,13 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Arizona State Sun Devils @ Kansas State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Kan
- sas State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ sas State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: Broadca
+ st not announced
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +349,13 @@ DTSTART:20270128T003000Z
 DTEND:20270128T033000Z
 SUMMARY:Arizona State Sun Devils @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Kan
- sas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+ sas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +364,13 @@ DTSTART:20270130T210000Z
 DTEND:20270131T000000Z
 SUMMARY:Arizona Wildcats @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona Wildcats @ Arizona Sta
- te Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ te Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +379,13 @@ DTSTART:20270204T030000Z
 DTEND:20270204T060000Z
 SUMMARY:West Virginia Mountaineers @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWest Virginia Mountaineers @ A
- rizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ rizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: B
+ roadcast not announced
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +394,13 @@ DTSTART:20270207T230000Z
 DTEND:20270208T020000Z
 SUMMARY:Arizona State Sun Devils @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Okl
- ahoma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ ahoma State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: Br
+ oadcast not announced
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +409,13 @@ DTSTART:20270211T010000Z
 DTEND:20270211T040000Z
 SUMMARY:Arizona State Sun Devils @ Houston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Hou
- ston Cougars\nFertitta Center\, Houston\, TX
+ ston Cougars\nFertitta Center\, Houston\, TX\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Fertitta Center\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +424,13 @@ DTSTART:20270213T193000Z
 DTEND:20270213T223000Z
 SUMMARY:Cincinnati Bearcats @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCincinnati Bearcats @ Arizona 
- State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: Broadcas
+ t not announced
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -404,13 +439,14 @@ DTSTART:20270217T030000Z
 DTEND:20270217T060000Z
 SUMMARY:Baylor Bears @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBaylor Bears @ Arizona State S
- un Devils\nDesert Financial Arena\, Tempe\, AZ
+ un Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: FS1
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922977@open-sports-cal
@@ -418,12 +454,13 @@ DTSTART:20270221T210000Z
 DTEND:20270222T000000Z
 SUMMARY:Arizona State Sun Devils @ Utah Utes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Uta
- h Utes\nJon M. Huntsman Center\, Salt Lake City\, UT
+ h Utes\nJon M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: Broadcast
+  not announced
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +469,13 @@ DTSTART:20270225T013000Z
 DTEND:20270225T043000Z
 SUMMARY:Colorado Buffaloes @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Arizona S
- tate Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ tate Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: Broadcast
+  not announced
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -446,12 +484,13 @@ DTSTART:20270228T210000Z
 DTEND:20270301T000000Z
 SUMMARY:Arizona State Sun Devils @ Arizona Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Ari
- zona Wildcats\nMcKale Center at ALKEME Arena\, Tucson\, AZ
+ zona Wildcats\nMcKale Center at ALKEME Arena\, Tucson\, AZ\nBroadcast: Bro
+ adcast not announced
 LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 END:VCALENDAR

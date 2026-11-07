@@ -12,13 +12,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Florida Atlantic Owls @ Miami Hurricanes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ Miami 
- Hurricanes\nWatsco Center\, Coral Gables\, FL
+ Hurricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: ACCNX (streaming
+ )
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926031@open-sports-cal
@@ -27,13 +29,14 @@ DTEND:20261107T220000Z
 SUMMARY:Kennesaw State Owls @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKennesaw State Owls @ Florida 
  Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, 
- FL
+ FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915907@open-sports-cal
@@ -41,13 +44,15 @@ DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Duke Blue Devils @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDuke Blue Devils @ Florida Atl
- antic Owls\nAmerican Airlines Center\, Dallas\, TX\nNeutral site
+ antic Owls\nAmerican Airlines Center\, Dallas\, TX\nNeutral site\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:American Airlines Center\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926032@open-sports-cal
@@ -56,13 +61,14 @@ DTEND:20261111T210000Z
 SUMMARY:South Alabama Jaguars @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Alabama Jaguars @ Florid
  a Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\
- , FL
+ , FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926033@open-sports-cal
@@ -70,13 +76,15 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Florida Atlantic Owls @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ Florid
- a Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ a Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906895@open-sports-cal
@@ -84,13 +92,15 @@ DTSTART:20261119T230000Z
 DTEND:20261120T020000Z
 SUMMARY:Florida Atlantic Owls @ Florida Gators
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ Florid
- a Gators\nStephen C. O'Connell Center\, Gainesville\, FL
+ a Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: SECN+
+  (streaming)
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926034@open-sports-cal
@@ -99,13 +109,14 @@ DTEND:20261127T220000Z
 SUMMARY:Western Kentucky Lady Toppers @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Kentucky Lady Toppers 
  @ Florida Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boc
- a Raton\, FL
+ a Raton\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926035@open-sports-cal
@@ -113,13 +124,15 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:Buffalo Bulls @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBuffalo Bulls @ Florida Atlant
- ic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+ ic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL\nBr
+ oadcast: ESPN+ (streaming)
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926036@open-sports-cal
@@ -127,12 +140,13 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:Florida Atlantic Owls @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ Florid
- a International Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ a International Panthers\nOcean Bank Convocation Center\, Miami\, FL\nBroa
+ dcast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,13 +156,14 @@ DTEND:20261208T190000Z
 SUMMARY:Stony Brook Seawolves @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStony Brook Seawolves @ Florid
  a Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\
- , FL
+ , FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919065@open-sports-cal
@@ -156,13 +171,15 @@ DTSTART:20261215T233000Z
 DTEND:20261216T023000Z
 SUMMARY:Florida Atlantic Owls @ UCF Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ UCF Kn
- ights\nAddition Financial Arena\, Orlando\, FL
+ ights\nAddition Financial Arena\, Orlando\, FL\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Addition Financial Arena\, Orlando\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926038@open-sports-cal
@@ -171,13 +188,14 @@ DTEND:20261219T220000Z
 SUMMARY:North Florida Ospreys @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Florida Ospreys @ Florid
  a Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\
- , FL
+ , FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926039@open-sports-cal
@@ -186,13 +204,14 @@ DTEND:20261220T220000Z
 SUMMARY:Kent State Golden Flashes @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKent State Golden Flashes @ Fl
  orida Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Ra
- ton\, FL
+ ton\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927630@open-sports-cal
@@ -200,13 +219,15 @@ DTSTART:20261231T000000Z
 DTEND:20261231T030000Z
 SUMMARY:UTSA Roadrunners @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUTSA Roadrunners @ Florida Atl
- antic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+ antic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL\
+ nBroadcast: ESPN+ (streaming)
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927525@open-sports-cal
@@ -214,12 +235,13 @@ DTSTART:20270103T200000Z
 DTEND:20270103T230000Z
 SUMMARY:Florida Atlantic Owls @ North Texas Mean Green
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ North 
- Texas Mean Green\nThe Super Pit\, Denton\, TX
+ Texas Mean Green\nThe Super Pit\, Denton\, TX\nBroadcast: Broadcast not an
+ nounced
 LOCATION:The Super Pit\, Denton\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -228,12 +250,12 @@ DTSTART:20270107T010000Z
 DTEND:20270107T040000Z
 SUMMARY:Florida Atlantic Owls @ Rice Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ Rice O
- wls\nTudor Fieldhouse\, Houston\, TX
+ wls\nTudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -243,12 +265,12 @@ DTEND:20270109T220000Z
 SUMMARY:Tulsa Golden Hurricane @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTulsa Golden Hurricane @ Flori
  da Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton
- \, FL
+ \, FL\nBroadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -257,12 +279,13 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Florida Atlantic Owls @ Memphis Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ Memphi
- s Tigers\nElma Roane Fieldhouse\, Memphis\, TN
+ s Tigers\nElma Roane Fieldhouse\, Memphis\, TN\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Elma Roane Fieldhouse\, Memphis\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -272,13 +295,13 @@ DTEND:20270116T230000Z
 SUMMARY:Florida Atlantic Owls @ Tulane Green Wave
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ Tulane
   Green Wave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New Orlean
- s\, LA
+ s\, LA\nBroadcast: Broadcast not announced
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -288,12 +311,12 @@ DTEND;VALUE=DATE:20270122
 SUMMARY:East Carolina Pirates @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Carolina Pirates @ Florid
  a Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\
- , FL\nStart time TBD
+ , FL\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927559@open-sports-cal
@@ -301,12 +324,13 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Florida Atlantic Owls @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ South 
- Florida Bulls\nYuengling Center\, Tampa\, FL
+ Florida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -316,12 +340,12 @@ DTEND:20270130T220000Z
 SUMMARY:Wichita State Shockers @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Flori
  da Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton
- \, FL
+ \, FL\nBroadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -331,11 +355,12 @@ DTEND:20270204T030000Z
 SUMMARY:Tulane Green Wave @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTulane Green Wave @ Florida At
  lantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+ \nBroadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -344,12 +369,13 @@ DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Florida Atlantic Owls @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ Charlo
- tte 49ers\nHalton Arena\, Charlotte\, NC\nStart time TBD
+ tte 49ers\nHalton Arena\, Charlotte\, NC\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927634@open-sports-cal
@@ -358,12 +384,12 @@ DTEND;VALUE=DATE:20270210
 SUMMARY:Florida Atlantic Owls @ East Carolina Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ East C
  arolina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC\nStar
- t time TBD
+ t time TBD\nBroadcast: Broadcast not announced
 LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927587@open-sports-cal
@@ -371,12 +397,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:UAB Blazers @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUAB Blazers @ Florida Atlantic
-  Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+  Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL\nBroa
+ dcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -385,12 +412,13 @@ DTSTART:20270217T233000Z
 DTEND:20270218T023000Z
 SUMMARY:Florida Atlantic Owls @ Temple Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ Temple
-  Owls\nLiacouras Center\, Philadelphia\, PA
+  Owls\nLiacouras Center\, Philadelphia\, PA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Liacouras Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -400,12 +428,12 @@ DTEND:20270225T030000Z
 SUMMARY:South Florida Bulls @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Florida 
  Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, 
- FL
+ FL\nBroadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -414,12 +442,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Memphis Tigers @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMemphis Tigers @ Florida Atlan
- tic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+ tic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL\nB
+ roadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -428,12 +457,13 @@ DTSTART:20270304T003000Z
 DTEND:20270304T033000Z
 SUMMARY:Florida Atlantic Owls @ UTSA Roadrunners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ UTSA R
- oadrunners\nUTSA Convocation Center\, San Antonio\, TX
+ oadrunners\nUTSA Convocation Center\, San Antonio\, TX\nBroadcast: Broadca
+ st not announced
 LOCATION:UTSA Convocation Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -442,12 +472,13 @@ DTSTART:20270306T190000Z
 DTEND:20270306T220000Z
 SUMMARY:Temple Owls @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTemple Owls @ Florida Atlantic
-  Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+  Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL\nBroa
+ dcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

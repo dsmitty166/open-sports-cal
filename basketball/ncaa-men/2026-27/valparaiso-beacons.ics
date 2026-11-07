@@ -12,12 +12,14 @@ DTSTART:20261103T010000Z
 DTEND:20261103T040000Z
 SUMMARY:Western Illinois Leathernecks @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Illinois Leathernecks @ 
- Valparaiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ Valparaiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926131@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261106T233000Z
 DTEND:20261107T023000Z
 SUMMARY:Valparaiso Beacons @ Purdue Boilermakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Purdue Boil
- ermakers\nMackey Arena\, West Lafayette\, IN
+ ermakers\nMackey Arena\, West Lafayette\, IN\nBroadcast: BTN
 LOCATION:Mackey Arena\, West Lafayette\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928996@open-sports-cal
@@ -38,12 +41,15 @@ DTSTART:20261112T010000Z
 DTEND:20261112T040000Z
 SUMMARY:Valparaiso Beacons @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ South Dakot
- a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcast:
+  Summit League Network (streaming) / Midco Sports Plus (streaming)
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming) / Midco Sports Plus (streamin
+ g)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928997@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261117T010000Z
 DTEND:20261117T040000Z
 SUMMARY:Calumet St. Joseph Crimson Wave @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCalumet St. Joseph Crimson Wave 
- @ Valparaiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ @ Valparaiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928998@open-sports-cal
@@ -64,11 +72,12 @@ DTSTART:20261122T010000Z
 DTEND:20261122T040000Z
 SUMMARY:Troy Trojans @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Valparaiso Beacon
- s\nPensacola Bay Center\, Pensacola\, FL\nNeutral site
+ s\nPensacola Bay Center\, Pensacola\, FL\nNeutral site\nBroadcast: Broadca
+ st not announced
 LOCATION:Pensacola Bay Center\, Pensacola\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +86,12 @@ DTSTART:20261122T230000Z
 DTEND:20261123T020000Z
 SUMMARY:Southern Miss Golden Eagles @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Miss Golden Eagles @ Va
- lparaiso Beacons\nPensacola Bay Center\, Pensacola\, FL\nNeutral site
+ lparaiso Beacons\nPensacola Bay Center\, Pensacola\, FL\nNeutral site\nBro
+ adcast: Broadcast not announced
 LOCATION:Pensacola Bay Center\, Pensacola\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +100,14 @@ DTSTART:20261128T200000Z
 DTEND:20261128T230000Z
 SUMMARY:Toledo Rockets @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nToledo Rockets @ Valparaiso Beac
- ons\nAthletics-Recreation Center\, Valparaiso\, IN
+ ons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922510@open-sports-cal
@@ -103,12 +115,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Valparaiso Beacons @ UIC Flames
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ UIC Flames\
- nCredit Union 1 Arena\, Chicago\, IL
+ nCredit Union 1 Arena\, Chicago\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Credit Union 1 Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926865@open-sports-cal
@@ -116,11 +129,12 @@ DTSTART:20261206T000000Z
 DTEND:20261206T030000Z
 SUMMARY:Valparaiso Beacons @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ UNC Wilming
- ton Seahawks\nTrask Coliseum\, Wilmington\, NC
+ ton Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +143,14 @@ DTSTART:20261209T010000Z
 DTEND:20261209T040000Z
 SUMMARY:Saint Xavier Cougars @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Xavier Cougars @ Valparais
- o Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ o Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919740@open-sports-cal
@@ -142,12 +158,14 @@ DTSTART:20261212T200000Z
 DTEND:20261212T230000Z
 SUMMARY:Chicago State Cougars @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChicago State Cougars @ Valparai
- so Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ so Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926150@open-sports-cal
@@ -155,12 +173,14 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:SIU Edwardsville Cougars @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSIU Edwardsville Cougars @ Valpa
- raiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ raiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922520@open-sports-cal
@@ -168,12 +188,14 @@ DTSTART:20261223T020000Z
 DTEND:20261223T050000Z
 SUMMARY:Evansville Purple Aces @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEvansville Purple Aces @ Valpara
- iso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ iso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922525@open-sports-cal
@@ -181,12 +203,13 @@ DTSTART:20261230T020000Z
 DTEND:20261230T050000Z
 SUMMARY:Valparaiso Beacons @ Bradley Braves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Bradley Bra
- ves\nCarver Arena\, Peoria\, IL
+ ves\nCarver Arena\, Peoria\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Carver Arena\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922530@open-sports-cal
@@ -194,11 +217,12 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:Southern Illinois Salukis @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Illinois Salukis @ Valp
- araiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ araiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: 
+ Broadcast not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +231,12 @@ DTSTART:20270106T000000Z
 DTEND:20270106T030000Z
 SUMMARY:Valparaiso Beacons @ Northern Iowa Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Northern Io
- wa Panthers\nMcLeod Center\, Cedar Falls\, IA
+ wa Panthers\nMcLeod Center\, Cedar Falls\, IA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:McLeod Center\, Cedar Falls\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +245,12 @@ DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:UIC Flames @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUIC Flames @ Valparaiso Beacons\
- nAthletics-Recreation Center\, Valparaiso\, IN\nStart time TBD
+ nAthletics-Recreation Center\, Valparaiso\, IN\nStart time TBD\nBroadcast:
+  Broadcast not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922542@open-sports-cal
@@ -232,11 +258,12 @@ DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Valparaiso Beacons @ Drake Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Drake Bulld
- ogs\nKnapp Center\, Des Moines\, IA\nStart time TBD
+ ogs\nKnapp Center\, Des Moines\, IA\nStart time TBD\nBroadcast: Broadcast 
+ not announced
 LOCATION:Knapp Center\, Des Moines\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922550@open-sports-cal
@@ -244,11 +271,12 @@ DTSTART:20270116T220000Z
 DTEND:20270117T010000Z
 SUMMARY:Valparaiso Beacons @ Illinois State Redbirds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Illinois St
- ate Redbirds\nCEFCU Arena\, Normal\, IL
+ ate Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcast not announce
+ d
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -257,11 +285,12 @@ DTSTART:20270119T010000Z
 DTEND:20270119T040000Z
 SUMMARY:Northern Iowa Panthers @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Iowa Panthers @ Valpara
- iso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ iso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: Bro
+ adcast not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -270,11 +299,12 @@ DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Belmont Bruins @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Valparaiso Beac
- ons\nAthletics-Recreation Center\, Valparaiso\, IN\nStart time TBD
+ ons\nAthletics-Recreation Center\, Valparaiso\, IN\nStart time TBD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922565@open-sports-cal
@@ -282,11 +312,12 @@ DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Valparaiso Beacons @ Southern Illinois Salukis
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Southern Il
- linois Salukis\nBanterra Center\, Carbondale\, IL\nStart time TBD
+ linois Salukis\nBanterra Center\, Carbondale\, IL\nStart time TBD\nBroadca
+ st: Broadcast not announced
 LOCATION:Banterra Center\, Carbondale\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922570@open-sports-cal
@@ -294,11 +325,12 @@ DTSTART:20270128T010000Z
 DTEND:20270128T040000Z
 SUMMARY:Indiana State Sycamores @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Valpar
- aiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ aiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: Br
+ oadcast not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -307,11 +339,12 @@ DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Valparaiso Beacons @ Murray State Racers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Murray Stat
- e Racers\nCFSB Center\, Murray\, KY\nStart time TBD
+ e Racers\nCFSB Center\, Murray\, KY\nStart time TBD\nBroadcast: Broadcast 
+ not announced
 LOCATION:CFSB Center\, Murray\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922580@open-sports-cal
@@ -319,11 +352,12 @@ DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Drake Bulldogs @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Valparaiso Beac
- ons\nAthletics-Recreation Center\, Valparaiso\, IN\nStart time TBD
+ ons\nAthletics-Recreation Center\, Valparaiso\, IN\nStart time TBD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922590@open-sports-cal
@@ -332,11 +366,11 @@ DTEND;VALUE=DATE:20270210
 SUMMARY:Illinois State Redbirds @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois State Redbirds @ Valpar
  aiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nStart time TB
- D
+ D\nBroadcast: Broadcast not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922595@open-sports-cal
@@ -344,11 +378,12 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Valparaiso Beacons @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Indiana Sta
- te Sycamores\nHulman Center\, Terre Haute\, IN
+ te Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -357,11 +392,12 @@ DTSTART:20270216T010000Z
 DTEND:20270216T040000Z
 SUMMARY:Valparaiso Beacons @ Evansville Purple Aces
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Evansville 
- Purple Aces\nFord Center\, Evansville\, IN
+ Purple Aces\nFord Center\, Evansville\, IN\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Ford Center\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -370,11 +406,12 @@ DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:Bradley Braves @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBradley Braves @ Valparaiso Beac
- ons\nAthletics-Recreation Center\, Valparaiso\, IN
+ ons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -383,11 +420,12 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:Valparaiso Beacons @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Belmont Bru
- ins\nCurb Event Center Arena\, Nashville\, TN
+ ins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -396,11 +434,12 @@ DTSTART:20270227T230000Z
 DTEND:20270228T020000Z
 SUMMARY:Murray State Racers @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMurray State Racers @ Valparaiso
-  Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+  Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: Broadc
+ ast not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

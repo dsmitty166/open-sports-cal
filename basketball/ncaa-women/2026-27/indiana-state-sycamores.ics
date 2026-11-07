@@ -12,13 +12,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Indiana State Sycamores @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Nort
- hern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ hern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913025@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T163000Z
 DTEND:20261106T193000Z
 SUMMARY:Indiana State Sycamores @ Seton Hall Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Seto
- n Hall Pirates\nWalsh Gymnasium\, South Orange\, NJ
+ n Hall Pirates\nWalsh Gymnasium\, South Orange\, NJ\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Walsh Gymnasium\, South Orange\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913005@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:Indiana State Sycamores @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Rutg
- ers Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ ers Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: B
+ 1G+ (streaming)
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919699@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:IU Indianapolis Jaguars @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIU Indianapolis Jaguars @ Indi
- ana State Sycamores\nHulman Center\, Terre Haute\, IN
+ ana State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919700@open-sports-cal
@@ -68,13 +76,15 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Wright State Raiders @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWright State Raiders @ Indiana
-  State Sycamores\nHulman Center\, Terre Haute\, IN
+  State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919701@open-sports-cal
@@ -82,13 +92,15 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Bellarmine Knights @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBellarmine Knights @ Indiana S
- tate Sycamores\nHulman Center\, Terre Haute\, IN
+ tate Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919702@open-sports-cal
@@ -96,13 +108,15 @@ DTSTART:20261120T003000Z
 DTEND:20261120T033000Z
 SUMMARY:Indiana State Sycamores @ Southeast Missouri State Redhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Sout
- heast Missouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO
+ heast Missouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Show Me Center\, Cape Girardeau\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919703@open-sports-cal
@@ -110,13 +124,15 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:Chicago State Cougars @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nChicago State Cougars @ Indian
- a State Sycamores\nHulman Center\, Terre Haute\, IN
+ a State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919704@open-sports-cal
@@ -124,13 +140,15 @@ DTSTART:20261202T160000Z
 DTEND:20261202T190000Z
 SUMMARY:SIU Edwardsville Cougars @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSIU Edwardsville Cougars @ Ind
- iana State Sycamores\nHulman Center\, Terre Haute\, IN
+ iana State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919705@open-sports-cal
@@ -138,13 +156,14 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Indiana State Sycamores @ Miami (OH) RedHawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Miam
- i (OH) RedHawks\nMillett Hall\, Oxford\, OH
+ i (OH) RedHawks\nMillett Hall\, Oxford\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Millett Hall\, Oxford\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919706@open-sports-cal
@@ -152,13 +171,15 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:Indiana State Sycamores @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ East
- ern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ ern Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919707@open-sports-cal
@@ -166,13 +187,15 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Indiana State Sycamores @ Butler Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Butl
- er Bulldogs\nHinkle Fieldhouse\, Indianapolis\, IN
+ er Bulldogs\nHinkle Fieldhouse\, Indianapolis\, IN\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922352@open-sports-cal
@@ -180,13 +203,15 @@ DTSTART:20261218T230000Z
 DTEND:20261219T020000Z
 SUMMARY:Murray State Racers @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Indiana 
- State Sycamores\nHulman Center\, Terre Haute\, IN
+ State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922355@open-sports-cal
@@ -194,13 +219,14 @@ DTSTART:20261220T200000Z
 DTEND:20261220T230000Z
 SUMMARY:Indiana State Sycamores @ UIC Flames
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ UIC 
- Flames\nCredit Union 1 Arena\, Chicago\, IL
+ Flames\nCredit Union 1 Arena\, Chicago\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Credit Union 1 Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922383@open-sports-cal
@@ -208,13 +234,15 @@ DTSTART:20261229T200000Z
 DTEND:20261229T230000Z
 SUMMARY:Indiana State Sycamores @ Valparaiso Beacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Valp
- araiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ araiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922388@open-sports-cal
@@ -222,13 +250,15 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Northern Iowa Panthers @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Iowa Panthers @ India
- na State Sycamores\nHulman Center\, Terre Haute\, IN
+ na State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922392@open-sports-cal
@@ -236,12 +266,13 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:Drake Bulldogs @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDrake Bulldogs @ Indiana State
-  Sycamores\nHulman Center\, Terre Haute\, IN
+  Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +281,13 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:Bradley Braves @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Indiana State
-  Sycamores\nHulman Center\, Terre Haute\, IN
+  Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +296,13 @@ DTSTART:20270109T220000Z
 DTEND:20270110T010000Z
 SUMMARY:Indiana State Sycamores @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Belm
- ont Bruins\nCurb Event Center Arena\, Nashville\, TN
+ ont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast
+  not announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +311,13 @@ DTSTART:20270116T000000Z
 DTEND:20270116T030000Z
 SUMMARY:Illinois State Redbirds @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Indi
- ana State Sycamores\nHulman Center\, Terre Haute\, IN
+ ana State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +326,13 @@ DTSTART:20270117T200000Z
 DTEND:20270117T230000Z
 SUMMARY:Indiana State Sycamores @ Southern Illinois Salukis
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Sout
- hern Illinois Salukis\nBanterra Center\, Carbondale\, IL
+ hern Illinois Salukis\nBanterra Center\, Carbondale\, IL\nBroadcast: Broad
+ cast not announced
 LOCATION:Banterra Center\, Carbondale\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +341,13 @@ DTSTART:20270123T000000Z
 DTEND:20270123T030000Z
 SUMMARY:Indiana State Sycamores @ Drake Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Drak
- e Bulldogs\nKnapp Center\, Des Moines\, IA
+ e Bulldogs\nKnapp Center\, Des Moines\, IA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Knapp Center\, Des Moines\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +356,13 @@ DTSTART:20270124T200000Z
 DTEND:20270124T230000Z
 SUMMARY:Indiana State Sycamores @ Northern Iowa Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Nort
- hern Iowa Panthers\nMcLeod Center\, Cedar Falls\, IA
+ hern Iowa Panthers\nMcLeod Center\, Cedar Falls\, IA\nBroadcast: Broadcast
+  not announced
 LOCATION:McLeod Center\, Cedar Falls\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +371,13 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Indiana State Sycamores @ Evansville Purple Aces
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Evan
- sville Purple Aces\nMeeks Family Fieldhouse\, Evansville\, IN
+ sville Purple Aces\nMeeks Family Fieldhouse\, Evansville\, IN\nBroadcast: 
+ Broadcast not announced
 LOCATION:Meeks Family Fieldhouse\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +386,13 @@ DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:UIC Flames @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUIC Flames @ Indiana State Syc
- amores\nHulman Center\, Terre Haute\, IN\nStart time TBD
+ amores\nHulman Center\, Terre Haute\, IN\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922441@open-sports-cal
@@ -361,12 +400,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Belmont Bruins @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Indiana State
-  Sycamores\nHulman Center\, Terre Haute\, IN
+  Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,12 +415,13 @@ DTSTART:20270207T190000Z
 DTEND:20270207T220000Z
 SUMMARY:Valparaiso Beacons @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nValparaiso Beacons @ Indiana S
- tate Sycamores\nHulman Center\, Terre Haute\, IN
+ tate Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadcast not
+  announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,12 +430,13 @@ DTSTART:20270213T000000Z
 DTEND:20270213T030000Z
 SUMMARY:Indiana State Sycamores @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Brad
- ley Braves\nRenaissance Coliseum\, Peoria\, IL
+ ley Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -403,12 +445,13 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Indiana State Sycamores @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Illi
- nois State Redbirds\nCEFCU Arena\, Normal\, IL
+ nois State Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -417,12 +460,13 @@ DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:Evansville Purple Aces @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEvansville Purple Aces @ India
- na State Sycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD
+ na State Sycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD\nBroa
+ dcast: Broadcast not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922475@open-sports-cal
@@ -430,12 +474,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Southern Illinois Salukis @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Illinois Salukis @ In
- diana State Sycamores\nHulman Center\, Terre Haute\, IN
+ diana State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadc
+ ast not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -444,12 +489,13 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Indiana State Sycamores @ Murray State Racers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Murr
- ay State Racers\nCFSB Center\, Murray\, KY
+ ay State Racers\nCFSB Center\, Murray\, KY\nBroadcast: Broadcast not annou
+ nced
 LOCATION:CFSB Center\, Murray\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

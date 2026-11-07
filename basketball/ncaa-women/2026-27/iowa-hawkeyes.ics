@@ -12,13 +12,14 @@ DTSTART:20261103T010000Z
 DTEND:20261103T040000Z
 SUMMARY:Towson Tigers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTowson Tigers @ Iowa Hawkeyes\
- nCarver-Hawkeye Arena\, Iowa City\, IA
+ nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: B1G+ (streaming)
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921425@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261106T010000Z
 DTEND:20261106T040000Z
 SUMMARY:Eastern Illinois Panthers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Illinois Panthers @ Io
- wa Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ wa Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: B1G+ (strea
+ ming)
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911738@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:Iowa Hawkeyes @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ UConn Huskies\
- nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: FS1
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919981@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261113T013000Z
 DTEND:20261113T043000Z
 SUMMARY:Northern Iowa Panthers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Iowa Panthers @ Iowa 
- Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918830@open-sports-cal
@@ -68,13 +73,15 @@ DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Vanderbilt Commodores @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Iowa H
- awkeyes\nTyson Events Center\, Sioux City\, IA\nNeutral site
+ awkeyes\nTyson Events Center\, Sioux City\, IA\nNeutral site\nBroadcast: F
+ S1
 LOCATION:Tyson Events Center\, Sioux City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921426@open-sports-cal
@@ -82,12 +89,13 @@ DTSTART:20261120T010000Z
 DTEND:20261120T040000Z
 SUMMARY:Montana State Bobcats @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Iowa H
- awkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ awkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -96,12 +104,13 @@ DTSTART:20261123T183000Z
 DTEND:20261123T213000Z
 SUMMARY:Utah Utes @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah Utes @ Iowa Hawkeyes\nBah
- a Mar Convention Center\, Nassau\, Bahamas\nNeutral site
+ a Mar Convention Center\, Nassau\, Bahamas\nNeutral site\nBroadcast: Broad
+ cast not announced
 LOCATION:Baha Mar Convention Center\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +119,13 @@ DTSTART:20261125T160000Z
 DTEND:20261125T190000Z
 SUMMARY:Navy Midshipmen @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Iowa Hawkeye
- s\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site
+ s\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site\nBroadcast:
+  Broadcast not announced
 LOCATION:Baha Mar Convention Center\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +134,14 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Iowa Hawkeyes @ Drake Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ Drake Bulldogs
- \nKnapp Center\, Des Moines\, IA
+ \nKnapp Center\, Des Moines\, IA\nBroadcast: ESPN+ (streaming)
 LOCATION:Knapp Center\, Des Moines\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921848@open-sports-cal
@@ -138,13 +149,14 @@ DTSTART:20261205T230000Z
 DTEND:20261206T020000Z
 SUMMARY:Nebraska Cornhuskers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNebraska Cornhuskers @ Iowa Ha
- wkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ wkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917936@open-sports-cal
@@ -152,13 +164,14 @@ DTSTART:20261210T010000Z
 DTEND:20261210T040000Z
 SUMMARY:Iowa State Cyclones @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa State Cyclones @ Iowa Haw
- keyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ keyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: FS1
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921429@open-sports-cal
@@ -166,12 +179,13 @@ DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Southern Jaguars @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Iowa Hawkey
- es\nCarver-Hawkeye Arena\, Iowa City\, IA
+ es\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +194,13 @@ DTSTART:20261221T013000Z
 DTEND:20261221T043000Z
 SUMMARY:Northern Illinois Huskies @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Io
- wa Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ wa Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -194,13 +209,15 @@ DTSTART:20261229T180000Z
 DTEND:20261229T210000Z
 SUMMARY:Iowa Hawkeyes @ Illinois Fighting Illini
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ Illinois Fight
- ing Illini\nState Farm Center\, Champaign\, IL
+ ing Illini\nState Farm Center\, Champaign\, IL\nBroadcast: Peacock (stream
+ ing) / NBCSN
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming) / NBCSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922066@open-sports-cal
@@ -208,13 +225,14 @@ DTSTART:20270101T190000Z
 DTEND:20270101T220000Z
 SUMMARY:Iowa Hawkeyes @ Michigan State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ Michigan State
-  Spartans\nBreslin Center\, East Lansing\, MI
+  Spartans\nBreslin Center\, East Lansing\, MI\nBroadcast: BTN
 LOCATION:Breslin Center\, East Lansing\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922078@open-sports-cal
@@ -222,12 +240,13 @@ DTSTART:20270106T010000Z
 DTEND:20270106T040000Z
 SUMMARY:Rutgers Scarlet Knights @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRutgers Scarlet Knights @ Iowa
-  Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+  Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Broadcast not
+  announced
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -237,14 +256,15 @@ DTEND:20270109T200000Z
 SUMMARY:Iowa Hawkeyes @ Minnesota Golden Gophers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ Minnesota Gold
  en Gophers\nThe Barn by Blue Cross and Blue Shield of Minnesota\, Minneapo
- lis\, MN
+ lis\, MN\nBroadcast: Fox
 LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
  , MN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922100@open-sports-cal
@@ -252,12 +272,13 @@ DTSTART:20270115T010000Z
 DTEND:20270115T040000Z
 SUMMARY:Northwestern Wildcats @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwestern Wildcats @ Iowa H
- awkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ awkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -266,13 +287,14 @@ DTSTART:20270117T230000Z
 DTEND:20270118T020000Z
 SUMMARY:Indiana Hoosiers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana Hoosiers @ Iowa Hawkey
- es\nCarver-Hawkeye Arena\, Iowa City\, IA
+ es\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: BTN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922122@open-sports-cal
@@ -280,13 +302,14 @@ DTSTART:20270124T230000Z
 DTEND:20270125T020000Z
 SUMMARY:Iowa Hawkeyes @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ Oregon Ducks\n
- Matthew Knight Arena\, Eugene\, OR
+ Matthew Knight Arena\, Eugene\, OR\nBroadcast: BTN
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922128@open-sports-cal
@@ -294,13 +317,15 @@ DTSTART:20270128T020000Z
 DTEND:20270128T050000Z
 SUMMARY:Iowa Hawkeyes @ Washington Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ Washington Hus
- kies\nAlaska Airlines Arena\, Seattle\, WA
+ kies\nAlaska Airlines Arena\, Seattle\, WA\nBroadcast: Peacock (streaming)
+  / NBCSN
 LOCATION:Alaska Airlines Arena\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Peacock (streaming) / NBCSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922141@open-sports-cal
@@ -308,12 +333,13 @@ DTSTART:20270131T200000Z
 DTEND:20270131T230000Z
 SUMMARY:Wisconsin Badgers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Iowa Hawke
- yes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ yes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,13 +348,15 @@ DTSTART:20270205T013000Z
 DTEND:20270205T043000Z
 SUMMARY:Iowa Hawkeyes @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ Nebraska Cornh
- uskers\nPinnacle Bank Arena\, Lincoln\, NE
+ uskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: Peacock (streaming)
+  / NBCSN
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming) / NBCSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922152@open-sports-cal
@@ -336,13 +364,14 @@ DTSTART:20270207T170000Z
 DTEND:20270207T200000Z
 SUMMARY:Iowa Hawkeyes @ Michigan Wolverines
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ Michigan Wolve
- rines\nCrisler Center\, Ann Arbor\, MI
+ rines\nCrisler Center\, Ann Arbor\, MI\nBroadcast: Fox
 LOCATION:Crisler Center\, Ann Arbor\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922165@open-sports-cal
@@ -350,13 +379,14 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:USC Trojans @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUSC Trojans @ Iowa Hawkeyes\nC
- arver-Hawkeye Arena\, Iowa City\, IA
+ arver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: FS1
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922172@open-sports-cal
@@ -364,13 +394,14 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:UCLA Bruins @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUCLA Bruins @ Iowa Hawkeyes\nC
- arver-Hawkeye Arena\, Iowa City\, IA
+ arver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Fox
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922180@open-sports-cal
@@ -378,13 +409,14 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Iowa Hawkeyes @ Penn State Lady Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ Penn State Lad
- y Lions\nRec Hall\, University Park\, PA
+ y Lions\nRec Hall\, University Park\, PA\nBroadcast: BTN
 LOCATION:Rec Hall\, University Park\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922191@open-sports-cal
@@ -392,12 +424,13 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:Purdue Boilermakers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Boilermakers @ Iowa Haw
- keyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ keyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -406,13 +439,15 @@ DTSTART:20270226T003000Z
 DTEND:20270226T033000Z
 SUMMARY:Maryland Terrapins @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Terrapins @ Iowa Hawk
- eyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ eyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Peacock (streaming
+ ) / NBCSN
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming) / NBCSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922203@open-sports-cal
@@ -420,12 +455,13 @@ DTSTART:20270228T170000Z
 DTEND:20270228T200000Z
 SUMMARY:Iowa Hawkeyes @ Ohio State Buckeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ Ohio State Buc
- keyes\nSchottenstein Center\, Columbus\, OH
+ keyes\nSchottenstein Center\, Columbus\, OH\nBroadcast: Fox
 LOCATION:Schottenstein Center\, Columbus\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 END:VCALENDAR

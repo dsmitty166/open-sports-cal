@@ -12,13 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Alabama State Lady Hornets @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ A
- uburn Tigers\nNeville Arena\, Auburn\, AL
+ uburn Tigers\nNeville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927515@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Southern Miss Lady Eagles @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Miss Lady Eagles @ Au
- burn Tigers\nNeville Arena\, Auburn\, AL
+ burn Tigers\nNeville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928218@open-sports-cal
@@ -40,13 +42,14 @@ DTSTART:20261110T170000Z
 DTEND:20261110T200000Z
 SUMMARY:Furman Paladins @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFurman Paladins @ Auburn Tiger
- s\nNeville Arena\, Auburn\, AL
+ s\nNeville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918942@open-sports-cal
@@ -54,13 +57,15 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Auburn Tigers @ Texas Tech Lady Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Texas Tech Lad
- y Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ y Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913028@open-sports-cal
@@ -68,13 +73,14 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Seton Hall Pirates @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSeton Hall Pirates @ Auburn Ti
- gers\nNeville Arena\, Auburn\, AL
+ gers\nNeville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928009@open-sports-cal
@@ -82,13 +88,14 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
- @ Auburn Tigers\nNeville Arena\, Auburn\, AL
+ @ Auburn Tigers\nNeville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918891@open-sports-cal
@@ -96,12 +103,13 @@ DTSTART:20261125T183000Z
 DTEND:20261125T213000Z
 SUMMARY:Wisconsin Badgers @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Auburn Tig
- ers\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site
+ ers\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site\nBroa
+ dcast: Broadcast not announced
 LOCATION:Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Puerto_Rico
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +118,13 @@ DTSTART:20261126T160000Z
 DTEND:20261126T190000Z
 SUMMARY:Auburn Tigers @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Southern Jagua
- rs\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site
+ rs\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site\nBroad
+ cast: Broadcast not announced
 LOCATION:Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Puerto_Rico
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +133,13 @@ DTSTART:20261127T160000Z
 DTEND:20261127T190000Z
 SUMMARY:Auburn Tigers @ Syracuse Orange
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Syracuse Orang
- e\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site
+ e\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site\nBroadc
+ ast: Broadcast not announced
 LOCATION:Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Puerto_Rico
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +148,14 @@ DTSTART:20261203T001500Z
 DTEND:20261203T031500Z
 SUMMARY:Stanford Cardinal @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Auburn Tig
- ers\nNeville Arena\, Auburn\, AL
+ ers\nNeville Arena\, Auburn\, AL\nBroadcast: SEC Network
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906112@open-sports-cal
@@ -152,13 +163,14 @@ DTSTART:20261207T000000Z
 DTEND:20261207T030000Z
 SUMMARY:Wake Forest Demon Deacons @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Au
- burn Tigers\nNeville Arena\, Auburn\, AL
+ burn Tigers\nNeville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918560@open-sports-cal
@@ -166,13 +178,14 @@ DTSTART:20261217T220000Z
 DTEND:20261218T010000Z
 SUMMARY:Jackson State Lady Tigers @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJackson State Lady Tigers @ Au
- burn Tigers\nNeville Arena\, Auburn\, AL
+ burn Tigers\nNeville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913871@open-sports-cal
@@ -180,12 +193,13 @@ DTSTART:20261221T020000Z
 DTEND:20261221T050000Z
 SUMMARY:Auburn Tigers @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ South Florida 
- Bulls\nHarrah's Cherokee Center\, Asheville\, NC\nNeutral site
+ Bulls\nHarrah's Cherokee Center\, Asheville\, NC\nNeutral site\nBroadcast:
+  Broadcast not announced
 LOCATION:Harrah's Cherokee Center\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +208,13 @@ DTSTART:20261221T210000Z
 DTEND:20261222T000000Z
 SUMMARY:Auburn Tigers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Tulsa Golden H
- urricane\nHarrah's Cherokee Resort\, Cherokee\, NC\nNeutral site
+ urricane\nHarrah's Cherokee Resort\, Cherokee\, NC\nNeutral site\nBroadcas
+ t: Broadcast not announced
 LOCATION:Harrah's Cherokee Resort\, Cherokee\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,13 +223,14 @@ DTSTART:20261229T000000Z
 DTEND:20261229T030000Z
 SUMMARY:South Alabama Jaguars @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Alabama Jaguars @ Auburn
-  Tigers\nNeville Arena\, Auburn\, AL
+  Tigers\nNeville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912824@open-sports-cal
@@ -222,13 +238,14 @@ DTSTART:20270101T000000Z
 DTEND:20270101T030000Z
 SUMMARY:LSU Tigers @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU Tigers @ Auburn Tigers\nNe
- ville Arena\, Auburn\, AL
+ ville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912837@open-sports-cal
@@ -236,13 +253,14 @@ DTSTART:20270103T170000Z
 DTEND:20270103T200000Z
 SUMMARY:Auburn Tigers @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Kentucky Wildc
- ats\nMemorial Coliseum (KY)\, Lexington\, KY
+ ats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SEC Network
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912842@open-sports-cal
@@ -250,12 +268,12 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Vanderbilt Commodores @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Auburn
-  Tigers\nNeville Arena\, Auburn\, AL
+  Tigers\nNeville Arena\, Auburn\, AL\nBroadcast: Broadcast not announced
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,13 +282,14 @@ DTSTART:20270110T170000Z
 DTEND:20270110T200000Z
 SUMMARY:Auburn Tigers @ Georgia Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Georgia Lady B
- ulldogs\nStegeman Coliseum\, Athens\, GA
+ ulldogs\nStegeman Coliseum\, Athens\, GA\nBroadcast: SEC Network
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912857@open-sports-cal
@@ -278,12 +297,13 @@ DTSTART:20270114T230000Z
 DTEND:20270115T020000Z
 SUMMARY:Auburn Tigers @ Florida Gators
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Florida Gators
- \nStephen C. O'Connell Center\, Gainesville\, FL
+ \nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,13 +312,14 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Ole Miss Rebels @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOle Miss Rebels @ Auburn Tiger
- s\nNeville Arena\, Auburn\, AL
+ s\nNeville Arena\, Auburn\, AL\nBroadcast: SEC Network
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912876@open-sports-cal
@@ -306,12 +327,12 @@ DTSTART:20270124T200000Z
 DTEND:20270124T230000Z
 SUMMARY:Texas A&M Aggies @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M Aggies @ Auburn Tige
- rs\nNeville Arena\, Auburn\, AL
+ rs\nNeville Arena\, Auburn\, AL\nBroadcast: Broadcast not announced
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +341,13 @@ DTSTART:20270129T010000Z
 DTEND:20270129T040000Z
 SUMMARY:Auburn Tigers @ LSU Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ LSU Tigers\nPe
- te Maravich Assembly Center\, Baton Rouge\, LA
+ te Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -334,13 +356,14 @@ DTSTART:20270131T210000Z
 DTEND:20270201T000000Z
 SUMMARY:Arkansas Razorbacks @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas Razorbacks @ Auburn T
- igers\nNeville Arena\, Auburn\, AL
+ igers\nNeville Arena\, Auburn\, AL\nBroadcast: SEC Network
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912897@open-sports-cal
@@ -348,13 +371,14 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Texas Longhorns @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Auburn Tiger
- s\nNeville Arena\, Auburn\, AL
+ s\nNeville Arena\, Auburn\, AL\nBroadcast: SEC Network
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912904@open-sports-cal
@@ -362,13 +386,14 @@ DTSTART:20270207T230000Z
 DTEND:20270208T020000Z
 SUMMARY:Auburn Tigers @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Alabama Crimso
- n Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ n Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912919@open-sports-cal
@@ -376,12 +401,13 @@ DTSTART:20270211T233000Z
 DTEND:20270212T023000Z
 SUMMARY:Auburn Tigers @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Tennessee Lady
-  Volunteers\nFood City Center\, Knoxville\, TN
+  Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,13 +416,14 @@ DTSTART:20270216T010000Z
 DTEND:20270216T040000Z
 SUMMARY:Mississippi State Bulldogs @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ A
- uburn Tigers\nNeville Arena\, Auburn\, AL
+ uburn Tigers\nNeville Arena\, Auburn\, AL\nBroadcast: SEC Network
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912930@open-sports-cal
@@ -404,12 +431,12 @@ DTSTART:20270221T200000Z
 DTEND:20270221T230000Z
 SUMMARY:Auburn Tigers @ Oklahoma Sooners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Oklahoma Soone
- rs\nLloyd Noble Center\, Norman\, OK
+ rs\nLloyd Noble Center\, Norman\, OK\nBroadcast: Broadcast not announced
 LOCATION:Lloyd Noble Center\, Norman\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +445,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Auburn Tigers @ South Carolina Gamecocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ South Carolina
-  Gamecocks\nColonial Life Arena\, Columbia\, SC
+  Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: Broadcast not 
+ announced
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +460,13 @@ DTSTART:20270228T210000Z
 DTEND:20270301T000000Z
 SUMMARY:Missouri Tigers @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMissouri Tigers @ Auburn Tiger
- s\nNeville Arena\, Auburn\, AL
+ s\nNeville Arena\, Auburn\, AL\nBroadcast: SEC Network
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 END:VCALENDAR

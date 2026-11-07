@@ -12,12 +12,14 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Stetson Hatters @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ South Carolina
-  Gamecocks\nColonial Life Arena\, Columbia\, SC
+  Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SECN+ (streami
+ ng)
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921820@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Southeast Missouri State Redhawks @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSoutheast Missouri State Redhawk
- s @ South Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ s @ South Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadca
+ st: SECN+ (streaming)
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921821@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Saint Peter's Peacocks @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ South C
- arolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ arolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SECN+ (
+ streaming)
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911392@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- South Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ South Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: 
+ SECN+ (streaming)
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921141@open-sports-cal
@@ -64,12 +72,13 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Elon Phoenix @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ South Carolina Ga
- mecocks\nColonial Life Arena\, Columbia\, SC
+ mecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Network
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921670@open-sports-cal
@@ -77,12 +86,13 @@ DTSTART:20261125T213000Z
 DTEND:20261126T003000Z
 SUMMARY:South Carolina Gamecocks @ USC Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ USC T
- rojans\nAcrisure Arena\, Palm Springs\, CA\nNeutral site
+ rojans\nAcrisure Arena\, Palm Springs\, CA\nNeutral site\nBroadcast: CBSSN
 LOCATION:Acrisure Arena\, Palm Springs\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921674@open-sports-cal
@@ -90,11 +100,12 @@ DTSTART:20261126T190000Z
 DTEND:20261126T220000Z
 SUMMARY:South Carolina Gamecocks @ Arizona State Sun Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Arizo
- na State Sun Devils\nAcrisure Arena\, Palm Springs\, CA\nNeutral site
+ na State Sun Devils\nAcrisure Arena\, Palm Springs\, CA\nNeutral site\nBro
+ adcast: Broadcast not announced
 LOCATION:Acrisure Arena\, Palm Springs\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +114,13 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:South Carolina Gamecocks @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ NC St
- ate Wolfpack\nLenovo Center\, Raleigh\, NC
+ ate Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921822@open-sports-cal
@@ -116,12 +128,14 @@ DTSTART:20261206T170000Z
 DTEND:20261206T200000Z
 SUMMARY:UT Martin Skyhawks @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Martin Skyhawks @ South Carol
- ina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ ina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SECN+ (stre
+ aming)
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920757@open-sports-cal
@@ -129,12 +143,14 @@ DTSTART:20261212T210000Z
 DTEND:20261213T000000Z
 SUMMARY:Youngstown State Penguins @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYoungstown State Penguins @ Sout
- h Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ h Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SECN
+ + (streaming)
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918080@open-sports-cal
@@ -142,12 +158,13 @@ DTSTART:20261216T020000Z
 DTEND:20261216T050000Z
 SUMMARY:Clemson Tigers @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nClemson Tigers @ South Carolina 
- Gamecocks\nColonial Life Arena\, Columbia\, SC
+ Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: ESPN2
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916301@open-sports-cal
@@ -155,12 +172,14 @@ DTSTART:20261219T180000Z
 DTEND:20261219T210000Z
 SUMMARY:South Carolina Gamecocks @ Maryland Terrapins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Maryl
- and Terrapins\nCFG Bank Arena\, Baltimore\, MD\nNeutral site
+ and Terrapins\nCFG Bank Arena\, Baltimore\, MD\nNeutral site\nBroadcast: F
+ S1
 LOCATION:CFG Bank Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921823@open-sports-cal
@@ -168,11 +187,12 @@ DTSTART:20261222T210000Z
 DTEND:20261223T000000Z
 SUMMARY:North Carolina Central Eagles @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Central Eagles @ 
- South Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ South Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: 
+ Broadcast not announced
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -181,12 +201,14 @@ DTSTART:20261229T210000Z
 DTEND:20261230T000000Z
 SUMMARY:South Carolina State Bulldogs @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- South Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ South Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: 
+ SECN+ (streaming)
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902304@open-sports-cal
@@ -194,12 +216,14 @@ DTSTART:20270102T203000Z
 DTEND:20270102T233000Z
 SUMMARY:South Carolina Gamecocks @ LSU Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ LSU T
- igers\nPete Maravich Assembly Center\, Baton Rouge\, LA
+ igers\nPete Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: SEC Ne
+ twork
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902318@open-sports-cal
@@ -207,12 +231,14 @@ DTSTART:20270107T020000Z
 DTEND:20270107T050000Z
 SUMMARY:Arkansas Razorbacks @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ South Caro
- lina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ lina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Networ
+ k
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902326@open-sports-cal
@@ -220,12 +246,13 @@ DTSTART:20270109T203000Z
 DTEND:20270109T233000Z
 SUMMARY:Texas A&M Aggies @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ South Carolin
- a Gamecocks\nColonial Life Arena\, Columbia\, SC
+ a Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Network
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902330@open-sports-cal
@@ -233,12 +260,14 @@ DTSTART:20270113T020000Z
 DTEND:20270113T050000Z
 SUMMARY:South Carolina Gamecocks @ Vanderbilt Commodores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Vande
- rbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ rbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: SEC
+  Network
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902337@open-sports-cal
@@ -246,12 +275,13 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:South Carolina Gamecocks @ Missouri Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Misso
- uri Tigers\nMizzou Arena\, Columbia\, MO
+ uri Tigers\nMizzou Arena\, Columbia\, MO\nBroadcast: SEC Network
 LOCATION:Mizzou Arena\, Columbia\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902349@open-sports-cal
@@ -259,12 +289,14 @@ DTSTART:20270120T230000Z
 DTEND:20270121T020000Z
 SUMMARY:Alabama Crimson Tide @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ South Car
- olina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ olina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Netwo
+ rk
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902352@open-sports-cal
@@ -272,12 +304,14 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:South Carolina Gamecocks @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Missi
- ssippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ssippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SEC
+  Network
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902363@open-sports-cal
@@ -285,12 +319,13 @@ DTSTART:20270128T010000Z
 DTEND:20270128T040000Z
 SUMMARY:Texas Longhorns @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Longhorns @ South Carolina
-  Gamecocks\nColonial Life Arena\, Columbia\, SC
+  Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Network
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902367@open-sports-cal
@@ -298,12 +333,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:South Carolina Gamecocks @ Oklahoma Sooners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Oklah
- oma Sooners\nLloyd Noble Center\, Norman\, OK
+ oma Sooners\nLloyd Noble Center\, Norman\, OK\nBroadcast: SEC Network
 LOCATION:Lloyd Noble Center\, Norman\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902377@open-sports-cal
@@ -311,11 +347,13 @@ DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:South Carolina Gamecocks @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Flori
- da Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nStart time TBD
+ da Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nStart time TBD\
+ nBroadcast: SEC Network
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902384@open-sports-cal
@@ -323,12 +361,13 @@ DTSTART:20270207T013000Z
 DTEND:20270207T043000Z
 SUMMARY:Georgia Bulldogs @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Bulldogs @ South Carolin
- a Gamecocks\nColonial Life Arena\, Columbia\, SC
+ a Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Network
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902388@open-sports-cal
@@ -336,12 +375,13 @@ DTSTART:20270211T010000Z
 DTEND:20270211T040000Z
 SUMMARY:South Carolina Gamecocks @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Kentu
- cky Wildcats\nRupp Arena\, Lexington\, KY
+ cky Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: SEC Network
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902397@open-sports-cal
@@ -349,12 +389,13 @@ DTSTART:20270213T230000Z
 DTEND:20270214T020000Z
 SUMMARY:Auburn Tigers @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAuburn Tigers @ South Carolina G
- amecocks\nColonial Life Arena\, Columbia\, SC
+ amecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Network
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902413@open-sports-cal
@@ -362,12 +403,13 @@ DTSTART:20270220T203000Z
 DTEND:20270220T233000Z
 SUMMARY:Ole Miss Rebels @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOle Miss Rebels @ South Carolina
-  Gamecocks\nColonial Life Arena\, Columbia\, SC
+  Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Network
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902416@open-sports-cal
@@ -375,12 +417,13 @@ DTSTART:20270224T000000Z
 DTEND:20270224T030000Z
 SUMMARY:South Carolina Gamecocks @ Tennessee Volunteers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Tenne
- ssee Volunteers\nFood City Center\, Knoxville\, TN
+ ssee Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SEC Network
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902429@open-sports-cal
@@ -388,12 +431,14 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Mississippi State Bulldogs @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi State Bulldogs @ Sou
- th Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ th Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC
+  Network
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902438@open-sports-cal
@@ -401,12 +446,13 @@ DTSTART:20270303T010000Z
 DTEND:20270303T040000Z
 SUMMARY:Florida Gators @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ South Carolina 
- Gamecocks\nColonial Life Arena\, Columbia\, SC
+ Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Network
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902445@open-sports-cal
@@ -414,11 +460,12 @@ DTSTART:20270306T170000Z
 DTEND:20270306T200000Z
 SUMMARY:South Carolina Gamecocks @ Georgia Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Georg
- ia Bulldogs\nStegeman Coliseum\, Athens\, GA
+ ia Bulldogs\nStegeman Coliseum\, Athens\, GA\nBroadcast: SEC Network
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 END:VCALENDAR

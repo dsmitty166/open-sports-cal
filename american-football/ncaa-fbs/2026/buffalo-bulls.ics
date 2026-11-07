@@ -12,12 +12,13 @@ DTSTART:20260903T230000Z
 DTEND:20260904T020000Z
 SUMMARY:UAlbany Great Danes @ Buffalo Bulls
 DESCRIPTION:NCAA FBS Football 2026\nUAlbany Great Danes @ Buffalo Bulls\nBr
- oadview Stadium\, Buffalo\, NY
+ oadview Stadium\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Stadium\, Buffalo\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866414@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T220000Z
 DTEND:20260913T010000Z
 SUMMARY:Buffalo Bulls @ Florida International Panthers
 DESCRIPTION:NCAA FBS Football 2026\nBuffalo Bulls @ Florida International P
- anthers\nPitbull Stadium\, Miami\, FL
+ anthers\nPitbull Stadium\, Miami\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Pitbull Stadium\, Miami\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858456@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 SUMMARY:Buffalo Bulls @ Penn State Nittany Lions
 DESCRIPTION:NCAA FBS Football 2026\nBuffalo Bulls @ Penn State Nittany Lion
- s\nBeaver Stadium\, University Park\, PA
+ s\nBeaver Stadium\, University Park\, PA\nBroadcast: BTN
 LOCATION:Beaver Stadium\, University Park\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866426@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:Robert Morris Colonials @ Buffalo Bulls
 DESCRIPTION:NCAA FBS Football 2026\nRobert Morris Colonials @ Buffalo Bulls
- \nBroadview Stadium\, Buffalo\, NY
+ \nBroadview Stadium\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Stadium\, Buffalo\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866432@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T170000Z
 DTEND:20261003T200000Z
 SUMMARY:Western Michigan Broncos @ Buffalo Bulls
 DESCRIPTION:NCAA FBS Football 2026\nWestern Michigan Broncos @ Buffalo Bull
- s\nBroadview Stadium\, Buffalo\, NY
+ s\nBroadview Stadium\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Stadium\, Buffalo\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866437@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T193000Z
 DTEND:20261010T223000Z
 SUMMARY:Buffalo Bulls @ Toledo Rockets
 DESCRIPTION:NCAA FBS Football 2026\nBuffalo Bulls @ Toledo Rockets\nGlass B
- owl\, Toledo\, OH
+ owl\, Toledo\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Glass Bowl\, Toledo\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866442@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261017T170000Z
 DTEND:20261017T200000Z
 SUMMARY:Massachusetts Minutemen @ Buffalo Bulls
 DESCRIPTION:NCAA FBS Football 2026\nMassachusetts Minutemen @ Buffalo Bulls
- \nBroadview Stadium\, Buffalo\, NY
+ \nBroadview Stadium\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Stadium\, Buffalo\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866448@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:Bowling Green Falcons @ Buffalo Bulls
 DESCRIPTION:NCAA FBS Football 2026\nBowling Green Falcons @ Buffalo Bulls\n
- Broadview Stadium\, Buffalo\, NY
+ Broadview Stadium\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Stadium\, Buffalo\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866454@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261104T010000Z
 DTEND:20261104T040000Z
 SUMMARY:Buffalo Bulls @ Miami (OH) RedHawks
 DESCRIPTION:NCAA FBS Football 2026\nBuffalo Bulls @ Miami (OH) RedHawks\nYa
- ger Stadium\, Oxford\, OH
+ ger Stadium\, Oxford\, OH\nBroadcast: ESPN
 LOCATION:Yager Stadium\, Oxford\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866461@open-sports-cal
@@ -129,12 +138,13 @@ DTSTART:20261112T003000Z
 DTEND:20261112T033000Z
 SUMMARY:Buffalo Bulls @ Ball State Cardinals
 DESCRIPTION:NCAA FBS Football 2026\nBuffalo Bulls @ Ball State Cardinals\nS
- cheumann Stadium\, Muncie\, IN
+ cheumann Stadium\, Muncie\, IN\nBroadcast: ESPN2
 LOCATION:Scheumann Stadium\, Muncie\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866469@open-sports-cal
@@ -142,11 +152,12 @@ DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Central Michigan Chippewas @ Buffalo Bulls
 DESCRIPTION:NCAA FBS Football 2026\nCentral Michigan Chippewas @ Buffalo Bu
- lls\nBroadview Stadium\, Buffalo\, NY\nStart time TBD
+ lls\nBroadview Stadium\, Buffalo\, NY\nStart time TBD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Broadview Stadium\, Buffalo\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866472@open-sports-cal
@@ -154,11 +165,11 @@ DTSTART:20261127T170000Z
 DTEND:20261127T200000Z
 SUMMARY:Buffalo Bulls @ Akron Zips
 DESCRIPTION:NCAA FBS Football 2026\nBuffalo Bulls @ Akron Zips\nInfoCision 
- Stadium\, Akron\, OH
+ Stadium\, Akron\, OH\nBroadcast: Broadcast not announced
 LOCATION:InfoCision Stadium\, Akron\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

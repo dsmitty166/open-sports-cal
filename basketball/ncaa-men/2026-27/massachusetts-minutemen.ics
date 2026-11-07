@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Massachusetts Minutemen @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Troy T
- rojans\nTrojan Arena\, Troy\, AL
+ rojans\nTrojan Arena\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909552@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261106T210000Z
 DTEND:20261107T000000Z
 SUMMARY:Massachusetts Minutemen @ Boston College Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Boston
-  College Eagles\nTD Garden\, Boston\, MA\nNeutral site
+  College Eagles\nTD Garden\, Boston\, MA\nNeutral site\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:TD Garden\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911012@open-sports-cal
@@ -38,11 +41,12 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:UMass Lowell River Hawks @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Massa
- chusetts Minutemen\nMullins Center\, Amherst\, MA
+ chusetts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -51,12 +55,13 @@ DTSTART:20261118T003000Z
 DTEND:20261118T033000Z
 SUMMARY:Bryant Bulldogs @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBryant Bulldogs @ Massachusetts 
- Minutemen\nMullins Center\, Amherst\, MA
+ Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911023@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261121T230000Z
 DTEND:20261122T020000Z
 SUMMARY:Maine Black Bears @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaine Black Bears @ Massachusett
- s Minutemen\nMullins Center\, Amherst\, MA
+ s Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927392@open-sports-cal
@@ -77,12 +83,14 @@ DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:Loyola Chicago Ramblers @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Chicago Ramblers @ Massac
- husetts Minutemen\nMullins Center\, Amherst\, MA
+ husetts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911037@open-sports-cal
@@ -90,12 +98,14 @@ DTSTART:20261202T233000Z
 DTEND:20261203T023000Z
 SUMMARY:Massachusetts Minutemen @ Eastern Michigan Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Easter
- n Michigan Eagles\nGervin GameAbove Center\, Ypsilanti\, MI
+ n Michigan Eagles\nGervin GameAbove Center\, Ypsilanti\, MI\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909732@open-sports-cal
@@ -103,12 +113,14 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Wake Forest Demon Deacons @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ Mass
- achusetts Minutemen\nMassMutual Center\, Springfield\, MA\nNeutral site
+ achusetts Minutemen\nMassMutual Center\, Springfield\, MA\nNeutral site\nB
+ roadcast: ESPNU
 LOCATION:MassMutual Center\, Springfield\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911044@open-sports-cal
@@ -116,12 +128,14 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:Western Michigan Broncos @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Michigan Broncos @ Massa
- chusetts Minutemen\nMullins Center\, Amherst\, MA
+ chusetts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911051@open-sports-cal
@@ -129,12 +143,14 @@ DTSTART:20261213T000000Z
 DTEND:20261213T030000Z
 SUMMARY:Massachusetts Minutemen @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Kent S
- tate Golden Flashes\nM.A.C. Center\, Kent\, OH
+ tate Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911059@open-sports-cal
@@ -142,11 +158,12 @@ DTSTART:20261219T180000Z
 DTEND:20261219T210000Z
 SUMMARY:Stonehill Skyhawks @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Massachuset
- ts Minutemen\nMullins Center\, Amherst\, MA
+ ts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +172,12 @@ DTSTART:20261221T160000Z
 DTEND:20261221T190000Z
 SUMMARY:UMass Boston Beacons @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Boston Beacons @ Massachus
- etts Minutemen\nMullins Center\, Amherst\, MA
+ etts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +186,13 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:Akron Zips @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Massachusetts Minut
- emen\nMullins Center\, Amherst\, MA
+ emen\nMullins Center\, Amherst\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911069@open-sports-cal
@@ -181,11 +200,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Ball State Cardinals @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBall State Cardinals @ Massachus
- etts Minutemen\nMullins Center\, Amherst\, MA
+ etts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +214,12 @@ DTSTART:20270105T233000Z
 DTEND:20270106T023000Z
 SUMMARY:Massachusetts Minutemen @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Buffal
- o Bulls\nBroadview Arena\, Buffalo\, NY
+ o Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announce
+ d
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +228,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Massachusetts Minutemen @ Ohio Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Ohio B
- obcats\nConvocation Center (OH)\, Athens\, OH
+ obcats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +242,12 @@ DTSTART:20270113T000000Z
 DTEND:20270113T030000Z
 SUMMARY:Toledo Rockets @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nToledo Rockets @ Massachusetts M
- inutemen\nMullins Center\, Amherst\, MA
+ inutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +256,12 @@ DTSTART:20270116T203000Z
 DTEND:20270116T233000Z
 SUMMARY:Central Michigan Chippewas @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Michigan Chippewas @ Mas
- sachusetts Minutemen\nMullins Center\, Amherst\, MA
+ sachusetts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +270,12 @@ DTSTART:20270120T000000Z
 DTEND:20270120T030000Z
 SUMMARY:Massachusetts Minutemen @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Bowlin
- g Green Falcons\nStroh Center\, Bowling Green\, OH
+ g Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +284,11 @@ DTSTART:20270123T170000Z
 DTEND:20270123T200000Z
 SUMMARY:Ohio Bobcats @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Massachusetts Min
- utemen\nMullins Center\, Amherst\, MA
+ utemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +297,12 @@ DTSTART:20270126T230000Z
 DTEND:20270127T020000Z
 SUMMARY:Miami (OH) RedHawks @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMiami (OH) RedHawks @ Massachuse
- tts Minutemen\nMullins Center\, Amherst\, MA
+ tts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +311,12 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Massachusetts Minutemen @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Akron 
- Zips\nJames A. Rhodes Arena\, Akron\, OH
+ Zips\nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not announc
+ ed
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +325,12 @@ DTSTART:20270203T000000Z
 DTEND:20270203T030000Z
 SUMMARY:Massachusetts Minutemen @ Central Michigan Chippewas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Centra
- l Michigan Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI
+ l Michigan Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI\nBroadcast: Broa
+ dcast not announced
 LOCATION:McGuirk Arena\, Mount Pleasant\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +339,12 @@ DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Kent State Golden Flashes @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Mass
- achusetts Minutemen\nMullins Center\, Amherst\, MA
+ achusetts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +353,12 @@ DTSTART:20270213T173000Z
 DTEND:20270213T203000Z
 SUMMARY:Eastern Michigan Eagles @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Michigan Eagles @ Massac
- husetts Minutemen\nMullins Center\, Amherst\, MA
+ husetts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not
+  announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +367,12 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:Massachusetts Minutemen @ Ball State Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Ball S
- tate Cardinals\nWorthen Arena\, Muncie\, IN
+ tate Cardinals\nWorthen Arena\, Muncie\, IN\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Worthen Arena\, Muncie\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +381,12 @@ DTSTART:20270220T193000Z
 DTEND:20270220T223000Z
 SUMMARY:Massachusetts Minutemen @ Western Michigan Broncos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Wester
- n Michigan Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI
+ n Michigan Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI\nBroadcast: Bro
+ adcast not announced
 LOCATION:University Arena (MI)\, Kalamazoo\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +395,11 @@ DTSTART:20270224T000000Z
 DTEND:20270224T030000Z
 SUMMARY:Buffalo Bulls @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Massachusetts Mi
- nutemen\nMullins Center\, Amherst\, MA
+ nutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +408,12 @@ DTSTART:20270227T230000Z
 DTEND:20270228T020000Z
 SUMMARY:Bowling Green Falcons @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Massachu
- setts Minutemen\nMullins Center\, Amherst\, MA
+ setts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +422,11 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Massachusetts Minutemen @ Toledo Rockets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Toledo
-  Rockets\nSavage Arena\, Toledo\, OH
+  Rockets\nSavage Arena\, Toledo\, OH\nBroadcast: Broadcast not announced
 LOCATION:Savage Arena\, Toledo\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +435,12 @@ DTSTART:20270306T000000Z
 DTEND:20270306T030000Z
 SUMMARY:Massachusetts Minutemen @ Miami (OH) RedHawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Miami 
- (OH) RedHawks\nMillett Hall\, Oxford\, OH
+ (OH) RedHawks\nMillett Hall\, Oxford\, OH\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Millett Hall\, Oxford\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

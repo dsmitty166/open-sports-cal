@@ -12,13 +12,15 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:North Carolina Central Eagles @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ Virginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ @ Virginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACC
+ NX (streaming)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916016@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261104T230000Z
 DTEND:20261105T020000Z
 SUMMARY:Delaware Blue Hens @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Virginia 
- Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (streami
+ ng)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916017@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261108T230000Z
 DTEND:20261109T020000Z
 SUMMARY:James Madison Dukes @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJames Madison Dukes @ Virginia
-  Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+  Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (stream
+ ing)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915783@open-sports-cal
@@ -54,13 +60,14 @@ DTSTART:20261112T230000Z
 DTEND:20261113T020000Z
 SUMMARY:Virginia Tech Hokies @ VCU Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ VCU Ram
- s\nSiegel Center\, Richmond\, VA
+ s\nSiegel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916018@open-sports-cal
@@ -68,13 +75,15 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:La Salle Explorers @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLa Salle Explorers @ Virginia 
- Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (streami
+ ng)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916019@open-sports-cal
@@ -82,12 +91,13 @@ DTSTART:20261123T193000Z
 DTEND:20261123T223000Z
 SUMMARY:Virginia Tech Hokies @ UT Martin Skyhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ UT Mart
- in Skyhawks\nRaider Arena\, Destin\, FL\nNeutral site
+ in Skyhawks\nRaider Arena\, Destin\, FL\nNeutral site\nBroadcast: Broadcas
+ t not announced
 LOCATION:Raider Arena\, Destin\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -96,13 +106,15 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:UNC Greensboro Spartans @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Greensboro Spartans @ Virg
- inia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ inia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (st
+ reaming)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912958@open-sports-cal
@@ -110,13 +122,14 @@ DTSTART:20261204T020000Z
 DTEND:20261204T050000Z
 SUMMARY:Tennessee Lady Volunteers @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Vi
- rginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ rginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ESPN2
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918258@open-sports-cal
@@ -124,13 +137,14 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Virginia Tech Hokies @ Duke Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ Duke Bl
- ue Devils\nCameron Indoor Stadium\, Durham\, NC
+ ue Devils\nCameron Indoor Stadium\, Durham\, NC\nBroadcast: CW
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916021@open-sports-cal
@@ -138,13 +152,15 @@ DTSTART:20261209T230000Z
 DTEND:20261210T020000Z
 SUMMARY:App State Mountaineers @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Virgi
- nia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ nia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (str
+ eaming)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916022@open-sports-cal
@@ -152,13 +168,15 @@ DTSTART:20261213T220000Z
 DTEND:20261214T010000Z
 SUMMARY:Campbell Fighting Camels @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCampbell Fighting Camels @ Vir
- ginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ ginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (s
+ treaming)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918266@open-sports-cal
@@ -166,13 +184,15 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Wake Forest Demon Deacons @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ Vi
- rginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ rginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (
+ streaming)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911516@open-sports-cal
@@ -180,13 +200,15 @@ DTSTART:20261221T170000Z
 DTEND:20261221T200000Z
 SUMMARY:Radford Highlanders @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRadford Highlanders @ Virginia
-  Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+  Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (stream
+ ing)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916023@open-sports-cal
@@ -194,13 +216,15 @@ DTSTART:20261228T190000Z
 DTEND:20261228T220000Z
 SUMMARY:Charleston Cougars @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ Virginia 
- Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (streami
+ ng)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918277@open-sports-cal
@@ -208,13 +232,15 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Virginia Tech Hokies @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ Pittsbu
- rgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ rgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (
+ streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918285@open-sports-cal
@@ -222,13 +248,14 @@ DTSTART:20270103T210000Z
 DTEND:20270104T000000Z
 SUMMARY:Syracuse Orange @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSyracuse Orange @ Virginia Tec
- h Hokies\nCassell Coliseum\, Blacksburg\, VA
+ h Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACC Network
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918290@open-sports-cal
@@ -236,12 +263,13 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:Notre Dame Fighting Irish @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Vi
- rginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ rginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: Broadca
+ st not announced
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,13 +278,14 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:Virginia Tech Hokies @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ Virgini
- a Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ a Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: CW
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918327@open-sports-cal
@@ -264,12 +293,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Virginia Tech Hokies @ NC State Wolfpack
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ NC Stat
- e Wolfpack\nReynolds Coliseum\, Raleigh\, NC
+ e Wolfpack\nReynolds Coliseum\, Raleigh\, NC\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Reynolds Coliseum\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,13 +308,14 @@ DTSTART:20270117T190000Z
 DTEND:20270117T220000Z
 SUMMARY:Louisville Cardinals @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Virgini
- a Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ a Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: CW
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918343@open-sports-cal
@@ -292,13 +323,15 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Florida State Seminoles @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida State Seminoles @ Virg
- inia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ inia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACC Netwo
+ rk
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918064@open-sports-cal
@@ -306,12 +339,13 @@ DTSTART:20270128T230000Z
 DTEND:20270129T020000Z
 SUMMARY:Virginia Tech Hokies @ Boston College Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ Boston 
- College Eagles\nConte Forum\, Chestnut Hill\, MA
+ College Eagles\nConte Forum\, Chestnut Hill\, MA\nBroadcast: Broadcast not
+  announced
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,13 +354,15 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:California Golden Bears @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Golden Bears @ Virg
- inia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ inia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACC Netwo
+ rk
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918369@open-sports-cal
@@ -334,13 +370,14 @@ DTSTART:20270204T230000Z
 DTEND:20270205T020000Z
 SUMMARY:Virginia Tech Hokies @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ Clemson
-  Tigers\nLittlejohn Coliseum\, Clemson\, SC
+  Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACC Network
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918377@open-sports-cal
@@ -348,13 +385,15 @@ DTSTART:20270207T190000Z
 DTEND:20270207T220000Z
 SUMMARY:Virginia Tech Hokies @ North Carolina Tar Heels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ North C
- arolina Tar Heels\nCarmichael Arena\, Chapel Hill\, NC
+ arolina Tar Heels\nCarmichael Arena\, Chapel Hill\, NC\nBroadcast: ACC Net
+ work
 LOCATION:Carmichael Arena\, Chapel Hill\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918381@open-sports-cal
@@ -362,12 +401,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:SMU Mustangs @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Virginia Tech H
- okies\nCassell Coliseum\, Blacksburg\, VA
+ okies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +416,13 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Stanford Cardinal @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Virginia T
- ech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ ech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +431,13 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:Virginia Tech Hokies @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ Georgia
-  Tech Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+  Tech Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA\nBroadcast: Broadca
+ st not announced
 LOCATION:McCamish Pavilion\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +446,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Virginia Tech Hokies @ Miami Hurricanes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ Miami H
- urricanes\nWatsco Center\, Coral Gables\, FL
+ urricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +461,13 @@ DTSTART:20270228T230000Z
 DTEND:20270301T020000Z
 SUMMARY:Virginia Cavaliers @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Virginia 
- Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACC Network
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 END:VCALENDAR

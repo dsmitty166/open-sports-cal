@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Howard Bison @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Yale Bulldogs\nJo
- hn J. Lee Amphitheater\, New Haven\, CT
+ hn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: ESPN+ (streaming)
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921754@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Yale Bulldogs @ UCF Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ UCF Knights\nAdd
- ition Financial Arena\, Orlando\, FL
+ ition Financial Arena\, Orlando\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Addition Financial Arena\, Orlando\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909752@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
 SUMMARY:Yale Bulldogs @ Baylor Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Baylor Bears\nFo
- ster Pavilion\, Waco\, TX
+ ster Pavilion\, Waco\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Foster Pavilion\, Waco\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920747@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Yale Bulldogs @ Northeastern Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Northeastern Hus
- kies\nCabot Center\, Boston\, MA
+ kies\nCabot Center\, Boston\, MA\nBroadcast: FloSports (streaming)
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924744@open-sports-cal
@@ -64,12 +68,14 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:Emmanuel (MA) Lions @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEmmanuel (MA) Lions @ Yale Bulld
- ogs\nJohn J. Lee Amphitheater\, New Haven\, CT
+ ogs\nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920694@open-sports-cal
@@ -77,12 +83,14 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Vermont Catamounts @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Yale Bulldo
- gs\nJohn J. Lee Amphitheater\, New Haven\, CT
+ gs\nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929286@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261123T210000Z
 DTEND:20261124T000000Z
 SUMMARY:Yale Bulldogs @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Belmont Bruins\n
- State Farm Field House\, Kissimmee\, FL\nNeutral site
+ State Farm Field House\, Kissimmee\, FL\nNeutral site\nBroadcast: ESPNU
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929285@open-sports-cal
@@ -103,12 +112,14 @@ DTSTART:20261124T200000Z
 DTEND:20261124T230000Z
 SUMMARY:App State Mountaineers @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nApp State Mountaineers @ Yale Bu
- lldogs\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+ lldogs\nState Farm Field House\, Kissimmee\, FL\nNeutral site\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928831@open-sports-cal
@@ -116,12 +127,14 @@ DTSTART:20261125T173000Z
 DTEND:20261125T203000Z
 SUMMARY:Yale Bulldogs @ Wright State Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Wright State Rai
- ders\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+ ders\nState Farm Field House\, Kissimmee\, FL\nNeutral site\nBroadcast: ES
+ PN2
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924745@open-sports-cal
@@ -129,12 +142,14 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:Quinnipiac Bobcats @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nQuinnipiac Bobcats @ Yale Bulldo
- gs\nJohn J. Lee Amphitheater\, New Haven\, CT
+ gs\nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920908@open-sports-cal
@@ -142,12 +157,13 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Yale Bulldogs @ Delaware Blue Hens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Delaware Blue He
- ns\nBob Carpenter Center\, Newark\, DE
+ ns\nBob Carpenter Center\, Newark\, DE\nBroadcast: ESPN+ (streaming)
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924746@open-sports-cal
@@ -155,12 +171,14 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:Rhode Island College Anchormen @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRhode Island College Anchormen @
-  Yale Bulldogs\nJohn J. Lee Amphitheater\, New Haven\, CT
+  Yale Bulldogs\nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: ESPN
+ + (streaming)
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924747@open-sports-cal
@@ -168,11 +186,12 @@ DTSTART:20261213T030000Z
 DTEND:20261213T060000Z
 SUMMARY:Yale Bulldogs @ UC Santa Barbara Gauchos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ UC Santa Barbara
-  Gauchos\nLee's Family Forum\, Henderson\, NV\nNeutral site
+  Gauchos\nLee's Family Forum\, Henderson\, NV\nNeutral site\nBroadcast: Br
+ oadcast not announced
 LOCATION:Lee's Family Forum\, Henderson\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -181,12 +200,14 @@ DTSTART:20261219T210000Z
 DTEND:20261220T000000Z
 SUMMARY:St. Joseph's Brooklyn Bears @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Joseph's Brooklyn Bears @ Ya
- le Bulldogs\nJohn J. Lee Amphitheater\, New Haven\, CT
+ le Bulldogs\nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921070@open-sports-cal
@@ -194,12 +215,13 @@ DTSTART:20261230T030000Z
 DTEND:20261230T060000Z
 SUMMARY:Yale Bulldogs @ San Francisco Dons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ San Francisco Do
- ns\nThe Sobrato Center\, San Francisco\, CA
+ ns\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911319@open-sports-cal
@@ -207,11 +229,11 @@ DTSTART:20270105T000000Z
 DTEND:20270105T030000Z
 SUMMARY:Brown Bears @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Yale Bulldogs\nJoh
- n J. Lee Amphitheater\, New Haven\, CT
+ n J. Lee Amphitheater\, New Haven\, CT\nBroadcast: Broadcast not announced
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +242,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Princeton Tigers @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Yale Bulldogs
- \nJohn J. Lee Amphitheater\, New Haven\, CT
+ \nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: Broadcast not anno
+ unced
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +256,11 @@ DTSTART:20270116T000000Z
 DTEND:20270116T030000Z
 SUMMARY:Yale Bulldogs @ Columbia Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Columbia Lions\n
- Levien Gymnasium\, New York\, NY
+ Levien Gymnasium\, New York\, NY\nBroadcast: Broadcast not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,12 +269,13 @@ DTSTART:20270118T233000Z
 DTEND:20270119T023000Z
 SUMMARY:Yale Bulldogs @ Cornell Big Red
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Cornell Big Red\
- nNewman Arena\, Ithaca\, NY
+ nNewman Arena\, Ithaca\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Newman Arena\, Ithaca\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911413@open-sports-cal
@@ -259,11 +283,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Pennsylvania Quakers @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPennsylvania Quakers @ Yale Bull
- dogs\nJohn J. Lee Amphitheater\, New Haven\, CT
+ dogs\nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: Broadcast not 
+ announced
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +297,11 @@ DTSTART:20270130T000000Z
 DTEND:20270130T030000Z
 SUMMARY:Yale Bulldogs @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Harvard Crimson\
- nLavietes Pavilion\, Cambridge\, MA
+ nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +310,11 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Yale Bulldogs @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Dartmouth Big Gr
- een\nLeede Arena\, Hanover\, NH
+ een\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +323,11 @@ DTSTART:20270206T000000Z
 DTEND:20270206T030000Z
 SUMMARY:Yale Bulldogs @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Brown Bears\nPiz
- zitola Sports Center\, Providence\, RI
+ zitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not announced
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +336,12 @@ DTSTART:20270212T223000Z
 DTEND:20270213T013000Z
 SUMMARY:Harvard Crimson @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Yale Bulldogs\
- nJohn J. Lee Amphitheater\, New Haven\, CT
+ nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: Broadcast not annou
+ nced
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +350,12 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:Dartmouth Big Green @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Yale Bulld
- ogs\nJohn J. Lee Amphitheater\, New Haven\, CT
+ ogs\nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +364,11 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Yale Bulldogs @ Pennsylvania Quakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Pennsylvania Qua
- kers\nThe Palestra\, Philadelphia\, PA
+ kers\nThe Palestra\, Philadelphia\, PA\nBroadcast: Broadcast not announced
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +377,12 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:Columbia Lions @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColumbia Lions @ Yale Bulldogs\n
- John J. Lee Amphitheater\, New Haven\, CT
+ John J. Lee Amphitheater\, New Haven\, CT\nBroadcast: Broadcast not announ
+ ced
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +391,13 @@ DTSTART:20270228T000000Z
 DTEND:20270228T030000Z
 SUMMARY:Cornell Big Red @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCornell Big Red @ Yale Bulldogs\
- nJohn J. Lee Amphitheater\, New Haven\, CT
+ nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: ESPN+ (streaming)
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924742@open-sports-cal
@@ -376,11 +405,11 @@ DTSTART:20270306T190000Z
 DTEND:20270306T220000Z
 SUMMARY:Yale Bulldogs @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Princeton Tigers
- \nJadwin Gymnasium\, Princeton\, NJ
+ \nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

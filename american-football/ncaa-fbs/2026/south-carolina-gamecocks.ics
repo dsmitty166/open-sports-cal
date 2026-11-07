@@ -12,12 +12,14 @@ DTSTART:20260905T164500Z
 DTEND:20260905T194500Z
 SUMMARY:Kent State Golden Flashes @ South Carolina Gamecocks
 DESCRIPTION:NCAA FBS Football 2026\nKent State Golden Flashes @ South Carol
- ina Gamecocks\nWilliams-Brice Stadium\, Columbia\, SC
+ ina Gamecocks\nWilliams-Brice Stadium\, Columbia\, SC\nBroadcast: SEC Netw
+ ork
 LOCATION:Williams-Brice Stadium\, Columbia\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856680@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Towson Tigers @ South Carolina Gamecocks
 DESCRIPTION:NCAA FBS Football 2026\nTowson Tigers @ South Carolina Gamecock
- s\nWilliams-Brice Stadium\, Columbia\, SC
+ s\nWilliams-Brice Stadium\, Columbia\, SC\nBroadcast: SECN+ (streaming)
 LOCATION:Williams-Brice Stadium\, Columbia\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856691@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20260919T213500Z
 DTEND:20260920T003500Z
 SUMMARY:Mississippi State Bulldogs @ South Carolina Gamecocks
 DESCRIPTION:NCAA FBS Football 2026\nMississippi State Bulldogs @ South Caro
- lina Gamecocks\nWilliams-Brice Stadium\, Columbia\, SC
+ lina Gamecocks\nWilliams-Brice Stadium\, Columbia\, SC\nBroadcast: SEC Net
+ work
 LOCATION:Williams-Brice Stadium\, Columbia\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856696@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20260926T231000Z
 DTEND:20260927T021000Z
 SUMMARY:South Carolina Gamecocks @ Alabama Crimson Tide
 DESCRIPTION:NCAA FBS Football 2026\nSouth Carolina Gamecocks @ Alabama Crim
- son Tide\nBryant-Denny Stadium\, Tuscaloosa\, AL
+ son Tide\nBryant-Denny Stadium\, Tuscaloosa\, AL\nBroadcast: ESPN
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856709@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261003T201500Z
 DTEND:20261003T231500Z
 SUMMARY:Kentucky Wildcats @ South Carolina Gamecocks
 DESCRIPTION:NCAA FBS Football 2026\nKentucky Wildcats @ South Carolina Game
- cocks\nWilliams-Brice Stadium\, Columbia\, SC
+ cocks\nWilliams-Brice Stadium\, Columbia\, SC\nBroadcast: SEC Network
 LOCATION:Williams-Brice Stadium\, Columbia\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856714@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261010T164500Z
 DTEND:20261010T194500Z
 SUMMARY:South Carolina Gamecocks @ Florida Gators
 DESCRIPTION:NCAA FBS Football 2026\nSouth Carolina Gamecocks @ Florida Gato
- rs\nBen Hill Griffin Stadium\, Gainesville\, FL
+ rs\nBen Hill Griffin Stadium\, Gainesville\, FL\nBroadcast: SEC Network
 LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856731@open-sports-cal
@@ -90,12 +98,14 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:Tennessee Volunteers @ South Carolina Gamecocks
 DESCRIPTION:NCAA FBS Football 2026\nTennessee Volunteers @ South Carolina G
- amecocks\nWilliams-Brice Stadium\, Columbia\, SC
+ amecocks\nWilliams-Brice Stadium\, Columbia\, SC\nBroadcast: ESPN / Disney
+ + (streaming)
 LOCATION:Williams-Brice Stadium\, Columbia\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856736@open-sports-cal
@@ -103,12 +113,13 @@ DTSTART:20261031T201500Z
 DTEND:20261031T231500Z
 SUMMARY:South Carolina Gamecocks @ Oklahoma Sooners
 DESCRIPTION:NCAA FBS Football 2026\nSouth Carolina Gamecocks @ Oklahoma Soo
- ners\nMemorial Stadium (Norman\, OK)\, Norman\, OK
+ ners\nMemorial Stadium (Norman\, OK)\, Norman\, OK\nBroadcast: SEC Network
 LOCATION:Memorial Stadium (Norman\, OK)\, Norman\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856744@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
 SUMMARY:Texas A&M Aggies @ South Carolina Gamecocks
 DESCRIPTION:NCAA FBS Football 2026\nTexas A&M Aggies @ South Carolina Gamec
- ocks\nWilliams-Brice Stadium\, Columbia\, SC
+ ocks\nWilliams-Brice Stadium\, Columbia\, SC\nBroadcast: ESPN
 LOCATION:Williams-Brice Stadium\, Columbia\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856882@open-sports-cal
@@ -129,12 +141,14 @@ DTSTART:20261115T004500Z
 DTEND:20261115T034500Z
 SUMMARY:South Carolina Gamecocks @ Arkansas Razorbacks
 DESCRIPTION:NCAA FBS Football 2026\nSouth Carolina Gamecocks @ Arkansas Raz
- orbacks\nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR
+ orbacks\nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR\nBroadca
+ st: SEC Network
 LOCATION:Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856753@open-sports-cal
@@ -142,11 +156,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Georgia Bulldogs @ South Carolina Gamecocks
 DESCRIPTION:NCAA FBS Football 2026\nGeorgia Bulldogs @ South Carolina Gamec
- ocks\nWilliams-Brice Stadium\, Columbia\, SC\nStart time TBD
+ ocks\nWilliams-Brice Stadium\, Columbia\, SC\nStart time TBD\nBroadcast: B
+ roadcast not announced
 LOCATION:Williams-Brice Stadium\, Columbia\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856764@open-sports-cal
@@ -154,10 +169,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:South Carolina Gamecocks @ Clemson Tigers
 DESCRIPTION:NCAA FBS Football 2026\nSouth Carolina Gamecocks @ Clemson Tige
- rs\nMemorial Stadium (Clemson\, SC)\, Clemson\, SC\nStart time TBD
+ rs\nMemorial Stadium (Clemson\, SC)\, Clemson\, SC\nStart time TBD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

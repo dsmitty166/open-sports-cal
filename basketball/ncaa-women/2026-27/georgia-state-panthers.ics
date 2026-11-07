@@ -12,13 +12,14 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Georgia State Panthers @ Buffalo Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Buffa
- lo Bulls\nBroadview Arena\, Buffalo\, NY
+ lo Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927053@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261106T233000Z
 DTEND:20261107T023000Z
 SUMMARY:Georgia State Panthers @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ UNC A
- sheville Bulldogs\nKimmel Arena\, Asheville\, NC
+ sheville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929160@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:Wofford Terriers @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWofford Terriers @ Georgia Sta
- te Panthers\nGSU Convocation Center\, Atlanta\, GA
+ te Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929238@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:Toccoa Falls Eagles @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nToccoa Falls Eagles @ Georgia 
- State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913717@open-sports-cal
@@ -68,13 +75,15 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:Georgia State Panthers @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Georg
- ia Tech Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+ ia Tech Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA\nBroadcast: ACCNX
+  (streaming)
 LOCATION:McCamish Pavilion\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929239@open-sports-cal
@@ -82,13 +91,15 @@ DTSTART:20261124T170000Z
 DTEND:20261124T200000Z
 SUMMARY:St. Bonaventure Bonnies @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. Bonaventure Bonnies @ Geor
- gia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ gia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN
+ + (streaming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928194@open-sports-cal
@@ -96,13 +107,15 @@ DTSTART:20261125T170000Z
 DTEND:20261125T200000Z
 SUMMARY:Chattanooga Mocs @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nChattanooga Mocs @ Georgia Sta
- te Panthers\nGSU Convocation Center\, Atlanta\, GA
+ te Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918833@open-sports-cal
@@ -110,13 +123,15 @@ DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:Georgia State Panthers @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Vande
- rbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ rbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: SEC
+  Network
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920262@open-sports-cal
@@ -124,12 +139,13 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Georgia State Panthers @ Grand Canyon Lopes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Grand
-  Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+  Canyon Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadc
+ ast not announced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +154,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Georgia State Panthers @ Tennessee Lady Volunteers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Tenne
- ssee Lady Volunteers\nFood City Center\, Knoxville\, TN
+ ssee Lady Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: SECN+ 
+ (streaming)
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929012@open-sports-cal
@@ -152,13 +170,15 @@ DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
 SUMMARY:Furman Paladins @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFurman Paladins @ Georgia Stat
- e Panthers\nGSU Convocation Center\, Atlanta\, GA
+ e Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912073@open-sports-cal
@@ -166,13 +186,15 @@ DTSTART:20261216T230000Z
 DTEND:20261217T020000Z
 SUMMARY:Georgia State Panthers @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Coast
- al Carolina Chanticleers\nThe HTC Center\, Conway\, SC
+ al Carolina Chanticleers\nThe HTC Center\, Conway\, SC\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:The HTC Center\, Conway\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912195@open-sports-cal
@@ -180,13 +202,15 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Troy Trojans @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Georgia State P
- anthers\nGSU Convocation Center\, Atlanta\, GA
+ anthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912087@open-sports-cal
@@ -194,13 +218,15 @@ DTSTART:20270101T003000Z
 DTEND:20270101T033000Z
 SUMMARY:Georgia State Panthers @ South Alabama Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ South
-  Alabama Jaguars\nMitchell Center\, Mobile\, AL
+  Alabama Jaguars\nMitchell Center\, Mobile\, AL\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Mitchell Center\, Mobile\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912092@open-sports-cal
@@ -208,12 +234,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Georgia State Panthers @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Louis
- iana Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ iana Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +249,13 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:Arkansas State Red Wolves @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas State Red Wolves @ Ge
- orgia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ orgia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Br
+ oadcast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +264,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:UL Monroe Warhawks @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUL Monroe Warhawks @ Georgia S
- tate Panthers\nGSU Convocation Center\, Atlanta\, GA
+ tate Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broadcast
+  not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +279,13 @@ DTSTART:20270114T230000Z
 DTEND:20270115T020000Z
 SUMMARY:Georgia State Panthers @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Marsh
- all Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ all Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: Br
+ oadcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +294,13 @@ DTSTART:20270116T203000Z
 DTEND:20270116T233000Z
 SUMMARY:Georgia State Panthers @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ App S
- tate Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ tate Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: Broa
+ dcast not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +309,13 @@ DTSTART:20270120T220000Z
 DTEND:20270121T010000Z
 SUMMARY:Coastal Carolina Chanticleers @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoastal Carolina Chanticleers 
- @ Georgia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ @ Georgia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast
+ : Broadcast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +324,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:James Madison Dukes @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJames Madison Dukes @ Georgia 
- State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broadcas
+ t not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +339,13 @@ DTSTART:20270127T160000Z
 DTEND:20270127T190000Z
 SUMMARY:Old Dominion Monarchs @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOld Dominion Monarchs @ Georgi
- a State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ a State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broadc
+ ast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +354,13 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Georgia Southern Eagles @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Geor
- gia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ gia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broa
+ dcast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +369,13 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Georgia State Panthers @ James Madison Dukes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ James
-  Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA
+  Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA\nBroadcast:
+  Broadcast not announced
 LOCATION:Atlantic Union Bank Center\, Harrisonburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,12 +385,12 @@ DTEND:20270211T020000Z
 SUMMARY:Georgia State Panthers @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Georg
  ia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro
- \, GA
+ \, GA\nBroadcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +399,13 @@ DTSTART:20270213T233000Z
 DTEND:20270214T023000Z
 SUMMARY:Georgia State Panthers @ Old Dominion Monarchs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Old D
- ominion Monarchs\nChartway Arena\, Norfolk\, VA
+ ominion Monarchs\nChartway Arena\, Norfolk\, VA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Chartway Arena\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +414,13 @@ DTSTART:20270217T230000Z
 DTEND:20270218T020000Z
 SUMMARY:App State Mountaineers @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Georg
- ia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ ia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broad
+ cast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +429,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Marshall Thundering Herd @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Geo
- rgia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ rgia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Bro
+ adcast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +444,13 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:Georgia State Panthers @ Southern Miss Lady Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ South
- ern Miss Lady Eagles\nReed Green Coliseum\, Hattiesburg\, MS
+ ern Miss Lady Eagles\nReed Green Coliseum\, Hattiesburg\, MS\nBroadcast: B
+ roadcast not announced
 LOCATION:Reed Green Coliseum\, Hattiesburg\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

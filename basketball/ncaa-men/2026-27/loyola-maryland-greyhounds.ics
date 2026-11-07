@@ -12,12 +12,14 @@ DTSTART:20261102T233000Z
 DTEND:20261103T023000Z
 SUMMARY:Loyola Maryland Greyhounds @ Georgetown Hoyas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Geo
- rgetown Hoyas\nCapital One Arena\, Washington\, DC
+ rgetown Hoyas\nCapital One Arena\, Washington\, DC\nBroadcast: ESPN+ (stre
+ aming) / Patriot League TV (streaming)
 LOCATION:Capital One Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920920@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Loyola Maryland Greyhounds @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Mou
- nt St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ nt St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: ESPN
+ + (streaming) / Patriot League TV (streaming)
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921265@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Washington Maryland Shoremen @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWashington Maryland Shoremen @ L
- oyola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD
+ oyola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: ESPN+ 
+ (streaming) / Patriot League TV (streaming)
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920566@open-sports-cal
@@ -51,12 +57,13 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Loyola Maryland Greyhounds @ Towson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Tow
- son Tigers\nSECU Arena\, Towson\, MD
+ son Tigers\nSECU Arena\, Towson\, MD\nBroadcast: FloSports (streaming)
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920427@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Loyola Maryland Greyhounds @ Virginia Cavaliers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Vir
- ginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ ginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: 
+ ACC Network
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921266@open-sports-cal
@@ -77,12 +86,13 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Rider Broncs @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Loyola Maryland G
- reyhounds\nReitz Arena\, Baltimore\, MD
+ reyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: ESPN+ (streaming)
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921267@open-sports-cal
@@ -90,12 +100,13 @@ DTSTART:20261201T000000Z
 DTEND:20261201T030000Z
 SUMMARY:Hartwick Hawks @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHartwick Hawks @ Loyola Maryland
-  Greyhounds\nReitz Arena\, Baltimore\, MD
+  Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: ESPN+ (streaming)
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921268@open-sports-cal
@@ -103,12 +114,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Loyola Maryland Greyhounds @ Dayton Flyers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Day
- ton Flyers\nUD Arena\, Dayton\, OH
+ ton Flyers\nUD Arena\, Dayton\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:UD Arena\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921269@open-sports-cal
@@ -116,12 +128,14 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:Loyola Maryland Greyhounds @ Manhattan Jaspers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Man
- hattan Jaspers\nDraddy Gymnasium\, Riverdale\, NY
+ hattan Jaspers\nDraddy Gymnasium\, Riverdale\, NY\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Draddy Gymnasium\, Riverdale\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921270@open-sports-cal
@@ -129,12 +143,14 @@ DTSTART:20261213T220000Z
 DTEND:20261214T010000Z
 SUMMARY:Central Connecticut Blue Devils @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Connecticut Blue Devils 
- @ Loyola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD
+ @ Loyola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919765@open-sports-cal
@@ -142,12 +158,14 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:Fairleigh Dickinson Knights @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFairleigh Dickinson Knights @ Lo
- yola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD
+ yola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920420@open-sports-cal
@@ -155,12 +173,14 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Loyola Maryland Greyhounds @ High Point Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Hig
- h Point Panthers\nQubein Center\, High Point\, NC
+ h Point Panthers\nQubein Center\, High Point\, NC\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Qubein Center\, High Point\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921271@open-sports-cal
@@ -168,12 +188,14 @@ DTSTART:20261230T190000Z
 DTEND:20261230T220000Z
 SUMMARY:Boston University Terriers @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Loy
- ola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD
+ ola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921272@open-sports-cal
@@ -181,11 +203,12 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:Army Black Knights @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArmy Black Knights @ Loyola Mary
- land Greyhounds\nReitz Arena\, Baltimore\, MD
+ land Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +217,12 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Loyola Maryland Greyhounds @ Lafayette Leopards
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Laf
- ayette Leopards\nKirby Sports Center\, Easton\, PA
+ ayette Leopards\nKirby Sports Center\, Easton\, PA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +231,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Holy Cross Crusaders @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHoly Cross Crusaders @ Loyola Ma
- ryland Greyhounds\nReitz Arena\, Baltimore\, MD
+ ryland Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: Broadcast not 
+ announced
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +245,12 @@ DTSTART:20270111T233000Z
 DTEND:20270112T023000Z
 SUMMARY:American University Eagles @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAmerican University Eagles @ Loy
- ola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD
+ ola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +259,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Loyola Maryland Greyhounds @ Bucknell Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Buc
- knell Bison\nSojka Pavilion\, Lewisburg\, PA
+ knell Bison\nSojka Pavilion\, Lewisburg\, PA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Sojka Pavilion\, Lewisburg\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +273,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Lafayette Leopards @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLafayette Leopards @ Loyola Mary
- land Greyhounds\nReitz Arena\, Baltimore\, MD
+ land Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +287,12 @@ DTSTART:20270123T220000Z
 DTEND:20270124T010000Z
 SUMMARY:Lehigh Mountain Hawks @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLehigh Mountain Hawks @ Loyola M
- aryland Greyhounds\nReitz Arena\, Baltimore\, MD
+ aryland Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: Broadcast not
+  announced
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +301,12 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:Loyola Maryland Greyhounds @ Navy Midshipmen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Nav
- y Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ y Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast no
+ t announced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +315,12 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Loyola Maryland Greyhounds @ Holy Cross Crusaders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Hol
- y Cross Crusaders\nHart Center Arena\, Worcester\, MA
+ y Cross Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +329,12 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:Colgate Raiders @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColgate Raiders @ Loyola Marylan
- d Greyhounds\nReitz Arena\, Baltimore\, MD
+ d Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +343,12 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:Loyola Maryland Greyhounds @ American University Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Ame
- rican University Eagles\nBender Arena\, Washington\, DC
+ rican University Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broadc
+ ast not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +357,12 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:Navy Midshipmen @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNavy Midshipmen @ Loyola Marylan
- d Greyhounds\nReitz Arena\, Baltimore\, MD
+ d Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +371,12 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Loyola Maryland Greyhounds @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Bos
- ton University Terriers\nCase Gym\, Boston\, MA
+ ton University Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +385,12 @@ DTSTART:20270217T230000Z
 DTEND:20270218T020000Z
 SUMMARY:Loyola Maryland Greyhounds @ Lehigh Mountain Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Leh
- igh Mountain Hawks\nStabler Arena\, Bethlehem\, PA
+ igh Mountain Hawks\nStabler Arena\, Bethlehem\, PA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Stabler Arena\, Bethlehem\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +399,12 @@ DTSTART:20270221T180000Z
 DTEND:20270221T210000Z
 SUMMARY:Bucknell Bison @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBucknell Bison @ Loyola Maryland
-  Greyhounds\nReitz Arena\, Baltimore\, MD
+  Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +413,12 @@ DTSTART:20270224T203000Z
 DTEND:20270224T233000Z
 SUMMARY:Loyola Maryland Greyhounds @ Army Black Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Arm
- y Black Knights\nChristl Arena\, West Point\, NY
+ y Black Knights\nChristl Arena\, West Point\, NY\nBroadcast: Broadcast not
+  announced
 LOCATION:Christl Arena\, West Point\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +427,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Loyola Maryland Greyhounds @ Colgate Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Col
- gate Raiders\nCotterell Court\, Hamilton\, NY
+ gate Raiders\nCotterell Court\, Hamilton\, NY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Cotterell Court\, Hamilton\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

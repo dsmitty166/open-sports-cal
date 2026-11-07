@@ -12,12 +12,13 @@ DTSTART:20260830T020000Z
 DTEND:20260830T050000Z
 SUMMARY:Memphis Tigers @ UNLV Rebels
 DESCRIPTION:NCAA FBS Football 2026\nMemphis Tigers @ UNLV Rebels\nAllegiant
-  Stadium\, Las Vegas\, NV
+  Stadium\, Las Vegas\, NV\nBroadcast: Fox
 LOCATION:Allegiant Stadium\, Las Vegas\, NV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864497@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260906T020000Z
 DTEND:20260906T050000Z
 SUMMARY:UNLV Rebels @ Hawai'i Rainbow Warriors
 DESCRIPTION:NCAA FBS Football 2026\nUNLV Rebels @ Hawai'i Rainbow Warriors\
- nClarence T.C. Ching Athletics Complex\, Honolulu\, HI
+ nClarence T.C. Ching Athletics Complex\, Honolulu\, HI\nBroadcast: CW
 LOCATION:Clarence T.C. Ching Athletics Complex\, Honolulu\, HI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862705@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260912T194500Z
 DTEND:20260912T224500Z
 SUMMARY:UNLV Rebels @ North Texas Mean Green
 DESCRIPTION:NCAA FBS Football 2026\nUNLV Rebels @ North Texas Mean Green\nD
- ATCU Stadium\, Denton\, TX
+ ATCU Stadium\, Denton\, TX\nBroadcast: ESPNU
 LOCATION:DATCU Stadium\, Denton\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864512@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T160000Z
 DTEND:20260926T190000Z
 SUMMARY:UNLV Rebels @ Akron Zips
 DESCRIPTION:NCAA FBS Football 2026\nUNLV Rebels @ Akron Zips\nInfoCision St
- adium\, Akron\, OH
+ adium\, Akron\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:InfoCision Stadium\, Akron\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858247@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:California Golden Bears @ UNLV Rebels
 DESCRIPTION:NCAA FBS Football 2026\nCalifornia Golden Bears @ UNLV Rebels\n
- Allegiant Stadium\, Las Vegas\, NV
+ Allegiant Stadium\, Las Vegas\, NV\nBroadcast: CBSSN
 LOCATION:Allegiant Stadium\, Las Vegas\, NV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864518@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T230000Z
 DTEND:20261011T020000Z
 SUMMARY:North Dakota State Bison @ UNLV Rebels
 DESCRIPTION:NCAA FBS Football 2026\nNorth Dakota State Bison @ UNLV Rebels\
- nAllegiant Stadium\, Las Vegas\, NV
+ nAllegiant Stadium\, Las Vegas\, NV\nBroadcast: CW
 LOCATION:Allegiant Stadium\, Las Vegas\, NV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864524@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261017T193000Z
 DTEND:20261017T223000Z
 SUMMARY:UNLV Rebels @ Air Force Falcons
 DESCRIPTION:NCAA FBS Football 2026\nUNLV Rebels @ Air Force Falcons\nFalcon
-  Stadium\, USAF Academy\, CO
+  Stadium\, USAF Academy\, CO\nBroadcast: CBSSN
 LOCATION:Falcon Stadium\, USAF Academy\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864530@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261101T023000Z
 DTEND:20261101T053000Z
 SUMMARY:Northern Illinois Huskies @ UNLV Rebels
 DESCRIPTION:NCAA FBS Football 2026\nNorthern Illinois Huskies @ UNLV Rebels
- \nAllegiant Stadium\, Las Vegas\, NV
+ \nAllegiant Stadium\, Las Vegas\, NV\nBroadcast: CBSSN
 LOCATION:Allegiant Stadium\, Las Vegas\, NV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864535@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261108T033000Z
 DTEND:20261108T063000Z
 SUMMARY:Wyoming Cowboys @ UNLV Rebels
 DESCRIPTION:NCAA FBS Football 2026\nWyoming Cowboys @ UNLV Rebels\nAllegian
- t Stadium\, Las Vegas\, NV
+ t Stadium\, Las Vegas\, NV\nBroadcast: CBSSN
 LOCATION:Allegiant Stadium\, Las Vegas\, NV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864539@open-sports-cal
@@ -129,12 +138,13 @@ DTSTART:20261115T003000Z
 DTEND:20261115T033000Z
 SUMMARY:UNLV Rebels @ New Mexico Lobos
 DESCRIPTION:NCAA FBS Football 2026\nUNLV Rebels @ New Mexico Lobos\nUnivers
- ity Stadium (NM)\, Albuquerque\, NM
+ ity Stadium (NM)\, Albuquerque\, NM\nBroadcast: CW
 LOCATION:University Stadium (NM)\, Albuquerque\, NM
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864544@open-sports-cal
@@ -142,12 +152,13 @@ DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
 SUMMARY:UNLV Rebels @ San José State Spartans
 DESCRIPTION:NCAA FBS Football 2026\nUNLV Rebels @ San José State Spartans\
- nCEFCU Stadium\, San Jose\, CA
+ nCEFCU Stadium\, San Jose\, CA\nBroadcast: CBSSN
 LOCATION:CEFCU Stadium\, San Jose\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864548@open-sports-cal
@@ -155,11 +166,12 @@ DTSTART:20261129T020000Z
 DTEND:20261129T050000Z
 SUMMARY:Nevada Wolf Pack @ UNLV Rebels
 DESCRIPTION:NCAA FBS Football 2026\nNevada Wolf Pack @ UNLV Rebels\nAllegia
- nt Stadium\, Las Vegas\, NV
+ nt Stadium\, Las Vegas\, NV\nBroadcast: CBSSN
 LOCATION:Allegiant Stadium\, Las Vegas\, NV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBSSN
 END:VEVENT
 END:VCALENDAR

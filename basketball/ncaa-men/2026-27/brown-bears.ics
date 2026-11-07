@@ -12,12 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:New Hampshire Wildcats @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Brown B
- ears\nPizzitola Sports Center\, Providence\, RI
+ ears\nPizzitola Sports Center\, Providence\, RI\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911305@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Boston University Terriers @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Bro
- wn Bears\nPizzitola Sports Center\, Providence\, RI
+ wn Bears\nPizzitola Sports Center\, Providence\, RI\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911306@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:Brown Bears @ Lehigh Mountain Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Lehigh Mountain Ha
- wks\nStabler Arena\, Bethlehem\, PA
+ wks\nStabler Arena\, Bethlehem\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Stabler Arena\, Bethlehem\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911307@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Canisius Golden Griffins @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCanisius Golden Griffins @ Brown
-  Bears\nPizzitola Sports Center\, Providence\, RI
+  Bears\nPizzitola Sports Center\, Providence\, RI\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911308@open-sports-cal
@@ -64,12 +71,13 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:Brown Bears @ Siena Saints
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Siena Saints\nMVP 
- Arena\, Albany\, NY
+ Arena\, Albany\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:MVP Arena\, Albany\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911309@open-sports-cal
@@ -77,12 +85,13 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Brown Bears @ Holy Cross Crusaders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Holy Cross Crusade
- rs\nHart Center Arena\, Worcester\, MA
+ rs\nHart Center Arena\, Worcester\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911310@open-sports-cal
@@ -90,12 +99,13 @@ DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
 SUMMARY:Brown Bears @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Vermont Catamounts
- \nPatrick Gymnasium\, Burlington\, VT
+ \nPatrick Gymnasium\, Burlington\, VT\nBroadcast: ESPN+ (streaming)
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911311@open-sports-cal
@@ -103,12 +113,14 @@ DTSTART:20261125T190000Z
 DTEND:20261125T220000Z
 SUMMARY:Johnson & Wales Griffins @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJohnson & Wales Griffins @ Brown
-  Bears\nPizzitola Sports Center\, Providence\, RI
+  Bears\nPizzitola Sports Center\, Providence\, RI\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911312@open-sports-cal
@@ -116,11 +128,11 @@ DTSTART:20261128T200000Z
 DTEND:20261128T230000Z
 SUMMARY:Brown Bears @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Air Force Falcons\
- nClune Arena\, Colorado Springs\, CO
+ nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +141,13 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Brown Bears @ Rhode Island Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Rhode Island Rams\
- nThomas M. Ryan Center\, Kingston\, RI
+ nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: ESPN+ (streaming)
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911314@open-sports-cal
@@ -142,12 +155,13 @@ DTSTART:20261204T230000Z
 DTEND:20261205T020000Z
 SUMMARY:Brown Bears @ Bryant Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Bryant Bulldogs\nC
- hace Athletic Center\, Smithfield\, RI
+ hace Athletic Center\, Smithfield\, RI\nBroadcast: ESPN+ (streaming)
 LOCATION:Chace Athletic Center\, Smithfield\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911315@open-sports-cal
@@ -155,11 +169,12 @@ DTSTART:20261206T203000Z
 DTEND:20261206T233000Z
 SUMMARY:Central Connecticut Blue Devils @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Connecticut Blue Devils 
- @ Brown Bears\nMassMutual Center\, Springfield\, MA\nNeutral site
+ @ Brown Bears\nMassMutual Center\, Springfield\, MA\nNeutral site\nBroadca
+ st: Broadcast not announced
 LOCATION:MassMutual Center\, Springfield\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +183,14 @@ DTSTART:20261209T230000Z
 DTEND:20261210T020000Z
 SUMMARY:Wheaton (MA) WHEATON (MA) @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWheaton (MA) WHEATON (MA) @ Brow
- n Bears\nPizzitola Sports Center\, Providence\, RI
+ n Bears\nPizzitola Sports Center\, Providence\, RI\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911317@open-sports-cal
@@ -181,12 +198,14 @@ DTSTART:20261222T210000Z
 DTEND:20261223T000000Z
 SUMMARY:Stony Brook Seawolves @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStony Brook Seawolves @ Brown Be
- ars\nPizzitola Sports Center\, Providence\, RI
+ ars\nPizzitola Sports Center\, Providence\, RI\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911318@open-sports-cal
@@ -194,12 +213,13 @@ DTSTART:20261229T230000Z
 DTEND:20261230T020000Z
 SUMMARY:Maine Black Bears @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaine Black Bears @ Brown Bears\
- nPizzitola Sports Center\, Providence\, RI
+ nPizzitola Sports Center\, Providence\, RI\nBroadcast: ESPN+ (streaming)
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911319@open-sports-cal
@@ -207,11 +227,11 @@ DTSTART:20270105T000000Z
 DTEND:20270105T030000Z
 SUMMARY:Brown Bears @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Yale Bulldogs\nJoh
- n J. Lee Amphitheater\, New Haven\, CT
+ n J. Lee Amphitheater\, New Haven\, CT\nBroadcast: Broadcast not announced
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +240,12 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:Pennsylvania Quakers @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPennsylvania Quakers @ Brown Bea
- rs\nPizzitola Sports Center\, Providence\, RI
+ rs\nPizzitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,12 +254,13 @@ DTSTART:20270115T230000Z
 DTEND:20270116T020000Z
 SUMMARY:Brown Bears @ Cornell Big Red
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Cornell Big Red\nN
- ewman Arena\, Ithaca\, NY
+ ewman Arena\, Ithaca\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Newman Arena\, Ithaca\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911322@open-sports-cal
@@ -246,11 +268,11 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Brown Bears @ Columbia Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Columbia Lions\nLe
- vien Gymnasium\, New York\, NY
+ vien Gymnasium\, New York\, NY\nBroadcast: Broadcast not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +281,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Princeton Tigers @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Brown Bears\n
- Pizzitola Sports Center\, Providence\, RI
+ Pizzitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +295,11 @@ DTSTART:20270130T000000Z
 DTEND:20270130T030000Z
 SUMMARY:Brown Bears @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Dartmouth Big Gree
- n\nLeede Arena\, Hanover\, NH
+ n\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +308,11 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Brown Bears @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Harvard Crimson\nL
- avietes Pavilion\, Cambridge\, MA
+ avietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +321,11 @@ DTSTART:20270206T000000Z
 DTEND:20270206T030000Z
 SUMMARY:Yale Bulldogs @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Brown Bears\nPiz
- zitola Sports Center\, Providence\, RI
+ zitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not announced
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +334,12 @@ DTSTART:20270213T000000Z
 DTEND:20270213T030000Z
 SUMMARY:Dartmouth Big Green @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Brown Bear
- s\nPizzitola Sports Center\, Providence\, RI
+ s\nPizzitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +348,12 @@ DTSTART:20270213T230000Z
 DTEND:20270214T020000Z
 SUMMARY:Harvard Crimson @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Brown Bears\nP
- izzitola Sports Center\, Providence\, RI
+ izzitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +362,11 @@ DTSTART:20270220T000000Z
 DTEND:20270220T030000Z
 SUMMARY:Brown Bears @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Princeton Tigers\n
- Jadwin Gymnasium\, Princeton\, NJ
+ Jadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +375,13 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:Cornell Big Red @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCornell Big Red @ Brown Bears\nP
- izzitola Sports Center\, Providence\, RI
+ izzitola Sports Center\, Providence\, RI\nBroadcast: ESPN+ (streaming)
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911331@open-sports-cal
@@ -363,11 +389,12 @@ DTSTART:20270227T230000Z
 DTEND:20270228T020000Z
 SUMMARY:Columbia Lions @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColumbia Lions @ Brown Bears\nPi
- zzitola Sports Center\, Providence\, RI
+ zzitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not announce
+ d
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +403,11 @@ DTSTART:20270306T000000Z
 DTEND:20270306T030000Z
 SUMMARY:Brown Bears @ Pennsylvania Quakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Pennsylvania Quake
- rs\nThe Palestra\, Philadelphia\, PA
+ rs\nThe Palestra\, Philadelphia\, PA\nBroadcast: Broadcast not announced
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

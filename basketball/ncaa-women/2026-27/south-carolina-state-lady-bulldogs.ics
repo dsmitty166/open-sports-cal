@@ -15,12 +15,12 @@ SUMMARY:Trinity College of Jacksonville Eagles @ South Carolina State Lady
  Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTrinity College of Jacksonvill
  e Eagles @ South Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Mem
- orial Center\, Orangeburg\, SC
+ orial Center\, Orangeburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -30,12 +30,12 @@ DTEND:20261106T030000Z
 SUMMARY:Bethune-Cookman Wildcats @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Sou
  th Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Center\,
-  Orangeburg\, SC
+  Orangeburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -46,12 +46,12 @@ SUMMARY:South Carolina Upstate Spartans @ South Carolina State Lady Bulldog
  s
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Upstate Spartan
  s @ South Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial C
- enter\, Orangeburg\, SC
+ enter\, Orangeburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -60,13 +60,15 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:South Carolina State Lady Bulldogs @ High Point Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ High Point Panthers\nQubein Center\, High Point\, NC
+ dogs @ High Point Panthers\nQubein Center\, High Point\, NC\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Qubein Center\, High Point\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401909673@open-sports-cal
@@ -74,13 +76,15 @@ DTSTART:20261117T160000Z
 DTEND:20261117T190000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Winthrop Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Winthrop Eagles\nWinthrop Coliseum\, Rock Hill\, SC
+ dogs @ Winthrop Eagles\nWinthrop Coliseum\, Rock Hill\, SC\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Winthrop Coliseum\, Rock Hill\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925981@open-sports-cal
@@ -89,12 +93,12 @@ DTEND:20261123T010000Z
 SUMMARY:Charleston Southern Buccaneers @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Southern Buccaneers
   @ South Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Ce
- nter\, Orangeburg\, SC
+ nter\, Orangeburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,13 +107,15 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:South Carolina State Lady Bulldogs @ South Alabama Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ South Alabama Jaguars\nMitchell Center\, Mobile\, AL
+ dogs @ South Alabama Jaguars\nMitchell Center\, Mobile\, AL\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Mitchell Center\, Mobile\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917735@open-sports-cal
@@ -117,13 +123,15 @@ DTSTART:20261203T020000Z
 DTEND:20261203T050000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Portland Pilots
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Portland Pilots\nChiles Center\, Portland\, OR
+ dogs @ Portland Pilots\nChiles Center\, Portland\, OR\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Chiles Center\, Portland\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925983@open-sports-cal
@@ -132,12 +140,12 @@ DTEND:20261206T000000Z
 SUMMARY:UNC Asheville Bulldogs @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Asheville Bulldogs @ South
   Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Center\, O
- rangeburg\, SC
+ rangeburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -146,12 +154,13 @@ DTSTART:20261210T013000Z
 DTEND:20261210T043000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Colorado State Rams\nMoby Arena\, Fort Collins\, CO
+ dogs @ Colorado State Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Bro
+ adcast not announced
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -162,12 +171,12 @@ SUMMARY:South Carolina State Lady Bulldogs @ Mississippi Valley State Devil
  ettes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
  dogs @ Mississippi Valley State Devilettes\nR.W. Harrison HPER Complex\, I
- tta Bena\, MS
+ tta Bena\, MS\nBroadcast: Broadcast not announced
 LOCATION:R.W. Harrison HPER Complex\, Itta Bena\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -177,13 +186,14 @@ DTEND:20261212T210000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Ole Miss Rebels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
  dogs @ Ole Miss Rebels\nThe Sandy and John Black Pavilion at Ole Miss\, Ox
- ford\, MS
+ ford\, MS\nBroadcast: SECN+ (streaming)
 LOCATION:The Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912984@open-sports-cal
@@ -191,13 +201,15 @@ DTSTART:20261214T160000Z
 DTEND:20261214T190000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Georgia Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Georgia Lady Bulldogs\nStegeman Coliseum\, Athens\, GA
+ dogs @ Georgia Lady Bulldogs\nStegeman Coliseum\, Athens\, GA\nBroadcast: 
+ SECN+ (streaming)
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918616@open-sports-cal
@@ -206,12 +218,12 @@ DTEND;VALUE=DATE:20261218
 SUMMARY:Alabama State Lady Hornets @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ S
  outh Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Center
- \, Orangeburg\, SC\nStart time TBD
+ \, Orangeburg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925985@open-sports-cal
@@ -219,12 +231,13 @@ DTSTART:20261219T210000Z
 DTEND:20261220T000000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Florida A&M Rattlers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Florida A&M Rattlers\nAl Lawson Center\, Tallahassee\, FL
+ dogs @ Florida A&M Rattlers\nAl Lawson Center\, Tallahassee\, FL\nBroadcas
+ t: Broadcast not announced
 LOCATION:Al Lawson Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,12 +246,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Howard Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Howard Bison\nBurr Gymnasium\, Washington\, DC
+ dogs @ Howard Bison\nBurr Gymnasium\, Washington\, DC\nBroadcast: Broadcas
+ t not announced
 LOCATION:Burr Gymnasium\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -248,12 +262,12 @@ DTEND:20270108T030000Z
 SUMMARY:Coppin State Eagles @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoppin State Eagles @ South Ca
  rolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Oran
- geburg\, SC
+ geburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -263,12 +277,12 @@ DTEND;VALUE=DATE:20270110
 SUMMARY:Morgan State Lady Bears @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Sout
  h Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Center\, 
- Orangeburg\, SC\nStart time TBD
+ Orangeburg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913897@open-sports-cal
@@ -276,12 +290,13 @@ DTSTART:20270111T230000Z
 DTEND:20270112T020000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Queens University Royals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Queens University Royals\nCurry Arena\, Charlotte\, NC
+ dogs @ Queens University Royals\nCurry Arena\, Charlotte\, NC\nBroadcast: 
+ Broadcast not announced
 LOCATION:Curry Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -290,12 +305,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Norfolk State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Norfolk State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA
+ dogs @ Norfolk State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA\nBroad
+ cast: Broadcast not announced
 LOCATION:Joseph G. Echols Hall\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -304,12 +320,13 @@ DTSTART:20270121T230000Z
 DTEND:20270122T020000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Delaware State Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Delaware State Hornets\nMemorial Hall (DE)\, Dover\, DE
+ dogs @ Delaware State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast:
+  Broadcast not announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -318,12 +335,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ dogs @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nB
+ roadcast: Broadcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -333,12 +351,12 @@ DTEND:20270130T220000Z
 SUMMARY:South Carolina State Lady Bulldogs @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
  dogs @ North Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, 
- NC
+ NC\nBroadcast: Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +366,12 @@ DTEND;VALUE=DATE:20270203
 SUMMARY:Morris MORRIS @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorris MORRIS @ South Carolina
   State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangeburg
- \, SC\nStart time TBD
+ \, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925990@open-sports-cal
@@ -362,12 +380,12 @@ DTEND;VALUE=DATE:20270207
 SUMMARY:Howard Bison @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoward Bison @ South Carolina 
  State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangeburg\
- , SC\nStart time TBD
+ , SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919608@open-sports-cal
@@ -375,12 +393,13 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Coppin State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Coppin State Eagles\nPhysical Education Complex\, Baltimore\, MD
+ dogs @ Coppin State Eagles\nPhysical Education Complex\, Baltimore\, MD\nB
+ roadcast: Broadcast not announced
 LOCATION:Physical Education Complex\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,12 +408,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Morgan State Lady Bears\nHill Field House\, Baltimore\, MD
+ dogs @ Morgan State Lady Bears\nHill Field House\, Baltimore\, MD\nBroadca
+ st: Broadcast not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +424,12 @@ DTEND:20270220T220000Z
 SUMMARY:Norfolk State Spartans @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorfolk State Spartans @ South
   Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Center\, O
- rangeburg\, SC
+ rangeburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +439,12 @@ DTEND:20270226T030000Z
 SUMMARY:Delaware State Hornets @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware State Hornets @ South
   Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Center\, O
- rangeburg\, SC
+ rangeburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -434,12 +454,12 @@ DTEND;VALUE=DATE:20270228
 SUMMARY:Maryland Eastern Shore Hawks @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
   South Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Cent
- er\, Orangeburg\, SC\nStart time TBD
+ er\, Orangeburg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925992@open-sports-cal
@@ -448,12 +468,12 @@ DTEND:20270305T023000Z
 SUMMARY:North Carolina Central Eagles @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
  @ South Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Cen
- ter\, Orangeburg\, SC
+ ter\, Orangeburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

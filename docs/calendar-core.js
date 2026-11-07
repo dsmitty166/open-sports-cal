@@ -15,6 +15,7 @@
       if (!event || !line.includes(':')) continue;
       const colon = line.indexOf(':'), field = line.slice(0, colon), value = line.slice(colon + 1), key = field.split(';')[0];
       if (['UID', 'SUMMARY', 'LOCATION', 'STATUS'].includes(key)) event[key.toLowerCase()] = unescape(value);
+      if (key === 'X-BROADCAST') event.broadcast = unescape(value);
       if (key === 'DTSTART' || key === 'DTEND') {
         const allDay = field.includes('VALUE=DATE');
         const m = value.match(/^(\d{4})(\d{2})(\d{2})(?:T(\d{2})(\d{2})(\d{2})?Z?)?$/);
@@ -49,6 +50,7 @@
       const fingerprint = event.uid ? event.uid.replace(/^ncaa-(?:fbs|fcs)-/, 'ncaa-football-') : `${+event.start}|${event.allDay}|${event.summary}|${event.location || ''}`;
       if (!merged.has(fingerprint)) merged.set(fingerprint, {...event, calendars:[]});
       const item = merged.get(fingerprint);
+      if(event.broadcast) item.broadcast=[...new Set([...(item.broadcast || '').split(' / ').filter(Boolean),...event.broadcast.split(' / ')])].join(' / ');
       if (!item.calendars.includes(source.id)) item.calendars.push(source.id);
     }
     return [...merged.values()].sort((a,b) => +a.start - +b.start || a.summary.localeCompare(b.summary));

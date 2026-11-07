@@ -12,12 +12,13 @@ DTSTART:20260829T220000Z
 DTEND:20260830T010000Z
 SUMMARY:The Citadel Bulldogs @ Wofford Terriers
 DESCRIPTION:NCAA FCS Football 2026\nThe Citadel Bulldogs @ Wofford Terriers
- \nGibbs Stadium\, Spartanburg\, SC
+ \nGibbs Stadium\, Spartanburg\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Gibbs Stadium\, Spartanburg\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401862694@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260905T193000Z
 DTEND:20260905T223000Z
 SUMMARY:The Citadel Bulldogs @ Charlotte 49ers
 DESCRIPTION:NCAA FCS Football 2026\nThe Citadel Bulldogs @ Charlotte 49ers\
- nJerry Richardson Stadium\, Charlotte\, NC
+ nJerry Richardson Stadium\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Jerry Richardson Stadium\, Charlotte\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868171@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20260912T220000Z
 DTEND:20260913T010000Z
 SUMMARY:Charleston Southern Buccaneers @ The Citadel Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nCharleston Southern Buccaneers @ The Ci
- tadel Bulldogs\nJohnson Hagood Stadium\, Charleston\, SC
+ tadel Bulldogs\nJohnson Hagood Stadium\, Charleston\, SC\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Johnson Hagood Stadium\, Charleston\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868338@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260926T180000Z
 DTEND:20260926T210000Z
 SUMMARY:Chattanooga Mocs @ The Citadel Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nChattanooga Mocs @ The Citadel Bulldogs
- \nJohnson Hagood Stadium\, Charleston\, SC
+ \nJohnson Hagood Stadium\, Charleston\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Johnson Hagood Stadium\, Charleston\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867986@open-sports-cal
@@ -64,11 +69,12 @@ DTSTART:20261003T180000Z
 DTEND:20261003T210000Z
 SUMMARY:The Citadel Bulldogs @ South Carolina State Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nThe Citadel Bulldogs @ South Carolina S
- tate Bulldogs\nOliver C. Dawson Stadium\, Orangeburg\, SC
+ tate Bulldogs\nOliver C. Dawson Stadium\, Orangeburg\, SC\nBroadcast: Broa
+ dcast not announced
 LOCATION:Oliver C. Dawson Stadium\, Orangeburg\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -77,12 +83,14 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:East Tennessee State Buccaneers @ The Citadel Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nEast Tennessee State Buccaneers @ The C
- itadel Bulldogs\nJohnson Hagood Stadium\, Charleston\, SC
+ itadel Bulldogs\nJohnson Hagood Stadium\, Charleston\, SC\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Johnson Hagood Stadium\, Charleston\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401856725@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261017T170000Z
 DTEND:20261017T200000Z
 SUMMARY:The Citadel Bulldogs @ Texas A&M Aggies
 DESCRIPTION:NCAA FCS Football 2026\nThe Citadel Bulldogs @ Texas A&M Aggies
- \nKyle Field\, College Station\, TX
+ \nKyle Field\, College Station\, TX\nBroadcast: SECN+ (streaming)
 LOCATION:Kyle Field\, College Station\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868392@open-sports-cal
@@ -103,12 +112,14 @@ DTSTART:20261024T180000Z
 DTEND:20261024T210000Z
 SUMMARY:Tennessee Tech Golden Eagles @ The Citadel Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nTennessee Tech Golden Eagles @ The Cita
- del Bulldogs\nJohnson Hagood Stadium\, Charleston\, SC
+ del Bulldogs\nJohnson Hagood Stadium\, Charleston\, SC\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Johnson Hagood Stadium\, Charleston\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868384@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 SUMMARY:The Citadel Bulldogs @ Mercer Bears
 DESCRIPTION:NCAA FCS Football 2026\nThe Citadel Bulldogs @ Mercer Bears\nFi
- ve Star Stadium\, Macon\, GA
+ ve Star Stadium\, Macon\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Five Star Stadium\, Macon\, GA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868379@open-sports-cal
@@ -129,12 +141,13 @@ DTSTART:20261107T190000Z
 DTEND:20261107T220000Z
 SUMMARY:Furman Paladins @ The Citadel Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nFurman Paladins @ The Citadel Bulldogs\
- nJohnson Hagood Stadium\, Charleston\, SC
+ nJohnson Hagood Stadium\, Charleston\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Johnson Hagood Stadium\, Charleston\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868395@open-sports-cal
@@ -142,12 +155,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:The Citadel Bulldogs @ VMI Keydets
 DESCRIPTION:NCAA FCS Football 2026\nThe Citadel Bulldogs @ VMI Keydets\nFos
- ter Stadium\, Lexington\, VA
+ ter Stadium\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Foster Stadium\, Lexington\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868396@open-sports-cal
@@ -155,11 +169,13 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:The Citadel Bulldogs @ Western Carolina Catamounts
 DESCRIPTION:NCAA FCS Football 2026\nThe Citadel Bulldogs @ Western Carolina
-  Catamounts\nE.J. Whitmire Stadium\, Cullowhee\, NC
+  Catamounts\nE.J. Whitmire Stadium\, Cullowhee\, NC\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

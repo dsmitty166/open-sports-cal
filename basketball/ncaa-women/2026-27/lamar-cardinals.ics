@@ -12,13 +12,15 @@ DTSTART:20261102T233000Z
 DTEND:20261103T023000Z
 SUMMARY:Louisiana Christian Wildcats @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisiana Christian Wildcats @
-  Lamar Cardinals\nMontagne Center\, Beaumont\, TX
+  Lamar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920085@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T003000Z
 DTEND:20261106T033000Z
 SUMMARY:Lamar Cardinals @ UT Arlington Mavericks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ UT Arlington
-  Mavericks\nCollege Park Center\, Arlington\, TX
+  Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918941@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Lamar Cardinals @ Texas Tech Lady Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ Texas Tech L
- ady Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ ady Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920086@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261113T010000Z
 DTEND:20261113T040000Z
 SUMMARY:Arlington Baptist Patriots @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArlington Baptist Patriots @ L
- amar Cardinals\nMontagne Center\, Beaumont\, TX
+ amar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920087@open-sports-cal
@@ -68,13 +76,14 @@ DTSTART:20261116T220000Z
 DTEND:20261117T010000Z
 SUMMARY:Lamar Cardinals @ Texas A&M Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ Texas A&M Ag
- gies\nReed Arena\, College Station\, TX
+ gies\nReed Arena\, College Station\, TX\nBroadcast: SECN+ (streaming)
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920088@open-sports-cal
@@ -82,13 +91,14 @@ DTSTART:20261121T003000Z
 DTEND:20261121T033000Z
 SUMMARY:Texas State Bobcats @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas State Bobcats @ Lamar Ca
- rdinals\nMontagne Center\, Beaumont\, TX
+ rdinals\nMontagne Center\, Beaumont\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920089@open-sports-cal
@@ -96,12 +106,13 @@ DTSTART:20261125T210000Z
 DTEND:20261126T000000Z
 SUMMARY:Lamar Cardinals @ UIC Flames
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ UIC Flames\n
- Tudor Fieldhouse\, Houston\, TX\nNeutral site
+ Tudor Fieldhouse\, Houston\, TX\nNeutral site\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -110,13 +121,14 @@ DTSTART:20261127T210000Z
 DTEND:20261128T000000Z
 SUMMARY:Lamar Cardinals @ Rice Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ Rice Owls\nT
- udor Fieldhouse\, Houston\, TX
+ udor Fieldhouse\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920090@open-sports-cal
@@ -124,13 +136,14 @@ DTSTART:20261204T003000Z
 DTEND:20261204T033000Z
 SUMMARY:East Texas A&M Lions @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Texas A&M Lions @ Lamar C
- ardinals\nMontagne Center\, Beaumont\, TX
+ ardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920091@open-sports-cal
@@ -138,13 +151,15 @@ DTSTART:20261207T170000Z
 DTEND:20261207T200000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX
+  @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920092@open-sports-cal
@@ -152,13 +167,15 @@ DTSTART:20261216T010000Z
 DTEND:20261216T040000Z
 SUMMARY:Lamar Cardinals @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ Texas A&M-Co
- rpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ rpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920093@open-sports-cal
@@ -166,13 +183,15 @@ DTSTART:20261218T003000Z
 DTEND:20261218T033000Z
 SUMMARY:Lamar Cardinals @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ UT Rio Grand
- e Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ e Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920094@open-sports-cal
@@ -180,13 +199,15 @@ DTSTART:20261222T003000Z
 DTEND:20261222T033000Z
 SUMMARY:Northwestern State Lady Demons @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwestern State Lady Demons
-  @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX
+  @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920095@open-sports-cal
@@ -194,13 +215,14 @@ DTSTART:20261231T210000Z
 DTEND:20270101T000000Z
 SUMMARY:SE Louisiana Lady Lions @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSE Louisiana Lady Lions @ Lama
- r Cardinals\nMontagne Center\, Beaumont\, TX
+ r Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920096@open-sports-cal
@@ -208,12 +230,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Lamar Cardinals @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ McNeese Cowg
- irls\nTownsley Law Arena\, Lake Charles\, LA
+ irls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +245,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Lamar Cardinals @ Houston Christian Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ Houston Chri
- stian Huskies\nSharp Gymnasium\, Houston\, TX
+ stian Huskies\nSharp Gymnasium\, Houston\, TX\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Sharp Gymnasium\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +260,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Lamar Cardinals @ Incarnate Word Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ Incarnate Wo
- rd Cardinals\nMcDermott Center\, San Antonio\, TX
+ rd Cardinals\nMcDermott Center\, San Antonio\, TX\nBroadcast: Broadcast no
+ t announced
 LOCATION:McDermott Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +275,13 @@ DTSTART:20270115T003000Z
 DTEND:20270115T033000Z
 SUMMARY:LSU New Orleans Privateers @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ L
- amar Cardinals\nMontagne Center\, Beaumont\, TX
+ amar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadcast not 
+ announced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +290,12 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Nicholls Colonels @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNicholls Colonels @ Lamar Card
- inals\nMontagne Center\, Beaumont\, TX
+ inals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadcast not announced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +304,12 @@ DTSTART:20270122T003000Z
 DTEND:20270122T033000Z
 SUMMARY:McNeese Cowgirls @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Lamar Cardi
- nals\nMontagne Center\, Beaumont\, TX
+ nals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadcast not announced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +318,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Lamar Cardinals @ SE Louisiana Lady Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ SE Louisiana
-  Lady Lions\nUniversity Center\, Hammond\, LA
+  Lady Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +333,13 @@ DTSTART:20270129T003000Z
 DTEND:20270129T033000Z
 SUMMARY:Lamar Cardinals @ Northwestern State Lady Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ Northwestern
-  State Lady Demons\nPrather Coliseum\, Natchitoches\, LA
+  State Lady Demons\nPrather Coliseum\, Natchitoches\, LA\nBroadcast: Broad
+ cast not announced
 LOCATION:Prather Coliseum\, Natchitoches\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +348,13 @@ DTSTART:20270130T203000Z
 DTEND:20270130T233000Z
 SUMMARY:Lamar Cardinals @ East Texas A&M Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ East Texas A
- &M Lions\nThe Field House\, Commerce\, TX
+ &M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcast not announ
+ ced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +363,13 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Lamar Cardinals\nMontagne Center\, Beaumont\, TX
+ Lamar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadcast not
+  announced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +378,13 @@ DTSTART:20270212T003000Z
 DTEND:20270212T033000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX
+ @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +393,13 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX
+ ders @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadc
+ ast not announced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +408,13 @@ DTSTART:20270219T003000Z
 DTEND:20270219T033000Z
 SUMMARY:Lamar Cardinals @ Nicholls Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ Nicholls Col
- onels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA
+ onels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:David R. Stopher Gymnasium\, Thibodaux\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +423,13 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:Lamar Cardinals @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ LSU New Orle
- ans Privateers\nLakefront Arena\, New Orleans\, LA
+ ans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +438,13 @@ DTSTART:20270226T003000Z
 DTEND:20270226T033000Z
 SUMMARY:Houston Christian Huskies @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHouston Christian Huskies @ La
- mar Cardinals\nMontagne Center\, Beaumont\, TX
+ mar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +453,13 @@ DTSTART:20270227T210000Z
 DTEND:20270228T000000Z
 SUMMARY:Incarnate Word Cardinals @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIncarnate Word Cardinals @ Lam
- ar Cardinals\nMontagne Center\, Beaumont\, TX
+ ar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +468,13 @@ DTSTART:20270303T003000Z
 DTEND:20270303T033000Z
 SUMMARY:Lamar Cardinals @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ Stephen F. A
- ustin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ ustin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\nBroadcast
+ : Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

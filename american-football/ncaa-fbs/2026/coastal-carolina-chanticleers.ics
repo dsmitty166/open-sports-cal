@@ -12,12 +12,14 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:Coastal Carolina Chanticleers @ West Virginia Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nCoastal Carolina Chanticleers @ West Vi
- rginia Mountaineers\nMilan Puskar Stadium\, Morgantown\, WV
+ rginia Mountaineers\nMilan Puskar Stadium\, Morgantown\, WV\nBroadcast: TN
+ T
 LOCATION:Milan Puskar Stadium\, Morgantown\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401868008@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260912T233000Z
 DTEND:20260913T023000Z
 SUMMARY:Fordham Rams @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA FBS Football 2026\nFordham Rams @ Coastal Carolina Chantic
- leers\nBrooks Stadium (SC)\, Conway\, SC
+ leers\nBrooks Stadium (SC)\, Conway\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Brooks Stadium (SC)\, Conway\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869940@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260919T153000Z
 DTEND:20260919T183000Z
 SUMMARY:Coastal Carolina Chanticleers @ Delaware Blue Hens
 DESCRIPTION:NCAA FBS Football 2026\nCoastal Carolina Chanticleers @ Delawar
- e Blue Hens\nDelaware Stadium\, Newark\, DE
+ e Blue Hens\nDelaware Stadium\, Newark\, DE\nBroadcast: CBSSN
 LOCATION:Delaware Stadium\, Newark\, DE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869941@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260924T233000Z
 DTEND:20260925T023000Z
 SUMMARY:Liberty Flames @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA FBS Football 2026\nLiberty Flames @ Coastal Carolina Chant
- icleers\nBrooks Stadium (SC)\, Conway\, SC
+ icleers\nBrooks Stadium (SC)\, Conway\, SC\nBroadcast: ESPN
 LOCATION:Brooks Stadium (SC)\, Conway\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869942@open-sports-cal
@@ -64,12 +69,14 @@ DTSTART:20261003T230000Z
 DTEND:20261004T020000Z
 SUMMARY:Georgia Southern Eagles @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA FBS Football 2026\nGeorgia Southern Eagles @ Coastal Carol
- ina Chanticleers\nBrooks Stadium (SC)\, Conway\, SC
+ ina Chanticleers\nBrooks Stadium (SC)\, Conway\, SC\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Brooks Stadium (SC)\, Conway\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869943@open-sports-cal
@@ -77,12 +84,14 @@ DTSTART:20261010T230000Z
 DTEND:20261011T020000Z
 SUMMARY:Coastal Carolina Chanticleers @ Marshall Thundering Herd
 DESCRIPTION:NCAA FBS Football 2026\nCoastal Carolina Chanticleers @ Marshal
- l Thundering Herd\nJoan C. Edwards Stadium\, Huntington\, WV
+ l Thundering Herd\nJoan C. Edwards Stadium\, Huntington\, WV\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869844@open-sports-cal
@@ -90,12 +99,13 @@ DTSTART:20261017T000000Z
 DTEND:20261017T030000Z
 SUMMARY:App State Mountaineers @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA FBS Football 2026\nApp State Mountaineers @ Coastal Caroli
- na Chanticleers\nBrooks Stadium (SC)\, Conway\, SC
+ na Chanticleers\nBrooks Stadium (SC)\, Conway\, SC\nBroadcast: ESPN2
 LOCATION:Brooks Stadium (SC)\, Conway\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869944@open-sports-cal
@@ -103,12 +113,14 @@ DTSTART:20261031T180000Z
 DTEND:20261031T210000Z
 SUMMARY:Coastal Carolina Chanticleers @ Georgia State Panthers
 DESCRIPTION:NCAA FBS Football 2026\nCoastal Carolina Chanticleers @ Georgia
-  State Panthers\nCenter Parc Stadium\, Atlanta\, GA
+  State Panthers\nCenter Parc Stadium\, Atlanta\, GA\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Center Parc Stadium\, Atlanta\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869945@open-sports-cal
@@ -116,12 +128,14 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Old Dominion Monarchs @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA FBS Football 2026\nOld Dominion Monarchs @ Coastal Carolin
- a Chanticleers\nBrooks Stadium (SC)\, Conway\, SC
+ a Chanticleers\nBrooks Stadium (SC)\, Conway\, SC\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Brooks Stadium (SC)\, Conway\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869937@open-sports-cal
@@ -129,12 +143,14 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Arkansas State Red Wolves @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA FBS Football 2026\nArkansas State Red Wolves @ Coastal Car
- olina Chanticleers\nBrooks Stadium (SC)\, Conway\, SC
+ olina Chanticleers\nBrooks Stadium (SC)\, Conway\, SC\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Brooks Stadium (SC)\, Conway\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869946@open-sports-cal
@@ -143,11 +159,11 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:Coastal Carolina Chanticleers @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA FBS Football 2026\nCoastal Carolina Chanticleers @ Louisia
  na Ragin' Cajuns\nOur Lady of Lourdes Stadium\, Lafayette\, LA\nStart time
-  TBD
+  TBD\nBroadcast: Broadcast not announced
 LOCATION:Our Lady of Lourdes Stadium\, Lafayette\, LA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869947@open-sports-cal
@@ -155,10 +171,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Coastal Carolina Chanticleers @ James Madison Dukes
 DESCRIPTION:NCAA FBS Football 2026\nCoastal Carolina Chanticleers @ James M
- adison Dukes\nBridgeforth Stadium\, Harrisonburg\, VA\nStart time TBD
+ adison Dukes\nBridgeforth Stadium\, Harrisonburg\, VA\nStart time TBD\nBro
+ adcast: Broadcast not announced
 LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,14 @@ DTSTART:20261103T020000Z
 DTEND:20261103T050000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- UConn Huskies\nPeoplesBank Arena\, Hartford\, CT
+ UConn Huskies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: Peacock (stre
+ aming)
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906864@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261106T010000Z
 DTEND:20261106T040000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Texas Longhorns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Texas Longhorns\nMoody Center\, Austin\, TX
+ Texas Longhorns\nMoody Center\, Austin\, TX\nBroadcast: SECN+ (streaming)
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911391@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261112T010000Z
 DTEND:20261112T040000Z
 SUMMARY:Erskine Flying Fleet @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nErskine Flying Fleet @ Gardner-W
- ebb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ ebb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911392@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- South Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ South Carolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: 
+ SECN+ (streaming)
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911393@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261119T013000Z
 DTEND:20261119T043000Z
 SUMMARY:UNC Greensboro Spartans @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Gardne
- r-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ r-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911394@open-sports-cal
@@ -77,12 +86,13 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- VMI Keydets\nCameron Hall\, Lexington\, VA
+ VMI Keydets\nCameron Hall\, Lexington\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911027@open-sports-cal
@@ -90,12 +100,14 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Bowling Green Falcons\nStroh Center\, Bowling Green\, OH
+ Bowling Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911395@open-sports-cal
@@ -103,12 +115,14 @@ DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:North Carolina Central Eagles @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Central Eagles @ 
- Gardner-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ Gardner-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911396@open-sports-cal
@@ -116,12 +130,14 @@ DTSTART:20261202T160000Z
 DTEND:20261202T190000Z
 SUMMARY:Bob Jones Bruins @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBob Jones Bruins @ Gardner-Webb 
- Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911397@open-sports-cal
@@ -129,12 +145,14 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:Queens University Royals @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nQueens University Royals @ Gardn
- er-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ er-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911398@open-sports-cal
@@ -142,11 +160,12 @@ DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
 SUMMARY:Campbell Fighting Camels @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Gardn
- er-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ er-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadc
+ ast: Broadcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +174,14 @@ DTSTART:20261216T020000Z
 DTEND:20261216T050000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Wake Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ Wake Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: 
+ ACC Network
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911399@open-sports-cal
@@ -168,12 +189,14 @@ DTSTART:20261218T230000Z
 DTEND:20261219T020000Z
 SUMMARY:Toccoa Falls Eagles @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nToccoa Falls Eagles @ Gardner-We
- bb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ bb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906789@open-sports-cal
@@ -181,12 +204,13 @@ DTSTART:20261220T190000Z
 DTEND:20261220T220000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Georgia Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Georgia Bulldogs\nStegeman Coliseum\, Athens\, GA
+ Georgia Bulldogs\nStegeman Coliseum\, Athens\, GA\nBroadcast: SEC Network
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911400@open-sports-cal
@@ -194,12 +218,13 @@ DTSTART:20261229T000000Z
 DTEND:20261229T030000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Kentucky Wildcats\nRupp Arena\, Lexington\, KY
+ Kentucky Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: SEC Network
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924032@open-sports-cal
@@ -207,11 +232,12 @@ DTSTART:20270101T190000Z
 DTEND:20270101T220000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Winthrop Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Winthrop Eagles\nWinthrop Coliseum\, Rock Hill\, SC
+ Winthrop Eagles\nWinthrop Coliseum\, Rock Hill\, SC\nBroadcast: Broadcast 
+ not announced
 LOCATION:Winthrop Coliseum\, Rock Hill\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +246,12 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Charleston Southern Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Charleston Southern Buccaneers\nBuccaneer Fieldhouse\, Charleston\, SC
+ Charleston Southern Buccaneers\nBuccaneer Fieldhouse\, Charleston\, SC\nBr
+ oadcast: Broadcast not announced
 LOCATION:Buccaneer Fieldhouse\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +260,12 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:Presbyterian Blue Hose @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPresbyterian Blue Hose @ Gardner
- -Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ -Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadcas
+ t: Broadcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +274,12 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ High Point Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- High Point Panthers\nQubein Center\, High Point\, NC
+ High Point Panthers\nQubein Center\, High Point\, NC\nBroadcast: Broadcast
+  not announced
 LOCATION:Qubein Center\, High Point\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +288,12 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:UNC Asheville Bulldogs @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Gardner
- -Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ -Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadcas
+ t: Broadcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +302,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Longwood Lancers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Longwood Lancers\nJoan Perry Brock Center\, Farmville\, VA
+ Longwood Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +316,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- South Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ South Carolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBro
+ adcast: Broadcast not announced
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +330,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Radford Highlanders @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ Gardner-We
- bb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ bb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadcast: 
+ Broadcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +344,12 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Presbyterian Blue Hose
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Presbyterian Blue Hose\nTempleton Center\, Clinton\, SC
+ Presbyterian Blue Hose\nTempleton Center\, Clinton\, SC\nBroadcast: Broadc
+ ast not announced
 LOCATION:Templeton Center\, Clinton\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +358,12 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:Charleston Southern Buccaneers @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Southern Buccaneers @
-  Gardner-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+  Gardner-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\n
+ Broadcast: Broadcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +372,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Longwood Lancers @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLongwood Lancers @ Gardner-Webb 
- Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadcast: Bro
+ adcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +386,12 @@ DTSTART:20270213T213000Z
 DTEND:20270214T003000Z
 SUMMARY:High Point Panthers @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHigh Point Panthers @ Gardner-We
- bb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ bb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadcast: 
+ Broadcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +400,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Radford Highlanders\nThe Dedmon Center\, Radford\, VA
+ Radford Highlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broadcas
+ t not announced
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +414,12 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Winthrop Eagles @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWinthrop Eagles @ Gardner-Webb R
- unnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ unnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadcast: Broa
+ dcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +428,12 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:South Carolina Upstate Spartans @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Upstate Spartans 
- @ Gardner-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ @ Gardner-Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\
+ nBroadcast: Broadcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +442,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC
+ UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broadcas
+ t not announced
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

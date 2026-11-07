@@ -12,12 +12,13 @@ DTSTART:20260905T234500Z
 DTEND:20260906T024500Z
 SUMMARY:Florida Atlantic Owls @ Florida Gators
 DESCRIPTION:NCAA FBS Football 2026\nFlorida Atlantic Owls @ Florida Gators\
- nBen Hill Griffin Stadium\, Gainesville\, FL
+ nBen Hill Griffin Stadium\, Gainesville\, FL\nBroadcast: SEC Network
 LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856672@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20260912T213000Z
 DTEND:20260913T003000Z
 SUMMARY:Campbell Fighting Camels @ Florida Gators
 DESCRIPTION:NCAA FBS Football 2026\nCampbell Fighting Camels @ Florida Gato
- rs\nBen Hill Griffin Stadium\, Gainesville\, FL
+ rs\nBen Hill Griffin Stadium\, Gainesville\, FL\nBroadcast: SECN+ (streami
+ ng)
 LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856687@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Florida Gators @ Auburn Tigers
 DESCRIPTION:NCAA FBS Football 2026\nFlorida Gators @ Auburn Tigers\nJordan-
- Hare Stadium\, Auburn\, AL
+ Hare Stadium\, Auburn\, AL\nBroadcast: ESPN
 LOCATION:Jordan-Hare Stadium\, Auburn\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856699@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:Ole Miss Rebels @ Florida Gators
 DESCRIPTION:NCAA FBS Football 2026\nOle Miss Rebels @ Florida Gators\nBen H
- ill Griffin Stadium\, Gainesville\, FL
+ ill Griffin Stadium\, Gainesville\, FL\nBroadcast: ABC
 LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856708@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T195000Z
 DTEND:20261003T225000Z
 SUMMARY:Florida Gators @ Missouri Tigers
 DESCRIPTION:NCAA FBS Football 2026\nFlorida Gators @ Missouri Tigers\nMemor
- ial Stadium\, Columbia\, MO
+ ial Stadium\, Columbia\, MO\nBroadcast: ABC
 LOCATION:Memorial Stadium\, Columbia\, MO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856714@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261010T164500Z
 DTEND:20261010T194500Z
 SUMMARY:South Carolina Gamecocks @ Florida Gators
 DESCRIPTION:NCAA FBS Football 2026\nSouth Carolina Gamecocks @ Florida Gato
- rs\nBen Hill Griffin Stadium\, Gainesville\, FL
+ rs\nBen Hill Griffin Stadium\, Gainesville\, FL\nBroadcast: SEC Network
 LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856724@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261017T160000Z
 DTEND:20261017T190000Z
 SUMMARY:Florida Gators @ Texas Longhorns
 DESCRIPTION:NCAA FBS Football 2026\nFlorida Gators @ Texas Longhorns\nDKR-T
- exas Memorial Stadium\, Austin\, TX
+ exas Memorial Stadium\, Austin\, TX\nBroadcast: ABC
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856734@open-sports-cal
@@ -103,12 +111,14 @@ DTSTART:20261031T193000Z
 DTEND:20261031T223000Z
 SUMMARY:Florida Gators @ Georgia Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nFlorida Gators @ Georgia Bulldogs\nMerc
- edes-Benz Stadium\, Atlanta\, GA\nNeutral site
+ edes-Benz Stadium\, Atlanta\, GA\nNeutral site\nBroadcast: ABC / Disney+ (
+ streaming)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856739@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261108T004500Z
 DTEND:20261108T034500Z
 SUMMARY:Oklahoma Sooners @ Florida Gators
 DESCRIPTION:NCAA FBS Football 2026\nOklahoma Sooners @ Florida Gators\nBen 
- Hill Griffin Stadium\, Gainesville\, FL
+ Hill Griffin Stadium\, Gainesville\, FL\nBroadcast: SEC Network
 LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856884@open-sports-cal
@@ -129,11 +140,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Florida Gators @ Kentucky Wildcats
 DESCRIPTION:NCAA FBS Football 2026\nFlorida Gators @ Kentucky Wildcats\nKro
- ger Field\, Lexington\, KY\nStart time TBD
+ ger Field\, Lexington\, KY\nStart time TBD\nBroadcast: ESPN
 LOCATION:Kroger Field\, Lexington\, KY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856748@open-sports-cal
@@ -141,11 +153,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Vanderbilt Commodores @ Florida Gators
 DESCRIPTION:NCAA FBS Football 2026\nVanderbilt Commodores @ Florida Gators\
- nBen Hill Griffin Stadium\, Gainesville\, FL\nStart time TBD
+ nBen Hill Griffin Stadium\, Gainesville\, FL\nStart time TBD\nBroadcast: B
+ roadcast not announced
 LOCATION:Ben Hill Griffin Stadium\, Gainesville\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856759@open-sports-cal
@@ -153,11 +166,12 @@ DTSTART:20261127T203000Z
 DTEND:20261127T233000Z
 SUMMARY:Florida Gators @ Florida State Seminoles
 DESCRIPTION:NCAA FBS Football 2026\nFlorida Gators @ Florida State Seminole
- s\nDoak Campbell Stadium\, Tallahassee\, FL
+ s\nDoak Campbell Stadium\, Tallahassee\, FL\nBroadcast: ABC
 LOCATION:Doak Campbell Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 END:VCALENDAR

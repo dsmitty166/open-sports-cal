@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Elon Phoenix @ Columbia Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Columbia Lions\nL
- evien Gymnasium\, New York\, NY
+ evien Gymnasium\, New York\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921140@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:UNC Greensboro Spartans @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Elon P
- hoenix\nSchar Center\, Elon\, NC
+ hoenix\nSchar Center\, Elon\, NC\nBroadcast: FloSports (streaming)
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911209@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Elon Phoenix @ George Washington Revolutionaries
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ George Washington
-  Revolutionaries\nCharles E. Smith Center\, Washington\, DC
+  Revolutionaries\nCharles E. Smith Center\, Washington\, DC\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Charles E. Smith Center\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920973@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Chattanooga Mocs @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChattanooga Mocs @ Elon Phoenix\
- nSchar Center\, Elon\, NC
+ nSchar Center\, Elon\, NC\nBroadcast: FloSports (streaming)
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921141@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Elon Phoenix @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ South Carolina Ga
- mecocks\nColonial Life Arena\, Columbia\, SC
+ mecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Network
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920964@open-sports-cal
@@ -77,11 +83,11 @@ DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
 SUMMARY:Morehead State Eagles @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorehead State Eagles @ Elon Pho
- enix\nSchar Center\, Elon\, NC
+ enix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +96,13 @@ DTSTART:20261124T233000Z
 DTEND:20261125T023000Z
 SUMMARY:Elon Phoenix @ Furman Paladins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Furman Paladins\n
- Timmons Arena\, Greenville\, SC
+ Timmons Arena\, Greenville\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Timmons Arena\, Greenville\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918961@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 SUMMARY:Elon Phoenix @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ NC State Wolfpack
- \nLenovo Center\, Raleigh\, NC
+ \nLenovo Center\, Raleigh\, NC\nBroadcast: ACCNX (streaming)
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921143@open-sports-cal
@@ -116,11 +124,11 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:James Madison Dukes @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJames Madison Dukes @ Elon Phoen
- ix\nSchar Center\, Elon\, NC
+ ix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -129,11 +137,12 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:North Carolina Wesleyan Battling Bishops @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Wesleyan Battling
-  Bishops @ Elon Phoenix\nSchar Center\, Elon\, NC
+  Bishops @ Elon Phoenix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast no
+ t announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +151,13 @@ DTSTART:20261212T230000Z
 DTEND:20261213T020000Z
 SUMMARY:Elon Phoenix @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Richmond Spiders\
- nRobins Center\, Richmond\, VA
+ nRobins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921145@open-sports-cal
@@ -155,11 +165,11 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Longwood Lancers @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLongwood Lancers @ Elon Phoenix\
- nSchar Center\, Elon\, NC
+ nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -168,11 +178,11 @@ DTSTART:20261220T000000Z
 DTEND:20261220T030000Z
 SUMMARY:Montreat Cavaliers @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMontreat Cavaliers @ Elon Phoeni
- x\nSchar Center\, Elon\, NC
+ x\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -181,12 +191,13 @@ DTSTART:20261223T000000Z
 DTEND:20261223T030000Z
 SUMMARY:Elon Phoenix @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Radford Highlande
- rs\nThe Dedmon Center\, Radford\, VA
+ rs\nThe Dedmon Center\, Radford\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401905214@open-sports-cal
@@ -194,11 +205,11 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:North Carolina A&T Aggies @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina A&T Aggies @ Elon
-  Phoenix\nSchar Center\, Elon\, NC
+  Phoenix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +218,11 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Elon Phoenix @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ William & Mary Tr
- ibe\nKaplan Arena\, Williamsburg\, VA
+ ibe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +231,12 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Elon Phoenix @ Campbell Fighting Camels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Campbell Fighting
-  Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+  Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\nBroadcast
+ : Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +245,11 @@ DTSTART:20270112T013000Z
 DTEND:20270112T043000Z
 SUMMARY:UNC Wilmington Seahawks @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Wilmington Seahawks @ Elon P
- hoenix\nSchar Center\, Elon\, NC
+ hoenix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +258,11 @@ DTSTART:20270114T233000Z
 DTEND:20270115T023000Z
 SUMMARY:Hofstra Pride @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Elon Phoenix\nSc
- har Center\, Elon\, NC
+ har Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +271,11 @@ DTSTART:20270117T000000Z
 DTEND:20270117T030000Z
 SUMMARY:Stony Brook Seawolves @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStony Brook Seawolves @ Elon Pho
- enix\nSchar Center\, Elon\, NC
+ enix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +284,11 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Elon Phoenix @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Hampton Pirates\n
- Convocation Center (VA)\, Hampton\, VA
+ Convocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +297,11 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Elon Phoenix @ Charleston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Charleston Cougar
- s\nTD Arena\, Charleston\, SC
+ s\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +310,11 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Northeastern Huskies @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNortheastern Huskies @ Elon Phoe
- nix\nSchar Center\, Elon\, NC
+ nix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +323,11 @@ DTSTART:20270131T000000Z
 DTEND:20270131T030000Z
 SUMMARY:Monmouth Hawks @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Elon Phoenix\nS
- char Center\, Elon\, NC
+ char Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +336,12 @@ DTSTART:20270204T233000Z
 DTEND:20270205T023000Z
 SUMMARY:Elon Phoenix @ Stony Brook Seawolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Stony Brook Seawo
- lves\nStony Brook Arena\, Stony Brook\, NY
+ lves\nStony Brook Arena\, Stony Brook\, NY\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Stony Brook Arena\, Stony Brook\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +350,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Elon Phoenix @ North Carolina A&T Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ North Carolina A&
- T Aggies\nCorbett Sports Center\, Greensboro\, NC
+ T Aggies\nCorbett Sports Center\, Greensboro\, NC\nBroadcast: Broadcast no
+ t announced
 LOCATION:Corbett Sports Center\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +364,11 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:Hampton Pirates @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Elon Phoenix\n
- Schar Center\, Elon\, NC
+ Schar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +377,11 @@ DTSTART:20270218T233000Z
 DTEND:20270219T023000Z
 SUMMARY:Elon Phoenix @ Towson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Towson Tigers\nSE
- CU Arena\, Towson\, MD
+ CU Arena\, Towson\, MD\nBroadcast: Broadcast not announced
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +390,12 @@ DTSTART:20270220T210000Z
 DTEND:20270221T000000Z
 SUMMARY:Elon Phoenix @ Drexel Dragons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Drexel Dragons\nD
- askalakis Athletic Center\, Philadelphia\, PA
+ askalakis Athletic Center\, Philadelphia\, PA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Daskalakis Athletic Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +404,11 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Campbell Fighting Camels @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Elon 
- Phoenix\nSchar Center\, Elon\, NC
+ Phoenix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +417,11 @@ DTSTART:20270228T000000Z
 DTEND:20270228T030000Z
 SUMMARY:William & Mary Tribe @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Elon Phoe
- nix\nSchar Center\, Elon\, NC
+ nix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +430,12 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Elon Phoenix @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ UNC Wilmington Se
- ahawks\nTrask Coliseum\, Wilmington\, NC
+ ahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,13 +12,14 @@ DTSTART:20261104T003000Z
 DTEND:20261104T033000Z
 SUMMARY:Omaha Mavericks @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOmaha Mavericks @ Kansas Jayha
- wks\nAllen Fieldhouse\, Lawrence\, KS
+ wks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919674@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261106T170000Z
 DTEND:20261106T200000Z
 SUMMARY:Drake Bulldogs @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDrake Bulldogs @ Kansas Jayhaw
- ks\nAllen Fieldhouse\, Lawrence\, KS
+ ks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906964@open-sports-cal
@@ -40,13 +42,15 @@ DTSTART:20261111T003000Z
 DTEND:20261111T033000Z
 SUMMARY:Oral Roberts Golden Eagles @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOral Roberts Golden Eagles @ K
- ansas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+ ansas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906965@open-sports-cal
@@ -54,13 +58,15 @@ DTSTART:20261114T213000Z
 DTEND:20261115T003000Z
 SUMMARY:Nebraska Cornhuskers @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNebraska Cornhuskers @ Kansas 
- Jayhawks\nSanford Pentagon\, Sioux Falls\, SD\nNeutral site
+ Jayhawks\nSanford Pentagon\, Sioux Falls\, SD\nNeutral site\nBroadcast: B1
+ G+ (streaming)
 LOCATION:Sanford Pentagon\, Sioux Falls\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906966@open-sports-cal
@@ -69,14 +75,15 @@ DTEND:20261119T040000Z
 SUMMARY:Kansas Jayhawks @ Minnesota Golden Gophers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ Minnesota Go
  lden Gophers\nThe Barn by Blue Cross and Blue Shield of Minnesota\, Minnea
- polis\, MN
+ polis\, MN\nBroadcast: Peacock (streaming) / NBCSN
 LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
  , MN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming) / NBCSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906967@open-sports-cal
@@ -84,12 +91,13 @@ DTSTART:20261122T193000Z
 DTEND:20261122T223000Z
 SUMMARY:Kansas Jayhawks @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ South Dakota
-  State Jackrabbits\nT-Mobile Center\, Kansas City\, MO\nNeutral site
+  State Jackrabbits\nT-Mobile Center\, Kansas City\, MO\nNeutral site\nBroa
+ dcast: Broadcast not announced
 LOCATION:T-Mobile Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -99,11 +107,12 @@ DTEND:20261127T000000Z
 SUMMARY:Kansas Jayhawks @ Washington State Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ Washington S
  tate Cougars\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral site
+ \nBroadcast: Broadcast not announced
 LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Cancun
 END:VEVENT
 BEGIN:VEVENT
@@ -112,12 +121,13 @@ DTSTART:20261127T233000Z
 DTEND:20261128T023000Z
 SUMMARY:Miami (OH) RedHawks @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiami (OH) RedHawks @ Kansas J
- ayhawks\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral site
+ ayhawks\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral site\nBro
+ adcast: Broadcast not announced
 LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Cancun
 END:VEVENT
 BEGIN:VEVENT
@@ -126,13 +136,15 @@ DTSTART:20261204T003000Z
 DTEND:20261204T033000Z
 SUMMARY:Missouri State Lady Bears @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMissouri State Lady Bears @ Ka
- nsas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+ nsas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906969@open-sports-cal
@@ -140,13 +152,14 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Kansas City Roos @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ Kansas Jayh
- awks\nAllen Fieldhouse\, Lawrence\, KS
+ awks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906970@open-sports-cal
@@ -154,13 +167,15 @@ DTSTART:20261211T003000Z
 DTEND:20261211T033000Z
 SUMMARY:North Dakota State Bison @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Dakota State Bison @ Kan
- sas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+ sas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906971@open-sports-cal
@@ -168,13 +183,14 @@ DTSTART:20261213T200000Z
 DTEND:20261213T230000Z
 SUMMARY:Northwestern Wildcats @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwestern Wildcats @ Kansas
-  Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+  Jayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906972@open-sports-cal
@@ -182,13 +198,14 @@ DTSTART:20261217T003000Z
 DTEND:20261217T033000Z
 SUMMARY:Lindenwood Lions @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLindenwood Lions @ Kansas Jayh
- awks\nAllen Fieldhouse\, Lawrence\, KS
+ awks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922860@open-sports-cal
@@ -196,13 +213,15 @@ DTSTART:20261220T200000Z
 DTEND:20261220T230000Z
 SUMMARY:Oklahoma State Cowgirls @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Kans
- as Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+ as Jayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922868@open-sports-cal
@@ -210,13 +229,15 @@ DTSTART:20261231T000000Z
 DTEND:20261231T030000Z
 SUMMARY:Kansas Jayhawks @ West Virginia Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ West Virgini
- a Mountaineers\nHope Coliseum\, Morgantown\, WV
+ a Mountaineers\nHope Coliseum\, Morgantown\, WV\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Hope Coliseum\, Morgantown\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922875@open-sports-cal
@@ -224,12 +245,13 @@ DTSTART:20270102T233000Z
 DTEND:20270103T023000Z
 SUMMARY:Kansas Jayhawks @ Cincinnati Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ Cincinnati B
- earcats\nFifth Third Arena\, Cincinnati\, OH
+ earcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -238,12 +260,12 @@ DTSTART:20270107T003000Z
 DTEND:20270107T033000Z
 SUMMARY:Arizona Wildcats @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona Wildcats @ Kansas Jayh
- awks\nAllen Fieldhouse\, Lawrence\, KS
+ awks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: Broadcast not announced
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -252,13 +274,14 @@ DTSTART:20270110T013000Z
 DTEND:20270110T043000Z
 SUMMARY:Baylor Bears @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBaylor Bears @ Kansas Jayhawks
- \nAllen Fieldhouse\, Lawrence\, KS
+ \nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: CBSSN
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922898@open-sports-cal
@@ -266,12 +289,13 @@ DTSTART:20270114T003000Z
 DTEND:20270114T033000Z
 SUMMARY:Kansas Jayhawks @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ Oklahoma Sta
- te Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ te Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +304,13 @@ DTSTART:20270117T000000Z
 DTEND:20270117T030000Z
 SUMMARY:Kansas Jayhawks @ Utah Utes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ Utah Utes\nJ
- on M. Huntsman Center\, Salt Lake City\, UT
+ on M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +319,13 @@ DTSTART:20270121T003000Z
 DTEND:20270121T033000Z
 SUMMARY:Iowa State Cyclones @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa State Cyclones @ Kansas J
- ayhawks\nAllen Fieldhouse\, Lawrence\, KS
+ ayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +334,13 @@ DTSTART:20270124T200000Z
 DTEND:20270124T230000Z
 SUMMARY:Kansas Jayhawks @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ Colorado Buf
- faloes\nCU Events Center\, Boulder\, CO
+ faloes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not announce
+ d
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +349,13 @@ DTSTART:20270128T003000Z
 DTEND:20270128T033000Z
 SUMMARY:Arizona State Sun Devils @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Kan
- sas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+ sas Jayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +364,13 @@ DTSTART:20270131T200000Z
 DTEND:20270131T230000Z
 SUMMARY:Kansas State Wildcats @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas State Wildcats @ Kansas
-  Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+  Jayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +379,12 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:Kansas Jayhawks @ BYU Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ BYU Cougars\
- nMarriott Center\, Provo\, UT
+ nMarriott Center\, Provo\, UT\nBroadcast: Broadcast not announced
 LOCATION:Marriott Center\, Provo\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -364,13 +393,14 @@ DTSTART:20270211T020000Z
 DTEND:20270211T050000Z
 SUMMARY:TCU Horned Frogs @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTCU Horned Frogs @ Kansas Jayh
- awks\nAllen Fieldhouse\, Lawrence\, KS
+ awks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: CBSSN
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922967@open-sports-cal
@@ -378,12 +408,12 @@ DTSTART:20270214T013000Z
 DTEND:20270214T043000Z
 SUMMARY:Kansas Jayhawks @ Houston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ Houston Coug
- ars\nFertitta Center\, Houston\, TX
+ ars\nFertitta Center\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Fertitta Center\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -392,12 +422,12 @@ DTSTART:20270217T003000Z
 DTEND:20270217T033000Z
 SUMMARY:UCF Knights @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUCF Knights @ Kansas Jayhawks\
- nAllen Fieldhouse\, Lawrence\, KS
+ nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: Broadcast not announced
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -406,13 +436,14 @@ DTSTART:20270221T230000Z
 DTEND:20270222T020000Z
 SUMMARY:Kansas Jayhawks @ Kansas State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ Kansas State
-  Wildcats\nBramlage Coliseum\, Manhattan\, KS
+  Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: CBSSN
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922989@open-sports-cal
@@ -420,12 +451,12 @@ DTSTART:20270225T003000Z
 DTEND:20270225T033000Z
 SUMMARY:Kansas Jayhawks @ Iowa State Cyclones
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ Iowa State C
- yclones\nHilton Coliseum\, Ames\, IA
+ yclones\nHilton Coliseum\, Ames\, IA\nBroadcast: Broadcast not announced
 LOCATION:Hilton Coliseum\, Ames\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -434,12 +465,13 @@ DTSTART:20270228T200000Z
 DTEND:20270228T230000Z
 SUMMARY:Texas Tech Lady Raiders @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Tech Lady Raiders @ Kans
- as Jayhawks\nAllen Fieldhouse\, Lawrence\, KS
+ as Jayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

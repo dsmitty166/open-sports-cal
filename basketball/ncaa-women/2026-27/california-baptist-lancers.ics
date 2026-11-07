@@ -12,13 +12,15 @@ DTSTART:20261105T020000Z
 DTEND:20261105T050000Z
 SUMMARY:California Baptist Lancers @ Oregon State Beavers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ O
- regon State Beavers\nGill Coliseum\, Corvallis\, OR
+ regon State Beavers\nGill Coliseum\, Corvallis\, OR\nBroadcast: YouTube (s
+ treaming)
 LOCATION:Gill Coliseum\, Corvallis\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921578@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:California Baptist Lancers @ Utah Tech Trailblazers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ U
- tah Tech Trailblazers\nBurns Arena\, St. George\, UT
+ tah Tech Trailblazers\nBurns Arena\, St. George\, UT\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Burns Arena\, St. George\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917700@open-sports-cal
@@ -41,12 +45,14 @@ DTEND:20261114T040000Z
 SUMMARY:Pacific Tigers @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ California Ba
  ptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
+ \nBroadcast: ESPN+ (streaming)
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921579@open-sports-cal
@@ -55,12 +61,12 @@ DTEND:20261118T220000Z
 SUMMARY:California Baptist Lancers @ San José State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ S
  an José State Spartans\nProvident Credit Union Event Center\, San Jose\, 
- CA
+ CA\nBroadcast: Broadcast not announced
 LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -69,12 +75,13 @@ DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
 SUMMARY:California Baptist Lancers @ UC Davis Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ U
- C Davis Aggies\nUniversity Credit Union Center\, Davis\, CA
+ C Davis Aggies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Br
+ oadcast not announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -83,13 +90,15 @@ DTSTART:20261127T200000Z
 DTEND:20261127T230000Z
 SUMMARY:Idaho Vandals @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ California Bap
- tist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
+ tist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\, CA\
+ nBroadcast: ESPN+ (streaming)
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918729@open-sports-cal
@@ -98,13 +107,14 @@ DTEND:20261128T230000Z
 SUMMARY:St. Thomas Tommies @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. Thomas Tommies @ Californi
  a Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\
- , CA
+ , CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921581@open-sports-cal
@@ -112,13 +122,15 @@ DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
 SUMMARY:California Baptist Lancers @ UC San Diego Tritons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ U
- C San Diego Tritons\nLionTree Arena\, San Diego\, CA
+ C San Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921582@open-sports-cal
@@ -126,13 +138,15 @@ DTSTART:20261205T220000Z
 DTEND:20261206T010000Z
 SUMMARY:California Baptist Lancers @ UC Riverside Highlanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ U
- C Riverside Highlanders\nSRC Arena\, Riverside\, CA
+ C Riverside Highlanders\nSRC Arena\, Riverside\, CA\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:SRC Arena\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921583@open-sports-cal
@@ -141,13 +155,14 @@ DTEND:20261210T050000Z
 SUMMARY:Pepperdine Waves @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPepperdine Waves @ California 
  Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\, 
- CA
+ CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916159@open-sports-cal
@@ -155,13 +170,14 @@ DTSTART:20261213T000000Z
 DTEND:20261213T030000Z
 SUMMARY:California Baptist Lancers @ BYU Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ B
- YU Cougars\nMarriott Center\, Provo\, UT
+ YU Cougars\nMarriott Center\, Provo\, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:Marriott Center\, Provo\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921584@open-sports-cal
@@ -169,13 +185,15 @@ DTSTART:20261218T210000Z
 DTEND:20261219T000000Z
 SUMMARY:Howard Bison @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoward Bison @ California Bapt
- ist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
+ ist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\, CA\n
+ Broadcast: ESPN+ (streaming)
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921585@open-sports-cal
@@ -183,13 +201,15 @@ DTSTART:20270101T020000Z
 DTEND:20270101T050000Z
 SUMMARY:California Baptist Lancers @ UC Santa Barbara Gauchos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ U
- C Santa Barbara Gauchos\nThe Thunderdome\, Santa Barbara\, CA
+ C Santa Barbara Gauchos\nThe Thunderdome\, Santa Barbara\, CA\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:The Thunderdome\, Santa Barbara\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921471@open-sports-cal
@@ -197,12 +217,13 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:California Baptist Lancers @ Cal Poly Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ C
- al Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+ al Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA\nBroadcast:
+  Broadcast not announced
 LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -212,12 +233,12 @@ DTEND:20270108T050000Z
 SUMMARY:Cal State Northridge Matadors @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Northridge Matadors 
  @ California Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\,
-  Riverside\, CA
+  Riverside\, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -227,12 +248,12 @@ DTEND:20270110T000000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Bakersfield Roadrunn
  ers @ California Baptist Lancers\nDale E. and Sarah Ann Fowler Events Cent
- er\, Riverside\, CA
+ er\, Riverside\, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -241,12 +262,13 @@ DTSTART:20270115T020000Z
 DTEND:20270115T050000Z
 SUMMARY:California Baptist Lancers @ UC Irvine Anteaters
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ U
- C Irvine Anteaters\nBren Events Center\, Irvine\, CA
+ C Irvine Anteaters\nBren Events Center\, Irvine\, CA\nBroadcast: Broadcast
+  not announced
 LOCATION:Bren Events Center\, Irvine\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -256,12 +278,12 @@ DTEND:20270117T033000Z
 SUMMARY:UC San Diego Tritons @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC San Diego Tritons @ Califor
  nia Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riversid
- e\, CA
+ e\, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -271,12 +293,12 @@ DTEND:20270121T220000Z
 SUMMARY:Utah Valley Wolverines @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah Valley Wolverines @ Calif
  ornia Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Rivers
- ide\, CA
+ ide\, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -286,12 +308,12 @@ DTEND:20270124T000000Z
 SUMMARY:Sacramento State Hornets @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacramento State Hornets @ Cal
  ifornia Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Rive
- rside\, CA
+ rside\, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -301,12 +323,12 @@ DTEND:20270129T050000Z
 SUMMARY:California Baptist Lancers @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ L
  ong Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, C
- A
+ A\nBroadcast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -315,12 +337,13 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:California Baptist Lancers @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ C
- al State Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ al State Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -329,12 +352,13 @@ DTSTART:20270205T023000Z
 DTEND:20270205T053000Z
 SUMMARY:California Baptist Lancers @ Sacramento State Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ S
- acramento State Hornets\nHornet Pavilion\, Sacramento\, CA
+ acramento State Hornets\nHornet Pavilion\, Sacramento\, CA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Hornet Pavilion\, Sacramento\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -343,12 +367,13 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:California Baptist Lancers @ Utah Valley Wolverines
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ U
- tah Valley Wolverines\nUCCU Center\, Orem\, UT
+ tah Valley Wolverines\nUCCU Center\, Orem\, UT\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:UCCU Center\, Orem\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -358,12 +383,12 @@ DTEND:20270212T050000Z
 SUMMARY:Cal Poly Mustangs @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal Poly Mustangs @ California
   Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\,
-  CA
+  CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -373,12 +398,12 @@ DTEND:20270214T000000Z
 SUMMARY:UC Santa Barbara Gauchos @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Santa Barbara Gauchos @ Cal
  ifornia Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Rive
- rside\, CA
+ rside\, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -388,12 +413,12 @@ DTEND:20270219T050000Z
 SUMMARY:UC Irvine Anteaters @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Irvine Anteaters @ Californ
  ia Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside
- \, CA
+ \, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -403,12 +428,12 @@ DTEND:20270221T040000Z
 SUMMARY:UC Riverside Highlanders @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Riverside Highlanders @ Cal
  ifornia Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Rive
- rside\, CA
+ rside\, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -417,12 +442,13 @@ DTSTART:20270226T023000Z
 DTEND:20270226T053000Z
 SUMMARY:California Baptist Lancers @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ C
- al State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ al State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadc
+ ast: Broadcast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +458,12 @@ DTEND:20270228T000000Z
 SUMMARY:California Baptist Lancers @ Cal State Northridge Matadors
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ C
  al State Northridge Matadors\nPremier America Credit Union Arena\, Northri
- dge\, CA
+ dge\, CA\nBroadcast: Broadcast not announced
 LOCATION:Premier America Credit Union Arena\, Northridge\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -447,12 +473,12 @@ DTEND:20270305T050000Z
 SUMMARY:Cal State Fullerton Titans @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ C
  alifornia Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Ri
- verside\, CA
+ verside\, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -462,12 +488,12 @@ DTEND:20270307T000000Z
 SUMMARY:Long Beach State Beach @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ Calif
  ornia Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Rivers
- ide\, CA
+ ide\, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

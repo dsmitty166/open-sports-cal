@@ -12,12 +12,14 @@ DTSTART:20261103T010000Z
 DTEND:20261103T040000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaryland Eastern Shore Hawks @ W
- ake Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ ake Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: A
+ CCNX (streaming)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909726@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Wake Forest Demon Deacons @ Vanderbilt Commodores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ Vand
- erbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ erbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: ES
+ PN2
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909727@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Charleston Southern Buccaneers @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Southern Buccaneers @
-  Wake Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+  Wake Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast:
+  ACCNX (streaming)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909728@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261114T210000Z
 DTEND:20261115T000000Z
 SUMMARY:Southern Utah Thunderbirds @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Utah Thunderbirds @ Wak
- e Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ e Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC
+ NX (streaming)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909729@open-sports-cal
@@ -64,12 +72,14 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Monmouth Hawks @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Wake Forest Dem
- on Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ on Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACCNX (streamin
+ g)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909730@open-sports-cal
@@ -77,12 +87,14 @@ DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
 SUMMARY:Western Carolina Catamounts @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Wa
- ke Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ ke Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: AC
+ CNX (streaming)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929287@open-sports-cal
@@ -90,12 +102,14 @@ DTSTART:20261126T003000Z
 DTEND:20261126T033000Z
 SUMMARY:Wake Forest Demon Deacons @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ Miss
- issippi State Bulldogs\nImperial Arena\, Nassau\, Bahamas\nNeutral site
+ issippi State Bulldogs\nImperial Arena\, Nassau\, Bahamas\nNeutral site\nB
+ roadcast: ESPN2
 LOCATION:Imperial Arena\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909731@open-sports-cal
@@ -103,12 +117,14 @@ DTSTART:20261202T020000Z
 DTEND:20261202T050000Z
 SUMMARY:Wake Forest Demon Deacons @ LSU Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ LSU 
- Tigers\nPete Maravich Assembly Center\, Baton Rouge\, LA
+ Tigers\nPete Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: SEC N
+ etwork / SECN+ (streaming)
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network / SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909732@open-sports-cal
@@ -116,12 +132,14 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Wake Forest Demon Deacons @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ Mass
- achusetts Minutemen\nMassMutual Center\, Springfield\, MA\nNeutral site
+ achusetts Minutemen\nMassMutual Center\, Springfield\, MA\nNeutral site\nB
+ roadcast: ESPNU
 LOCATION:MassMutual Center\, Springfield\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909733@open-sports-cal
@@ -129,12 +147,14 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:Hampton Pirates @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Wake Forest De
- mon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ mon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACCNX (streami
+ ng)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909734@open-sports-cal
@@ -142,12 +162,14 @@ DTSTART:20261216T020000Z
 DTEND:20261216T050000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Wake Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ Wake Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: 
+ ACC Network
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909735@open-sports-cal
@@ -156,12 +178,13 @@ DTEND:20261219T233000Z
 SUMMARY:West Virginia Mountaineers @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Virginia Mountaineers @ Wak
  e Forest Demon Deacons\nFirst Horizon Coliseum\, Greensboro\, NC\nNeutral 
- site
+ site\nBroadcast: ESPN2
 LOCATION:First Horizon Coliseum\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909736@open-sports-cal
@@ -169,12 +192,14 @@ DTSTART:20261222T210000Z
 DTEND:20261223T000000Z
 SUMMARY:Presbyterian Blue Hose @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPresbyterian Blue Hose @ Wake Fo
- rest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ rest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACCNX (
+ streaming)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918106@open-sports-cal
@@ -182,12 +207,14 @@ DTSTART:20270102T203000Z
 DTEND:20270102T233000Z
 SUMMARY:Virginia Tech Hokies @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Tech Hokies @ Wake Fore
- st Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ st Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC Netwo
+ rk
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918108@open-sports-cal
@@ -195,12 +222,13 @@ DTSTART:20270106T000000Z
 DTEND:20270106T030000Z
 SUMMARY:Wake Forest Demon Deacons @ SMU Mustangs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ SMU 
- Mustangs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ Mustangs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ESPNU
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918125@open-sports-cal
@@ -208,12 +236,13 @@ DTSTART:20270109T170000Z
 DTEND:20270109T200000Z
 SUMMARY:Wake Forest Demon Deacons @ Clemson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ Clem
- son Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ son Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: CW
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918129@open-sports-cal
@@ -221,12 +250,14 @@ DTSTART:20270113T000000Z
 DTEND:20270113T030000Z
 SUMMARY:Notre Dame Fighting Irish @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNotre Dame Fighting Irish @ Wake
-  Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+  Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC 
+ Network
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918138@open-sports-cal
@@ -234,12 +265,14 @@ DTSTART:20270116T213000Z
 DTEND:20270117T003000Z
 SUMMARY:Florida State Seminoles @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Wake F
- orest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ orest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC Ne
+ twork
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918148@open-sports-cal
@@ -247,12 +280,13 @@ DTSTART:20270121T020000Z
 DTEND:20270121T050000Z
 SUMMARY:Duke Blue Devils @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDuke Blue Devils @ Wake Forest D
- emon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ emon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC Network
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918154@open-sports-cal
@@ -260,12 +294,13 @@ DTSTART:20270123T170000Z
 DTEND:20270123T200000Z
 SUMMARY:Wake Forest Demon Deacons @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ NC S
- tate Wolfpack\nLenovo Center\, Raleigh\, NC
+ tate Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: CW
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918169@open-sports-cal
@@ -273,12 +308,13 @@ DTSTART:20270130T170000Z
 DTEND:20270130T200000Z
 SUMMARY:Wake Forest Demon Deacons @ Miami Hurricanes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ Miam
- i Hurricanes\nWatsco Center\, Coral Gables\, FL
+ i Hurricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: CW
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918176@open-sports-cal
@@ -286,12 +322,14 @@ DTSTART:20270202T230000Z
 DTEND:20270203T020000Z
 SUMMARY:Boston College Eagles @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston College Eagles @ Wake For
- est Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ est Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC Netw
+ ork
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918186@open-sports-cal
@@ -299,12 +337,14 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:Wake Forest Demon Deacons @ Louisville Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ Loui
- sville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ sville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACC Networ
+ k
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918196@open-sports-cal
@@ -312,12 +352,13 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:NC State Wolfpack @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ Wake Forest 
- Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC Network
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918200@open-sports-cal
@@ -325,12 +366,14 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:Pittsburgh Panthers @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ Wake Fores
- t Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ t Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC Networ
+ k
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918209@open-sports-cal
@@ -338,12 +381,14 @@ DTSTART:20270218T020000Z
 DTEND:20270218T050000Z
 SUMMARY:Wake Forest Demon Deacons @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ Notr
- e Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ e Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACC 
+ Network
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918218@open-sports-cal
@@ -351,12 +396,14 @@ DTSTART:20270221T000000Z
 DTEND:20270221T030000Z
 SUMMARY:North Carolina Tar Heels @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Tar Heels @ Wake 
- Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC N
+ etwork
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918229@open-sports-cal
@@ -364,12 +411,13 @@ DTSTART:20270225T040000Z
 DTEND:20270225T070000Z
 SUMMARY:Wake Forest Demon Deacons @ Stanford Cardinal
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ Stan
- ford Cardinal\nMaples Pavilion\, Stanford\, CA
+ ford Cardinal\nMaples Pavilion\, Stanford\, CA\nBroadcast: ESPNU
 LOCATION:Maples Pavilion\, Stanford\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918230@open-sports-cal
@@ -377,12 +425,13 @@ DTSTART:20270227T213000Z
 DTEND:20270228T003000Z
 SUMMARY:Wake Forest Demon Deacons @ California Golden Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ Cali
- fornia Golden Bears\nHaas Pavilion\, Berkeley\, CA
+ fornia Golden Bears\nHaas Pavilion\, Berkeley\, CA\nBroadcast: ACC Network
 LOCATION:Haas Pavilion\, Berkeley\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918244@open-sports-cal
@@ -390,12 +439,14 @@ DTSTART:20270304T013000Z
 DTEND:20270304T043000Z
 SUMMARY:Georgia Tech Yellow Jackets @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Tech Yellow Jackets @ Wa
- ke Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ ke Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: AC
+ C Network
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918246@open-sports-cal
@@ -403,11 +454,12 @@ DTSTART:20270306T223000Z
 DTEND:20270307T013000Z
 SUMMARY:Wake Forest Demon Deacons @ Syracuse Orange
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ Syra
- cuse Orange\nJMA Wireless Dome\, Syracuse\, NY
+ cuse Orange\nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: CW
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 END:VCALENDAR

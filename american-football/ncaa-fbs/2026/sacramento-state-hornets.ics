@@ -12,12 +12,14 @@ DTSTART:20260829T223000Z
 DTEND:20260830T013000Z
 SUMMARY:Sacramento State Hornets @ Eastern Michigan Eagles
 DESCRIPTION:NCAA FBS Football 2026\nSacramento State Hornets @ Eastern Mich
- igan Eagles\nRynearson Stadium\, Ypsilanti\, MI
+ igan Eagles\nRynearson Stadium\, Ypsilanti\, MI\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Rynearson Stadium\, Ypsilanti\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866411@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20260906T020000Z
 DTEND:20260906T050000Z
 SUMMARY:Mississippi Valley State Delta Devils @ Sacramento State Hornets
 DESCRIPTION:NCAA FBS Football 2026\nMississippi Valley State Delta Devils @
-  Sacramento State Hornets\nHornet Stadium\, Sacramento\, CA
+  Sacramento State Hornets\nHornet Stadium\, Sacramento\, CA\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Hornet Stadium\, Sacramento\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401860883@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20260913T023000Z
 DTEND:20260913T053000Z
 SUMMARY:Sacramento State Hornets @ Fresno State Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nSacramento State Hornets @ Fresno State
-  Bulldogs\nValley Children's Stadium\, Fresno\, CA
+  Bulldogs\nValley Children's Stadium\, Fresno\, CA\nBroadcast: CBSSN
 LOCATION:Valley Children's Stadium\, Fresno\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864507@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20260920T023000Z
 DTEND:20260920T053000Z
 SUMMARY:North Dakota State Bison @ Sacramento State Hornets
 DESCRIPTION:NCAA FBS Football 2026\nNorth Dakota State Bison @ Sacramento S
- tate Hornets\nHornet Stadium\, Sacramento\, CA
+ tate Hornets\nHornet Stadium\, Sacramento\, CA\nBroadcast: ESPN
 LOCATION:Hornet Stadium\, Sacramento\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866429@open-sports-cal
@@ -64,12 +70,14 @@ DTSTART:20260927T010000Z
 DTEND:20260927T040000Z
 SUMMARY:Massachusetts Minutemen @ Sacramento State Hornets
 DESCRIPTION:NCAA FBS Football 2026\nMassachusetts Minutemen @ Sacramento St
- ate Hornets\nHornet Stadium\, Sacramento\, CA
+ ate Hornets\nHornet Stadium\, Sacramento\, CA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Hornet Stadium\, Sacramento\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866436@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:Sacramento State Hornets @ Bowling Green Falcons
 DESCRIPTION:NCAA FBS Football 2026\nSacramento State Hornets @ Bowling Gree
- n Falcons\nDoyt L. Perry Stadium\, Bowling Green\, OH
+ n Falcons\nDoyt L. Perry Stadium\, Bowling Green\, OH\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Doyt L. Perry Stadium\, Bowling Green\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866445@open-sports-cal
@@ -90,12 +100,13 @@ DTSTART:20261018T020000Z
 DTEND:20261018T050000Z
 SUMMARY:Ohio Bobcats @ Sacramento State Hornets
 DESCRIPTION:NCAA FBS Football 2026\nOhio Bobcats @ Sacramento State Hornets
- \nHornet Stadium\, Sacramento\, CA
+ \nHornet Stadium\, Sacramento\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Hornet Stadium\, Sacramento\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866447@open-sports-cal
@@ -103,12 +114,13 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:Sacramento State Hornets @ Ball State Cardinals
 DESCRIPTION:NCAA FBS Football 2026\nSacramento State Hornets @ Ball State C
- ardinals\nScheumann Stadium\, Muncie\, IN
+ ardinals\nScheumann Stadium\, Muncie\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Scheumann Stadium\, Muncie\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866451@open-sports-cal
@@ -116,12 +128,13 @@ DTSTART:20261031T023000Z
 DTEND:20261031T053000Z
 SUMMARY:Kent State Golden Flashes @ Sacramento State Hornets
 DESCRIPTION:NCAA FBS Football 2026\nKent State Golden Flashes @ Sacramento 
- State Hornets\nHornet Stadium\, Sacramento\, CA
+ State Hornets\nHornet Stadium\, Sacramento\, CA\nBroadcast: ESPNU
 LOCATION:Hornet Stadium\, Sacramento\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866457@open-sports-cal
@@ -129,12 +142,13 @@ DTSTART:20261105T000000Z
 DTEND:20261105T030000Z
 SUMMARY:Toledo Rockets @ Sacramento State Hornets
 DESCRIPTION:NCAA FBS Football 2026\nToledo Rockets @ Sacramento State Horne
- ts\nHornet Stadium\, Sacramento\, CA
+ ts\nHornet Stadium\, Sacramento\, CA\nBroadcast: CBSSN
 LOCATION:Hornet Stadium\, Sacramento\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866462@open-sports-cal
@@ -142,12 +156,14 @@ DTSTART:20261112T003000Z
 DTEND:20261112T033000Z
 SUMMARY:Sacramento State Hornets @ Central Michigan Chippewas
 DESCRIPTION:NCAA FBS Football 2026\nSacramento State Hornets @ Central Mich
- igan Chippewas\nKelly/Shorts Stadium\, Mount Pleasant\, MI
+ igan Chippewas\nKelly/Shorts Stadium\, Mount Pleasant\, MI\nBroadcast: ESP
+ NU
 LOCATION:Kelly/Shorts Stadium\, Mount Pleasant\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864547@open-sports-cal
@@ -155,11 +171,13 @@ DTSTART:20261129T040000Z
 DTEND:20261129T070000Z
 SUMMARY:Sacramento State Hornets @ Hawai'i Rainbow Warriors
 DESCRIPTION:NCAA FBS Football 2026\nSacramento State Hornets @ Hawai'i Rain
- bow Warriors\nClarence T.C. Ching Athletics Complex\, Honolulu\, HI
+ bow Warriors\nClarence T.C. Ching Athletics Complex\, Honolulu\, HI\nBroad
+ cast: MW+ (streaming)
 LOCATION:Clarence T.C. Ching Athletics Complex\, Honolulu\, HI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 END:VCALENDAR

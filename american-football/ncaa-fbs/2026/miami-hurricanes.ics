@@ -12,12 +12,13 @@ DTSTART:20260905T010000Z
 DTEND:20260905T040000Z
 SUMMARY:Miami Hurricanes @ Stanford Cardinal
 DESCRIPTION:NCAA FBS Football 2026\nMiami Hurricanes @ Stanford Cardinal\nS
- tanford Stadium\, Stanford\, CA
+ tanford Stadium\, Stanford\, CA\nBroadcast: ESPN
 LOCATION:Stanford Stadium\, Stanford\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858213@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260911T000000Z
 DTEND:20260911T030000Z
 SUMMARY:Florida A&M Rattlers @ Miami Hurricanes
 DESCRIPTION:NCAA FBS Football 2026\nFlorida A&M Rattlers @ Miami Hurricanes
- \nHard Rock Stadium\, Miami Gardens\, FL
+ \nHard Rock Stadium\, Miami Gardens\, FL\nBroadcast: ACC Network
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858226@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20260918T233000Z
 DTEND:20260919T023000Z
 SUMMARY:Miami Hurricanes @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA FBS Football 2026\nMiami Hurricanes @ Wake Forest Demon De
- acons\nAllegacy Federal Credit Union Stadium\, Winston-Salem\, NC
+ acons\nAllegacy Federal Credit Union Stadium\, Winston-Salem\, NC\nBroadca
+ st: ESPN
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858238@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260926T223000Z
 DTEND:20260927T013000Z
 SUMMARY:Central Michigan Chippewas @ Miami Hurricanes
 DESCRIPTION:NCAA FBS Football 2026\nCentral Michigan Chippewas @ Miami Hurr
- icanes\nHard Rock Stadium\, Miami Gardens\, FL
+ icanes\nHard Rock Stadium\, Miami Gardens\, FL\nBroadcast: CW
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858249@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T233000Z
 DTEND:20261004T023000Z
 SUMMARY:Miami Hurricanes @ Clemson Tigers
 DESCRIPTION:NCAA FBS Football 2026\nMiami Hurricanes @ Clemson Tigers\nMemo
- rial Stadium (Clemson\, SC)\, Clemson\, SC
+ rial Stadium (Clemson\, SC)\, Clemson\, SC\nBroadcast: ABC
 LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858263@open-sports-cal
@@ -77,12 +83,14 @@ DTSTART:20261017T230000Z
 DTEND:20261018T020000Z
 SUMMARY:Florida State Seminoles @ Miami Hurricanes
 DESCRIPTION:NCAA FBS Football 2026\nFlorida State Seminoles @ Miami Hurrica
- nes\nHard Rock Stadium\, Miami Gardens\, FL
+ nes\nHard Rock Stadium\, Miami Gardens\, FL\nBroadcast: ESPN / Disney+ (st
+ reaming)
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858274@open-sports-cal
@@ -90,12 +98,14 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:Pittsburgh Panthers @ Miami Hurricanes
 DESCRIPTION:NCAA FBS Football 2026\nPittsburgh Panthers @ Miami Hurricanes\
- nHard Rock Stadium\, Miami Gardens\, FL
+ nHard Rock Stadium\, Miami Gardens\, FL\nBroadcast: ESPNEWS / Disney+ (str
+ eaming)
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNEWS / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858282@open-sports-cal
@@ -103,12 +113,13 @@ DTSTART:20261031T233000Z
 DTEND:20261101T023000Z
 SUMMARY:Miami Hurricanes @ North Carolina Tar Heels
 DESCRIPTION:NCAA FBS Football 2026\nMiami Hurricanes @ North Carolina Tar H
- eels\nKenan Stadium\, Chapel Hill\, NC
+ eels\nKenan Stadium\, Chapel Hill\, NC\nBroadcast: ABC
 LOCATION:Kenan Stadium\, Chapel Hill\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858291@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261108T003000Z
 DTEND:20261108T033000Z
 SUMMARY:Miami Hurricanes @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA FBS Football 2026\nMiami Hurricanes @ Notre Dame Fighting 
- Irish\nNotre Dame Stadium\, Notre Dame\, IN
+ Irish\nNotre Dame Stadium\, Notre Dame\, IN\nBroadcast: NBC
 LOCATION:Notre Dame Stadium\, Notre Dame\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858296@open-sports-cal
@@ -129,12 +141,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Duke Blue Devils @ Miami Hurricanes
 DESCRIPTION:NCAA FBS Football 2026\nDuke Blue Devils @ Miami Hurricanes\nHa
- rd Rock Stadium\, Miami Gardens\, FL
+ rd Rock Stadium\, Miami Gardens\, FL\nBroadcast: ABC
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858302@open-sports-cal
@@ -142,11 +155,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Virginia Tech Hokies @ Miami Hurricanes
 DESCRIPTION:NCAA FBS Football 2026\nVirginia Tech Hokies @ Miami Hurricanes
- \nHard Rock Stadium\, Miami Gardens\, FL\nStart time TBD
+ \nHard Rock Stadium\, Miami Gardens\, FL\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858311@open-sports-cal
@@ -154,10 +168,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Boston College Eagles @ Miami Hurricanes
 DESCRIPTION:NCAA FBS Football 2026\nBoston College Eagles @ Miami Hurricane
- s\nHard Rock Stadium\, Miami Gardens\, FL\nStart time TBD
+ s\nHard Rock Stadium\, Miami Gardens\, FL\nStart time TBD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

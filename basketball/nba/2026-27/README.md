@@ -76,3 +76,8 @@ Calendar → **Add calendar** → **Subscribe from web** → paste URL → **Imp
 - 80-game regular season format (1,200 games).
 - Playoff games are added automatically once the NBA releases the schedule.
 - Data source: [fixturedownload.com](https://fixturedownload.com) / [ESPN](https://www.espn.com/nba/schedule)
+
+
+## TV and Streaming
+
+Published US TV and streaming networks are included in event descriptions and shown in the online calendar. ESPN is the broadcaster-listing source; listings refresh with the daily schedule update. Missing listings display **Broadcast not announced**. Streaming services are labeled separately. These are network names, not local channel numbers, watch links, or guarantees of availability in your region or subscription.

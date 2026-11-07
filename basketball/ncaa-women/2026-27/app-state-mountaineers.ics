@@ -12,13 +12,15 @@ DTSTART:20261102T233000Z
 DTEND:20261103T023000Z
 SUMMARY:App State Mountaineers @ Eastern Michigan Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Easte
- rn Michigan Eagles\nGervin GameAbove Center\, Ypsilanti\, MI
+ rn Michigan Eagles\nGervin GameAbove Center\, Ypsilanti\, MI\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918713@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261104T220000Z
 DTEND:20261105T010000Z
 SUMMARY:Montreat Cavaliers @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontreat Cavaliers @ App State
-  Mountaineers\nHolmes Convocation Center\, Boone\, NC
+  Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918714@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:App State Mountaineers @ Davidson Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ David
- son Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+ son Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918715@open-sports-cal
@@ -55,11 +61,12 @@ DTEND:20261115T020000Z
 SUMMARY:Northwestern Wildcats @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwestern Wildcats @ App St
  ate Mountaineers\nColonial Hall\, White Sulphur Springs\, WV\nNeutral site
+ \nBroadcast: Broadcast not announced
 LOCATION:Colonial Hall\, White Sulphur Springs\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -68,13 +75,15 @@ DTSTART:20261119T230000Z
 DTEND:20261120T020000Z
 SUMMARY:App State Mountaineers @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Wake 
- Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACCNX
+  (streaming)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918716@open-sports-cal
@@ -82,12 +91,13 @@ DTSTART:20261123T230000Z
 DTEND:20261124T020000Z
 SUMMARY:App State Mountaineers @ Norfolk State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Norfo
- lk State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA
+ lk State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Joseph G. Echols Hall\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -96,13 +106,15 @@ DTSTART:20261127T233000Z
 DTEND:20261128T023000Z
 SUMMARY:UNC Asheville Bulldogs @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Asheville Bulldogs @ App S
- tate Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ tate Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918721@open-sports-cal
@@ -110,13 +122,15 @@ DTSTART:20261128T213000Z
 DTEND:20261129T003000Z
 SUMMARY:Western Carolina Catamounts @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Carolina Catamounts @ 
- App State Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ App State Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918717@open-sports-cal
@@ -124,12 +138,12 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:App State Mountaineers @ Elon Phoenix
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Elon 
- Phoenix\nSchar Center\, Elon\, NC
+ Phoenix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +152,15 @@ DTSTART:20261209T230000Z
 DTEND:20261210T020000Z
 SUMMARY:App State Mountaineers @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Virgi
- nia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ nia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (str
+ eaming)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918718@open-sports-cal
@@ -152,13 +168,15 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Florida Gulf Coast Eagles @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Ap
- p State Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ p State Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912071@open-sports-cal
@@ -166,13 +184,15 @@ DTSTART:20261216T160000Z
 DTEND:20261216T190000Z
 SUMMARY:App State Mountaineers @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Marsh
- all Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ all Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912078@open-sports-cal
@@ -180,13 +200,15 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Louisiana Tech Lady Techsters @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisiana Tech Lady Techsters 
- @ App State Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ @ App State Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918719@open-sports-cal
@@ -194,12 +216,13 @@ DTSTART:20261222T220000Z
 DTEND:20261223T010000Z
 SUMMARY:Carolina University Bruins @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCarolina University Bruins @ A
- pp State Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ pp State Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: 
+ Broadcast not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,13 +231,15 @@ DTSTART:20270101T000000Z
 DTEND:20270101T030000Z
 SUMMARY:App State Mountaineers @ Southern Miss Lady Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ South
- ern Miss Lady Eagles\nReed Green Coliseum\, Hattiesburg\, MS
+ ern Miss Lady Eagles\nReed Green Coliseum\, Hattiesburg\, MS\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Reed Green Coliseum\, Hattiesburg\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912089@open-sports-cal
@@ -222,12 +247,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:App State Mountaineers @ South Alabama Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ South
-  Alabama Jaguars\nMitchell Center\, Mobile\, AL
+  Alabama Jaguars\nMitchell Center\, Mobile\, AL\nBroadcast: Broadcast not 
+ announced
 LOCATION:Mitchell Center\, Mobile\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +262,13 @@ DTSTART:20270107T233000Z
 DTEND:20270108T023000Z
 SUMMARY:UL Monroe Warhawks @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUL Monroe Warhawks @ App State
-  Mountaineers\nHolmes Convocation Center\, Boone\, NC
+  Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: Broadcas
+ t not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +277,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Arkansas State Red Wolves @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas State Red Wolves @ Ap
- p State Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ p State Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: B
+ roadcast not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +292,13 @@ DTSTART:20270114T160000Z
 DTEND:20270114T190000Z
 SUMMARY:Old Dominion Monarchs @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOld Dominion Monarchs @ App St
- ate Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ ate Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: Broad
+ cast not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +307,13 @@ DTSTART:20270116T203000Z
 DTEND:20270116T233000Z
 SUMMARY:Georgia State Panthers @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ App S
- tate Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ tate Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: Broa
+ dcast not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +322,12 @@ DTSTART:20270123T213000Z
 DTEND:20270124T003000Z
 SUMMARY:App State Mountaineers @ Troy Trojans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Troy 
- Trojans\nTrojan Arena\, Troy\, AL
+ Trojans\nTrojan Arena\, Troy\, AL\nBroadcast: Broadcast not announced
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +336,13 @@ DTSTART:20270128T233000Z
 DTEND:20270129T023000Z
 SUMMARY:Georgia Southern Eagles @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ App 
- State Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ State Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: Bro
+ adcast not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +351,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Marshall Thundering Herd @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ App
-  State Mountaineers\nHolmes Convocation Center\, Boone\, NC
+  State Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: Br
+ oadcast not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +366,13 @@ DTSTART:20270203T160000Z
 DTEND:20270203T190000Z
 SUMMARY:App State Mountaineers @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Coast
- al Carolina Chanticleers\nThe HTC Center\, Conway\, SC
+ al Carolina Chanticleers\nThe HTC Center\, Conway\, SC\nBroadcast: Broadca
+ st not announced
 LOCATION:The HTC Center\, Conway\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +381,13 @@ DTSTART:20270210T233000Z
 DTEND:20270211T023000Z
 SUMMARY:James Madison Dukes @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJames Madison Dukes @ App Stat
- e Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ e Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: Broadca
+ st not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +396,13 @@ DTSTART:20270213T203000Z
 DTEND:20270213T233000Z
 SUMMARY:Coastal Carolina Chanticleers @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoastal Carolina Chanticleers 
- @ App State Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ @ App State Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcas
+ t: Broadcast not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +411,13 @@ DTSTART:20270217T230000Z
 DTEND:20270218T020000Z
 SUMMARY:App State Mountaineers @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Georg
- ia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ ia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broad
+ cast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +426,13 @@ DTSTART:20270220T210000Z
 DTEND:20270221T000000Z
 SUMMARY:App State Mountaineers @ Old Dominion Monarchs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Old D
- ominion Monarchs\nChartway Arena\, Norfolk\, VA
+ ominion Monarchs\nChartway Arena\, Norfolk\, VA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Chartway Arena\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +442,12 @@ DTEND:20270224T020000Z
 SUMMARY:App State Mountaineers @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Georg
  ia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro
- \, GA
+ \, GA\nBroadcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +456,13 @@ DTSTART:20270226T230000Z
 DTEND:20270227T020000Z
 SUMMARY:App State Mountaineers @ James Madison Dukes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ James
-  Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA
+  Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA\nBroadcast:
+  Broadcast not announced
 LOCATION:Atlantic Union Bank Center\, Harrisonburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

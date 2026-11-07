@@ -12,12 +12,13 @@ DTSTART:20260828T220000Z
 DTEND:20260829T010000Z
 SUMMARY:Rhode Island Rams @ Merrimack Warriors
 DESCRIPTION:NCAA FCS Football 2026\nRhode Island Rams @ Merrimack Warriors\
- nDuane Stadium\, North Andover\, MA
+ nDuane Stadium\, North Andover\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Duane Stadium\, North Andover\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401864424@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260903T230000Z
 DTEND:20260904T020000Z
 SUMMARY:Merrimack Warriors @ Delaware Blue Hens
 DESCRIPTION:NCAA FCS Football 2026\nMerrimack Warriors @ Delaware Blue Hens
- \nDelaware Stadium\, Newark\, DE
+ \nDelaware Stadium\, Newark\, DE\nBroadcast: ESPN+ (streaming)
 LOCATION:Delaware Stadium\, Newark\, DE
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866630@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20260912T210000Z
 DTEND:20260913T000000Z
 SUMMARY:Merrimack Warriors @ Maine Black Bears
 DESCRIPTION:NCAA FCS Football 2026\nMerrimack Warriors @ Maine Black Bears\
- nHarold Alfond Sports Stadium\, Orono\, ME
+ nHarold Alfond Sports Stadium\, Orono\, ME\nBroadcast: FloSports (streamin
+ g)
 LOCATION:Harold Alfond Sports Stadium\, Orono\, ME
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868237@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Merrimack Warriors @ Tarleton State Texans
 DESCRIPTION:NCAA FCS Football 2026\nMerrimack Warriors @ Tarleton State Tex
- ans\nTarleton Memorial Stadium\, Stephenville\, TX
+ ans\nTarleton Memorial Stadium\, Stephenville\, TX\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Tarleton Memorial Stadium\, Stephenville\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401872618@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20260926T170000Z
 DTEND:20260926T200000Z
 SUMMARY:New Haven Chargers @ Merrimack Warriors
 DESCRIPTION:NCAA FCS Football 2026\nNew Haven Chargers @ Merrimack Warriors
- \nDuane Stadium\, North Andover\, MA
+ \nDuane Stadium\, North Andover\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Duane Stadium\, North Andover\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401870840@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Merrimack Warriors @ Yale Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nMerrimack Warriors @ Yale Bulldogs\nYal
- e Bowl\, New Haven\, CT
+ e Bowl\, New Haven\, CT\nBroadcast: ESPN+ (streaming)
 LOCATION:Yale Bowl\, New Haven\, CT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867837@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261017T170000Z
 DTEND:20261017T200000Z
 SUMMARY:Merrimack Warriors @ Dartmouth Big Green
 DESCRIPTION:NCAA FCS Football 2026\nMerrimack Warriors @ Dartmouth Big Gree
- n\nMemorial Field (Dartmouth)\, Hanover\, NH
+ n\nMemorial Field (Dartmouth)\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Memorial Field (Dartmouth)\, Hanover\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866674@open-sports-cal
@@ -103,12 +112,13 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:New Hampshire Wildcats @ Merrimack Warriors
 DESCRIPTION:NCAA FCS Football 2026\nNew Hampshire Wildcats @ Merrimack Warr
- iors\nDuane Stadium\, North Andover\, MA
+ iors\nDuane Stadium\, North Andover\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Duane Stadium\, North Andover\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867932@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Wagner Seahawks @ Merrimack Warriors
 DESCRIPTION:NCAA FCS Football 2026\nWagner Seahawks @ Merrimack Warriors\nD
- uane Stadium\, North Andover\, MA
+ uane Stadium\, North Andover\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Duane Stadium\, North Andover\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401858290@open-sports-cal
@@ -129,12 +140,14 @@ DTSTART:20261107T203000Z
 DTEND:20261107T233000Z
 SUMMARY:Merrimack Warriors @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA FCS Football 2026\nMerrimack Warriors @ Wake Forest Demon 
- Deacons\nAllegacy Federal Credit Union Stadium\, Winston-Salem\, NC
+ Deacons\nAllegacy Federal Credit Union Stadium\, Winston-Salem\, NC\nBroad
+ cast: ACC Network
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866693@open-sports-cal
@@ -142,12 +155,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Merrimack Warriors @ Monmouth Hawks
 DESCRIPTION:NCAA FCS Football 2026\nMerrimack Warriors @ Monmouth Hawks\nKe
- ssler Stadium\, West Long Branch\, NJ
+ ssler Stadium\, West Long Branch\, NJ\nBroadcast: FloSports (streaming)
 LOCATION:Kessler Stadium\, West Long Branch\, NJ
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866700@open-sports-cal
@@ -155,11 +169,12 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Sacred Heart Pioneers @ Merrimack Warriors
 DESCRIPTION:NCAA FCS Football 2026\nSacred Heart Pioneers @ Merrimack Warri
- ors\nDuane Stadium\, North Andover\, MA
+ ors\nDuane Stadium\, North Andover\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Duane Stadium\, North Andover\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

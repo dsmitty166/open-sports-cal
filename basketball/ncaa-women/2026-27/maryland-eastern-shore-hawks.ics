@@ -12,13 +12,15 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  Virginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+  Virginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadca
+ st: ACCNX (streaming)
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919626@open-sports-cal
@@ -28,13 +30,14 @@ SUMMARY:District of Columbia DISTRICT OF COLUMBIA @ Maryland Eastern Shore
  Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDistrict of Columbia DISTRICT 
  OF COLUMBIA @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\
- , MD
+ , MD\nBroadcast: MEAC Network (streaming)
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MEAC Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913716@open-sports-cal
@@ -42,13 +45,15 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  Georgia Tech Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+  Georgia Tech Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA\nBroadcast:
+  ACCNX (streaming)
 LOCATION:McCamish Pavilion\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916187@open-sports-cal
@@ -56,13 +61,15 @@ DTSTART:20261115T193000Z
 DTEND:20261115T223000Z
 SUMMARY:Cincinnati Bearcats @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCincinnati Bearcats @ Maryland
-  Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+  Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadcast: MEAC 
+ Network (streaming)
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MEAC Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913008@open-sports-cal
@@ -70,12 +77,13 @@ DTSTART:20261119T160000Z
 DTEND:20261119T190000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  Rutgers Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+  Rutgers Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadca
+ st: Broadcast not announced
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -84,12 +92,13 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Monmouth Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  Monmouth Hawks\nOceanFirst Bank Center\, West Long Branch\, NJ
+  Monmouth Hawks\nOceanFirst Bank Center\, West Long Branch\, NJ\nBroadcast
+ : Broadcast not announced
 LOCATION:OceanFirst Bank Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -99,12 +108,12 @@ DTEND:20261126T190000Z
 SUMMARY:Oregon Ducks @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Maryland Easter
  n Shore Hawks\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral sit
- e
+ e\nBroadcast: Broadcast not announced
 LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Cancun
 END:VEVENT
 BEGIN:VEVENT
@@ -114,12 +123,12 @@ DTEND:20261127T213000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Georgia Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
   Georgia Lady Bulldogs\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNe
- utral site
+ utral site\nBroadcast: Broadcast not announced
 LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Cancun
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +138,12 @@ DTEND:20261128T190000Z
 SUMMARY:Colorado Buffaloes @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Maryland 
  Eastern Shore Hawks\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutr
- al site
+ al site\nBroadcast: Broadcast not announced
 LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Cancun
 END:VEVENT
 BEGIN:VEVENT
@@ -143,12 +152,13 @@ DTSTART:20261130T230000Z
 DTEND:20261201T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -157,12 +167,13 @@ DTSTART:20261203T230000Z
 DTEND:20261204T020000Z
 SUMMARY:Pennsylvania Quakers @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPennsylvania Quakers @ Marylan
- d Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ d Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -172,13 +183,14 @@ DTEND:20261206T220000Z
 SUMMARY:Maryland Eastern Shore Hawks @ East Carolina Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
   East Carolina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, N
- C
+ C\nBroadcast: ESPN+ (streaming)
 LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919629@open-sports-cal
@@ -186,12 +198,13 @@ DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
 SUMMARY:Virginia Lynchburg Dragons @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Lynchburg Dragons @ M
- aryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ aryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadcast
+ : Broadcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -200,13 +213,15 @@ DTSTART:20261215T233000Z
 DTEND:20261216T023000Z
 SUMMARY:Maryland Eastern Shore Hawks @ La Salle Explorers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  La Salle Explorers\nJohn Glaser Arena\, Philadelphia\, PA
+  La Salle Explorers\nJohn Glaser Arena\, Philadelphia\, PA\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:John Glaser Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919631@open-sports-cal
@@ -214,13 +229,15 @@ DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Maryland Eastern Shore Hawks @ George Mason Patriots
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  George Mason Patriots\nEagleBank Arena\, Fairfax\, VA
+  George Mason Patriots\nEagleBank Arena\, Fairfax\, VA\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:EagleBank Arena\, Fairfax\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919632@open-sports-cal
@@ -228,12 +245,13 @@ DTSTART:20261229T200000Z
 DTEND:20261229T230000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Towson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  Towson Tigers\nSECU Arena\, Towson\, MD
+  Towson Tigers\nSECU Arena\, Towson\, MD\nBroadcast: Broadcast not announc
+ ed
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -242,12 +260,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  Morgan State Lady Bears\nHill Field House\, Baltimore\, MD
+  Morgan State Lady Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Br
+ oadcast not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -256,12 +275,13 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:Norfolk State Spartans @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorfolk State Spartans @ Maryl
- and Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ and Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadcast: Br
+ oadcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -270,12 +290,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Howard Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  Howard Bison\nBurr Gymnasium\, Washington\, DC
+  Howard Bison\nBurr Gymnasium\, Washington\, DC\nBroadcast: Broadcast not 
+ announced
 LOCATION:Burr Gymnasium\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -284,12 +305,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Coppin State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  Coppin State Eagles\nPhysical Education Complex\, Baltimore\, MD
+  Coppin State Eagles\nPhysical Education Complex\, Baltimore\, MD\nBroadca
+ st: Broadcast not announced
 LOCATION:Physical Education Complex\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,12 +320,13 @@ DTSTART:20270121T230000Z
 DTEND:20270122T020000Z
 SUMMARY:North Carolina Central Eagles @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
- @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -312,12 +335,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:South Carolina State Lady Bulldogs @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina State Lady Bull
- dogs @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ dogs @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nB
+ roadcast: Broadcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -326,12 +350,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Delaware State Hornets @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware State Hornets @ Maryl
- and Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ and Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadcast: Br
+ oadcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -340,12 +365,13 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Morgan State Lady Bears @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Mary
- land Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ land Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadcast: B
+ roadcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -354,12 +380,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Norfolk State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  Norfolk State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA
+  Norfolk State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA\nBroadcast: 
+ Broadcast not announced
 LOCATION:Joseph G. Echols Hall\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -368,12 +395,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Howard Bison @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoward Bison @ Maryland Easter
- n Shore Hawks\nHytche Center\, Princess Anne\, MD
+ n Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadcast: Broadcast no
+ t announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -382,12 +410,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Coppin State Eagles @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoppin State Eagles @ Maryland
-  Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+  Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadcast: Broad
+ cast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -396,12 +425,13 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Maryland Eastern Shore Hawks @ North Carolina Central Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  North Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+  North Carolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBr
+ oadcast: Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -411,12 +441,12 @@ DTEND;VALUE=DATE:20270228
 SUMMARY:Maryland Eastern Shore Hawks @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
   South Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Cent
- er\, Orangeburg\, SC\nStart time TBD
+ er\, Orangeburg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919642@open-sports-cal
@@ -424,12 +454,13 @@ DTSTART:20270304T223000Z
 DTEND:20270305T013000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Delaware State Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Eastern Shore Hawks @
-  Delaware State Hornets\nMemorial Hall (DE)\, Dover\, DE
+  Delaware State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broad
+ cast not announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,14 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Hampton Pirates @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Georgia Tech Y
- ellow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+ ellow Jackets\nMcCamish Pavilion\, Atlanta\, GA\nBroadcast: ACCNX (streami
+ ng)
 LOCATION:McCamish Pavilion\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926825@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T230000Z
 DTEND:20261108T020000Z
 SUMMARY:Hampton Pirates @ George Washington Revolutionaries
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ George Washing
- ton Revolutionaries\nCharles E. Smith Center\, Washington\, DC
+ ton Revolutionaries\nCharles E. Smith Center\, Washington\, DC\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Charles E. Smith Center\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926826@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Apprentice School Builders @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nApprentice School Builders @ Ham
- pton Pirates\nConvocation Center (VA)\, Hampton\, VA
+ pton Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: FloSports
+  (streaming)
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921221@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261114T210000Z
 DTEND:20261115T000000Z
 SUMMARY:Hampton Pirates @ Navy Midshipmen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Navy Midshipme
- n\nAlumni Hall (Navy)\, Annapolis\, MD
+ n\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: ESPN+ (streaming) / Pat
+ riot League TV (streaming)
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926827@open-sports-cal
@@ -64,12 +72,13 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Hampton Pirates @ Old Dominion Monarchs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Old Dominion M
- onarchs\nChartway Arena\, Norfolk\, VA
+ onarchs\nChartway Arena\, Norfolk\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Chartway Arena\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921416@open-sports-cal
@@ -77,11 +86,12 @@ DTSTART:20261127T180000Z
 DTEND:20261127T210000Z
 SUMMARY:Hampton Pirates @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ UMass Lowell R
- iver Hawks\nBender Arena\, Washington\, DC\nNeutral site
+ iver Hawks\nBender Arena\, Washington\, DC\nNeutral site\nBroadcast: Broad
+ cast not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +100,12 @@ DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:Hampton Pirates @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Radford Highla
- nders\nBender Arena\, Washington\, DC\nNeutral site
+ nders\nBender Arena\, Washington\, DC\nNeutral site\nBroadcast: Broadcast 
+ not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +114,13 @@ DTSTART:20261129T210000Z
 DTEND:20261130T000000Z
 SUMMARY:Hampton Pirates @ American University Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ American Unive
- rsity Eagles\nBender Arena\, Washington\, DC
+ rsity Eagles\nBender Arena\, Washington\, DC\nBroadcast: ESPN+ (streaming)
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929290@open-sports-cal
@@ -116,12 +128,14 @@ DTSTART:20261206T013000Z
 DTEND:20261206T043000Z
 SUMMARY:Hampton Pirates @ Howard Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Howard Bison\n
- CareFirst Arena\, Washington\, DC\nNeutral site
+ CareFirst Arena\, Washington\, DC\nNeutral site\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:CareFirst Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909733@open-sports-cal
@@ -129,12 +143,14 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:Hampton Pirates @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Wake Forest De
- mon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ mon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACCNX (streami
+ ng)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925901@open-sports-cal
@@ -142,11 +158,12 @@ DTSTART:20261212T210000Z
 DTEND:20261213T000000Z
 SUMMARY:Norfolk State Spartans @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorfolk State Spartans @ Hampton
-  Pirates\nConvocation Center (VA)\, Hampton\, VA
+  Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not
+  announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +172,12 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Mid Atlantic Christian Mustangs @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMid Atlantic Christian Mustangs 
- @ Hampton Pirates\nConvocation Center (VA)\, Hampton\, VA
+ @ Hampton Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broa
+ dcast not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -168,11 +186,12 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaryland Eastern Shore Hawks @ H
- ampton Pirates\nConvocation Center (VA)\, Hampton\, VA
+ ampton Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadca
+ st not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -181,11 +200,12 @@ DTSTART:20261231T180000Z
 DTEND:20261231T210000Z
 SUMMARY:Regent Regent Royals @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRegent Regent Royals @ Hampton P
- irates\nConvocation Center (VA)\, Hampton\, VA
+ irates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +214,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Drexel Dragons @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDrexel Dragons @ Hampton Pirates
- \nConvocation Center (VA)\, Hampton\, VA
+ \nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +228,12 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Hampton Pirates @ Monmouth Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Monmouth Hawks
- \nHackensack Meridian Athletic Center\, West Long Branch\, NJ
+ \nHackensack Meridian Athletic Center\, West Long Branch\, NJ\nBroadcast: 
+ Broadcast not announced
 LOCATION:Hackensack Meridian Athletic Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +242,11 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Hampton Pirates @ Northeastern Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Northeastern H
- uskies\nCabot Center\, Boston\, MA
+ uskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +255,12 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Hampton Pirates @ William & Mary Tribe
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ William & Mary
-  Tribe\nKaplan Arena\, Williamsburg\, VA
+  Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +269,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Hofstra Pride @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Hampton Pirates\
- nConvocation Center (VA)\, Hampton\, VA
+ nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +283,12 @@ DTSTART:20270119T020000Z
 DTEND:20270119T050000Z
 SUMMARY:Hampton Pirates @ North Carolina A&T Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ North Carolina
-  A&T Aggies\nCorbett Sports Center\, Greensboro\, NC
+  A&T Aggies\nCorbett Sports Center\, Greensboro\, NC\nBroadcast: Broadcast
+  not announced
 LOCATION:Corbett Sports Center\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +297,11 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Elon Phoenix @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Hampton Pirates\n
- Convocation Center (VA)\, Hampton\, VA
+ Convocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +310,12 @@ DTSTART:20270126T013000Z
 DTEND:20270126T043000Z
 SUMMARY:Campbell Fighting Camels @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Hampt
- on Pirates\nConvocation Center (VA)\, Hampton\, VA
+ on Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +324,12 @@ DTSTART:20270128T233000Z
 DTEND:20270129T023000Z
 SUMMARY:Hampton Pirates @ Stony Brook Seawolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Stony Brook Se
- awolves\nStony Brook Arena\, Stony Brook\, NY
+ awolves\nStony Brook Arena\, Stony Brook\, NY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Stony Brook Arena\, Stony Brook\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +338,11 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Hampton Pirates @ Towson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Towson Tigers\
- nSECU Arena\, Towson\, MD
+ nSECU Arena\, Towson\, MD\nBroadcast: Broadcast not announced
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +351,12 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Charleston Cougars @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Cougars @ Hampton Pir
- ates\nConvocation Center (VA)\, Hampton\, VA
+ ates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +365,12 @@ DTSTART:20270207T000000Z
 DTEND:20270207T030000Z
 SUMMARY:Hampton Pirates @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ UNC Wilmington
-  Seahawks\nTrask Coliseum\, Wilmington\, NC
+  Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +379,11 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:Hampton Pirates @ Elon Phoenix
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Elon Phoenix\n
- Schar Center\, Elon\, NC
+ Schar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +392,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:North Carolina A&T Aggies @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina A&T Aggies @ Hamp
- ton Pirates\nConvocation Center (VA)\, Hampton\, VA
+ ton Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +406,12 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Monmouth Hawks @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Hampton Pirates
- \nConvocation Center (VA)\, Hampton\, VA
+ \nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +420,11 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Hampton Pirates @ Charleston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ Charleston Cou
- gars\nTD Arena\, Charleston\, SC
+ gars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +433,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Towson Tigers @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTowson Tigers @ Hampton Pirates\
- nConvocation Center (VA)\, Hampton\, VA
+ nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +447,12 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:William & Mary Tribe @ Hampton Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Hampton P
- irates\nConvocation Center (VA)\, Hampton\, VA
+ irates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

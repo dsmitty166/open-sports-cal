@@ -12,13 +12,14 @@ DTSTART:20261103T230000Z
 DTEND:20261104T020000Z
 SUMMARY:Sacred Heart Pioneers @ Syracuse Orange
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Syracu
- se Orange\nJMA Wireless Dome\, Syracuse\, NY
+ se Orange\nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: ACCNX (streaming)
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918039@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Mercy Mavericks @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMercy Mavericks @ Sacred Heart
-  Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+  Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918040@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Northeastern Huskies @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Sacred 
- Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918041@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Sacred Heart Pioneers @ Stony Brook Seawolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Stony 
- Brook Seawolves\nStony Brook Arena\, Stony Brook\, NY
+ Brook Seawolves\nStony Brook Arena\, Stony Brook\, NY\nBroadcast: FloSport
+ s (streaming)
 LOCATION:Stony Brook Arena\, Stony Brook\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919438@open-sports-cal
@@ -68,12 +75,13 @@ DTSTART:20261119T233000Z
 DTEND:20261120T023000Z
 SUMMARY:Sacred Heart Pioneers @ Michigan State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Michig
- an State Spartans\nBreslin Center\, East Lansing\, MI
+ an State Spartans\nBreslin Center\, East Lansing\, MI\nBroadcast: Broadcas
+ t not announced
 LOCATION:Breslin Center\, East Lansing\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -82,13 +90,14 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Sacred Heart Pioneers @ Detroit Mercy Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Detroi
- t Mercy Titans\nCalihan Hall\, Detroit\, MI
+ t Mercy Titans\nCalihan Hall\, Detroit\, MI\nBroadcast: ESPN+ (streaming)
 LOCATION:Calihan Hall\, Detroit\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919440@open-sports-cal
@@ -96,12 +105,13 @@ DTSTART:20261124T190000Z
 DTEND:20261124T220000Z
 SUMMARY:Sacred Heart Pioneers @ New Haven Chargers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ New Ha
- ven Chargers\nJeffery P. Hazell Athletics Center\, West Haven\, CT
+ ven Chargers\nJeffery P. Hazell Athletics Center\, West Haven\, CT\nBroadc
+ ast: Broadcast not announced
 LOCATION:Jeffery P. Hazell Athletics Center\, West Haven\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,13 +120,15 @@ DTSTART:20261201T000000Z
 DTEND:20261201T030000Z
 SUMMARY:Holy Cross Crusaders @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Sacred 
- Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919442@open-sports-cal
@@ -124,13 +136,15 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Central Connecticut Blue Devils @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Sacred Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ s @ Sacred Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913751@open-sports-cal
@@ -138,13 +152,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Sacred Heart Pioneers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Pittsb
- urgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ urgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX 
+ (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913795@open-sports-cal
@@ -152,13 +168,15 @@ DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Sacred Heart Pioneers @ NJIT Highlanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ NJIT H
- ighlanders\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ
+ ighlanders\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:Joel & Diane Bloom Wellness and Events Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916104@open-sports-cal
@@ -166,13 +184,15 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Marist Red Foxes @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarist Red Foxes @ Sacred Hear
- t Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ t Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919443@open-sports-cal
@@ -180,13 +200,15 @@ DTSTART:20261221T163000Z
 DTEND:20261221T193000Z
 SUMMARY:Saint Peter's Peacocks @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Sacre
- d Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ d Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: ESPN
+ + (streaming)
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916201@open-sports-cal
@@ -194,12 +216,13 @@ DTSTART:20270101T180000Z
 DTEND:20270101T210000Z
 SUMMARY:Sacred Heart Pioneers @ Niagara Purple Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Niagar
- a Purple Eagles\nGallagher Center\, Niagara Falls\, NY
+ a Purple Eagles\nGallagher Center\, Niagara Falls\, NY\nBroadcast: Broadca
+ st not announced
 LOCATION:Gallagher Center\, Niagara Falls\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +231,13 @@ DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:Sacred Heart Pioneers @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Canisi
- us Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ us Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +246,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Siena Saints @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Sacred Heart Pi
- oneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ oneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: Broadcast not 
+ announced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +261,13 @@ DTSTART:20270109T230000Z
 DTEND:20270110T020000Z
 SUMMARY:Sacred Heart Pioneers @ Manhattan Jaspers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Manhat
- tan Jaspers\nDraddy Gymnasium\, Riverdale\, NY
+ tan Jaspers\nDraddy Gymnasium\, Riverdale\, NY\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Draddy Gymnasium\, Riverdale\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +276,13 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Sacred Heart Pioneers @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Mount 
- St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadca
+ st not announced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +291,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Iona Gaels @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIona Gaels @ Sacred Heart Pion
- eers\nWilliam H. Pitt Center\, Fairfield\, CT
+ eers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: Broadcast not an
+ nounced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +306,13 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Sacred Heart Pioneers @ Quinnipiac Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Quinni
- piac Bobcats\nM&T Bank Arena\, Hamden\, CT
+ piac Bobcats\nM&T Bank Arena\, Hamden\, CT\nBroadcast: Broadcast not annou
+ nced
 LOCATION:M&T Bank Arena\, Hamden\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +321,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Canisius Golden Griffins @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Sac
- red Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ red Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: Br
+ oadcast not announced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +336,13 @@ DTSTART:20270124T000000Z
 DTEND:20270124T030000Z
 SUMMARY:Sacred Heart Pioneers @ Marist Red Foxes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Marist
-  Red Foxes\nMcCann Arena\, Poughkeepsie\, NY
+  Red Foxes\nMcCann Arena\, Poughkeepsie\, NY\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:McCann Arena\, Poughkeepsie\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +351,13 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Rider Broncs @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Sacred Heart Pi
- oneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ oneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: Broadcast not 
+ announced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +366,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Sacred Heart Pioneers @ Iona Gaels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Iona G
- aels\nHynes Athletics Center\, New Rochelle\, NY
+ aels\nHynes Athletics Center\, New Rochelle\, NY\nBroadcast: Broadcast not
+  announced
 LOCATION:Hynes Athletics Center\, New Rochelle\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +381,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Sacred Heart Pioneers @ Fairfield Stags
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Fairfi
- eld Stags\nLeo D. Mahoney Arena\, Fairfield\, CT
+ eld Stags\nLeo D. Mahoney Arena\, Fairfield\, CT\nBroadcast: Broadcast not
+  announced
 LOCATION:Leo D. Mahoney Arena\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +396,13 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Manhattan Jaspers @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nManhattan Jaspers @ Sacred Hea
- rt Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ rt Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: Broadcast
+  not announced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +411,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Sacred Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ @ Sacred Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcas
+ t: Broadcast not announced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +426,13 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Sacred Heart Pioneers @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Saint 
- Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcas
+ t not announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +441,12 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Sacred Heart Pioneers @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Siena 
- Saints\nUHY Center\, Loudonville\, NY
+ Saints\nUHY Center\, Loudonville\, NY\nBroadcast: Broadcast not announced
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +455,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Merrimack Warriors @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMerrimack Warriors @ Sacred He
- art Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ art Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: Broadcas
+ t not announced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +470,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Fairfield Stags @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFairfield Stags @ Sacred Heart
-  Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+  Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: Broadcast n
+ ot announced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

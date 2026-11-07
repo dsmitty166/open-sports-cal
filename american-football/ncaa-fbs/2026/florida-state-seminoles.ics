@@ -12,12 +12,13 @@ DTSTART:20260829T230000Z
 DTEND:20260830T020000Z
 SUMMARY:New Mexico State Aggies @ Florida State Seminoles
 DESCRIPTION:NCAA FBS Football 2026\nNew Mexico State Aggies @ Florida State
-  Seminoles\nDoak Campbell Stadium\, Tallahassee\, FL
+  Seminoles\nDoak Campbell Stadium\, Tallahassee\, FL\nBroadcast: CW
 LOCATION:Doak Campbell Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858212@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260907T233000Z
 DTEND:20260908T023000Z
 SUMMARY:SMU Mustangs @ Florida State Seminoles
 DESCRIPTION:NCAA FBS Football 2026\nSMU Mustangs @ Florida State Seminoles\
- nDoak Campbell Stadium\, Tallahassee\, FL
+ nDoak Campbell Stadium\, Tallahassee\, FL\nBroadcast: ESPN
 LOCATION:Doak Campbell Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856685@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T211500Z
 DTEND:20260920T001500Z
 SUMMARY:Florida State Seminoles @ Alabama Crimson Tide
 DESCRIPTION:NCAA FBS Football 2026\nFlorida State Seminoles @ Alabama Crims
- on Tide\nBryant-Denny Stadium\, Tuscaloosa\, AL
+ on Tide\nBryant-Denny Stadium\, Tuscaloosa\, AL\nBroadcast: ESPN2
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858237@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20260926T190000Z
 DTEND:20260926T220000Z
 SUMMARY:Central Arkansas Bears @ Florida State Seminoles
 DESCRIPTION:NCAA FBS Football 2026\nCentral Arkansas Bears @ Florida State 
- Seminoles\nDoak Campbell Stadium\, Tallahassee\, FL
+ Seminoles\nDoak Campbell Stadium\, Tallahassee\, FL\nBroadcast: ACC Networ
+ k
 LOCATION:Doak Campbell Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858253@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Virginia Cavaliers @ Florida State Seminoles
 DESCRIPTION:NCAA FBS Football 2026\nVirginia Cavaliers @ Florida State Semi
- noles\nDoak Campbell Stadium\, Tallahassee\, FL
+ noles\nDoak Campbell Stadium\, Tallahassee\, FL\nBroadcast: ESPN2
 LOCATION:Doak Campbell Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858254@open-sports-cal
@@ -77,12 +83,14 @@ DTSTART:20261009T230000Z
 DTEND:20261010T020000Z
 SUMMARY:Florida State Seminoles @ Louisville Cardinals
 DESCRIPTION:NCAA FBS Football 2026\nFlorida State Seminoles @ Louisville Ca
- rdinals\nL&N Federal Credit Union Stadium\, Louisville\, KY
+ rdinals\nL&N Federal Credit Union Stadium\, Louisville\, KY\nBroadcast: ES
+ PN
 LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858263@open-sports-cal
@@ -90,12 +98,14 @@ DTSTART:20261017T230000Z
 DTEND:20261018T020000Z
 SUMMARY:Florida State Seminoles @ Miami Hurricanes
 DESCRIPTION:NCAA FBS Football 2026\nFlorida State Seminoles @ Miami Hurrica
- nes\nHard Rock Stadium\, Miami Gardens\, FL
+ nes\nHard Rock Stadium\, Miami Gardens\, FL\nBroadcast: ESPN / Disney+ (st
+ reaming)
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858280@open-sports-cal
@@ -103,12 +113,13 @@ DTSTART:20261031T230000Z
 DTEND:20261101T020000Z
 SUMMARY:Clemson Tigers @ Florida State Seminoles
 DESCRIPTION:NCAA FBS Football 2026\nClemson Tigers @ Florida State Seminole
- s\nDoak Campbell Stadium\, Tallahassee\, FL
+ s\nDoak Campbell Stadium\, Tallahassee\, FL\nBroadcast: ACC Network
 LOCATION:Doak Campbell Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858289@open-sports-cal
@@ -116,12 +127,14 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:Florida State Seminoles @ Boston College Eagles
 DESCRIPTION:NCAA FBS Football 2026\nFlorida State Seminoles @ Boston Colleg
- e Eagles\nAlumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
+ e Eagles\nAlumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA\nBroadc
+ ast: ACC Network
 LOCATION:Alumni Stadium (Chestnut Hill\, MA)\, Chestnut Hill\, MA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858293@open-sports-cal
@@ -129,12 +142,13 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Florida State Seminoles @ Pittsburgh Panthers
 DESCRIPTION:NCAA FBS Football 2026\nFlorida State Seminoles @ Pittsburgh Pa
- nthers\nAcrisure Stadium\, Pittsburgh\, PA
+ nthers\nAcrisure Stadium\, Pittsburgh\, PA\nBroadcast: ESPN
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858304@open-sports-cal
@@ -142,11 +156,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:NC State Wolfpack @ Florida State Seminoles
 DESCRIPTION:NCAA FBS Football 2026\nNC State Wolfpack @ Florida State Semin
- oles\nDoak Campbell Stadium\, Tallahassee\, FL\nStart time TBD
+ oles\nDoak Campbell Stadium\, Tallahassee\, FL\nStart time TBD\nBroadcast:
+  Broadcast not announced
 LOCATION:Doak Campbell Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856759@open-sports-cal
@@ -154,11 +169,12 @@ DTSTART:20261127T203000Z
 DTEND:20261127T233000Z
 SUMMARY:Florida Gators @ Florida State Seminoles
 DESCRIPTION:NCAA FBS Football 2026\nFlorida Gators @ Florida State Seminole
- s\nDoak Campbell Stadium\, Tallahassee\, FL
+ s\nDoak Campbell Stadium\, Tallahassee\, FL\nBroadcast: ABC
 LOCATION:Doak Campbell Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 END:VCALENDAR

@@ -12,13 +12,15 @@ DTSTART:20261104T003000Z
 DTEND:20261104T033000Z
 SUMMARY:North Alabama Lions @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Alabama Lions @ Mississi
- ppi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ppi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SECN+ 
+ (streaming)
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918855@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261108T200000Z
 DTEND:20261108T230000Z
 SUMMARY:Mississippi State Bulldogs @ UT Martin Skyhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ U
- T Martin Skyhawks\nKathleen and Tom Elam Center\, Martin\, TN
+ T Martin Skyhawks\nKathleen and Tom Elam Center\, Martin\, TN\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Kathleen and Tom Elam Center\, Martin\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918856@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261112T003000Z
 DTEND:20261112T033000Z
 SUMMARY:Troy Trojans @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTroy Trojans @ Mississippi Sta
- te Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ te Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SECN+ (stream
+ ing)
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918857@open-sports-cal
@@ -54,13 +60,14 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Mississippi State Bulldogs @ Buffalo Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ B
- uffalo Bulls\nBroadview Arena\, Buffalo\, NY
+ uffalo Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918611@open-sports-cal
@@ -68,13 +75,15 @@ DTSTART:20261117T170000Z
 DTEND:20261117T200000Z
 SUMMARY:Alabama State Lady Hornets @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ M
- ississippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ississippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast:
+  SECN+ (streaming)
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918858@open-sports-cal
@@ -82,13 +91,15 @@ DTSTART:20261122T200000Z
 DTEND:20261122T230000Z
 SUMMARY:Mississippi State Bulldogs @ Southern Miss Lady Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ S
- outhern Miss Lady Eagles\nReed Green Coliseum\, Hattiesburg\, MS
+ outhern Miss Lady Eagles\nReed Green Coliseum\, Hattiesburg\, MS\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Reed Green Coliseum\, Hattiesburg\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918859@open-sports-cal
@@ -97,12 +108,12 @@ DTEND:20261127T190000Z
 SUMMARY:Indiana Hoosiers @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana Hoosiers @ Mississippi
   State Bulldogs\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral si
- te
+ te\nBroadcast: Broadcast not announced
 LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -112,12 +123,12 @@ DTEND:20261128T190000Z
 SUMMARY:TCU Horned Frogs @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTCU Horned Frogs @ Mississippi
   State Bulldogs\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral si
- te
+ te\nBroadcast: Broadcast not announced
 LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -126,13 +137,14 @@ DTSTART:20261204T020000Z
 DTEND:20261204T050000Z
 SUMMARY:Virginia Cavaliers @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Mississip
- pi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ pi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: ESPNU
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918860@open-sports-cal
@@ -140,13 +152,15 @@ DTSTART:20261206T230000Z
 DTEND:20261207T020000Z
 SUMMARY:Sam Houston Bearkats @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSam Houston Bearkats @ Mississ
- ippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SEC N
+ etwork
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918861@open-sports-cal
@@ -154,13 +168,15 @@ DTSTART:20261213T200000Z
 DTEND:20261213T230000Z
 SUMMARY:Texas Tech Lady Raiders @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Tech Lady Raiders @ Miss
- issippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ issippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SE
+ CN+ (streaming)
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918862@open-sports-cal
@@ -168,13 +184,15 @@ DTSTART:20261217T003000Z
 DTEND:20261217T033000Z
 SUMMARY:Samford Bulldogs @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Mississippi
-  State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+  State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SECN+ (st
+ reaming)
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918863@open-sports-cal
@@ -182,13 +200,15 @@ DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Mississippi State Bulldogs @ Davidson Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ D
- avidson Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+ avidson Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918562@open-sports-cal
@@ -196,13 +216,15 @@ DTSTART:20261228T210000Z
 DTEND:20261229T000000Z
 SUMMARY:Jackson State Lady Tigers @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJackson State Lady Tigers @ Mi
- ssissippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ssissippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: 
+ SECN+ (streaming)
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912825@open-sports-cal
@@ -210,13 +232,14 @@ DTSTART:20261231T210000Z
 DTEND:20270101T000000Z
 SUMMARY:Mississippi State Bulldogs @ Missouri Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ M
- issouri Tigers\nMizzou Arena\, Columbia\, MO
+ issouri Tigers\nMizzou Arena\, Columbia\, MO\nBroadcast: SECN+ (streaming)
 LOCATION:Mizzou Arena\, Columbia\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912835@open-sports-cal
@@ -224,12 +247,13 @@ DTSTART:20270103T200000Z
 DTEND:20270103T230000Z
 SUMMARY:Texas A&M Aggies @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M Aggies @ Mississippi
-  State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+  State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: Broadcast
+  not announced
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -238,13 +262,15 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:South Carolina Gamecocks @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Gamecocks @ Mis
- sissippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ sissippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: S
+ EC Network
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912854@open-sports-cal
@@ -252,13 +278,15 @@ DTSTART:20270110T230000Z
 DTEND:20270111T020000Z
 SUMMARY:Mississippi State Bulldogs @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ V
- anderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ anderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast:
+  SEC Network
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912856@open-sports-cal
@@ -266,12 +294,13 @@ DTSTART:20270115T010000Z
 DTEND:20270115T040000Z
 SUMMARY:Mississippi State Bulldogs @ LSU Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ L
- SU Tigers\nPete Maravich Assembly Center\, Baton Rouge\, LA
+ SU Tigers\nPete Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: Br
+ oadcast not announced
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +309,13 @@ DTSTART:20270122T003000Z
 DTEND:20270122T033000Z
 SUMMARY:Oklahoma Sooners @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma Sooners @ Mississippi
-  State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+  State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: Broadcast
+  not announced
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -294,13 +324,15 @@ DTSTART:20270124T220000Z
 DTEND:20270125T010000Z
 SUMMARY:Texas Longhorns @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Longhorns @ Mississippi 
- State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SEC Networ
+ k
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912882@open-sports-cal
@@ -308,12 +340,13 @@ DTSTART:20270129T003000Z
 DTEND:20270129T033000Z
 SUMMARY:Mississippi State Bulldogs @ Arkansas Razorbacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ A
- rkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ rkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: Broad
+ cast not announced
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,13 +355,15 @@ DTSTART:20270131T170000Z
 DTEND:20270131T200000Z
 SUMMARY:Mississippi State Bulldogs @ Georgia Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ G
- eorgia Lady Bulldogs\nStegeman Coliseum\, Athens\, GA
+ eorgia Lady Bulldogs\nStegeman Coliseum\, Athens\, GA\nBroadcast: SEC Netw
+ ork
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912899@open-sports-cal
@@ -336,12 +371,13 @@ DTSTART:20270205T003000Z
 DTEND:20270205T033000Z
 SUMMARY:Tennessee Lady Volunteers @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Mi
- ssissippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ssissippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: 
+ Broadcast not announced
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,13 +386,15 @@ DTSTART:20270207T210000Z
 DTEND:20270208T000000Z
 SUMMARY:Ole Miss Rebels @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOle Miss Rebels @ Mississippi 
- State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SEC Networ
+ k
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912915@open-sports-cal
@@ -364,12 +402,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Mississippi State Bulldogs @ Florida Gators
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ F
- lorida Gators\nStephen C. O'Connell Center\, Gainesville\, FL
+ lorida Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: 
+ Broadcast not announced
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -378,13 +417,14 @@ DTSTART:20270216T010000Z
 DTEND:20270216T040000Z
 SUMMARY:Mississippi State Bulldogs @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ A
- uburn Tigers\nNeville Arena\, Auburn\, AL
+ uburn Tigers\nNeville Arena\, Auburn\, AL\nBroadcast: SEC Network
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912929@open-sports-cal
@@ -392,12 +432,13 @@ DTSTART:20270221T200000Z
 DTEND:20270221T230000Z
 SUMMARY:Alabama Crimson Tide @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama Crimson Tide @ Mississ
- ippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: Broad
+ cast not announced
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -406,12 +447,13 @@ DTSTART:20270226T003000Z
 DTEND:20270226T033000Z
 SUMMARY:Arkansas Razorbacks @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas Razorbacks @ Mississi
- ppi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ppi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: Broadc
+ ast not announced
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -420,12 +462,14 @@ DTSTART:20270228T190000Z
 DTEND:20270228T220000Z
 SUMMARY:Mississippi State Bulldogs @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ K
- entucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ entucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SEC 
+ Network
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 END:VCALENDAR

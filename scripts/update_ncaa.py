@@ -17,6 +17,7 @@ from functools import lru_cache
 from pathlib import Path
 
 from common import make_calendar, make_vevent, fmt_utc
+from broadcasts import broadcast_names
 
 SITE = "https://site.api.espn.com/apis/site/v2/sports"
 CORE = "https://sports.core.api.espn.com/v2/sports"
@@ -146,6 +147,7 @@ def build_event(event, key, label, season):
     vevent = make_vevent(
         f"{key}-{event['id']}@open-sports-cal", escape(summary), start, end,
         escape(location), escape(description), f"{sport},{label},{label} {season}", tz, all_day,
+        broadcast=broadcast_names(comp),
     )
     return vevent, competitors, dt
 

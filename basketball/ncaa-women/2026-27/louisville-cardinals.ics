@@ -12,13 +12,15 @@ DTSTART:20261102T220000Z
 DTEND:20261103T010000Z
 SUMMARY:Bellarmine Knights @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBellarmine Knights @ Louisvill
- e Cardinals\nKFC Yum! Center\, Louisville\, KY
+ e Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACCNX (streamin
+ g)
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906075@open-sports-cal
@@ -26,13 +28,14 @@ DTSTART:20261105T010000Z
 DTEND:20261105T040000Z
 SUMMARY:Stetson Hatters @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStetson Hatters @ Louisville C
- ardinals\nKFC Yum! Center\, Louisville\, KY
+ ardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACC Network
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906076@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261108T210000Z
 DTEND:20261109T000000Z
 SUMMARY:Louisville Cardinals @ Southern Indiana Screaming Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Souther
- n Indiana Screaming Eagles\nLiberty Arena (IN)\, Evansville\, IN
+ n Indiana Screaming Eagles\nLiberty Arena (IN)\, Evansville\, IN\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Liberty Arena (IN)\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906077@open-sports-cal
@@ -54,13 +59,14 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Lindenwood Lions @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLindenwood Lions @ Louisville 
- Cardinals\nKFC Yum! Center\, Louisville\, KY
+ Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACCNX (streaming)
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906078@open-sports-cal
@@ -68,13 +74,14 @@ DTSTART:20261113T010000Z
 DTEND:20261113T040000Z
 SUMMARY:Louisville Cardinals @ Ball State Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Ball St
- ate Cardinals\nWorthen Arena\, Muncie\, IN
+ ate Cardinals\nWorthen Arena\, Muncie\, IN\nBroadcast: CBSSN
 LOCATION:Worthen Arena\, Muncie\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906079@open-sports-cal
@@ -82,13 +89,14 @@ DTSTART:20261115T223000Z
 DTEND:20261116T013000Z
 SUMMARY:UConn Huskies @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Louisville Car
- dinals\nKFC Yum! Center\, Louisville\, KY
+ dinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ESPN
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906080@open-sports-cal
@@ -96,13 +104,15 @@ DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:Tennessee State Lady Tigers @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee State Lady Tigers @ 
- Louisville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ Louisville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACCNX 
+ (streaming)
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906081@open-sports-cal
@@ -110,12 +120,13 @@ DTSTART:20261122T043000Z
 DTEND:20261122T073000Z
 SUMMARY:Louisville Cardinals @ Alaska Anchorage Seawolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Alaska 
- Anchorage Seawolves\nAlaska Airlines Center\, Anchorage\, AK
+ Anchorage Seawolves\nAlaska Airlines Center\, Anchorage\, AK\nBroadcast: B
+ roadcast not announced
 LOCATION:Alaska Airlines Center\, Anchorage\, AK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Anchorage
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +135,14 @@ DTSTART:20261127T180000Z
 DTEND:20261127T210000Z
 SUMMARY:Akron Zips @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAkron Zips @ Louisville Cardin
- als\nKFC Yum! Center\, Louisville\, KY
+ als\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACCNX (streaming)
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906083@open-sports-cal
@@ -138,13 +150,15 @@ DTSTART:20261129T170000Z
 DTEND:20261129T200000Z
 SUMMARY:East Tennessee State Buccaneers @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Louisville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ s @ Louisville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: AC
+ C Network
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906084@open-sports-cal
@@ -152,13 +166,14 @@ DTSTART:20261203T021500Z
 DTEND:20261203T051500Z
 SUMMARY:Louisville Cardinals @ Texas Longhorns
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Texas L
- onghorns\nMoody Center\, Austin\, TX
+ onghorns\nMoody Center\, Austin\, TX\nBroadcast: ESPN2
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906085@open-sports-cal
@@ -166,13 +181,15 @@ DTSTART:20261206T210000Z
 DTEND:20261207T000000Z
 SUMMARY:Eastern Kentucky Colonels @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Lo
- uisville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ uisville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACC Netw
+ ork
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906086@open-sports-cal
@@ -180,13 +197,14 @@ DTSTART:20261210T020000Z
 DTEND:20261210T050000Z
 SUMMARY:Louisville Cardinals @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Kentuck
- y Wildcats\nRupp Arena\, Lexington\, KY
+ y Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: ESPN
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918260@open-sports-cal
@@ -194,13 +212,14 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Miami Hurricanes @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiami Hurricanes @ Louisville 
- Cardinals\nKFC Yum! Center\, Louisville\, KY
+ Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: CW
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906087@open-sports-cal
@@ -208,13 +227,15 @@ DTSTART:20261218T000000Z
 DTEND:20261218T030000Z
 SUMMARY:Northern Kentucky Norse @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Loui
- sville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ sville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACCNX (str
+ eaming)
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918267@open-sports-cal
@@ -222,13 +243,14 @@ DTSTART:20261220T223000Z
 DTEND:20261221T013000Z
 SUMMARY:Clemson Tigers @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Louisville Ca
- rdinals\nKFC Yum! Center\, Louisville\, KY
+ rdinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ESPN2
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918044@open-sports-cal
@@ -236,13 +258,15 @@ DTSTART:20261231T170000Z
 DTEND:20261231T200000Z
 SUMMARY:Louisville Cardinals @ Boston College Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Boston 
- College Eagles\nConte Forum\, Chestnut Hill\, MA
+ College Eagles\nConte Forum\, Chestnut Hill\, MA\nBroadcast: ACCNX (stream
+ ing)
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918278@open-sports-cal
@@ -250,13 +274,15 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:California Golden Bears @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Golden Bears @ Loui
- sville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ sville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACC Networ
+ k
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918287@open-sports-cal
@@ -264,13 +290,14 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:Louisville Cardinals @ Florida State Seminoles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Florida
-  State Seminoles\nTucker Center\, Tallahassee\, FL
+  State Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACC Network
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918315@open-sports-cal
@@ -278,12 +305,13 @@ DTSTART:20270110T200000Z
 DTEND:20270110T230000Z
 SUMMARY:North Carolina Tar Heels @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Tar Heels @ Lou
- isville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ isville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: Broadcast
+  not announced
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +320,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Louisville Cardinals @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Pittsbu
- rgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ rgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broadca
+ st not announced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,13 +335,14 @@ DTSTART:20270117T190000Z
 DTEND:20270117T220000Z
 SUMMARY:Louisville Cardinals @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Virgini
- a Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ a Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: CW
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918337@open-sports-cal
@@ -320,13 +350,14 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Notre Dame Fighting Irish @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Lo
- uisville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ uisville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ESPN
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918344@open-sports-cal
@@ -334,13 +365,14 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Louisville Cardinals @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ SMU Mus
- tangs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ tangs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: CW
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918355@open-sports-cal
@@ -348,12 +380,13 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Stanford Cardinal @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Louisville
-  Cardinals\nKFC Yum! Center\, Louisville\, KY
+  Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +395,13 @@ DTSTART:20270204T230000Z
 DTEND:20270205T020000Z
 SUMMARY:Louisville Cardinals @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Wake Fo
- rest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ rest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: Broadca
+ st not announced
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +410,13 @@ DTSTART:20270207T190000Z
 DTEND:20270207T220000Z
 SUMMARY:Louisville Cardinals @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Virgini
- a Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ a Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: Broa
+ dcast not announced
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,13 +425,14 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Syracuse Orange @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSyracuse Orange @ Louisville C
- ardinals\nKFC Yum! Center\, Louisville\, KY
+ ardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACC Network
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918385@open-sports-cal
@@ -404,12 +440,13 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Georgia Tech Yellow Jackets @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Tech Yellow Jackets @ 
- Louisville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ Louisville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: Broadc
+ ast not announced
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -418,13 +455,14 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Louisville Cardinals @ Duke Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Duke Bl
- ue Devils\nCameron Indoor Stadium\, Durham\, NC
+ ue Devils\nCameron Indoor Stadium\, Durham\, NC\nBroadcast: ESPN
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918401@open-sports-cal
@@ -432,13 +470,14 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:NC State Wolfpack @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNC State Wolfpack @ Louisville
-  Cardinals\nKFC Yum! Center\, Louisville\, KY
+  Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ESPN
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918414@open-sports-cal
@@ -446,12 +485,13 @@ DTSTART:20270228T170000Z
 DTEND:20270228T200000Z
 SUMMARY:Louisville Cardinals @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Notre D
- ame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ ame Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ESPN
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 END:VCALENDAR

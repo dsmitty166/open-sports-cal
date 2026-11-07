@@ -12,12 +12,13 @@ DTSTART:20260828T220000Z
 DTEND:20260829T010000Z
 SUMMARY:William & Mary Tribe @ Villanova Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nWilliam & Mary Tribe @ Villanova Wildca
- ts\nVillanova Stadium\, Philadelphia\, PA
+ ts\nVillanova Stadium\, Philadelphia\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Villanova Stadium\, Philadelphia\, PA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867692@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20260905T220000Z
 DTEND:20260906T010000Z
 SUMMARY:Delaware State Hornets @ William & Mary Tribe
 DESCRIPTION:NCAA FCS Football 2026\nDelaware State Hornets @ William & Mary
-  Tribe\nWalter J. Zable Stadium\, Williamsburg\, VA
+  Tribe\nWalter J. Zable Stadium\, Williamsburg\, VA\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Walter J. Zable Stadium\, Williamsburg\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868033@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260912T180000Z
 DTEND:20260912T210000Z
 SUMMARY:William & Mary Tribe @ Lehigh Mountain Hawks
 DESCRIPTION:NCAA FCS Football 2026\nWilliam & Mary Tribe @ Lehigh Mountain 
- Hawks\nGoodman Stadium\, Bethlehem\, PA
+ Hawks\nGoodman Stadium\, Bethlehem\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Goodman Stadium\, Bethlehem\, PA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868009@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260919T220000Z
 DTEND:20260920T010000Z
 SUMMARY:Fordham Rams @ William & Mary Tribe
 DESCRIPTION:NCAA FCS Football 2026\nFordham Rams @ William & Mary Tribe\nWa
- lter J. Zable Stadium\, Williamsburg\, VA
+ lter J. Zable Stadium\, Williamsburg\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Walter J. Zable Stadium\, Williamsburg\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401858244@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:William & Mary Tribe @ Duke Blue Devils
 DESCRIPTION:NCAA FCS Football 2026\nWilliam & Mary Tribe @ Duke Blue Devils
- \nWallace Wade Stadium\, Durham\, NC
+ \nWallace Wade Stadium\, Durham\, NC\nBroadcast: ACCNX (streaming)
 LOCATION:Wallace Wade Stadium\, Durham\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868025@open-sports-cal
@@ -77,12 +83,14 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Holy Cross Crusaders @ William & Mary Tribe
 DESCRIPTION:NCAA FCS Football 2026\nHoly Cross Crusaders @ William & Mary T
- ribe\nWalter J. Zable Stadium\, Williamsburg\, VA
+ ribe\nWalter J. Zable Stadium\, Williamsburg\, VA\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Walter J. Zable Stadium\, Williamsburg\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867980@open-sports-cal
@@ -90,12 +98,14 @@ DTSTART:20261010T170000Z
 DTEND:20261010T200000Z
 SUMMARY:William & Mary Tribe @ North Carolina Central Eagles
 DESCRIPTION:NCAA FCS Football 2026\nWilliam & Mary Tribe @ North Carolina C
- entral Eagles\nO'Kelly-Riddick Stadium\, Durham\, NC
+ entral Eagles\nO'Kelly-Riddick Stadium\, Durham\, NC\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:O'Kelly-Riddick Stadium\, Durham\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868019@open-sports-cal
@@ -103,12 +113,14 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:Georgetown Hoyas @ William & Mary Tribe
 DESCRIPTION:NCAA FCS Football 2026\nGeorgetown Hoyas @ William & Mary Tribe
- \nWalter J. Zable Stadium\, Williamsburg\, VA
+ \nWalter J. Zable Stadium\, Williamsburg\, VA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Walter J. Zable Stadium\, Williamsburg\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868004@open-sports-cal
@@ -116,12 +128,13 @@ DTSTART:20261031T170000Z
 DTEND:20261031T200000Z
 SUMMARY:William & Mary Tribe @ Colgate Raiders
 DESCRIPTION:NCAA FCS Football 2026\nWilliam & Mary Tribe @ Colgate Raiders\
- nAndy Kerr Stadium\, Hamilton\, NY
+ nAndy Kerr Stadium\, Hamilton\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Andy Kerr Stadium\, Hamilton\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868031@open-sports-cal
@@ -129,12 +142,14 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Lafayette Leopards @ William & Mary Tribe
 DESCRIPTION:NCAA FCS Football 2026\nLafayette Leopards @ William & Mary Tri
- be\nWalter J. Zable Stadium\, Williamsburg\, VA
+ be\nWalter J. Zable Stadium\, Williamsburg\, VA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Walter J. Zable Stadium\, Williamsburg\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867997@open-sports-cal
@@ -142,12 +157,13 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Bucknell Bison @ William & Mary Tribe
 DESCRIPTION:NCAA FCS Football 2026\nBucknell Bison @ William & Mary Tribe\n
- Walter J. Zable Stadium\, Williamsburg\, VA
+ Walter J. Zable Stadium\, Williamsburg\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Walter J. Zable Stadium\, Williamsburg\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868039@open-sports-cal
@@ -155,11 +171,12 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:William & Mary Tribe @ Richmond Spiders
 DESCRIPTION:NCAA FCS Football 2026\nWilliam & Mary Tribe @ Richmond Spiders
- \nRobins Stadium\, Richmond\, VA
+ \nRobins Stadium\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Stadium\, Richmond\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

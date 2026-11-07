@@ -12,13 +12,15 @@ DTSTART:20261106T013000Z
 DTEND:20261106T043000Z
 SUMMARY:Northern Arizona Lumberjacks @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Arizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+  Arizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921614@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
 SUMMARY:UC Irvine Anteaters @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Irvine Anteaters @ Northern
-  Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+  Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928281@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261114T200000Z
 DTEND:20261114T230000Z
 SUMMARY:Northern Arizona Lumberjacks @ Fresno State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Fresno State Bulldogs\nSave Mart Center\, Fresno\, CA
+  Fresno State Bulldogs\nSave Mart Center\, Fresno\, CA\nBroadcast: YouTube
+  (streaming)
 LOCATION:Save Mart Center\, Fresno\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401930343@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261119T010000Z
 DTEND:20261119T040000Z
 SUMMARY:Bethesda Flames @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethesda Flames @ Northern Ari
- zona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ zona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927108@open-sports-cal
@@ -68,12 +76,13 @@ DTSTART:20261124T030000Z
 DTEND:20261124T060000Z
 SUMMARY:Northern Arizona Lumberjacks @ USC Trojans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  USC Trojans\nGalen Center\, Los Angeles\, CA
+  USC Trojans\nGalen Center\, Los Angeles\, CA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Galen Center\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -82,13 +91,15 @@ DTSTART:20261129T010000Z
 DTEND:20261129T040000Z
 SUMMARY:UC San Diego Tritons @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC San Diego Tritons @ Norther
- n Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ n Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914332@open-sports-cal
@@ -96,13 +107,15 @@ DTSTART:20261204T020000Z
 DTEND:20261204T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Montana Lady Griz
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Montana Lady Griz\nDahlberg Arena\, Missoula\, MT
+  Montana Lady Griz\nDahlberg Arena\, Missoula\, MT\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Dahlberg Arena\, Missoula\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914337@open-sports-cal
@@ -110,13 +123,15 @@ DTSTART:20261205T210000Z
 DTEND:20261206T000000Z
 SUMMARY:Northern Arizona Lumberjacks @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Montana State Bobcats\nWorthington Arena\, Bozeman\, MT
+  Montana State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913064@open-sports-cal
@@ -124,13 +139,15 @@ DTSTART:20261213T210000Z
 DTEND:20261214T000000Z
 SUMMARY:Northern Arizona Lumberjacks @ Arizona Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Arizona Wildcats\nMcKale Center at ALKEME Arena\, Tucson\, AZ
+  Arizona Wildcats\nMcKale Center at ALKEME Arena\, Tucson\, AZ\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401930342@open-sports-cal
@@ -139,13 +156,14 @@ DTEND:20261217T040000Z
 SUMMARY:Park University Gilbert Buccaneers @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPark University Gilbert Buccan
  eers @ Northern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaf
- f\, AZ
+ f\, AZ\nBroadcast: ESPN+ (streaming)
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920264@open-sports-cal
@@ -153,13 +171,15 @@ DTSTART:20261219T210000Z
 DTEND:20261220T000000Z
 SUMMARY:Grand Canyon Lopes @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrand Canyon Lopes @ Northern 
- Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927842@open-sports-cal
@@ -168,13 +188,14 @@ DTEND:20261222T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
   Long Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\,
-  CA
+  CA\nBroadcast: ESPN+ (streaming)
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914363@open-sports-cal
@@ -182,13 +203,15 @@ DTSTART:20261231T200000Z
 DTEND:20261231T230000Z
 SUMMARY:Weber State Wildcats @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWeber State Wildcats @ Norther
- n Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ n Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914366@open-sports-cal
@@ -196,12 +219,13 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Idaho State Bengals @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Northern
-  Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+  Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadca
+ st: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -210,12 +234,13 @@ DTSTART:20270108T010000Z
 DTEND:20270108T040000Z
 SUMMARY:Eastern Washington Eagles @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Washington Eagles @ No
- rthern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ rthern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nB
+ roadcast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -224,12 +249,13 @@ DTSTART:20270109T210000Z
 DTEND:20270110T000000Z
 SUMMARY:Idaho Vandals @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Northern Arizo
- na Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ na Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadcast: Br
+ oadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -238,12 +264,13 @@ DTSTART:20270115T020000Z
 DTEND:20270115T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Utah Tech Trailblazers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Utah Tech Trailblazers\nBurns Arena\, St. George\, UT
+  Utah Tech Trailblazers\nBurns Arena\, St. George\, UT\nBroadcast: Broadca
+ st not announced
 LOCATION:Burns Arena\, St. George\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -252,12 +279,13 @@ DTSTART:20270121T210000Z
 DTEND:20270122T000000Z
 SUMMARY:Portland State Vikings @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPortland State Vikings @ North
- ern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ ern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroa
+ dcast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +294,13 @@ DTSTART:20270124T010000Z
 DTEND:20270124T040000Z
 SUMMARY:Northern Arizona Lumberjacks @ Northern Colorado Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Northern Colorado Bears\nBank of Colorado Arena\, Greeley\, CO
+  Northern Colorado Bears\nBank of Colorado Arena\, Greeley\, CO\nBroadcast
+ : Broadcast not announced
 LOCATION:Bank of Colorado Arena\, Greeley\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +309,13 @@ DTSTART:20270129T010000Z
 DTEND:20270129T040000Z
 SUMMARY:Montana State Bobcats @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Northe
- rn Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ rn Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroad
+ cast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +324,13 @@ DTSTART:20270130T210000Z
 DTEND:20270131T000000Z
 SUMMARY:Montana Lady Griz @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana Lady Griz @ Northern A
- rizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ rizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadcast
+ : Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +339,13 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:Northern Arizona Lumberjacks @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Idaho State Bengals\nReed Gym\, Pocatello\, ID
+  Idaho State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not 
+ announced
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +354,13 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:Northern Arizona Lumberjacks @ Weber State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Weber State Wildcats\nDee Events Center\, Ogden\, UT
+  Weber State Wildcats\nDee Events Center\, Ogden\, UT\nBroadcast: Broadcas
+ t not announced
 LOCATION:Dee Events Center\, Ogden\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +369,13 @@ DTSTART:20270209T020000Z
 DTEND:20270209T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Southern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+  Southern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\
+ nBroadcast: Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +384,13 @@ DTSTART:20270212T010000Z
 DTEND:20270212T040000Z
 SUMMARY:Utah Tech Trailblazers @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah Tech Trailblazers @ North
- ern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ ern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroa
+ dcast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -364,12 +399,13 @@ DTSTART:20270219T020000Z
 DTEND:20270219T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Idaho Vandals\nICCU Arena\, Moscow\, ID
+  Idaho Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announc
+ ed
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -378,12 +414,13 @@ DTSTART:20270220T220000Z
 DTEND:20270221T010000Z
 SUMMARY:Northern Arizona Lumberjacks @ Eastern Washington Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Eastern Washington Eagles\nReese Court\, Cheney\, WA
+  Eastern Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -392,12 +429,13 @@ DTSTART:20270223T030000Z
 DTEND:20270223T060000Z
 SUMMARY:Northern Arizona Lumberjacks @ Portland State Vikings
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Portland State Vikings\nViking Pavilion\, Portland\, OR
+  Portland State Vikings\nViking Pavilion\, Portland\, OR\nBroadcast: Broad
+ cast not announced
 LOCATION:Viking Pavilion\, Portland\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -406,12 +444,13 @@ DTSTART:20270227T210000Z
 DTEND:20270228T000000Z
 SUMMARY:Southern Utah Thunderbirds @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ N
- orthern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ orthern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\n
+ Broadcast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -420,12 +459,13 @@ DTSTART:20270301T210000Z
 DTEND:20270302T000000Z
 SUMMARY:Northern Colorado Bears @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Colorado Bears @ Nort
- hern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ hern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBro
+ adcast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 END:VCALENDAR

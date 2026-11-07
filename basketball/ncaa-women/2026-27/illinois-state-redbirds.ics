@@ -12,13 +12,14 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Chicago State Cougars @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nChicago State Cougars @ Illino
- is State Redbirds\nCEFCU Arena\, Normal\, IL
+ is State Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919690@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Illinois State Redbirds @ Dayton Flyers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Dayt
- on Flyers\nUD Arena\, Dayton\, OH
+ on Flyers\nUD Arena\, Dayton\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:UD Arena\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919691@open-sports-cal
@@ -40,13 +42,15 @@ DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:Augustana (IL) Vikings @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAugustana (IL) Vikings @ Illin
- ois State Redbirds\nCEFCU Arena\, Normal\, IL
+ ois State Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919692@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261112T003000Z
 DTEND:20261112T033000Z
 SUMMARY:Green Bay Phoenix @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGreen Bay Phoenix @ Illinois S
- tate Redbirds\nCEFCU Arena\, Normal\, IL
+ tate Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919693@open-sports-cal
@@ -68,13 +73,15 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Illinois State Redbirds @ Saint Louis Billikens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Sain
- t Louis Billikens\nChaifetz Arena\, St. Louis\, MO
+ t Louis Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911757@open-sports-cal
@@ -82,13 +89,15 @@ DTSTART:20261117T170000Z
 DTEND:20261117T200000Z
 SUMMARY:Loyola Chicago Ramblers @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Chicago Ramblers @ Illi
- nois State Redbirds\nCEFCU Arena\, Normal\, IL
+ nois State Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919694@open-sports-cal
@@ -96,12 +105,13 @@ DTSTART:20261122T190000Z
 DTEND:20261122T220000Z
 SUMMARY:Illinois State Redbirds @ Stonehill Skyhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Ston
- ehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+ ehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,13 +120,15 @@ DTSTART:20261125T170000Z
 DTEND:20261125T200000Z
 SUMMARY:Illinois State Redbirds @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Harv
- ard Crimson\nLavietes Pavilion\, Cambridge\, MA
+ ard Crimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919695@open-sports-cal
@@ -124,12 +136,13 @@ DTSTART:20261201T010000Z
 DTEND:20261201T040000Z
 SUMMARY:Illinois State Redbirds @ Northwestern Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Nort
- hwestern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+ hwestern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL\nBroadcast: Broadcast 
+ not announced
 LOCATION:Welsh-Ryan Arena\, Evanston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +151,15 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Illinois State Redbirds @ Eastern Illinois Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ East
- ern Illinois Panthers\nGroniger Arena\, Charleston\, IL
+ ern Illinois Panthers\nGroniger Arena\, Charleston\, IL\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Groniger Arena\, Charleston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919697@open-sports-cal
@@ -152,12 +167,13 @@ DTSTART:20261206T200000Z
 DTEND:20261206T230000Z
 SUMMARY:South Dakota State Jackrabbits @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota State Jackrabbits
-  @ Illinois State Redbirds\nCEFCU Arena\, Normal\, IL
+  @ Illinois State Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcas
+ t not announced
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -166,12 +182,13 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Illinois State Redbirds @ Indiana Hoosiers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Indi
- ana Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+ ana Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN\nBroadcast: Br
+ oadcast not announced
 LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -180,13 +197,14 @@ DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Valparaiso Beacons @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nValparaiso Beacons @ Illinois 
- State Redbirds\nCEFCU Arena\, Normal\, IL
+ State Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922361@open-sports-cal
@@ -194,13 +212,14 @@ DTSTART:20261230T003000Z
 DTEND:20261230T033000Z
 SUMMARY:Belmont Bruins @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Illinois Stat
- e Redbirds\nCEFCU Arena\, Normal\, IL
+ e Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922387@open-sports-cal
@@ -208,13 +227,14 @@ DTSTART:20270101T000000Z
 DTEND:20270101T030000Z
 SUMMARY:Illinois State Redbirds @ Murray State Racers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Murr
- ay State Racers\nCFSB Center\, Murray\, KY
+ ay State Racers\nCFSB Center\, Murray\, KY\nBroadcast: ESPN+ (streaming)
 LOCATION:CFSB Center\, Murray\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922394@open-sports-cal
@@ -222,12 +242,13 @@ DTSTART:20270103T200000Z
 DTEND:20270103T230000Z
 SUMMARY:Illinois State Redbirds @ Southern Illinois Salukis
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Sout
- hern Illinois Salukis\nBanterra Center\, Carbondale\, IL
+ hern Illinois Salukis\nBanterra Center\, Carbondale\, IL\nBroadcast: Broad
+ cast not announced
 LOCATION:Banterra Center\, Carbondale\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +257,12 @@ DTSTART:20270108T003000Z
 DTEND:20270108T033000Z
 SUMMARY:Drake Bulldogs @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDrake Bulldogs @ Illinois Stat
- e Redbirds\nCEFCU Arena\, Normal\, IL
+ e Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcast not announced
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +271,13 @@ DTSTART:20270109T200000Z
 DTEND:20270109T230000Z
 SUMMARY:Northern Iowa Panthers @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Iowa Panthers @ Illin
- ois State Redbirds\nCEFCU Arena\, Normal\, IL
+ ois State Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +286,12 @@ DTSTART:20270113T003000Z
 DTEND:20270113T033000Z
 SUMMARY:UIC Flames @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUIC Flames @ Illinois State Re
- dbirds\nCEFCU Arena\, Normal\, IL
+ dbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcast not announced
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +300,13 @@ DTSTART:20270116T000000Z
 DTEND:20270116T030000Z
 SUMMARY:Illinois State Redbirds @ Indiana State Sycamores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Indi
- ana State Sycamores\nHulman Center\, Terre Haute\, IN
+ ana State Sycamores\nHulman Center\, Terre Haute\, IN\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +315,13 @@ DTSTART:20270117T200000Z
 DTEND:20270117T230000Z
 SUMMARY:Illinois State Redbirds @ Evansville Purple Aces
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Evan
- sville Purple Aces\nMeeks Family Fieldhouse\, Evansville\, IN
+ sville Purple Aces\nMeeks Family Fieldhouse\, Evansville\, IN\nBroadcast: 
+ Broadcast not announced
 LOCATION:Meeks Family Fieldhouse\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +330,13 @@ DTSTART:20270123T000000Z
 DTEND:20270123T030000Z
 SUMMARY:Illinois State Redbirds @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Brad
- ley Braves\nRenaissance Coliseum\, Peoria\, IL
+ ley Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +345,13 @@ DTSTART:20270124T200000Z
 DTEND:20270124T230000Z
 SUMMARY:Murray State Racers @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Illinois
-  State Redbirds\nCEFCU Arena\, Normal\, IL
+  State Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcast not annou
+ nced
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +360,13 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Illinois State Redbirds @ Drake Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Drak
- e Bulldogs\nKnapp Center\, Des Moines\, IA
+ e Bulldogs\nKnapp Center\, Des Moines\, IA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Knapp Center\, Des Moines\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +375,13 @@ DTSTART:20270131T200000Z
 DTEND:20270131T230000Z
 SUMMARY:Southern Illinois Salukis @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Illinois Salukis @ Il
- linois State Redbirds\nCEFCU Arena\, Normal\, IL
+ linois State Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcast not
+  announced
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +390,13 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:Illinois State Redbirds @ UIC Flames
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ UIC 
- Flames\nCredit Union 1 Arena\, Chicago\, IL
+ Flames\nCredit Union 1 Arena\, Chicago\, IL\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Credit Union 1 Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +405,13 @@ DTSTART:20270207T200000Z
 DTEND:20270207T230000Z
 SUMMARY:Evansville Purple Aces @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEvansville Purple Aces @ Illin
- ois State Redbirds\nCEFCU Arena\, Normal\, IL
+ ois State Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +420,13 @@ DTSTART:20270213T000000Z
 DTEND:20270213T030000Z
 SUMMARY:Illinois State Redbirds @ Valparaiso Beacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Valp
- araiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+ araiso Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: 
+ Broadcast not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +435,13 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Indiana State Sycamores @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Illi
- nois State Redbirds\nCEFCU Arena\, Normal\, IL
+ nois State Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +450,13 @@ DTSTART:20270219T003000Z
 DTEND:20270219T033000Z
 SUMMARY:Illinois State Redbirds @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Belm
- ont Bruins\nCurb Event Center Arena\, Nashville\, TN
+ ont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast
+  not announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +465,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Illinois State Redbirds @ Northern Iowa Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois State Redbirds @ Nort
- hern Iowa Panthers\nMcLeod Center\, Cedar Falls\, IA
+ hern Iowa Panthers\nMcLeod Center\, Cedar Falls\, IA\nBroadcast: Broadcast
+  not announced
 LOCATION:McLeod Center\, Cedar Falls\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -446,12 +480,12 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:Bradley Braves @ Illinois State Redbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Illinois Stat
- e Redbirds\nCEFCU Arena\, Normal\, IL
+ e Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: Broadcast not announced
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

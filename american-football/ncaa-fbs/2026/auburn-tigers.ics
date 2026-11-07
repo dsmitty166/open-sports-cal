@@ -12,12 +12,14 @@ DTSTART:20260905T193000Z
 DTEND:20260905T223000Z
 SUMMARY:Baylor Bears @ Auburn Tigers
 DESCRIPTION:NCAA FBS Football 2026\nBaylor Bears @ Auburn Tigers\nMercedes-
- Benz Stadium\, Atlanta\, GA\nNeutral site
+ Benz Stadium\, Atlanta\, GA\nNeutral site\nBroadcast: ABC / Disney+ (strea
+ ming)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856671@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260913T005000Z
 DTEND:20260913T035000Z
 SUMMARY:Southern Miss Golden Eagles @ Auburn Tigers
 DESCRIPTION:NCAA FBS Football 2026\nSouthern Miss Golden Eagles @ Auburn Ti
- gers\nJordan-Hare Stadium\, Auburn\, AL
+ gers\nJordan-Hare Stadium\, Auburn\, AL\nBroadcast: SEC Network
 LOCATION:Jordan-Hare Stadium\, Auburn\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856687@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Florida Gators @ Auburn Tigers
 DESCRIPTION:NCAA FBS Football 2026\nFlorida Gators @ Auburn Tigers\nJordan-
- Hare Stadium\, Auburn\, AL
+ Hare Stadium\, Auburn\, AL\nBroadcast: ESPN
 LOCATION:Jordan-Hare Stadium\, Auburn\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856698@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260926T201500Z
 DTEND:20260926T231500Z
 SUMMARY:Vanderbilt Commodores @ Auburn Tigers
 DESCRIPTION:NCAA FBS Football 2026\nVanderbilt Commodores @ Auburn Tigers\n
- Jordan-Hare Stadium\, Auburn\, AL
+ Jordan-Hare Stadium\, Auburn\, AL\nBroadcast: SEC Network
 LOCATION:Jordan-Hare Stadium\, Auburn\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856710@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Auburn Tigers @ Tennessee Volunteers
 DESCRIPTION:NCAA FBS Football 2026\nAuburn Tigers @ Tennessee Volunteers\nN
- eyland Stadium\, Knoxville\, TN
+ eyland Stadium\, Knoxville\, TN\nBroadcast: ESPN
 LOCATION:Neyland Stadium\, Knoxville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856719@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261017T193000Z
 DTEND:20261017T223000Z
 SUMMARY:Auburn Tigers @ Georgia Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nAuburn Tigers @ Georgia Bulldogs\nSanfo
- rd Stadium\, Athens\, GA
+ rd Stadium\, Athens\, GA\nBroadcast: ESPN
 LOCATION:Sanford Stadium\, Athens\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856728@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:LSU Tigers @ Auburn Tigers
 DESCRIPTION:NCAA FBS Football 2026\nLSU Tigers @ Auburn Tigers\nJordan-Hare
-  Stadium\, Auburn\, AL
+  Stadium\, Auburn\, AL\nBroadcast: ABC
 LOCATION:Jordan-Hare Stadium\, Auburn\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856735@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261031T164500Z
 DTEND:20261031T194500Z
 SUMMARY:Auburn Tigers @ Ole Miss Rebels
 DESCRIPTION:NCAA FBS Football 2026\nAuburn Tigers @ Ole Miss Rebels\nVaught
- -Hemingway Stadium\, Oxford\, MS
+ -Hemingway Stadium\, Oxford\, MS\nBroadcast: SEC Network
 LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856738@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T174500Z
 DTEND:20261107T204500Z
 SUMMARY:Arkansas Razorbacks @ Auburn Tigers
 DESCRIPTION:NCAA FBS Football 2026\nArkansas Razorbacks @ Auburn Tigers\nJo
- rdan-Hare Stadium\, Auburn\, AL
+ rdan-Hare Stadium\, Auburn\, AL\nBroadcast: SEC Network
 LOCATION:Jordan-Hare Stadium\, Auburn\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856886@open-sports-cal
@@ -129,11 +139,12 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Auburn Tigers @ Mississippi State Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nAuburn Tigers @ Mississippi State Bulld
- ogs\nDavis Wade Stadium\, Starkville\, MS
+ ogs\nDavis Wade Stadium\, Starkville\, MS\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Davis Wade Stadium\, Starkville\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +153,13 @@ DTSTART:20261121T203000Z
 DTEND:20261121T233000Z
 SUMMARY:Samford Bulldogs @ Auburn Tigers
 DESCRIPTION:NCAA FBS Football 2026\nSamford Bulldogs @ Auburn Tigers\nJorda
- n-Hare Stadium\, Auburn\, AL
+ n-Hare Stadium\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Jordan-Hare Stadium\, Auburn\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856757@open-sports-cal
@@ -155,10 +167,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Auburn Tigers @ Alabama Crimson Tide
 DESCRIPTION:NCAA FBS Football 2026\nAuburn Tigers @ Alabama Crimson Tide\nB
- ryant-Denny Stadium\, Tuscaloosa\, AL\nStart time TBD
+ ryant-Denny Stadium\, Tuscaloosa\, AL\nStart time TBD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

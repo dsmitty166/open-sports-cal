@@ -12,13 +12,14 @@ DTSTART:20261102T220000Z
 DTEND:20261103T010000Z
 SUMMARY:Montevallo Falcons @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontevallo Falcons @ Samford B
- ulldogs\nPete Hanna Center\, Homewood\, AL
+ ulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913715@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Samford Bulldogs @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Georgia Tec
- h Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+ h Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA\nBroadcast: ACCNX (stre
+ aming)
 LOCATION:McCamish Pavilion\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927054@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261109T170000Z
 DTEND:20261109T200000Z
 SUMMARY:UNC Asheville Bulldogs @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Asheville Bulldogs @ Samfo
- rd Bulldogs\nPete Hanna Center\, Homewood\, AL
+ rd Bulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918926@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Samford Bulldogs @ Indiana Hoosiers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Indiana Hoo
- siers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+ siers\nSimon Skjodt Assembly Hall\, Bloomington\, IN\nBroadcast: B1G+ (str
+ eaming)
 LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921454@open-sports-cal
@@ -68,13 +75,14 @@ DTSTART:20261115T170000Z
 DTEND:20261115T200000Z
 SUMMARY:Samford Bulldogs @ Purdue Boilermakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Purdue Boil
- ermakers\nMackey Arena\, West Lafayette\, IN
+ ermakers\nMackey Arena\, West Lafayette\, IN\nBroadcast: B1G+ (streaming)
 LOCATION:Mackey Arena\, West Lafayette\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928204@open-sports-cal
@@ -82,12 +90,12 @@ DTSTART:20261120T000000Z
 DTEND:20261120T030000Z
 SUMMARY:Bryan Lions @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBryan Lions @ Samford Bulldogs
- \nPete Hanna Center\, Homewood\, AL
+ \nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadcast not announced
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -96,13 +104,15 @@ DTSTART:20261122T190000Z
 DTEND:20261122T220000Z
 SUMMARY:Abilene Christian Wildcats @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAbilene Christian Wildcats @ S
- amford Bulldogs\nPete Hanna Center\, Homewood\, AL
+ amford Bulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912996@open-sports-cal
@@ -110,13 +120,15 @@ DTSTART:20261126T000000Z
 DTEND:20261126T030000Z
 SUMMARY:Samford Bulldogs @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Alabama Cri
- mson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ mson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ (streaming
+ )
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918428@open-sports-cal
@@ -124,13 +136,14 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:Samford Bulldogs @ West Georgia Wolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ West Georgi
- a Wolves\nThe Coliseum\, Carrollton\, GA
+ a Wolves\nThe Coliseum\, Carrollton\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:The Coliseum\, Carrollton\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928205@open-sports-cal
@@ -138,13 +151,14 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Stillman Tigers @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStillman Tigers @ Samford Bull
- dogs\nPete Hanna Center\, Homewood\, AL
+ dogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927099@open-sports-cal
@@ -152,13 +166,15 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Samford Bulldogs @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ South Carol
- ina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ ina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916075@open-sports-cal
@@ -166,13 +182,14 @@ DTSTART:20261215T000000Z
 DTEND:20261215T030000Z
 SUMMARY:Samford Bulldogs @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Lipscomb Bi
- sons\nAllen Arena\, Nashville\, TN
+ sons\nAllen Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918862@open-sports-cal
@@ -180,13 +197,15 @@ DTSTART:20261217T003000Z
 DTEND:20261217T033000Z
 SUMMARY:Samford Bulldogs @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Mississippi
-  State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+  State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SECN+ (st
+ reaming)
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928206@open-sports-cal
@@ -194,13 +213,14 @@ DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:UT Martin Skyhawks @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Martin Skyhawks @ Samford B
- ulldogs\nPete Hanna Center\, Homewood\, AL
+ ulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914120@open-sports-cal
@@ -208,13 +228,14 @@ DTSTART:20261229T230000Z
 DTEND:20261230T020000Z
 SUMMARY:Samford Bulldogs @ Chattanooga Mocs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Chattanooga
-  Mocs\nMcKenzie Arena\, Chattanooga\, TN
+  Mocs\nMcKenzie Arena\, Chattanooga\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914143@open-sports-cal
@@ -222,12 +243,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:UNC Greensboro Spartans @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Greensboro Spartans @ Samf
- ord Bulldogs\nPete Hanna Center\, Homewood\, AL
+ ord Bulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadcast not 
+ announced
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +258,12 @@ DTSTART:20270105T220000Z
 DTEND:20270106T010000Z
 SUMMARY:Mercer Bears @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMercer Bears @ Samford Bulldog
- s\nPete Hanna Center\, Homewood\, AL
+ s\nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadcast not announced
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +272,13 @@ DTSTART:20270109T183000Z
 DTEND:20270109T213000Z
 SUMMARY:Samford Bulldogs @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ East Tennes
- see State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ see State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast: Br
+ oadcast not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +287,13 @@ DTSTART:20270113T000000Z
 DTEND:20270113T030000Z
 SUMMARY:Western Carolina Catamounts @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Carolina Catamounts @ 
- Samford Bulldogs\nPete Hanna Center\, Homewood\, AL
+ Samford Bulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadcast 
+ not announced
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +302,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Samford Bulldogs @ Wofford Terriers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Wofford Ter
- riers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ riers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast: Broa
+ dcast not announced
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +317,13 @@ DTSTART:20270119T180000Z
 DTEND:20270119T210000Z
 SUMMARY:Chattanooga Mocs @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nChattanooga Mocs @ Samford Bul
- ldogs\nPete Hanna Center\, Homewood\, AL
+ ldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +332,12 @@ DTSTART:20270127T000000Z
 DTEND:20270127T030000Z
 SUMMARY:Samford Bulldogs @ Mercer Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Mercer Bear
- s\nHawkins Arena\, Macon\, GA
+ s\nHawkins Arena\, Macon\, GA\nBroadcast: Broadcast not announced
 LOCATION:Hawkins Arena\, Macon\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +346,13 @@ DTSTART:20270130T200000Z
 DTEND:20270130T230000Z
 SUMMARY:Furman Paladins @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFurman Paladins @ Samford Bull
- dogs\nPete Hanna Center\, Homewood\, AL
+ dogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadcast not announce
+ d
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +361,13 @@ DTSTART:20270203T003000Z
 DTEND:20270203T033000Z
 SUMMARY:Samford Bulldogs @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Tennessee T
- ech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ ech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: Broad
+ cast not announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +376,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:East Tennessee State Buccaneers @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Tennessee State Buccaneer
- s @ Samford Bulldogs\nPete Hanna Center\, Homewood\, AL
+ s @ Samford Bulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadc
+ ast not announced
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +391,13 @@ DTSTART:20270209T230000Z
 DTEND:20270210T020000Z
 SUMMARY:Samford Bulldogs @ Western Carolina Catamounts
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Western Car
- olina Catamounts\nRamsey Center\, Cullowhee\, NC
+ olina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: Broadcast not
+  announced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +406,13 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:Wofford Terriers @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWofford Terriers @ Samford Bul
- ldogs\nPete Hanna Center\, Homewood\, AL
+ ldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +421,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Samford Bulldogs @ UNC Greensboro Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ UNC Greensb
- oro Spartans\nBodford Arena\, Greensboro\, NC
+ oro Spartans\nBodford Arena\, Greensboro\, NC\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Bodford Arena\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +436,13 @@ DTSTART:20270223T230000Z
 DTEND:20270224T020000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Samford Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Tech Golden Eagles @
-  Samford Bulldogs\nPete Hanna Center\, Homewood\, AL
+  Samford Bulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadcast
+  not announced
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +451,12 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Samford Bulldogs @ Furman Paladins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Furman Pala
- dins\nTimmons Arena\, Greenville\, SC
+ dins\nTimmons Arena\, Greenville\, SC\nBroadcast: Broadcast not announced
 LOCATION:Timmons Arena\, Greenville\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

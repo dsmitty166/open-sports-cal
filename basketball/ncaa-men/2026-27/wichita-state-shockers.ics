@@ -12,12 +12,14 @@ DTSTART:20261105T003000Z
 DTEND:20261105T033000Z
 SUMMARY:Cal State Northridge Matadors @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Northridge Matadors @ 
- Wichita State Shockers\nCharles Koch Arena\, Wichita\, KS
+ Wichita State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919029@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261109T040000Z
 DTEND:20261109T070000Z
 SUMMARY:USC Trojans @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUSC Trojans @ Wichita State Shoc
- kers\nTahoe Blue Event Center\, Stateline\, NV\nNeutral site
+ kers\nTahoe Blue Event Center\, Stateline\, NV\nNeutral site\nBroadcast: C
+ W
 LOCATION:Tahoe Blue Event Center\, Stateline\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919030@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20261112T003000Z
 DTEND:20261112T033000Z
 SUMMARY:Friends Falcons @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFriends Falcons @ Wichita State 
- Shockers\nCharles Koch Arena\, Wichita\, KS
+ Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN+ (streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917951@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:Austin Peay Governors @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAustin Peay Governors @ Wichita 
- State Shockers\nCharles Koch Arena\, Wichita\, KS
+ State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911232@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261119T010000Z
 DTEND:20261119T040000Z
 SUMMARY:Wichita State Shockers @ Loyola Chicago Ramblers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Loyola 
- Chicago Ramblers\nGentile Arena\, Chicago\, IL
+ Chicago Ramblers\nGentile Arena\, Chicago\, IL\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Gentile Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919031@open-sports-cal
@@ -77,12 +86,13 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:New Mexico Lobos @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Mexico Lobos @ Wichita State
-  Shockers\nCharles Koch Arena\, Wichita\, KS
+  Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN+ (streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919032@open-sports-cal
@@ -90,12 +100,14 @@ DTSTART:20261124T003000Z
 DTEND:20261124T033000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M-Corpus Christi Islande
- rs @ Wichita State Shockers\nCharles Koch Arena\, Wichita\, KS
+ rs @ Wichita State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919033@open-sports-cal
@@ -103,12 +115,13 @@ DTSTART:20261128T020000Z
 DTEND:20261128T050000Z
 SUMMARY:Wichita State Shockers @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Kentuck
- y Wildcats\nRupp Arena\, Lexington\, KY
+ y Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: ESPN2
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919034@open-sports-cal
@@ -116,12 +129,14 @@ DTSTART:20261201T003000Z
 DTEND:20261201T033000Z
 SUMMARY:Southeast Missouri State Redhawks @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSoutheast Missouri State Redhawk
- s @ Wichita State Shockers\nCharles Koch Arena\, Wichita\, KS
+ s @ Wichita State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919035@open-sports-cal
@@ -129,12 +144,14 @@ DTSTART:20261206T000000Z
 DTEND:20261206T030000Z
 SUMMARY:Boise State Broncos @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoise State Broncos @ Wichita St
- ate Shockers\nCharles Koch Arena\, Wichita\, KS
+ ate Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909803@open-sports-cal
@@ -142,11 +159,12 @@ DTSTART:20261212T013000Z
 DTEND:20261212T043000Z
 SUMMARY:Wichita State Shockers @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Kansas 
- State Wildcats\nT-Mobile Center\, Kansas City\, MO\nNeutral site
+ State Wildcats\nT-Mobile Center\, Kansas City\, MO\nNeutral site\nBroadcas
+ t: Broadcast not announced
 LOCATION:T-Mobile Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +173,13 @@ DTSTART:20261215T003000Z
 DTEND:20261215T033000Z
 SUMMARY:Cameron Aggies @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCameron Aggies @ Wichita State S
- hockers\nCharles Koch Arena\, Wichita\, KS
+ hockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN+ (streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919037@open-sports-cal
@@ -168,12 +187,14 @@ DTSTART:20261219T003000Z
 DTEND:20261219T033000Z
 SUMMARY:South Carolina State Bulldogs @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Wichita State Shockers\nCharles Koch Arena\, Wichita\, KS
+ Wichita State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919038@open-sports-cal
@@ -181,12 +202,14 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Jacksonville State Gamecocks @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ W
- ichita State Shockers\nCharles Koch Arena\, Wichita\, KS
+ ichita State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927753@open-sports-cal
@@ -194,12 +217,13 @@ DTSTART:20270101T010000Z
 DTEND:20270101T040000Z
 SUMMARY:North Texas Mean Green @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Texas Mean Green @ Wichita
-  State Shockers\nCharles Koch Arena\, Wichita\, KS
+  State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPNU
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927639@open-sports-cal
@@ -207,11 +231,12 @@ DTSTART:20270103T200000Z
 DTEND:20270103T230000Z
 SUMMARY:Wichita State Shockers @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Charlot
- te 49ers\nHalton Arena\, Charlotte\, NC
+ te 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announce
+ d
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +245,12 @@ DTSTART:20270109T020000Z
 DTEND:20270109T050000Z
 SUMMARY:UAB Blazers @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUAB Blazers @ Wichita State Shoc
- kers\nCharles Koch Arena\, Wichita\, KS
+ kers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not announce
+ d
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +259,11 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Wichita State Shockers @ Memphis Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Memphis
-  Tigers\nFedExForum\, Memphis\, TN
+  Tigers\nFedExForum\, Memphis\, TN\nBroadcast: Broadcast not announced
 LOCATION:FedExForum\, Memphis\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +272,12 @@ DTSTART:20270117T220000Z
 DTEND:20270118T010000Z
 SUMMARY:East Carolina Pirates @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Carolina Pirates @ Wichita 
- State Shockers\nCharles Koch Arena\, Wichita\, KS
+ State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast no
+ t announced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +286,12 @@ DTSTART:20270121T010000Z
 DTEND:20270121T040000Z
 SUMMARY:Wichita State Shockers @ North Texas Mean Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ North T
- exas Mean Green\nThe Super Pit\, Denton\, TX
+ exas Mean Green\nThe Super Pit\, Denton\, TX\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:The Super Pit\, Denton\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +300,12 @@ DTSTART:20270123T200000Z
 DTEND:20270123T230000Z
 SUMMARY:Wichita State Shockers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Tulsa G
- olden Hurricane\nReynolds Center\, Tulsa\, OK
+ olden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +314,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Memphis Tigers @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMemphis Tigers @ Wichita State S
- hockers\nCharles Koch Arena\, Wichita\, KS
+ hockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +328,12 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:UTSA Roadrunners @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Wichita State
-  Shockers\nCharles Koch Arena\, Wichita\, KS
+  Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +342,12 @@ DTSTART:20270204T230000Z
 DTEND:20270205T020000Z
 SUMMARY:Wichita State Shockers @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ South F
- lorida Bulls\nYuengling Center\, Tampa\, FL
+ lorida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +357,11 @@ DTEND:20270207T200000Z
 SUMMARY:Wichita State Shockers @ Florida Atlantic Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Florida
   Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\,
-  FL
+  FL\nBroadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +370,12 @@ DTSTART:20270211T003000Z
 DTEND:20270211T033000Z
 SUMMARY:Tulane Green Wave @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulane Green Wave @ Wichita Stat
- e Shockers\nCharles Koch Arena\, Wichita\, KS
+ e Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +384,11 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Wichita State Shockers @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Rice Ow
- ls\nTudor Fieldhouse\, Houston\, TX
+ ls\nTudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +397,12 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:South Florida Bulls @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Wichita St
- ate Shockers\nCharles Koch Arena\, Wichita\, KS
+ ate Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not 
+ announced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +411,12 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:Wichita State Shockers @ Temple Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Temple 
- Owls\nLiacouras Center\, Philadelphia\, PA
+ Owls\nLiacouras Center\, Philadelphia\, PA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Liacouras Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +425,12 @@ DTSTART:20270228T190000Z
 DTEND:20270228T220000Z
 SUMMARY:Charlotte 49ers @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Wichita State 
- Shockers\nCharles Koch Arena\, Wichita\, KS
+ Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +440,12 @@ DTEND:20270304T033000Z
 SUMMARY:Wichita State Shockers @ Tulane Green Wave
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Tulane 
  Green Wave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans
- \, LA
+ \, LA\nBroadcast: Broadcast not announced
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -418,11 +454,12 @@ DTSTART:20270307T000000Z
 DTEND:20270307T030000Z
 SUMMARY:Tulsa Golden Hurricane @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ Wichita
-  State Shockers\nCharles Koch Arena\, Wichita\, KS
+  State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

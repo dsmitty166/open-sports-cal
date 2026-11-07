@@ -12,12 +12,14 @@ DTSTART:20261104T010000Z
 DTEND:20261104T040000Z
 SUMMARY:South Dakota State Jackrabbits @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  Kansas State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+  Kansas State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909797@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T020000Z
 DTEND:20261107T050000Z
 SUMMARY:Cal State Northridge Matadors @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Northridge Matadors @ 
- Kansas State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ Kansas State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909492@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20261111T020000Z
 DTEND:20261111T050000Z
 SUMMARY:Creighton Bluejays @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCreighton Bluejays @ Kansas Stat
- e Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ e Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: FS1
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909798@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261117T010000Z
 DTEND:20261117T040000Z
 SUMMARY:Montana Grizzlies @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMontana Grizzlies @ Kansas State
-  Wildcats\nBramlage Coliseum\, Manhattan\, KS
+  Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909799@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
 SUMMARY:Campbell Fighting Camels @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ Kansa
- s State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ s State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909800@open-sports-cal
@@ -77,12 +86,13 @@ DTSTART:20261125T053000Z
 DTEND:20261125T083000Z
 SUMMARY:Gonzaga Bulldogs @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGonzaga Bulldogs @ Kansas State 
- Wildcats\nT-Mobile Arena\, Las Vegas\, NV\nNeutral site
+ Wildcats\nT-Mobile Arena\, Las Vegas\, NV\nNeutral site\nBroadcast: ESPN
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909801@open-sports-cal
@@ -90,12 +100,13 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:Kansas State Wildcats @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ Seton Ha
- ll Pirates\nPrudential Center\, Newark\, NJ
+ ll Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: truTV
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909802@open-sports-cal
@@ -103,12 +114,14 @@ DTSTART:20261209T020000Z
 DTEND:20261209T050000Z
 SUMMARY:IU Indianapolis Jaguars @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIU Indianapolis Jaguars @ Kansas
-  State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+  State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909803@open-sports-cal
@@ -116,11 +129,12 @@ DTSTART:20261212T013000Z
 DTEND:20261212T043000Z
 SUMMARY:Wichita State Shockers @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Kansas 
- State Wildcats\nT-Mobile Center\, Kansas City\, MO\nNeutral site
+ State Wildcats\nT-Mobile Center\, Kansas City\, MO\nNeutral site\nBroadcas
+ t: Broadcast not announced
 LOCATION:T-Mobile Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +143,14 @@ DTSTART:20261219T010000Z
 DTEND:20261219T040000Z
 SUMMARY:Little Rock Trojans @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Kansas Sta
- te Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ te Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909805@open-sports-cal
@@ -142,12 +158,13 @@ DTSTART:20261222T010000Z
 DTEND:20261222T040000Z
 SUMMARY:Lindenwood Lions @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLindenwood Lions @ Kansas State 
- Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESPN+ (streaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909806@open-sports-cal
@@ -155,12 +172,13 @@ DTSTART:20261230T010000Z
 DTEND:20261230T040000Z
 SUMMARY:Omaha Mavericks @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOmaha Mavericks @ Kansas State W
- ildcats\nBramlage Coliseum\, Manhattan\, KS
+ ildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESPN+ (streaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922772@open-sports-cal
@@ -168,11 +186,11 @@ DTSTART:20270102T170000Z
 DTEND:20270102T200000Z
 SUMMARY:Kansas State Wildcats @ Baylor Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ Baylor B
- ears\nFoster Pavilion\, Waco\, TX
+ ears\nFoster Pavilion\, Waco\, TX\nBroadcast: Broadcast not announced
 LOCATION:Foster Pavilion\, Waco\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -181,12 +199,13 @@ DTSTART:20270106T013000Z
 DTEND:20270106T043000Z
 SUMMARY:Houston Cougars @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHouston Cougars @ Kansas State W
- ildcats\nBramlage Coliseum\, Manhattan\, KS
+ ildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: FS1
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922785@open-sports-cal
@@ -194,12 +213,13 @@ DTSTART:20270109T170000Z
 DTEND:20270109T200000Z
 SUMMARY:Arizona Wildcats @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArizona Wildcats @ Kansas State 
- Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: CBS
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922795@open-sports-cal
@@ -207,12 +227,13 @@ DTSTART:20270113T013000Z
 DTEND:20270113T043000Z
 SUMMARY:Kansas State Wildcats @ West Virginia Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ West Vir
- ginia Mountaineers\nHope Coliseum\, Morgantown\, WV
+ ginia Mountaineers\nHope Coliseum\, Morgantown\, WV\nBroadcast: CBSSN
 LOCATION:Hope Coliseum\, Morgantown\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922807@open-sports-cal
@@ -220,12 +241,13 @@ DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
 SUMMARY:TCU Horned Frogs @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTCU Horned Frogs @ Kansas State 
- Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: CBSSN
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922812@open-sports-cal
@@ -233,12 +255,13 @@ DTSTART:20270120T010000Z
 DTEND:20270120T040000Z
 SUMMARY:Kansas State Wildcats @ Arizona State Sun Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ Arizona 
- State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: CBSSN
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922820@open-sports-cal
@@ -246,11 +269,13 @@ DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Kansas Jayhawks @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Kansas State W
- ildcats\nBramlage Coliseum\, Manhattan\, KS\nStart time TBD
+ ildcats\nBramlage Coliseum\, Manhattan\, KS\nStart time TBD\nBroadcast: Fo
+ x
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922698@open-sports-cal
@@ -258,12 +283,13 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Kansas State Wildcats @ Iowa State Cyclones
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ Iowa Sta
- te Cyclones\nHilton Coliseum\, Ames\, IA
+ te Cyclones\nHilton Coliseum\, Ames\, IA\nBroadcast: FS1
 LOCATION:Hilton Coliseum\, Ames\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922704@open-sports-cal
@@ -271,12 +297,13 @@ DTSTART:20270204T020000Z
 DTEND:20270204T050000Z
 SUMMARY:Oklahoma State Cowboys @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma State Cowboys @ Kansas 
- State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: CBSSN
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922709@open-sports-cal
@@ -284,11 +311,12 @@ DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:Colorado Buffaloes @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColorado Buffaloes @ Kansas Stat
- e Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ e Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -297,11 +325,12 @@ DTSTART:20270211T020000Z
 DTEND:20270211T050000Z
 SUMMARY:Kansas State Wildcats @ Utah Utes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ Utah Ute
- s\nJon M. Huntsman Center\, Salt Lake City\, UT
+ s\nJon M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: Broadcast not 
+ announced
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -310,12 +339,13 @@ DTSTART:20270213T203000Z
 DTEND:20270213T233000Z
 SUMMARY:Kansas State Wildcats @ BYU Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ BYU Coug
- ars\nMarriott Center\, Provo\, UT
+ ars\nMarriott Center\, Provo\, UT\nBroadcast: Fox
 LOCATION:Marriott Center\, Provo\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922728@open-sports-cal
@@ -323,12 +353,13 @@ DTSTART:20270217T020000Z
 DTEND:20270217T050000Z
 SUMMARY:Arizona State Sun Devils @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArizona State Sun Devils @ Kansa
- s State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ s State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: CBSSN
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922737@open-sports-cal
@@ -336,12 +367,13 @@ DTSTART:20270220T233000Z
 DTEND:20270221T023000Z
 SUMMARY:Kansas State Wildcats @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ Cincinna
- ti Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ ti Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: FS1
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922746@open-sports-cal
@@ -349,11 +381,12 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:Texas Tech Red Raiders @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Kansas 
- State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -362,11 +395,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Kansas State Wildcats @ Kansas Jayhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ Kansas J
- ayhawks\nAllen Fieldhouse\, Lawrence\, KS
+ ayhawks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -375,11 +409,12 @@ DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
 SUMMARY:Kansas State Wildcats @ UCF Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ UCF Knig
- hts\nAddition Financial Arena\, Orlando\, FL
+ hts\nAddition Financial Arena\, Orlando\, FL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Addition Financial Arena\, Orlando\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -388,11 +423,12 @@ DTSTART:20270306T220000Z
 DTEND:20270307T010000Z
 SUMMARY:Cincinnati Bearcats @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ Kansas Sta
- te Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ te Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: Broadcast not 
+ announced
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

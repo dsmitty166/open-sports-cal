@@ -12,13 +12,15 @@ DTSTART:20261104T170000Z
 DTEND:20261104T200000Z
 SUMMARY:Dallas Crusaders @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDallas Crusaders @ Stephen F. 
- Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923480@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Houston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Houston Cougars\nFertitta Center\, Houston\, TX
+ Houston Cougars\nFertitta Center\, Houston\, TX\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Fertitta Center\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925730@open-sports-cal
@@ -41,12 +45,14 @@ DTEND:20261118T033000Z
 SUMMARY:Texas A&M-Texarkana Eagles @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Texarkana Eagles @ S
  tephen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ \nBroadcast: ESPN+ (streaming)
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923737@open-sports-cal
@@ -54,12 +60,13 @@ DTSTART:20261122T220000Z
 DTEND:20261123T010000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Tulsa Golden Hurricane\nComerica Center\, Frisco\, TX\nNeutral site
+ Tulsa Golden Hurricane\nComerica Center\, Frisco\, TX\nNeutral site\nBroad
+ cast: Broadcast not announced
 LOCATION:Comerica Center\, Frisco\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -68,12 +75,13 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Arkansas State Red Wolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Arkansas State Red Wolves\nComerica Center\, Frisco\, TX\nNeutral site
+ Arkansas State Red Wolves\nComerica Center\, Frisco\, TX\nNeutral site\nBr
+ oadcast: Broadcast not announced
 LOCATION:Comerica Center\, Frisco\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -83,13 +91,14 @@ DTEND:20261203T033000Z
 SUMMARY:Northwestern State Lady Demons @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwestern State Lady Demons
   @ Stephen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\
- , TX
+ , TX\nBroadcast: ESPN+ (streaming)
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918788@open-sports-cal
@@ -97,12 +106,13 @@ DTSTART:20261205T003000Z
 DTEND:20261205T033000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Omaha Mavericks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Omaha Mavericks\nBaxter Arena\, Omaha\, NE
+ Omaha Mavericks\nBaxter Arena\, Omaha\, NE\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Baxter Arena\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -111,13 +121,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Kansas State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Kansas State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ Kansas State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925731@open-sports-cal
@@ -126,13 +138,14 @@ DTEND:20261211T033000Z
 SUMMARY:Louisiana Tech Lady Techsters @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisiana Tech Lady Techsters 
  @ Stephen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\,
-  TX
+  TX\nBroadcast: ESPN+ (streaming)
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920444@open-sports-cal
@@ -140,13 +153,15 @@ DTSTART:20261218T010000Z
 DTEND:20261218T040000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Texas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ Texas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\
+ nBroadcast: ESPN+ (streaming)
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922846@open-sports-cal
@@ -154,13 +169,15 @@ DTSTART:20261219T200000Z
 DTEND:20261219T230000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- UT Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ UT Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920175@open-sports-cal
@@ -168,13 +185,15 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920322@open-sports-cal
@@ -182,12 +201,13 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:SE Louisiana Lady Lions @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSE Louisiana Lady Lions @ Step
- hen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ hen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\nB
+ roadcast: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -196,12 +216,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Incarnate Word Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Incarnate Word Cardinals\nMcDermott Center\, San Antonio\, TX
+ Incarnate Word Cardinals\nMcDermott Center\, San Antonio\, TX\nBroadcast: 
+ Broadcast not announced
 LOCATION:McDermott Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -210,12 +231,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Houston Christian Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Houston Christian Huskies\nSharp Gymnasium\, Houston\, TX
+ Houston Christian Huskies\nSharp Gymnasium\, Houston\, TX\nBroadcast: Broa
+ dcast not announced
 LOCATION:Sharp Gymnasium\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -224,12 +246,13 @@ DTSTART:20270115T003000Z
 DTEND:20270115T033000Z
 SUMMARY:Nicholls Colonels @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNicholls Colonels @ Stephen F.
-  Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+  Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\nBroadca
+ st: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -239,11 +262,12 @@ DTEND:20270116T230000Z
 SUMMARY:LSU New Orleans Privateers @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ S
  tephen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ \nBroadcast: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -252,12 +276,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ SE Louisiana Lady Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- SE Louisiana Lady Lions\nUniversity Center\, Hammond\, LA
+ SE Louisiana Lady Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Broa
+ dcast not announced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +291,13 @@ DTSTART:20270123T200000Z
 DTEND:20270123T230000Z
 SUMMARY:McNeese Cowgirls @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Stephen F. 
- Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\nBroadcas
+ t: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +306,13 @@ DTSTART:20270129T003000Z
 DTEND:20270129T033000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ East Texas A&M Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- East Texas A&M Lions\nThe Field House\, Commerce\, TX
+ East Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcas
+ t not announced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +321,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Northwestern State Lady Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Northwestern State Lady Demons\nPrather Coliseum\, Natchitoches\, LA
+ Northwestern State Lady Demons\nPrather Coliseum\, Natchitoches\, LA\nBroa
+ dcast: Broadcast not announced
 LOCATION:Prather Coliseum\, Natchitoches\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +336,13 @@ DTSTART:20270205T003000Z
 DTEND:20270205T033000Z
 SUMMARY:East Texas A&M Lions @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Texas A&M Lions @ Stephen
-  F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+  F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\nBroa
+ dcast: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +351,13 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Lamar Cardinals\nMontagne Center\, Beaumont\, TX
+ Lamar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadcast not
+  announced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -337,12 +367,12 @@ DTEND:20270212T033000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
  ders @ Stephen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoc
- hes\, TX
+ hes\, TX\nBroadcast: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -352,12 +382,12 @@ DTEND:20270213T230000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
  @ Stephen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\,
-  TX
+  TX\nBroadcast: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -366,12 +396,13 @@ DTSTART:20270219T003000Z
 DTEND:20270219T033000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+ LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast:
+  Broadcast not announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -380,12 +411,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Nicholls Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Nicholls Colonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA
+ Nicholls Colonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA\nBroadcast:
+  Broadcast not announced
 LOCATION:David R. Stopher Gymnasium\, Thibodaux\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -394,12 +426,13 @@ DTSTART:20270226T003000Z
 DTEND:20270226T033000Z
 SUMMARY:Incarnate Word Cardinals @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIncarnate Word Cardinals @ Ste
- phen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ phen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\n
+ Broadcast: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -408,12 +441,13 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Houston Christian Huskies @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHouston Christian Huskies @ St
- ephen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ ephen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\
+ nBroadcast: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -422,12 +456,13 @@ DTSTART:20270303T003000Z
 DTEND:20270303T033000Z
 SUMMARY:Lamar Cardinals @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ Stephen F. A
- ustin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ ustin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\nBroadcast
+ : Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

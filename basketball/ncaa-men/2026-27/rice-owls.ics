@@ -12,12 +12,13 @@ DTSTART:20261102T233000Z
 DTEND:20261103T023000Z
 SUMMARY:Dallas Christian Crusaders @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDallas Christian Crusaders @ Ric
- e Owls\nTudor Fieldhouse\, Houston\, TX
+ e Owls\nTudor Fieldhouse\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921094@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261106T010000Z
 DTEND:20261106T040000Z
 SUMMARY:East Texas A&M Lions @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Rice Owls
- \nTudor Fieldhouse\, Houston\, TX
+ \nTudor Fieldhouse\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921095@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261110T030000Z
 DTEND:20261110T060000Z
 SUMMARY:Rice Owls @ Stanford Cardinal
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Stanford Cardinal\nM
- aples Pavilion\, Stanford\, CA
+ aples Pavilion\, Stanford\, CA\nBroadcast: ACCNX (streaming)
 LOCATION:Maples Pavilion\, Stanford\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921096@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Rice Owls @ Stephen F. Austin Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Stephen F. Austin Lu
- mberjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ mberjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\nBroadcast: ESPN
+ + (streaming)
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921097@open-sports-cal
@@ -64,12 +69,14 @@ DTSTART:20261118T010000Z
 DTEND:20261118T040000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M-Corpus Christi Islande
- rs @ Rice Owls\nTudor Fieldhouse\, Houston\, TX
+ rs @ Rice Owls\nTudor Fieldhouse\, Houston\, TX\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925013@open-sports-cal
@@ -77,11 +84,12 @@ DTSTART:20261122T220000Z
 DTEND:20261123T010000Z
 SUMMARY:Rice Owls @ Lamar Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Lamar Cardinals\nThe
-  Reef\, Jacksonville\, FL\nNeutral site
+  Reef\, Jacksonville\, FL\nNeutral site\nBroadcast: Broadcast not announce
+ d
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +98,11 @@ DTSTART:20261124T183000Z
 DTEND:20261124T213000Z
 SUMMARY:Rice Owls @ UIC Flames
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ UIC Flames\nThe Reef
- \, Jacksonville\, FL\nNeutral site
+ \, Jacksonville\, FL\nNeutral site\nBroadcast: Broadcast not announced
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,11 +111,11 @@ DTSTART:20261125T160000Z
 DTEND:20261125T190000Z
 SUMMARY:Rice Owls @ Ohio Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Ohio Bobcats\nThe Re
- ef\, Jacksonville\, FL\nNeutral site
+ ef\, Jacksonville\, FL\nNeutral site\nBroadcast: Broadcast not announced
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,12 +124,14 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:Rice Owls @ Arkansas State Red Wolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Arkansas State Red W
- olves\nFirst National Bank Arena\, Jonesboro\, AR
+ olves\nFirst National Bank Arena\, Jonesboro\, AR\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:First National Bank Arena\, Jonesboro\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921099@open-sports-cal
@@ -129,11 +139,11 @@ DTSTART:20261205T010000Z
 DTEND:20261205T040000Z
 SUMMARY:Sam Houston Bearkats @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSam Houston Bearkats @ Rice Owls
- \nTudor Fieldhouse\, Houston\, TX
+ \nTudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -142,11 +152,11 @@ DTSTART:20261211T010000Z
 DTEND:20261211T040000Z
 SUMMARY:Nicholls Colonels @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNicholls Colonels @ Rice Owls\nT
- udor Fieldhouse\, Houston\, TX
+ udor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +165,12 @@ DTSTART:20261216T170000Z
 DTEND:20261216T200000Z
 SUMMARY:College of Biblical Studies Ambassadors @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCollege of Biblical Studies Amba
- ssadors @ Rice Owls\nTudor Fieldhouse\, Houston\, TX
+ ssadors @ Rice Owls\nTudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast
+  not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +179,13 @@ DTSTART:20261219T200000Z
 DTEND:20261219T230000Z
 SUMMARY:Rice Owls @ Denver Pioneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Denver Pioneers\nHam
- ilton Gymnasium\, Denver\, CO
+ ilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921103@open-sports-cal
@@ -181,12 +193,13 @@ DTSTART:20261222T190000Z
 DTEND:20261222T220000Z
 SUMMARY:Texas Southern Tigers @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Southern Tigers @ Rice Owl
- s\nTudor Fieldhouse\, Houston\, TX
+ s\nTudor Fieldhouse\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927750@open-sports-cal
@@ -194,12 +207,13 @@ DTSTART:20261230T190000Z
 DTEND:20261230T220000Z
 SUMMARY:Temple Owls @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTemple Owls @ Rice Owls\nTudor F
- ieldhouse\, Houston\, TX
+ ieldhouse\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927642@open-sports-cal
@@ -207,12 +221,13 @@ DTSTART:20270103T220000Z
 DTEND:20270104T010000Z
 SUMMARY:Rice Owls @ Tulane Green Wave
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Tulane Green Wave\nA
- vron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, LA
+ vron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, LA\nBroadc
+ ast: Broadcast not announced
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -221,11 +236,11 @@ DTSTART:20270107T010000Z
 DTEND:20270107T040000Z
 SUMMARY:Rice Owls @ Memphis Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Memphis Tigers\nFedE
- xForum\, Memphis\, TN
+ xForum\, Memphis\, TN\nBroadcast: Broadcast not announced
 LOCATION:FedExForum\, Memphis\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -234,11 +249,11 @@ DTSTART:20270110T230000Z
 DTEND:20270111T020000Z
 SUMMARY:North Texas Mean Green @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Texas Mean Green @ Rice Ow
- ls\nTudor Fieldhouse\, Houston\, TX
+ ls\nTudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +262,11 @@ DTSTART:20270117T190000Z
 DTEND:20270117T220000Z
 SUMMARY:Rice Owls @ Temple Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Temple Owls\nLiacour
- as Center\, Philadelphia\, PA
+ as Center\, Philadelphia\, PA\nBroadcast: Broadcast not announced
 LOCATION:Liacouras Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +275,11 @@ DTSTART:20270121T010000Z
 DTEND:20270121T040000Z
 SUMMARY:UTSA Roadrunners @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Rice Owls\nTu
- dor Fieldhouse\, Houston\, TX
+ dor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +288,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Rice Owls @ Florida Atlantic Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Florida Atlantic Owl
- s\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+ s\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL\nBroadcas
+ t: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +302,11 @@ DTSTART:20270127T020000Z
 DTEND:20270127T050000Z
 SUMMARY:Rice Owls @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ South Florida Bulls\
- nYuengling Center\, Tampa\, FL
+ nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +315,11 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Tulane Green Wave @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulane Green Wave @ Rice Owls\nT
- udor Fieldhouse\, Houston\, TX
+ udor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +328,11 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:East Carolina Pirates @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Carolina Pirates @ Rice Owl
- s\nTudor Fieldhouse\, Houston\, TX
+ s\nTudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +341,12 @@ DTSTART:20270207T190000Z
 DTEND:20270207T220000Z
 SUMMARY:Rice Owls @ UTSA Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ UTSA Roadrunners\nUT
- SA Convocation Center\, San Antonio\, TX
+ SA Convocation Center\, San Antonio\, TX\nBroadcast: Broadcast not announc
+ ed
 LOCATION:UTSA Convocation Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +355,11 @@ DTSTART:20270212T010000Z
 DTEND:20270212T040000Z
 SUMMARY:Tulsa Golden Hurricane @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ Rice Ow
- ls\nTudor Fieldhouse\, Houston\, TX
+ ls\nTudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +368,11 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Wichita State Shockers @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Rice Ow
- ls\nTudor Fieldhouse\, Houston\, TX
+ ls\nTudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +381,12 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:Rice Owls @ East Carolina Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ East Carolina Pirate
- s\nWilliams Arena at Minges Coliseum\, Greenville\, NC
+ s\nWilliams Arena at Minges Coliseum\, Greenville\, NC\nBroadcast: Broadca
+ st not announced
 LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +395,11 @@ DTSTART:20270220T220000Z
 DTEND:20270221T010000Z
 SUMMARY:Rice Owls @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ Charlotte 49ers\nHal
- ton Arena\, Charlotte\, NC
+ ton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +408,11 @@ DTSTART:20270226T010000Z
 DTEND:20270226T040000Z
 SUMMARY:UAB Blazers @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUAB Blazers @ Rice Owls\nTudor F
- ieldhouse\, Houston\, TX
+ ieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -403,11 +421,11 @@ DTSTART:20270228T190000Z
 DTEND:20270228T220000Z
 SUMMARY:Florida Atlantic Owls @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Atlantic Owls @ Rice Owl
- s\nTudor Fieldhouse\, Houston\, TX
+ s\nTudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -416,11 +434,11 @@ DTSTART:20270307T210000Z
 DTEND:20270308T000000Z
 SUMMARY:Rice Owls @ North Texas Mean Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ North Texas Mean Gre
- en\nThe Super Pit\, Denton\, TX
+ en\nThe Super Pit\, Denton\, TX\nBroadcast: Broadcast not announced
 LOCATION:The Super Pit\, Denton\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

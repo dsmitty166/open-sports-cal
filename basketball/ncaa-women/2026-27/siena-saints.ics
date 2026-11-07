@@ -12,13 +12,14 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Brown Bears @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBrown Bears @ Siena Saints\nUH
- Y Center\, Loudonville\, NY
+ Y Center\, Loudonville\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913763@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Siena Saints @ Maine Black Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Maine Black Bea
- rs\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME
+ rs\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Skip Chappelle Court in Memorial Gymnasium\, Orono\, ME
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918033@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261108T210000Z
 DTEND:20261109T000000Z
 SUMMARY:Binghamton Bearcats @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ Siena Sa
- ints\nUHY Center\, Loudonville\, NY
+ ints\nUHY Center\, Loudonville\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918034@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:Siena Saints @ Syracuse Orange
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Syracuse Orange
- \nJMA Wireless Dome\, Syracuse\, NY
+ \nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: ACCNX (streaming)
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918035@open-sports-cal
@@ -68,12 +73,13 @@ DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Siena Saints @ New Haven Chargers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ New Haven Charg
- ers\nJeffery P. Hazell Athletics Center\, West Haven\, CT
+ ers\nJeffery P. Hazell Athletics Center\, West Haven\, CT\nBroadcast: Broa
+ dcast not announced
 LOCATION:Jeffery P. Hazell Athletics Center\, West Haven\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -82,13 +88,14 @@ DTSTART:20261119T230000Z
 DTEND:20261120T020000Z
 SUMMARY:Army Black Knights @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArmy Black Knights @ Siena Sai
- nts\nUHY Center\, Loudonville\, NY
+ nts\nUHY Center\, Loudonville\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918036@open-sports-cal
@@ -96,12 +103,13 @@ DTSTART:20261121T220000Z
 DTEND:20261122T010000Z
 SUMMARY:Siena Saints @ Mercyhurst Lakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Mercyhurst Lake
- rs\nMercyhurst Athletic Center\, Erie\, PA
+ rs\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,13 +118,14 @@ DTSTART:20261124T190000Z
 DTEND:20261124T220000Z
 SUMMARY:Siena Saints @ Colgate Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Colgate Raiders
- \nCotterell Court\, Hamilton\, NY
+ \nCotterell Court\, Hamilton\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Cotterell Court\, Hamilton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914495@open-sports-cal
@@ -124,13 +133,14 @@ DTSTART:20261130T230000Z
 DTEND:20261201T020000Z
 SUMMARY:Cornell Big Red @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCornell Big Red @ Siena Saints
- \nUHY Center\, Loudonville\, NY
+ \nUHY Center\, Loudonville\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919457@open-sports-cal
@@ -138,13 +148,14 @@ DTSTART:20261202T233000Z
 DTEND:20261203T023000Z
 SUMMARY:Siena Saints @ Dartmouth Big Green
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Dartmouth Big G
- reen\nLeede Arena\, Hanover\, NH
+ reen\nLeede Arena\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913805@open-sports-cal
@@ -152,13 +163,14 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:UAlbany Great Danes @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUAlbany Great Danes @ Siena Sa
- ints\nUHY Center\, Loudonville\, NY
+ ints\nUHY Center\, Loudonville\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919458@open-sports-cal
@@ -166,13 +178,14 @@ DTSTART:20261210T230000Z
 DTEND:20261211T020000Z
 SUMMARY:Wagner Seahawks @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Siena Saints
- \nUHY Center\, Loudonville\, NY
+ \nUHY Center\, Loudonville\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919459@open-sports-cal
@@ -180,13 +193,14 @@ DTSTART:20261219T230000Z
 DTEND:20261220T020000Z
 SUMMARY:Siena Saints @ Merrimack Warriors
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Merrimack Warri
- ors\nHammel Court\, North Andover\, MA
+ ors\nHammel Court\, North Andover\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Hammel Court\, North Andover\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916217@open-sports-cal
@@ -194,13 +208,14 @@ DTSTART:20261221T160000Z
 DTEND:20261221T190000Z
 SUMMARY:Quinnipiac Bobcats @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nQuinnipiac Bobcats @ Siena Sai
- nts\nUHY Center\, Loudonville\, NY
+ nts\nUHY Center\, Loudonville\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915648@open-sports-cal
@@ -208,13 +223,14 @@ DTSTART:20261229T230000Z
 DTEND:20261230T020000Z
 SUMMARY:Fairfield Stags @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFairfield Stags @ Siena Saints
- \nUHY Center\, Loudonville\, NY
+ \nUHY Center\, Loudonville\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915677@open-sports-cal
@@ -222,12 +238,13 @@ DTSTART:20270101T180000Z
 DTEND:20270101T210000Z
 SUMMARY:Siena Saints @ Iona Gaels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Iona Gaels\nHyn
- es Athletics Center\, New Rochelle\, NY
+ es Athletics Center\, New Rochelle\, NY\nBroadcast: Broadcast not announce
+ d
 LOCATION:Hynes Athletics Center\, New Rochelle\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +253,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Siena Saints @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Sacred Heart Pi
- oneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ oneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: Broadcast not 
+ announced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +268,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Siena Saints\nUHY Center\, Loudonville\, NY
+ @ Siena Saints\nUHY Center\, Loudonville\, NY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +283,13 @@ DTSTART:20270113T160000Z
 DTEND:20270113T190000Z
 SUMMARY:Siena Saints @ Fairfield Stags
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Fairfield Stags
- \nLeo D. Mahoney Arena\, Fairfield\, CT
+ \nLeo D. Mahoney Arena\, Fairfield\, CT\nBroadcast: Broadcast not announce
+ d
 LOCATION:Leo D. Mahoney Arena\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +298,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Saint Peter's Peacocks @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Siena
-  Saints\nUHY Center\, Loudonville\, NY
+  Saints\nUHY Center\, Loudonville\, NY\nBroadcast: Broadcast not announced
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +312,12 @@ DTSTART:20270118T230000Z
 DTEND:20270119T020000Z
 SUMMARY:Siena Saints @ Manhattan Jaspers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Manhattan Jaspe
- rs\nDraddy Gymnasium\, Riverdale\, NY
+ rs\nDraddy Gymnasium\, Riverdale\, NY\nBroadcast: Broadcast not announced
 LOCATION:Draddy Gymnasium\, Riverdale\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +326,12 @@ DTSTART:20270121T230000Z
 DTEND:20270122T020000Z
 SUMMARY:Niagara Purple Eagles @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNiagara Purple Eagles @ Siena 
- Saints\nUHY Center\, Loudonville\, NY
+ Saints\nUHY Center\, Loudonville\, NY\nBroadcast: Broadcast not announced
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +340,12 @@ DTSTART:20270128T233000Z
 DTEND:20270129T023000Z
 SUMMARY:Siena Saints @ Quinnipiac Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Quinnipiac Bobc
- ats\nM&T Bank Arena\, Hamden\, CT
+ ats\nM&T Bank Arena\, Hamden\, CT\nBroadcast: Broadcast not announced
 LOCATION:M&T Bank Arena\, Hamden\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +354,12 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Marist Red Foxes @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarist Red Foxes @ Siena Saint
- s\nUHY Center\, Loudonville\, NY
+ s\nUHY Center\, Loudonville\, NY\nBroadcast: Broadcast not announced
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +368,13 @@ DTSTART:20270204T160000Z
 DTEND:20270204T190000Z
 SUMMARY:Siena Saints @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Mount St. Mary'
- s Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ s Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +383,12 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Iona Gaels @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIona Gaels @ Siena Saints\nUHY
-  Center\, Loudonville\, NY
+  Center\, Loudonville\, NY\nBroadcast: Broadcast not announced
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +397,12 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Merrimack Warriors @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMerrimack Warriors @ Siena Sai
- nts\nUHY Center\, Loudonville\, NY
+ nts\nUHY Center\, Loudonville\, NY\nBroadcast: Broadcast not announced
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +411,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Siena Saints @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Canisius Golden
-  Griffins\nKoessler Athletic Center\, Buffalo\, NY
+  Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +426,13 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Siena Saints @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Rider Broncs\nA
- lumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ lumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +441,12 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Sacred Heart Pioneers @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Siena 
- Saints\nUHY Center\, Loudonville\, NY
+ Saints\nUHY Center\, Loudonville\, NY\nBroadcast: Broadcast not announced
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +455,12 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Manhattan Jaspers @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nManhattan Jaspers @ Siena Sain
- ts\nUHY Center\, Loudonville\, NY
+ ts\nUHY Center\, Loudonville\, NY\nBroadcast: Broadcast not announced
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -446,12 +469,12 @@ DTSTART:20270228T000000Z
 DTEND:20270228T030000Z
 SUMMARY:Siena Saints @ Marist Red Foxes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Marist Red Foxe
- s\nMcCann Arena\, Poughkeepsie\, NY
+ s\nMcCann Arena\, Poughkeepsie\, NY\nBroadcast: Broadcast not announced
 LOCATION:McCann Arena\, Poughkeepsie\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

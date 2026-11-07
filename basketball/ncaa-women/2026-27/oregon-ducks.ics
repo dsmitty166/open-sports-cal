@@ -12,13 +12,14 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Hawai'i Rainbow Wahine @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHawai'i Rainbow Wahine @ Orego
- n Ducks\nMatthew Knight Arena\, Eugene\, OR
+ n Ducks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: B1G+ (streaming)
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401903554@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261107T030000Z
 DTEND:20261107T060000Z
 SUMMARY:Washington State Cougars @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWashington State Cougars @ Ore
- gon Ducks\nMatthew Knight Arena\, Eugene\, OR
+ gon Ducks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: B1G+ (streaming)
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918902@open-sports-cal
@@ -40,13 +42,14 @@ DTSTART:20261110T030000Z
 DTEND:20261110T060000Z
 SUMMARY:Oregon Ducks @ Grand Canyon Lopes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Grand Canyon Lo
- pes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ pes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: CBSSN
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918903@open-sports-cal
@@ -54,13 +57,14 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:Oregon Ducks @ Vermont Catamounts
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Vermont Catamou
- nts\nPatrick Gymnasium\, Burlington\, VT
+ nts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: ESPN+ (streaming)
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913765@open-sports-cal
@@ -68,13 +72,15 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Oregon Ducks @ Maine Black Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Maine Black Bea
- rs\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME
+ rs\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Skip Chappelle Court in Memorial Gymnasium\, Orono\, ME
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918904@open-sports-cal
@@ -82,13 +88,14 @@ DTSTART:20261117T190000Z
 DTEND:20261117T220000Z
 SUMMARY:Murray State Racers @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMurray State Racers @ Oregon D
- ucks\nMatthew Knight Arena\, Eugene\, OR
+ ucks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: B1G+ (streaming)
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918905@open-sports-cal
@@ -96,12 +103,12 @@ DTSTART:20261120T030000Z
 DTEND:20261120T060000Z
 SUMMARY:Fairfield Stags @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFairfield Stags @ Oregon Ducks
- \nMatthew Knight Arena\, Eugene\, OR
+ \nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Broadcast not announced
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -111,12 +118,12 @@ DTEND:20261126T190000Z
 SUMMARY:Oregon Ducks @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Maryland Easter
  n Shore Hawks\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral sit
- e
+ e\nBroadcast: Broadcast not announced
 LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Cancun
 END:VEVENT
 BEGIN:VEVENT
@@ -125,12 +132,13 @@ DTSTART:20261127T160000Z
 DTEND:20261127T190000Z
 SUMMARY:Colorado Buffaloes @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Oregon Du
- cks\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral site
+ cks\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral site\nBroadca
+ st: Broadcast not announced
 LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Cancun
 END:VEVENT
 BEGIN:VEVENT
@@ -139,12 +147,13 @@ DTSTART:20261128T183000Z
 DTEND:20261128T213000Z
 SUMMARY:Georgia Lady Bulldogs @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Lady Bulldogs @ Oregon
-  Ducks\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral site
+  Ducks\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral site\nBroa
+ dcast: Broadcast not announced
 LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Cancun
 END:VEVENT
 BEGIN:VEVENT
@@ -153,12 +162,12 @@ DTSTART:20261203T020000Z
 DTEND:20261203T050000Z
 SUMMARY:Southern Jaguars @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Oregon Duck
- s\nMatthew Knight Arena\, Eugene\, OR
+ s\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Broadcast not announced
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -167,13 +176,14 @@ DTSTART:20261206T230000Z
 DTEND:20261207T020000Z
 SUMMARY:UCLA Bruins @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUCLA Bruins @ Oregon Ducks\nMa
- tthew Knight Arena\, Eugene\, OR
+ tthew Knight Arena\, Eugene\, OR\nBroadcast: BTN
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918907@open-sports-cal
@@ -181,13 +191,14 @@ DTSTART:20261213T210000Z
 DTEND:20261214T000000Z
 SUMMARY:Oregon Ducks @ Oregon State Beavers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Oregon State Be
- avers\nGill Coliseum\, Corvallis\, OR
+ avers\nGill Coliseum\, Corvallis\, OR\nBroadcast: CW
 LOCATION:Gill Coliseum\, Corvallis\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917756@open-sports-cal
@@ -195,12 +206,12 @@ DTSTART:20261216T230000Z
 DTEND:20261217T020000Z
 SUMMARY:Portland Pilots @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPortland Pilots @ Oregon Ducks
- \nMatthew Knight Arena\, Eugene\, OR
+ \nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Broadcast not announced
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -209,12 +220,13 @@ DTSTART:20261219T220000Z
 DTEND:20261220T010000Z
 SUMMARY:Montana State Bobcats @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Oregon
-  Ducks\nMatthew Knight Arena\, Eugene\, OR
+  Ducks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -223,12 +235,13 @@ DTSTART:20261229T233000Z
 DTEND:20261230T023000Z
 SUMMARY:Oregon Ducks @ Ohio State Buckeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Ohio State Buck
- eyes\nSchottenstein Center\, Columbus\, OH
+ eyes\nSchottenstein Center\, Columbus\, OH\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Schottenstein Center\, Columbus\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -237,13 +250,14 @@ DTSTART:20270101T210000Z
 DTEND:20270102T000000Z
 SUMMARY:Oregon Ducks @ Penn State Lady Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Penn State Lady
-  Lions\nRec Hall\, University Park\, PA
+  Lions\nRec Hall\, University Park\, PA\nBroadcast: BTN
 LOCATION:Rec Hall\, University Park\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922080@open-sports-cal
@@ -251,12 +265,12 @@ DTSTART:20270106T030000Z
 DTEND:20270106T060000Z
 SUMMARY:Wisconsin Badgers @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Oregon Duc
- ks\nMatthew Knight Arena\, Eugene\, OR
+ ks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Broadcast not announced
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -265,13 +279,15 @@ DTSTART:20270110T170000Z
 DTEND:20270110T200000Z
 SUMMARY:Oregon Ducks @ Michigan Wolverines
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Michigan Wolver
- ines\nCrisler Center\, Ann Arbor\, MI
+ ines\nCrisler Center\, Ann Arbor\, MI\nBroadcast: Peacock (streaming) / NB
+ CSN
 LOCATION:Crisler Center\, Ann Arbor\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming) / NBCSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922098@open-sports-cal
@@ -279,12 +295,13 @@ DTSTART:20270113T233000Z
 DTEND:20270114T023000Z
 SUMMARY:Oregon Ducks @ Michigan State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Michigan State 
- Spartans\nBreslin Center\, East Lansing\, MI
+ Spartans\nBreslin Center\, East Lansing\, MI\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Breslin Center\, East Lansing\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -293,12 +310,13 @@ DTSTART:20270117T220000Z
 DTEND:20270118T010000Z
 SUMMARY:Maryland Terrapins @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Terrapins @ Oregon Du
- cks\nMatthew Knight Arena\, Eugene\, OR
+ cks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Broadcast not announce
+ d
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +325,13 @@ DTSTART:20270121T030000Z
 DTEND:20270121T060000Z
 SUMMARY:Purdue Boilermakers @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Boilermakers @ Oregon D
- ucks\nMatthew Knight Arena\, Eugene\, OR
+ ucks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -321,13 +340,14 @@ DTSTART:20270124T230000Z
 DTEND:20270125T020000Z
 SUMMARY:Iowa Hawkeyes @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ Oregon Ducks\n
- Matthew Knight Arena\, Eugene\, OR
+ Matthew Knight Arena\, Eugene\, OR\nBroadcast: BTN
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922134@open-sports-cal
@@ -336,14 +356,15 @@ DTEND:20270129T050000Z
 SUMMARY:Oregon Ducks @ Minnesota Golden Gophers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Minnesota Golde
  n Gophers\nThe Barn by Blue Cross and Blue Shield of Minnesota\, Minneapol
- is\, MN
+ is\, MN\nBroadcast: BTN
 LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
  , MN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922138@open-sports-cal
@@ -351,13 +372,14 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:Oregon Ducks @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Nebraska Cornhu
- skers\nPinnacle Bank Arena\, Lincoln\, NE
+ skers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: BTN
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922150@open-sports-cal
@@ -365,13 +387,14 @@ DTSTART:20270205T030000Z
 DTEND:20270205T060000Z
 SUMMARY:Washington Huskies @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWashington Huskies @ Oregon Du
- cks\nMatthew Knight Arena\, Eugene\, OR
+ cks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: BTN
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922159@open-sports-cal
@@ -379,12 +402,12 @@ DTSTART:20270211T030000Z
 DTEND:20270211T060000Z
 SUMMARY:Indiana Hoosiers @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana Hoosiers @ Oregon Duck
- s\nMatthew Knight Arena\, Eugene\, OR
+ s\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Broadcast not announced
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -393,12 +416,13 @@ DTSTART:20270213T200000Z
 DTEND:20270213T230000Z
 SUMMARY:Oregon Ducks @ Illinois Fighting Illini
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Illinois Fighti
- ng Illini\nState Farm Center\, Champaign\, IL
+ ng Illini\nState Farm Center\, Champaign\, IL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -407,12 +431,13 @@ DTSTART:20270217T010000Z
 DTEND:20270217T040000Z
 SUMMARY:Oregon Ducks @ Northwestern Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Northwestern Wi
- ldcats\nWelsh-Ryan Arena\, Evanston\, IL
+ ldcats\nWelsh-Ryan Arena\, Evanston\, IL\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Welsh-Ryan Arena\, Evanston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -421,12 +446,13 @@ DTSTART:20270221T020000Z
 DTEND:20270221T050000Z
 SUMMARY:Rutgers Scarlet Knights @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRutgers Scarlet Knights @ Oreg
- on Ducks\nMatthew Knight Arena\, Eugene\, OR
+ on Ducks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -435,13 +461,14 @@ DTSTART:20270226T033000Z
 DTEND:20270226T063000Z
 SUMMARY:Oregon Ducks @ Washington Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon Ducks @ Washington Husk
- ies\nAlaska Airlines Arena\, Seattle\, WA
+ ies\nAlaska Airlines Arena\, Seattle\, WA\nBroadcast: BTN
 LOCATION:Alaska Airlines Arena\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922208@open-sports-cal
@@ -449,12 +476,13 @@ DTSTART:20270228T210000Z
 DTEND:20270301T000000Z
 SUMMARY:USC Trojans @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUSC Trojans @ Oregon Ducks\nMa
- tthew Knight Arena\, Eugene\, OR
+ tthew Knight Arena\, Eugene\, OR\nBroadcast: BTN
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 END:VCALENDAR

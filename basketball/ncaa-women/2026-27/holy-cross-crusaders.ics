@@ -12,13 +12,15 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Holy Cross Crusaders @ Boston College Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Boston 
- College Eagles\nConte Forum\, Chestnut Hill\, MA
+ College Eagles\nConte Forum\, Chestnut Hill\, MA\nBroadcast: ACCNX (stream
+ ing)
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920143@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Dartmouth Big Green @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDartmouth Big Green @ Holy Cro
- ss Crusaders\nHart Center Arena\, Worcester\, MA
+ ss Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: ESPN+ (stream
+ ing) / Patriot League TV (streaming)
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913856@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261109T230000Z
 DTEND:20261110T020000Z
 SUMMARY:Harvard Crimson @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Holy Cross C
- rusaders\nHart Center Arena\, Worcester\, MA
+ rusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: ESPN+ (streaming)
+  / Patriot League TV (streaming)
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401909684@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261112T213000Z
 DTEND:20261113T003000Z
 SUMMARY:Holy Cross Crusaders @ Brown Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Brown B
- ears\nPizzitola Sports Center\, Providence\, RI
+ ears\nPizzitola Sports Center\, Providence\, RI\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913757@open-sports-cal
@@ -68,13 +76,14 @@ DTSTART:20261116T230000Z
 DTEND:20261117T020000Z
 SUMMARY:Bryant Bulldogs @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBryant Bulldogs @ Holy Cross C
- rusaders\nHart Center Arena\, Worcester\, MA
+ rusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913681@open-sports-cal
@@ -82,13 +91,14 @@ DTSTART:20261122T190000Z
 DTEND:20261122T220000Z
 SUMMARY:Holy Cross Crusaders @ Richmond Spiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Richmon
- d Spiders\nRobins Center\, Richmond\, VA
+ d Spiders\nRobins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915779@open-sports-cal
@@ -96,13 +106,15 @@ DTSTART:20261125T180000Z
 DTEND:20261125T210000Z
 SUMMARY:Rhode Island Rams @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Holy Cross
-  Crusaders\nHart Center Arena\, Worcester\, MA
+  Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919441@open-sports-cal
@@ -110,13 +122,15 @@ DTSTART:20261201T000000Z
 DTEND:20261201T030000Z
 SUMMARY:Holy Cross Crusaders @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Sacred 
- Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920144@open-sports-cal
@@ -124,13 +138,15 @@ DTSTART:20261207T230000Z
 DTEND:20261208T020000Z
 SUMMARY:Holy Cross Crusaders @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Massach
- usetts Minutewomen\nMullins Center\, Amherst\, MA
+ usetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920145@open-sports-cal
@@ -138,13 +154,15 @@ DTSTART:20261216T230000Z
 DTEND:20261217T020000Z
 SUMMARY:Western Kentucky Lady Toppers @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Kentucky Lady Toppers 
- @ Holy Cross Crusaders\nHart Center Arena\, Worcester\, MA
+ @ Holy Cross Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920146@open-sports-cal
@@ -152,13 +170,15 @@ DTSTART:20261220T170000Z
 DTEND:20261220T200000Z
 SUMMARY:Holy Cross Crusaders @ Saint Joseph's Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Saint J
- oseph's Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA
+ oseph's Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Michael J. Hagan '85 Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919498@open-sports-cal
@@ -166,13 +186,14 @@ DTSTART:20261230T230000Z
 DTEND:20261231T020000Z
 SUMMARY:Holy Cross Crusaders @ Army Black Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Army Bl
- ack Knights\nChristl Arena\, West Point\, NY
+ ack Knights\nChristl Arena\, West Point\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Christl Arena\, West Point\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919472@open-sports-cal
@@ -180,12 +201,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:American University Eagles @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ H
- oly Cross Crusaders\nHart Center Arena\, Worcester\, MA
+ oly Cross Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +216,13 @@ DTSTART:20270106T230000Z
 DTEND:20270107T020000Z
 SUMMARY:Holy Cross Crusaders @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Navy Mi
- dshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ dshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +231,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Loyola Maryland Greyhounds @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Maryland Greyhounds @ H
- oly Cross Crusaders\nHart Center Arena\, Worcester\, MA
+ oly Cross Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +246,13 @@ DTSTART:20270113T153000Z
 DTEND:20270113T183000Z
 SUMMARY:Lehigh Mountain Hawks @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLehigh Mountain Hawks @ Holy C
- ross Crusaders\nHart Center Arena\, Worcester\, MA
+ ross Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +261,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Holy Cross Crusaders @ Colgate Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Colgate
-  Raiders\nCotterell Court\, Hamilton\, NY
+  Raiders\nCotterell Court\, Hamilton\, NY\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Cotterell Court\, Hamilton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +276,13 @@ DTSTART:20270120T230000Z
 DTEND:20270121T020000Z
 SUMMARY:Bucknell Bison @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBucknell Bison @ Holy Cross Cr
- usaders\nHart Center Arena\, Worcester\, MA
+ usaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +291,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Holy Cross Crusaders @ Boston University Terriers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Boston 
- University Terriers\nCase Gym\, Boston\, MA
+ University Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +306,13 @@ DTSTART:20270127T230000Z
 DTEND:20270128T020000Z
 SUMMARY:Army Black Knights @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArmy Black Knights @ Holy Cros
- s Crusaders\nHart Center Arena\, Worcester\, MA
+ s Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +321,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Holy Cross Crusaders @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Loyola 
- Maryland Greyhounds\nReitz Arena\, Baltimore\, MD
+ Maryland Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: Broadcast no
+ t announced
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +336,13 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Lafayette Leopards @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Holy Cros
- s Crusaders\nHart Center Arena\, Worcester\, MA
+ s Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +351,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:Navy Midshipmen @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Holy Cross C
- rusaders\nHart Center Arena\, Worcester\, MA
+ rusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +366,13 @@ DTSTART:20270210T230000Z
 DTEND:20270211T020000Z
 SUMMARY:Holy Cross Crusaders @ Bucknell Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Bucknel
- l Bison\nSojka Pavilion\, Lewisburg\, PA
+ l Bison\nSojka Pavilion\, Lewisburg\, PA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Sojka Pavilion\, Lewisburg\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +381,13 @@ DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Holy Cross Crusaders @ Lehigh Mountain Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Lehigh 
- Mountain Hawks\nStabler Arena\, Bethlehem\, PA\nStart time TBD
+ Mountain Hawks\nStabler Arena\, Bethlehem\, PA\nStart time TBD\nBroadcast:
+  Broadcast not announced
 LOCATION:Stabler Arena\, Bethlehem\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919565@open-sports-cal
@@ -361,12 +395,13 @@ DTSTART:20270217T230000Z
 DTEND:20270218T020000Z
 SUMMARY:Colgate Raiders @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColgate Raiders @ Holy Cross C
- rusaders\nHart Center Arena\, Worcester\, MA
+ rusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,12 +410,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Boston University Terriers @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBoston University Terriers @ H
- oly Cross Crusaders\nHart Center Arena\, Worcester\, MA
+ oly Cross Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,12 +425,13 @@ DTSTART:20270223T230000Z
 DTEND:20270224T020000Z
 SUMMARY:Holy Cross Crusaders @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Lafayet
- te Leopards\nKirby Sports Center\, Easton\, PA
+ te Leopards\nKirby Sports Center\, Easton\, PA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -403,12 +440,13 @@ DTSTART:20270226T220000Z
 DTEND:20270227T010000Z
 SUMMARY:Holy Cross Crusaders @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ America
- n University Eagles\nBender Arena\, Washington\, DC
+ n University Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broadcast 
+ not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

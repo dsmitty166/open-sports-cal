@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:UNC Asheville Bulldogs @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Richmon
- d Spiders\nRobins Center\, Richmond\, VA
+ d Spiders\nRobins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927395@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Southern Virginia Knights @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Virginia Knights @ Rich
- mond Spiders\nRobins Center\, Richmond\, VA
+ mond Spiders\nRobins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911238@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261108T220000Z
 DTEND:20261109T010000Z
 SUMMARY:Richmond Spiders @ Temple Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ Temple Owls\n
- The Palestra\, Philadelphia\, PA\nNeutral site
+ The Palestra\, Philadelphia\, PA\nNeutral site\nBroadcast: ESPN2
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911239@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20261113T010000Z
 DTEND:20261113T040000Z
 SUMMARY:Richmond Spiders @ Southern Illinois Salukis
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ Southern Illi
- nois Salukis\nBanterra Center\, Carbondale\, IL
+ nois Salukis\nBanterra Center\, Carbondale\, IL\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Banterra Center\, Carbondale\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911240@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261117T000000Z
 DTEND:20261117T030000Z
 SUMMARY:Richmond Spiders @ Virginia Tech Hokies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ Virginia Tech
-  Hokies\nCassell Coliseum\, Blacksburg\, VA
+  Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: ACCNX (streaming)
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927396@open-sports-cal
@@ -77,11 +83,12 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Richmond Spiders @ Western Kentucky Hilltoppers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ Western Kentu
- cky Hilltoppers\nColonial Hall\, White Sulphur Springs\, WV\nNeutral site
+ cky Hilltoppers\nColonial Hall\, White Sulphur Springs\, WV\nNeutral site\
+ nBroadcast: Broadcast not announced
 LOCATION:Colonial Hall\, White Sulphur Springs\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +97,12 @@ DTSTART:20261122T213000Z
 DTEND:20261123T003000Z
 SUMMARY:Richmond Spiders @ Liberty Flames
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ Liberty Flame
- s\nColonial Hall\, White Sulphur Springs\, WV\nNeutral site
+ s\nColonial Hall\, White Sulphur Springs\, WV\nNeutral site\nBroadcast: Br
+ oadcast not announced
 LOCATION:Colonial Hall\, White Sulphur Springs\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +111,13 @@ DTSTART:20261125T230000Z
 DTEND:20261126T020000Z
 SUMMARY:Bethune-Cookman Wildcats @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Richm
- ond Spiders\nRobins Center\, Richmond\, VA
+ ond Spiders\nRobins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911242@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261128T230000Z
 DTEND:20261129T020000Z
 SUMMARY:VMI Keydets @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Richmond Spiders\n
- Robins Center\, Richmond\, VA
+ Robins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911243@open-sports-cal
@@ -129,11 +139,12 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Richmond Spiders @ East Carolina Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ East Carolina
-  Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC
+  Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC\nBroadcast: 
+ Broadcast not announced
 LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,11 +153,12 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Richmond Spiders @ Old Dominion Monarchs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ Old Dominion 
- Monarchs\nChartway Arena\, Norfolk\, VA
+ Monarchs\nChartway Arena\, Norfolk\, VA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Chartway Arena\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +167,13 @@ DTSTART:20261212T230000Z
 DTEND:20261213T020000Z
 SUMMARY:Elon Phoenix @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ Richmond Spiders\
- nRobins Center\, Richmond\, VA
+ nRobins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911246@open-sports-cal
@@ -168,12 +181,13 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:William & Mary Tribe @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam & Mary Tribe @ Richmond 
- Spiders\nRobins Center\, Richmond\, VA
+ Spiders\nRobins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911247@open-sports-cal
@@ -181,12 +195,13 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Lafayette Leopards @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLafayette Leopards @ Richmond Sp
- iders\nRobins Center\, Richmond\, VA
+ iders\nRobins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927338@open-sports-cal
@@ -194,11 +209,12 @@ DTSTART:20261231T000000Z
 DTEND:20261231T030000Z
 SUMMARY:Richmond Spiders @ George Mason Patriots
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ George Mason 
- Patriots\nEagleBank Arena\, Fairfax\, VA
+ Patriots\nEagleBank Arena\, Fairfax\, VA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:EagleBank Arena\, Fairfax\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +223,12 @@ DTSTART:20270102T230000Z
 DTEND:20270103T020000Z
 SUMMARY:Loyola Chicago Ramblers @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Chicago Ramblers @ Richmo
- nd Spiders\nRobins Center\, Richmond\, VA
+ nd Spiders\nRobins Center\, Richmond\, VA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +237,12 @@ DTSTART:20270107T010000Z
 DTEND:20270107T040000Z
 SUMMARY:Saint Louis Billikens @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ Richmond
-  Spiders\nRobins Center\, Richmond\, VA
+  Spiders\nRobins Center\, Richmond\, VA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +251,12 @@ DTSTART:20270109T193000Z
 DTEND:20270109T223000Z
 SUMMARY:Richmond Spiders @ Davidson Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ Davidson Wild
- cats\nJohn M. Belk Arena\, Davidson\, NC
+ cats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: Broadcast not announc
+ ed
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +265,11 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Richmond Spiders @ Dayton Flyers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ Dayton Flyers
- \nUD Arena\, Dayton\, OH
+ \nUD Arena\, Dayton\, OH\nBroadcast: Broadcast not announced
 LOCATION:UD Arena\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +278,11 @@ DTSTART:20270116T213000Z
 DTEND:20270117T003000Z
 SUMMARY:Rhode Island Rams @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRhode Island Rams @ Richmond Spi
- ders\nRobins Center\, Richmond\, VA
+ ders\nRobins Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +291,11 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Duquesne Dukes @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDuquesne Dukes @ Richmond Spider
- s\nRobins Center\, Richmond\, VA
+ s\nRobins Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +304,12 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:Richmond Spiders @ George Washington Revolutionaries
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ George Washin
- gton Revolutionaries\nCharles E. Smith Center\, Washington\, DC
+ gton Revolutionaries\nCharles E. Smith Center\, Washington\, DC\nBroadcast
+ : Broadcast not announced
 LOCATION:Charles E. Smith Center\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +318,11 @@ DTSTART:20270131T010000Z
 DTEND:20270131T040000Z
 SUMMARY:Richmond Spiders @ VCU Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ VCU Rams\nSie
- gel Center\, Richmond\, VA
+ gel Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +331,11 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:Davidson Wildcats @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDavidson Wildcats @ Richmond Spi
- ders\nRobins Center\, Richmond\, VA
+ ders\nRobins Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +344,12 @@ DTSTART:20270206T193000Z
 DTEND:20270206T223000Z
 SUMMARY:Richmond Spiders @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ St. Bonaventu
- re Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ re Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +358,12 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:George Washington Revolutionaries @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorge Washington Revolutionarie
- s @ Richmond Spiders\nRobins Center\, Richmond\, VA
+ s @ Richmond Spiders\nRobins Center\, Richmond\, VA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +372,11 @@ DTSTART:20270213T170000Z
 DTEND:20270213T200000Z
 SUMMARY:VCU Rams @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVCU Rams @ Richmond Spiders\nRob
- ins Center\, Richmond\, VA
+ ins Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +385,12 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:Richmond Spiders @ Rhode Island Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ Rhode Island 
- Rams\nThomas M. Ryan Center\, Kingston\, RI
+ Rams\nThomas M. Ryan Center\, Kingston\, RI\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Thomas M. Ryan Center\, Kingston\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +399,12 @@ DTSTART:20270220T193000Z
 DTEND:20270220T223000Z
 SUMMARY:St. Bonaventure Bonnies @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Richmo
- nd Spiders\nRobins Center\, Richmond\, VA
+ nd Spiders\nRobins Center\, Richmond\, VA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +413,12 @@ DTSTART:20270227T213000Z
 DTEND:20270228T003000Z
 SUMMARY:Richmond Spiders @ La Salle Explorers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ La Salle Expl
- orers\nJohn Glaser Arena\, Philadelphia\, PA
+ orers\nJohn Glaser Arena\, Philadelphia\, PA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:John Glaser Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +427,12 @@ DTSTART:20270303T190000Z
 DTEND:20270303T220000Z
 SUMMARY:Richmond Spiders @ Saint Joseph's Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRichmond Spiders @ Saint Joseph'
- s Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA
+ s Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Michael J. Hagan '85 Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +441,11 @@ DTSTART:20270306T230000Z
 DTEND:20270307T020000Z
 SUMMARY:Fordham Rams @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFordham Rams @ Richmond Spiders\
- nRobins Center\, Richmond\, VA
+ nRobins Center\, Richmond\, VA\nBroadcast: Broadcast not announced
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

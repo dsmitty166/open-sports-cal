@@ -12,13 +12,15 @@ DTSTART:20261102T170000Z
 DTEND:20261102T200000Z
 SUMMARY:Lipscomb Bisons @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Vanderbilt C
- ommodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ ommodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: SECN+ (str
+ eaming)
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916068@open-sports-cal
@@ -26,13 +28,14 @@ DTSTART:20261105T233000Z
 DTEND:20261106T023000Z
 SUMMARY:Lipscomb Bisons @ Butler Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Butler Bulld
- ogs\nHinkle Fieldhouse\, Indianapolis\, IN
+ ogs\nHinkle Fieldhouse\, Indianapolis\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916069@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261107T193000Z
 DTEND:20261107T223000Z
 SUMMARY:Carolina University Bruins @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCarolina University Bruins @ L
- ipscomb Bisons\nAllen Arena\, Nashville\, TN
+ ipscomb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916070@open-sports-cal
@@ -54,13 +58,15 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Mississippi Valley State Devilettes @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi Valley State Devil
- ettes @ Lipscomb Bisons\nAllen Arena\, Nashville\, TN
+ ettes @ Lipscomb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916071@open-sports-cal
@@ -68,13 +74,14 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:Lipscomb Bisons @ Chattanooga Mocs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Chattanooga 
- Mocs\nMcKenzie Arena\, Chattanooga\, TN
+ Mocs\nMcKenzie Arena\, Chattanooga\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916072@open-sports-cal
@@ -82,13 +89,15 @@ DTSTART:20261124T000000Z
 DTEND:20261124T030000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Tech Golden Eagles @
-  Lipscomb Bisons\nAllen Arena\, Nashville\, TN
+  Lipscomb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916073@open-sports-cal
@@ -96,13 +105,15 @@ DTSTART:20261201T003000Z
 DTEND:20261201T033000Z
 SUMMARY:Lipscomb Bisons @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Middle Tenne
- ssee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ ssee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916074@open-sports-cal
@@ -110,13 +121,14 @@ DTSTART:20261203T170000Z
 DTEND:20261203T200000Z
 SUMMARY:Belmont Bruins @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Lipscomb Biso
- ns\nAllen Arena\, Nashville\, TN
+ ns\nAllen Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913721@open-sports-cal
@@ -124,13 +136,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Lipscomb Bisons @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Georgia Tech
-  Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+  Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA\nBroadcast: ACCNX (strea
+ ming)
 LOCATION:McCamish Pavilion\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916075@open-sports-cal
@@ -138,13 +152,14 @@ DTSTART:20261215T000000Z
 DTEND:20261215T030000Z
 SUMMARY:Samford Bulldogs @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSamford Bulldogs @ Lipscomb Bi
- sons\nAllen Arena\, Nashville\, TN
+ sons\nAllen Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916076@open-sports-cal
@@ -152,13 +167,14 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Austin Peay Governors @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAustin Peay Governors @ Lipsco
- mb Bisons\nAllen Arena\, Nashville\, TN
+ mb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916077@open-sports-cal
@@ -166,13 +182,14 @@ DTSTART:20261219T193000Z
 DTEND:20261219T223000Z
 SUMMARY:Eastern Kentucky Colonels @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Kentucky Colonels @ Li
- pscomb Bisons\nAllen Arena\, Nashville\, TN
+ pscomb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916078@open-sports-cal
@@ -180,13 +197,14 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Lipscomb Bisons @ West Georgia Wolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ West Georgia
-  Wolves\nThe Coliseum\, Carrollton\, GA
+  Wolves\nThe Coliseum\, Carrollton\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:The Coliseum\, Carrollton\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916079@open-sports-cal
@@ -194,12 +212,13 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:Lipscomb Bisons @ North Alabama Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ North Alabam
- a Lions\nCB&S Bank Arena at Flowers Hall\, Florence\, AL
+ a Lions\nCB&S Bank Arena at Flowers Hall\, Florence\, AL\nBroadcast: Broad
+ cast not announced
 LOCATION:CB&S Bank Arena at Flowers Hall\, Florence\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +227,12 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:Lipscomb Bisons @ Bellarmine Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Bellarmine K
- nights\nKnights Hall\, Louisville\, KY
+ nights\nKnights Hall\, Louisville\, KY\nBroadcast: Broadcast not announced
 LOCATION:Knights Hall\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +241,13 @@ DTSTART:20270114T160000Z
 DTEND:20270114T190000Z
 SUMMARY:Lipscomb Bisons @ Jacksonville Dolphins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Jacksonville
-  Dolphins\nSwisher Gymnasium\, Jacksonville\, FL
+  Dolphins\nSwisher Gymnasium\, Jacksonville\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:Swisher Gymnasium\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +256,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Lipscomb Bisons @ North Florida Ospreys
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ North Florid
- a Ospreys\nUNF Arena\, Jacksonville\, FL
+ a Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: Broadcast not announc
+ ed
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +271,12 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Stetson Hatters @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStetson Hatters @ Lipscomb Bis
- ons\nAllen Arena\, Nashville\, TN
+ ons\nAllen Arena\, Nashville\, TN\nBroadcast: Broadcast not announced
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +285,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Florida Gulf Coast Eagles @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Li
- pscomb Bisons\nAllen Arena\, Nashville\, TN
+ pscomb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +300,13 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:West Florida Argonauts @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWest Florida Argonauts @ Lipsc
- omb Bisons\nAllen Arena\, Nashville\, TN
+ omb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +315,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Queens University Royals @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nQueens University Royals @ Lip
- scomb Bisons\nAllen Arena\, Nashville\, TN
+ scomb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +330,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Lipscomb Bisons @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Florida Gulf
-  Coast Eagles\nAlico Arena\, Fort Myers\, FL
+  Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +345,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Lipscomb Bisons @ Stetson Hatters
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Stetson Hatt
- ers\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ ers\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroadcast
+ : Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +360,13 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:North Florida Ospreys @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Florida Ospreys @ Lipsco
- mb Bisons\nAllen Arena\, Nashville\, TN
+ mb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: Broadcast not announce
+ d
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +375,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Jacksonville Dolphins @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJacksonville Dolphins @ Lipsco
- mb Bisons\nAllen Arena\, Nashville\, TN
+ mb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: Broadcast not announce
+ d
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +390,12 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:Bellarmine Knights @ Lipscomb Bisons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBellarmine Knights @ Lipscomb 
- Bisons\nAllen Arena\, Nashville\, TN
+ Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: Broadcast not announced
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +404,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Lipscomb Bisons @ Queens University Royals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Queens Unive
- rsity Royals\nCurry Arena\, Charlotte\, NC
+ rsity Royals\nCurry Arena\, Charlotte\, NC\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Curry Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +419,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Lipscomb Bisons @ West Florida Argonauts
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ West Florida
-  Argonauts\nUWF Field House\, Pensacola\, FL
+  Argonauts\nUWF Field House\, Pensacola\, FL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:UWF Field House\, Pensacola\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

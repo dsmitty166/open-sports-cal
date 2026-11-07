@@ -12,12 +12,13 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:East Carolina Pirates @ Alabama Crimson Tide
 DESCRIPTION:NCAA FBS Football 2026\nEast Carolina Pirates @ Alabama Crimson
-  Tide\nBryant-Denny Stadium\, Tuscaloosa\, AL
+  Tide\nBryant-Denny Stadium\, Tuscaloosa\, AL\nBroadcast: ABC
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856674@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T193000Z
 DTEND:20260912T223000Z
 SUMMARY:Alabama Crimson Tide @ Kentucky Wildcats
 DESCRIPTION:NCAA FBS Football 2026\nAlabama Crimson Tide @ Kentucky Wildcat
- s\nKroger Field\, Lexington\, KY
+ s\nKroger Field\, Lexington\, KY\nBroadcast: ABC / Disney+ (streaming)
 LOCATION:Kroger Field\, Lexington\, KY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856685@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T211500Z
 DTEND:20260920T001500Z
 SUMMARY:Florida State Seminoles @ Alabama Crimson Tide
 DESCRIPTION:NCAA FBS Football 2026\nFlorida State Seminoles @ Alabama Crims
- on Tide\nBryant-Denny Stadium\, Tuscaloosa\, AL
+ on Tide\nBryant-Denny Stadium\, Tuscaloosa\, AL\nBroadcast: ESPN2
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856696@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T231000Z
 DTEND:20260927T021000Z
 SUMMARY:South Carolina Gamecocks @ Alabama Crimson Tide
 DESCRIPTION:NCAA FBS Football 2026\nSouth Carolina Gamecocks @ Alabama Crim
- son Tide\nBryant-Denny Stadium\, Tuscaloosa\, AL
+ son Tide\nBryant-Denny Stadium\, Tuscaloosa\, AL\nBroadcast: ESPN
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856707@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Alabama Crimson Tide @ Mississippi State Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nAlabama Crimson Tide @ Mississippi Stat
- e Bulldogs\nDavis Wade Stadium\, Starkville\, MS
+ e Bulldogs\nDavis Wade Stadium\, Starkville\, MS\nBroadcast: ABC
 LOCATION:Davis Wade Stadium\, Starkville\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856712@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T233000Z
 DTEND:20261011T023000Z
 SUMMARY:Georgia Bulldogs @ Alabama Crimson Tide
 DESCRIPTION:NCAA FBS Football 2026\nGeorgia Bulldogs @ Alabama Crimson Tide
- \nBryant-Denny Stadium\, Tuscaloosa\, AL
+ \nBryant-Denny Stadium\, Tuscaloosa\, AL\nBroadcast: ABC
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856723@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261017T193000Z
 DTEND:20261017T223000Z
 SUMMARY:Alabama Crimson Tide @ Tennessee Volunteers
 DESCRIPTION:NCAA FBS Football 2026\nAlabama Crimson Tide @ Tennessee Volunt
- eers\nNeyland Stadium\, Knoxville\, TN
+ eers\nNeyland Stadium\, Knoxville\, TN\nBroadcast: ABC
 LOCATION:Neyland Stadium\, Knoxville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856727@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:Texas A&M Aggies @ Alabama Crimson Tide
 DESCRIPTION:NCAA FBS Football 2026\nTexas A&M Aggies @ Alabama Crimson Tide
- \nBryant-Denny Stadium\, Tuscaloosa\, AL
+ \nBryant-Denny Stadium\, Tuscaloosa\, AL\nBroadcast: ABC
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856740@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261107T203000Z
 DTEND:20261107T233000Z
 SUMMARY:Alabama Crimson Tide @ LSU Tigers
 DESCRIPTION:NCAA FBS Football 2026\nAlabama Crimson Tide @ LSU Tigers\nTige
- r Stadium (LA)\, Baton Rouge\, LA
+ r Stadium (LA)\, Baton Rouge\, LA\nBroadcast: ABC / Disney+ (streaming)
 LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856889@open-sports-cal
@@ -129,12 +138,13 @@ DTSTART:20261114T174500Z
 DTEND:20261114T204500Z
 SUMMARY:Alabama Crimson Tide @ Vanderbilt Commodores
 DESCRIPTION:NCAA FBS Football 2026\nAlabama Crimson Tide @ Vanderbilt Commo
- dores\nFirstBank Stadium\, Nashville\, TN
+ dores\nFirstBank Stadium\, Nashville\, TN\nBroadcast: SEC Network
 LOCATION:FirstBank Stadium\, Nashville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856746@open-sports-cal
@@ -142,12 +152,13 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Chattanooga Mocs @ Alabama Crimson Tide
 DESCRIPTION:NCAA FBS Football 2026\nChattanooga Mocs @ Alabama Crimson Tide
- \nBryant-Denny Stadium\, Tuscaloosa\, AL
+ \nBryant-Denny Stadium\, Tuscaloosa\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856757@open-sports-cal
@@ -155,10 +166,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Auburn Tigers @ Alabama Crimson Tide
 DESCRIPTION:NCAA FBS Football 2026\nAuburn Tigers @ Alabama Crimson Tide\nB
- ryant-Denny Stadium\, Tuscaloosa\, AL\nStart time TBD
+ ryant-Denny Stadium\, Tuscaloosa\, AL\nStart time TBD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

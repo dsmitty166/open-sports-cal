@@ -12,13 +12,14 @@ DTSTART:20261102T190000Z
 DTEND:20261102T220000Z
 SUMMARY:Saint Martin's Saints @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Martin's Saints @ Idaho 
- Vandals\nICCU Arena\, Moscow\, ID
+ Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926958@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261107T020000Z
 DTEND:20261107T050000Z
 SUMMARY:Idaho Vandals @ Gonzaga Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Gonzaga Bulldo
- gs\nMcCarthey Athletic Center\, Spokane\, WA
+ gs\nMcCarthey Athletic Center\, Spokane\, WA\nBroadcast: YouTube (streamin
+ g)
 LOCATION:McCarthey Athletic Center\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401903555@open-sports-cal
@@ -40,12 +43,13 @@ DTSTART:20261109T190000Z
 DTEND:20261109T220000Z
 SUMMARY:Idaho Vandals @ Washington State Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Washington Sta
- te Cougars\nBeasley Coliseum\, Pullman\, WA
+ te Cougars\nBeasley Coliseum\, Pullman\, WA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Beasley Coliseum\, Pullman\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -54,13 +58,14 @@ DTSTART:20261115T220000Z
 DTEND:20261116T010000Z
 SUMMARY:Walla Walla Wolves @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWalla Walla Wolves @ Idaho Van
- dals\nICCU Arena\, Moscow\, ID
+ dals\nICCU Arena\, Moscow\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920269@open-sports-cal
@@ -68,12 +73,12 @@ DTSTART:20261121T020000Z
 DTEND:20261121T050000Z
 SUMMARY:Idaho Vandals @ Nevada Wolf Pack
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Nevada Wolf Pa
- ck\nLawlor Events Center\, Reno\, NV
+ ck\nLawlor Events Center\, Reno\, NV\nBroadcast: Broadcast not announced
 LOCATION:Lawlor Events Center\, Reno\, NV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -82,13 +87,14 @@ DTSTART:20261122T220000Z
 DTEND:20261123T010000Z
 SUMMARY:Northwest Indian Eagles @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwest Indian Eagles @ Idah
- o Vandals\nICCU Arena\, Moscow\, ID
+ o Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921580@open-sports-cal
@@ -96,13 +102,15 @@ DTSTART:20261127T200000Z
 DTEND:20261127T230000Z
 SUMMARY:Idaho Vandals @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ California Bap
- tist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
+ tist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\, CA\
+ nBroadcast: ESPN+ (streaming)
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921549@open-sports-cal
@@ -111,12 +119,12 @@ DTEND:20261129T013000Z
 SUMMARY:Idaho Vandals @ Cal State Northridge Matadors
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Cal State Nort
  hridge Matadors\nDale E. and Sarah Ann Fowler Events Center\, Riverside\, 
- CA\nNeutral site
+ CA\nNeutral site\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -125,13 +133,14 @@ DTSTART:20261204T020000Z
 DTEND:20261204T050000Z
 SUMMARY:Northern Colorado Bears @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Colorado Bears @ Idah
- o Vandals\nICCU Arena\, Moscow\, ID
+ o Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914335@open-sports-cal
@@ -139,13 +148,14 @@ DTSTART:20261205T220000Z
 DTEND:20261206T010000Z
 SUMMARY:Portland State Vikings @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPortland State Vikings @ Idaho
-  Vandals\nICCU Arena\, Moscow\, ID
+  Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926981@open-sports-cal
@@ -153,13 +163,15 @@ DTSTART:20261210T020000Z
 DTEND:20261210T050000Z
 SUMMARY:Idaho Vandals @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Long Beach Sta
- te Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+ te Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920504@open-sports-cal
@@ -167,12 +179,12 @@ DTSTART:20261212T200000Z
 DTEND:20261212T230000Z
 SUMMARY:Idaho Vandals @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Wyoming Cowgir
- ls\nArena-Auditorium\, Laramie\, WY
+ ls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -181,13 +193,14 @@ DTSTART:20261217T010000Z
 DTEND:20261217T040000Z
 SUMMARY:Utah State Aggies @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah State Aggies @ Idaho Vand
- als\nICCU Arena\, Moscow\, ID
+ als\nICCU Arena\, Moscow\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917765@open-sports-cal
@@ -195,13 +208,14 @@ DTSTART:20261221T220000Z
 DTEND:20261222T010000Z
 SUMMARY:Seattle U Redhawks @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSeattle U Redhawks @ Idaho Van
- dals\nICCU Arena\, Moscow\, ID
+ dals\nICCU Arena\, Moscow\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914340@open-sports-cal
@@ -209,13 +223,14 @@ DTSTART:20261231T210000Z
 DTEND:20270101T000000Z
 SUMMARY:Idaho Vandals @ Utah Tech Trailblazers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Utah Tech Trai
- lblazers\nBurns Arena\, St. George\, UT
+ lblazers\nBurns Arena\, St. George\, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:Burns Arena\, St. George\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914365@open-sports-cal
@@ -223,12 +238,13 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Idaho Vandals @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Southern Utah 
- Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroadcast: Bro
+ adcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -237,12 +253,13 @@ DTSTART:20270109T210000Z
 DTEND:20270110T000000Z
 SUMMARY:Idaho Vandals @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Northern Arizo
- na Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ na Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadcast: Br
+ oadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -251,12 +268,12 @@ DTSTART:20270115T020000Z
 DTEND:20270115T050000Z
 SUMMARY:Montana Lady Griz @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana Lady Griz @ Idaho Vand
- als\nICCU Arena\, Moscow\, ID
+ als\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announced
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -265,12 +282,12 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Montana State Bobcats @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Idaho 
- Vandals\nICCU Arena\, Moscow\, ID
+ Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announced
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -279,12 +296,12 @@ DTSTART:20270119T020000Z
 DTEND:20270119T050000Z
 SUMMARY:Weber State Wildcats @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWeber State Wildcats @ Idaho V
- andals\nICCU Arena\, Moscow\, ID
+ andals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announced
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -293,12 +310,12 @@ DTSTART:20270123T220000Z
 DTEND:20270124T010000Z
 SUMMARY:Idaho Vandals @ Eastern Washington Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Eastern Washin
- gton Eagles\nReese Court\, Cheney\, WA
+ gton Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast not announced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +324,12 @@ DTSTART:20270126T020000Z
 DTEND:20270126T050000Z
 SUMMARY:Idaho Vandals @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Idaho State Be
- ngals\nReed Gym\, Pocatello\, ID
+ ngals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not announced
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -321,12 +338,13 @@ DTSTART:20270129T030000Z
 DTEND:20270129T060000Z
 SUMMARY:Idaho Vandals @ Portland State Vikings
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Portland State
-  Vikings\nViking Pavilion\, Portland\, OR
+  Vikings\nViking Pavilion\, Portland\, OR\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Viking Pavilion\, Portland\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -335,12 +353,13 @@ DTSTART:20270130T210000Z
 DTEND:20270131T000000Z
 SUMMARY:Idaho Vandals @ Northern Colorado Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Northern Color
- ado Bears\nBank of Colorado Arena\, Greeley\, CO
+ ado Bears\nBank of Colorado Arena\, Greeley\, CO\nBroadcast: Broadcast not
+  announced
 LOCATION:Bank of Colorado Arena\, Greeley\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -349,12 +368,12 @@ DTSTART:20270205T020000Z
 DTEND:20270205T050000Z
 SUMMARY:Southern Utah Thunderbirds @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ I
- daho Vandals\nICCU Arena\, Moscow\, ID
+ daho Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announced
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +382,12 @@ DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:Utah Tech Trailblazers @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah Tech Trailblazers @ Idaho
-  Vandals\nICCU Arena\, Moscow\, ID
+  Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announced
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +396,13 @@ DTSTART:20270212T020000Z
 DTEND:20270212T050000Z
 SUMMARY:Idaho Vandals @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Montana State 
- Bobcats\nWorthington Arena\, Bozeman\, MT
+ Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +411,12 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Idaho Vandals @ Montana Lady Griz
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Montana Lady G
- riz\nDahlberg Arena\, Missoula\, MT
+ riz\nDahlberg Arena\, Missoula\, MT\nBroadcast: Broadcast not announced
 LOCATION:Dahlberg Arena\, Missoula\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +425,13 @@ DTSTART:20270219T020000Z
 DTEND:20270219T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Idaho Vandals\nICCU Arena\, Moscow\, ID
+  Idaho Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announc
+ ed
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +440,12 @@ DTSTART:20270223T010000Z
 DTEND:20270223T040000Z
 SUMMARY:Idaho Vandals @ Weber State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Weber State Wi
- ldcats\nDee Events Center\, Ogden\, UT
+ ldcats\nDee Events Center\, Ogden\, UT\nBroadcast: Broadcast not announced
 LOCATION:Dee Events Center\, Ogden\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -433,12 +454,12 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:Eastern Washington Eagles @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Washington Eagles @ Id
- aho Vandals\nICCU Arena\, Moscow\, ID
+ aho Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announced
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -447,12 +468,12 @@ DTSTART:20270302T020000Z
 DTEND:20270302T050000Z
 SUMMARY:Idaho State Bengals @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Idaho Va
- ndals\nICCU Arena\, Moscow\, ID
+ ndals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announced
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

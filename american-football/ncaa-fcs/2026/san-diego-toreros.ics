@@ -12,12 +12,13 @@ DTSTART:20260906T020000Z
 DTEND:20260906T050000Z
 SUMMARY:UC Davis Aggies @ San Diego Toreros
 DESCRIPTION:NCAA FCS Football 2026\nUC Davis Aggies @ San Diego Toreros\nTo
- rero Stadium\, San Diego\, CA
+ rero Stadium\, San Diego\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Torero Stadium\, San Diego\, CA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868102@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T220000Z
 DTEND:20260913T010000Z
 SUMMARY:San Diego Toreros @ Idaho State Bengals
 DESCRIPTION:NCAA FCS Football 2026\nSan Diego Toreros @ Idaho State Bengals
- \nICCU Dome\, Pocatello\, ID
+ \nICCU Dome\, Pocatello\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:ICCU Dome\, Pocatello\, ID
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868075@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20260920T000000Z
 DTEND:20260920T030000Z
 SUMMARY:San Diego Toreros @ Cal Poly Mustangs
 DESCRIPTION:NCAA FCS Football 2026\nSan Diego Toreros @ Cal Poly Mustangs\n
- Mustang Memorial Field at Spanos Stadium\, San Luis Obispo\, CA
+ Mustang Memorial Field at Spanos Stadium\, San Luis Obispo\, CA\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Mustang Memorial Field at Spanos Stadium\, San Luis Obispo\, CA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868281@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20260926T180000Z
 DTEND:20260926T210000Z
 SUMMARY:San Diego Toreros @ St. Thomas Tommies
 DESCRIPTION:NCAA FCS Football 2026\nSan Diego Toreros @ St. Thomas Tommies\
- nO'Shaughnessy Stadium\, Saint Paul\, MN
+ nO'Shaughnessy Stadium\, Saint Paul\, MN\nBroadcast: Midco Sports Plus (st
+ reaming)
 LOCATION:O'Shaughnessy Stadium\, Saint Paul\, MN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Midco Sports Plus (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868220@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261003T200000Z
 DTEND:20261003T230000Z
 SUMMARY:Davidson Wildcats @ San Diego Toreros
 DESCRIPTION:NCAA FCS Football 2026\nDavidson Wildcats @ San Diego Toreros\n
- Torero Stadium\, San Diego\, CA
+ Torero Stadium\, San Diego\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Torero Stadium\, San Diego\, CA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868212@open-sports-cal
@@ -77,12 +84,14 @@ DTSTART:20261010T170000Z
 DTEND:20261010T200000Z
 SUMMARY:San Diego Toreros @ Butler Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nSan Diego Toreros @ Butler Bulldogs\nBu
- d and Jackie Sellick Bowl\, Indianapolis\, IN
+ d and Jackie Sellick Bowl\, Indianapolis\, IN\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Bud and Jackie Sellick Bowl\, Indianapolis\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868289@open-sports-cal
@@ -90,12 +99,13 @@ DTSTART:20261017T200000Z
 DTEND:20261017T230000Z
 SUMMARY:Valparaiso Beacons @ San Diego Toreros
 DESCRIPTION:NCAA FCS Football 2026\nValparaiso Beacons @ San Diego Toreros\
- nTorero Stadium\, San Diego\, CA
+ nTorero Stadium\, San Diego\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Torero Stadium\, San Diego\, CA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868230@open-sports-cal
@@ -103,12 +113,13 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:San Diego Toreros @ Dayton Flyers
 DESCRIPTION:NCAA FCS Football 2026\nSan Diego Toreros @ Dayton Flyers\nWelc
- ome Stadium\, Dayton\, OH
+ ome Stadium\, Dayton\, OH\nBroadcast: FloSports (streaming)
 LOCATION:Welcome Stadium\, Dayton\, OH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868267@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261031T200000Z
 DTEND:20261031T230000Z
 SUMMARY:Marist Red Foxes @ San Diego Toreros
 DESCRIPTION:NCAA FCS Football 2026\nMarist Red Foxes @ San Diego Toreros\nT
- orero Stadium\, San Diego\, CA
+ orero Stadium\, San Diego\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Torero Stadium\, San Diego\, CA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868259@open-sports-cal
@@ -129,12 +141,13 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:San Diego Toreros @ Drake Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nSan Diego Toreros @ Drake Bulldogs\nDra
- ke Stadium (IA)\, Des Moines\, IA
+ ke Stadium (IA)\, Des Moines\, IA\nBroadcast: ESPN+ (streaming)
 LOCATION:Drake Stadium (IA)\, Des Moines\, IA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868287@open-sports-cal
@@ -142,11 +155,12 @@ DTSTART:20261122T010000Z
 DTEND:20261122T040000Z
 SUMMARY:Stetson Hatters @ San Diego Toreros
 DESCRIPTION:NCAA FCS Football 2026\nStetson Hatters @ San Diego Toreros\nTo
- rero Stadium\, San Diego\, CA
+ rero Stadium\, San Diego\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Torero Stadium\, San Diego\, CA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

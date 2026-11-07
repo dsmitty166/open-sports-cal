@@ -12,12 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:American University Eagles @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAmerican University Eagles @ Cin
- cinnati Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ cinnati Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921747@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Green Bay Phoenix @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGreen Bay Phoenix @ Cincinnati B
- earcats\nFifth Third Arena\, Cincinnati\, OH
+ earcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916305@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Minnesota Golden Gophers @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMinnesota Golden Gophers @ Cinci
- nnati Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ nnati Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911188@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20261115T003000Z
 DTEND:20261115T033000Z
 SUMMARY:Cincinnati Bearcats @ Dayton Flyers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ Dayton Fly
- ers\nUD Arena\, Dayton\, OH
+ ers\nUD Arena\, Dayton\, OH\nBroadcast: ESPN+ (streaming) / WHIO-TV
 LOCATION:UD Arena\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / WHIO-TV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920751@open-sports-cal
@@ -64,12 +70,14 @@ DTSTART:20261119T003000Z
 DTEND:20261119T033000Z
 SUMMARY:Youngstown State Penguins @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYoungstown State Penguins @ Cinc
- innati Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ innati Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921748@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20261122T190000Z
 DTEND:20261122T220000Z
 SUMMARY:UMass Lowell River Hawks @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Cinci
- nnati Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ nnati Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929281@open-sports-cal
@@ -90,12 +100,14 @@ DTSTART:20261126T160000Z
 DTEND:20261126T190000Z
 SUMMARY:Georgia Bulldogs @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Bulldogs @ Cincinnati Be
- arcats\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+ arcats\nState Farm Field House\, Kissimmee\, FL\nNeutral site\nBroadcast: 
+ ESPN
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929283@open-sports-cal
@@ -103,12 +115,14 @@ DTSTART:20261127T213000Z
 DTEND:20261128T003000Z
 SUMMARY:Cincinnati Bearcats @ Boston College Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ Boston Col
- lege Eagles\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+ lege Eagles\nState Farm Field House\, Kissimmee\, FL\nNeutral site\nBroadc
+ ast: ACC Network
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921749@open-sports-cal
@@ -116,12 +130,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Monmouth Hawks @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMonmouth Hawks @ Cincinnati Bear
- cats\nFifth Third Arena\, Cincinnati\, OH
+ cats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909547@open-sports-cal
@@ -129,12 +144,13 @@ DTSTART:20261206T010000Z
 DTEND:20261206T040000Z
 SUMMARY:Xavier Musketeers @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Cincinnati B
- earcats\nFifth Third Arena\, Cincinnati\, OH
+ earcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN2
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921750@open-sports-cal
@@ -142,12 +158,13 @@ DTSTART:20261215T000000Z
 DTEND:20261215T030000Z
 SUMMARY:Stetson Hatters @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Cincinnati Bea
- rcats\nFifth Third Arena\, Cincinnati\, OH
+ rcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918081@open-sports-cal
@@ -155,12 +172,14 @@ DTSTART:20261220T020000Z
 DTEND:20261220T050000Z
 SUMMARY:Clemson Tigers @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nClemson Tigers @ Cincinnati Bear
- cats\nHeritage Bank Center\, Cincinnati\, OH\nNeutral site
+ cats\nHeritage Bank Center\, Cincinnati\, OH\nNeutral site\nBroadcast: ESP
+ NU
 LOCATION:Heritage Bank Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921751@open-sports-cal
@@ -168,12 +187,13 @@ DTSTART:20261223T000000Z
 DTEND:20261223T030000Z
 SUMMARY:Marist Red Foxes @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarist Red Foxes @ Cincinnati Be
- arcats\nFifth Third Arena\, Cincinnati\, OH
+ arcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921752@open-sports-cal
@@ -181,12 +201,14 @@ DTSTART:20261229T220000Z
 DTEND:20261230T010000Z
 SUMMARY:Bethune-Cookman Wildcats @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Cinci
- nnati Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ nnati Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922774@open-sports-cal
@@ -194,12 +216,13 @@ DTSTART:20270102T170000Z
 DTEND:20270102T200000Z
 SUMMARY:Texas Tech Red Raiders @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Tech Red Raiders @ Cincinn
- ati Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ ati Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: Fox
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922783@open-sports-cal
@@ -207,12 +230,13 @@ DTSTART:20270107T033000Z
 DTEND:20270107T063000Z
 SUMMARY:Cincinnati Bearcats @ BYU Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ BYU Cougar
- s\nMarriott Center\, Provo\, UT
+ s\nMarriott Center\, Provo\, UT\nBroadcast: FS1
 LOCATION:Marriott Center\, Provo\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922787@open-sports-cal
@@ -220,11 +244,12 @@ DTSTART:20270110T000000Z
 DTEND:20270110T030000Z
 SUMMARY:Cincinnati Bearcats @ Utah Utes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ Utah Utes\
- nJon M. Huntsman Center\, Salt Lake City\, UT
+ nJon M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -233,12 +258,13 @@ DTSTART:20270112T233000Z
 DTEND:20270113T023000Z
 SUMMARY:TCU Horned Frogs @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTCU Horned Frogs @ Cincinnati Be
- arcats\nFifth Third Arena\, Cincinnati\, OH
+ arcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: CBSSN
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922803@open-sports-cal
@@ -246,12 +272,14 @@ DTSTART:20270116T170000Z
 DTEND:20270116T200000Z
 SUMMARY:Cincinnati Bearcats @ West Virginia Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ West Virgi
- nia Mountaineers\nHope Coliseum\, Morgantown\, WV
+ nia Mountaineers\nHope Coliseum\, Morgantown\, WV\nBroadcast: Peacock (str
+ eaming)
 LOCATION:Hope Coliseum\, Morgantown\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922811@open-sports-cal
@@ -259,12 +287,13 @@ DTSTART:20270120T013000Z
 DTEND:20270120T043000Z
 SUMMARY:Kansas Jayhawks @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Cincinnati Bea
- rcats\nFifth Third Arena\, Cincinnati\, OH
+ rcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: FS1
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922817@open-sports-cal
@@ -272,11 +301,12 @@ DTSTART:20270123T200000Z
 DTEND:20270123T230000Z
 SUMMARY:Cincinnati Bearcats @ Colorado Buffaloes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ Colorado B
- uffaloes\nCU Events Center\, Boulder\, CO
+ uffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not announ
+ ced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -285,12 +315,14 @@ DTSTART:20270131T000000Z
 DTEND:20270131T030000Z
 SUMMARY:Arizona State Sun Devils @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArizona State Sun Devils @ Cinci
- nnati Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ nnati Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: Peacock (s
+ treaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922700@open-sports-cal
@@ -298,12 +330,14 @@ DTSTART:20270203T000000Z
 DTEND:20270203T030000Z
 SUMMARY:Arizona Wildcats @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArizona Wildcats @ Cincinnati Be
- arcats\nFifth Third Arena\, Cincinnati\, OH
+ arcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: Peacock (streaming
+ )
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922708@open-sports-cal
@@ -311,12 +345,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Cincinnati Bearcats @ Oklahoma State Cowboys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ Oklahoma S
- tate Cowboys\nGallagher-Iba Arena\, Stillwater\, OK
+ tate Cowboys\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: FS1
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922715@open-sports-cal
@@ -324,12 +359,13 @@ DTSTART:20270210T020000Z
 DTEND:20270210T050000Z
 SUMMARY:Cincinnati Bearcats @ Baylor Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ Baylor Bea
- rs\nFoster Pavilion\, Waco\, TX
+ rs\nFoster Pavilion\, Waco\, TX\nBroadcast: TNT
 LOCATION:Foster Pavilion\, Waco\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922721@open-sports-cal
@@ -337,11 +373,11 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:UCF Knights @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUCF Knights @ Cincinnati Bearcat
- s\nFifth Third Arena\, Cincinnati\, OH
+ s\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: Broadcast not announced
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +386,13 @@ DTSTART:20270217T010000Z
 DTEND:20270217T040000Z
 SUMMARY:Cincinnati Bearcats @ Iowa State Cyclones
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ Iowa State
-  Cyclones\nHilton Coliseum\, Ames\, IA
+  Cyclones\nHilton Coliseum\, Ames\, IA\nBroadcast: Peacock (streaming)
 LOCATION:Hilton Coliseum\, Ames\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922737@open-sports-cal
@@ -363,12 +400,13 @@ DTSTART:20270220T233000Z
 DTEND:20270221T023000Z
 SUMMARY:Kansas State Wildcats @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas State Wildcats @ Cincinna
- ti Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ ti Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: FS1
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922747@open-sports-cal
@@ -376,12 +414,13 @@ DTSTART:20270224T233000Z
 DTEND:20270225T023000Z
 SUMMARY:West Virginia Mountaineers @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Virginia Mountaineers @ Cin
- cinnati Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ cinnati Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: FS1
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922752@open-sports-cal
@@ -389,11 +428,12 @@ DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Cincinnati Bearcats @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ Texas Tech
-  Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nStart time TBD
+  Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nStart time TBD\nBr
+ oadcast: Broadcast not announced
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922756@open-sports-cal
@@ -401,12 +441,13 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Houston Cougars @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHouston Cougars @ Cincinnati Bea
- rcats\nFifth Third Arena\, Cincinnati\, OH
+ rcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: Peacock (streaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922765@open-sports-cal
@@ -414,11 +455,12 @@ DTSTART:20270306T220000Z
 DTEND:20270307T010000Z
 SUMMARY:Cincinnati Bearcats @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCincinnati Bearcats @ Kansas Sta
- te Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ te Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: Broadcast not 
+ announced
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

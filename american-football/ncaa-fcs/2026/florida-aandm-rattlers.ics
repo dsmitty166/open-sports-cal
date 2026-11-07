@@ -12,12 +12,14 @@ DTSTART:20260829T230000Z
 DTEND:20260830T020000Z
 SUMMARY:Albany State Golden Rams @ Florida A&M Rattlers
 DESCRIPTION:NCAA FCS Football 2026\nAlbany State Golden Rams @ Florida A&M 
- Rattlers\nBragg Memorial Stadium\, Tallahassee\, FL
+ Rattlers\nBragg Memorial Stadium\, Tallahassee\, FL\nBroadcast: SWAC TV (s
+ treaming)
 LOCATION:Bragg Memorial Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867939@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20260906T190000Z
 DTEND:20260906T220000Z
 SUMMARY:South Carolina State Bulldogs @ Florida A&M Rattlers
 DESCRIPTION:NCAA FCS Football 2026\nSouth Carolina State Bulldogs @ Florida
-  A&M Rattlers\nHard Rock Stadium\, Miami Gardens\, FL\nNeutral site
+  A&M Rattlers\nHard Rock Stadium\, Miami Gardens\, FL\nNeutral site\nBroad
+ cast: ESPN2
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401858213@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20260911T000000Z
 DTEND:20260911T030000Z
 SUMMARY:Florida A&M Rattlers @ Miami Hurricanes
 DESCRIPTION:NCAA FCS Football 2026\nFlorida A&M Rattlers @ Miami Hurricanes
- \nHard Rock Stadium\, Miami Gardens\, FL
+ \nHard Rock Stadium\, Miami Gardens\, FL\nBroadcast: ACC Network
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868196@open-sports-cal
@@ -51,11 +56,12 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Tennessee State Tigers @ Florida A&M Rattlers
 DESCRIPTION:NCAA FCS Football 2026\nTennessee State Tigers @ Florida A&M Ra
- ttlers\nBragg Memorial Stadium\, Tallahassee\, FL
+ ttlers\nBragg Memorial Stadium\, Tallahassee\, FL\nBroadcast: Broadcast no
+ t announced
 LOCATION:Bragg Memorial Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -64,11 +70,12 @@ DTSTART:20260926T230000Z
 DTEND:20260927T020000Z
 SUMMARY:Alabama A&M Bulldogs @ Florida A&M Rattlers
 DESCRIPTION:NCAA FCS Football 2026\nAlabama A&M Bulldogs @ Florida A&M Ratt
- lers\nBragg Memorial Stadium\, Tallahassee\, FL
+ lers\nBragg Memorial Stadium\, Tallahassee\, FL\nBroadcast: Broadcast not 
+ announced
 LOCATION:Bragg Memorial Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +84,12 @@ DTSTART:20261009T160000Z
 DTEND:20261009T190000Z
 SUMMARY:Florida A&M Rattlers @ Alabama State Hornets
 DESCRIPTION:NCAA FCS Football 2026\nFlorida A&M Rattlers @ Alabama State Ho
- rnets\nASU Football Stadium\, Montgomery\, AL
+ rnets\nASU Football Stadium\, Montgomery\, AL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:ASU Football Stadium\, Montgomery\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +98,14 @@ DTSTART:20261017T190000Z
 DTEND:20261017T220000Z
 SUMMARY:Florida A&M Rattlers @ Jackson State Tigers
 DESCRIPTION:NCAA FCS Football 2026\nFlorida A&M Rattlers @ Jackson State Ti
- gers\nMississippi Veterans Memorial Stadium\, Jackson\, MS
+ gers\nMississippi Veterans Memorial Stadium\, Jackson\, MS\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Mississippi Veterans Memorial Stadium\, Jackson\, MS
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868937@open-sports-cal
@@ -103,11 +113,12 @@ DTSTART:20261024T190000Z
 DTEND:20261024T220000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Florida A&M Rattlers
 DESCRIPTION:NCAA FCS Football 2026\nArkansas-Pine Bluff Golden Lions @ Flor
- ida A&M Rattlers\nBragg Memorial Stadium\, Tallahassee\, FL
+ ida A&M Rattlers\nBragg Memorial Stadium\, Tallahassee\, FL\nBroadcast: Br
+ oadcast not announced
 LOCATION:Bragg Memorial Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,11 +127,12 @@ DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 SUMMARY:Southern Jaguars @ Florida A&M Rattlers
 DESCRIPTION:NCAA FCS Football 2026\nSouthern Jaguars @ Florida A&M Rattlers
- \nBragg Memorial Stadium\, Tallahassee\, FL
+ \nBragg Memorial Stadium\, Tallahassee\, FL\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Bragg Memorial Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +141,13 @@ DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
 SUMMARY:Florida A&M Rattlers @ Alcorn State Braves
 DESCRIPTION:NCAA FCS Football 2026\nFlorida A&M Rattlers @ Alcorn State Bra
- ves\nSpinks-Casem Stadium\, Lorman\, MS
+ ves\nSpinks-Casem Stadium\, Lorman\, MS\nBroadcast: SWAC TV (streaming)
 LOCATION:Spinks-Casem Stadium\, Lorman\, MS
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868951@open-sports-cal
@@ -142,11 +155,12 @@ DTSTART:20261114T200000Z
 DTEND:20261114T230000Z
 SUMMARY:Mississippi Valley State Delta Devils @ Florida A&M Rattlers
 DESCRIPTION:NCAA FCS Football 2026\nMississippi Valley State Delta Devils @
-  Florida A&M Rattlers\nBragg Memorial Stadium\, Tallahassee\, FL
+  Florida A&M Rattlers\nBragg Memorial Stadium\, Tallahassee\, FL\nBroadcas
+ t: Broadcast not announced
 LOCATION:Bragg Memorial Stadium\, Tallahassee\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +169,13 @@ DTSTART:20261121T203000Z
 DTEND:20261121T233000Z
 SUMMARY:Florida A&M Rattlers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nFlorida A&M Rattlers @ Bethune-Cookman 
- Wildcats\nCamping World Stadium\, Orlando\, FL\nNeutral site
+ Wildcats\nCamping World Stadium\, Orlando\, FL\nNeutral site\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Camping World Stadium\, Orlando\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

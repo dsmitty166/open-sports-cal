@@ -12,13 +12,14 @@ DTSTART:20261102T220000Z
 DTEND:20261103T010000Z
 SUMMARY:Furman Paladins @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFurman Paladins @ South Florid
- a Bulls\nYuengling Center\, Tampa\, FL
+ a Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913863@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261107T013000Z
 DTEND:20261107T043000Z
 SUMMARY:South Florida Bulls @ Belmont Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Belmont 
- Bruins\nCurb Event Center Arena\, Nashville\, TN
+ Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913864@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Rhode Island Rams @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ South Flor
- ida Bulls\nCurb Event Center Arena\, Nashville\, TN\nNeutral site
+ ida Bulls\nCurb Event Center Arena\, Nashville\, TN\nNeutral site\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906893@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261112T230000Z
 DTEND:20261113T020000Z
 SUMMARY:South Florida Bulls @ Florida Gators
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Florida 
- Gators\nStephen C. O'Connell Center\, Gainesville\, FL
+ Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: SECN+ (
+ streaming)
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913865@open-sports-cal
@@ -68,13 +75,15 @@ DTSTART:20261115T200000Z
 DTEND:20261115T230000Z
 SUMMARY:Florida International Panthers @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
-  @ South Florida Bulls\nYuengling Center\, Tampa\, FL
+  @ South Florida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913866@open-sports-cal
@@ -82,13 +91,14 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Binghamton Bearcats @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBinghamton Bearcats @ South Fl
- orida Bulls\nYuengling Center\, Tampa\, FL
+ orida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913867@open-sports-cal
@@ -96,13 +106,15 @@ DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Texas Tech Lady Raiders @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Tech Lady Raiders @ Sout
- h Florida Bulls\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+ h Florida Bulls\nState Farm Field House\, Kissimmee\, FL\nNeutral site\nBr
+ oadcast: ESPN+ (streaming)
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913030@open-sports-cal
@@ -111,14 +123,15 @@ DTEND:20261128T040000Z
 SUMMARY:South Florida Bulls @ Seton Hall Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Seton Ha
  ll Pirates\nElridge Blake Sports and Fitness Center\, Charlotte Amalie\, V
- irgin Islands\nNeutral site
+ irgin Islands\nNeutral site\nBroadcast: ESPN+ (streaming)
 LOCATION:Elridge Blake Sports and Fitness Center\, Charlotte Amalie\, Virgi
  n Islands
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/St_Thomas
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913868@open-sports-cal
@@ -126,13 +139,15 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ South Florida Bulls\nYuengling Center\, Tampa\, FL
+ ns @ South Florida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913869@open-sports-cal
@@ -140,13 +155,15 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:Morgan State Lady Bears @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Sout
- h Florida Bulls\nYuengling Center\, Tampa\, FL
+ h Florida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913870@open-sports-cal
@@ -154,13 +171,14 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Longwood Lancers @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ South Flori
- da Bulls\nYuengling Center\, Tampa\, FL
+ da Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913871@open-sports-cal
@@ -168,12 +186,13 @@ DTSTART:20261221T020000Z
 DTEND:20261221T050000Z
 SUMMARY:Auburn Tigers @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ South Florida 
- Bulls\nHarrah's Cherokee Center\, Asheville\, NC\nNeutral site
+ Bulls\nHarrah's Cherokee Center\, Asheville\, NC\nNeutral site\nBroadcast:
+  Broadcast not announced
 LOCATION:Harrah's Cherokee Center\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -183,12 +202,12 @@ DTEND:20261222T023000Z
 SUMMARY:Middle Tennessee Blue Raiders @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
  @ South Florida Bulls\nHarrah's Cherokee Center\, Asheville\, NC\nNeutral 
- site
+ site\nBroadcast: Broadcast not announced
 LOCATION:Harrah's Cherokee Center\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -197,13 +216,14 @@ DTSTART:20261231T003000Z
 DTEND:20261231T033000Z
 SUMMARY:South Florida Bulls @ North Texas Mean Green
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ North Te
- xas Mean Green\nThe Super Pit\, Denton\, TX
+ xas Mean Green\nThe Super Pit\, Denton\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:The Super Pit\, Denton\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927523@open-sports-cal
@@ -211,12 +231,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:UTSA Roadrunners @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUTSA Roadrunners @ South Flori
- da Bulls\nYuengling Center\, Tampa\, FL
+ da Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announce
+ d
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -225,12 +246,13 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Tulsa Golden Hurricane @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTulsa Golden Hurricane @ South
-  Florida Bulls\nYuengling Center\, Tampa\, FL
+  Florida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -239,12 +261,12 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:South Florida Bulls @ Charlotte 49ers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Charlott
- e 49ers\nHalton Arena\, Charlotte\, NC
+ e 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -253,12 +275,13 @@ DTSTART:20270117T190000Z
 DTEND:20270117T220000Z
 SUMMARY:South Florida Bulls @ East Carolina Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ East Car
- olina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC
+ olina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC\nBroadc
+ ast: Broadcast not announced
 LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -267,12 +290,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Temple Owls @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTemple Owls @ South Florida Bu
- lls\nYuengling Center\, Tampa\, FL
+ lls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -281,12 +304,13 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Florida Atlantic Owls @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ South 
- Florida Bulls\nYuengling Center\, Tampa\, FL
+ Florida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -295,12 +319,13 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:South Florida Bulls @ Wichita State Shockers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Wichita 
- State Shockers\nCharles Koch Arena\, Wichita\, KS
+ State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast no
+ t announced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -309,12 +334,13 @@ DTSTART:20270130T170000Z
 DTEND:20270130T200000Z
 SUMMARY:South Florida Bulls @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Tulsa Go
- lden Hurricane\nReynolds Center\, Tulsa\, OK
+ lden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -323,12 +349,13 @@ DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:East Carolina Pirates @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Carolina Pirates @ South 
- Florida Bulls\nYuengling Center\, Tampa\, FL\nStart time TBD
+ Florida Bulls\nYuengling Center\, Tampa\, FL\nStart time TBD\nBroadcast: B
+ roadcast not announced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927581@open-sports-cal
@@ -336,12 +363,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Tulane Green Wave @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTulane Green Wave @ South Flor
- ida Bulls\nYuengling Center\, Tampa\, FL
+ ida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +378,12 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:UAB Blazers @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUAB Blazers @ South Florida Bu
- lls\nYuengling Center\, Tampa\, FL
+ lls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -364,12 +392,13 @@ DTSTART:20270218T003000Z
 DTEND:20270218T033000Z
 SUMMARY:South Florida Bulls @ UTSA Roadrunners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ UTSA Roa
- drunners\nUTSA Convocation Center\, San Antonio\, TX
+ drunners\nUTSA Convocation Center\, San Antonio\, TX\nBroadcast: Broadcast
+  not announced
 LOCATION:UTSA Convocation Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -378,12 +407,12 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Rice Owls @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRice Owls @ South Florida Bull
- s\nYuengling Center\, Tampa\, FL
+ s\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -393,12 +422,12 @@ DTEND:20270225T030000Z
 SUMMARY:South Florida Bulls @ Florida Atlantic Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Florida 
  Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, 
- FL
+ FL\nBroadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -407,12 +436,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:South Florida Bulls @ Temple Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Temple O
- wls\nLiacouras Center\, Philadelphia\, PA
+ wls\nLiacouras Center\, Philadelphia\, PA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Liacouras Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -421,12 +451,12 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Memphis Tigers @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMemphis Tigers @ South Florida
-  Bulls\nYuengling Center\, Tampa\, FL
+  Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -435,12 +465,12 @@ DTSTART:20270306T200000Z
 DTEND:20270306T230000Z
 SUMMARY:South Florida Bulls @ Rice Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Florida Bulls @ Rice Owl
- s\nTudor Fieldhouse\, Houston\, TX
+ s\nTudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

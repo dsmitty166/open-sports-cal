@@ -12,12 +12,13 @@ DTSTART:20260903T230000Z
 DTEND:20260904T020000Z
 SUMMARY:Bethune-Cookman Wildcats @ UCF Knights
 DESCRIPTION:NCAA FBS Football 2026\nBethune-Cookman Wildcats @ UCF Knights\
- nAcrisure Bounce House\, Orlando\, FL
+ nAcrisure Bounce House\, Orlando\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Acrisure Bounce House\, Orlando\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856790@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T193000Z
 DTEND:20260912T223000Z
 SUMMARY:UCF Knights @ Pittsburgh Panthers
 DESCRIPTION:NCAA FBS Football 2026\nUCF Knights @ Pittsburgh Panthers\nAcri
- sure Stadium\, Pittsburgh\, PA
+ sure Stadium\, Pittsburgh\, PA\nBroadcast: ESPN2
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856800@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Georgia State Panthers @ UCF Knights
 DESCRIPTION:NCAA FBS Football 2026\nGeorgia State Panthers @ UCF Knights\nA
- crisure Bounce House\, Orlando\, FL
+ crisure Bounce House\, Orlando\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Acrisure Bounce House\, Orlando\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856815@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:TCU Horned Frogs @ UCF Knights
 DESCRIPTION:NCAA FBS Football 2026\nTCU Horned Frogs @ UCF Knights\nAcrisur
- e Bounce House\, Orlando\, FL
+ e Bounce House\, Orlando\, FL\nBroadcast: FS1
 LOCATION:Acrisure Bounce House\, Orlando\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856819@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:UCF Knights @ Houston Cougars
 DESCRIPTION:NCAA FBS Football 2026\nUCF Knights @ Houston Cougars\nTDECU St
- adium\, Houston\, TX
+ adium\, Houston\, TX\nBroadcast: ESPN2
 LOCATION:TDECU Stadium\, Houston\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856824@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:UCF Knights @ Oklahoma State Cowboys
 DESCRIPTION:NCAA FBS Football 2026\nUCF Knights @ Oklahoma State Cowboys\nB
- oone Pickens Stadium\, Stillwater\, OK
+ oone Pickens Stadium\, Stillwater\, OK\nBroadcast: ESPN2
 LOCATION:Boone Pickens Stadium\, Stillwater\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856835@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:BYU Cougars @ UCF Knights
 DESCRIPTION:NCAA FBS Football 2026\nBYU Cougars @ UCF Knights\nAcrisure Bou
- nce House\, Orlando\, FL
+ nce House\, Orlando\, FL\nBroadcast: Fox
 LOCATION:Acrisure Bounce House\, Orlando\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856844@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261030T233000Z
 DTEND:20261031T023000Z
 SUMMARY:Baylor Bears @ UCF Knights
 DESCRIPTION:NCAA FBS Football 2026\nBaylor Bears @ UCF Knights\nAcrisure Bo
- unce House\, Orlando\, FL
+ unce House\, Orlando\, FL\nBroadcast: ESPN
 LOCATION:Acrisure Bounce House\, Orlando\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856850@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261107T204500Z
 DTEND:20261107T234500Z
 SUMMARY:UCF Knights @ Kansas Jayhawks
 DESCRIPTION:NCAA FBS Football 2026\nUCF Knights @ Kansas Jayhawks\nDavid Bo
- oth Kansas Memorial Stadium\, Lawrence\, KS
+ oth Kansas Memorial Stadium\, Lawrence\, KS\nBroadcast: ESPN2
 LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856857@open-sports-cal
@@ -129,11 +138,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Arizona State Sun Devils @ UCF Knights
 DESCRIPTION:NCAA FBS Football 2026\nArizona State Sun Devils @ UCF Knights\
- nAcrisure Bounce House\, Orlando\, FL\nStart time TBD
+ nAcrisure Bounce House\, Orlando\, FL\nStart time TBD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Acrisure Bounce House\, Orlando\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856869@open-sports-cal
@@ -141,12 +151,13 @@ DTSTART:20261120T230000Z
 DTEND:20261121T020000Z
 SUMMARY:Iowa State Cyclones @ UCF Knights
 DESCRIPTION:NCAA FBS Football 2026\nIowa State Cyclones @ UCF Knights\nAcri
- sure Bounce House\, Orlando\, FL
+ sure Bounce House\, Orlando\, FL\nBroadcast: FS1
 LOCATION:Acrisure Bounce House\, Orlando\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856875@open-sports-cal
@@ -154,10 +165,10 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:UCF Knights @ Colorado Buffaloes
 DESCRIPTION:NCAA FBS Football 2026\nUCF Knights @ Colorado Buffaloes\nFolso
- m Field\, Boulder\, CO\nStart time TBD
+ m Field\, Boulder\, CO\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Folsom Field\, Boulder\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

@@ -12,13 +12,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Indiana State Sycamores @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIndiana State Sycamores @ Nort
- hern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ hern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919666@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Northern Illinois Huskies @ Bradley Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Br
- adley Braves\nRenaissance Coliseum\, Peoria\, IL
+ adley Braves\nRenaissance Coliseum\, Peoria\, IL\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Renaissance Coliseum\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919967@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Northern Illinois Huskies @ DePaul Blue Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ De
- Paul Blue Demons\nWintrust Arena\, Chicago\, IL
+ Paul Blue Demons\nWintrust Arena\, Chicago\, IL\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919968@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:SIU Edwardsville Cougars @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSIU Edwardsville Cougars @ Nor
- thern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ thern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919969@open-sports-cal
@@ -68,12 +76,13 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Northern Illinois Huskies @ Northwestern Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ No
- rthwestern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+ rthwestern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL\nBroadcast: Broadcas
+ t not announced
 LOCATION:Welsh-Ryan Arena\, Evanston\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -82,13 +91,15 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Roosevelt Lakers @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRoosevelt Lakers @ Northern Il
- linois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ linois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920507@open-sports-cal
@@ -96,13 +107,15 @@ DTSTART:20261127T183000Z
 DTEND:20261127T213000Z
 SUMMARY:Northern Illinois Huskies @ Manhattan Jaspers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Ma
- nhattan Jaspers\nOcean Bank Convocation Center\, Miami\, FL\nNeutral site
+ nhattan Jaspers\nOcean Bank Convocation Center\, Miami\, FL\nNeutral site\
+ nBroadcast: ESPN+ (streaming)
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919087@open-sports-cal
@@ -110,13 +123,15 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Oakland Golden Grizzlies @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOakland Golden Grizzlies @ Nor
- thern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ thern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919090@open-sports-cal
@@ -124,13 +139,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Northern Illinois Huskies @ Cleveland State Vikings
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Cl
- eveland State Vikings\nWolstein Center\, Cleveland\, OH
+ eveland State Vikings\nWolstein Center\, Cleveland\, OH\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Wolstein Center\, Cleveland\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929075@open-sports-cal
@@ -138,13 +155,15 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Northern Illinois Huskies @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ We
- stern Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ stern Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919972@open-sports-cal
@@ -152,13 +171,15 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:UIC Flames @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUIC Flames @ Northern Illinois
-  Huskies\nNIU Convocation Center\, Dekalb\, IL
+  Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918791@open-sports-cal
@@ -166,13 +187,15 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:Omaha Mavericks @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOmaha Mavericks @ Northern Ill
- inois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ inois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919973@open-sports-cal
@@ -180,12 +203,13 @@ DTSTART:20261221T013000Z
 DTEND:20261221T043000Z
 SUMMARY:Northern Illinois Huskies @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Io
- wa Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ wa Hawkeyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -195,13 +219,14 @@ DTEND:20261231T220000Z
 SUMMARY:Northern Illinois Huskies @ Youngstown State Penguins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Yo
  ungstown State Penguins\nZidian Family Arena at Beeghly Center\, Youngstow
- n\, OH
+ n\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Zidian Family Arena at Beeghly Center\, Youngstown\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919102@open-sports-cal
@@ -209,12 +234,13 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Northern Illinois Huskies @ Robert Morris Colonials
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Ro
- bert Morris Colonials\nUPMC Events Center\, Moon Township\, PA
+ bert Morris Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast:
+  Broadcast not announced
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -223,12 +249,13 @@ DTSTART:20270107T233000Z
 DTEND:20270108T023000Z
 SUMMARY:Northern Kentucky Norse @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Nort
- hern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ hern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: Br
+ oadcast not announced
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -237,12 +264,13 @@ DTSTART:20270110T200000Z
 DTEND:20270110T230000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Northern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ Northern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast
+ : Broadcast not announced
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -251,12 +279,13 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Wright State Raiders @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWright State Raiders @ Norther
- n Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ n Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: Broad
+ cast not announced
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -265,12 +294,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Northern Illinois Huskies @ IU Indianapolis Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ IU
-  Indianapolis Jaguars\nJames T. Morris Arena\, Indianapolis\, IN
+  Indianapolis Jaguars\nJames T. Morris Arena\, Indianapolis\, IN\nBroadcas
+ t: Broadcast not announced
 LOCATION:James T. Morris Arena\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -279,12 +309,13 @@ DTSTART:20270121T170000Z
 DTEND:20270121T200000Z
 SUMMARY:Northern Illinois Huskies @ Milwaukee Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Mi
- lwaukee Panthers\nKlotsche Center\, Milwaukee\, WI
+ lwaukee Panthers\nKlotsche Center\, Milwaukee\, WI\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Klotsche Center\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -293,12 +324,13 @@ DTSTART:20270124T200000Z
 DTEND:20270124T230000Z
 SUMMARY:Cleveland State Vikings @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCleveland State Vikings @ Nort
- hern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ hern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: Br
+ oadcast not announced
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +339,13 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Youngstown State Penguins @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nYoungstown State Penguins @ No
- rthern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ rthern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: 
+ Broadcast not announced
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -321,12 +354,13 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:Northern Illinois Huskies @ Green Bay Phoenix
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Gr
- een Bay Phoenix\nKress Center\, Green Bay\, WI
+ een Bay Phoenix\nKress Center\, Green Bay\, WI\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Kress Center\, Green Bay\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -335,12 +369,13 @@ DTSTART:20270203T170000Z
 DTEND:20270203T200000Z
 SUMMARY:Detroit Mercy Titans @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDetroit Mercy Titans @ Norther
- n Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ n Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: Broad
+ cast not announced
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -349,12 +384,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Northern Illinois Huskies @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Pu
- rdue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ rdue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\
+ nBroadcast: Broadcast not announced
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +399,13 @@ DTSTART:20270210T230000Z
 DTEND:20270211T020000Z
 SUMMARY:Northern Illinois Huskies @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ No
- rthern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ rthern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +414,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Robert Morris Colonials @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRobert Morris Colonials @ Nort
- hern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ hern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: Br
+ oadcast not announced
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +429,13 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:Northern Illinois Huskies @ Detroit Mercy Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ De
- troit Mercy Titans\nCalihan Hall\, Detroit\, MI
+ troit Mercy Titans\nCalihan Hall\, Detroit\, MI\nBroadcast: Broadcast not 
+ announced
 LOCATION:Calihan Hall\, Detroit\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +444,13 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:Northern Illinois Huskies @ Oakland Golden Grizzlies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Oa
- kland Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+ kland Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI\nBroadcast
+ : Broadcast not announced
 LOCATION:OU Credit Union O'rena\, Rochester\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +459,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Green Bay Phoenix @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGreen Bay Phoenix @ Northern I
- llinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ llinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: Broadcas
+ t not announced
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -433,12 +474,13 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Milwaukee Panthers @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMilwaukee Panthers @ Northern 
- Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: Broadca
+ st not announced
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,13 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:East Carolina Pirates @ Alabama Crimson Tide
 DESCRIPTION:NCAA FBS Football 2026\nEast Carolina Pirates @ Alabama Crimson
-  Tide\nBryant-Denny Stadium\, Tuscaloosa\, AL
+  Tide\nBryant-Denny Stadium\, Tuscaloosa\, AL\nBroadcast: ABC
 LOCATION:Bryant-Denny Stadium\, Tuscaloosa\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864571@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:App State Mountaineers @ East Carolina Pirates
 DESCRIPTION:NCAA FBS Football 2026\nApp State Mountaineers @ East Carolina 
- Pirates\nDowdy-Ficklen Stadium\, Greenville\, NC
+ Pirates\nDowdy-Ficklen Stadium\, Greenville\, NC\nBroadcast: ESPNU
 LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862710@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T220000Z
 DTEND:20260920T010000Z
 SUMMARY:East Carolina Pirates @ Old Dominion Monarchs
 DESCRIPTION:NCAA FBS Football 2026\nEast Carolina Pirates @ Old Dominion Mo
- narchs\nS.B. Ballard Stadium\, Norfolk\, VA
+ narchs\nS.B. Ballard Stadium\, Norfolk\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862781@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20260926T200000Z
 DTEND:20260926T230000Z
 SUMMARY:North Carolina Central Eagles @ East Carolina Pirates
 DESCRIPTION:NCAA FBS Football 2026\nNorth Carolina Central Eagles @ East Ca
- rolina Pirates\nDowdy-Ficklen Stadium\, Greenville\, NC
+ rolina Pirates\nDowdy-Ficklen Stadium\, Greenville\, NC\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862797@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261010T170000Z
 DTEND:20261010T200000Z
 SUMMARY:Rice Owls @ East Carolina Pirates
 DESCRIPTION:NCAA FBS Football 2026\nRice Owls @ East Carolina Pirates\nDowd
- y-Ficklen Stadium\, Greenville\, NC
+ y-Ficklen Stadium\, Greenville\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862800@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261015T233000Z
 DTEND:20261016T023000Z
 SUMMARY:East Carolina Pirates @ UAB Blazers
 DESCRIPTION:NCAA FBS Football 2026\nEast Carolina Pirates @ UAB Blazers\nPr
- otective Stadium\, Birmingham\, AL
+ otective Stadium\, Birmingham\, AL\nBroadcast: ESPN
 LOCATION:Protective Stadium\, Birmingham\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862807@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261022T233000Z
 DTEND:20261023T023000Z
 SUMMARY:East Carolina Pirates @ Memphis Tigers
 DESCRIPTION:NCAA FBS Football 2026\nEast Carolina Pirates @ Memphis Tigers\
- nSimmons Bank Liberty Stadium\, Memphis\, TN
+ nSimmons Bank Liberty Stadium\, Memphis\, TN\nBroadcast: ESPN2
 LOCATION:Simmons Bank Liberty Stadium\, Memphis\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862815@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 SUMMARY:Temple Owls @ East Carolina Pirates
 DESCRIPTION:NCAA FBS Football 2026\nTemple Owls @ East Carolina Pirates\nDo
- wdy-Ficklen Stadium\, Greenville\, NC
+ wdy-Ficklen Stadium\, Greenville\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862818@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T003000Z
 DTEND:20261107T033000Z
 SUMMARY:South Florida Bulls @ East Carolina Pirates
 DESCRIPTION:NCAA FBS Football 2026\nSouth Florida Bulls @ East Carolina Pir
- ates\nDowdy-Ficklen Stadium\, Greenville\, NC
+ ates\nDowdy-Ficklen Stadium\, Greenville\, NC\nBroadcast: ESPN2
 LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862825@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:East Carolina Pirates @ Charlotte 49ers
 DESCRIPTION:NCAA FBS Football 2026\nEast Carolina Pirates @ Charlotte 49ers
- \nJerry Richardson Stadium\, Charlotte\, NC
+ \nJerry Richardson Stadium\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Jerry Richardson Stadium\, Charlotte\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862831@open-sports-cal
@@ -142,12 +153,13 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:East Carolina Pirates @ Army Black Knights
 DESCRIPTION:NCAA FBS Football 2026\nEast Carolina Pirates @ Army Black Knig
- hts\nMichie Stadium\, West Point\, NY
+ hts\nMichie Stadium\, West Point\, NY\nBroadcast: CBSSN
 LOCATION:Michie Stadium\, West Point\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862837@open-sports-cal
@@ -155,10 +167,11 @@ DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Florida Atlantic Owls @ East Carolina Pirates
 DESCRIPTION:NCAA FBS Football 2026\nFlorida Atlantic Owls @ East Carolina P
- irates\nDowdy-Ficklen Stadium\, Greenville\, NC\nStart time TBD
+ irates\nDowdy-Ficklen Stadium\, Greenville\, NC\nStart time TBD\nBroadcast
+ : Broadcast not announced
 LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

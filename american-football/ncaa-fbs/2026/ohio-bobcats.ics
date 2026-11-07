@@ -12,12 +12,13 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:Ohio Bobcats @ Nebraska Cornhuskers
 DESCRIPTION:NCAA FBS Football 2026\nOhio Bobcats @ Nebraska Cornhuskers\nMe
- morial Stadium (Lincoln\, NE)\, Lincoln\, NE
+ morial Stadium (Lincoln\, NE)\, Lincoln\, NE\nBroadcast: FS1
 LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866418@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T220000Z
 DTEND:20260913T010000Z
 SUMMARY:Jacksonville State Gamecocks @ Ohio Bobcats
 DESCRIPTION:NCAA FBS Football 2026\nJacksonville State Gamecocks @ Ohio Bob
- cats\nPeden Stadium\, Athens\, OH
+ cats\nPeden Stadium\, Athens\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Peden Stadium\, Athens\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866423@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Ohio Bobcats @ South Alabama Jaguars
 DESCRIPTION:NCAA FBS Football 2026\nOhio Bobcats @ South Alabama Jaguars\nH
- ancock Whitney Stadium\, Mobile\, AL
+ ancock Whitney Stadium\, Mobile\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Hancock Whitney Stadium\, Mobile\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866428@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:Stonehill Skyhawks @ Ohio Bobcats
 DESCRIPTION:NCAA FBS Football 2026\nStonehill Skyhawks @ Ohio Bobcats\nPede
- n Stadium\, Athens\, OH
+ n Stadium\, Athens\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Peden Stadium\, Athens\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866434@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Ohio Bobcats @ Kent State Golden Flashes
 DESCRIPTION:NCAA FBS Football 2026\nOhio Bobcats @ Kent State Golden Flashe
- s\nZoeller Field at Dix Stadium\, Kent\, OH
+ s\nZoeller Field at Dix Stadium\, Kent\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Zoeller Field at Dix Stadium\, Kent\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866438@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T193000Z
 DTEND:20261010T223000Z
 SUMMARY:Central Michigan Chippewas @ Ohio Bobcats
 DESCRIPTION:NCAA FBS Football 2026\nCentral Michigan Chippewas @ Ohio Bobca
- ts\nPeden Stadium\, Athens\, OH
+ ts\nPeden Stadium\, Athens\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Peden Stadium\, Athens\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866445@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261018T020000Z
 DTEND:20261018T050000Z
 SUMMARY:Ohio Bobcats @ Sacramento State Hornets
 DESCRIPTION:NCAA FBS Football 2026\nOhio Bobcats @ Sacramento State Hornets
- \nHornet Stadium\, Sacramento\, CA
+ \nHornet Stadium\, Sacramento\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Hornet Stadium\, Sacramento\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866449@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261024T200000Z
 DTEND:20261024T230000Z
 SUMMARY:Eastern Michigan Eagles @ Ohio Bobcats
 DESCRIPTION:NCAA FBS Football 2026\nEastern Michigan Eagles @ Ohio Bobcats\
- nPeden Stadium\, Athens\, OH
+ nPeden Stadium\, Athens\, OH\nBroadcast: ESPNU
 LOCATION:Peden Stadium\, Athens\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866453@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Ohio Bobcats @ Akron Zips
 DESCRIPTION:NCAA FBS Football 2026\nOhio Bobcats @ Akron Zips\nInfoCision S
- tadium\, Akron\, OH
+ tadium\, Akron\, OH\nBroadcast: ESPN2
 LOCATION:InfoCision Stadium\, Akron\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866460@open-sports-cal
@@ -129,12 +138,13 @@ DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
 SUMMARY:Ohio Bobcats @ Miami (OH) RedHawks
 DESCRIPTION:NCAA FBS Football 2026\nOhio Bobcats @ Miami (OH) RedHawks\nYag
- er Stadium\, Oxford\, OH
+ er Stadium\, Oxford\, OH\nBroadcast: ESPN2
 LOCATION:Yager Stadium\, Oxford\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866464@open-sports-cal
@@ -142,11 +152,11 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Ball State Cardinals @ Ohio Bobcats
 DESCRIPTION:NCAA FBS Football 2026\nBall State Cardinals @ Ohio Bobcats\nPe
- den Stadium\, Athens\, OH
+ den Stadium\, Athens\, OH\nBroadcast: Broadcast not announced
 LOCATION:Peden Stadium\, Athens\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +165,11 @@ DTSTART:20261127T170000Z
 DTEND:20261127T200000Z
 SUMMARY:Toledo Rockets @ Ohio Bobcats
 DESCRIPTION:NCAA FBS Football 2026\nToledo Rockets @ Ohio Bobcats\nPeden St
- adium\, Athens\, OH
+ adium\, Athens\, OH\nBroadcast: Broadcast not announced
 LOCATION:Peden Stadium\, Athens\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

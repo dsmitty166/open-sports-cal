@@ -12,12 +12,13 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Campbell Fighting Camels @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCampbell Fighting Camels @ NC St
- ate Wolfpack\nLenovo Center\, Raleigh\, NC
+ ate Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ACCNX (streaming)
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918956@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:East Tennessee State Buccaneers @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ NC State Wolfpack\nLenovo Center\, Raleigh\, NC
+ @ NC State Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ACCNX (strea
+ ming)
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918957@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Presbyterian Blue Hose @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPresbyterian Blue Hose @ NC Stat
- e Wolfpack\nLenovo Center\, Raleigh\, NC
+ e Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ACCNX (streaming)
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918958@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Troy Trojans @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ NC State Wolfpack
- \nLenovo Center\, Raleigh\, NC
+ \nLenovo Center\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918959@open-sports-cal
@@ -64,11 +69,12 @@ DTSTART:20261119T230000Z
 DTEND:20261120T020000Z
 SUMMARY:NC State Wolfpack @ Murray State Racers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ Murray State
-  Racers\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site
+  Racers\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site\nBroa
+ dcast: Broadcast not announced
 LOCATION:Baha Mar Convention Center\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
 END:VEVENT
 BEGIN:VEVENT
@@ -77,12 +83,13 @@ DTSTART:20261126T000000Z
 DTEND:20261126T030000Z
 SUMMARY:Norfolk State Spartans @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorfolk State Spartans @ NC Stat
- e Wolfpack\nLenovo Center\, Raleigh\, NC
+ e Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ACCNX (streaming)
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918961@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 SUMMARY:Elon Phoenix @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElon Phoenix @ NC State Wolfpack
- \nLenovo Center\, Raleigh\, NC
+ \nLenovo Center\, Raleigh\, NC\nBroadcast: ACCNX (streaming)
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918962@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:South Carolina Gamecocks @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ NC St
- ate Wolfpack\nLenovo Center\, Raleigh\, NC
+ ate Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906855@open-sports-cal
@@ -116,12 +125,14 @@ DTSTART:20261207T000000Z
 DTEND:20261207T030000Z
 SUMMARY:NC State Wolfpack @ Tennessee Volunteers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ Tennessee Vo
- lunteers\nBridgestone Arena\, Nashville\, TN\nNeutral site
+ lunteers\nBridgestone Arena\, Nashville\, TN\nNeutral site\nBroadcast: ESP
+ N
 LOCATION:Bridgestone Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918963@open-sports-cal
@@ -129,12 +140,13 @@ DTSTART:20261212T000000Z
 DTEND:20261212T030000Z
 SUMMARY:UNC Greensboro Spartans @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ NC Sta
- te Wolfpack\nReynolds Coliseum\, Raleigh\, NC
+ te Wolfpack\nReynolds Coliseum\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Reynolds Coliseum\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401912713@open-sports-cal
@@ -142,12 +154,14 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:North Carolina Tar Heels @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Tar Heels @ NC St
- ate Wolfpack\nFirst Horizon Coliseum\, Greensboro\, NC\nNeutral site
+ ate Wolfpack\nFirst Horizon Coliseum\, Greensboro\, NC\nNeutral site\nBroa
+ dcast: ESPN2
 LOCATION:First Horizon Coliseum\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918964@open-sports-cal
@@ -155,12 +169,13 @@ DTSTART:20261220T000000Z
 DTEND:20261220T030000Z
 SUMMARY:NC State Wolfpack @ Ole Miss Rebels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ Ole Miss Reb
- els\nMississippi Coliseum\, Jackson\, MS\nNeutral site
+ els\nMississippi Coliseum\, Jackson\, MS\nNeutral site\nBroadcast: ESPNU
 LOCATION:Mississippi Coliseum\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918965@open-sports-cal
@@ -168,12 +183,13 @@ DTSTART:20261222T180000Z
 DTEND:20261222T210000Z
 SUMMARY:Alabama A&M Bulldogs @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ NC State 
- Wolfpack\nLenovo Center\, Raleigh\, NC
+ Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ACCNX (streaming)
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918094@open-sports-cal
@@ -181,12 +197,13 @@ DTSTART:20261230T010000Z
 DTEND:20261230T040000Z
 SUMMARY:NC State Wolfpack @ Miami Hurricanes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ Miami Hurric
- anes\nWatsco Center\, Coral Gables\, FL
+ anes\nWatsco Center\, Coral Gables\, FL\nBroadcast: ACC Network
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918104@open-sports-cal
@@ -194,12 +211,13 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:Clemson Tigers @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nClemson Tigers @ NC State Wolfpa
- ck\nLenovo Center\, Raleigh\, NC
+ ck\nLenovo Center\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918115@open-sports-cal
@@ -207,11 +225,11 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Pittsburgh Panthers @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPittsburgh Panthers @ NC State W
- olfpack\nLenovo Center\, Raleigh\, NC
+ olfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: Broadcast not announced
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,12 +238,13 @@ DTSTART:20270109T170000Z
 DTEND:20270109T200000Z
 SUMMARY:NC State Wolfpack @ North Carolina Tar Heels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ North Caroli
- na Tar Heels\nDean E. Smith Center\, Chapel Hill\, NC
+ na Tar Heels\nDean E. Smith Center\, Chapel Hill\, NC\nBroadcast: ESPN2
 LOCATION:Dean E. Smith Center\, Chapel Hill\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918126@open-sports-cal
@@ -233,12 +252,13 @@ DTSTART:20270113T020000Z
 DTEND:20270113T050000Z
 SUMMARY:SMU Mustangs @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSMU Mustangs @ NC State Wolfpack
- \nLenovo Center\, Raleigh\, NC
+ \nLenovo Center\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918143@open-sports-cal
@@ -246,12 +266,13 @@ DTSTART:20270120T020000Z
 DTEND:20270120T050000Z
 SUMMARY:NC State Wolfpack @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ Georgia Tech
-  Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+  Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA\nBroadcast: ACC Network
 LOCATION:McCamish Pavilion\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918154@open-sports-cal
@@ -259,12 +280,13 @@ DTSTART:20270123T170000Z
 DTEND:20270123T200000Z
 SUMMARY:Wake Forest Demon Deacons @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWake Forest Demon Deacons @ NC S
- tate Wolfpack\nLenovo Center\, Raleigh\, NC
+ tate Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: CW
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918163@open-sports-cal
@@ -272,12 +294,13 @@ DTSTART:20270128T020000Z
 DTEND:20270128T050000Z
 SUMMARY:NC State Wolfpack @ California Golden Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ California G
- olden Bears\nHaas Pavilion\, Berkeley\, CA
+ olden Bears\nHaas Pavilion\, Berkeley\, CA\nBroadcast: ACC Network
 LOCATION:Haas Pavilion\, Berkeley\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918166@open-sports-cal
@@ -285,12 +308,13 @@ DTSTART:20270131T010000Z
 DTEND:20270131T040000Z
 SUMMARY:NC State Wolfpack @ Stanford Cardinal
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ Stanford Car
- dinal\nMaples Pavilion\, Stanford\, CA
+ dinal\nMaples Pavilion\, Stanford\, CA\nBroadcast: ACC Network
 LOCATION:Maples Pavilion\, Stanford\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918180@open-sports-cal
@@ -298,12 +322,13 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Florida State Seminoles @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ NC Sta
- te Wolfpack\nLenovo Center\, Raleigh\, NC
+ te Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ESPNU
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918196@open-sports-cal
@@ -311,12 +336,13 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:NC State Wolfpack @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ Wake Forest 
- Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACC Network
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918202@open-sports-cal
@@ -324,12 +350,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Boston College Eagles @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston College Eagles @ NC State
-  Wolfpack\nLenovo Center\, Raleigh\, NC
+  Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: CW
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918212@open-sports-cal
@@ -337,11 +364,12 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:NC State Wolfpack @ Virginia Tech Hokies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ Virginia Tec
- h Hokies\nCassell Coliseum\, Blacksburg\, VA
+ h Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +378,13 @@ DTSTART:20270220T170000Z
 DTEND:20270220T200000Z
 SUMMARY:California Golden Bears @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCalifornia Golden Bears @ NC Sta
- te Wolfpack\nLenovo Center\, Raleigh\, NC
+ te Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: CW
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918227@open-sports-cal
@@ -363,12 +392,13 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:Notre Dame Fighting Irish @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNotre Dame Fighting Irish @ NC S
- tate Wolfpack\nLenovo Center\, Raleigh\, NC
+ tate Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918235@open-sports-cal
@@ -376,12 +406,13 @@ DTSTART:20270227T170000Z
 DTEND:20270227T200000Z
 SUMMARY:NC State Wolfpack @ Duke Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ Duke Blue De
- vils\nCameron Indoor Stadium\, Durham\, NC
+ vils\nCameron Indoor Stadium\, Durham\, NC\nBroadcast: ESPN
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918240@open-sports-cal
@@ -389,11 +420,11 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Louisville Cardinals @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisville Cardinals @ NC State 
- Wolfpack\nLenovo Center\, Raleigh\, NC
+ Wolfpack\nLenovo Center\, Raleigh\, NC\nBroadcast: Broadcast not announced
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +433,12 @@ DTSTART:20270306T170000Z
 DTEND:20270306T200000Z
 SUMMARY:NC State Wolfpack @ Virginia Cavaliers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNC State Wolfpack @ Virginia Cav
- aliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ aliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: CW
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 END:VCALENDAR

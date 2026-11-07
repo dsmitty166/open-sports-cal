@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:St. Thomas Tommies @ Presbyterian Blue Hose
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ Presbyteria
- n Blue Hose\nTempleton Center\, Clinton\, SC
+ n Blue Hose\nTempleton Center\, Clinton\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Templeton Center\, Clinton\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916304@open-sports-cal
@@ -26,13 +27,14 @@ DTEND:20261107T040000Z
 SUMMARY:St. Thomas Tommies @ Minnesota Golden Gophers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ Minnesota G
  olden Gophers\nThe Barn by Blue Cross and Blue Shield of Minnesota\, Minne
- apolis\, MN
+ apolis\, MN\nBroadcast: Peacock (streaming)
 LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
  , MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920843@open-sports-cal
@@ -40,12 +42,15 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:Green Bay Phoenix @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGreen Bay Phoenix @ St. Thomas T
- ommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ ommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Summit Le
+ ague Network (streaming) / Midco Sports Plus (streaming)
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming) / Midco Sports Plus (streamin
+ g)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920844@open-sports-cal
@@ -53,12 +58,15 @@ DTSTART:20261112T010000Z
 DTEND:20261112T040000Z
 SUMMARY:Macalester Scots @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMacalester Scots @ St. Thomas To
- mmies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ mmies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Summit Lea
+ gue Network (streaming) / Midco Sports Plus (streaming)
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming) / Midco Sports Plus (streamin
+ g)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401912229@open-sports-cal
@@ -66,12 +74,13 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:St. Thomas Tommies @ Army Black Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ Army Black 
- Knights\nChristl Arena\, West Point\, NY
+ Knights\nChristl Arena\, West Point\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Christl Arena\, West Point\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919807@open-sports-cal
@@ -79,12 +88,14 @@ DTSTART:20261117T000000Z
 DTEND:20261117T030000Z
 SUMMARY:St. Thomas Tommies @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ Long Island
-  University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+  University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: N
+ EC Front Row
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920845@open-sports-cal
@@ -92,11 +103,12 @@ DTSTART:20261120T010000Z
 DTEND:20261120T040000Z
 SUMMARY:Southeast Missouri State Redhawks @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSoutheast Missouri State Redhawk
- s @ St. Thomas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ s @ St. Thomas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroa
+ dcast: Broadcast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -105,12 +117,14 @@ DTSTART:20261121T200000Z
 DTEND:20261121T230000Z
 SUMMARY:St. Thomas Tommies @ Milwaukee Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ Milwaukee P
- anthers\nUW-Milwaukee Panther Arena\, Milwaukee\, WI
+ anthers\nUW-Milwaukee Panther Arena\, Milwaukee\, WI\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:UW-Milwaukee Panther Arena\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920847@open-sports-cal
@@ -118,11 +132,12 @@ DTSTART:20261126T000000Z
 DTEND:20261126T030000Z
 SUMMARY:St. Thomas Tommies @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ UNC Wilming
- ton Seahawks\nTrask Coliseum\, Wilmington\, NC
+ ton Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -131,11 +146,12 @@ DTSTART:20261127T170000Z
 DTEND:20261127T200000Z
 SUMMARY:Liberty Flames @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLiberty Flames @ St. Thomas Tomm
- ies\nTrask Coliseum\, Wilmington\, NC\nNeutral site
+ ies\nTrask Coliseum\, Wilmington\, NC\nNeutral site\nBroadcast: Broadcast 
+ not announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -144,11 +160,12 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Princeton Tigers @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ St. Thomas To
- mmies\nTrask Coliseum\, Wilmington\, NC\nNeutral site\nStart time TBD
+ mmies\nTrask Coliseum\, Wilmington\, NC\nNeutral site\nStart time TBD\nBro
+ adcast: Broadcast not announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920850@open-sports-cal
@@ -156,11 +173,12 @@ DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
 SUMMARY:North Central (MN) Rams @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Central (MN) Rams @ St. Th
- omas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ omas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Bro
+ adcast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -169,12 +187,13 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:St. Thomas Tommies @ Bucknell Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ Bucknell Bi
- son\nSojka Pavilion\, Lewisburg\, PA
+ son\nSojka Pavilion\, Lewisburg\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Sojka Pavilion\, Lewisburg\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920852@open-sports-cal
@@ -182,11 +201,12 @@ DTSTART:20261211T010000Z
 DTEND:20261211T040000Z
 SUMMARY:UNC Asheville Bulldogs @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ St. Tho
- mas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ mas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Broa
+ dcast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -195,11 +215,12 @@ DTSTART:20261212T200000Z
 DTEND:20261212T230000Z
 SUMMARY:Arkansas State Red Wolves @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas State Red Wolves @ St. 
- Thomas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ Thomas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: B
+ roadcast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -208,11 +229,12 @@ DTSTART:20261216T010000Z
 DTEND:20261216T040000Z
 SUMMARY:UC San Diego Tritons @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ St. Thoma
- s Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ s Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Broadc
+ ast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -221,11 +243,12 @@ DTSTART:20261223T010000Z
 DTEND:20261223T040000Z
 SUMMARY:St. Thomas Tommies @ Stanford Cardinal
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ Stanford Ca
- rdinal\nMaples Pavilion\, Stanford\, CA
+ rdinal\nMaples Pavilion\, Stanford\, CA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Maples Pavilion\, Stanford\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -234,11 +257,12 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:St. Olaf Oles @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Olaf Oles @ St. Thomas Tommi
- es\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ es\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Broadcast not
+  announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +271,12 @@ DTSTART:20270108T010000Z
 DTEND:20270108T040000Z
 SUMMARY:North Dakota State Bison @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Dakota State Bison @ St. T
- homas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ homas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Br
+ oadcast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +285,12 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:North Dakota Fighting Hawks @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Dakota Fighting Hawks @ St
- . Thomas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ . Thomas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast:
+  Broadcast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +299,12 @@ DTSTART:20270117T000000Z
 DTEND:20270117T030000Z
 SUMMARY:Omaha Mavericks @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOmaha Mavericks @ St. Thomas Tom
- mies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ mies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +313,12 @@ DTSTART:20270122T010000Z
 DTEND:20270122T040000Z
 SUMMARY:St. Thomas Tommies @ Oral Roberts Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ Oral Robert
- s Golden Eagles\nMabee Center\, Tulsa\, OK
+ s Golden Eagles\nMabee Center\, Tulsa\, OK\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Mabee Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +327,12 @@ DTSTART:20270124T010000Z
 DTEND:20270124T040000Z
 SUMMARY:St. Thomas Tommies @ Kansas City Roos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ Kansas City
-  Roos\nSwinney Center\, Kansas City\, MO
+  Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +341,12 @@ DTSTART:20270129T010000Z
 DTEND:20270129T040000Z
 SUMMARY:South Dakota State Jackrabbits @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  St. Thomas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+  St. Thomas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadca
+ st: Broadcast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +355,12 @@ DTSTART:20270131T000000Z
 DTEND:20270131T030000Z
 SUMMARY:South Dakota Coyotes @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota Coyotes @ St. Thoma
- s Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ s Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Broadc
+ ast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +369,12 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:St. Thomas Tommies @ North Dakota Fighting Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ North Dakot
- a Fighting Hawks\nBetty Engelstad Sioux Center\, Grand Forks\, ND
+ a Fighting Hawks\nBetty Engelstad Sioux Center\, Grand Forks\, ND\nBroadca
+ st: Broadcast not announced
 LOCATION:Betty Engelstad Sioux Center\, Grand Forks\, ND
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +383,12 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:St. Thomas Tommies @ North Dakota State Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ North Dakot
- a State Bison\nScheels Center\, Fargo\, ND
+ a State Bison\nScheels Center\, Fargo\, ND\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Scheels Center\, Fargo\, ND
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +397,11 @@ DTSTART:20270214T010000Z
 DTEND:20270214T040000Z
 SUMMARY:St. Thomas Tommies @ Omaha Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ Omaha Maver
- icks\nBaxter Arena\, Omaha\, NE
+ icks\nBaxter Arena\, Omaha\, NE\nBroadcast: Broadcast not announced
 LOCATION:Baxter Arena\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +410,12 @@ DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:Kansas City Roos @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas City Roos @ St. Thomas To
- mmies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ mmies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Broadcast 
+ not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +424,12 @@ DTSTART:20270221T210000Z
 DTEND:20270222T000000Z
 SUMMARY:Oral Roberts Golden Eagles @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOral Roberts Golden Eagles @ St.
-  Thomas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+  Thomas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: 
+ Broadcast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -403,11 +438,12 @@ DTSTART:20270226T010000Z
 DTEND:20270226T040000Z
 SUMMARY:St. Thomas Tommies @ South Dakota Coyotes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ South Dakot
- a Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ a Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -416,11 +452,12 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:St. Thomas Tommies @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ South Dakot
- a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcast:
+  Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

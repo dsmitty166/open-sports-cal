@@ -12,12 +12,14 @@ DTSTART:20260829T160000Z
 DTEND:20260829T190000Z
 SUMMARY:North Carolina Tar Heels @ TCU Horned Frogs
 DESCRIPTION:NCAA FBS Football 2026\nNorth Carolina Tar Heels @ TCU Horned F
- rogs\nAviva Stadium\, Dublin\nNeutral site
+ rogs\nAviva Stadium\, Dublin\nNeutral site\nBroadcast: ESPN / Disney+ (str
+ eaming)
 LOCATION:Aviva Stadium\, Dublin
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Europe/Dublin
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858218@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:East Tennessee State Buccaneers @ North Carolina Tar Heels
 DESCRIPTION:NCAA FBS Football 2026\nEast Tennessee State Buccaneers @ North
-  Carolina Tar Heels\nKenan Stadium\, Chapel Hill\, NC
+  Carolina Tar Heels\nKenan Stadium\, Chapel Hill\, NC\nBroadcast: ACCNX (s
+ treaming)
 LOCATION:Kenan Stadium\, Chapel Hill\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858229@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 SUMMARY:North Carolina Tar Heels @ Clemson Tigers
 DESCRIPTION:NCAA FBS Football 2026\nNorth Carolina Tar Heels @ Clemson Tige
- rs\nMemorial Stadium (Clemson\, SC)\, Clemson\, SC
+ rs\nMemorial Stadium (Clemson\, SC)\, Clemson\, SC\nBroadcast: ESPNEWS / D
+ isney+ (streaming)
 LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNEWS / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858250@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Notre Dame Fighting Irish @ North Carolina Tar Heels
 DESCRIPTION:NCAA FBS Football 2026\nNotre Dame Fighting Irish @ North Carol
- ina Tar Heels\nKenan Stadium\, Chapel Hill\, NC
+ ina Tar Heels\nKenan Stadium\, Chapel Hill\, NC\nBroadcast: ESPN / Disney+
+  (streaming)
 LOCATION:Kenan Stadium\, Chapel Hill\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858256@open-sports-cal
@@ -64,12 +72,13 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:North Carolina Tar Heels @ Pittsburgh Panthers
 DESCRIPTION:NCAA FBS Football 2026\nNorth Carolina Tar Heels @ Pittsburgh P
- anthers\nAcrisure Stadium\, Pittsburgh\, PA
+ anthers\nAcrisure Stadium\, Pittsburgh\, PA\nBroadcast: ESPN
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858266@open-sports-cal
@@ -77,12 +86,13 @@ DTSTART:20261017T193000Z
 DTEND:20261017T223000Z
 SUMMARY:North Carolina Tar Heels @ Duke Blue Devils
 DESCRIPTION:NCAA FBS Football 2026\nNorth Carolina Tar Heels @ Duke Blue De
- vils\nWallace Wade Stadium\, Durham\, NC
+ vils\nWallace Wade Stadium\, Durham\, NC\nBroadcast: ESPN2
 LOCATION:Wallace Wade Stadium\, Durham\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858275@open-sports-cal
@@ -90,12 +100,13 @@ DTSTART:20261024T233000Z
 DTEND:20261025T023000Z
 SUMMARY:Syracuse Orange @ North Carolina Tar Heels
 DESCRIPTION:NCAA FBS Football 2026\nSyracuse Orange @ North Carolina Tar He
- els\nKenan Stadium\, Chapel Hill\, NC
+ els\nKenan Stadium\, Chapel Hill\, NC\nBroadcast: ACC Network
 LOCATION:Kenan Stadium\, Chapel Hill\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858282@open-sports-cal
@@ -103,12 +114,13 @@ DTSTART:20261031T233000Z
 DTEND:20261101T023000Z
 SUMMARY:Miami Hurricanes @ North Carolina Tar Heels
 DESCRIPTION:NCAA FBS Football 2026\nMiami Hurricanes @ North Carolina Tar H
- eels\nKenan Stadium\, Chapel Hill\, NC
+ eels\nKenan Stadium\, Chapel Hill\, NC\nBroadcast: ABC
 LOCATION:Kenan Stadium\, Chapel Hill\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858292@open-sports-cal
@@ -116,12 +128,13 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:North Carolina Tar Heels @ UConn Huskies
 DESCRIPTION:NCAA FBS Football 2026\nNorth Carolina Tar Heels @ UConn Huskie
- s\nPratt & Whitney Stadium\, East Hartford\, CT
+ s\nPratt & Whitney Stadium\, East Hartford\, CT\nBroadcast: CBSSN
 LOCATION:Pratt & Whitney Stadium\, East Hartford\, CT
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858298@open-sports-cal
@@ -129,11 +142,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Louisville Cardinals @ North Carolina Tar Heels
 DESCRIPTION:NCAA FBS Football 2026\nLouisville Cardinals @ North Carolina T
- ar Heels\nKenan Stadium\, Chapel Hill\, NC\nStart time TBD
+ ar Heels\nKenan Stadium\, Chapel Hill\, NC\nStart time TBD\nBroadcast: Bro
+ adcast not announced
 LOCATION:Kenan Stadium\, Chapel Hill\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858305@open-sports-cal
@@ -141,11 +155,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:North Carolina Tar Heels @ Virginia Cavaliers
 DESCRIPTION:NCAA FBS Football 2026\nNorth Carolina Tar Heels @ Virginia Cav
- aliers\nScott Stadium\, Charlottesville\, VA\nStart time TBD
+ aliers\nScott Stadium\, Charlottesville\, VA\nStart time TBD\nBroadcast: B
+ roadcast not announced
 LOCATION:Scott Stadium\, Charlottesville\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858313@open-sports-cal
@@ -153,10 +168,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:NC State Wolfpack @ North Carolina Tar Heels
 DESCRIPTION:NCAA FBS Football 2026\nNC State Wolfpack @ North Carolina Tar 
- Heels\nKenan Stadium\, Chapel Hill\, NC\nStart time TBD
+ Heels\nKenan Stadium\, Chapel Hill\, NC\nStart time TBD\nBroadcast: Broadc
+ ast not announced
 LOCATION:Kenan Stadium\, Chapel Hill\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

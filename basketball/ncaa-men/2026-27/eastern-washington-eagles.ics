@@ -12,12 +12,14 @@ DTSTART:20261103T030000Z
 DTEND:20261103T060000Z
 SUMMARY:Eastern Washington Eagles @ Stanford Cardinal
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Stan
- ford Cardinal\nMaples Pavilion\, Stanford\, CA
+ ford Cardinal\nMaples Pavilion\, Stanford\, CA\nBroadcast: ACCNX (streamin
+ g)
 LOCATION:Maples Pavilion\, Stanford\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920717@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261106T230000Z
 DTEND:20261107T020000Z
 SUMMARY:Eastern Washington Eagles @ Oregon Ducks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Oreg
- on Ducks\nMatthew Knight Arena\, Eugene\, OR
+ on Ducks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: B1G+ (streaming)
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920718@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261110T023000Z
 DTEND:20261110T053000Z
 SUMMARY:Eastern Washington Eagles @ Oregon State Beavers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Oreg
- on State Beavers\nGill Coliseum\, Corvallis\, OR
+ on State Beavers\nGill Coliseum\, Corvallis\, OR\nBroadcast: YouTube (stre
+ aming)
 LOCATION:Gill Coliseum\, Corvallis\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920719@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20261114T020000Z
 DTEND:20261114T050000Z
 SUMMARY:Corban Warriors @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCorban Warriors @ Eastern Washin
- gton Eagles\nReese Court\, Cheney\, WA
+ gton Eagles\nReese Court\, Cheney\, WA\nBroadcast: ESPN+ (streaming)
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920720@open-sports-cal
@@ -64,12 +70,14 @@ DTSTART:20261118T013000Z
 DTEND:20261118T043000Z
 SUMMARY:Eastern Washington Eagles @ Utah Utes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Utah
-  Utes\nJon M. Huntsman Center\, Salt Lake City\, UT
+  Utes\nJon M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920721@open-sports-cal
@@ -77,11 +85,12 @@ DTSTART:20261124T030000Z
 DTEND:20261124T060000Z
 SUMMARY:Eastern Washington Eagles @ UNLV Rebels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ UNLV
-  Rebels\nThomas & Mack Center\, Las Vegas\, NV
+  Rebels\nThomas & Mack Center\, Las Vegas\, NV\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Thomas & Mack Center\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +99,14 @@ DTSTART:20261126T020000Z
 DTEND:20261126T050000Z
 SUMMARY:Eastern Washington Eagles @ Loyola Marymount Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Loyo
- la Marymount Lions\nGersten Pavilion\, Los Angeles\, CA
+ la Marymount Lions\nGersten Pavilion\, Los Angeles\, CA\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Gersten Pavilion\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920722@open-sports-cal
@@ -103,11 +114,12 @@ DTSTART:20261129T200000Z
 DTEND:20261129T230000Z
 SUMMARY:Eastern Washington Eagles @ Wyoming Cowboys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Wyom
- ing Cowboys\nArena-Auditorium\, Laramie\, WY
+ ing Cowboys\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -116,12 +128,14 @@ DTSTART:20261204T030000Z
 DTEND:20261204T060000Z
 SUMMARY:Eastern Washington Eagles @ Portland State Vikings
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Port
- land State Vikings\nViking Pavilion\, Portland\, OR
+ land State Vikings\nViking Pavilion\, Portland\, OR\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Viking Pavilion\, Portland\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913421@open-sports-cal
@@ -129,11 +143,12 @@ DTSTART:20261205T210000Z
 DTEND:20261206T000000Z
 SUMMARY:Eastern Washington Eagles @ Northern Colorado Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Nort
- hern Colorado Bears\nBank of Colorado Arena\, Greeley\, CO
+ hern Colorado Bears\nBank of Colorado Arena\, Greeley\, CO\nBroadcast: Bro
+ adcast not announced
 LOCATION:Bank of Colorado Arena\, Greeley\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -142,11 +157,12 @@ DTSTART:20261209T020000Z
 DTEND:20261209T050000Z
 SUMMARY:Northwest University Eagles @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwest University Eagles @ Ea
- stern Washington Eagles\nReese Court\, Cheney\, WA
+ stern Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +171,12 @@ DTSTART:20261213T220000Z
 DTEND:20261214T010000Z
 SUMMARY:Eastern Washington Eagles @ Portland Pilots
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Port
- land Pilots\nChiles Center\, Portland\, OR
+ land Pilots\nChiles Center\, Portland\, OR\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Chiles Center\, Portland\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -168,11 +185,12 @@ DTSTART:20261218T020000Z
 DTEND:20261218T050000Z
 SUMMARY:Seattle Pacific Falcons @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle Pacific Falcons @ Easter
- n Washington Eagles\nReese Court\, Cheney\, WA
+ n Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -182,11 +200,11 @@ DTEND;VALUE=DATE:20261223
 SUMMARY:Washington State Cougars @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWashington State Cougars @ Easte
  rn Washington Eagles\nSpokane Numerica Veterans Arena\, Spokane\, WA\nNeut
- ral site\nStart time TBD
+ ral site\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Spokane Numerica Veterans Arena\, Spokane\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913426@open-sports-cal
@@ -194,12 +212,14 @@ DTSTART:20270101T020000Z
 DTEND:20270101T050000Z
 SUMMARY:Southern Utah Thunderbirds @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Utah Thunderbirds @ Eas
- tern Washington Eagles\nReese Court\, Cheney\, WA
+ tern Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913431@open-sports-cal
@@ -207,11 +227,12 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:Utah Tech Trailblazers @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUtah Tech Trailblazers @ Eastern
-  Washington Eagles\nReese Court\, Cheney\, WA
+  Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +241,12 @@ DTSTART:20270108T020000Z
 DTEND:20270108T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ E
- astern Washington Eagles\nReese Court\, Cheney\, WA
+ astern Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +255,12 @@ DTSTART:20270115T020000Z
 DTEND:20270115T050000Z
 SUMMARY:Eastern Washington Eagles @ Montana State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Mont
- ana State Bobcats\nWorthington Arena\, Bozeman\, MT
+ ana State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadcast 
+ not announced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +269,12 @@ DTSTART:20270116T230000Z
 DTEND:20270117T020000Z
 SUMMARY:Eastern Washington Eagles @ Montana Grizzlies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Mont
- ana Grizzlies\nDahlberg Arena\, Missoula\, MT
+ ana Grizzlies\nDahlberg Arena\, Missoula\, MT\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Dahlberg Arena\, Missoula\, MT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +283,12 @@ DTSTART:20270119T020000Z
 DTEND:20270119T050000Z
 SUMMARY:Idaho State Bengals @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Eastern Wa
- shington Eagles\nReese Court\, Cheney\, WA
+ shington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +297,11 @@ DTSTART:20270123T220000Z
 DTEND:20270124T010000Z
 SUMMARY:Eastern Washington Eagles @ Idaho Vandals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Idah
- o Vandals\nICCU Arena\, Moscow\, ID
+ o Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announced
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +310,12 @@ DTSTART:20270126T020000Z
 DTEND:20270126T050000Z
 SUMMARY:Weber State Wildcats @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWeber State Wildcats @ Eastern W
- ashington Eagles\nReese Court\, Cheney\, WA
+ ashington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +324,12 @@ DTSTART:20270129T020000Z
 DTEND:20270129T050000Z
 SUMMARY:Northern Colorado Bears @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Colorado Bears @ Easter
- n Washington Eagles\nReese Court\, Cheney\, WA
+ n Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +338,12 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:Portland State Vikings @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Eastern
-  Washington Eagles\nReese Court\, Cheney\, WA
+  Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +352,12 @@ DTSTART:20270205T020000Z
 DTEND:20270205T050000Z
 SUMMARY:Eastern Washington Eagles @ Utah Tech Trailblazers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Utah
-  Tech Trailblazers\nBurns Arena\, St. George\, UT
+  Tech Trailblazers\nBurns Arena\, St. George\, UT\nBroadcast: Broadcast no
+ t announced
 LOCATION:Burns Arena\, St. George\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +366,12 @@ DTSTART:20270207T013000Z
 DTEND:20270207T043000Z
 SUMMARY:Eastern Washington Eagles @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Sout
- hern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ hern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroa
+ dcast: Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +380,12 @@ DTSTART:20270212T020000Z
 DTEND:20270212T050000Z
 SUMMARY:Montana Grizzlies @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMontana Grizzlies @ Eastern Wash
- ington Eagles\nReese Court\, Cheney\, WA
+ ington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +394,12 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:Montana State Bobcats @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMontana State Bobcats @ Eastern 
- Washington Eagles\nReese Court\, Cheney\, WA
+ Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +408,12 @@ DTSTART:20270221T010000Z
 DTEND:20270221T040000Z
 SUMMARY:Eastern Washington Eagles @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Nort
- hern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ hern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBro
+ adcast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +422,12 @@ DTSTART:20270223T020000Z
 DTEND:20270223T050000Z
 SUMMARY:Eastern Washington Eagles @ Idaho State Bengals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Idah
- o State Bengals\nReed Gym\, Pocatello\, ID
+ o State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +436,11 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:Idaho Vandals @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho Vandals @ Eastern Washingt
- on Eagles\nReese Court\, Cheney\, WA
+ on Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast not announced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +449,12 @@ DTSTART:20270302T010000Z
 DTEND:20270302T040000Z
 SUMMARY:Eastern Washington Eagles @ Weber State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Webe
- r State Wildcats\nDee Events Center\, Ogden\, UT
+ r State Wildcats\nDee Events Center\, Ogden\, UT\nBroadcast: Broadcast not
+  announced
 LOCATION:Dee Events Center\, Ogden\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 END:VCALENDAR

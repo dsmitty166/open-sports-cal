@@ -12,12 +12,13 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:Ohio Bobcats @ Nebraska Cornhuskers
 DESCRIPTION:NCAA FBS Football 2026\nOhio Bobcats @ Nebraska Cornhuskers\nMe
- morial Stadium (Lincoln\, NE)\, Lincoln\, NE
+ morial Stadium (Lincoln\, NE)\, Lincoln\, NE\nBroadcast: FS1
 LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858441@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Bowling Green Falcons @ Nebraska Cornhuskers
 DESCRIPTION:NCAA FBS Football 2026\nBowling Green Falcons @ Nebraska Cornhu
- skers\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE
+ skers\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE\nBroadcast: FS1
 LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858452@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20260919T231500Z
 DTEND:20260920T021500Z
 SUMMARY:North Dakota Fighting Hawks @ Nebraska Cornhuskers
 DESCRIPTION:NCAA FBS Football 2026\nNorth Dakota Fighting Hawks @ Nebraska 
- Cornhuskers\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE
+ Cornhuskers\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE\nBroadcast: BT
+ N
 LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858464@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260926T210000Z
 DTEND:20260927T000000Z
 SUMMARY:Nebraska Cornhuskers @ Michigan State Spartans
 DESCRIPTION:NCAA FBS Football 2026\nNebraska Cornhuskers @ Michigan State S
- partans\nSpartan Stadium\, East Lansing\, MI
+ partans\nSpartan Stadium\, East Lansing\, MI\nBroadcast: BTN
 LOCATION:Spartan Stadium\, East Lansing\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858475@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T200000Z
 DTEND:20261003T230000Z
 SUMMARY:Maryland Terrapins @ Nebraska Cornhuskers
 DESCRIPTION:NCAA FBS Football 2026\nMaryland Terrapins @ Nebraska Cornhuske
- rs\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE
+ rs\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE\nBroadcast: FS1
 LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858481@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:Indiana Hoosiers @ Nebraska Cornhuskers
 DESCRIPTION:NCAA FBS Football 2026\nIndiana Hoosiers @ Nebraska Cornhuskers
- \nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE
+ \nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE\nBroadcast: Fox
 LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858492@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261018T030000Z
 DTEND:20261018T060000Z
 SUMMARY:Nebraska Cornhuskers @ Oregon Ducks
 DESCRIPTION:NCAA FBS Football 2026\nNebraska Cornhuskers @ Oregon Ducks\nAu
- tzen Stadium\, Eugene\, OR
+ tzen Stadium\, Eugene\, OR\nBroadcast: Fox
 LOCATION:Autzen Stadium\, Eugene\, OR
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858504@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261101T000000Z
 DTEND:20261101T030000Z
 SUMMARY:Washington Huskies @ Nebraska Cornhuskers
 DESCRIPTION:NCAA FBS Football 2026\nWashington Huskies @ Nebraska Cornhuske
- rs\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE
+ rs\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE\nBroadcast: BTN
 LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858510@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:Nebraska Cornhuskers @ Illinois Fighting Illini
 DESCRIPTION:NCAA FBS Football 2026\nNebraska Cornhuskers @ Illinois Fightin
- g Illini\nGies Memorial Stadium\, Champaign\, IL
+ g Illini\nGies Memorial Stadium\, Champaign\, IL\nBroadcast: Fox
 LOCATION:Gies Memorial Stadium\, Champaign\, IL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858525@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261114T173000Z
 DTEND:20261114T203000Z
 SUMMARY:Nebraska Cornhuskers @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA FBS Football 2026\nNebraska Cornhuskers @ Rutgers Scarlet 
- Knights\nSHI Stadium\, Piscataway\, NJ
+ Knights\nSHI Stadium\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:SHI Stadium\, Piscataway\, NJ
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858531@open-sports-cal
@@ -142,11 +153,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Ohio State Buckeyes @ Nebraska Cornhuskers
 DESCRIPTION:NCAA FBS Football 2026\nOhio State Buckeyes @ Nebraska Cornhusk
- ers\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE\nStart time TBD
+ ers\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE\nStart time TBD\nBroad
+ cast: Broadcast not announced
 LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858536@open-sports-cal
@@ -154,11 +166,12 @@ DTSTART:20261127T170000Z
 DTEND:20261127T200000Z
 SUMMARY:Nebraska Cornhuskers @ Iowa Hawkeyes
 DESCRIPTION:NCAA FBS Football 2026\nNebraska Cornhuskers @ Iowa Hawkeyes\nK
- innick Stadium\, Iowa City\, IA
+ innick Stadium\, Iowa City\, IA\nBroadcast: CBS
 LOCATION:Kinnick Stadium\, Iowa City\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 END:VCALENDAR

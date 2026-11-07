@@ -12,12 +12,14 @@ DTSTART:20260829T160000Z
 DTEND:20260829T190000Z
 SUMMARY:Robert Morris Colonials @ Wagner Seahawks
 DESCRIPTION:NCAA FCS Football 2026\nRobert Morris Colonials @ Wagner Seahaw
- ks\nHameline Field at Wagner College Stadium\, Staten Island\, NY
+ ks\nHameline Field at Wagner College Stadium\, Staten Island\, NY\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Hameline Field at Wagner College Stadium\, Staten Island\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867928@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:Southern Connecticut State Owls @ Wagner Seahawks
 DESCRIPTION:NCAA FCS Football 2026\nSouthern Connecticut State Owls @ Wagne
- r Seahawks\nHameline Field at Wagner College Stadium\, Staten Island\, NY
+ r Seahawks\nHameline Field at Wagner College Stadium\, Staten Island\, NY\
+ nBroadcast: NEC Front Row
 LOCATION:Hameline Field at Wagner College Stadium\, Staten Island\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867929@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:Wagner Seahawks @ James Madison Dukes
 DESCRIPTION:NCAA FCS Football 2026\nWagner Seahawks @ James Madison Dukes\n
- Bridgeforth Stadium\, Harrisonburg\, VA
+ Bridgeforth Stadium\, Harrisonburg\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401858233@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20260919T193000Z
 DTEND:20260919T223000Z
 SUMMARY:Wagner Seahawks @ California Golden Bears
 DESCRIPTION:NCAA FCS Football 2026\nWagner Seahawks @ California Golden Bea
- rs\nCalifornia Memorial Stadium\, Berkeley\, CA
+ rs\nCalifornia Memorial Stadium\, Berkeley\, CA\nBroadcast: ACC Network
 LOCATION:California Memorial Stadium\, Berkeley\, CA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867899@open-sports-cal
@@ -64,11 +70,12 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Wagner Seahawks @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA FCS Football 2026\nWagner Seahawks @ Central Connecticut B
- lue Devils\nArute Field\, New Britain\, CT
+ lue Devils\nArute Field\, New Britain\, CT\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Arute Field\, New Britain\, CT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +84,12 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:Princeton Tigers @ Wagner Seahawks
 DESCRIPTION:NCAA FCS Football 2026\nPrinceton Tigers @ Wagner Seahawks\nHam
- eline Field at Wagner College Stadium\, Staten Island\, NY
+ eline Field at Wagner College Stadium\, Staten Island\, NY\nBroadcast: Bro
+ adcast not announced
 LOCATION:Hameline Field at Wagner College Stadium\, Staten Island\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +98,14 @@ DTSTART:20261017T210000Z
 DTEND:20261018T000000Z
 SUMMARY:Long Island University Sharks @ Wagner Seahawks
 DESCRIPTION:NCAA FCS Football 2026\nLong Island University Sharks @ Wagner 
- Seahawks\nHameline Field at Wagner College Stadium\, Staten Island\, NY
+ Seahawks\nHameline Field at Wagner College Stadium\, Staten Island\, NY\nB
+ roadcast: NEC Front Row
 LOCATION:Hameline Field at Wagner College Stadium\, Staten Island\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867931@open-sports-cal
@@ -103,12 +113,14 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:Wagner Seahawks @ Duquesne Dukes
 DESCRIPTION:NCAA FCS Football 2026\nWagner Seahawks @ Duquesne Dukes\nArthu
- r J. Rooney Athletic Field\, Pittsburgh\, PA
+ r J. Rooney Athletic Field\, Pittsburgh\, PA\nBroadcast: SportsNet PIT / N
+ EC Front Row
 LOCATION:Arthur J. Rooney Athletic Field\, Pittsburgh\, PA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SportsNet PIT / NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867932@open-sports-cal
@@ -116,12 +128,13 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Wagner Seahawks @ Merrimack Warriors
 DESCRIPTION:NCAA FCS Football 2026\nWagner Seahawks @ Merrimack Warriors\nD
- uane Stadium\, North Andover\, MA
+ uane Stadium\, North Andover\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Duane Stadium\, North Andover\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867933@open-sports-cal
@@ -129,12 +142,13 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:Wagner Seahawks @ Mercyhurst Lakers
 DESCRIPTION:NCAA FCS Football 2026\nWagner Seahawks @ Mercyhurst Lakers\nSa
- xon Stadium\, Erie\, PA
+ xon Stadium\, Erie\, PA\nBroadcast: NEC Front Row
 LOCATION:Saxon Stadium\, Erie\, PA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867934@open-sports-cal
@@ -142,11 +156,12 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:New Haven Chargers @ Wagner Seahawks
 DESCRIPTION:NCAA FCS Football 2026\nNew Haven Chargers @ Wagner Seahawks\nH
- ameline Field at Wagner College Stadium\, Staten Island\, NY
+ ameline Field at Wagner College Stadium\, Staten Island\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:Hameline Field at Wagner College Stadium\, Staten Island\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +170,11 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Wagner Seahawks @ Stonehill Skyhawks
 DESCRIPTION:NCAA FCS Football 2026\nWagner Seahawks @ Stonehill Skyhawks\nW
- .B. Mason Stadium\, North Easton\, MA
+ .B. Mason Stadium\, North Easton\, MA\nBroadcast: Broadcast not announced
 LOCATION:W.B. Mason Stadium\, North Easton\, MA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,13 @@ DTSTART:20260905T193000Z
 DTEND:20260905T223000Z
 SUMMARY:Towson Tigers @ Navy Midshipmen
 DESCRIPTION:NCAA FBS Football 2026\nTowson Tigers @ Navy Midshipmen\nNavy-M
- arine Corps Memorial Stadium\, Annapolis\, MD
+ arine Corps Memorial Stadium\, Annapolis\, MD\nBroadcast: CBSSN
 LOCATION:Navy-Marine Corps Memorial Stadium\, Annapolis\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862703@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T233000Z
 DTEND:20260913T023000Z
 SUMMARY:Navy Midshipmen @ Florida Atlantic Owls
 DESCRIPTION:NCAA FBS Football 2026\nNavy Midshipmen @ Florida Atlantic Owls
- \nFlagler Credit Union Stadium\, Boca Raton\, FL
+ \nFlagler Credit Union Stadium\, Boca Raton\, FL\nBroadcast: ESPNU
 LOCATION:Flagler Credit Union Stadium\, Boca Raton\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862778@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260925T230000Z
 DTEND:20260926T020000Z
 SUMMARY:Navy Midshipmen @ UAB Blazers
 DESCRIPTION:NCAA FBS Football 2026\nNavy Midshipmen @ UAB Blazers\nProtecti
- ve Stadium\, Birmingham\, AL
+ ve Stadium\, Birmingham\, AL\nBroadcast: ESPN
 LOCATION:Protective Stadium\, Birmingham\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862791@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Navy Midshipmen @ Air Force Falcons
 DESCRIPTION:NCAA FBS Football 2026\nNavy Midshipmen @ Air Force Falcons\nFa
- lcon Stadium\, USAF Academy\, CO
+ lcon Stadium\, USAF Academy\, CO\nBroadcast: CBS
 LOCATION:Falcon Stadium\, USAF Academy\, CO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862799@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261010T193000Z
 DTEND:20261010T223000Z
 SUMMARY:Tulsa Golden Hurricane @ Navy Midshipmen
 DESCRIPTION:NCAA FBS Football 2026\nTulsa Golden Hurricane @ Navy Midshipme
- n\nNavy-Marine Corps Memorial Stadium\, Annapolis\, MD
+ n\nNavy-Marine Corps Memorial Stadium\, Annapolis\, MD\nBroadcast: CBSSN
 LOCATION:Navy-Marine Corps Memorial Stadium\, Annapolis\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862804@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261018T000000Z
 DTEND:20261018T030000Z
 SUMMARY:Navy Midshipmen @ UTSA Roadrunners
 DESCRIPTION:NCAA FBS Football 2026\nNavy Midshipmen @ UTSA Roadrunners\nAla
- modome\, San Antonio\, TX
+ modome\, San Antonio\, TX\nBroadcast: ESPNU
 LOCATION:Alamodome\, San Antonio\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862810@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:North Texas Mean Green @ Navy Midshipmen
 DESCRIPTION:NCAA FBS Football 2026\nNorth Texas Mean Green @ Navy Midshipme
- n\nNavy-Marine Corps Memorial Stadium\, Annapolis\, MD
+ n\nNavy-Marine Corps Memorial Stadium\, Annapolis\, MD\nBroadcast: CBSSN
 LOCATION:Navy-Marine Corps Memorial Stadium\, Annapolis\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401859185@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Notre Dame Fighting Irish @ Navy Midshipmen
 DESCRIPTION:NCAA FBS Football 2026\nNotre Dame Fighting Irish @ Navy Midshi
- pmen\nGillette Stadium\, Foxborough\, MA\nNeutral site
+ pmen\nGillette Stadium\, Foxborough\, MA\nNeutral site\nBroadcast: ABC
 LOCATION:Gillette Stadium\, Foxborough\, MA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862820@open-sports-cal
@@ -116,12 +124,13 @@ DTSTART:20261107T203000Z
 DTEND:20261107T233000Z
 SUMMARY:Temple Owls @ Navy Midshipmen
 DESCRIPTION:NCAA FBS Football 2026\nTemple Owls @ Navy Midshipmen\nNavy-Mar
- ine Corps Memorial Stadium\, Annapolis\, MD
+ ine Corps Memorial Stadium\, Annapolis\, MD\nBroadcast: CBSSN
 LOCATION:Navy-Marine Corps Memorial Stadium\, Annapolis\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862834@open-sports-cal
@@ -129,11 +138,12 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Memphis Tigers @ Navy Midshipmen
 DESCRIPTION:NCAA FBS Football 2026\nMemphis Tigers @ Navy Midshipmen\nNavy-
- Marine Corps Memorial Stadium\, Annapolis\, MD
+ Marine Corps Memorial Stadium\, Annapolis\, MD\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Navy-Marine Corps Memorial Stadium\, Annapolis\, MD
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,11 +152,12 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Navy Midshipmen @ Charlotte 49ers
 DESCRIPTION:NCAA FBS Football 2026\nNavy Midshipmen @ Charlotte 49ers\nJerr
- y Richardson Stadium\, Charlotte\, NC\nStart time TBD
+ y Richardson Stadium\, Charlotte\, NC\nStart time TBD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Jerry Richardson Stadium\, Charlotte\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862844@open-sports-cal
@@ -154,11 +165,12 @@ DTSTART:20261212T200000Z
 DTEND:20261212T230000Z
 SUMMARY:Navy Midshipmen @ Army Black Knights
 DESCRIPTION:NCAA FBS Football 2026\nNavy Midshipmen @ Army Black Knights\nM
- etLife Stadium\, East Rutherford\, NJ\nNeutral site
+ etLife Stadium\, East Rutherford\, NJ\nNeutral site\nBroadcast: CBS
 LOCATION:MetLife Stadium\, East Rutherford\, NJ
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 END:VCALENDAR

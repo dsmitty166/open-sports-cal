@@ -12,13 +12,15 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Defiance Yellow Jackets @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDefiance Yellow Jackets @ Nort
- hern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ hern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929059@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261105T233000Z
 DTEND:20261106T023000Z
 SUMMARY:Northern Kentucky Norse @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Kent
- ucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ ucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SECN+ (
+ streaming)
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929031@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261107T160000Z
 DTEND:20261107T190000Z
 SUMMARY:Kent State Golden Flashes @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKent State Golden Flashes @ No
- rthern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ rthern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928192@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261112T160000Z
 DTEND:20261112T190000Z
 SUMMARY:Chattanooga Mocs @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nChattanooga Mocs @ Northern Ke
- ntucky Norse\nTruist Arena\, Highland Heights\, KY
+ ntucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918450@open-sports-cal
@@ -68,13 +76,15 @@ DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:Northern Kentucky Norse @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ East
- ern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+ ern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918468@open-sports-cal
@@ -82,13 +92,14 @@ DTSTART:20261122T200000Z
 DTEND:20261122T230000Z
 SUMMARY:Northern Kentucky Norse @ Baylor Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Bayl
- or Bears\nFoster Pavilion\, Waco\, TX
+ or Bears\nFoster Pavilion\, Waco\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Foster Pavilion\, Waco\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929032@open-sports-cal
@@ -96,13 +107,15 @@ DTSTART:20261125T180000Z
 DTEND:20261125T210000Z
 SUMMARY:Southern Indiana Screaming Eagles @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Indiana Screaming Eag
- les @ Northern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ les @ Northern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919712@open-sports-cal
@@ -110,13 +123,14 @@ DTSTART:20261128T200000Z
 DTEND:20261128T230000Z
 SUMMARY:Northern Kentucky Norse @ Murray State Racers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Murr
- ay State Racers\nCFSB Center\, Murray\, KY
+ ay State Racers\nCFSB Center\, Murray\, KY\nBroadcast: ESPN+ (streaming)
 LOCATION:CFSB Center\, Murray\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919085@open-sports-cal
@@ -124,13 +138,15 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Northern Kentucky Norse @ Cleveland State Vikings
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Clev
- eland State Vikings\nWolstein Center\, Cleveland\, OH
+ eland State Vikings\nWolstein Center\, Cleveland\, OH\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Wolstein Center\, Cleveland\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919093@open-sports-cal
@@ -138,13 +154,15 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Detroit Mercy Titans @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDetroit Mercy Titans @ Norther
- n Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ n Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929033@open-sports-cal
@@ -152,12 +170,13 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:Northern Kentucky Norse @ Indiana Hoosiers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Indi
- ana Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+ ana Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN\nBroadcast: Br
+ oadcast not announced
 LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -166,13 +185,15 @@ DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Northern Kentucky Norse @ Morehead State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ More
- head State Eagles\nEllis T. Johnson Arena\, Morehead\, KY
+ head State Eagles\nEllis T. Johnson Arena\, Morehead\, KY\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Ellis T. Johnson Arena\, Morehead\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906087@open-sports-cal
@@ -180,13 +201,15 @@ DTSTART:20261218T000000Z
 DTEND:20261218T030000Z
 SUMMARY:Northern Kentucky Norse @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Loui
- sville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ sville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ACCNX (str
+ eaming)
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918665@open-sports-cal
@@ -194,13 +217,15 @@ DTSTART:20261222T170000Z
 DTEND:20261222T200000Z
 SUMMARY:Marshall Thundering Herd @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Nor
- thern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ thern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919097@open-sports-cal
@@ -208,13 +233,15 @@ DTSTART:20261231T180000Z
 DTEND:20261231T210000Z
 SUMMARY:Oakland Golden Grizzlies @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOakland Golden Grizzlies @ Nor
- thern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ thern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919104@open-sports-cal
@@ -222,12 +249,13 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:Youngstown State Penguins @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nYoungstown State Penguins @ No
- rthern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ rthern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +264,13 @@ DTSTART:20270107T233000Z
 DTEND:20270108T023000Z
 SUMMARY:Northern Kentucky Norse @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Nort
- hern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ hern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast: Br
+ oadcast not announced
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +279,13 @@ DTSTART:20270110T180000Z
 DTEND:20270110T210000Z
 SUMMARY:Green Bay Phoenix @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGreen Bay Phoenix @ Northern K
- entucky Norse\nTruist Arena\, Highland Heights\, KY
+ entucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: Broadcast 
+ not announced
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +294,13 @@ DTSTART:20270112T230000Z
 DTEND:20270113T020000Z
 SUMMARY:Robert Morris Colonials @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRobert Morris Colonials @ Nort
- hern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ hern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +309,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Northern Kentucky Norse @ Wright State Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Wrig
- ht State Raiders\nNutter Center\, Dayton\, OH
+ ht State Raiders\nNutter Center\, Dayton\, OH\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Nutter Center\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +324,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Northern Kentucky Norse @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Purd
- ue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ ue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nB
+ roadcast: Broadcast not announced
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +339,13 @@ DTSTART:20270124T180000Z
 DTEND:20270124T210000Z
 SUMMARY:IU Indianapolis Jaguars @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIU Indianapolis Jaguars @ Nort
- hern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ hern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +354,13 @@ DTSTART:20270127T233000Z
 DTEND:20270128T023000Z
 SUMMARY:Northern Kentucky Norse @ Oakland Golden Grizzlies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Oakl
- and Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+ and Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI\nBroadcast: 
+ Broadcast not announced
 LOCATION:OU Credit Union O'rena\, Rochester\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +369,13 @@ DTSTART:20270130T170000Z
 DTEND:20270130T200000Z
 SUMMARY:Northern Kentucky Norse @ Detroit Mercy Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Detr
- oit Mercy Titans\nCalihan Hall\, Detroit\, MI
+ oit Mercy Titans\nCalihan Hall\, Detroit\, MI\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Calihan Hall\, Detroit\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +384,13 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Milwaukee Panthers @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMilwaukee Panthers @ Northern 
- Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: Broadcast
+  not announced
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +399,13 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Northern Kentucky Norse @ IU Indianapolis Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ IU I
- ndianapolis Jaguars\nJames T. Morris Arena\, Indianapolis\, IN
+ ndianapolis Jaguars\nJames T. Morris Arena\, Indianapolis\, IN\nBroadcast:
+  Broadcast not announced
 LOCATION:James T. Morris Arena\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +414,13 @@ DTSTART:20270210T230000Z
 DTEND:20270211T020000Z
 SUMMARY:Northern Illinois Huskies @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ No
- rthern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ rthern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +429,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Northern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ Northern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: 
+ Broadcast not announced
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +444,13 @@ DTSTART:20270217T230000Z
 DTEND:20270218T020000Z
 SUMMARY:Northern Kentucky Norse @ Robert Morris Colonials
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Robe
- rt Morris Colonials\nUPMC Events Center\, Moon Township\, PA
+ rt Morris Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: B
+ roadcast not announced
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +459,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Wright State Raiders @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWright State Raiders @ Norther
- n Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ n Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: Broadca
+ st not announced
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +474,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Northern Kentucky Norse @ Milwaukee Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Milw
- aukee Panthers\nKlotsche Center\, Milwaukee\, WI
+ aukee Panthers\nKlotsche Center\, Milwaukee\, WI\nBroadcast: Broadcast not
+  announced
 LOCATION:Klotsche Center\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -446,12 +489,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Northern Kentucky Norse @ Green Bay Phoenix
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Gree
- n Bay Phoenix\nKress Center\, Green Bay\, WI
+ n Bay Phoenix\nKress Center\, Green Bay\, WI\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Kress Center\, Green Bay\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

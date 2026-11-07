@@ -12,13 +12,14 @@ DTSTART:20261102T220000Z
 DTEND:20261103T010000Z
 SUMMARY:Cornell Big Red @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCornell Big Red @ UConn Huskie
- s\nPeoplesBank Arena\, Hartford\, CT
+ s\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: Peacock (streaming)
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911737@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261105T233000Z
 DTEND:20261106T023000Z
 SUMMARY:UConn Huskies @ Michigan Wolverines
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Michigan Wolve
- rines\nCrisler Center\, Ann Arbor\, MI
+ rines\nCrisler Center\, Ann Arbor\, MI\nBroadcast: FS1
 LOCATION:Crisler Center\, Ann Arbor\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911738@open-sports-cal
@@ -40,13 +42,14 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:Iowa Hawkeyes @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIowa Hawkeyes @ UConn Huskies\
- nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: FS1
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911739@open-sports-cal
@@ -54,13 +57,14 @@ DTSTART:20261112T233000Z
 DTEND:20261113T023000Z
 SUMMARY:UConn Huskies @ Ohio State Buckeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Ohio State Buc
- keyes\nSchottenstein Center\, Columbus\, OH
+ keyes\nSchottenstein Center\, Columbus\, OH\nBroadcast: FS1
 LOCATION:Schottenstein Center\, Columbus\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906079@open-sports-cal
@@ -68,13 +72,14 @@ DTSTART:20261115T223000Z
 DTEND:20261116T013000Z
 SUMMARY:UConn Huskies @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Louisville Car
- dinals\nKFC Yum! Center\, Louisville\, KY
+ dinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ESPN
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923012@open-sports-cal
@@ -82,13 +87,14 @@ DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
 SUMMARY:Seton Hall Pirates @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSeton Hall Pirates @ UConn Hus
- kies\nPeoplesBank Arena\, Hartford\, CT
+ kies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: Peacock (streaming)
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911740@open-sports-cal
@@ -96,12 +102,13 @@ DTSTART:20261125T010000Z
 DTEND:20261125T040000Z
 SUMMARY:South Carolina Gamecocks @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Gamecocks @ UCo
- nn Huskies\nMohegan Sun Arena\, Uncasville\, CT\nNeutral site
+ nn Huskies\nMohegan Sun Arena\, Uncasville\, CT\nNeutral site\nBroadcast: 
+ Broadcast not announced
 LOCATION:Mohegan Sun Arena\, Uncasville\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +117,13 @@ DTSTART:20261129T000000Z
 DTEND:20261129T030000Z
 SUMMARY:Duke Blue Devils @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDuke Blue Devils @ UConn Huski
- es\nTD Garden\, Boston\, MA\nNeutral site
+ es\nTD Garden\, Boston\, MA\nNeutral site\nBroadcast: Broadcast not announ
+ ced
 LOCATION:TD Garden\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +132,13 @@ DTSTART:20261202T233000Z
 DTEND:20261203T023000Z
 SUMMARY:UNLV Lady Rebels @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNLV Lady Rebels @ UConn Huski
- es\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ es\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: Broadcast
+  not announced
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +147,14 @@ DTSTART:20261205T213000Z
 DTEND:20261206T003000Z
 SUMMARY:UConn Huskies @ Maryland Terrapins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Maryland Terra
- pins\nBarclays Center\, Brooklyn\, NY\nNeutral site
+ pins\nBarclays Center\, Brooklyn\, NY\nNeutral site\nBroadcast: Fox
 LOCATION:Barclays Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911744@open-sports-cal
@@ -152,13 +162,14 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:UConn Huskies @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Notre Dame Fig
- hting Irish\nPurcell Pavilion\, South Bend\, IN
+ hting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ESPN
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911745@open-sports-cal
@@ -166,12 +177,13 @@ DTSTART:20261212T193000Z
 DTEND:20261212T223000Z
 SUMMARY:Tennessee Lady Volunteers @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ UC
- onn Huskies\nPeoplesBank Arena\, Hartford\, CT
+ onn Huskies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -180,13 +192,15 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Creighton Bluejays @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCreighton Bluejays @ UConn Hus
- kies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ kies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: Peacock
+  (streaming)
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911786@open-sports-cal
@@ -194,13 +208,14 @@ DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:UConn Huskies @ LSU Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ LSU Tigers\nBr
- idgestone Arena\, Nashville\, TN\nNeutral site
+ idgestone Arena\, Nashville\, TN\nNeutral site\nBroadcast: ABC
 LOCATION:Bridgestone Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923024@open-sports-cal
@@ -208,13 +223,14 @@ DTSTART:20261223T180000Z
 DTEND:20261223T210000Z
 SUMMARY:UConn Huskies @ Villanova Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Villanova Wild
- cats\nFinneran Pavilion\, Villanova\, PA
+ cats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: Peacock (streaming)
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923030@open-sports-cal
@@ -222,13 +238,14 @@ DTSTART:20261231T220000Z
 DTEND:20270101T010000Z
 SUMMARY:UConn Huskies @ Xavier Musketeers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Xavier Muskete
- ers\nCintas Center\, Cincinnati\, OH
+ ers\nCintas Center\, Cincinnati\, OH\nBroadcast: FS1
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923035@open-sports-cal
@@ -236,13 +253,14 @@ DTSTART:20270103T210000Z
 DTEND:20270104T000000Z
 SUMMARY:UConn Huskies @ DePaul Blue Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ DePaul Blue De
- mons\nWintrust Arena\, Chicago\, IL
+ mons\nWintrust Arena\, Chicago\, IL\nBroadcast: NBC
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923038@open-sports-cal
@@ -250,13 +268,14 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Georgetown Hoyas @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgetown Hoyas @ UConn Huski
- es\nPeoplesBank Arena\, Hartford\, CT
+ es\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: TNT
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923044@open-sports-cal
@@ -264,13 +283,15 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:UConn Huskies @ Creighton Bluejays
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Creighton Blue
- jays\nLiberty First Credit Union Arena\, Omaha\, NE
+ jays\nLiberty First Credit Union Arena\, Omaha\, NE\nBroadcast: Peacock (s
+ treaming)
 LOCATION:Liberty First Credit Union Arena\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923048@open-sports-cal
@@ -278,13 +299,14 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Marquette Golden Eagles @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarquette Golden Eagles @ UCon
- n Huskies\nPeoplesBank Arena\, Hartford\, CT
+ n Huskies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: truTV
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923055@open-sports-cal
@@ -292,13 +314,14 @@ DTSTART:20270118T193000Z
 DTEND:20270118T223000Z
 SUMMARY:UConn Huskies @ Seton Hall Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Seton Hall Pir
- ates\nWalsh Gymnasium\, South Orange\, NJ
+ ates\nWalsh Gymnasium\, South Orange\, NJ\nBroadcast: Fox
 LOCATION:Walsh Gymnasium\, South Orange\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923064@open-sports-cal
@@ -306,13 +329,14 @@ DTSTART:20270124T170000Z
 DTEND:20270124T200000Z
 SUMMARY:UConn Huskies @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ St. John's Red
-  Storm\nMadison Square Garden\, New York\, NY
+  Storm\nMadison Square Garden\, New York\, NY\nBroadcast: TNT
 LOCATION:Madison Square Garden\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923068@open-sports-cal
@@ -320,13 +344,14 @@ DTSTART:20270128T233000Z
 DTEND:20270129T023000Z
 SUMMARY:DePaul Blue Demons @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDePaul Blue Demons @ UConn Hus
- kies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ kies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: FS1
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923072@open-sports-cal
@@ -334,13 +359,14 @@ DTSTART:20270131T170000Z
 DTEND:20270131T200000Z
 SUMMARY:Providence Friars @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nProvidence Friars @ UConn Husk
- ies\nPeoplesBank Arena\, Hartford\, CT
+ ies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: TNT
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923078@open-sports-cal
@@ -348,13 +374,14 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:UConn Huskies @ Butler Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Butler Bulldog
- s\nHinkle Fieldhouse\, Indianapolis\, IN
+ s\nHinkle Fieldhouse\, Indianapolis\, IN\nBroadcast: truTV
 LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923084@open-sports-cal
@@ -362,13 +389,14 @@ DTSTART:20270207T193000Z
 DTEND:20270207T223000Z
 SUMMARY:UConn Huskies @ Marquette Golden Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Marquette Gold
- en Eagles\nFiserv Forum\, Milwaukee\, WI
+ en Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: TNT
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923088@open-sports-cal
@@ -376,13 +404,15 @@ DTSTART:20270210T230000Z
 DTEND:20270211T020000Z
 SUMMARY:Villanova Wildcats @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVillanova Wildcats @ UConn Hus
- kies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ kies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: Peacock
+  (streaming)
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923091@open-sports-cal
@@ -390,13 +420,14 @@ DTSTART:20270213T170000Z
 DTEND:20270213T200000Z
 SUMMARY:Xavier Musketeers @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nXavier Musketeers @ UConn Husk
- ies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ ies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: FS1
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923099@open-sports-cal
@@ -404,13 +435,14 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:UConn Huskies @ Georgetown Hoyas
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Georgetown Hoy
- as\nMcDonough Arena\, Washington\, DC
+ as\nMcDonough Arena\, Washington\, DC\nBroadcast: Peacock (streaming)
 LOCATION:McDonough Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923104@open-sports-cal
@@ -418,13 +450,14 @@ DTSTART:20270221T170000Z
 DTEND:20270221T200000Z
 SUMMARY:St. John's Red Storm @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ UConn H
- uskies\nPeoplesBank Arena\, Hartford\, CT
+ uskies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: FS1
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923109@open-sports-cal
@@ -432,13 +465,14 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:UConn Huskies @ Providence Friars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Providence Fri
- ars\nAmica Mutual Pavilion\, Providence\, RI
+ ars\nAmica Mutual Pavilion\, Providence\, RI\nBroadcast: TNT
 LOCATION:Amica Mutual Pavilion\, Providence\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923114@open-sports-cal
@@ -446,12 +480,13 @@ DTSTART:20270228T190000Z
 DTEND:20270228T220000Z
 SUMMARY:Butler Bulldogs @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nButler Bulldogs @ UConn Huskie
- s\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ s\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: FS1
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 END:VCALENDAR

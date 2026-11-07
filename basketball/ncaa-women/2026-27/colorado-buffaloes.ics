@@ -12,13 +12,15 @@ DTSTART:20261105T010000Z
 DTEND:20261105T040000Z
 SUMMARY:Morgan State Lady Bears @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Colo
- rado Buffaloes\nCU Events Center\, Boulder\, CO
+ rado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923474@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
 SUMMARY:Fresno State Bulldogs @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFresno State Bulldogs @ Colora
- do Buffaloes\nCU Events Center\, Boulder\, CO
+ do Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923475@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261112T010000Z
 DTEND:20261112T040000Z
 SUMMARY:Colorado Buffaloes @ San Diego State Aztecs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ San Diego
-  State Aztecs\nViejas Arena\, San Diego\, CA
+  State Aztecs\nViejas Arena\, San Diego\, CA\nBroadcast: YouTube (streamin
+ g)
 LOCATION:Viejas Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923476@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261114T200000Z
 DTEND:20261114T230000Z
 SUMMARY:Youngstown State Penguins @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nYoungstown State Penguins @ Co
- lorado Buffaloes\nCU Events Center\, Boulder\, CO
+ lorado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920276@open-sports-cal
@@ -68,12 +76,12 @@ DTSTART:20261119T020000Z
 DTEND:20261119T050000Z
 SUMMARY:Colorado Buffaloes @ New Mexico Lobos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ New Mexic
- o Lobos\nThe Pit\, Albuquerque\, NM
+ o Lobos\nThe Pit\, Albuquerque\, NM\nBroadcast: Broadcast not announced
 LOCATION:The Pit\, Albuquerque\, NM
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -83,11 +91,12 @@ DTEND:20261126T213000Z
 SUMMARY:Georgia Lady Bulldogs @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Lady Bulldogs @ Colora
  do Buffaloes\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral site
+ \nBroadcast: Broadcast not announced
 LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Cancun
 END:VEVENT
 BEGIN:VEVENT
@@ -96,12 +105,13 @@ DTSTART:20261127T160000Z
 DTEND:20261127T190000Z
 SUMMARY:Colorado Buffaloes @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Oregon Du
- cks\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral site
+ cks\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutral site\nBroadca
+ st: Broadcast not announced
 LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Cancun
 END:VEVENT
 BEGIN:VEVENT
@@ -111,12 +121,12 @@ DTEND:20261128T190000Z
 SUMMARY:Colorado Buffaloes @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Maryland 
  Eastern Shore Hawks\nHard Rock Hotel Riviera Maya\, Cancun\, Mexico\nNeutr
- al site
+ al site\nBroadcast: Broadcast not announced
 LOCATION:Hard Rock Hotel Riviera Maya\, Cancun\, Mexico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Cancun
 END:VEVENT
 BEGIN:VEVENT
@@ -125,13 +135,14 @@ DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
 SUMMARY:Colorado Buffaloes @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Denver Pi
- oneers\nHamilton Gymnasium\, Denver\, CO
+ oneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920503@open-sports-cal
@@ -139,13 +150,14 @@ DTSTART:20261206T200000Z
 DTEND:20261206T230000Z
 SUMMARY:Wyoming Cowgirls @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ Colorado Bu
- ffaloes\nCU Events Center\, Boulder\, CO
+ ffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917751@open-sports-cal
@@ -153,13 +165,14 @@ DTSTART:20261212T230000Z
 DTEND:20261213T020000Z
 SUMMARY:San Francisco Dons @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Colorado 
- Buffaloes\nCU Events Center\, Boulder\, CO
+ Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923477@open-sports-cal
@@ -167,13 +180,15 @@ DTSTART:20261215T230000Z
 DTEND:20261216T020000Z
 SUMMARY:Utah Tech Trailblazers @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah Tech Trailblazers @ Color
- ado Buffaloes\nCU Events Center\, Boulder\, CO
+ ado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922859@open-sports-cal
@@ -181,13 +196,15 @@ DTSTART:20261220T190000Z
 DTEND:20261220T220000Z
 SUMMARY:Colorado Buffaloes @ Texas Tech Lady Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Texas Tec
- h Lady Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ h Lady Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: ESPN+
+  (streaming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922865@open-sports-cal
@@ -195,12 +212,13 @@ DTSTART:20261231T010000Z
 DTEND:20261231T040000Z
 SUMMARY:Arizona State Sun Devils @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona State Sun Devils @ Col
- orado Buffaloes\nCU Events Center\, Boulder\, CO
+ orado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not
+  announced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -209,13 +227,14 @@ DTSTART:20270102T230000Z
 DTEND:20270103T020000Z
 SUMMARY:Baylor Bears @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBaylor Bears @ Colorado Buffal
- oes\nCU Events Center\, Boulder\, CO
+ oes\nCU Events Center\, Boulder\, CO\nBroadcast: CBSSN
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922884@open-sports-cal
@@ -223,12 +242,13 @@ DTSTART:20270107T003000Z
 DTEND:20270107T033000Z
 SUMMARY:Colorado Buffaloes @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Oklahoma 
- State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: Broadcas
+ t not announced
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -237,12 +257,12 @@ DTSTART:20270110T010000Z
 DTEND:20270110T040000Z
 SUMMARY:UCF Knights @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUCF Knights @ Colorado Buffalo
- es\nCU Events Center\, Boulder\, CO
+ es\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not announced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -251,12 +271,12 @@ DTSTART:20270114T010000Z
 DTEND:20270114T040000Z
 SUMMARY:BYU Cougars @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBYU Cougars @ Colorado Buffalo
- es\nCU Events Center\, Boulder\, CO
+ es\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not announced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -265,12 +285,13 @@ DTSTART:20270117T190000Z
 DTEND:20270117T220000Z
 SUMMARY:Colorado Buffaloes @ Cincinnati Bearcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Cincinnat
- i Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ i Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: Broadcast not 
+ announced
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -279,12 +300,13 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Colorado Buffaloes @ West Virginia Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ West Virg
- inia Mountaineers\nHope Coliseum\, Morgantown\, WV
+ inia Mountaineers\nHope Coliseum\, Morgantown\, WV\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Hope Coliseum\, Morgantown\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -293,12 +315,13 @@ DTSTART:20270124T200000Z
 DTEND:20270124T230000Z
 SUMMARY:Kansas Jayhawks @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas Jayhawks @ Colorado Buf
- faloes\nCU Events Center\, Boulder\, CO
+ faloes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not announce
+ d
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +330,13 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:Colorado Buffaloes @ TCU Horned Frogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ TCU Horne
- d Frogs\nSchollmaier Arena\, Fort Worth\, TX
+ d Frogs\nSchollmaier Arena\, Fort Worth\, TX\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Schollmaier Arena\, Fort Worth\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -321,12 +345,13 @@ DTSTART:20270204T010000Z
 DTEND:20270204T040000Z
 SUMMARY:Houston Cougars @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHouston Cougars @ Colorado Buf
- faloes\nCU Events Center\, Boulder\, CO
+ faloes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not announce
+ d
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -335,12 +360,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:Colorado Buffaloes @ Iowa State Cyclones
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Iowa Stat
- e Cyclones\nHilton Coliseum\, Ames\, IA
+ e Cyclones\nHilton Coliseum\, Ames\, IA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Hilton Coliseum\, Ames\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -349,13 +375,14 @@ DTSTART:20270211T033000Z
 DTEND:20270211T063000Z
 SUMMARY:Oklahoma State Cowgirls @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOklahoma State Cowgirls @ Colo
- rado Buffaloes\nCU Events Center\, Boulder\, CO
+ rado Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: FS1
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922966@open-sports-cal
@@ -363,12 +390,13 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:Colorado Buffaloes @ Utah Utes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Utah Utes
- \nJon M. Huntsman Center\, Salt Lake City\, UT
+ \nJon M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +405,12 @@ DTSTART:20270217T020000Z
 DTEND:20270217T050000Z
 SUMMARY:Colorado Buffaloes @ BYU Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ BYU Couga
- rs\nMarriott Center\, Provo\, UT
+ rs\nMarriott Center\, Provo\, UT\nBroadcast: Broadcast not announced
 LOCATION:Marriott Center\, Provo\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +419,13 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:Arizona Wildcats @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArizona Wildcats @ Colorado Bu
- ffaloes\nCU Events Center\, Boulder\, CO
+ ffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +434,13 @@ DTSTART:20270225T013000Z
 DTEND:20270225T043000Z
 SUMMARY:Colorado Buffaloes @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColorado Buffaloes @ Arizona S
- tate Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ tate Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast: Broadcast
+  not announced
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +449,13 @@ DTSTART:20270228T200000Z
 DTEND:20270228T230000Z
 SUMMARY:Kansas State Wildcats @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas State Wildcats @ Colora
- do Buffaloes\nCU Events Center\, Boulder\, CO
+ do Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: Broadcast not an
+ nounced
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 END:VCALENDAR

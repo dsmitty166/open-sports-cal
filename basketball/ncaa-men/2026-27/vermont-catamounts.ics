@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Vermont Catamounts @ Iona Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Iona Gaels\
- nHynes Athletics Center\, New Rochelle\, NY
+ nHynes Athletics Center\, New Rochelle\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Hynes Athletics Center\, New Rochelle\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920691@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Vermont Catamounts @ Fairfield Stags
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Fairfield S
- tags\nLeo D. Mahoney Arena\, Fairfield\, CT
+ tags\nLeo D. Mahoney Arena\, Fairfield\, CT\nBroadcast: ESPN+ (streaming)
 LOCATION:Leo D. Mahoney Arena\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920692@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:Quinnipiac Bobcats @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nQuinnipiac Bobcats @ Vermont Cat
- amounts\nPatrick Gymnasium\, Burlington\, VT
+ amounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: ESPN+ (streaming)
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920693@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Plattsburgh Cardinals @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPlattsburgh Cardinals @ Vermont 
- Catamounts\nPatrick Gymnasium\, Burlington\, VT
+ Catamounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920694@open-sports-cal
@@ -64,12 +69,14 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Vermont Catamounts @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Yale Bulldo
- gs\nJohn J. Lee Amphitheater\, New Haven\, CT
+ gs\nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911310@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
 SUMMARY:Brown Bears @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Vermont Catamounts
- \nPatrick Gymnasium\, Burlington\, VT
+ \nPatrick Gymnasium\, Burlington\, VT\nBroadcast: ESPN+ (streaming)
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920695@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Vermont Catamounts @ Siena Saints
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Siena Saint
- s\nMVP Arena\, Albany\, NY
+ s\nMVP Arena\, Albany\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:MVP Arena\, Albany\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924810@open-sports-cal
@@ -104,11 +113,11 @@ DTEND:20261127T210000Z
 SUMMARY:Vermont Catamounts @ Merrimack Warriors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Merrimack W
  arriors\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nNeu
- tral site
+ tral site\nBroadcast: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -118,11 +127,11 @@ DTEND:20261128T210000Z
 SUMMARY:Vermont Catamounts @ Colgate Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Colgate Rai
  ders\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nNeutra
- l site
+ l site\nBroadcast: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -131,11 +140,12 @@ DTSTART:20261129T193000Z
 DTEND:20261129T223000Z
 SUMMARY:Vermont Catamounts @ Hofstra Pride
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Hofstra Pri
- de\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+ de\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroadcas
+ t: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -144,11 +154,12 @@ DTSTART:20261203T230000Z
 DTEND:20261204T020000Z
 SUMMARY:Princeton Tigers @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Vermont Catam
- ounts\nPatrick Gymnasium\, Burlington\, VT
+ ounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -157,12 +168,14 @@ DTSTART:20261206T170000Z
 DTEND:20261206T200000Z
 SUMMARY:Vermont Catamounts @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Florida Gat
- ors\nStephen C. O'Connell Center\, Gainesville\, FL
+ ors\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: SEC Networ
+ k / SECN+ (streaming)
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network / SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920697@open-sports-cal
@@ -170,11 +183,12 @@ DTSTART:20261211T000000Z
 DTEND:20261211T030000Z
 SUMMARY:Vermont Catamounts @ Merrimack Warriors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Merrimack W
- arriors\nLawler Arena\, North Andover\, MA
+ arriors\nLawler Arena\, North Andover\, MA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Lawler Arena\, North Andover\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -183,12 +197,14 @@ DTSTART:20261213T210000Z
 DTEND:20261214T000000Z
 SUMMARY:Northeastern Huskies @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNortheastern Huskies @ Vermont C
- atamounts\nPatrick Gymnasium\, Burlington\, VT
+ atamounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920699@open-sports-cal
@@ -196,12 +212,14 @@ DTSTART:20261220T190000Z
 DTEND:20261220T220000Z
 SUMMARY:Vermont Catamounts @ Robert Morris Colonials
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Robert Morr
- is Colonials\nUPMC Events Center\, Moon Township\, PA
+ is Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920700@open-sports-cal
@@ -209,11 +227,12 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:Western New England Golden Bears @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern New England Golden Bears
-  @ Vermont Catamounts\nPatrick Gymnasium\, Burlington\, VT
+  @ Vermont Catamounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Bro
+ adcast not announced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,11 +241,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Vermont Catamounts @ Binghamton Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Binghamton 
- Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY
+ Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast: Broadca
+ st not announced
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -235,11 +255,12 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:UMass Lowell River Hawks @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Vermo
- nt Catamounts\nPatrick Gymnasium\, Burlington\, VT
+ nt Catamounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -248,11 +269,12 @@ DTSTART:20270114T230000Z
 DTEND:20270115T020000Z
 SUMMARY:Vermont Catamounts @ New Hampshire Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ New Hampshi
- re Wildcats\nLundholm Gymnasium\, Durham\, NH
+ re Wildcats\nLundholm Gymnasium\, Durham\, NH\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Lundholm Gymnasium\, Durham\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -261,11 +283,12 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Bryant Bulldogs @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBryant Bulldogs @ Vermont Catamo
- unts\nPatrick Gymnasium\, Burlington\, VT
+ unts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -274,11 +297,12 @@ DTSTART:20270121T230000Z
 DTEND:20270122T020000Z
 SUMMARY:Vermont Catamounts @ UMBC Retrievers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ UMBC Retrie
- vers\nChesapeake Employers Insurance Arena\, Baltimore\, MD
+ vers\nChesapeake Employers Insurance Arena\, Baltimore\, MD\nBroadcast: Br
+ oadcast not announced
 LOCATION:Chesapeake Employers Insurance Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -287,11 +311,12 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Vermont Catamounts @ NJIT Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ NJIT Highla
- nders\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ
+ nders\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ\nBroadc
+ ast: Broadcast not announced
 LOCATION:Joel & Diane Bloom Wellness and Events Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -300,11 +325,12 @@ DTSTART:20270128T230000Z
 DTEND:20270129T020000Z
 SUMMARY:Vermont Catamounts @ Maine Black Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Maine Black
-  Bears\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME
+  Bears\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME\nBroadcast
+ : Broadcast not announced
 LOCATION:Skip Chappelle Court in Memorial Gymnasium\, Orono\, ME
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -313,11 +339,12 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:UAlbany Great Danes @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUAlbany Great Danes @ Vermont Ca
- tamounts\nPatrick Gymnasium\, Burlington\, VT
+ tamounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -326,11 +353,12 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:New Hampshire Wildcats @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Vermont
-  Catamounts\nPatrick Gymnasium\, Burlington\, VT
+  Catamounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Broadcast not
+  announced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -339,11 +367,12 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:Vermont Catamounts @ Bryant Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Bryant Bull
- dogs\nChace Athletic Center\, Smithfield\, RI
+ dogs\nChace Athletic Center\, Smithfield\, RI\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Chace Athletic Center\, Smithfield\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -352,11 +381,12 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Binghamton Bearcats @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBinghamton Bearcats @ Vermont Ca
- tamounts\nPatrick Gymnasium\, Burlington\, VT
+ tamounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -365,11 +395,12 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:Vermont Catamounts @ UAlbany Great Danes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ UAlbany Gre
- at Danes\nBroadview Center\, Albany\, NY
+ at Danes\nBroadview Center\, Albany\, NY\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Broadview Center\, Albany\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -378,11 +409,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:UMBC Retrievers @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMBC Retrievers @ Vermont Catamo
- unts\nPatrick Gymnasium\, Burlington\, VT
+ unts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,11 +423,12 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:NJIT Highlanders @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNJIT Highlanders @ Vermont Catam
- ounts\nPatrick Gymnasium\, Burlington\, VT
+ ounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,11 +437,12 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:Vermont Catamounts @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ UMass Lowel
- l River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ l River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: B
+ roadcast not announced
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -417,11 +451,12 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Maine Black Bears @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaine Black Bears @ Vermont Cata
- mounts\nPatrick Gymnasium\, Burlington\, VT
+ mounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

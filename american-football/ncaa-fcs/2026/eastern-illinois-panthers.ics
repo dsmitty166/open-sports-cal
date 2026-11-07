@@ -12,12 +12,13 @@ DTSTART:20260827T230000Z
 DTEND:20260828T020000Z
 SUMMARY:Eastern Illinois Panthers @ Murray State Racers
 DESCRIPTION:NCAA FCS Football 2026\nEastern Illinois Panthers @ Murray Stat
- e Racers\nRoy Stewart Stadium\, Murray\, KY
+ e Racers\nRoy Stewart Stadium\, Murray\, KY\nBroadcast: ESPN+ (streaming)
 LOCATION:Roy Stewart Stadium\, Murray\, KY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401858422@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20260904T000000Z
 DTEND:20260904T030000Z
 SUMMARY:Eastern Illinois Panthers @ Minnesota Golden Gophers
 DESCRIPTION:NCAA FCS Football 2026\nEastern Illinois Panthers @ Minnesota G
- olden Gophers\nHuntington Bank Stadium\, Minneapolis\, MN
+ olden Gophers\nHuntington Bank Stadium\, Minneapolis\, MN\nBroadcast: Peac
+ ock (streaming)
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867856@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Indiana State Sycamores @ Eastern Illinois Panthers
 DESCRIPTION:NCAA FCS Football 2026\nIndiana State Sycamores @ Eastern Illin
- ois Panthers\nO'Brien Field\, Charleston\, IL
+ ois Panthers\nO'Brien Field\, Charleston\, IL\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:O'Brien Field\, Charleston\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867846@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20260919T190000Z
 DTEND:20260919T220000Z
 SUMMARY:Eastern Illinois Panthers @ Illinois State Redbirds
 DESCRIPTION:NCAA FCS Football 2026\nEastern Illinois Panthers @ Illinois St
- ate Redbirds\nHancock Stadium\, Normal\, IL
+ ate Redbirds\nHancock Stadium\, Normal\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Hancock Stadium\, Normal\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868179@open-sports-cal
@@ -64,12 +70,14 @@ DTSTART:20260926T230000Z
 DTEND:20260927T020000Z
 SUMMARY:Eastern Illinois Panthers @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA FCS Football 2026\nEastern Illinois Panthers @ South Dakot
- a State Jackrabbits\nDana J. Dykhouse Stadium\, Brookings\, SD
+ a State Jackrabbits\nDana J. Dykhouse Stadium\, Brookings\, SD\nBroadcast:
+  ESPN+ (streaming) / Midco Sports Net
 LOCATION:Dana J. Dykhouse Stadium\, Brookings\, SD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming) / Midco Sports Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868180@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20261010T193000Z
 DTEND:20261010T223000Z
 SUMMARY:Eastern Illinois Panthers @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nEastern Illinois Panthers @ Gardner-Web
- b Runnin' Bulldogs\nErnest W. Spangler Stadium\, Boiling Springs\, NC
+ b Runnin' Bulldogs\nErnest W. Spangler Stadium\, Boiling Springs\, NC\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:Ernest W. Spangler Stadium\, Boiling Springs\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868181@open-sports-cal
@@ -90,12 +100,13 @@ DTSTART:20261017T190000Z
 DTEND:20261017T220000Z
 SUMMARY:Lindenwood Lions @ Eastern Illinois Panthers
 DESCRIPTION:NCAA FCS Football 2026\nLindenwood Lions @ Eastern Illinois Pan
- thers\nO'Brien Field\, Charleston\, IL
+ thers\nO'Brien Field\, Charleston\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:O'Brien Field\, Charleston\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868182@open-sports-cal
@@ -103,12 +114,14 @@ DTSTART:20261024T190000Z
 DTEND:20261024T220000Z
 SUMMARY:Southeast Missouri State Redhawks @ Eastern Illinois Panthers
 DESCRIPTION:NCAA FCS Football 2026\nSoutheast Missouri State Redhawks @ Eas
- tern Illinois Panthers\nO'Brien Field\, Charleston\, IL
+ tern Illinois Panthers\nO'Brien Field\, Charleston\, IL\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:O'Brien Field\, Charleston\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868183@open-sports-cal
@@ -116,12 +129,14 @@ DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 SUMMARY:Eastern Illinois Panthers @ UT Martin Skyhawks
 DESCRIPTION:NCAA FCS Football 2026\nEastern Illinois Panthers @ UT Martin S
- kyhawks\nHardy M. Graham Stadium\, Martin\, TN
+ kyhawks\nHardy M. Graham Stadium\, Martin\, TN\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Hardy M. Graham Stadium\, Martin\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868184@open-sports-cal
@@ -129,12 +144,14 @@ DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
 SUMMARY:Western Illinois Leathernecks @ Eastern Illinois Panthers
 DESCRIPTION:NCAA FCS Football 2026\nWestern Illinois Leathernecks @ Eastern
-  Illinois Panthers\nO'Brien Field\, Charleston\, IL
+  Illinois Panthers\nO'Brien Field\, Charleston\, IL\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:O'Brien Field\, Charleston\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868185@open-sports-cal
@@ -142,12 +159,13 @@ DTSTART:20261114T203000Z
 DTEND:20261114T233000Z
 SUMMARY:Eastern Illinois Panthers @ Tennessee State Tigers
 DESCRIPTION:NCAA FCS Football 2026\nEastern Illinois Panthers @ Tennessee S
- tate Tigers\nNissan Stadium\, Nashville\, TN
+ tate Tigers\nNissan Stadium\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Nissan Stadium\, Nashville\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868178@open-sports-cal
@@ -155,11 +173,13 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Charleston Southern Buccaneers @ Eastern Illinois Panthers
 DESCRIPTION:NCAA FCS Football 2026\nCharleston Southern Buccaneers @ Easter
- n Illinois Panthers\nO'Brien Field\, Charleston\, IL
+ n Illinois Panthers\nO'Brien Field\, Charleston\, IL\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:O'Brien Field\, Charleston\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

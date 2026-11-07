@@ -12,12 +12,14 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:New Haven Chargers @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Haven Chargers @ Rutgers Sca
- rlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ rlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: B1G+ (st
+ reaming)
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920866@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261110T233000Z
 DTEND:20261111T023000Z
 SUMMARY:NJIT Highlanders @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNJIT Highlanders @ Rutgers Scarl
- et Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ et Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923270@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261113T230000Z
 DTEND:20261114T020000Z
 SUMMARY:Bryant Bulldogs @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBryant Bulldogs @ Rutgers Scarle
- t Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ t Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920511@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20261117T190000Z
 DTEND:20261117T220000Z
 SUMMARY:Rutgers Scarlet Knights @ Houston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Housto
- n Cougars\nMichelob ULTRA Arena\, Las Vegas\, NV\nNeutral site
+ n Cougars\nMichelob ULTRA Arena\, Las Vegas\, NV\nNeutral site\nBroadcast:
+  ESPN
 LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924877@open-sports-cal
@@ -64,12 +70,14 @@ DTSTART:20261124T230000Z
 DTEND:20261125T020000Z
 SUMMARY:Sacred Heart Pioneers @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSacred Heart Pioneers @ Rutgers 
- Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: B1G+ 
+ (streaming)
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921873@open-sports-cal
@@ -77,12 +85,13 @@ DTSTART:20261202T010000Z
 DTEND:20261202T040000Z
 SUMMARY:Rutgers Scarlet Knights @ Indiana Hoosiers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Indian
- a Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+ a Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN\nBroadcast: FS1
 LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921887@open-sports-cal
@@ -90,12 +99,13 @@ DTSTART:20261209T233000Z
 DTEND:20261210T023000Z
 SUMMARY:Michigan Wolverines @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan Wolverines @ Rutgers Sc
- arlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ arlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920891@open-sports-cal
@@ -103,12 +113,13 @@ DTSTART:20261212T213000Z
 DTEND:20261213T003000Z
 SUMMARY:Seton Hall Pirates @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Rutgers Sca
- rlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ rlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: FS1
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926136@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261216T233000Z
 DTEND:20261217T023000Z
 SUMMARY:Saint Peter's Peacocks @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Rutgers
-  Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+  Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401912237@open-sports-cal
@@ -129,12 +141,13 @@ DTSTART:20261220T170000Z
 DTEND:20261220T200000Z
 SUMMARY:Army Black Knights @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArmy Black Knights @ Rutgers Sca
- rlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ rlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926137@open-sports-cal
@@ -142,12 +155,14 @@ DTSTART:20261229T230000Z
 DTEND:20261230T020000Z
 SUMMARY:Delaware State Hornets @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ Rutgers
-  Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+  Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: Peac
+ ock (streaming)
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921898@open-sports-cal
@@ -155,12 +170,13 @@ DTSTART:20270102T170000Z
 DTEND:20270102T200000Z
 SUMMARY:Rutgers Scarlet Knights @ Purdue Boilermakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Purdue
-  Boilermakers\nMackey Arena\, West Lafayette\, IN
+  Boilermakers\nMackey Arena\, West Lafayette\, IN\nBroadcast: BTN
 LOCATION:Mackey Arena\, West Lafayette\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921904@open-sports-cal
@@ -168,12 +184,13 @@ DTSTART:20270105T230000Z
 DTEND:20270106T020000Z
 SUMMARY:UCLA Bruins @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUCLA Bruins @ Rutgers Scarlet Kn
- ights\nJersey Mike’s Arena\, Piscataway\, NJ
+ ights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921908@open-sports-cal
@@ -181,12 +198,13 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:USC Trojans @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUSC Trojans @ Rutgers Scarlet Kn
- ights\nJersey Mike’s Arena\, Piscataway\, NJ
+ ights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: FS1
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921916@open-sports-cal
@@ -194,12 +212,13 @@ DTSTART:20270113T013000Z
 DTEND:20270113T043000Z
 SUMMARY:Iowa Hawkeyes @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Rutgers Scarlet 
- Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921923@open-sports-cal
@@ -207,12 +226,13 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Rutgers Scarlet Knights @ Northwestern Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Northw
- estern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+ estern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL\nBroadcast: BTN
 LOCATION:Welsh-Ryan Arena\, Evanston\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921928@open-sports-cal
@@ -220,12 +240,13 @@ DTSTART:20270120T000000Z
 DTEND:20270120T030000Z
 SUMMARY:Rutgers Scarlet Knights @ Maryland Terrapins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Maryla
- nd Terrapins\nXFINITY Center\, College Park\, MD
+ nd Terrapins\nXFINITY Center\, College Park\, MD\nBroadcast: BTN
 LOCATION:XFINITY Center\, College Park\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921937@open-sports-cal
@@ -233,12 +254,14 @@ DTSTART:20270123T170000Z
 DTEND:20270123T200000Z
 SUMMARY:Minnesota Golden Gophers @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMinnesota Golden Gophers @ Rutge
- rs Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ rs Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BT
+ N
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921945@open-sports-cal
@@ -246,12 +269,13 @@ DTSTART:20270128T040000Z
 DTEND:20270128T070000Z
 SUMMARY:Rutgers Scarlet Knights @ Oregon Ducks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Oregon
-  Ducks\nMatthew Knight Arena\, Eugene\, OR
+  Ducks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: BTN
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921951@open-sports-cal
@@ -259,12 +283,13 @@ DTSTART:20270130T210000Z
 DTEND:20270131T000000Z
 SUMMARY:Rutgers Scarlet Knights @ Washington Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Washin
- gton Huskies\nAlaska Airlines Arena\, Seattle\, WA
+ gton Huskies\nAlaska Airlines Arena\, Seattle\, WA\nBroadcast: BTN
 LOCATION:Alaska Airlines Arena\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921954@open-sports-cal
@@ -272,12 +297,13 @@ DTSTART:20270203T233000Z
 DTEND:20270204T023000Z
 SUMMARY:Purdue Boilermakers @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPurdue Boilermakers @ Rutgers Sc
- arlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ arlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927400@open-sports-cal
@@ -285,12 +311,13 @@ DTSTART:20270206T160000Z
 DTEND:20270206T190000Z
 SUMMARY:Rutgers Scarlet Knights @ Syracuse Orange
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Syracu
- se Orange\nBarclays Center\, Brooklyn\, NY\nNeutral site
+ se Orange\nBarclays Center\, Brooklyn\, NY\nNeutral site\nBroadcast: ESPN2
 LOCATION:Barclays Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921966@open-sports-cal
@@ -298,12 +325,13 @@ DTSTART:20270210T233000Z
 DTEND:20270211T023000Z
 SUMMARY:Rutgers Scarlet Knights @ Michigan State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Michig
- an State Spartans\nBreslin Center\, East Lansing\, MI
+ an State Spartans\nBreslin Center\, East Lansing\, MI\nBroadcast: BTN
 LOCATION:Breslin Center\, East Lansing\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921868@open-sports-cal
@@ -311,12 +339,13 @@ DTSTART:20270213T170000Z
 DTEND:20270213T200000Z
 SUMMARY:Wisconsin Badgers @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWisconsin Badgers @ Rutgers Scar
- let Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ let Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921978@open-sports-cal
@@ -324,12 +353,13 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:Rutgers Scarlet Knights @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Nebras
- ka Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ ka Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: BTN
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921985@open-sports-cal
@@ -337,12 +367,14 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Penn State Nittany Lions @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPenn State Nittany Lions @ Rutge
- rs Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ rs Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: Pe
+ acock (streaming)
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921996@open-sports-cal
@@ -350,12 +382,13 @@ DTSTART:20270225T233000Z
 DTEND:20270226T023000Z
 SUMMARY:Rutgers Scarlet Knights @ Ohio State Buckeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Ohio S
- tate Buckeyes\nSchottenstein Center\, Columbus\, OH
+ tate Buckeyes\nSchottenstein Center\, Columbus\, OH\nBroadcast: FS1
 LOCATION:Schottenstein Center\, Columbus\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922003@open-sports-cal
@@ -363,12 +396,14 @@ DTSTART:20270228T220000Z
 DTEND:20270301T010000Z
 SUMMARY:Maryland Terrapins @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaryland Terrapins @ Rutgers Sca
- rlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ rlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: Peacock 
+ (streaming)
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922008@open-sports-cal
@@ -376,12 +411,14 @@ DTSTART:20270303T233000Z
 DTEND:20270304T023000Z
 SUMMARY:Illinois Fighting Illini @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Rutge
- rs Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ rs Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BT
+ N
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922017@open-sports-cal
@@ -389,11 +426,13 @@ DTSTART:20270307T200000Z
 DTEND:20270307T230000Z
 SUMMARY:Rutgers Scarlet Knights @ Penn State Nittany Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Penn S
- tate Nittany Lions\nBryce Jordan Center\, University Park\, PA
+ tate Nittany Lions\nBryce Jordan Center\, University Park\, PA\nBroadcast:
+  BTN
 LOCATION:Bryce Jordan Center\, University Park\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 END:VCALENDAR

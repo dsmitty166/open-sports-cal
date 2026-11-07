@@ -12,13 +12,14 @@ DTSTART:20261104T003000Z
 DTEND:20261104T033000Z
 SUMMARY:Le Moyne Dolphins @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLe Moyne Dolphins @ SMU Mustan
- gs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ gs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACCNX (streaming)
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915961@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261105T170000Z
 DTEND:20261105T200000Z
 SUMMARY:Hampton Lady Pirates @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ SMU Mus
- tangs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ tangs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACCNX (streaming)
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915962@open-sports-cal
@@ -40,13 +42,14 @@ DTSTART:20261109T000000Z
 DTEND:20261109T030000Z
 SUMMARY:East Texas A&M Lions @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Texas A&M Lions @ SMU Mus
- tangs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ tangs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACCNX (streaming)
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915963@open-sports-cal
@@ -54,13 +57,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Long Island University Sharks @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ SMU Mustangs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ @ SMU Mustangs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACCNX (s
+ treaming)
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915964@open-sports-cal
@@ -68,13 +73,14 @@ DTSTART:20261116T000000Z
 DTEND:20261116T030000Z
 SUMMARY:Nicholls Colonels @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNicholls Colonels @ SMU Mustan
- gs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ gs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACCNX (streaming)
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906984@open-sports-cal
@@ -82,13 +88,14 @@ DTSTART:20261118T003000Z
 DTEND:20261118T033000Z
 SUMMARY:SMU Mustangs @ Kansas State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Kansas State Wi
- ldcats\nBramlage Coliseum\, Manhattan\, KS
+ ldcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESPN+ (streaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915965@open-sports-cal
@@ -96,13 +103,14 @@ DTSTART:20261121T230000Z
 DTEND:20261122T020000Z
 SUMMARY:Grand Canyon Lopes @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrand Canyon Lopes @ SMU Musta
- ngs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ ngs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACCNX (streaming)
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915966@open-sports-cal
@@ -110,12 +118,13 @@ DTSTART:20261124T000000Z
 DTEND:20261124T030000Z
 SUMMARY:SMU Mustangs @ Saint Mary's Gaels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Saint Mary's Ga
- els\nComerica Center\, Frisco\, TX\nNeutral site
+ els\nComerica Center\, Frisco\, TX\nNeutral site\nBroadcast: Broadcast not
+  announced
 LOCATION:Comerica Center\, Frisco\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +133,13 @@ DTSTART:20261125T210000Z
 DTEND:20261126T000000Z
 SUMMARY:SMU Mustangs @ Memphis Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Memphis Tigers\
- nComerica Center\, Frisco\, TX\nNeutral site
+ nComerica Center\, Frisco\, TX\nNeutral site\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Comerica Center\, Frisco\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +148,14 @@ DTSTART:20261129T230000Z
 DTEND:20261130T020000Z
 SUMMARY:Virginia Cavaliers @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ SMU Musta
- ngs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ ngs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACC Network
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912983@open-sports-cal
@@ -152,13 +163,14 @@ DTSTART:20261203T021500Z
 DTEND:20261203T051500Z
 SUMMARY:Georgia Lady Bulldogs @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Lady Bulldogs @ SMU Mu
- stangs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ stangs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACC Network
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918257@open-sports-cal
@@ -166,13 +178,14 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:SMU Mustangs @ Syracuse Orange
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Syracuse Orange
- \nJMA Wireless Dome\, Syracuse\, NY
+ \nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: ACCNX (streaming)
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915968@open-sports-cal
@@ -180,13 +193,14 @@ DTSTART:20261210T003000Z
 DTEND:20261210T033000Z
 SUMMARY:SMU Mustangs @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Tulsa Golden Hu
- rricane\nReynolds Center\, Tulsa\, OK
+ rricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPN+ (streaming)
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915969@open-sports-cal
@@ -194,13 +208,14 @@ DTSTART:20261219T003000Z
 DTEND:20261219T033000Z
 SUMMARY:Coppin State Eagles @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoppin State Eagles @ SMU Must
- angs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ angs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACCNX (streaming)
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915970@open-sports-cal
@@ -208,13 +223,14 @@ DTSTART:20261220T210000Z
 DTEND:20261221T000000Z
 SUMMARY:UTSA Roadrunners @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUTSA Roadrunners @ SMU Mustang
- s\nMoody Coliseum (Dallas)\, Dallas\, TX
+ s\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACC Network
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915971@open-sports-cal
@@ -222,13 +238,15 @@ DTSTART:20261223T180000Z
 DTEND:20261223T210000Z
 SUMMARY:Incarnate Word Cardinals @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIncarnate Word Cardinals @ SMU
-  Mustangs\nMoody Coliseum (Dallas)\, Dallas\, TX
+  Mustangs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACCNX (stream
+ ing)
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918275@open-sports-cal
@@ -236,13 +254,15 @@ DTSTART:20261231T180000Z
 DTEND:20261231T210000Z
 SUMMARY:SMU Mustangs @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Wake Forest Dem
- on Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ on Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: ACCNX (streamin
+ g)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918284@open-sports-cal
@@ -250,12 +270,13 @@ DTSTART:20270103T200000Z
 DTEND:20270103T230000Z
 SUMMARY:Stanford Cardinal @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ SMU Mustan
- gs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ gs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +285,13 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:SMU Mustangs @ Boston College Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Boston College 
- Eagles\nConte Forum\, Chestnut Hill\, MA
+ Eagles\nConte Forum\, Chestnut Hill\, MA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +300,13 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:SMU Mustangs @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Pittsburgh Pant
- hers\nPetersen Events Center\, Pittsburgh\, PA
+ hers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +315,12 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Clemson Tigers @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ SMU Mustangs\
- nMoody Coliseum (Dallas)\, Dallas\, TX
+ nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: Broadcast not announced
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +329,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:SMU Mustangs @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Georgia Tech Ye
- llow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+ llow Jackets\nMcCamish Pavilion\, Atlanta\, GA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:McCamish Pavilion\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,13 +344,14 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Louisville Cardinals @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ SMU Mus
- tangs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ tangs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: CW
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918353@open-sports-cal
@@ -334,12 +359,13 @@ DTSTART:20270129T003000Z
 DTEND:20270129T033000Z
 SUMMARY:NC State Wolfpack @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNC State Wolfpack @ SMU Mustan
- gs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ gs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -348,13 +374,14 @@ DTSTART:20270131T170000Z
 DTEND:20270131T200000Z
 SUMMARY:SMU Mustangs @ Miami Hurricanes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Miami Hurricane
- s\nWatsco Center\, Coral Gables\, FL
+ s\nWatsco Center\, Coral Gables\, FL\nBroadcast: ACC Network
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918368@open-sports-cal
@@ -362,13 +389,14 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:SMU Mustangs @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Notre Dame Figh
- ting Irish\nPurcell Pavilion\, South Bend\, IN
+ ting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACC Network
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918376@open-sports-cal
@@ -376,12 +404,13 @@ DTSTART:20270207T200000Z
 DTEND:20270207T230000Z
 SUMMARY:Pittsburgh Panthers @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPittsburgh Panthers @ SMU Must
- angs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ angs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +419,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:SMU Mustangs @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Virginia Tech H
- okies\nCassell Coliseum\, Blacksburg\, VA
+ okies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +434,13 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:North Carolina Tar Heels @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Tar Heels @ SMU
-  Mustangs\nMoody Coliseum (Dallas)\, Dallas\, TX
+  Mustangs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: Broadcast not
+  announced
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +449,13 @@ DTSTART:20270221T200000Z
 DTEND:20270221T230000Z
 SUMMARY:California Golden Bears @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Golden Bears @ SMU 
- Mustangs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ Mustangs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: Broadcast not 
+ announced
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -432,13 +464,14 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Duke Blue Devils @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDuke Blue Devils @ SMU Mustang
- s\nMoody Coliseum (Dallas)\, Dallas\, TX
+ s\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACC Network
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918416@open-sports-cal
@@ -446,12 +479,13 @@ DTSTART:20270228T190000Z
 DTEND:20270228T220000Z
 SUMMARY:SMU Mustangs @ Florida State Seminoles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Florida State S
- eminoles\nTucker Center\, Tallahassee\, FL
+ eminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

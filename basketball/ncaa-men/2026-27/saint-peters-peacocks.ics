@@ -12,12 +12,13 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Saint Peter's Peacocks @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Seton H
- all Pirates\nPrudential Center\, Newark\, NJ
+ all Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911273@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Binghamton Bearcats @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBinghamton Bearcats @ Saint Pete
- r's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ r's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: ESPN+ (strea
+ ming) / SNY
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / SNY
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920865@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261108T210000Z
 DTEND:20261109T000000Z
 SUMMARY:Saint Peter's Peacocks @ NJIT Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ NJIT Hi
- ghlanders\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ
+ ghlanders\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ\nBr
+ oadcast: ESPN+ (streaming)
 LOCATION:Joel & Diane Bloom Wellness and Events Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921821@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Saint Peter's Peacocks @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ South C
- arolina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ arolina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SECN+ (
+ streaming)
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923325@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:Saint Peter's Peacocks @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ UMass L
- owell River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ owell River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924882@open-sports-cal
@@ -77,12 +86,14 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Stony Brook Seawolves @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStony Brook Seawolves @ Saint Pe
- ter's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ ter's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924705@open-sports-cal
@@ -90,12 +101,13 @@ DTSTART:20261125T190000Z
 DTEND:20261125T220000Z
 SUMMARY:Saint Peter's Peacocks @ Columbia Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Columbi
- a Lions\nLevien Gymnasium\, New York\, NY
+ a Lions\nLevien Gymnasium\, New York\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924780@open-sports-cal
@@ -103,12 +115,14 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Saint Peter's Peacocks @ Manhattan Jaspers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Manhatt
- an Jaspers\nDraddy Gymnasium\, Riverdale\, NY
+ an Jaspers\nDraddy Gymnasium\, Riverdale\, NY\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Draddy Gymnasium\, Riverdale\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924878@open-sports-cal
@@ -116,12 +130,14 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Sacred Heart Pioneers @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSacred Heart Pioneers @ Saint Pe
- ter's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ ter's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926136@open-sports-cal
@@ -129,12 +145,13 @@ DTSTART:20261216T233000Z
 DTEND:20261217T023000Z
 SUMMARY:Saint Peter's Peacocks @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Rutgers
-  Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+  Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919790@open-sports-cal
@@ -142,12 +159,14 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:Le Moyne Dolphins @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Saint Peter'
- s Peacocks\nYanitelli Center\, Jersey City\, NJ
+ s Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929619@open-sports-cal
@@ -155,12 +174,13 @@ DTSTART:20261222T180000Z
 DTEND:20261222T210000Z
 SUMMARY:Kean Cougars @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKean Cougars @ Saint Peter's Pea
- cocks\nYanitelli Center\, Jersey City\, NJ
+ cocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924865@open-sports-cal
@@ -168,11 +188,12 @@ DTSTART:20270101T190000Z
 DTEND:20270101T220000Z
 SUMMARY:Saint Peter's Peacocks @ Quinnipiac Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Quinnip
- iac Bobcats\nM&T Bank Arena\, Hamden\, CT
+ iac Bobcats\nM&T Bank Arena\, Hamden\, CT\nBroadcast: Broadcast not announ
+ ced
 LOCATION:M&T Bank Arena\, Hamden\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -181,11 +202,12 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:Rider Broncs @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Saint Peter's Pea
- cocks\nYanitelli Center\, Jersey City\, NJ
+ cocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +216,12 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:Saint Peter's Peacocks @ Canisius Golden Griffins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Canisiu
- s Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ s Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: Bro
+ adcast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +230,12 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:Saint Peter's Peacocks @ Niagara Purple Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Niagara
-  Purple Eagles\nGallagher Center\, Niagara Falls\, NY
+  Purple Eagles\nGallagher Center\, Niagara Falls\, NY\nBroadcast: Broadcas
+ t not announced
 LOCATION:Gallagher Center\, Niagara Falls\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +244,12 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Merrimack Warriors @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMerrimack Warriors @ Saint Peter
- 's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ 's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast not
+  announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +258,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Siena Saints @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSiena Saints @ Saint Peter's Pea
- cocks\nYanitelli Center\, Jersey City\, NJ
+ cocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +272,12 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Saint Peter's Peacocks @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Mount S
- t. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ t. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +286,12 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Saint Peter's Peacocks @ Rider Broncs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Rider B
- roncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ roncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: Broadcast
+  not announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +300,12 @@ DTSTART:20270130T000000Z
 DTEND:20270130T030000Z
 SUMMARY:Canisius Golden Griffins @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCanisius Golden Griffins @ Saint
-  Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ
+  Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadca
+ st not announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +314,12 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:Niagara Purple Eagles @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNiagara Purple Eagles @ Saint Pe
- ter's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ ter's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast 
+ not announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +328,12 @@ DTSTART:20270206T000000Z
 DTEND:20270206T030000Z
 SUMMARY:Saint Peter's Peacocks @ Merrimack Warriors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Merrima
- ck Warriors\nLawler Arena\, North Andover\, MA
+ ck Warriors\nLawler Arena\, North Andover\, MA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Lawler Arena\, North Andover\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +342,12 @@ DTSTART:20270207T190000Z
 DTEND:20270207T220000Z
 SUMMARY:Saint Peter's Peacocks @ Fairfield Stags
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Fairfie
- ld Stags\nLeo D. Mahoney Arena\, Fairfield\, CT
+ ld Stags\nLeo D. Mahoney Arena\, Fairfield\, CT\nBroadcast: Broadcast not 
+ announced
 LOCATION:Leo D. Mahoney Arena\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +356,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Iona Gaels @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIona Gaels @ Saint Peter's Peaco
- cks\nYanitelli Center\, Jersey City\, NJ
+ cks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +370,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Marist Red Foxes @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarist Red Foxes @ Saint Peter's
-  Peacocks\nYanitelli Center\, Jersey City\, NJ
+  Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +384,12 @@ DTSTART:20270219T230000Z
 DTEND:20270220T020000Z
 SUMMARY:Saint Peter's Peacocks @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Sacred 
- Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: Broadc
+ ast not announced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +398,12 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:Manhattan Jaspers @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nManhattan Jaspers @ Saint Peter'
- s Peacocks\nYanitelli Center\, Jersey City\, NJ
+ s Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast not 
+ announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +412,12 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:Quinnipiac Bobcats @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nQuinnipiac Bobcats @ Saint Peter
- 's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ 's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broadcast not
+  announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +426,12 @@ DTSTART:20270228T180000Z
 DTEND:20270228T210000Z
 SUMMARY:Saint Peter's Peacocks @ Iona Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ Iona Ga
- els\nHynes Athletics Center\, New Rochelle\, NY
+ els\nHynes Athletics Center\, New Rochelle\, NY\nBroadcast: Broadcast not 
+ announced
 LOCATION:Hynes Athletics Center\, New Rochelle\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

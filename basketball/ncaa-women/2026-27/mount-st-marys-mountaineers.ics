@@ -13,13 +13,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Navy Midshipmen @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Mount St. Ma
- ry's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ ry's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916036@open-sports-cal
@@ -27,13 +29,15 @@ DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ UMBC Retrievers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ UMBC Retrievers\nChesapeake Employers Insurance Arena\, Baltimore\, MD
+ @ UMBC Retrievers\nChesapeake Employers Insurance Arena\, Baltimore\, MD\n
+ Broadcast: ESPN+ (streaming)
 LOCATION:Chesapeake Employers Insurance Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913799@open-sports-cal
@@ -41,13 +45,15 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:UAlbany Great Danes @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUAlbany Great Danes @ Mount St
- . Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ . Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916163@open-sports-cal
@@ -55,13 +61,15 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Lehigh Mountain Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Lehigh Mountain Hawks\nStabler Arena\, Bethlehem\, PA
+ @ Lehigh Mountain Hawks\nStabler Arena\, Bethlehem\, PA\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Stabler Arena\, Bethlehem\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916164@open-sports-cal
@@ -69,13 +77,15 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Bucknell Bison @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBucknell Bison @ Mount St. Mar
- y's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ y's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916165@open-sports-cal
@@ -83,13 +93,15 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Nebraska Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ @ Nebraska Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: B1G
+ + (streaming)
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916166@open-sports-cal
@@ -97,13 +109,15 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:St. Mary's (MD) Seahawks @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. Mary's (MD) Seahawks @ Mou
- nt St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ nt St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916167@open-sports-cal
@@ -111,12 +125,13 @@ DTSTART:20261130T230000Z
 DTEND:20261201T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ @ Maryland Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -125,13 +140,15 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Mount St. Mary's Mountaineers @ West Virginia Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ West Virginia Mountaineers\nHope Coliseum\, Morgantown\, WV
+ @ West Virginia Mountaineers\nHope Coliseum\, Morgantown\, WV\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Hope Coliseum\, Morgantown\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916168@open-sports-cal
@@ -139,13 +156,14 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Dayton Flyers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Dayton Flyers\nUD Arena\, Dayton\, OH
+ @ Dayton Flyers\nUD Arena\, Dayton\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:UD Arena\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916169@open-sports-cal
@@ -153,12 +171,13 @@ DTSTART:20261210T230000Z
 DTEND:20261211T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Morgan State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Morgan State Lady Bears\nHill Field House\, Baltimore\, MD
+ @ Morgan State Lady Bears\nHill Field House\, Baltimore\, MD\nBroadcast: B
+ roadcast not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -167,12 +186,13 @@ DTSTART:20261213T170000Z
 DTEND:20261213T200000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Maryland Terrapins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Maryland Terrapins\nXFINITY Center\, College Park\, MD
+ @ Maryland Terrapins\nXFINITY Center\, College Park\, MD\nBroadcast: Broad
+ cast not announced
 LOCATION:XFINITY Center\, College Park\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -181,13 +201,15 @@ DTSTART:20261219T180000Z
 DTEND:20261219T210000Z
 SUMMARY:Niagara Purple Eagles @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNiagara Purple Eagles @ Mount 
- St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915603@open-sports-cal
@@ -195,13 +217,15 @@ DTSTART:20261221T180000Z
 DTEND:20261221T210000Z
 SUMMARY:Canisius Golden Griffins @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Mou
- nt St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ nt St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916105@open-sports-cal
@@ -209,13 +233,15 @@ DTSTART:20261229T190000Z
 DTEND:20261229T220000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Marist Red Foxes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Marist Red Foxes\nMcCann Arena\, Poughkeepsie\, NY
+ @ Marist Red Foxes\nMcCann Arena\, Poughkeepsie\, NY\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:McCann Arena\, Poughkeepsie\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915700@open-sports-cal
@@ -223,12 +249,13 @@ DTSTART:20270103T230000Z
 DTEND:20270104T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Manhattan Jaspers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Manhattan Jaspers\nDraddy Gymnasium\, Riverdale\, NY
+ @ Manhattan Jaspers\nDraddy Gymnasium\, Riverdale\, NY\nBroadcast: Broadca
+ st not announced
 LOCATION:Draddy Gymnasium\, Riverdale\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -237,12 +264,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Rider Broncs @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Mount St. Mary'
- s Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ s Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -251,12 +279,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Siena Saints\nUHY Center\, Loudonville\, NY
+ @ Siena Saints\nUHY Center\, Loudonville\, NY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -265,12 +294,13 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Sacred Heart Pioneers @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Mount 
- St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadca
+ st not announced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -279,12 +309,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Fairfield Stags
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Fairfield Stags\nLeo D. Mahoney Arena\, Fairfield\, CT
+ @ Fairfield Stags\nLeo D. Mahoney Arena\, Fairfield\, CT\nBroadcast: Broad
+ cast not announced
 LOCATION:Leo D. Mahoney Arena\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -293,12 +324,13 @@ DTSTART:20270118T230000Z
 DTEND:20270119T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Saint Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ @ Saint Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: 
+ Broadcast not announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +339,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Manhattan Jaspers @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nManhattan Jaspers @ Mount St. 
- Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -321,12 +354,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Iona Gaels @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIona Gaels @ Mount St. Mary's 
- Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -335,12 +369,13 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Merrimack Warriors
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Merrimack Warriors\nHammel Court\, North Andover\, MA
+ @ Merrimack Warriors\nHammel Court\, North Andover\, MA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Hammel Court\, North Andover\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,12 +384,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Fairfield Stags @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFairfield Stags @ Mount St. Ma
- ry's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ ry's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadcast not
+  announced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +399,13 @@ DTSTART:20270204T160000Z
 DTEND:20270204T190000Z
 SUMMARY:Siena Saints @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Mount St. Mary'
- s Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ s Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +414,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Rider Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ @ Rider Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: 
+ Broadcast not announced
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +429,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Sacred Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ @ Sacred Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcas
+ t: Broadcast not announced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +444,13 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Marist Red Foxes @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarist Red Foxes @ Mount St. M
- ary's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ ary's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadcast no
+ t announced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +459,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Quinnipiac Bobcats @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nQuinnipiac Bobcats @ Mount St.
-  Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+  Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: Broadcast 
+ not announced
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -433,12 +474,13 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Canisius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ @ Canisius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroad
+ cast: Broadcast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -447,12 +489,13 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Niagara Purple Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Niagara Purple Eagles\nGallagher Center\, Niagara Falls\, NY
+ @ Niagara Purple Eagles\nGallagher Center\, Niagara Falls\, NY\nBroadcast:
+  Broadcast not announced
 LOCATION:Gallagher Center\, Niagara Falls\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

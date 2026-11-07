@@ -12,12 +12,13 @@ DTSTART:20260906T020000Z
 DTEND:20260906T050000Z
 SUMMARY:Central Michigan Chippewas @ New Mexico Lobos
 DESCRIPTION:NCAA FBS Football 2026\nCentral Michigan Chippewas @ New Mexico
-  Lobos\nUniversity Stadium (NM)\, Albuquerque\, NM
+  Lobos\nUniversity Stadium (NM)\, Albuquerque\, NM\nBroadcast: FS1
 LOCATION:University Stadium (NM)\, Albuquerque\, NM
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401865252@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T200000Z
 DTEND:20260912T230000Z
 SUMMARY:Mercyhurst Lakers @ New Mexico Lobos
 DESCRIPTION:NCAA FBS Football 2026\nMercyhurst Lakers @ New Mexico Lobos\nU
- niversity Stadium (NM)\, Albuquerque\, NM
+ niversity Stadium (NM)\, Albuquerque\, NM\nBroadcast: MW+ (streaming)
 LOCATION:University Stadium (NM)\, Albuquerque\, NM
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856690@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T233000Z
 DTEND:20260920T023000Z
 SUMMARY:New Mexico Lobos @ Oklahoma Sooners
 DESCRIPTION:NCAA FBS Football 2026\nNew Mexico Lobos @ Oklahoma Sooners\nMe
- morial Stadium (Norman\, OK)\, Norman\, OK
+ morial Stadium (Norman\, OK)\, Norman\, OK\nBroadcast: ESPNEWS
 LOCATION:Memorial Stadium (Norman\, OK)\, Norman\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNEWS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864579@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:New Mexico Lobos @ New Mexico State Aggies
 DESCRIPTION:NCAA FBS Football 2026\nNew Mexico Lobos @ New Mexico State Agg
- ies\nAggie Memorial Stadium\, Las Cruces\, NM
+ ies\nAggie Memorial Stadium\, Las Cruces\, NM\nBroadcast: CBSSN
 LOCATION:Aggie Memorial Stadium\, Las Cruces\, NM
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864514@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T200000Z
 DTEND:20261003T230000Z
 SUMMARY:UTEP Miners @ New Mexico Lobos
 DESCRIPTION:NCAA FBS Football 2026\nUTEP Miners @ New Mexico Lobos\nUnivers
- ity Stadium (NM)\, Albuquerque\, NM
+ ity Stadium (NM)\, Albuquerque\, NM\nBroadcast: MW+ (streaming)
 LOCATION:University Stadium (NM)\, Albuquerque\, NM
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864521@open-sports-cal
@@ -77,12 +82,14 @@ DTSTART:20261018T023000Z
 DTEND:20261018T053000Z
 SUMMARY:New Mexico Lobos @ Hawai'i Rainbow Warriors
 DESCRIPTION:NCAA FBS Football 2026\nNew Mexico Lobos @ Hawai'i Rainbow Warr
- iors\nClarence T.C. Ching Athletics Complex\, Honolulu\, HI
+ iors\nClarence T.C. Ching Athletics Complex\, Honolulu\, HI\nBroadcast: FS
+ 1
 LOCATION:Clarence T.C. Ching Athletics Complex\, Honolulu\, HI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864527@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261025T022000Z
 DTEND:20261025T052000Z
 SUMMARY:North Dakota State Bison @ New Mexico Lobos
 DESCRIPTION:NCAA FBS Football 2026\nNorth Dakota State Bison @ New Mexico L
- obos\nUniversity Stadium (NM)\, Albuquerque\, NM
+ obos\nUniversity Stadium (NM)\, Albuquerque\, NM\nBroadcast: CW
 LOCATION:University Stadium (NM)\, Albuquerque\, NM
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864529@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261031T200000Z
 DTEND:20261031T230000Z
 SUMMARY:New Mexico Lobos @ San José State Spartans
 DESCRIPTION:NCAA FBS Football 2026\nNew Mexico Lobos @ San José State Spar
- tans\nCEFCU Stadium\, San Jose\, CA
+ tans\nCEFCU Stadium\, San Jose\, CA\nBroadcast: MW+ (streaming)
 LOCATION:CEFCU Stadium\, San Jose\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864533@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T020000Z
 DTEND:20261107T050000Z
 SUMMARY:New Mexico Lobos @ Nevada Wolf Pack
 DESCRIPTION:NCAA FBS Football 2026\nNew Mexico Lobos @ Nevada Wolf Pack\nMa
- ckay Stadium\, Reno\, NV
+ ckay Stadium\, Reno\, NV\nBroadcast: CBSSN
 LOCATION:Mackay Stadium\, Reno\, NV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864539@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261115T003000Z
 DTEND:20261115T033000Z
 SUMMARY:UNLV Rebels @ New Mexico Lobos
 DESCRIPTION:NCAA FBS Football 2026\nUNLV Rebels @ New Mexico Lobos\nUnivers
- ity Stadium (NM)\, Albuquerque\, NM
+ ity Stadium (NM)\, Albuquerque\, NM\nBroadcast: CW
 LOCATION:University Stadium (NM)\, Albuquerque\, NM
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864542@open-sports-cal
@@ -142,12 +153,13 @@ DTSTART:20261121T020000Z
 DTEND:20261121T050000Z
 SUMMARY:New Mexico Lobos @ Wyoming Cowboys
 DESCRIPTION:NCAA FBS Football 2026\nNew Mexico Lobos @ Wyoming Cowboys\nWar
-  Memorial Stadium\, Laramie\, WY
+  Memorial Stadium\, Laramie\, WY\nBroadcast: FS1
 LOCATION:War Memorial Stadium\, Laramie\, WY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864546@open-sports-cal
@@ -155,11 +167,12 @@ DTSTART:20261127T213000Z
 DTEND:20261128T003000Z
 SUMMARY:Air Force Falcons @ New Mexico Lobos
 DESCRIPTION:NCAA FBS Football 2026\nAir Force Falcons @ New Mexico Lobos\nU
- niversity Stadium (NM)\, Albuquerque\, NM
+ niversity Stadium (NM)\, Albuquerque\, NM\nBroadcast: CW
 LOCATION:University Stadium (NM)\, Albuquerque\, NM
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CW
 END:VEVENT
 END:VCALENDAR

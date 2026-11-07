@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Jackson State Tigers @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Texas Tec
- h Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ h Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: CBSSN
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919002@open-sports-cal
@@ -26,13 +27,14 @@ DTEND:20261106T033000Z
 SUMMARY:Jackson State Tigers @ Tulane Green Wave
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Tulane Gr
  een Wave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\,
-  LA
+  LA\nBroadcast: ESPN+ (streaming)
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906793@open-sports-cal
@@ -40,12 +42,14 @@ DTSTART:20261110T003000Z
 DTEND:20261110T033000Z
 SUMMARY:Jackson State Tigers @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Mississip
- pi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ pi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SECN+ (
+ streaming)
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921037@open-sports-cal
@@ -53,12 +57,14 @@ DTSTART:20261112T010000Z
 DTEND:20261112T040000Z
 SUMMARY:Jackson State Tigers @ Southern Miss Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Southern 
- Miss Golden Eagles\nReed Green Coliseum\, Hattiesburg\, MS
+ Miss Golden Eagles\nReed Green Coliseum\, Hattiesburg\, MS\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Reed Green Coliseum\, Hattiesburg\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921038@open-sports-cal
@@ -66,12 +72,13 @@ DTSTART:20261114T193000Z
 DTEND:20261114T223000Z
 SUMMARY:Jackson State Tigers @ Winthrop Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Winthrop 
- Eagles\nWinthrop Coliseum\, Rock Hill\, SC
+ Eagles\nWinthrop Coliseum\, Rock Hill\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Winthrop Coliseum\, Rock Hill\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909753@open-sports-cal
@@ -79,12 +86,13 @@ DTSTART:20261118T170000Z
 DTEND:20261118T200000Z
 SUMMARY:Jackson State Tigers @ Baylor Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Baylor Be
- ars\nFoster Pavilion\, Waco\, TX
+ ars\nFoster Pavilion\, Waco\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Foster Pavilion\, Waco\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919042@open-sports-cal
@@ -92,12 +100,14 @@ DTSTART:20261125T200000Z
 DTEND:20261125T230000Z
 SUMMARY:Jackson State Tigers @ Oklahoma State Cowboys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Oklahoma 
- State Cowboys\nGallagher-Iba Arena\, Stillwater\, OK
+ State Cowboys\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918989@open-sports-cal
@@ -105,12 +115,13 @@ DTSTART:20261202T170000Z
 DTEND:20261202T200000Z
 SUMMARY:Jackson State Tigers @ Memphis Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Memphis T
- igers\nFedExForum\, Memphis\, TN
+ igers\nFedExForum\, Memphis\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:FedExForum\, Memphis\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906871@open-sports-cal
@@ -118,12 +129,13 @@ DTSTART:20261209T010000Z
 DTEND:20261209T040000Z
 SUMMARY:Jackson State Tigers @ Texas Longhorns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Texas Lon
- ghorns\nMoody Center\, Austin\, TX
+ ghorns\nMoody Center\, Austin\, TX\nBroadcast: SECN+ (streaming)
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921039@open-sports-cal
@@ -131,12 +143,13 @@ DTSTART:20261216T010000Z
 DTEND:20261216T040000Z
 SUMMARY:Jackson State Tigers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Tulsa Gol
- den Hurricane\nReynolds Center\, Tulsa\, OK
+ den Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPN+ (streaming)
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906812@open-sports-cal
@@ -144,12 +157,13 @@ DTSTART:20261218T020000Z
 DTEND:20261218T050000Z
 SUMMARY:Jackson State Tigers @ Oklahoma Sooners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Oklahoma 
- Sooners\nLloyd Noble Center\, Norman\, OK
+ Sooners\nLloyd Noble Center\, Norman\, OK\nBroadcast: SEC Network
 LOCATION:Lloyd Noble Center\, Norman\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911259@open-sports-cal
@@ -157,11 +171,12 @@ DTSTART:20261220T200000Z
 DTEND:20261220T230000Z
 SUMMARY:Jackson State Tigers @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Saint Lou
- is Billikens\nChaifetz Arena\, St. Louis\, MO
+ is Billikens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -170,12 +185,14 @@ DTSTART:20261222T200000Z
 DTEND:20261222T230000Z
 SUMMARY:Jackson State Tigers @ Louisiana Tech Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Louisiana
-  Tech Bulldogs\nThomas Assembly Center\, Ruston\, LA
+  Tech Bulldogs\nThomas Assembly Center\, Ruston\, LA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Thomas Assembly Center\, Ruston\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921041@open-sports-cal
@@ -183,12 +200,14 @@ DTSTART:20261229T000000Z
 DTEND:20261229T030000Z
 SUMMARY:Jackson State Tigers @ Ole Miss Rebels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Ole Miss 
- Rebels\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+ Rebels\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS\nBroad
+ cast: SECN+ (streaming)
 LOCATION:The Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921042@open-sports-cal
@@ -196,11 +215,12 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Jackson State Tigers @ Alcorn State Braves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Alcorn St
- ate Braves\nDavey L. Whitney Complex\, Lorman\, MS
+ ate Braves\nDavey L. Whitney Complex\, Lorman\, MS\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Davey L. Whitney Complex\, Lorman\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -210,10 +230,11 @@ DTEND:20270109T233000Z
 SUMMARY:Alabama State Hornets @ Jackson State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama State Hornets @ Jackson 
  State Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\, MS
+ \nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -222,11 +243,12 @@ DTSTART:20270111T210000Z
 DTEND:20270112T000000Z
 SUMMARY:Alabama A&M Bulldogs @ Jackson State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama A&M Bulldogs @ Jackson S
- tate Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\, MS
+ tate Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\, MS\
+ nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -236,11 +258,11 @@ DTEND;VALUE=DATE:20270117
 SUMMARY:Jackson State Tigers @ Prairie View A&M Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Prairie V
  iew A&M Panthers\nWilliam J. Nicks Building\, Prairie View\, TX\nStart tim
- e TBD
+ e TBD\nBroadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921046@open-sports-cal
@@ -248,11 +270,12 @@ DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Jackson State Tigers @ Texas Southern Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Texas Sou
- thern Tigers\nH&PE Arena\, Houston\, TX\nStart time TBD
+ thern Tigers\nH&PE Arena\, Houston\, TX\nStart time TBD\nBroadcast: Broadc
+ ast not announced
 LOCATION:H&PE Arena\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921047@open-sports-cal
@@ -261,11 +284,11 @@ DTEND:20270123T233000Z
 SUMMARY:Bethune-Cookman Wildcats @ Jackson State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBethune-Cookman Wildcats @ Jacks
  on State Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\,
-  MS
+  MS\nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -274,11 +297,12 @@ DTSTART:20270126T010000Z
 DTEND:20270126T040000Z
 SUMMARY:Florida A&M Rattlers @ Jackson State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida A&M Rattlers @ Jackson S
- tate Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\, MS
+ tate Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\, MS\
+ nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -288,11 +312,11 @@ DTEND;VALUE=DATE:20270131
 SUMMARY:Jackson State Tigers @ Grambling Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Grambling
   Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nStart time TB
- D
+ D\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921050@open-sports-cal
@@ -300,11 +324,12 @@ DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Jackson State Tigers @ Southern Jaguars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Southern 
- Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nStart time TBD
+ Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nStart time TBD\nBr
+ oadcast: Broadcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921051@open-sports-cal
@@ -313,11 +338,11 @@ DTEND:20270207T000000Z
 SUMMARY:Mississippi Valley State Delta Devils @ Jackson State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi Valley State Delta D
  evils @ Jackson State Tigers\nLee E. Williams Athletics and Assembly Cente
- r\, Jackson\, MS
+ r\, Jackson\, MS\nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -327,11 +352,11 @@ DTEND:20270209T040000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Jackson State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
   @ Jackson State Tigers\nLee E. Williams Athletics and Assembly Center\, J
- ackson\, MS
+ ackson\, MS\nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -340,11 +365,12 @@ DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Jackson State Tigers @ Florida A&M Rattlers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Florida A
- &M Rattlers\nAl Lawson Center\, Tallahassee\, FL\nStart time TBD
+ &M Rattlers\nAl Lawson Center\, Tallahassee\, FL\nStart time TBD\nBroadcas
+ t: Broadcast not announced
 LOCATION:Al Lawson Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921054@open-sports-cal
@@ -353,10 +379,11 @@ DTEND;VALUE=DATE:20270216
 SUMMARY:Jackson State Tigers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Bethune-C
  ookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nStart time TBD
+ \nBroadcast: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921055@open-sports-cal
@@ -364,11 +391,12 @@ DTSTART:20270220T210000Z
 DTEND:20270221T000000Z
 SUMMARY:Alcorn State Braves @ Jackson State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlcorn State Braves @ Jackson St
- ate Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\, MS
+ ate Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\, MS\n
+ Broadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -378,11 +406,11 @@ DTEND:20270226T040000Z
 SUMMARY:Prairie View A&M Panthers @ Jackson State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrairie View A&M Panthers @ Jack
  son State Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\
- , MS
+ , MS\nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -392,10 +420,11 @@ DTEND:20270228T000000Z
 SUMMARY:Texas Southern Tigers @ Jackson State Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Southern Tigers @ Jackson 
  State Tigers\nLee E. Williams Athletics and Assembly Center\, Jackson\, MS
+ \nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -405,11 +434,11 @@ DTEND;VALUE=DATE:20270303
 SUMMARY:Jackson State Tigers @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Arkansas-
  Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nStart time
-  TBD
+  TBD\nBroadcast: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921059@open-sports-cal
@@ -418,11 +447,11 @@ DTEND;VALUE=DATE:20270305
 SUMMARY:Jackson State Tigers @ Mississippi Valley State Delta Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Mississip
  pi Valley State Delta Devils\nR.W. Harrison HPER Complex\, Itta Bena\, MS\
- nStart time TBD
+ nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:R.W. Harrison HPER Complex\, Itta Bena\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925750@open-sports-cal
@@ -431,10 +460,10 @@ DTEND;VALUE=DATE:20270307
 SUMMARY:Jackson State Tigers @ Mississippi Valley State Delta Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJackson State Tigers @ Mississip
  pi Valley State Delta Devils\nR.W. Harrison HPER Complex\, Itta Bena\, MS\
- nStart time TBD
+ nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:R.W. Harrison HPER Complex\, Itta Bena\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

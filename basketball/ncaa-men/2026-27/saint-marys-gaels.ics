@@ -12,12 +12,14 @@ DTSTART:20261103T030000Z
 DTEND:20261103T060000Z
 SUMMARY:Illinois State Redbirds @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois State Redbirds @ Saint 
- Mary's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ Mary's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917512@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261105T030000Z
 DTEND:20261105T060000Z
 SUMMARY:North Dakota State Bison @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Dakota State Bison @ Saint
-  Mary's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+  Mary's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911453@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261108T213000Z
 DTEND:20261109T003000Z
 SUMMARY:Saint Mary's Gaels @ Nevada Wolf Pack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ Nevada Wolf
-  Pack\nTahoe Blue Event Center\, Stateline\, NV\nNeutral site
+  Pack\nTahoe Blue Event Center\, Stateline\, NV\nNeutral site\nBroadcast: 
+ MW+ (streaming)
 LOCATION:Tahoe Blue Event Center\, Stateline\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917525@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261114T030000Z
 DTEND:20261114T060000Z
 SUMMARY:UIC Flames @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUIC Flames @ Saint Mary's Gaels\
- nUniversity Credit Union Pavilion\, Moraga\, CA
+ nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917532@open-sports-cal
@@ -64,12 +72,14 @@ DTSTART:20261117T030000Z
 DTEND:20261117T060000Z
 SUMMARY:Portland State Vikings @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Saint M
- ary's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ ary's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911252@open-sports-cal
@@ -77,12 +87,14 @@ DTSTART:20261121T040000Z
 DTEND:20261121T070000Z
 SUMMARY:Saint Louis Billikens @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Louis Billikens @ Saint Ma
- ry's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ ry's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: ESP
+ N2
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929595@open-sports-cal
@@ -90,11 +102,12 @@ DTSTART:20261123T010000Z
 DTEND:20261123T040000Z
 SUMMARY:Menlo Oaks @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMenlo Oaks @ Saint Mary's Gaels\
- nUniversity Credit Union Pavilion\, Moraga\, CA
+ nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: Broadcast not 
+ announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +116,13 @@ DTSTART:20261126T220000Z
 DTEND:20261127T010000Z
 SUMMARY:Saint Mary's Gaels @ UCLA Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ UCLA Bruins
- \nJenny Craig Pavilion\, San Diego\, CA\nNeutral site
+ \nJenny Craig Pavilion\, San Diego\, CA\nNeutral site\nBroadcast: FS1
 LOCATION:Jenny Craig Pavilion\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917554@open-sports-cal
@@ -116,12 +130,14 @@ DTSTART:20261202T023000Z
 DTEND:20261202T053000Z
 SUMMARY:Hofstra Pride @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHofstra Pride @ Saint Mary's Gae
- ls\nUniversity Credit Union Pavilion\, Moraga\, CA
+ ls\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917558@open-sports-cal
@@ -129,12 +145,13 @@ DTSTART:20261205T201500Z
 DTEND:20261205T231500Z
 SUMMARY:Saint Mary's Gaels @ Oklahoma State Cowboys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ Oklahoma St
- ate Cowboys\nGallagher-Iba Arena\, Stillwater\, OK
+ ate Cowboys\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: TNT
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917564@open-sports-cal
@@ -142,12 +159,14 @@ DTSTART:20261210T030000Z
 DTEND:20261210T060000Z
 SUMMARY:New Mexico State Aggies @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Mexico State Aggies @ Saint 
- Mary's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ Mary's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917568@open-sports-cal
@@ -155,11 +174,11 @@ DTSTART:20261212T233000Z
 DTEND:20261213T023000Z
 SUMMARY:Saint Mary's Gaels @ New Mexico Lobos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ New Mexico 
- Lobos\nThe Pit\, Albuquerque\, NM
+ Lobos\nThe Pit\, Albuquerque\, NM\nBroadcast: Broadcast not announced
 LOCATION:The Pit\, Albuquerque\, NM
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +187,14 @@ DTSTART:20261219T030000Z
 DTEND:20261219T060000Z
 SUMMARY:Iona Gaels @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIona Gaels @ Saint Mary's Gaels\
- nUniversity Credit Union Pavilion\, Moraga\, CA
+ nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917585@open-sports-cal
@@ -181,12 +202,14 @@ DTSTART:20261223T020000Z
 DTEND:20261223T050000Z
 SUMMARY:Harvard Crimson @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Saint Mary's G
- aels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ aels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917591@open-sports-cal
@@ -194,12 +217,14 @@ DTSTART:20261230T030000Z
 DTEND:20261230T060000Z
 SUMMARY:Princeton Tigers @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Saint Mary's 
- Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917595@open-sports-cal
@@ -207,11 +232,12 @@ DTSTART:20270103T030000Z
 DTEND:20270103T060000Z
 SUMMARY:San Diego Toreros @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSan Diego Toreros @ Saint Mary's
-  Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+  Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: Broadca
+ st not announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +246,12 @@ DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Saint Mary's Gaels @ Denver Pioneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ Denver Pion
- eers\nHamilton Gymnasium\, Denver\, CO\nStart time TBD
+ eers\nHamilton Gymnasium\, Denver\, CO\nStart time TBD\nBroadcast: Broadca
+ st not announced
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917612@open-sports-cal
@@ -232,11 +259,12 @@ DTSTART:20270114T030000Z
 DTEND:20270114T060000Z
 SUMMARY:Portland Pilots @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland Pilots @ Saint Mary's G
- aels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ aels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: Broadcast
+  not announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -245,11 +273,12 @@ DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Saint Mary's Gaels @ Pepperdine Waves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ Pepperdine 
- Waves\nFirestone Fieldhouse\, Malibu\, CA\nStart time TBD
+ Waves\nFirestone Fieldhouse\, Malibu\, CA\nStart time TBD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Firestone Fieldhouse\, Malibu\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917621@open-sports-cal
@@ -257,11 +286,12 @@ DTSTART:20270121T040000Z
 DTEND:20270121T070000Z
 SUMMARY:Pacific Tigers @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Saint Mary's Ga
- els\nUniversity Credit Union Pavilion\, Moraga\, CA
+ els\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: Broadcast 
+ not announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -270,11 +300,12 @@ DTSTART:20270124T030000Z
 DTEND:20270124T060000Z
 SUMMARY:Loyola Marymount Lions @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Marymount Lions @ Saint M
- ary's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ ary's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: Br
+ oadcast not announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -283,11 +314,12 @@ DTSTART:20270128T040000Z
 DTEND:20270128T070000Z
 SUMMARY:Saint Mary's Gaels @ San Francisco Dons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ San Francis
- co Dons\nThe Sobrato Center\, San Francisco\, CA
+ co Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadcast not
+  announced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -296,11 +328,12 @@ DTSTART:20270131T030000Z
 DTEND:20270131T060000Z
 SUMMARY:Santa Clara Broncos @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSanta Clara Broncos @ Saint Mary
- 's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ 's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: Broad
+ cast not announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -309,11 +342,11 @@ DTSTART:20270204T040000Z
 DTEND:20270204T070000Z
 SUMMARY:Saint Mary's Gaels @ Portland Pilots
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ Portland Pi
- lots\nChiles Center\, Portland\, OR
+ lots\nChiles Center\, Portland\, OR\nBroadcast: Broadcast not announced
 LOCATION:Chiles Center\, Portland\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -322,11 +355,11 @@ DTSTART:20270207T043000Z
 DTEND:20270207T073000Z
 SUMMARY:Saint Mary's Gaels @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ Seattle U R
- edhawks\nRedhawk Center\, Seattle\, WA
+ edhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: Broadcast not announced
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -335,11 +368,12 @@ DTSTART:20270210T040000Z
 DTEND:20270210T070000Z
 SUMMARY:San Francisco Dons @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSan Francisco Dons @ Saint Mary'
- s Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ s Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: Broadc
+ ast not announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -348,11 +382,12 @@ DTSTART:20270214T033000Z
 DTEND:20270214T063000Z
 SUMMARY:Saint Mary's Gaels @ Loyola Marymount Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ Loyola Mary
- mount Lions\nGersten Pavilion\, Los Angeles\, CA
+ mount Lions\nGersten Pavilion\, Los Angeles\, CA\nBroadcast: Broadcast not
+  announced
 LOCATION:Gersten Pavilion\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -361,11 +396,12 @@ DTSTART:20270219T033000Z
 DTEND:20270219T063000Z
 SUMMARY:Saint Mary's Gaels @ Pacific Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ Pacific Tig
- ers\nAlex G. Spanos Center\, Stockton\, CA
+ ers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -374,11 +410,12 @@ DTSTART:20270222T010000Z
 DTEND:20270222T040000Z
 SUMMARY:Pepperdine Waves @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPepperdine Waves @ Saint Mary's 
- Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: Broadcas
+ t not announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -387,11 +424,12 @@ DTSTART:20270225T030000Z
 DTEND:20270225T060000Z
 SUMMARY:Seattle U Redhawks @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ Saint Mary'
- s Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ s Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: Broadc
+ ast not announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -400,11 +438,12 @@ DTSTART:20270228T030000Z
 DTEND:20270228T060000Z
 SUMMARY:Saint Mary's Gaels @ Santa Clara Broncos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ Santa Clara
-  Broncos\nLeavey Center\, Santa Clara\, CA
+  Broncos\nLeavey Center\, Santa Clara\, CA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Leavey Center\, Santa Clara\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

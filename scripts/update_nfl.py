@@ -21,6 +21,7 @@ from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).parent))
 from common import slug, fmt_utc, make_vevent, make_calendar, DTSTAMP
+from broadcasts import broadcast_names
 
 OUT_DIR = Path("american-football/nfl/2026")
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
@@ -121,6 +122,7 @@ def fetch_all_games():
             "home": home,
             "away": away,
             "venue": venue,
+            "broadcast": broadcast_names(comp),
         })
     games.sort(key=lambda g: g["date"])
     return games
@@ -166,7 +168,7 @@ def build_events(games):
             )
             vevent = make_vevent(uid, summary, dtstart, dtend, g["venue"],
                                  description, CATEGORIES,
-                                 all_day=True)
+                                 all_day=True, broadcast=g.get("broadcast", ""))
         else:
             local_date = dt.astimezone(ZoneInfo(tz)).date()
             uid = f"{LEAGUE_KEY}-{local_date}-{away_s}-vs-{home_s}@open-sports-cal"
@@ -178,7 +180,7 @@ def build_events(games):
             )
             vevent = make_vevent(uid, summary, fmt_utc(dt),
                                  fmt_utc(dt + timedelta(hours=GAME_HOURS)),
-                                 g["venue"], description, CATEGORIES, tz)
+                                 g["venue"], description, CATEGORIES, tz, broadcast=g.get("broadcast", ""))
         vevents.append({"vevent": vevent, "away_slug": away_s, "home_slug": home_s})
 
     if unknown_venues:

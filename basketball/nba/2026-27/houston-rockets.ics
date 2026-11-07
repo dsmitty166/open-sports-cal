@@ -11,179 +11,208 @@ UID:nba-2026-27-2026-10-21-dallas-mavericks-vs-houston-rockets@open-sports-cal
 DTSTART:20261022T003000Z
 DTEND:20261022T033000Z
 SUMMARY:Dallas Mavericks @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Houston Rockets\nToyota Center\
+ nBroadcast: NBA League Pass / KFAA-TV / MavsTV (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBA League Pass / KFAA-TV / MavsTV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-23-houston-rockets-vs-san-antonio-spurs@open-sports-cal
 DTSTART:20261024T013000Z
 DTEND:20261024T043000Z
 SUMMARY:Houston Rockets @ San Antonio Spurs
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ San Antonio Spurs\nMoody Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ San Antonio Spurs\nMoody Center\
+ nBroadcast: Prime Video (streaming)
 LOCATION:Moody Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-24-houston-rockets-vs-atlanta-hawks@open-sports-cal
 DTSTART:20261025T000000Z
 DTEND:20261025T030000Z
 SUMMARY:Houston Rockets @ Atlanta Hawks
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Atlanta Hawks\nState Farm Arena
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Atlanta Hawks\nState Farm Arena\
+ nBroadcast: NBA League Pass
 LOCATION:State Farm Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-26-atlanta-hawks-vs-houston-rockets@open-sports-cal
 DTSTART:20261027T003000Z
 DTEND:20261027T033000Z
 SUMMARY:Atlanta Hawks @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Houston Rockets\nToyota Center\nBr
+ oadcast: NBA League Pass
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-28-houston-rockets-vs-milwaukee-bucks@open-sports-cal
 DTSTART:20261029T000000Z
 DTEND:20261029T030000Z
 SUMMARY:Houston Rockets @ Milwaukee Bucks
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Milwaukee Bucks\nFiserv Forum
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Milwaukee Bucks\nFiserv Forum\nB
+ roadcast: NBA League Pass / MyMi / Bucks App (streaming)
 LOCATION:Fiserv Forum
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBA League Pass / MyMi / Bucks App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-30-houston-rockets-vs-dallas-mavericks@open-sports-cal
 DTSTART:20261031T000000Z
 DTEND:20261031T030000Z
 SUMMARY:Houston Rockets @ Dallas Mavericks
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Dallas Mavericks\nAmerican Airlines Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Dallas Mavericks\nAmerican Airli
+ nes Center\nBroadcast: NBA League Pass / KFAA-TV / MavsTV (streaming)
 LOCATION:American Airlines Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBA League Pass / KFAA-TV / MavsTV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-31-oklahoma-city-thunder-vs-houston-rockets@open-sports-cal
 DTSTART:20261101T003000Z
 DTEND:20261101T033000Z
 SUMMARY:Oklahoma City Thunder @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Houston Rockets\nToyota Ce
+ nter\nBroadcast: NBA TV / Thunder App (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBA TV / Thunder App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-02-boston-celtics-vs-houston-rockets@open-sports-cal
 DTSTART:20261103T013000Z
 DTEND:20261103T043000Z
 SUMMARY:Boston Celtics @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nBoston Celtics @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Houston Rockets\nToyota Center\nB
+ roadcast: NBA League Pass
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-04-minnesota-timberwolves-vs-houston-rockets@open-sports-cal
 DTSTART:20261105T013000Z
 DTEND:20261105T043000Z
 SUMMARY:Minnesota Timberwolves @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Houston Rockets\nToyota C
+ enter\nBroadcast: DAZN MIN (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:DAZN MIN (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-07-houston-rockets-vs-phoenix-suns@open-sports-cal
 DTSTART:20261108T020000Z
 DTEND:20261108T050000Z
 SUMMARY:Houston Rockets @ Phoenix Suns
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Phoenix Suns\nMortgage Matchup Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Phoenix Suns\nMortgage Matchup C
+ enter\nBroadcast: Arizona's Family 3TV / Suns Live (streaming)
 LOCATION:Mortgage Matchup Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:Arizona's Family 3TV / Suns Live (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-09-denver-nuggets-vs-houston-rockets@open-sports-cal
 DTSTART:20261110T013000Z
 DTEND:20261110T043000Z
 SUMMARY:Denver Nuggets @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Houston Rockets\nToyota Center\nB
+ roadcast: ALT2/KTVD (streaming) / KUSA-TV (9NEWS)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ALT2/KTVD (streaming) / KUSA-TV (9NEWS)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-11-golden-state-warriors-vs-houston-rockets@open-sports-cal
 DTSTART:20261112T023000Z
 DTEND:20261112T053000Z
 SUMMARY:Golden State Warriors @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Houston Rockets\nToyota Ce
+ nter\nBroadcast: ESPN
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-13-utah-jazz-vs-houston-rockets@open-sports-cal
 DTSTART:20261114T013000Z
 DTEND:20261114T043000Z
 SUMMARY:Utah Jazz @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nUtah Jazz @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Houston Rockets\nToyota Center\nBroadc
+ ast: KJZZ-TV / Jazz+ (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:KJZZ-TV / Jazz+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-15-houston-rockets-vs-washington-wizards@open-sports-cal
 DTSTART:20261116T000000Z
 DTEND:20261116T030000Z
 SUMMARY:Houston Rockets @ Washington Wizards
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Washington Wizards\nCapital One Arena
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Washington Wizards\nCapital One 
+ Arena\nBroadcast: MNMT
 LOCATION:Capital One Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MNMT
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-16-houston-rockets-vs-miami-heat@open-sports-cal
 DTSTART:20261117T003000Z
 DTEND:20261117T033000Z
 SUMMARY:Houston Rockets @ Miami Heat
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Miami Heat\nKaseya Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Miami Heat\nKaseya Center\nBroad
+ cast: Broadcast not announced
 LOCATION:Kaseya Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -191,83 +220,96 @@ UID:nba-2026-27-2026-11-18-houston-rockets-vs-indiana-pacers@open-sports-cal
 DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Houston Rockets @ Indiana Pacers
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Indiana Pacers\nGainbridge Fieldhouse
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Indiana Pacers\nGainbridge Field
+ house\nBroadcast: DAZN IND (streaming)
 LOCATION:Gainbridge Fieldhouse
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Indiana/Indianapolis
+X-BROADCAST:DAZN IND (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-20-houston-rockets-vs-denver-nuggets@open-sports-cal
 DTSTART:20261121T030000Z
 DTEND:20261121T060000Z
 SUMMARY:Houston Rockets @ Denver Nuggets
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Denver Nuggets\nBall Arena
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Denver Nuggets\nBall Arena\nBroa
+ dcast: Prime Video (streaming)
 LOCATION:Ball Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-23-la-clippers-vs-houston-rockets@open-sports-cal
 DTSTART:20261124T013000Z
 DTEND:20261124T043000Z
 SUMMARY:LA Clippers @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nLA Clippers @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nLA Clippers @ Houston Rockets\nToyota Center\nBroa
+ dcast: ClipperVision (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ClipperVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-25-phoenix-suns-vs-houston-rockets@open-sports-cal
 DTSTART:20261126T013000Z
 DTEND:20261126T043000Z
 SUMMARY:Phoenix Suns @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Houston Rockets\nToyota Center\nBro
+ adcast: Suns Live (streaming) / Arizona's Family 3TV
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Suns Live (streaming) / Arizona's Family 3TV
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-28-philadelphia-76ers-vs-houston-rockets@open-sports-cal
 DTSTART:20261129T013000Z
 DTEND:20261129T043000Z
 SUMMARY:Philadelphia 76ers @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Houston Rockets\nToyota Cente
+ r\nBroadcast: NBA TV
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBA TV
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-30-los-angeles-lakers-vs-houston-rockets@open-sports-cal
 DTSTART:20261201T003000Z
 DTEND:20261201T033000Z
 SUMMARY:Los Angeles Lakers @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Houston Rockets\nToyota Cente
+ r\nBroadcast: NBCSN
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBCSN
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-01-toronto-raptors-vs-houston-rockets@open-sports-cal
 DTSTART:20261202T013000Z
 DTEND:20261202T043000Z
 SUMMARY:Toronto Raptors @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Houston Rockets\nToyota Center\n
+ Broadcast: Broadcast not announced
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -275,11 +317,12 @@ UID:nba-2026-27-2026-12-13-houston-rockets-vs-chicago-bulls@open-sports-cal
 DTSTART:20261213T230000Z
 DTEND:20261214T020000Z
 SUMMARY:Houston Rockets @ Chicago Bulls
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Chicago Bulls\nUnited Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Chicago Bulls\nUnited Center\nBr
+ oadcast: Broadcast not announced
 LOCATION:United Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -287,11 +330,12 @@ UID:nba-2026-27-2026-12-14-new-york-knicks-vs-houston-rockets@open-sports-cal
 DTSTART:20261215T013000Z
 DTEND:20261215T043000Z
 SUMMARY:New York Knicks @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nNew York Knicks @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Houston Rockets\nToyota Center\n
+ Broadcast: Broadcast not announced
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -299,35 +343,40 @@ UID:nba-2026-27-2026-12-16-milwaukee-bucks-vs-houston-rockets@open-sports-cal
 DTSTART:20261217T013000Z
 DTEND:20261217T043000Z
 SUMMARY:Milwaukee Bucks @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Houston Rockets\nToyota Center\n
+ Broadcast: MyMi / Bucks App (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:MyMi / Bucks App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-18-houston-rockets-vs-memphis-grizzlies@open-sports-cal
 DTSTART:20261219T010000Z
 DTEND:20261219T040000Z
 SUMMARY:Houston Rockets @ Memphis Grizzlies
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Memphis Grizzlies\nFedExForum
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Memphis Grizzlies\nFedExForum\nB
+ roadcast: DAZN MEM (streaming)
 LOCATION:FedExForum
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:DAZN MEM (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-20-houston-rockets-vs-toronto-raptors@open-sports-cal
 DTSTART:20261220T203000Z
 DTEND:20261220T233000Z
 SUMMARY:Houston Rockets @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Toronto Raptors\nScotiabank Aren
+ a\nBroadcast: Broadcast not announced
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
 END:VEVENT
 BEGIN:VEVENT
@@ -335,84 +384,99 @@ UID:nba-2026-27-2026-12-23-houston-rockets-vs-philadelphia-76ers@open-sports-cal
 DTSTART:20261224T003000Z
 DTEND:20261224T033000Z
 SUMMARY:Houston Rockets @ Philadelphia 76ers
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Philadelphia 76ers\nXfinity Mobile Arena
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Philadelphia 76ers\nXfinity Mobi
+ le Arena\nBroadcast: Prime Video (streaming)
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-27-oklahoma-city-thunder-vs-houston-rockets@open-sports-cal
 DTSTART:20261227T203000Z
 DTEND:20261227T233000Z
 SUMMARY:Oklahoma City Thunder @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Houston Rockets\nToyota Ce
+ nter\nBroadcast: KSBI / Thunder App (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:KSBI / Thunder App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-29-houston-rockets-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261230T033000Z
 DTEND:20261230T063000Z
 SUMMARY:Houston Rockets @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Los Angeles Lakers\nCrypto.com A
+ rena\nBroadcast: NBC / Spectrum Sports Net / Spectrum Sports Net + (stream
+ ing)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC / Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-30-houston-rockets-vs-golden-state-warriors@open-sports-cal
 DTSTART:20261231T030000Z
 DTEND:20261231T060000Z
 SUMMARY:Houston Rockets @ Golden State Warriors
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Golden State Warriors\nChase Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Golden State Warriors\nChase Cen
+ ter\nBroadcast: NBA TV
 LOCATION:Chase Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBA TV
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-01-dallas-mavericks-vs-houston-rockets@open-sports-cal
 DTSTART:20270102T013000Z
 DTEND:20270102T043000Z
 SUMMARY:Dallas Mavericks @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Houston Rockets\nToyota Center\
+ nBroadcast: KFAA-TV / MavsTV (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:KFAA-TV / MavsTV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-03-cleveland-cavaliers-vs-houston-rockets@open-sports-cal
 DTSTART:20270104T000000Z
 DTEND:20270104T030000Z
 SUMMARY:Cleveland Cavaliers @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Houston Rockets\nToyota Cent
+ er\nBroadcast: DAZN CLE (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:DAZN CLE (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-05-minnesota-timberwolves-vs-houston-rockets@open-sports-cal
 DTSTART:20270106T010000Z
 DTEND:20270106T040000Z
 SUMMARY:Minnesota Timberwolves @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Houston Rockets\nToyota C
+ enter\nBroadcast: NBC / DAZN MIN (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC / DAZN MIN (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-07-memphis-grizzlies-vs-houston-rockets@open-sports-cal
@@ -420,34 +484,39 @@ DTSTART:20270108T013000Z
 DTEND:20270108T043000Z
 SUMMARY:Memphis Grizzlies @ Houston Rockets
 DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Houston Rockets\nToyota Center
+ \nBroadcast: DAZN MEM (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:DAZN MEM (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-09-houston-rockets-vs-brooklyn-nets@open-sports-cal
 DTSTART:20270109T230000Z
 DTEND:20270110T020000Z
 SUMMARY:Houston Rockets @ Brooklyn Nets
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Brooklyn Nets\nBarclays Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Brooklyn Nets\nBarclays Center\n
+ Broadcast: DAZN (YES) (streaming)
 LOCATION:Barclays Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:DAZN (YES) (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-11-houston-rockets-vs-boston-celtics@open-sports-cal
 DTSTART:20270112T003000Z
 DTEND:20270112T033000Z
 SUMMARY:Houston Rockets @ Boston Celtics
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Boston Celtics\nTD Garden
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Boston Celtics\nTD Garden\nBroad
+ cast: Broadcast not announced
 LOCATION:TD Garden
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -455,23 +524,26 @@ UID:nba-2026-27-2027-01-13-houston-rockets-vs-oklahoma-city-thunder@open-sports-
 DTSTART:20270114T023000Z
 DTEND:20270114T053000Z
 SUMMARY:Houston Rockets @ Oklahoma City Thunder
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Oklahoma City Thunder\nPaycom Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Oklahoma City Thunder\nPaycom Ce
+ nter\nBroadcast: ESPN / KSBI / Thunder App (streaming)
 LOCATION:Paycom Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / KSBI / Thunder App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-15-washington-wizards-vs-houston-rockets@open-sports-cal
 DTSTART:20270116T013000Z
 DTEND:20270116T043000Z
 SUMMARY:Washington Wizards @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nWashington Wizards @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Houston Rockets\nToyota Cente
+ r\nBroadcast: Broadcast not announced
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -479,11 +551,12 @@ UID:nba-2026-27-2027-01-16-detroit-pistons-vs-houston-rockets@open-sports-cal
 DTSTART:20270117T013000Z
 DTEND:20270117T043000Z
 SUMMARY:Detroit Pistons @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Houston Rockets\nToyota Center\n
+ Broadcast: Broadcast not announced
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -491,47 +564,54 @@ UID:nba-2026-27-2027-01-18-houston-rockets-vs-memphis-grizzlies@open-sports-cal
 DTSTART:20270119T003000Z
 DTEND:20270119T033000Z
 SUMMARY:Houston Rockets @ Memphis Grizzlies
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Memphis Grizzlies\nFedExForum
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Memphis Grizzlies\nFedExForum\nB
+ roadcast: NBCSN
 LOCATION:FedExForum
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBCSN
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-20-houston-rockets-vs-minnesota-timberwolves@open-sports-cal
 DTSTART:20270121T010000Z
 DTEND:20270121T040000Z
 SUMMARY:Houston Rockets @ Minnesota Timberwolves
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Minnesota Timberwolves\nTarget Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Minnesota Timberwolves\nTarget C
+ enter\nBroadcast: DAZN MIN (streaming)
 LOCATION:Target Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:DAZN MIN (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-22-houston-rockets-vs-charlotte-hornets@open-sports-cal
 DTSTART:20270123T000000Z
 DTEND:20270123T030000Z
 SUMMARY:Houston Rockets @ Charlotte Hornets
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Charlotte Hornets\nSpectrum Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Charlotte Hornets\nSpectrum Cent
+ er\nBroadcast: DAZN CHA (streaming)
 LOCATION:Spectrum Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:DAZN CHA (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-24-houston-rockets-vs-orlando-magic@open-sports-cal
 DTSTART:20270124T230000Z
 DTEND:20270125T020000Z
 SUMMARY:Houston Rockets @ Orlando Magic
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Orlando Magic\nKia Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Orlando Magic\nKia Center\nBroad
+ cast: Broadcast not announced
 LOCATION:Kia Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -539,35 +619,40 @@ UID:nba-2026-27-2027-01-26-houston-rockets-vs-san-antonio-spurs@open-sports-cal
 DTSTART:20270127T010000Z
 DTEND:20270127T040000Z
 SUMMARY:Houston Rockets @ San Antonio Spurs
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ San Antonio Spurs\nFrost Bank Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ San Antonio Spurs\nFrost Bank Ce
+ nter\nBroadcast: NBC
 LOCATION:Frost Bank Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-27-new-orleans-pelicans-vs-houston-rockets@open-sports-cal
 DTSTART:20270128T013000Z
 DTEND:20270128T043000Z
 SUMMARY:New Orleans Pelicans @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Houston Rockets\nToyota Cen
+ ter\nBroadcast: GCSEN (streaming) / Pelicans.com (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:GCSEN (streaming) / Pelicans.com (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-29-orlando-magic-vs-houston-rockets@open-sports-cal
 DTSTART:20270130T013000Z
 DTEND:20270130T043000Z
 SUMMARY:Orlando Magic @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nOrlando Magic @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Houston Rockets\nToyota Center\nBr
+ oadcast: Broadcast not announced
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -575,47 +660,54 @@ UID:nba-2026-27-2027-01-31-houston-rockets-vs-dallas-mavericks@open-sports-cal
 DTSTART:20270201T013000Z
 DTEND:20270201T043000Z
 SUMMARY:Houston Rockets @ Dallas Mavericks
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Dallas Mavericks\nAmerican Airlines Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Dallas Mavericks\nAmerican Airli
+ nes Center\nBroadcast: NBC
 LOCATION:American Airlines Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-03-utah-jazz-vs-houston-rockets@open-sports-cal
 DTSTART:20270204T023000Z
 DTEND:20270204T053000Z
 SUMMARY:Utah Jazz @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nUtah Jazz @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Houston Rockets\nToyota Center\nBroadc
+ ast: ESPN / KJZZ-TV / Jazz+ (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / KJZZ-TV / Jazz+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-05-houston-rockets-vs-phoenix-suns@open-sports-cal
 DTSTART:20270206T020000Z
 DTEND:20270206T050000Z
 SUMMARY:Houston Rockets @ Phoenix Suns
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Phoenix Suns\nMortgage Matchup Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Phoenix Suns\nMortgage Matchup C
+ enter\nBroadcast: Suns Live (streaming) / Arizona's Family 3TV
 LOCATION:Mortgage Matchup Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:Suns Live (streaming) / Arizona's Family 3TV
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-07-houston-rockets-vs-sacramento-kings@open-sports-cal
 DTSTART:20270208T033000Z
 DTEND:20270208T063000Z
 SUMMARY:Houston Rockets @ Sacramento Kings
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Sacramento Kings\nGolden 1 Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Sacramento Kings\nGolden 1 Cente
+ r\nBroadcast: Broadcast not announced
 LOCATION:Golden 1 Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -623,23 +715,26 @@ UID:nba-2026-27-2027-02-09-houston-rockets-vs-utah-jazz@open-sports-cal
 DTSTART:20270210T030000Z
 DTEND:20270210T060000Z
 SUMMARY:Houston Rockets @ Utah Jazz
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Utah Jazz\nDelta Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Utah Jazz\nDelta Center\nBroadca
+ st: NBC
 LOCATION:Delta Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-11-sacramento-kings-vs-houston-rockets@open-sports-cal
 DTSTART:20270212T013000Z
 DTEND:20270212T043000Z
 SUMMARY:Sacramento Kings @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nSacramento Kings @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Houston Rockets\nToyota Center\
+ nBroadcast: Broadcast not announced
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -647,48 +742,58 @@ UID:nba-2026-27-2027-02-12-houston-rockets-vs-new-orleans-pelicans@open-sports-c
 DTSTART:20270213T010000Z
 DTEND:20270213T040000Z
 SUMMARY:Houston Rockets @ New Orleans Pelicans
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ New Orleans Pelicans\nSmoothie King Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ New Orleans Pelicans\nSmoothie K
+ ing Center\nBroadcast: GCSEN (streaming) / Pelicans.com (streaming)
 LOCATION:Smoothie King Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:GCSEN (streaming) / Pelicans.com (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-14-denver-nuggets-vs-houston-rockets@open-sports-cal
 DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Denver Nuggets @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Houston Rockets\nToyota Center\nB
+ roadcast: NBA TV
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBA TV
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-16-houston-rockets-vs-la-clippers@open-sports-cal
 DTSTART:20270217T040000Z
 DTEND:20270217T070000Z
 SUMMARY:Houston Rockets @ LA Clippers
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ LA Clippers\nIntuit Dome
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ LA Clippers\nIntuit Dome\nBroadc
+ ast: NBC
 LOCATION:Intuit Dome
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-18-houston-rockets-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270219T030000Z
 DTEND:20270219T060000Z
 SUMMARY:Houston Rockets @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Los Angeles Lakers\nCrypto.com A
+ rena\nBroadcast: Prime Video (streaming) / Spectrum Sports Net / Spectrum 
+ Sports Net + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Prime Video (streaming) / Spectrum Sports Net / Spectrum Sports
+  Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-26-charlotte-hornets-vs-houston-rockets@open-sports-cal
@@ -696,34 +801,39 @@ DTSTART:20270227T013000Z
 DTEND:20270227T043000Z
 SUMMARY:Charlotte Hornets @ Houston Rockets
 DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Houston Rockets\nToyota Center
+ \nBroadcast: DAZN CHA (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:DAZN CHA (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-28-miami-heat-vs-houston-rockets@open-sports-cal
 DTSTART:20270301T023000Z
 DTEND:20270301T053000Z
 SUMMARY:Miami Heat @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nMiami Heat @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Houston Rockets\nToyota Center\nBroad
+ cast: NBC
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-01-golden-state-warriors-vs-houston-rockets@open-sports-cal
 DTSTART:20270302T013000Z
 DTEND:20270302T043000Z
 SUMMARY:Golden State Warriors @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Houston Rockets\nToyota Ce
+ nter\nBroadcast: Broadcast not announced
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -731,12 +841,14 @@ UID:nba-2026-27-2027-03-03-new-orleans-pelicans-vs-houston-rockets@open-sports-c
 DTSTART:20270304T013000Z
 DTEND:20270304T043000Z
 SUMMARY:New Orleans Pelicans @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Houston Rockets\nToyota Cen
+ ter\nBroadcast: GCSEN (streaming) / Pelicans.com (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:GCSEN (streaming) / Pelicans.com (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-05-san-antonio-spurs-vs-houston-rockets@open-sports-cal
@@ -744,59 +856,69 @@ DTSTART:20270306T023000Z
 DTEND:20270306T053000Z
 SUMMARY:San Antonio Spurs @ Houston Rockets
 DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Houston Rockets\nToyota Center
+ \nBroadcast: ESPN / DAZN SAS (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / DAZN SAS (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-07-houston-rockets-vs-golden-state-warriors@open-sports-cal
 DTSTART:20270308T030000Z
 DTEND:20270308T060000Z
 SUMMARY:Houston Rockets @ Golden State Warriors
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Golden State Warriors\nChase Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Golden State Warriors\nChase Cen
+ ter\nBroadcast: NBC
 LOCATION:Chase Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-08-houston-rockets-vs-la-clippers@open-sports-cal
 DTSTART:20270309T033000Z
 DTEND:20270309T063000Z
 SUMMARY:Houston Rockets @ LA Clippers
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ LA Clippers\nIntuit Dome
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ LA Clippers\nIntuit Dome\nBroadc
+ ast: ClipperVision (streaming)
 LOCATION:Intuit Dome
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ClipperVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-10-houston-rockets-vs-utah-jazz@open-sports-cal
 DTSTART:20270311T020000Z
 DTEND:20270311T050000Z
 SUMMARY:Houston Rockets @ Utah Jazz
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Utah Jazz\nDelta Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Utah Jazz\nDelta Center\nBroadca
+ st: KJZZ-TV / Jazz+ (streaming)
 LOCATION:Delta Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:KJZZ-TV / Jazz+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-13-indiana-pacers-vs-houston-rockets@open-sports-cal
 DTSTART:20270313T223000Z
 DTEND:20270314T013000Z
 SUMMARY:Indiana Pacers @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Houston Rockets\nToyota Center\nB
+ roadcast: Prime Video (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-16-san-antonio-spurs-vs-houston-rockets@open-sports-cal
@@ -804,58 +926,67 @@ DTSTART:20270317T003000Z
 DTEND:20270317T033000Z
 SUMMARY:San Antonio Spurs @ Houston Rockets
 DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Houston Rockets\nToyota Center
+ \nBroadcast: DAZN SAS (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:DAZN SAS (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-17-brooklyn-nets-vs-houston-rockets@open-sports-cal
 DTSTART:20270318T003000Z
 DTEND:20270318T033000Z
 SUMMARY:Brooklyn Nets @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Houston Rockets\nToyota Center\nBr
+ oadcast: DAZN (YES) (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:DAZN (YES) (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-19-houston-rockets-vs-new-orleans-pelicans@open-sports-cal
 DTSTART:20270320T000000Z
 DTEND:20270320T030000Z
 SUMMARY:Houston Rockets @ New Orleans Pelicans
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ New Orleans Pelicans\nSmoothie King Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ New Orleans Pelicans\nSmoothie K
+ ing Center\nBroadcast: GCSEN (streaming) / Pelicans.com (streaming)
 LOCATION:Smoothie King Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:GCSEN (streaming) / Pelicans.com (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-22-houston-rockets-vs-cleveland-cavaliers@open-sports-cal
 DTSTART:20270322T230000Z
 DTEND:20270323T020000Z
 SUMMARY:Houston Rockets @ Cleveland Cavaliers
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Cleveland Cavaliers\nRocket Arena
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Cleveland Cavaliers\nRocket Aren
+ a\nBroadcast: DAZN CLE (streaming)
 LOCATION:Rocket Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:DAZN CLE (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-24-houston-rockets-vs-new-york-knicks@open-sports-cal
 DTSTART:20270324T233000Z
 DTEND:20270325T023000Z
 SUMMARY:Houston Rockets @ New York Knicks
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ New York Knicks\nMadison Square Garden
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ New York Knicks\nMadison Square 
+ Garden\nBroadcast: Broadcast not announced
 LOCATION:Madison Square Garden
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -863,11 +994,12 @@ UID:nba-2026-27-2027-03-25-houston-rockets-vs-detroit-pistons@open-sports-cal
 DTSTART:20270325T230000Z
 DTEND:20270326T020000Z
 SUMMARY:Houston Rockets @ Detroit Pistons
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Detroit Pistons\nLittle Caesars Arena
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Detroit Pistons\nLittle Caesars 
+ Arena\nBroadcast: Broadcast not announced
 LOCATION:Little Caesars Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -875,36 +1007,43 @@ UID:nba-2026-27-2027-03-28-los-angeles-lakers-vs-houston-rockets@open-sports-cal
 DTSTART:20270328T190000Z
 DTEND:20270328T220000Z
 SUMMARY:Los Angeles Lakers @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Houston Rockets\nToyota Cente
+ r\nBroadcast: ESPN / Spectrum Sports Net / Spectrum Sports Net + (streamin
+ g)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-30-houston-rockets-vs-portland-trail-blazers@open-sports-cal
 DTSTART:20270331T030000Z
 DTEND:20270331T060000Z
 SUMMARY:Houston Rockets @ Portland Trail Blazers
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Portland Trail Blazers\nModa Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Portland Trail Blazers\nModa Cen
+ ter\nBroadcast: NBC / KUNP 16 / BlazerVision (streaming)
 LOCATION:Moda Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC / KUNP 16 / BlazerVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-31-houston-rockets-vs-portland-trail-blazers@open-sports-cal
 DTSTART:20270401T020000Z
 DTEND:20270401T050000Z
 SUMMARY:Houston Rockets @ Portland Trail Blazers
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Portland Trail Blazers\nModa Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Portland Trail Blazers\nModa Cen
+ ter\nBroadcast: KUNP 16 / BlazerVision (streaming)
 LOCATION:Moda Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:KUNP 16 / BlazerVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-04-02-memphis-grizzlies-vs-houston-rockets@open-sports-cal
@@ -912,22 +1051,25 @@ DTSTART:20270403T003000Z
 DTEND:20270403T033000Z
 SUMMARY:Memphis Grizzlies @ Houston Rockets
 DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Houston Rockets\nToyota Center
+ \nBroadcast: DAZN MEM (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:DAZN MEM (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-04-04-chicago-bulls-vs-houston-rockets@open-sports-cal
 DTSTART:20270404T200000Z
 DTEND:20270404T230000Z
 SUMMARY:Chicago Bulls @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nChicago Bulls @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Houston Rockets\nToyota Center\nBr
+ oadcast: Broadcast not announced
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -935,11 +1077,12 @@ UID:nba-2026-27-2027-04-07-sacramento-kings-vs-houston-rockets@open-sports-cal
 DTSTART:20270408T003000Z
 DTEND:20270408T033000Z
 SUMMARY:Sacramento Kings @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nSacramento Kings @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Houston Rockets\nToyota Center\
+ nBroadcast: Broadcast not announced
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -947,23 +1090,27 @@ UID:nba-2026-27-2027-04-09-portland-trail-blazers-vs-houston-rockets@open-sports
 DTSTART:20270410T003000Z
 DTEND:20270410T033000Z
 SUMMARY:Portland Trail Blazers @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Houston Rockets\nToyota C
+ enter\nBroadcast: KUNP 16 / BlazerVision (streaming)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:KUNP 16 / BlazerVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-04-11-houston-rockets-vs-minnesota-timberwolves@open-sports-cal
 DTSTART:20270412T003000Z
 DTEND:20270412T033000Z
 SUMMARY:Houston Rockets @ Minnesota Timberwolves
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Minnesota Timberwolves\nTarget Center
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Minnesota Timberwolves\nTarget C
+ enter\nBroadcast: DAZN MIN (streaming)
 LOCATION:Target Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:DAZN MIN (streaming)
 END:VEVENT
 END:VCALENDAR

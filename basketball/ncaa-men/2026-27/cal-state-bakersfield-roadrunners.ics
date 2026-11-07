@@ -13,12 +13,14 @@ DTSTART:20261106T023000Z
 DTEND:20261106T053000Z
 SUMMARY:Stanton Elks @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStanton Elks @ Cal State Bakersf
- ield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ ield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920134@open-sports-cal
@@ -26,12 +28,14 @@ DTSTART:20261108T230000Z
 DTEND:20261109T020000Z
 SUMMARY:North Dakota State Bison @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Dakota State Bison @ Cal S
- tate Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ tate Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920135@open-sports-cal
@@ -39,12 +43,14 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ s @ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920136@open-sports-cal
@@ -52,12 +58,15 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ North Dakota State Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ North Dakota State Bison\nScheels Center\, Fargo\, ND
+ s @ North Dakota State Bison\nScheels Center\, Fargo\, ND\nBroadcast: Summ
+ it League Network (streaming) / WDAY / Midco Sports Plus (streaming)
 LOCATION:Scheels Center\, Fargo\, ND
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming) / WDAY / Midco Sports Plus (s
+ treaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920137@open-sports-cal
@@ -65,12 +74,13 @@ DTSTART:20261121T020000Z
 DTEND:20261121T050000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Idaho Vandals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ Idaho Vandals\nICCU Arena\, Moscow\, ID
+ s @ Idaho Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: ESPN+ (streaming)
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920138@open-sports-cal
@@ -78,11 +88,13 @@ DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Cal State Bakersfield Roadrunners @ Pepperdine Waves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ Pepperdine Waves\nFirestone Fieldhouse\, Malibu\, CA\nStart time TBD
+ s @ Pepperdine Waves\nFirestone Fieldhouse\, Malibu\, CA\nStart time TBD\n
+ Broadcast: ESPN+ (streaming)
 LOCATION:Firestone Fieldhouse\, Malibu\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920139@open-sports-cal
@@ -90,12 +102,14 @@ DTSTART:20261128T220000Z
 DTEND:20261129T010000Z
 SUMMARY:Northern Arizona Lumberjacks @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ C
- al State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ al State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917378@open-sports-cal
@@ -103,12 +117,14 @@ DTSTART:20261204T023000Z
 DTEND:20261204T053000Z
 SUMMARY:UC Santa Barbara Gauchos @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Santa Barbara Gauchos @ Cal S
- tate Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ tate Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917385@open-sports-cal
@@ -116,12 +132,14 @@ DTSTART:20261205T220000Z
 DTEND:20261206T010000Z
 SUMMARY:Cal State Northridge Matadors @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Northridge Matadors @ 
- Cal State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ Cal State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920140@open-sports-cal
@@ -129,12 +147,14 @@ DTSTART:20261213T023000Z
 DTEND:20261213T053000Z
 SUMMARY:Whittier Poets @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWhittier Poets @ Cal State Baker
- sfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ sfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917581@open-sports-cal
@@ -142,12 +162,14 @@ DTSTART:20261220T020000Z
 DTEND:20261220T050000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Loyola Marymount Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ Loyola Marymount Lions\nGersten Pavilion\, Los Angeles\, CA
+ s @ Loyola Marymount Lions\nGersten Pavilion\, Los Angeles\, CA\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Gersten Pavilion\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917584@open-sports-cal
@@ -155,12 +177,14 @@ DTSTART:20261222T210000Z
 DTEND:20261223T000000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ San Diego Toreros
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ San Diego Toreros\nJenny Craig Pavilion\, San Diego\, CA
+ s @ San Diego Toreros\nJenny Craig Pavilion\, San Diego\, CA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Jenny Craig Pavilion\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917390@open-sports-cal
@@ -168,12 +192,14 @@ DTSTART:20261231T210000Z
 DTEND:20270101T000000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Utah Valley Wolverines
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ Utah Valley Wolverines\nUCCU Center\, Orem\, UT
+ s @ Utah Valley Wolverines\nUCCU Center\, Orem\, UT\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:UCCU Center\, Orem\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917392@open-sports-cal
@@ -181,11 +207,12 @@ DTSTART:20270103T030000Z
 DTEND:20270103T060000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Sacramento State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ Sacramento State Hornets\nHornet Pavilion\, Sacramento\, CA
+ s @ Sacramento State Hornets\nHornet Pavilion\, Sacramento\, CA\nBroadcast
+ : Broadcast not announced
 LOCATION:Hornet Pavilion\, Sacramento\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +221,12 @@ DTSTART:20270108T023000Z
 DTEND:20270108T053000Z
 SUMMARY:UC Riverside Highlanders @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Riverside Highlanders @ Cal S
- tate Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ tate Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast:
+  Broadcast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +235,12 @@ DTSTART:20270109T220000Z
 DTEND:20270110T010000Z
 SUMMARY:California Baptist Lancers @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCalifornia Baptist Lancers @ Cal
-  State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+  State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcas
+ t: Broadcast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +249,12 @@ DTSTART:20270115T030000Z
 DTEND:20270115T060000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ Cal State Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ s @ Cal State Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -234,11 +264,11 @@ DTEND:20270117T050000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Long Beach State Beach
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
  s @ Long Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beac
- h\, CA
+ h\, CA\nBroadcast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +277,12 @@ DTSTART:20270122T030000Z
 DTEND:20270122T060000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Cal Poly Mustangs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ Cal Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+ s @ Cal Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA\nBroad
+ cast: Broadcast not announced
 LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +291,12 @@ DTSTART:20270124T020000Z
 DTEND:20270124T050000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ UC Santa Barbara Gauchos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ UC Santa Barbara Gauchos\nThe Thunderdome\, Santa Barbara\, CA
+ s @ UC Santa Barbara Gauchos\nThe Thunderdome\, Santa Barbara\, CA\nBroadc
+ ast: Broadcast not announced
 LOCATION:The Thunderdome\, Santa Barbara\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +305,12 @@ DTSTART:20270129T040000Z
 DTEND:20270129T070000Z
 SUMMARY:Sacramento State Hornets @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSacramento State Hornets @ Cal S
- tate Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ tate Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast:
+  Broadcast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +319,12 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:Utah Valley Wolverines @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUtah Valley Wolverines @ Cal Sta
- te Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ te Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast: B
+ roadcast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +333,12 @@ DTSTART:20270205T030000Z
 DTEND:20270205T060000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ UC Irvine Anteaters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ UC Irvine Anteaters\nBren Events Center\, Irvine\, CA
+ s @ UC Irvine Anteaters\nBren Events Center\, Irvine\, CA\nBroadcast: Broa
+ dcast not announced
 LOCATION:Bren Events Center\, Irvine\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +347,12 @@ DTSTART:20270207T020000Z
 DTEND:20270207T050000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ UC San Diego Tritons\nLionTree Arena\, San Diego\, CA
+ s @ UC San Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: Broa
+ dcast not announced
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +361,12 @@ DTSTART:20270212T023000Z
 DTEND:20270212T053000Z
 SUMMARY:Long Beach State Beach @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Beach State Beach @ Cal Sta
- te Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ te Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast: B
+ roadcast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +375,12 @@ DTSTART:20270214T023000Z
 DTEND:20270214T053000Z
 SUMMARY:Cal State Fullerton Titans @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Fullerton Titans @ Cal
-  State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+  State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcas
+ t: Broadcast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +389,12 @@ DTSTART:20270218T190000Z
 DTEND:20270218T220000Z
 SUMMARY:Cal Poly Mustangs @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ Cal State Ba
- kersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ kersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -365,11 +404,11 @@ DTEND:20270221T040000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Cal State Northridge Matadors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
  s @ Cal State Northridge Matadors\nPremier America Credit Union Arena\, No
- rthridge\, CA
+ rthridge\, CA\nBroadcast: Broadcast not announced
 LOCATION:Premier America Credit Union Arena\, Northridge\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -379,11 +418,11 @@ DTEND:20270226T060000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ California Baptist Lancers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
  s @ California Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center
- \, Riverside\, CA
+ \, Riverside\, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -392,11 +431,12 @@ DTSTART:20270228T010000Z
 DTEND:20270228T040000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ UC Riverside Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ UC Riverside Highlanders\nSRC Arena\, Riverside\, CA
+ s @ UC Riverside Highlanders\nSRC Arena\, Riverside\, CA\nBroadcast: Broad
+ cast not announced
 LOCATION:SRC Arena\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -405,11 +445,12 @@ DTSTART:20270305T023000Z
 DTEND:20270305T053000Z
 SUMMARY:UC San Diego Tritons @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ Cal State
-  Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+  Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -418,11 +459,12 @@ DTSTART:20270306T220000Z
 DTEND:20270307T010000Z
 SUMMARY:UC Irvine Anteaters @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Irvine Anteaters @ Cal State 
- Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast: Broa
+ dcast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

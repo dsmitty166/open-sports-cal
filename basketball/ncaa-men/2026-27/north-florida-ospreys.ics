@@ -13,12 +13,13 @@ DTEND:20261104T060000Z
 SUMMARY:North Florida Ospreys @ California Baptist Lancers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Californ
  ia Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside
- \, CA
+ \, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922219@open-sports-cal
@@ -26,12 +27,13 @@ DTSTART:20261107T033000Z
 DTEND:20261107T063000Z
 SUMMARY:North Florida Ospreys @ UCLA Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ UCLA Bru
- ins\nPauley Pavilion\, Los Angeles\, CA
+ ins\nPauley Pavilion\, Los Angeles\, CA\nBroadcast: BTN
 LOCATION:Pauley Pavilion\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921720@open-sports-cal
@@ -39,12 +41,13 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:North Florida Ospreys @ Miami Hurricanes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Miami Hu
- rricanes\nWatsco Center\, Coral Gables\, FL
+ rricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: ACC Network
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922220@open-sports-cal
@@ -52,12 +55,13 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:The Citadel Bulldogs @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nThe Citadel Bulldogs @ North Flo
- rida Ospreys\nUNF Arena\, Jacksonville\, FL
+ rida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922221@open-sports-cal
@@ -65,12 +69,14 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Fort Lauderdale Eagles @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFort Lauderdale Eagles @ North F
- lorida Ospreys\nUNF Arena\, Jacksonville\, FL
+ lorida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922222@open-sports-cal
@@ -78,12 +84,13 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Little Rock Trojans @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ North Flor
- ida Ospreys\nUNF Arena\, Jacksonville\, FL
+ ida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917919@open-sports-cal
@@ -91,12 +98,14 @@ DTSTART:20261124T000000Z
 DTEND:20261124T030000Z
 SUMMARY:Central Arkansas Bears @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Arkansas Bears @ North F
- lorida Ospreys\nUNF Arena\, Jacksonville\, FL
+ lorida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922223@open-sports-cal
@@ -104,12 +113,13 @@ DTSTART:20261125T190000Z
 DTEND:20261125T220000Z
 SUMMARY:Warner Royals @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWarner Royals @ North Florida Os
- preys\nUNF Arena\, Jacksonville\, FL
+ preys\nUNF Arena\, Jacksonville\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922224@open-sports-cal
@@ -117,12 +127,13 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:North Florida Ospreys @ Columbia Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Columbia
-  Lions\nLevien Gymnasium\, New York\, NY
+  Lions\nLevien Gymnasium\, New York\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922225@open-sports-cal
@@ -130,12 +141,13 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:South Dakota Coyotes @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota Coyotes @ North Flo
- rida Ospreys\nUNF Arena\, Jacksonville\, FL
+ rida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922226@open-sports-cal
@@ -143,12 +155,14 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Florida Polytechnic Phoenix @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Polytechnic Phoenix @ No
- rth Florida Ospreys\nUNF Arena\, Jacksonville\, FL
+ rth Florida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922227@open-sports-cal
@@ -156,11 +170,12 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:North Florida Ospreys @ South Dakota Coyotes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ South Da
- kota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ kota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: B
+ roadcast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -169,12 +184,14 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Charleston Southern Buccaneers @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Southern Buccaneers @
-  North Florida Ospreys\nUNF Arena\, Jacksonville\, FL
+  North Florida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922228@open-sports-cal
@@ -182,12 +199,14 @@ DTSTART:20261219T230000Z
 DTEND:20261220T020000Z
 SUMMARY:North Florida Ospreys @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ UT Arlin
- gton Mavericks\nCollege Park Center\, Arlington\, TX
+ gton Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920814@open-sports-cal
@@ -195,11 +214,12 @@ DTSTART:20261221T190000Z
 DTEND:20261221T220000Z
 SUMMARY:North Florida Ospreys @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Texas A&
- M Aggies\nReed Arena\, College Station\, TX
+ M Aggies\nReed Arena\, College Station\, TX\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +228,13 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:North Florida Ospreys @ Georgia Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Georgia 
- Bulldogs\nStegeman Coliseum\, Athens\, GA
+ Bulldogs\nStegeman Coliseum\, Athens\, GA\nBroadcast: SECN+ (streaming)
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917975@open-sports-cal
@@ -221,12 +242,14 @@ DTSTART:20261231T210000Z
 DTEND:20270101T000000Z
 SUMMARY:North Florida Ospreys @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Abilene 
- Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+ Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922229@open-sports-cal
@@ -234,11 +257,12 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:North Florida Ospreys @ Tarleton State Texans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Tarleton
-  State Texans\nEECU Center\, Stephenville\, TX
+  State Texans\nEECU Center\, Stephenville\, TX\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:EECU Center\, Stephenville\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +271,12 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Bellarmine Knights @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBellarmine Knights @ North Flori
- da Ospreys\nUNF Arena\, Jacksonville\, FL
+ da Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: Broadcast not announ
+ ced
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +285,11 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Lipscomb Bisons @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLipscomb Bisons @ North Florida 
- Ospreys\nUNF Arena\, Jacksonville\, FL
+ Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: Broadcast not announced
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +298,12 @@ DTSTART:20270114T230000Z
 DTEND:20270115T020000Z
 SUMMARY:North Florida Ospreys @ West Florida Argonauts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ West Flo
- rida Argonauts\nUWF Field House\, Pensacola\, FL
+ rida Argonauts\nUWF Field House\, Pensacola\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:UWF Field House\, Pensacola\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +312,12 @@ DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
 SUMMARY:North Florida Ospreys @ Queens University Royals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Queens U
- niversity Royals\nCurry Arena\, Charlotte\, NC
+ niversity Royals\nCurry Arena\, Charlotte\, NC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Curry Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +326,12 @@ DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:North Florida Ospreys @ Jacksonville Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Jacksonv
- ille Dolphins\nSwisher Gymnasium\, Jacksonville\, FL\nStart time TBD
+ ille Dolphins\nSwisher Gymnasium\, Jacksonville\, FL\nStart time TBD\nBroa
+ dcast: Broadcast not announced
 LOCATION:Swisher Gymnasium\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401905424@open-sports-cal
@@ -311,11 +339,11 @@ DTSTART:20270129T010000Z
 DTEND:20270129T040000Z
 SUMMARY:Stetson Hatters @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ North Florida 
- Ospreys\nUNF Arena\, Jacksonville\, FL
+ Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: Broadcast not announced
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +352,12 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:Florida Gulf Coast Eagles @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Nort
- h Florida Ospreys\nUNF Arena\, Jacksonville\, FL
+ h Florida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +366,11 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:North Florida Ospreys @ Lipscomb Bisons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Lipscomb
-  Bisons\nAllen Arena\, Nashville\, TN
+  Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: Broadcast not announced
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +379,12 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:North Florida Ospreys @ Bellarmine Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Bellarmi
- ne Knights\nKnights Hall\, Louisville\, KY
+ ne Knights\nKnights Hall\, Louisville\, KY\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Knights Hall\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +393,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Queens University Royals @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nQueens University Royals @ North
-  Florida Ospreys\nUNF Arena\, Jacksonville\, FL
+  Florida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: Broadcast not 
+ announced
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +407,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:West Florida Argonauts @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Florida Argonauts @ North F
- lorida Ospreys\nUNF Arena\, Jacksonville\, FL
+ lorida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +421,12 @@ DTSTART:20270220T000000Z
 DTEND:20270220T030000Z
 SUMMARY:Jacksonville Dolphins @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville Dolphins @ North Fl
- orida Ospreys\nUNF Arena\, Jacksonville\, FL
+ orida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +435,12 @@ DTSTART:20270226T003000Z
 DTEND:20270226T033000Z
 SUMMARY:North Florida Ospreys @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Florida 
- Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +449,12 @@ DTSTART:20270227T203000Z
 DTEND:20270227T233000Z
 SUMMARY:North Florida Ospreys @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Stetson 
- Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroad
+ cast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,13 +12,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Georgia Southern Eagles @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Bowl
- ing Green Falcons\nStroh Center\, Bowling Green\, OH
+ ing Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929019@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Cleveland State Vikings @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCleveland State Vikings @ Bowl
- ing Green Falcons\nStroh Center\, Bowling Green\, OH
+ ing Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926094@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261110T160000Z
 DTEND:20261110T190000Z
 SUMMARY:Bellarmine Knights @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBellarmine Knights @ Bowling G
- reen Falcons\nStroh Center\, Bowling Green\, OH
+ reen Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929164@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261117T000000Z
 DTEND:20261117T030000Z
 SUMMARY:Lawrence Tech LAWRENCE TECH @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLawrence Tech LAWRENCE TECH @ 
- Bowling Green Falcons\nStroh Center\, Bowling Green\, OH
+ Bowling Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927105@open-sports-cal
@@ -68,12 +76,13 @@ DTSTART:20261119T160000Z
 DTEND:20261119T190000Z
 SUMMARY:Bowling Green Falcons @ Penn State Lady Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Penn S
- tate Lady Lions\nRec Hall\, University Park\, PA
+ tate Lady Lions\nRec Hall\, University Park\, PA\nBroadcast: Broadcast not
+  announced
 LOCATION:Rec Hall\, University Park\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -82,12 +91,13 @@ DTSTART:20261127T160000Z
 DTEND:20261127T190000Z
 SUMMARY:Bowling Green Falcons @ Texas A&M Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Texas 
- A&M Aggies\nCommunity School of Naples\, Naples\, FL\nNeutral site
+ A&M Aggies\nCommunity School of Naples\, Naples\, FL\nNeutral site\nBroadc
+ ast: Broadcast not announced
 LOCATION:Community School of Naples\, Naples\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -97,12 +107,12 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Bowling Green Falcons @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Tulsa 
  Golden Hurricane\nCommunity School of Naples\, Naples\, FL\nNeutral site\n
- Start time TBD
+ Start time TBD\nBroadcast: Broadcast not announced
 LOCATION:Community School of Naples\, Naples\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927968@open-sports-cal
@@ -110,12 +120,13 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Bowling Green Falcons @ North Carolina A&T Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ North 
- Carolina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC
+ Carolina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC\nBroadcast: B
+ roadcast not announced
 LOCATION:Corbett Sports Center\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +135,13 @@ DTSTART:20261203T160000Z
 DTEND:20261203T190000Z
 SUMMARY:Bowling Green Falcons @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ UNC Wi
- lmington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ lmington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast 
+ not announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +150,15 @@ DTSTART:20261213T170000Z
 DTEND:20261213T200000Z
 SUMMARY:Bowling Green Falcons @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Notre 
- Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACC Ne
+ twork
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918733@open-sports-cal
@@ -152,13 +166,15 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:St. Thomas Tommies @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. Thomas Tommies @ Bowling G
- reen Falcons\nStroh Center\, Bowling Green\, OH
+ reen Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929106@open-sports-cal
@@ -166,13 +182,15 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Bowling Green Falcons @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Purdue
-  Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+  Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928284@open-sports-cal
@@ -180,13 +198,15 @@ DTSTART:20261228T180000Z
 DTEND:20261228T210000Z
 SUMMARY:Fresno State Bulldogs @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFresno State Bulldogs @ Bowlin
- g Green Falcons\nStroh Center\, Bowling Green\, OH
+ g Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401909351@open-sports-cal
@@ -194,12 +214,13 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:Bowling Green Falcons @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Ohio B
- obcats\nConvocation Center (OH)\, Athens\, OH
+ obcats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +229,13 @@ DTSTART:20270106T233000Z
 DTEND:20270107T023000Z
 SUMMARY:Bowling Green Falcons @ Central Michigan Chippewas
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Centra
- l Michigan Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI
+ l Michigan Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI\nBroadcast: Broa
+ dcast not announced
 LOCATION:McGuirk Arena\, Mount Pleasant\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +244,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Buffalo Bulls @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBuffalo Bulls @ Bowling Green 
- Falcons\nStroh Center\, Bowling Green\, OH
+ Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +259,13 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Western Michigan Broncos @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Michigan Broncos @ Bow
- ling Green Falcons\nStroh Center\, Bowling Green\, OH
+ ling Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcas
+ t not announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +274,13 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Bowling Green Falcons @ Ball State Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Ball S
- tate Cardinals\nWorthen Arena\, Muncie\, IN
+ tate Cardinals\nWorthen Arena\, Muncie\, IN\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Worthen Arena\, Muncie\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +289,13 @@ DTSTART:20270120T233000Z
 DTEND:20270121T023000Z
 SUMMARY:Bowling Green Falcons @ Eastern Michigan Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Easter
- n Michigan Eagles\nGervin GameAbove Center\, Ypsilanti\, MI
+ n Michigan Eagles\nGervin GameAbove Center\, Ypsilanti\, MI\nBroadcast: Br
+ oadcast not announced
 LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +304,13 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Toledo Rockets @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nToledo Rockets @ Bowling Green
-  Falcons\nStroh Center\, Bowling Green\, OH
+  Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +319,13 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:Kent State Golden Flashes @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKent State Golden Flashes @ Bo
- wling Green Falcons\nStroh Center\, Bowling Green\, OH
+ wling Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadca
+ st not announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +334,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Bowling Green Falcons @ Buffalo Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Buffal
- o Bulls\nBroadview Arena\, Buffalo\, NY
+ o Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announce
+ d
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +349,13 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:Massachusetts Minutewomen @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Bo
- wling Green Falcons\nStroh Center\, Bowling Green\, OH
+ wling Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadca
+ st not announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +364,13 @@ DTSTART:20270210T230000Z
 DTEND:20270211T020000Z
 SUMMARY:Bowling Green Falcons @ Akron Zips
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Akron 
- Zips\nJames A. Rhodes Arena\, Akron\, OH
+ Zips\nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not announc
+ ed
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +379,13 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:Ohio Bobcats @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Bowling Green F
- alcons\nStroh Center\, Bowling Green\, OH
+ alcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +394,13 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:Bowling Green Falcons @ Miami (OH) RedHawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Miami 
- (OH) RedHawks\nMillett Hall\, Oxford\, OH
+ (OH) RedHawks\nMillett Hall\, Oxford\, OH\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Millett Hall\, Oxford\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +409,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Ball State Cardinals @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBall State Cardinals @ Bowling
-  Green Falcons\nStroh Center\, Bowling Green\, OH
+  Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast no
+ t announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +424,13 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:Eastern Michigan Eagles @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Michigan Eagles @ Bowl
- ing Green Falcons\nStroh Center\, Bowling Green\, OH
+ ing Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast
+  not announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +439,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Bowling Green Falcons @ Toledo Rockets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Toledo
-  Rockets\nSavage Arena\, Toledo\, OH
+  Rockets\nSavage Arena\, Toledo\, OH\nBroadcast: Broadcast not announced
 LOCATION:Savage Arena\, Toledo\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +453,13 @@ DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
 SUMMARY:Central Michigan Chippewas @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Michigan Chippewas @ B
- owling Green Falcons\nStroh Center\, Bowling Green\, OH
+ owling Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadc
+ ast not announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +468,13 @@ DTSTART:20270306T180000Z
 DTEND:20270306T210000Z
 SUMMARY:Bowling Green Falcons @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Massac
- husetts Minutewomen\nMullins Center\, Amherst\, MA
+ husetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

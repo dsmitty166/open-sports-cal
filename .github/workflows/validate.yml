@@ -8,6 +8,12 @@ on:
       - "validate.py"
       - "docs/calendar*.js"
       - "tests/calendar*.test.cjs"
+      - "tests/test_broadcasts.py"
+      - "scripts/broadcasts.py"
+      - "scripts/common.py"
+      - "scripts/update_ncaa.py"
+      - "scripts/update_nba.py"
+      - "scripts/update_nfl.py"
       - ".github/workflows/validate.yml"
   push:
     branches:
@@ -23,6 +29,10 @@ jobs:
         with:
           node-version: "22"
       - run: node --test tests/calendar*.test.cjs
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python3 -m unittest discover -s tests -p test_broadcasts.py
 
   check-structure:
     name: "Check: VCALENDAR structure & PRODID"

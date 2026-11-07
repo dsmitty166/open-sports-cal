@@ -12,12 +12,13 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Manhattan Jaspers @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nManhattan Jaspers @ Kentucky Wil
- dcats\nRupp Arena\, Lexington\, KY
+ dcats\nRupp Arena\, Lexington\, KY\nBroadcast: SECN+ (streaming)
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921802@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:James Madison Dukes @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJames Madison Dukes @ Kentucky W
- ildcats\nRupp Arena\, Lexington\, KY
+ ildcats\nRupp Arena\, Lexington\, KY\nBroadcast: SEC Network
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909786@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261111T023000Z
 DTEND:20261111T053000Z
 SUMMARY:Kansas Jayhawks @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ Kentucky Wildc
- ats\nUnited Center\, Chicago\, IL\nNeutral site
+ ats\nUnited Center\, Chicago\, IL\nNeutral site\nBroadcast: ESPN
 LOCATION:United Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921803@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Northern Arizona Lumberjacks @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ K
- entucky Wildcats\nRupp Arena\, Lexington\, KY
+ entucky Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: SECN+ (streaming
+ )
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921804@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261117T000000Z
 DTEND:20261117T030000Z
 SUMMARY:Grambling Tigers @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrambling Tigers @ Kentucky Wild
- cats\nRupp Arena\, Lexington\, KY
+ cats\nRupp Arena\, Lexington\, KY\nBroadcast: SECN+ (streaming)
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916290@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
 SUMMARY:Kentucky Wildcats @ Indiana Hoosiers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Indiana Hoos
- iers\nLucas Oil Stadium\, Indianapolis\, IN\nNeutral site
+ iers\nLucas Oil Stadium\, Indianapolis\, IN\nNeutral site\nBroadcast: CBS
 LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919033@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261128T020000Z
 DTEND:20261128T050000Z
 SUMMARY:Wichita State Shockers @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ Kentuck
- y Wildcats\nRupp Arena\, Lexington\, KY
+ y Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: ESPN2
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920430@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261203T001500Z
 DTEND:20261203T031500Z
 SUMMARY:Kentucky Wildcats @ Virginia Cavaliers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Virginia Cav
- aliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ aliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: ESPN
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921805@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:App State Mountaineers @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nApp State Mountaineers @ Kentuck
- y Wildcats\nRupp Arena\, Lexington\, KY
+ y Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: SECN+ (streaming)
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921806@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261209T003000Z
 DTEND:20261209T033000Z
 SUMMARY:Bryant Bulldogs @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBryant Bulldogs @ Kentucky Wildc
- ats\nRupp Arena\, Lexington\, KY
+ ats\nRupp Arena\, Lexington\, KY\nBroadcast: ESPN2
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918952@open-sports-cal
@@ -142,12 +153,13 @@ DTSTART:20261212T210000Z
 DTEND:20261213T000000Z
 SUMMARY:Louisville Cardinals @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisville Cardinals @ Kentucky 
- Wildcats\nRupp Arena\, Lexington\, KY
+ Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: ABC
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401912714@open-sports-cal
@@ -155,11 +167,12 @@ DTSTART:20261219T193000Z
 DTEND:20261219T223000Z
 SUMMARY:North Carolina Tar Heels @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Tar Heels @ Kentu
- cky Wildcats\nMadison Square Garden\, New York\, NY\nNeutral site
+ cky Wildcats\nMadison Square Garden\, New York\, NY\nNeutral site\nBroadca
+ st: Broadcast not announced
 LOCATION:Madison Square Garden\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +181,13 @@ DTSTART:20261222T180000Z
 DTEND:20261222T210000Z
 SUMMARY:Sacred Heart Pioneers @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSacred Heart Pioneers @ Kentucky
-  Wildcats\nRupp Arena\, Lexington\, KY
+  Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: SEC Network
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911400@open-sports-cal
@@ -181,12 +195,13 @@ DTSTART:20261229T000000Z
 DTEND:20261229T030000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- Kentucky Wildcats\nRupp Arena\, Lexington\, KY
+ Kentucky Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: SEC Network
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902306@open-sports-cal
@@ -194,11 +209,11 @@ DTSTART:20270102T170000Z
 DTEND:20270102T200000Z
 SUMMARY:Kentucky Wildcats @ Oklahoma Sooners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Oklahoma Soo
- ners\nLloyd Noble Center\, Norman\, OK
+ ners\nLloyd Noble Center\, Norman\, OK\nBroadcast: Broadcast not announced
 LOCATION:Lloyd Noble Center\, Norman\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +222,11 @@ DTSTART:20270106T000000Z
 DTEND:20270106T030000Z
 SUMMARY:Ole Miss Rebels @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOle Miss Rebels @ Kentucky Wildc
- ats\nRupp Arena\, Lexington\, KY
+ ats\nRupp Arena\, Lexington\, KY\nBroadcast: Broadcast not announced
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,12 +235,13 @@ DTSTART:20270109T210000Z
 DTEND:20270110T000000Z
 SUMMARY:Kentucky Wildcats @ Missouri Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Missouri Tig
- ers\nMizzou Arena\, Columbia\, MO
+ ers\nMizzou Arena\, Columbia\, MO\nBroadcast: ESPN2
 LOCATION:Mizzou Arena\, Columbia\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902333@open-sports-cal
@@ -233,12 +249,13 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:LSU Tigers @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Kentucky Wildcats\n
- Rupp Arena\, Lexington\, KY
+ Rupp Arena\, Lexington\, KY\nBroadcast: SEC Network
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902340@open-sports-cal
@@ -246,11 +263,11 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Vanderbilt Commodores @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVanderbilt Commodores @ Kentucky
-  Wildcats\nRupp Arena\, Lexington\, KY
+  Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: Broadcast not announced
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,12 +276,14 @@ DTSTART:20270121T013000Z
 DTEND:20270121T043000Z
 SUMMARY:Kentucky Wildcats @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Mississippi 
- State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SEC Networ
+ k
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902354@open-sports-cal
@@ -272,11 +291,11 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Tennessee Volunteers @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Volunteers @ Kentucky 
- Wildcats\nRupp Arena\, Lexington\, KY
+ Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: Broadcast not announced
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +304,11 @@ DTSTART:20270130T170000Z
 DTEND:20270130T200000Z
 SUMMARY:Kentucky Wildcats @ Texas Longhorns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Texas Longho
- rns\nMoody Center\, Austin\, TX
+ rns\nMoody Center\, Austin\, TX\nBroadcast: Broadcast not announced
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +317,12 @@ DTSTART:20270203T020000Z
 DTEND:20270203T050000Z
 SUMMARY:Kentucky Wildcats @ Ole Miss Rebels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Ole Miss Reb
- els\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+ els\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS\nBroadcas
+ t: Broadcast not announced
 LOCATION:The Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +331,11 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Alabama Crimson Tide @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Kentucky 
- Wildcats\nRupp Arena\, Lexington\, KY
+ Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: Broadcast not announced
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,12 +344,13 @@ DTSTART:20270211T010000Z
 DTEND:20270211T040000Z
 SUMMARY:South Carolina Gamecocks @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Kentu
- cky Wildcats\nRupp Arena\, Lexington\, KY
+ cky Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: SEC Network
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902398@open-sports-cal
@@ -337,12 +358,13 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Kentucky Wildcats @ Tennessee Volunteers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Tennessee Vo
- lunteers\nFood City Center\, Knoxville\, TN
+ lunteers\nFood City Center\, Knoxville\, TN\nBroadcast: ESPN
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902401@open-sports-cal
@@ -350,11 +372,11 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:Kentucky Wildcats @ Georgia Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Georgia Bull
- dogs\nStegeman Coliseum\, Athens\, GA
+ dogs\nStegeman Coliseum\, Athens\, GA\nBroadcast: Broadcast not announced
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +385,12 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Arkansas Razorbacks @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Kentucky W
- ildcats\nRupp Arena\, Lexington\, KY\nStart time TBD
+ ildcats\nRupp Arena\, Lexington\, KY\nStart time TBD\nBroadcast: ESPN
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902422@open-sports-cal
@@ -375,11 +398,12 @@ DTSTART:20270224T020000Z
 DTEND:20270224T050000Z
 SUMMARY:Kentucky Wildcats @ Vanderbilt Commodores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Vanderbilt C
- ommodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ ommodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: Broadcast 
+ not announced
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -388,11 +412,12 @@ DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Auburn Tigers @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAuburn Tigers @ Kentucky Wildcat
- s\nRupp Arena\, Lexington\, KY\nStart time TBD
+ s\nRupp Arena\, Lexington\, KY\nStart time TBD\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902437@open-sports-cal
@@ -400,11 +425,11 @@ DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
 SUMMARY:Texas A&M Aggies @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ Kentucky Wild
- cats\nRupp Arena\, Lexington\, KY
+ cats\nRupp Arena\, Lexington\, KY\nBroadcast: Broadcast not announced
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -413,10 +438,12 @@ DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Kentucky Wildcats @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Florida Gato
- rs\nStephen C. O'Connell Center\, Gainesville\, FL\nStart time TBD
+ rs\nStephen C. O'Connell Center\, Gainesville\, FL\nStart time TBD\nBroadc
+ ast: ESPN
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN
 END:VEVENT
 END:VCALENDAR

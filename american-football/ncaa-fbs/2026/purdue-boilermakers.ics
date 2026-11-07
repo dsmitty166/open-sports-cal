@@ -12,12 +12,13 @@ DTSTART:20260904T230000Z
 DTEND:20260905T020000Z
 SUMMARY:Indiana State Sycamores @ Purdue Boilermakers
 DESCRIPTION:NCAA FBS Football 2026\nIndiana State Sycamores @ Purdue Boiler
- makers\nRoss-Ade Stadium\, West Lafayette\, IN
+ makers\nRoss-Ade Stadium\, West Lafayette\, IN\nBroadcast: BTN
 LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858224@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:Wake Forest Demon Deacons @ Purdue Boilermakers
 DESCRIPTION:NCAA FBS Football 2026\nWake Forest Demon Deacons @ Purdue Boil
- ermakers\nRoss-Ade Stadium\, West Lafayette\, IN
+ ermakers\nRoss-Ade Stadium\, West Lafayette\, IN\nBroadcast: FS1
 LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858458@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260920T030000Z
 DTEND:20260920T060000Z
 SUMMARY:Purdue Boilermakers @ UCLA Bruins
 DESCRIPTION:NCAA FBS Football 2026\nPurdue Boilermakers @ UCLA Bruins\nRose
-  Bowl\, Pasadena\, CA
+  Bowl\, Pasadena\, CA\nBroadcast: BTN
 LOCATION:Rose Bowl\, Pasadena\, CA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858467@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20260926T180000Z
 DTEND:20260926T210000Z
 SUMMARY:Notre Dame Fighting Irish @ Purdue Boilermakers
 DESCRIPTION:NCAA FBS Football 2026\nNotre Dame Fighting Irish @ Purdue Boil
- ermakers\nRoss-Ade Stadium\, West Lafayette\, IN
+ ermakers\nRoss-Ade Stadium\, West Lafayette\, IN\nBroadcast: Peacock (stre
+ aming)
 LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858472@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T201500Z
 DTEND:20261003T231500Z
 SUMMARY:Purdue Boilermakers @ Illinois Fighting Illini
 DESCRIPTION:NCAA FBS Football 2026\nPurdue Boilermakers @ Illinois Fighting
-  Illini\nGies Memorial Stadium\, Champaign\, IL
+  Illini\nGies Memorial Stadium\, Champaign\, IL\nBroadcast: BTN
 LOCATION:Gies Memorial Stadium\, Champaign\, IL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858486@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261011T000000Z
 DTEND:20261011T030000Z
 SUMMARY:Minnesota Golden Gophers @ Purdue Boilermakers
 DESCRIPTION:NCAA FBS Football 2026\nMinnesota Golden Gophers @ Purdue Boile
- rmakers\nRoss-Ade Stadium\, West Lafayette\, IN
+ rmakers\nRoss-Ade Stadium\, West Lafayette\, IN\nBroadcast: BTN
 LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858493@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261017T000000Z
 DTEND:20261017T030000Z
 SUMMARY:Washington Huskies @ Purdue Boilermakers
 DESCRIPTION:NCAA FBS Football 2026\nWashington Huskies @ Purdue Boilermaker
- s\nRoss-Ade Stadium\, West Lafayette\, IN
+ s\nRoss-Ade Stadium\, West Lafayette\, IN\nBroadcast: Fox
 LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858506@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261031T201500Z
 DTEND:20261031T231500Z
 SUMMARY:Purdue Boilermakers @ Penn State Nittany Lions
 DESCRIPTION:NCAA FBS Football 2026\nPurdue Boilermakers @ Penn State Nittan
- y Lions\nBeaver Stadium\, University Park\, PA
+ y Lions\nBeaver Stadium\, University Park\, PA\nBroadcast: BTN
 LOCATION:Beaver Stadium\, University Park\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858515@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T173000Z
 DTEND:20261107T203000Z
 SUMMARY:Maryland Terrapins @ Purdue Boilermakers
 DESCRIPTION:NCAA FBS Football 2026\nMaryland Terrapins @ Purdue Boilermaker
- s\nRoss-Ade Stadium\, West Lafayette\, IN
+ s\nRoss-Ade Stadium\, West Lafayette\, IN\nBroadcast: BTN
 LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858519@open-sports-cal
@@ -129,11 +139,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Purdue Boilermakers @ Iowa Hawkeyes
 DESCRIPTION:NCAA FBS Football 2026\nPurdue Boilermakers @ Iowa Hawkeyes\nKi
- nnick Stadium\, Iowa City\, IA\nStart time TBD
+ nnick Stadium\, Iowa City\, IA\nStart time TBD\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Kinnick Stadium\, Iowa City\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858533@open-sports-cal
@@ -141,11 +152,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Wisconsin Badgers @ Purdue Boilermakers
 DESCRIPTION:NCAA FBS Football 2026\nWisconsin Badgers @ Purdue Boilermakers
- \nRoss-Ade Stadium\, West Lafayette\, IN\nStart time TBD
+ \nRoss-Ade Stadium\, West Lafayette\, IN\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858538@open-sports-cal
@@ -153,10 +165,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Purdue Boilermakers @ Indiana Hoosiers
 DESCRIPTION:NCAA FBS Football 2026\nPurdue Boilermakers @ Indiana Hoosiers\
- nMemorial Stadium (Bloomington\, IN)\, Bloomington\, IN\nStart time TBD
+ nMemorial Stadium (Bloomington\, IN)\, Bloomington\, IN\nStart time TBD\nB
+ roadcast: Broadcast not announced
 LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

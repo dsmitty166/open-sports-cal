@@ -12,12 +12,14 @@ DTSTART:20260905T234500Z
 DTEND:20260906T024500Z
 SUMMARY:Murray State Racers @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA FBS Football 2026\nMurray State Racers @ Middle Tennessee 
- Blue Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN
+ Blue Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Johnny "Red" Floyd Stadium\, Murfreesboro\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871045@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Marshall Thundering Herd
 DESCRIPTION:NCAA FBS Football 2026\nMiddle Tennessee Blue Raiders @ Marshal
- l Thundering Herd\nJoan C. Edwards Stadium\, Huntington\, WV
+ l Thundering Herd\nJoan C. Edwards Stadium\, Huntington\, WV\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864443@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Nevada Wolf Pack @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA FBS Football 2026\nNevada Wolf Pack @ Middle Tennessee Blu
- e Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN
+ e Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Johnny "Red" Floyd Stadium\, Murfreesboro\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871048@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20260926T230000Z
 DTEND:20260927T020000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA FBS Football 2026\nMiddle Tennessee Blue Raiders @ Jackson
- ville State Gamecocks\nAmFirst Stadium\, Jacksonville\, AL
+ ville State Gamecocks\nAmFirst Stadium\, Jacksonville\, AL\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:AmFirst Stadium\, Jacksonville\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856807@open-sports-cal
@@ -64,12 +72,14 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Kansas Jayhawks
 DESCRIPTION:NCAA FBS Football 2026\nMiddle Tennessee Blue Raiders @ Kansas 
- Jayhawks\nDavid Booth Kansas Memorial Stadium\, Lawrence\, KS
+ Jayhawks\nDavid Booth Kansas Memorial Stadium\, Lawrence\, KS\nBroadcast: 
+ ESPNU
 LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871067@open-sports-cal
@@ -77,12 +87,14 @@ DTSTART:20261013T230000Z
 DTEND:20261014T020000Z
 SUMMARY:Delaware Blue Hens @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA FBS Football 2026\nDelaware Blue Hens @ Middle Tennessee B
- lue Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN
+ lue Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN\nBroadcast: CB
+ SSN
 LOCATION:Johnny "Red" Floyd Stadium\, Murfreesboro\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871055@open-sports-cal
@@ -90,12 +102,13 @@ DTSTART:20261020T230000Z
 DTEND:20261021T020000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Florida International Panthers
 DESCRIPTION:NCAA FBS Football 2026\nMiddle Tennessee Blue Raiders @ Florida
-  International Panthers\nPitbull Stadium\, Miami\, FL
+  International Panthers\nPitbull Stadium\, Miami\, FL\nBroadcast: CBSSN
 LOCATION:Pitbull Stadium\, Miami\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871058@open-sports-cal
@@ -103,12 +116,14 @@ DTSTART:20261028T230000Z
 DTEND:20261029T020000Z
 SUMMARY:Kennesaw State Owls @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA FBS Football 2026\nKennesaw State Owls @ Middle Tennessee 
- Blue Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN
+ Blue Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN\nBroadcast: C
+ BSSN
 LOCATION:Johnny "Red" Floyd Stadium\, Murfreesboro\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871076@open-sports-cal
@@ -116,12 +131,14 @@ DTSTART:20261107T203000Z
 DTEND:20261107T233000Z
 SUMMARY:Western Kentucky Hilltoppers @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA FBS Football 2026\nWestern Kentucky Hilltoppers @ Middle T
- ennessee Blue Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN
+ ennessee Blue Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:Johnny "Red" Floyd Stadium\, Murfreesboro\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871061@open-sports-cal
@@ -129,12 +146,13 @@ DTSTART:20261114T203000Z
 DTEND:20261114T233000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Liberty Flames
 DESCRIPTION:NCAA FBS Football 2026\nMiddle Tennessee Blue Raiders @ Liberty
-  Flames\nWilliams Stadium (VA)\, Lynchburg\, VA
+  Flames\nWilliams Stadium (VA)\, Lynchburg\, VA\nBroadcast: CBSSN
 LOCATION:Williams Stadium (VA)\, Lynchburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871081@open-sports-cal
@@ -142,11 +160,12 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Sam Houston Bearkats
 DESCRIPTION:NCAA FBS Football 2026\nMiddle Tennessee Blue Raiders @ Sam Hou
- ston Bearkats\nElliott T. Bowers Stadium\, Huntsville\, TX
+ ston Bearkats\nElliott T. Bowers Stadium\, Huntsville\, TX\nBroadcast: Bro
+ adcast not announced
 LOCATION:Elliott T. Bowers Stadium\, Huntsville\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +174,12 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:New Mexico State Aggies @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA FBS Football 2026\nNew Mexico State Aggies @ Middle Tennes
- see Blue Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN
+ see Blue Raiders\nJohnny "Red" Floyd Stadium\, Murfreesboro\, TN\nBroadcas
+ t: Broadcast not announced
 LOCATION:Johnny "Red" Floyd Stadium\, Murfreesboro\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

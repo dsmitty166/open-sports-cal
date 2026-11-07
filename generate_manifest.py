@@ -144,6 +144,7 @@ def parse_events(path: Path) -> list:
             "tz":       tz,
             "summary":  unescape_text(ev.get("SUMMARY", "")),
             "location": unescape_text(ev.get("LOCATION", "")),
+            **({"broadcast": unescape_text(ev["X-BROADCAST"])} if ev.get("X-BROADCAST") else {}),
         })
     return result
 

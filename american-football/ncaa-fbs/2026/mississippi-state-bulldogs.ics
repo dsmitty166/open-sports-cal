@@ -12,12 +12,13 @@ DTSTART:20260905T233000Z
 DTEND:20260906T023000Z
 SUMMARY:UL Monroe Warhawks @ Mississippi State Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nUL Monroe Warhawks @ Mississippi State 
- Bulldogs\nDavis Wade Stadium\, Starkville\, MS
+ Bulldogs\nDavis Wade Stadium\, Starkville\, MS\nBroadcast: ESPNU
 LOCATION:Davis Wade Stadium\, Starkville\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856677@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T193000Z
 DTEND:20260912T223000Z
 SUMMARY:Mississippi State Bulldogs @ Minnesota Golden Gophers
 DESCRIPTION:NCAA FBS Football 2026\nMississippi State Bulldogs @ Minnesota 
- Golden Gophers\nHuntington Bank Stadium\, Minneapolis\, MN
+ Golden Gophers\nHuntington Bank Stadium\, Minneapolis\, MN\nBroadcast: CBS
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856691@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20260919T213500Z
 DTEND:20260920T003500Z
 SUMMARY:Mississippi State Bulldogs @ South Carolina Gamecocks
 DESCRIPTION:NCAA FBS Football 2026\nMississippi State Bulldogs @ South Caro
- lina Gamecocks\nWilliams-Brice Stadium\, Columbia\, SC
+ lina Gamecocks\nWilliams-Brice Stadium\, Columbia\, SC\nBroadcast: SEC Net
+ work
 LOCATION:Williams-Brice Stadium\, Columbia\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856703@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260926T234500Z
 DTEND:20260927T024500Z
 SUMMARY:Missouri Tigers @ Mississippi State Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nMissouri Tigers @ Mississippi State Bul
- ldogs\nDavis Wade Stadium\, Starkville\, MS
+ ldogs\nDavis Wade Stadium\, Starkville\, MS\nBroadcast: SEC Network
 LOCATION:Davis Wade Stadium\, Starkville\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856707@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Alabama Crimson Tide @ Mississippi State Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nAlabama Crimson Tide @ Mississippi Stat
- e Bulldogs\nDavis Wade Stadium\, Starkville\, MS
+ e Bulldogs\nDavis Wade Stadium\, Starkville\, MS\nBroadcast: ABC
 LOCATION:Davis Wade Stadium\, Starkville\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856720@open-sports-cal
@@ -77,12 +83,14 @@ DTSTART:20261017T160000Z
 DTEND:20261017T190000Z
 SUMMARY:Mississippi State Bulldogs @ LSU Tigers
 DESCRIPTION:NCAA FBS Football 2026\nMississippi State Bulldogs @ LSU Tigers
- \nTiger Stadium (LA)\, Baton Rouge\, LA
+ \nTiger Stadium (LA)\, Baton Rouge\, LA\nBroadcast: ESPN / Disney+ (stream
+ ing)
 LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856730@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:Oklahoma Sooners @ Mississippi State Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nOklahoma Sooners @ Mississippi State Bu
- lldogs\nDavis Wade Stadium\, Starkville\, MS
+ lldogs\nDavis Wade Stadium\, Starkville\, MS\nBroadcast: SEC Network
 LOCATION:Davis Wade Stadium\, Starkville\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856737@open-sports-cal
@@ -103,12 +112,14 @@ DTSTART:20261031T233000Z
 DTEND:20261101T023000Z
 SUMMARY:Mississippi State Bulldogs @ Texas Longhorns
 DESCRIPTION:NCAA FBS Football 2026\nMississippi State Bulldogs @ Texas Long
- horns\nDKR-Texas Memorial Stadium\, Austin\, TX
+ horns\nDKR-Texas Memorial Stadium\, Austin\, TX\nBroadcast: ESPN / Disney+
+  (streaming)
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856742@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261107T211500Z
 DTEND:20261108T001500Z
 SUMMARY:Vanderbilt Commodores @ Mississippi State Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nVanderbilt Commodores @ Mississippi Sta
- te Bulldogs\nDavis Wade Stadium\, Starkville\, MS
+ te Bulldogs\nDavis Wade Stadium\, Starkville\, MS\nBroadcast: SEC Network
 LOCATION:Davis Wade Stadium\, Starkville\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856886@open-sports-cal
@@ -129,11 +141,12 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Auburn Tigers @ Mississippi State Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nAuburn Tigers @ Mississippi State Bulld
- ogs\nDavis Wade Stadium\, Starkville\, MS
+ ogs\nDavis Wade Stadium\, Starkville\, MS\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Davis Wade Stadium\, Starkville\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +155,14 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Mississippi State Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nTennessee Tech Golden Eagles @ Mississi
- ppi State Bulldogs\nDavis Wade Stadium\, Starkville\, MS
+ ppi State Bulldogs\nDavis Wade Stadium\, Starkville\, MS\nBroadcast: SECN+
+  (streaming)
 LOCATION:Davis Wade Stadium\, Starkville\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856762@open-sports-cal
@@ -155,11 +170,12 @@ DTSTART:20261127T170000Z
 DTEND:20261127T200000Z
 SUMMARY:Mississippi State Bulldogs @ Ole Miss Rebels
 DESCRIPTION:NCAA FBS Football 2026\nMississippi State Bulldogs @ Ole Miss R
- ebels\nVaught-Hemingway Stadium\, Oxford\, MS
+ ebels\nVaught-Hemingway Stadium\, Oxford\, MS\nBroadcast: ABC
 LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 END:VCALENDAR

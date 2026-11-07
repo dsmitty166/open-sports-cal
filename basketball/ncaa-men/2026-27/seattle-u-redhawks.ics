@@ -12,12 +12,14 @@ DTSTART:20261103T045900Z
 DTEND:20261103T075900Z
 SUMMARY:Seattle U Redhawks @ Hawai'i Rainbow Warriors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ Hawai'i Rai
- nbow Warriors\nStan Sheriff Center\, Honolulu\, HI
+ nbow Warriors\nStan Sheriff Center\, Honolulu\, HI\nBroadcast: MW+ (stream
+ ing)
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917517@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261108T030000Z
 DTEND:20261108T060000Z
 SUMMARY:Portland State Vikings @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Seattle
-  U Redhawks\nRedhawk Center\, Seattle\, WA
+  U Redhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: ESPN+ (streaming)
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917521@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261112T030000Z
 DTEND:20261112T060000Z
 SUMMARY:UTSA Roadrunners @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUTSA Roadrunners @ Seattle U Red
- hawks\nRedhawk Center\, Seattle\, WA
+ hawks\nRedhawk Center\, Seattle\, WA\nBroadcast: ESPN+ (streaming)
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917528@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261115T030000Z
 DTEND:20261115T060000Z
 SUMMARY:Idaho State Bengals @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Seattle U 
- Redhawks\nRedhawk Center\, Seattle\, WA
+ Redhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: ESPN+ (streaming)
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917533@open-sports-cal
@@ -65,12 +70,13 @@ DTEND:20261118T060000Z
 SUMMARY:Seattle U Redhawks @ California Baptist Lancers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ California 
  Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\, 
- CA
+ CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917542@open-sports-cal
@@ -78,11 +84,12 @@ DTSTART:20261123T023000Z
 DTEND:20261123T053000Z
 SUMMARY:Seattle U Redhawks @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ UC San Dieg
- o Tritons\nAcrisure Arena\, Palm Springs\, CA\nNeutral site
+ o Tritons\nAcrisure Arena\, Palm Springs\, CA\nNeutral site\nBroadcast: Br
+ oadcast not announced
 LOCATION:Acrisure Arena\, Palm Springs\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -91,12 +98,13 @@ DTSTART:20261128T220000Z
 DTEND:20261129T010000Z
 SUMMARY:UC Irvine Anteaters @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Irvine Anteaters @ Seattle U 
- Redhawks\nRedhawk Center\, Seattle\, WA
+ Redhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: ESPN+ (streaming)
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917553@open-sports-cal
@@ -104,12 +112,13 @@ DTSTART:20261202T030000Z
 DTEND:20261202T060000Z
 SUMMARY:Norfolk State Spartans @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorfolk State Spartans @ Seattle
-  U Redhawks\nRedhawk Center\, Seattle\, WA
+  U Redhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: ESPN+ (streaming)
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911474@open-sports-cal
@@ -117,11 +126,12 @@ DTSTART:20261206T020000Z
 DTEND:20261206T050000Z
 SUMMARY:Seattle U Redhawks @ San José State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ San José S
- tate Spartans\nProvident Credit Union Event Center\, San Jose\, CA
+ tate Spartans\nProvident Credit Union Event Center\, San Jose\, CA\nBroadc
+ ast: Broadcast not announced
 LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -130,12 +140,13 @@ DTSTART:20261213T010000Z
 DTEND:20261213T040000Z
 SUMMARY:Puget Sound Loggers @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPuget Sound Loggers @ Seattle U 
- Redhawks\nRedhawk Center\, Seattle\, WA
+ Redhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: ESPN+ (streaming)
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917574@open-sports-cal
@@ -143,12 +154,13 @@ DTSTART:20261216T030000Z
 DTEND:20261216T060000Z
 SUMMARY:Austin Peay Governors @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAustin Peay Governors @ Seattle 
- U Redhawks\nRedhawk Center\, Seattle\, WA
+ U Redhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: ESPN+ (streaming)
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917579@open-sports-cal
@@ -156,11 +168,12 @@ DTSTART:20261220T003000Z
 DTEND:20261220T033000Z
 SUMMARY:Seattle U Redhawks @ Washington State Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ Washington 
- State Cougars\nClimate Pledge Arena\, Seattle\, WA\nNeutral site
+ State Cougars\nClimate Pledge Arena\, Seattle\, WA\nNeutral site\nBroadcas
+ t: Broadcast not announced
 LOCATION:Climate Pledge Arena\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -169,12 +182,13 @@ DTSTART:20261223T030000Z
 DTEND:20261223T060000Z
 SUMMARY:UC Davis Aggies @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ Seattle U Redh
- awks\nRedhawk Center\, Seattle\, WA
+ awks\nRedhawk Center\, Seattle\, WA\nBroadcast: ESPN+ (streaming)
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913534@open-sports-cal
@@ -182,12 +196,14 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:Seattle U Redhawks @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ Illinois Fi
- ghting Illini\nState Farm Center\, Champaign\, IL
+ ghting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: B1G+ (stream
+ ing)
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917596@open-sports-cal
@@ -195,11 +211,12 @@ DTSTART:20270103T030000Z
 DTEND:20270103T060000Z
 SUMMARY:Loyola Marymount Lions @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Marymount Lions @ Seattle
-  U Redhawks\nRedhawk Center\, Seattle\, WA
+  U Redhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -208,11 +225,11 @@ DTSTART:20270107T030000Z
 DTEND:20270107T060000Z
 SUMMARY:Pepperdine Waves @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPepperdine Waves @ Seattle U Red
- hawks\nRedhawk Center\, Seattle\, WA
+ hawks\nRedhawk Center\, Seattle\, WA\nBroadcast: Broadcast not announced
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -221,11 +238,12 @@ DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Seattle U Redhawks @ Denver Pioneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ Denver Pion
- eers\nHamilton Gymnasium\, Denver\, CO\nStart time TBD
+ eers\nHamilton Gymnasium\, Denver\, CO\nStart time TBD\nBroadcast: Broadca
+ st not announced
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917608@open-sports-cal
@@ -233,11 +251,11 @@ DTSTART:20270114T030000Z
 DTEND:20270114T060000Z
 SUMMARY:San Francisco Dons @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSan Francisco Dons @ Seattle U R
- edhawks\nRedhawk Center\, Seattle\, WA
+ edhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: Broadcast not announced
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +264,12 @@ DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Seattle U Redhawks @ Pacific Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ Pacific Tig
- ers\nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD
+ ers\nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD\nBroadcast: Bro
+ adcast not announced
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917673@open-sports-cal
@@ -258,11 +277,11 @@ DTSTART:20270121T030000Z
 DTEND:20270121T060000Z
 SUMMARY:San Diego Toreros @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSan Diego Toreros @ Seattle U Re
- dhawks\nRedhawk Center\, Seattle\, WA
+ dhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: Broadcast not announced
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -271,11 +290,11 @@ DTSTART:20270124T030000Z
 DTEND:20270124T060000Z
 SUMMARY:Portland Pilots @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland Pilots @ Seattle U Redh
- awks\nRedhawk Center\, Seattle\, WA
+ awks\nRedhawk Center\, Seattle\, WA\nBroadcast: Broadcast not announced
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -284,11 +303,12 @@ DTSTART:20270128T030000Z
 DTEND:20270128T060000Z
 SUMMARY:Seattle U Redhawks @ Loyola Marymount Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ Loyola Mary
- mount Lions\nGersten Pavilion\, Los Angeles\, CA
+ mount Lions\nGersten Pavilion\, Los Angeles\, CA\nBroadcast: Broadcast not
+  announced
 LOCATION:Gersten Pavilion\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -297,11 +317,12 @@ DTSTART:20270204T030000Z
 DTEND:20270204T060000Z
 SUMMARY:Seattle U Redhawks @ Santa Clara Broncos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ Santa Clara
-  Broncos\nLeavey Center\, Santa Clara\, CA
+  Broncos\nLeavey Center\, Santa Clara\, CA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Leavey Center\, Santa Clara\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -310,11 +331,11 @@ DTSTART:20270207T043000Z
 DTEND:20270207T073000Z
 SUMMARY:Saint Mary's Gaels @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Mary's Gaels @ Seattle U R
- edhawks\nRedhawk Center\, Seattle\, WA
+ edhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: Broadcast not announced
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -323,11 +344,12 @@ DTSTART:20270211T023000Z
 DTEND:20270211T053000Z
 SUMMARY:Seattle U Redhawks @ Pepperdine Waves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ Pepperdine 
- Waves\nFirestone Fieldhouse\, Malibu\, CA
+ Waves\nFirestone Fieldhouse\, Malibu\, CA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Firestone Fieldhouse\, Malibu\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -336,11 +358,12 @@ DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Seattle U Redhawks @ San Diego Toreros
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ San Diego T
- oreros\nJenny Craig Pavilion\, San Diego\, CA\nStart time TBD
+ oreros\nJenny Craig Pavilion\, San Diego\, CA\nStart time TBD\nBroadcast: 
+ Broadcast not announced
 LOCATION:Jenny Craig Pavilion\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917653@open-sports-cal
@@ -348,11 +371,12 @@ DTSTART:20270217T040000Z
 DTEND:20270217T070000Z
 SUMMARY:Santa Clara Broncos @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSanta Clara Broncos @ Seattle U 
- Redhawks\nRedhawk Center\, Seattle\, WA
+ Redhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -361,11 +385,11 @@ DTSTART:20270221T030000Z
 DTEND:20270221T060000Z
 SUMMARY:Denver Pioneers @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDenver Pioneers @ Seattle U Redh
- awks\nRedhawk Center\, Seattle\, WA
+ awks\nRedhawk Center\, Seattle\, WA\nBroadcast: Broadcast not announced
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -374,11 +398,12 @@ DTSTART:20270225T030000Z
 DTEND:20270225T060000Z
 SUMMARY:Seattle U Redhawks @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ Saint Mary'
- s Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ s Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: Broadc
+ ast not announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -387,11 +412,12 @@ DTSTART:20270228T010000Z
 DTEND:20270228T040000Z
 SUMMARY:Seattle U Redhawks @ San Francisco Dons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ San Francis
- co Dons\nThe Sobrato Center\, San Francisco\, CA
+ co Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadcast not
+  announced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

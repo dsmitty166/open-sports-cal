@@ -12,12 +12,14 @@ DTSTART:20260829T180000Z
 DTEND:20260829T210000Z
 SUMMARY:Central Connecticut Blue Devils @ South Dakota Coyotes
 DESCRIPTION:NCAA FCS Football 2026\nCentral Connecticut Blue Devils @ South
-  Dakota Coyotes\nThe DakotaDome\, Vermillion\, SD
+  Dakota Coyotes\nThe DakotaDome\, Vermillion\, SD\nBroadcast: ESPN+ (strea
+ ming) / Midco Sports Net
 LOCATION:The DakotaDome\, Vermillion\, SD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming) / Midco Sports Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867883@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260906T000000Z
 DTEND:20260906T030000Z
 SUMMARY:South Dakota Coyotes @ Northern Colorado Bears
 DESCRIPTION:NCAA FCS Football 2026\nSouth Dakota Coyotes @ Northern Colorad
- o Bears\nNottingham Field\, Greeley\, CO
+ o Bears\nNottingham Field\, Greeley\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Nottingham Field\, Greeley\, CO
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867884@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20260912T180000Z
 DTEND:20260912T210000Z
 SUMMARY:Eastern Washington Eagles @ South Dakota Coyotes
 DESCRIPTION:NCAA FCS Football 2026\nEastern Washington Eagles @ South Dakot
- a Coyotes\nThe DakotaDome\, Vermillion\, SD
+ a Coyotes\nThe DakotaDome\, Vermillion\, SD\nBroadcast: ESPN+ (streaming) 
+ / Midco Sports Net
 LOCATION:The DakotaDome\, Vermillion\, SD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming) / Midco Sports Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401860885@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20260920T020000Z
 DTEND:20260920T050000Z
 SUMMARY:South Dakota Coyotes @ Boise State Broncos
 DESCRIPTION:NCAA FCS Football 2026\nSouth Dakota Coyotes @ Boise State Bron
- cos\nAlbertsons Stadium\, Boise\, ID
+ cos\nAlbertsons Stadium\, Boise\, ID\nBroadcast: CBSSN
 LOCATION:Albertsons Stadium\, Boise\, ID
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867885@open-sports-cal
@@ -64,12 +70,14 @@ DTSTART:20260926T180000Z
 DTEND:20260926T210000Z
 SUMMARY:South Dakota Coyotes @ Youngstown State Penguins
 DESCRIPTION:NCAA FCS Football 2026\nSouth Dakota Coyotes @ Youngstown State
-  Penguins\nStambaugh Stadium\, Youngstown\, OH
+  Penguins\nStambaugh Stadium\, Youngstown\, OH\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Stambaugh Stadium\, Youngstown\, OH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867859@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20261003T190000Z
 DTEND:20261003T220000Z
 SUMMARY:Indiana State Sycamores @ South Dakota Coyotes
 DESCRIPTION:NCAA FCS Football 2026\nIndiana State Sycamores @ South Dakota 
- Coyotes\nThe DakotaDome\, Vermillion\, SD
+ Coyotes\nThe DakotaDome\, Vermillion\, SD\nBroadcast: ESPN+ (streaming) / 
+ Midco Sports Plus (streaming)
 LOCATION:The DakotaDome\, Vermillion\, SD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming) / Midco Sports Plus (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867886@open-sports-cal
@@ -90,12 +100,14 @@ DTSTART:20261010T180000Z
 DTEND:20261010T210000Z
 SUMMARY:Southern Illinois Salukis @ South Dakota Coyotes
 DESCRIPTION:NCAA FCS Football 2026\nSouthern Illinois Salukis @ South Dakot
- a Coyotes\nThe DakotaDome\, Vermillion\, SD
+ a Coyotes\nThe DakotaDome\, Vermillion\, SD\nBroadcast: ESPN+ (streaming) 
+ / Midco Sports Net
 LOCATION:The DakotaDome\, Vermillion\, SD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming) / Midco Sports Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867870@open-sports-cal
@@ -103,12 +115,13 @@ DTSTART:20261017T210000Z
 DTEND:20261018T000000Z
 SUMMARY:South Dakota Coyotes @ Murray State Racers
 DESCRIPTION:NCAA FCS Football 2026\nSouth Dakota Coyotes @ Murray State Rac
- ers\nRoy Stewart Stadium\, Murray\, KY
+ ers\nRoy Stewart Stadium\, Murray\, KY\nBroadcast: ESPN+ (streaming)
 LOCATION:Roy Stewart Stadium\, Murray\, KY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867879@open-sports-cal
@@ -116,12 +129,14 @@ DTSTART:20261024T180000Z
 DTEND:20261024T210000Z
 SUMMARY:North Dakota Fighting Hawks @ South Dakota Coyotes
 DESCRIPTION:NCAA FCS Football 2026\nNorth Dakota Fighting Hawks @ South Dak
- ota Coyotes\nThe DakotaDome\, Vermillion\, SD
+ ota Coyotes\nThe DakotaDome\, Vermillion\, SD\nBroadcast: ESPN+ (streaming
+ ) / Midco Sports Plus (streaming)
 LOCATION:The DakotaDome\, Vermillion\, SD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming) / Midco Sports Plus (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867887@open-sports-cal
@@ -129,12 +144,14 @@ DTSTART:20261031T200000Z
 DTEND:20261031T230000Z
 SUMMARY:South Dakota Coyotes @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA FCS Football 2026\nSouth Dakota Coyotes @ South Dakota Sta
- te Jackrabbits\nDana J. Dykhouse Stadium\, Brookings\, SD
+ te Jackrabbits\nDana J. Dykhouse Stadium\, Brookings\, SD\nBroadcast: ESPN
+ U
 LOCATION:Dana J. Dykhouse Stadium\, Brookings\, SD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867888@open-sports-cal
@@ -142,12 +159,14 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Northern Iowa Panthers @ South Dakota Coyotes
 DESCRIPTION:NCAA FCS Football 2026\nNorthern Iowa Panthers @ South Dakota C
- oyotes\nThe DakotaDome\, Vermillion\, SD
+ oyotes\nThe DakotaDome\, Vermillion\, SD\nBroadcast: ESPN+ (streaming) / M
+ idco Sports Plus (streaming)
 LOCATION:The DakotaDome\, Vermillion\, SD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming) / Midco Sports Plus (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867854@open-sports-cal
@@ -155,11 +174,12 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:South Dakota Coyotes @ Illinois State Redbirds
 DESCRIPTION:NCAA FCS Football 2026\nSouth Dakota Coyotes @ Illinois State R
- edbirds\nHancock Stadium\, Normal\, IL
+ edbirds\nHancock Stadium\, Normal\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Hancock Stadium\, Normal\, IL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

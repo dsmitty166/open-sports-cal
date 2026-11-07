@@ -12,12 +12,13 @@ DTSTART:20260829T233000Z
 DTEND:20260830T023000Z
 SUMMARY:Howard Bison @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nHoward Bison @ Alabama A&M Bulldogs\nCe
- nter Parc Stadium\, Atlanta\, GA\nNeutral site
+ nter Parc Stadium\, Atlanta\, GA\nNeutral site\nBroadcast: ABC
 LOCATION:Center Parc Stadium\, Atlanta\, GA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869127@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260905T220000Z
 DTEND:20260906T010000Z
 SUMMARY:Richmond Spiders @ Howard Bison
 DESCRIPTION:NCAA FCS Football 2026\nRichmond Spiders @ Howard Bison\nGreene
-  Stadium\, Washington\, DC
+  Stadium\, Washington\, DC\nBroadcast: MEAC Network (streaming)
 LOCATION:Greene Stadium\, Washington\, DC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MEAC Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401858439@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:Howard Bison @ Indiana Hoosiers
 DESCRIPTION:NCAA FCS Football 2026\nHoward Bison @ Indiana Hoosiers\nMemori
- al Stadium (Bloomington\, IN)\, Bloomington\, IN
+ al Stadium (Bloomington\, IN)\, Bloomington\, IN\nBroadcast: BTN
 LOCATION:Memorial Stadium (Bloomington\, IN)\, Bloomington\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401858468@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260925T230000Z
 DTEND:20260926T020000Z
 SUMMARY:Howard Bison @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA FCS Football 2026\nHoward Bison @ Rutgers Scarlet Knights\
- nSHI Stadium\, Piscataway\, NJ
+ nSHI Stadium\, Piscataway\, NJ\nBroadcast: BTN
 LOCATION:SHI Stadium\, Piscataway\, NJ
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866656@open-sports-cal
@@ -64,11 +68,11 @@ DTSTART:20261003T190000Z
 DTEND:20261003T220000Z
 SUMMARY:Howard Bison @ Hampton Pirates
 DESCRIPTION:NCAA FCS Football 2026\nHoward Bison @ Hampton Pirates\nAudi Fi
- eld\, Washington\, DC\nNeutral site
+ eld\, Washington\, DC\nNeutral site\nBroadcast: Broadcast not announced
 LOCATION:Audi Field\, Washington\, DC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -77,12 +81,13 @@ DTSTART:20261010T170000Z
 DTEND:20261010T200000Z
 SUMMARY:Howard Bison @ Pennsylvania Quakers
 DESCRIPTION:NCAA FCS Football 2026\nHoward Bison @ Pennsylvania Quakers\nFr
- anklin Field\, Philadelphia\, PA
+ anklin Field\, Philadelphia\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Franklin Field\, Philadelphia\, PA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867961@open-sports-cal
@@ -90,12 +95,13 @@ DTSTART:20261017T193000Z
 DTEND:20261017T223000Z
 SUMMARY:Morehouse Maroon Tigers @ Howard Bison
 DESCRIPTION:NCAA FCS Football 2026\nMorehouse Maroon Tigers @ Howard Bison\
- nGreene Stadium\, Washington\, DC
+ nGreene Stadium\, Washington\, DC\nBroadcast: ESPN+ (streaming)
 LOCATION:Greene Stadium\, Washington\, DC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867962@open-sports-cal
@@ -103,12 +109,13 @@ DTSTART:20261024T190000Z
 DTEND:20261024T220000Z
 SUMMARY:Howard Bison @ Morgan State Bears
 DESCRIPTION:NCAA FCS Football 2026\nHoward Bison @ Morgan State Bears\nHugh
- es Stadium (MD)\, Baltimore\, MD
+ es Stadium (MD)\, Baltimore\, MD\nBroadcast: ESPN+ (streaming)
 LOCATION:Hughes Stadium (MD)\, Baltimore\, MD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867963@open-sports-cal
@@ -116,12 +123,13 @@ DTSTART:20261031T180000Z
 DTEND:20261031T210000Z
 SUMMARY:Howard Bison @ North Carolina Central Eagles
 DESCRIPTION:NCAA FCS Football 2026\nHoward Bison @ North Carolina Central E
- agles\nO'Kelly-Riddick Stadium\, Durham\, NC
+ agles\nO'Kelly-Riddick Stadium\, Durham\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:O'Kelly-Riddick Stadium\, Durham\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867964@open-sports-cal
@@ -129,12 +137,13 @@ DTSTART:20261106T003000Z
 DTEND:20261106T033000Z
 SUMMARY:South Carolina State Bulldogs @ Howard Bison
 DESCRIPTION:NCAA FCS Football 2026\nSouth Carolina State Bulldogs @ Howard 
- Bison\nGreene Stadium\, Washington\, DC
+ Bison\nGreene Stadium\, Washington\, DC\nBroadcast: ESPNU
 LOCATION:Greene Stadium\, Washington\, DC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867958@open-sports-cal
@@ -142,12 +151,13 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Delaware State Hornets @ Howard Bison
 DESCRIPTION:NCAA FCS Football 2026\nDelaware State Hornets @ Howard Bison\n
- Greene Stadium\, Washington\, DC
+ Greene Stadium\, Washington\, DC\nBroadcast: ESPN+ (streaming)
 LOCATION:Greene Stadium\, Washington\, DC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867965@open-sports-cal
@@ -155,11 +165,12 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Howard Bison @ Norfolk State Spartans
 DESCRIPTION:NCAA FCS Football 2026\nHoward Bison @ Norfolk State Spartans\n
- William "Dick" Price Stadium\, Norfolk\, VA
+ William "Dick" Price Stadium\, Norfolk\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:William "Dick" Price Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

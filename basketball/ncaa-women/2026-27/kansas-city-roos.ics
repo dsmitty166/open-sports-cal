@@ -12,13 +12,15 @@ DTSTART:20261102T170000Z
 DTEND:20261102T200000Z
 SUMMARY:Baker Wildcats @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBaker Wildcats @ Kansas City R
- oos\nSwinney Center\, Kansas City\, MO
+ oos\nSwinney Center\, Kansas City\, MO\nBroadcast: Midco Sports Plus (stre
+ aming)
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Midco Sports Plus (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913873@open-sports-cal
@@ -26,13 +28,16 @@ DTSTART:20261106T233000Z
 DTEND:20261107T023000Z
 SUMMARY:Wichita State Shockers @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWichita State Shockers @ Kansa
- s City Roos\nSwinney Center\, Kansas City\, MO
+ s City Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Summit League N
+ etwork (streaming) / Midco Sports Plus (streaming)
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming) / Midco Sports Plus (streamin
+ g)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918816@open-sports-cal
@@ -40,13 +45,15 @@ DTSTART:20261110T003000Z
 DTEND:20261110T033000Z
 SUMMARY:Kansas City Roos @ Arkansas Razorbacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ Arkansas Ra
- zorbacks\nBud Walton Arena\, Fayetteville\, AR
+ zorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SECN+ (streamin
+ g)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918817@open-sports-cal
@@ -54,13 +61,16 @@ DTSTART:20261114T010000Z
 DTEND:20261114T040000Z
 SUMMARY:Southeast Missouri State Redhawks @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSoutheast Missouri State Redha
- wks @ Kansas City Roos\nSwinney Center\, Kansas City\, MO
+ wks @ Kansas City Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Summ
+ it League Network (streaming) / Midco Sports Plus (streaming)
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming) / Midco Sports Plus (streamin
+ g)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918818@open-sports-cal
@@ -68,13 +78,15 @@ DTSTART:20261117T010000Z
 DTEND:20261117T040000Z
 SUMMARY:Kansas City Roos @ New Mexico State Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ New Mexico 
- State Aggies\nPan American Center\, Las Cruces\, NM
+ State Aggies\nPan American Center\, Las Cruces\, NM\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Pan American Center\, Las Cruces\, NM
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918819@open-sports-cal
@@ -82,12 +94,12 @@ DTSTART:20261118T183000Z
 DTEND:20261118T213000Z
 SUMMARY:Kansas City Roos @ UTEP Miners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ UTEP Miners
- \nDon Haskins Center\, El Paso\, TX
+ \nDon Haskins Center\, El Paso\, TX\nBroadcast: Broadcast not announced
 LOCATION:Don Haskins Center\, El Paso\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -96,12 +108,13 @@ DTSTART:20261122T170000Z
 DTEND:20261122T200000Z
 SUMMARY:Missouri State Lady Bears @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMissouri State Lady Bears @ Ka
- nsas City Roos\nT-Mobile Center\, Kansas City\, MO\nNeutral site
+ nsas City Roos\nT-Mobile Center\, Kansas City\, MO\nNeutral site\nBroadcas
+ t: Broadcast not announced
 LOCATION:T-Mobile Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +123,13 @@ DTSTART:20261125T010000Z
 DTEND:20261125T040000Z
 SUMMARY:Kansas City Roos @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ Nebraska Co
- rnhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ rnhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +138,13 @@ DTSTART:20261129T200000Z
 DTEND:20261129T230000Z
 SUMMARY:Park (MO) Pirates @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPark (MO) Pirates @ Kansas Cit
- y Roos\nSwinney Center\, Kansas City\, MO
+ y Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +153,15 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Kansas City Roos @ Austin Peay Governors
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ Austin Peay
-  Governors\nF&M Bank Arena\, Clarksville\, TN
+  Governors\nF&M Bank Arena\, Clarksville\, TN\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:F&M Bank Arena\, Clarksville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906969@open-sports-cal
@@ -152,13 +169,14 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Kansas City Roos @ Kansas Jayhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ Kansas Jayh
- awks\nAllen Fieldhouse\, Lawrence\, KS
+ awks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918823@open-sports-cal
@@ -166,12 +184,13 @@ DTSTART:20261210T013000Z
 DTEND:20261210T043000Z
 SUMMARY:Kansas City Roos @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ Air Force F
- alcons\nClune Arena\, Colorado Springs\, CO
+ alcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -181,13 +200,13 @@ DTEND:20261212T230000Z
 SUMMARY:Kansas City Roos @ Minnesota Golden Gophers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ Minnesota G
  olden Gophers\nThe Barn by Blue Cross and Blue Shield of Minnesota\, Minne
- apolis\, MN
+ apolis\, MN\nBroadcast: Broadcast not announced
 LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
  , MN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -196,12 +215,13 @@ DTSTART:20261218T010000Z
 DTEND:20261218T040000Z
 SUMMARY:Denver Pioneers @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Kansas City 
- Roos\nSwinney Center\, Kansas City\, MO
+ Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast not announce
+ d
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -210,12 +230,13 @@ DTSTART:20261222T200000Z
 DTEND:20261222T230000Z
 SUMMARY:Lindenwood Lions @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLindenwood Lions @ Kansas City
-  Roos\nSwinney Center\, Kansas City\, MO
+  Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -224,12 +245,13 @@ DTSTART:20261230T233000Z
 DTEND:20261231T023000Z
 SUMMARY:Saint Mary (KS) Spires @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Mary (KS) Spires @ Kansa
- s City Roos\nSwinney Center\, Kansas City\, MO
+ s City Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -238,12 +260,13 @@ DTSTART:20270108T010000Z
 DTEND:20270108T040000Z
 SUMMARY:Kansas City Roos @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ South Dakot
- a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcast:
+  Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -252,12 +275,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Kansas City Roos @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ South Dakot
- a Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ a Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +290,13 @@ DTSTART:20270115T010000Z
 DTEND:20270115T040000Z
 SUMMARY:North Dakota State Bison @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Dakota State Bison @ Kan
- sas City Roos\nSwinney Center\, Kansas City\, MO
+ sas City Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast not
+  announced
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +305,13 @@ DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
 SUMMARY:North Dakota Fighting Hawks @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Dakota Fighting Hawks @ 
- Kansas City Roos\nSwinney Center\, Kansas City\, MO
+ Kansas City Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast 
+ not announced
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +320,12 @@ DTSTART:20270122T003000Z
 DTEND:20270122T033000Z
 SUMMARY:Kansas City Roos @ Omaha Mavericks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ Omaha Maver
- icks\nBaxter Arena\, Omaha\, NE
+ icks\nBaxter Arena\, Omaha\, NE\nBroadcast: Broadcast not announced
 LOCATION:Baxter Arena\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +334,13 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Kansas City Roos @ St. Thomas Tommies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ St. Thomas 
- Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Broadcas
+ t not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +349,13 @@ DTSTART:20270130T200000Z
 DTEND:20270130T230000Z
 SUMMARY:Kansas City Roos @ Oral Roberts Golden Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ Oral Robert
- s Golden Eagles\nMabee Center\, Tulsa\, OK
+ s Golden Eagles\nMabee Center\, Tulsa\, OK\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Mabee Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +364,13 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:South Dakota Coyotes @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota Coyotes @ Kansas 
- City Roos\nSwinney Center\, Kansas City\, MO
+ City Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +379,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:South Dakota State Jackrabbits @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Dakota State Jackrabbits
-  @ Kansas City Roos\nSwinney Center\, Kansas City\, MO
+  @ Kansas City Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadca
+ st not announced
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -364,12 +394,13 @@ DTSTART:20270212T010000Z
 DTEND:20270212T040000Z
 SUMMARY:Kansas City Roos @ North Dakota Fighting Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ North Dakot
- a Fighting Hawks\nBetty Engelstad Sioux Center\, Grand Forks\, ND
+ a Fighting Hawks\nBetty Engelstad Sioux Center\, Grand Forks\, ND\nBroadca
+ st: Broadcast not announced
 LOCATION:Betty Engelstad Sioux Center\, Grand Forks\, ND
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -378,12 +409,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Kansas City Roos @ North Dakota State Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ North Dakot
- a State Bison\nScheels Center\, Fargo\, ND
+ a State Bison\nScheels Center\, Fargo\, ND\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Scheels Center\, Fargo\, ND
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -392,12 +424,13 @@ DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:St. Thomas Tommies @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. Thomas Tommies @ Kansas Ci
- ty Roos\nSwinney Center\, Kansas City\, MO
+ ty Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -406,12 +439,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Omaha Mavericks @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOmaha Mavericks @ Kansas City 
- Roos\nSwinney Center\, Kansas City\, MO
+ Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast not announce
+ d
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -420,12 +454,13 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Oral Roberts Golden Eagles @ Kansas City Roos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOral Roberts Golden Eagles @ K
- ansas City Roos\nSwinney Center\, Kansas City\, MO
+ ansas City Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

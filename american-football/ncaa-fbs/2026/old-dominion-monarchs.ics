@@ -12,12 +12,13 @@ DTSTART:20260905T220000Z
 DTEND:20260906T010000Z
 SUMMARY:Norfolk State Spartans @ Old Dominion Monarchs
 DESCRIPTION:NCAA FBS Football 2026\nNorfolk State Spartans @ Old Dominion M
- onarchs\nS.B. Ballard Stadium\, Norfolk\, VA
+ onarchs\nS.B. Ballard Stadium\, Norfolk\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858221@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:Old Dominion Monarchs @ Virginia Tech Hokies
 DESCRIPTION:NCAA FBS Football 2026\nOld Dominion Monarchs @ Virginia Tech H
- okies\nLane Stadium\, Blacksburg\, VA
+ okies\nLane Stadium\, Blacksburg\, VA\nBroadcast: CW
 LOCATION:Lane Stadium\, Blacksburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862710@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T220000Z
 DTEND:20260920T010000Z
 SUMMARY:East Carolina Pirates @ Old Dominion Monarchs
 DESCRIPTION:NCAA FBS Football 2026\nEast Carolina Pirates @ Old Dominion Mo
- narchs\nS.B. Ballard Stadium\, Norfolk\, VA
+ narchs\nS.B. Ballard Stadium\, Norfolk\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869961@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T220000Z
 DTEND:20260927T010000Z
 SUMMARY:James Madison Dukes @ Old Dominion Monarchs
 DESCRIPTION:NCAA FBS Football 2026\nJames Madison Dukes @ Old Dominion Mona
- rchs\nS.B. Ballard Stadium\, Norfolk\, VA
+ rchs\nS.B. Ballard Stadium\, Norfolk\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869956@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Old Dominion Monarchs @ Georgia State Panthers
 DESCRIPTION:NCAA FBS Football 2026\nOld Dominion Monarchs @ Georgia State P
- anthers\nCenter Parc Stadium\, Atlanta\, GA
+ anthers\nCenter Parc Stadium\, Atlanta\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Center Parc Stadium\, Atlanta\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869843@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T170000Z
 DTEND:20261010T200000Z
 SUMMARY:Old Dominion Monarchs @ App State Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nOld Dominion Monarchs @ App State Mount
- aineers\nKidd Brewer Stadium\, Boone\, NC
+ aineers\nKidd Brewer Stadium\, Boone\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Kidd Brewer Stadium\, Boone\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869950@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261015T233000Z
 DTEND:20261016T023000Z
 SUMMARY:Georgia Southern Eagles @ Old Dominion Monarchs
 DESCRIPTION:NCAA FBS Football 2026\nGeorgia Southern Eagles @ Old Dominion 
- Monarchs\nS.B. Ballard Stadium\, Norfolk\, VA
+ Monarchs\nS.B. Ballard Stadium\, Norfolk\, VA\nBroadcast: ESPN2
 LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871093@open-sports-cal
@@ -103,12 +110,13 @@ DTSTART:20261024T210000Z
 DTEND:20261025T000000Z
 SUMMARY:Old Dominion Monarchs @ Louisiana Tech Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nOld Dominion Monarchs @ Louisiana Tech 
- Bulldogs\nJoe Aillet Stadium\, Ruston\, LA
+ Bulldogs\nJoe Aillet Stadium\, Ruston\, LA\nBroadcast: ESPN+ (streaming)
 LOCATION:Joe Aillet Stadium\, Ruston\, LA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871096@open-sports-cal
@@ -116,12 +124,14 @@ DTSTART:20261031T170000Z
 DTEND:20261031T200000Z
 SUMMARY:Marshall Thundering Herd @ Old Dominion Monarchs
 DESCRIPTION:NCAA FBS Football 2026\nMarshall Thundering Herd @ Old Dominion
-  Monarchs\nS.B. Ballard Stadium\, Norfolk\, VA
+  Monarchs\nS.B. Ballard Stadium\, Norfolk\, VA\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869945@open-sports-cal
@@ -129,12 +139,14 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Old Dominion Monarchs @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA FBS Football 2026\nOld Dominion Monarchs @ Coastal Carolin
- a Chanticleers\nBrooks Stadium (SC)\, Conway\, SC
+ a Chanticleers\nBrooks Stadium (SC)\, Conway\, SC\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Brooks Stadium (SC)\, Conway\, SC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401861968@open-sports-cal
@@ -142,12 +154,13 @@ DTSTART:20261121T203000Z
 DTEND:20261121T233000Z
 SUMMARY:Old Dominion Monarchs @ UConn Huskies
 DESCRIPTION:NCAA FBS Football 2026\nOld Dominion Monarchs @ UConn Huskies\n
- Pratt & Whitney Stadium\, East Hartford\, CT
+ Pratt & Whitney Stadium\, East Hartford\, CT\nBroadcast: CBSSN
 LOCATION:Pratt & Whitney Stadium\, East Hartford\, CT
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871103@open-sports-cal
@@ -155,10 +168,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Southern Miss Golden Eagles @ Old Dominion Monarchs
 DESCRIPTION:NCAA FBS Football 2026\nSouthern Miss Golden Eagles @ Old Domin
- ion Monarchs\nS.B. Ballard Stadium\, Norfolk\, VA\nStart time TBD
+ ion Monarchs\nS.B. Ballard Stadium\, Norfolk\, VA\nStart time TBD\nBroadca
+ st: Broadcast not announced
 LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

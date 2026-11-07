@@ -13,13 +13,15 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Arlington Baptist Patriots @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArlington Baptist Patriots @ U
- T Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ T Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918738@open-sports-cal
@@ -27,13 +29,15 @@ DTSTART:20261106T170000Z
 DTEND:20261106T200000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ South Dakota Coyotes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+ @ South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBr
+ oadcast: Summit League Network (streaming)
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906981@open-sports-cal
@@ -41,13 +45,15 @@ DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Kansas State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ Kansas State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+ @ Kansas State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918541@open-sports-cal
@@ -55,13 +61,15 @@ DTSTART:20261112T003000Z
 DTEND:20261112T033000Z
 SUMMARY:Abilene Christian Wildcats @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAbilene Christian Wildcats @ U
- T Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ T Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918797@open-sports-cal
@@ -69,13 +77,15 @@ DTSTART:20261120T003000Z
 DTEND:20261120T033000Z
 SUMMARY:North Dakota State Bison @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Dakota State Bison @ UT 
- Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913835@open-sports-cal
@@ -83,13 +93,14 @@ DTSTART:20261125T180000Z
 DTEND:20261125T210000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Rice Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ Rice Owls\nTudor Fieldhouse\, Houston\, TX
+ @ Rice Owls\nTudor Fieldhouse\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922844@open-sports-cal
@@ -97,13 +108,15 @@ DTSTART:20261127T180000Z
 DTEND:20261127T210000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ UIC Flames
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ UIC Flames\nTudor Fieldhouse\, Houston\, TX\nNeutral site
+ @ UIC Flames\nTudor Fieldhouse\, Houston\, TX\nNeutral site\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922845@open-sports-cal
@@ -111,13 +124,15 @@ DTSTART:20261201T003000Z
 DTEND:20261201T033000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Sam Houston Bearkats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ Sam Houston Bearkats\nBernard G. Johnson Coliseum\, Huntsville\, TX
+ @ Sam Houston Bearkats\nBernard G. Johnson Coliseum\, Huntsville\, TX\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:Bernard G. Johnson Coliseum\, Huntsville\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922660@open-sports-cal
@@ -125,13 +140,15 @@ DTSTART:20261203T230000Z
 DTEND:20261204T020000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Nicholls Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ Nicholls Colonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA
+ @ Nicholls Colonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:David R. Stopher Gymnasium\, Thibodaux\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920214@open-sports-cal
@@ -139,13 +156,15 @@ DTSTART:20261205T200000Z
 DTEND:20261205T230000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+ @ LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916089@open-sports-cal
@@ -153,13 +172,15 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Arizona State Sun Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ Arizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ
+ @ Arizona State Sun Devils\nDesert Financial Arena\, Tempe\, AZ\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Desert Financial Arena\, Tempe\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918847@open-sports-cal
@@ -167,13 +188,15 @@ DTSTART:20261213T200000Z
 DTEND:20261213T230000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Texas Longhorns
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ Texas Longhorns\nMoody Center\, Austin\, TX
+ @ Texas Longhorns\nMoody Center\, Austin\, TX\nBroadcast: SECN+ (streaming
+ )
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920093@open-sports-cal
@@ -181,13 +204,15 @@ DTSTART:20261218T003000Z
 DTEND:20261218T033000Z
 SUMMARY:Lamar Cardinals @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ UT Rio Grand
- e Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ e Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922846@open-sports-cal
@@ -195,13 +220,15 @@ DTSTART:20261219T200000Z
 DTEND:20261219T230000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- UT Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ UT Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922847@open-sports-cal
@@ -209,13 +236,15 @@ DTSTART:20270101T003000Z
 DTEND:20270101T033000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Incarnate Word Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ Incarnate Word Cardinals\nMcDermott Center\, San Antonio\, TX
+ @ Incarnate Word Cardinals\nMcDermott Center\, San Antonio\, TX\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:McDermott Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920447@open-sports-cal
@@ -223,12 +252,13 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ UT Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ ders @ UT Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBr
+ oadcast: Broadcast not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -237,12 +267,13 @@ DTSTART:20270108T003000Z
 DTEND:20270108T033000Z
 SUMMARY:Northwestern State Lady Demons @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwestern State Lady Demons
-  @ UT Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+  @ UT Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadc
+ ast: Broadcast not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -251,12 +282,13 @@ DTSTART:20270109T200000Z
 DTEND:20270109T230000Z
 SUMMARY:East Texas A&M Lions @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Texas A&M Lions @ UT Rio 
- Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: Broad
+ cast not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -265,12 +297,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ SE Louisiana Lady Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ SE Louisiana Lady Lions\nUniversity Center\, Hammond\, LA
+ @ SE Louisiana Lady Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Br
+ oadcast not announced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -279,12 +312,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -293,12 +327,13 @@ DTSTART:20270122T003000Z
 DTEND:20270122T033000Z
 SUMMARY:Incarnate Word Cardinals @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIncarnate Word Cardinals @ UT 
- Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: B
+ roadcast not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +342,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Houston Christian Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ Houston Christian Huskies\nSharp Gymnasium\, Houston\, TX
+ @ Houston Christian Huskies\nSharp Gymnasium\, Houston\, TX\nBroadcast: Br
+ oadcast not announced
 LOCATION:Sharp Gymnasium\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +358,12 @@ DTEND:20270129T040000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
  @ Texas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, T
- X
+ X\nBroadcast: Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +372,13 @@ DTSTART:20270130T200000Z
 DTEND:20270130T230000Z
 SUMMARY:Houston Christian Huskies @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHouston Christian Huskies @ UT
-  Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+  Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: 
+ Broadcast not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +387,13 @@ DTSTART:20270204T180000Z
 DTEND:20270204T210000Z
 SUMMARY:Nicholls Colonels @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNicholls Colonels @ UT Rio Gra
- nde Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ nde Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: Broadcas
+ t not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -364,12 +402,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:LSU New Orleans Privateers @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ U
- T Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ T Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast:
+  Broadcast not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -378,12 +417,13 @@ DTSTART:20270212T003000Z
 DTEND:20270212T033000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX
+ @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -393,12 +433,12 @@ DTEND:20270213T230000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
  @ Stephen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\,
-  TX
+  TX\nBroadcast: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -407,12 +447,13 @@ DTSTART:20270219T003000Z
 DTEND:20270219T033000Z
 SUMMARY:McNeese Cowgirls @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ UT Rio Gran
- de Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ de Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: Broadcast
+  not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -421,12 +462,13 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:SE Louisiana Lady Lions @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSE Louisiana Lady Lions @ UT R
- io Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ io Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: Br
+ oadcast not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -435,12 +477,13 @@ DTSTART:20270226T003000Z
 DTEND:20270226T033000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Northwestern State Lady Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ Northwestern State Lady Demons\nPrather Coliseum\, Natchitoches\, LA
+ @ Northwestern State Lady Demons\nPrather Coliseum\, Natchitoches\, LA\nBr
+ oadcast: Broadcast not announced
 LOCATION:Prather Coliseum\, Natchitoches\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -449,12 +492,13 @@ DTSTART:20270227T203000Z
 DTEND:20270227T233000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ East Texas A&M Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ East Texas A&M Lions\nThe Field House\, Commerce\, TX
+ @ East Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadc
+ ast not announced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

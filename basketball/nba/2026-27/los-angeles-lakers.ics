@@ -11,12 +11,14 @@ UID:nba-2026-27-2026-10-21-golden-state-warriors-vs-los-angeles-lakers@open-spor
 DTSTART:20261022T020000Z
 DTEND:20261022T050000Z
 SUMMARY:Golden State Warriors @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Los Angeles Lakers\nCrypto
+ .com Arena\nBroadcast: ESPN
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-23-la-clippers-vs-los-angeles-lakers@open-sports-cal
@@ -24,131 +26,169 @@ DTSTART:20261024T020000Z
 DTEND:20261024T050000Z
 SUMMARY:LA Clippers @ Los Angeles Lakers
 DESCRIPTION:NBA 2026-27\nLA Clippers @ Los Angeles Lakers\nCrypto.com Arena
+ \nBroadcast: NBA League Pass / Spectrum Sports Net / Spectrum Sports Net +
+  (streaming) / ClipperVision (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBA League Pass / Spectrum Sports Net / Spectrum Sports Net + (
+ streaming) / ClipperVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-25-los-angeles-lakers-vs-utah-jazz@open-sports-cal
 DTSTART:20261025T210000Z
 DTEND:20261026T000000Z
 SUMMARY:Los Angeles Lakers @ Utah Jazz
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Utah Jazz\nDelta Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Utah Jazz\nDelta Center\nBroa
+ dcast: NBA League Pass / Spectrum Sports Net / Spectrum Sports Net + (stre
+ aming) / KJZZ-TV / Jazz+ (streaming)
 LOCATION:Delta Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:NBA League Pass / Spectrum Sports Net / Spectrum Sports Net + (
+ streaming) / KJZZ-TV / Jazz+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-27-portland-trail-blazers-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261028T030000Z
 DTEND:20261028T060000Z
 SUMMARY:Portland Trail Blazers @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Los Angeles Lakers\nCrypt
+ o.com Arena\nBroadcast: Peacock (streaming) / NBC / Spectrum Sports Net / 
+ Spectrum Sports Net + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Peacock (streaming) / NBC / Spectrum Sports Net / Spectrum Spor
+ ts Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-28-los-angeles-lakers-vs-la-clippers@open-sports-cal
 DTSTART:20261029T023000Z
 DTEND:20261029T053000Z
 SUMMARY:Los Angeles Lakers @ LA Clippers
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ LA Clippers\nIntuit Dome
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ LA Clippers\nIntuit Dome\nBro
+ adcast: NBA League Pass / Spectrum Sports Net / Spectrum Sports Net + (str
+ eaming) / KTLA / ClipperVision (streaming)
 LOCATION:Intuit Dome
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBA League Pass / Spectrum Sports Net / Spectrum Sports Net + (
+ streaming) / KTLA / ClipperVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-10-30-los-angeles-lakers-vs-golden-state-warriors@open-sports-cal
 DTSTART:20261031T020000Z
 DTEND:20261031T050000Z
 SUMMARY:Los Angeles Lakers @ Golden State Warriors
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Golden State Warriors\nChase Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Golden State Warriors\nChase 
+ Center\nBroadcast: Prime Video (streaming)
 LOCATION:Chase Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-01-toronto-raptors-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261102T020000Z
 DTEND:20261102T050000Z
 SUMMARY:Toronto Raptors @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nToronto Raptors @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nToronto Raptors @ Los Angeles Lakers\nCrypto.com A
+ rena\nBroadcast: NBA League Pass / Spectrum Sports Net / Spectrum Sports N
+ et + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBA League Pass / Spectrum Sports Net / Spectrum Sports Net + (
+ streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-02-miami-heat-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261103T030000Z
 DTEND:20261103T060000Z
 SUMMARY:Miami Heat @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nMiami Heat @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nMiami Heat @ Los Angeles Lakers\nCrypto.com Arena\
+ nBroadcast: NBA League Pass / Spectrum Sports Net / Spectrum Sports Net + 
+ (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBA League Pass / Spectrum Sports Net / Spectrum Sports Net + (
+ streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-04-los-angeles-lakers-vs-sacramento-kings@open-sports-cal
 DTSTART:20261105T030000Z
 DTEND:20261105T060000Z
 SUMMARY:Los Angeles Lakers @ Sacramento Kings
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Sacramento Kings\nGolden 1 Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Sacramento Kings\nGolden 1 Ce
+ nter\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Golden 1 Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-06-portland-trail-blazers-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261107T030000Z
 DTEND:20261107T060000Z
 SUMMARY:Portland Trail Blazers @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nPortland Trail Blazers @ Los Angeles Lakers\nCrypt
+ o.com Arena\nBroadcast: Prime Video (streaming) / Spectrum Sports Net / Sp
+ ectrum Sports Net + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Prime Video (streaming) / Spectrum Sports Net / Spectrum Sports
+  Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-08-los-angeles-lakers-vs-detroit-pistons@open-sports-cal
 DTSTART:20261108T230000Z
 DTEND:20261109T020000Z
 SUMMARY:Los Angeles Lakers @ Detroit Pistons
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Detroit Pistons\nLittle Caesars Arena
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Detroit Pistons\nLittle Caesa
+ rs Arena\nBroadcast: NBA TV / Spectrum Sports Net / Spectrum Sports Net + 
+ (streaming)
 LOCATION:Little Caesars Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBA TV / Spectrum Sports Net / Spectrum Sports Net + (streaming
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-09-los-angeles-lakers-vs-atlanta-hawks@open-sports-cal
 DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Los Angeles Lakers @ Atlanta Hawks
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Atlanta Hawks\nState Farm Arena
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Atlanta Hawks\nState Farm Are
+ na\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:State Farm Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-11-los-angeles-lakers-vs-milwaukee-bucks@open-sports-cal
@@ -156,83 +196,105 @@ DTSTART:20261112T010000Z
 DTEND:20261112T040000Z
 SUMMARY:Los Angeles Lakers @ Milwaukee Bucks
 DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Milwaukee Bucks\nFiserv Forum
+ \nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming) / MyM
+ i / Bucks App (streaming)
 LOCATION:Fiserv Forum
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / MyMi 
+ / Bucks App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-15-los-angeles-lakers-vs-phoenix-suns@open-sports-cal
 DTSTART:20261115T210000Z
 DTEND:20261116T000000Z
 SUMMARY:Los Angeles Lakers @ Phoenix Suns
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Phoenix Suns\nMortgage Matchup Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Phoenix Suns\nMortgage Matchu
+ p Center\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streamin
+ g) / Arizona's Family 3TV / Suns Live (streaming)
 LOCATION:Mortgage Matchup Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / Arizo
+ na's Family 3TV / Suns Live (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-17-charlotte-hornets-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261118T030000Z
 DTEND:20261118T060000Z
 SUMMARY:Charlotte Hornets @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nCharlotte Hornets @ Los Angeles Lakers\nCrypto.com
+  Arena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-18-utah-jazz-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261119T030000Z
 DTEND:20261119T060000Z
 SUMMARY:Utah Jazz @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nUtah Jazz @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Los Angeles Lakers\nCrypto.com Arena\n
+ Broadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming) / KJZZ-
+ TV / Jazz+ (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / KJZZ-
+ TV / Jazz+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-20-sacramento-kings-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261121T030000Z
 DTEND:20261121T060000Z
 SUMMARY:Sacramento Kings @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nSacramento Kings @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Los Angeles Lakers\nCrypto.com 
+ Arena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-23-utah-jazz-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261124T030000Z
 DTEND:20261124T060000Z
 SUMMARY:Utah Jazz @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nUtah Jazz @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nUtah Jazz @ Los Angeles Lakers\nCrypto.com Arena\n
+ Broadcast: NBA TV / Spectrum Sports Net / Spectrum Sports Net + (streaming
+ ) / KJZZ-TV / Jazz+ (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBA TV / Spectrum Sports Net / Spectrum Sports Net + (streaming
+ ) / KJZZ-TV / Jazz+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-27-los-angeles-lakers-vs-san-antonio-spurs@open-sports-cal
 DTSTART:20261128T023000Z
 DTEND:20261128T053000Z
 SUMMARY:Los Angeles Lakers @ San Antonio Spurs
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ San Antonio Spurs\nFrost Bank Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ San Antonio Spurs\nFrost Bank
+  Center\nBroadcast: Prime Video (streaming)
 LOCATION:Frost Bank Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-29-los-angeles-lakers-vs-memphis-grizzlies@open-sports-cal
@@ -240,407 +302,515 @@ DTSTART:20261129T210000Z
 DTEND:20261130T000000Z
 SUMMARY:Los Angeles Lakers @ Memphis Grizzlies
 DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Memphis Grizzlies\nFedExForum
+ \nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming) / DAZ
+ N MEM (streaming)
 LOCATION:FedExForum
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / DAZN 
+ MEM (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-11-30-los-angeles-lakers-vs-houston-rockets@open-sports-cal
 DTSTART:20261201T003000Z
 DTEND:20261201T033000Z
 SUMMARY:Los Angeles Lakers @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Houston Rockets\nToyota Cente
+ r\nBroadcast: NBCSN
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBCSN
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-02-los-angeles-lakers-vs-new-orleans-pelicans@open-sports-cal
 DTSTART:20261203T010000Z
 DTEND:20261203T040000Z
 SUMMARY:Los Angeles Lakers @ New Orleans Pelicans
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ New Orleans Pelicans\nSmoothie King Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ New Orleans Pelicans\nSmoothi
+ e King Center\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (str
+ eaming) / GCSEN (streaming) / Pelicans.com (streaming)
 LOCATION:Smoothie King Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / GCSEN
+  (streaming) / Pelicans.com (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-14-new-orleans-pelicans-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261215T030000Z
 DTEND:20261215T060000Z
 SUMMARY:New Orleans Pelicans @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nNew Orleans Pelicans @ Los Angeles Lakers\nCrypto.
+ com Arena\nBroadcast: NBA TV / Spectrum Sports Net / Spectrum Sports Net +
+  (streaming) / GCSEN (streaming) / Pelicans.com (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBA TV / Spectrum Sports Net / Spectrum Sports Net + (streaming
+ ) / GCSEN (streaming) / Pelicans.com (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-16-los-angeles-lakers-vs-minnesota-timberwolves@open-sports-cal
 DTSTART:20261217T023000Z
 DTEND:20261217T053000Z
 SUMMARY:Los Angeles Lakers @ Minnesota Timberwolves
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Minnesota Timberwolves\nTarget Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Minnesota Timberwolves\nTarge
+ t Center\nBroadcast: ESPN / Spectrum Sports Net / Spectrum Sports Net + (s
+ treaming) / DAZN MIN (streaming)
 LOCATION:Target Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / Spectrum Sports Net / Spectrum Sports Net + (streaming) 
+ / DAZN MIN (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-18-los-angeles-lakers-vs-minnesota-timberwolves@open-sports-cal
 DTSTART:20261219T010000Z
 DTEND:20261219T040000Z
 SUMMARY:Los Angeles Lakers @ Minnesota Timberwolves
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Minnesota Timberwolves\nTarget Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Minnesota Timberwolves\nTarge
+ t Center\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streamin
+ g)
 LOCATION:Target Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-19-los-angeles-lakers-vs-denver-nuggets@open-sports-cal
 DTSTART:20261220T020000Z
 DTEND:20261220T050000Z
 SUMMARY:Los Angeles Lakers @ Denver Nuggets
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Denver Nuggets\nBall Arena
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Denver Nuggets\nBall Arena\nB
+ roadcast: NBA TV / Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Ball Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:NBA TV / Spectrum Sports Net / Spectrum Sports Net + (streaming
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-21-indiana-pacers-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261222T030000Z
 DTEND:20261222T060000Z
 SUMMARY:Indiana Pacers @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nIndiana Pacers @ Los Angeles Lakers\nCrypto.com Ar
+ ena\nBroadcast: NBA TV / Spectrum Sports Net / Spectrum Sports Net + (stre
+ aming) / DAZN IND (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBA TV / Spectrum Sports Net / Spectrum Sports Net + (streaming
+ ) / DAZN IND (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-23-denver-nuggets-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261224T030000Z
 DTEND:20261224T060000Z
 SUMMARY:Denver Nuggets @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Los Angeles Lakers\nCrypto.com Ar
+ ena\nBroadcast: Prime Video (streaming) / Spectrum Sports Net / Spectrum S
+ ports Net + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Prime Video (streaming) / Spectrum Sports Net / Spectrum Sports
+  Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-25-philadelphia-76ers-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261225T220000Z
 DTEND:20261226T010000Z
 SUMMARY:Philadelphia 76ers @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nPhiladelphia 76ers @ Los Angeles Lakers\nCrypto.co
+ m Arena\nBroadcast: ABC / ESPN
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ABC / ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-27-memphis-grizzlies-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261228T020000Z
 DTEND:20261228T050000Z
 SUMMARY:Memphis Grizzlies @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nMemphis Grizzlies @ Los Angeles Lakers\nCrypto.com
+  Arena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
+  / DAZN MEM (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / DAZN 
+ MEM (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-29-houston-rockets-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20261230T033000Z
 DTEND:20261230T063000Z
 SUMMARY:Houston Rockets @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Los Angeles Lakers\nCrypto.com A
+ rena\nBroadcast: NBC / Spectrum Sports Net / Spectrum Sports Net + (stream
+ ing)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC / Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2026-12-31-los-angeles-lakers-vs-new-orleans-pelicans@open-sports-cal
 DTSTART:20270101T010000Z
 DTEND:20270101T040000Z
 SUMMARY:Los Angeles Lakers @ New Orleans Pelicans
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ New Orleans Pelicans\nSmoothie King Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ New Orleans Pelicans\nSmoothi
+ e King Center\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (str
+ eaming) / GCSEN (streaming) / Pelicans.com (streaming)
 LOCATION:Smoothie King Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / GCSEN
+  (streaming) / Pelicans.com (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-02-los-angeles-lakers-vs-chicago-bulls@open-sports-cal
 DTSTART:20270103T010000Z
 DTEND:20270103T040000Z
 SUMMARY:Los Angeles Lakers @ Chicago Bulls
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Chicago Bulls\nUnited Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Chicago Bulls\nUnited Center\
+ nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:United Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-03-los-angeles-lakers-vs-toronto-raptors@open-sports-cal
 DTSTART:20270104T000000Z
 DTEND:20270104T030000Z
 SUMMARY:Los Angeles Lakers @ Toronto Raptors
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Toronto Raptors\nScotiabank Arena
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Toronto Raptors\nScotiabank A
+ rena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Scotiabank Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Toronto
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-05-los-angeles-lakers-vs-washington-wizards@open-sports-cal
 DTSTART:20270106T000000Z
 DTEND:20270106T030000Z
 SUMMARY:Los Angeles Lakers @ Washington Wizards
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Washington Wizards\nCapital One Arena
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Washington Wizards\nCapital O
+ ne Arena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streamin
+ g)
 LOCATION:Capital One Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-07-boston-celtics-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270108T030000Z
 DTEND:20270108T060000Z
 SUMMARY:Boston Celtics @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nBoston Celtics @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nBoston Celtics @ Los Angeles Lakers\nCrypto.com Ar
+ ena\nBroadcast: Prime Video (streaming) / Spectrum Sports Net / Spectrum S
+ ports Net + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Prime Video (streaming) / Spectrum Sports Net / Spectrum Sports
+  Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-08-detroit-pistons-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270109T030000Z
 DTEND:20270109T060000Z
 SUMMARY:Detroit Pistons @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nDetroit Pistons @ Los Angeles Lakers\nCrypto.com A
+ rena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-11-los-angeles-lakers-vs-la-clippers@open-sports-cal
 DTSTART:20270112T030000Z
 DTEND:20270112T060000Z
 SUMMARY:Los Angeles Lakers @ LA Clippers
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ LA Clippers\nIntuit Dome
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ LA Clippers\nIntuit Dome\nBro
+ adcast: NBCSN / Spectrum Sports Net / Spectrum Sports Net + (streaming) / 
+ ClipperVision (streaming)
 LOCATION:Intuit Dome
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBCSN / Spectrum Sports Net / Spectrum Sports Net + (streaming)
+  / ClipperVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-13-los-angeles-lakers-vs-portland-trail-blazers@open-sports-cal
 DTSTART:20270114T030000Z
 DTEND:20270114T060000Z
 SUMMARY:Los Angeles Lakers @ Portland Trail Blazers
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Portland Trail Blazers\nModa Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Portland Trail Blazers\nModa 
+ Center\nBroadcast: KUNP 16 / Spectrum Sports Net / BlazerVision (streaming
+ ) / Spectrum Sports Net + (streaming)
 LOCATION:Moda Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:KUNP 16 / Spectrum Sports Net / BlazerVision (streaming) / Spec
+ trum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-14-orlando-magic-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270115T030000Z
 DTEND:20270115T060000Z
 SUMMARY:Orlando Magic @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nOrlando Magic @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nOrlando Magic @ Los Angeles Lakers\nCrypto.com Are
+ na\nBroadcast: NBA TV / Spectrum Sports Net / Spectrum Sports Net + (strea
+ ming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBA TV / Spectrum Sports Net / Spectrum Sports Net + (streaming
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-17-milwaukee-bucks-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270118T020000Z
 DTEND:20270118T050000Z
 SUMMARY:Milwaukee Bucks @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nMilwaukee Bucks @ Los Angeles Lakers\nCrypto.com A
+ rena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming) /
+  MyMi / Bucks App (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / MyMi 
+ / Bucks App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-19-los-angeles-lakers-vs-sacramento-kings@open-sports-cal
 DTSTART:20270120T030000Z
 DTEND:20270120T060000Z
 SUMMARY:Los Angeles Lakers @ Sacramento Kings
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Sacramento Kings\nGolden 1 Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Sacramento Kings\nGolden 1 Ce
+ nter\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Golden 1 Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-21-los-angeles-lakers-vs-golden-state-warriors@open-sports-cal
 DTSTART:20270122T030000Z
 DTEND:20270122T060000Z
 SUMMARY:Los Angeles Lakers @ Golden State Warriors
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Golden State Warriors\nChase Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Golden State Warriors\nChase 
+ Center\nBroadcast: Prime Video (streaming)
 LOCATION:Chase Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-22-sacramento-kings-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270123T030000Z
 DTEND:20270123T060000Z
 SUMMARY:Sacramento Kings @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nSacramento Kings @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nSacramento Kings @ Los Angeles Lakers\nCrypto.com 
+ Arena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-24-washington-wizards-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270124T210000Z
 DTEND:20270125T000000Z
 SUMMARY:Washington Wizards @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nWashington Wizards @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nWashington Wizards @ Los Angeles Lakers\nCrypto.co
+ m Arena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming
+ )
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-26-oklahoma-city-thunder-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270127T040000Z
 DTEND:20270127T070000Z
 SUMMARY:Oklahoma City Thunder @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Los Angeles Lakers\nCrypto
+ .com Arena\nBroadcast: NBC / Spectrum Sports Net / KSBI / Spectrum Sports 
+ Net + (streaming) / Thunder App (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC / Spectrum Sports Net / KSBI / Spectrum Sports Net + (strea
+ ming) / Thunder App (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-28-los-angeles-lakers-vs-indiana-pacers@open-sports-cal
 DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Los Angeles Lakers @ Indiana Pacers
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Indiana Pacers\nGainbridge Fieldhouse
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Indiana Pacers\nGainbridge Fi
+ eldhouse\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streamin
+ g) / DAZN IND (streaming)
 LOCATION:Gainbridge Fieldhouse
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Indiana/Indianapolis
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / DAZN 
+ IND (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-30-los-angeles-lakers-vs-new-york-knicks@open-sports-cal
 DTSTART:20270131T013000Z
 DTEND:20270131T043000Z
 SUMMARY:Los Angeles Lakers @ New York Knicks
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ New York Knicks\nMadison Square Garden
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ New York Knicks\nMadison Squa
+ re Garden\nBroadcast: ABC
 LOCATION:Madison Square Garden
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-01-31-los-angeles-lakers-vs-charlotte-hornets@open-sports-cal
 DTSTART:20270201T000000Z
 DTEND:20270201T030000Z
 SUMMARY:Los Angeles Lakers @ Charlotte Hornets
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Charlotte Hornets\nSpectrum Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Charlotte Hornets\nSpectrum C
+ enter\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming) 
+ / DAZN CHA (streaming)
 LOCATION:Spectrum Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / DAZN 
+ CHA (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-02-los-angeles-lakers-vs-boston-celtics@open-sports-cal
 DTSTART:20270203T010000Z
 DTEND:20270203T040000Z
 SUMMARY:Los Angeles Lakers @ Boston Celtics
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Boston Celtics\nTD Garden
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Boston Celtics\nTD Garden\nBr
+ oadcast: NBC
 LOCATION:TD Garden
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-04-los-angeles-lakers-vs-brooklyn-nets@open-sports-cal
 DTSTART:20270205T003000Z
 DTEND:20270205T033000Z
 SUMMARY:Los Angeles Lakers @ Brooklyn Nets
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Brooklyn Nets\nBarclays Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Brooklyn Nets\nBarclays Cente
+ r\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming) / DA
+ ZN (YES) (streaming)
 LOCATION:Barclays Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / DAZN 
+ (YES) (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-06-los-angeles-lakers-vs-san-antonio-spurs@open-sports-cal
 DTSTART:20270207T013000Z
 DTEND:20270207T043000Z
 SUMMARY:Los Angeles Lakers @ San Antonio Spurs
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ San Antonio Spurs\nFrost Bank Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ San Antonio Spurs\nFrost Bank
+  Center\nBroadcast: ABC
 LOCATION:Frost Bank Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-08-los-angeles-lakers-vs-phoenix-suns@open-sports-cal
 DTSTART:20270209T023000Z
 DTEND:20270209T053000Z
 SUMMARY:Los Angeles Lakers @ Phoenix Suns
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Phoenix Suns\nMortgage Matchup Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Phoenix Suns\nMortgage Matchu
+ p Center\nBroadcast: NBCSN / Spectrum Sports Net / Spectrum Sports Net + (
+ streaming)
 LOCATION:Mortgage Matchup Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:NBCSN / Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-10-la-clippers-vs-los-angeles-lakers@open-sports-cal
@@ -648,239 +818,297 @@ DTSTART:20270211T030000Z
 DTEND:20270211T060000Z
 SUMMARY:LA Clippers @ Los Angeles Lakers
 DESCRIPTION:NBA 2026-27\nLA Clippers @ Los Angeles Lakers\nCrypto.com Arena
+ \nBroadcast: ESPN / Spectrum Sports Net / Spectrum Sports Net + (streaming
+ ) / KTLA / ClipperVision (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN / Spectrum Sports Net / Spectrum Sports Net + (streaming) 
+ / KTLA / ClipperVision (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-12-denver-nuggets-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270213T033000Z
 DTEND:20270213T063000Z
 SUMMARY:Denver Nuggets @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nDenver Nuggets @ Los Angeles Lakers\nCrypto.com Ar
+ ena\nBroadcast: ESPN / Spectrum Sports Net / Spectrum Sports Net + (stream
+ ing)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN / Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-16-chicago-bulls-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270217T030000Z
 DTEND:20270217T060000Z
 SUMMARY:Chicago Bulls @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nChicago Bulls @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nChicago Bulls @ Los Angeles Lakers\nCrypto.com Are
+ na\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-18-houston-rockets-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270219T030000Z
 DTEND:20270219T060000Z
 SUMMARY:Houston Rockets @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nHouston Rockets @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nHouston Rockets @ Los Angeles Lakers\nCrypto.com A
+ rena\nBroadcast: Prime Video (streaming) / Spectrum Sports Net / Spectrum 
+ Sports Net + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Prime Video (streaming) / Spectrum Sports Net / Spectrum Sports
+  Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-26-los-angeles-lakers-vs-denver-nuggets@open-sports-cal
 DTSTART:20270227T030000Z
 DTEND:20270227T060000Z
 SUMMARY:Los Angeles Lakers @ Denver Nuggets
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Denver Nuggets\nBall Arena
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Denver Nuggets\nBall Arena\nB
+ roadcast: ESPN / Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Ball Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN / Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-02-28-los-angeles-lakers-vs-dallas-mavericks@open-sports-cal
 DTSTART:20270228T203000Z
 DTEND:20270228T233000Z
 SUMMARY:Los Angeles Lakers @ Dallas Mavericks
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Dallas Mavericks\nAmerican Airlines Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Dallas Mavericks\nAmerican Ai
+ rlines Center\nBroadcast: ABC
 LOCATION:American Airlines Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-02-los-angeles-lakers-vs-orlando-magic@open-sports-cal
 DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Los Angeles Lakers @ Orlando Magic
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Orlando Magic\nKia Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Orlando Magic\nKia Center\nBr
+ oadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Kia Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-04-los-angeles-lakers-vs-philadelphia-76ers@open-sports-cal
 DTSTART:20270305T000000Z
 DTEND:20270305T030000Z
 SUMMARY:Los Angeles Lakers @ Philadelphia 76ers
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Philadelphia 76ers\nXfinity Mobile Arena
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Philadelphia 76ers\nXfinity M
+ obile Arena\nBroadcast: Prime Video (streaming) / Spectrum Sports Net / Sp
+ ectrum Sports Net + (streaming)
 LOCATION:Xfinity Mobile Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Prime Video (streaming) / Spectrum Sports Net / Spectrum Sports
+  Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-06-oklahoma-city-thunder-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270307T013000Z
 DTEND:20270307T043000Z
 SUMMARY:Oklahoma City Thunder @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nOklahoma City Thunder @ Los Angeles Lakers\nCrypto
+ .com Arena\nBroadcast: ABC
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-07-brooklyn-nets-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270308T033000Z
 DTEND:20270308T063000Z
 SUMMARY:Brooklyn Nets @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nBrooklyn Nets @ Los Angeles Lakers\nCrypto.com Are
+ na\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming) / D
+ AZN (YES) (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / DAZN 
+ (YES) (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-11-new-york-knicks-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270312T030000Z
 DTEND:20270312T060000Z
 SUMMARY:New York Knicks @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nNew York Knicks @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nNew York Knicks @ Los Angeles Lakers\nCrypto.com A
+ rena\nBroadcast: Prime Video (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-12-cleveland-cavaliers-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270313T030000Z
 DTEND:20270313T060000Z
 SUMMARY:Cleveland Cavaliers @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nCleveland Cavaliers @ Los Angeles Lakers\nCrypto.c
+ om Arena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streamin
+ g) / DAZN CLE (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / DAZN 
+ CLE (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-14-golden-state-warriors-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270315T020000Z
 DTEND:20270315T050000Z
 SUMMARY:Golden State Warriors @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nGolden State Warriors @ Los Angeles Lakers\nCrypto
+ .com Arena\nBroadcast: NBC
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-16-los-angeles-lakers-vs-portland-trail-blazers@open-sports-cal
 DTSTART:20270317T020000Z
 DTEND:20270317T050000Z
 SUMMARY:Los Angeles Lakers @ Portland Trail Blazers
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Portland Trail Blazers\nModa Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Portland Trail Blazers\nModa 
+ Center\nBroadcast: KUNP 16 / Spectrum Sports Net / BlazerVision (streaming
+ ) / Spectrum Sports Net + (streaming)
 LOCATION:Moda Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:KUNP 16 / Spectrum Sports Net / BlazerVision (streaming) / Spec
+ trum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-17-phoenix-suns-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270318T020000Z
 DTEND:20270318T050000Z
 SUMMARY:Phoenix Suns @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Los Angeles Lakers\nCrypto.com Aren
+ a\nBroadcast: ESPN / Spectrum Sports Net / Spectrum Sports Net + (streamin
+ g) / Arizona's Family 3TV / Suns Live (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN / Spectrum Sports Net / Spectrum Sports Net + (streaming) 
+ / Arizona's Family 3TV / Suns Live (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-19-atlanta-hawks-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270320T020000Z
 DTEND:20270320T050000Z
 SUMMARY:Atlanta Hawks @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nAtlanta Hawks @ Los Angeles Lakers\nCrypto.com Are
+ na\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-21-dallas-mavericks-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270322T020000Z
 DTEND:20270322T050000Z
 SUMMARY:Dallas Mavericks @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Los Angeles Lakers\nCrypto.com 
+ Arena\nBroadcast: NBC
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-23-los-angeles-lakers-vs-miami-heat@open-sports-cal
 DTSTART:20270324T000000Z
 DTEND:20270324T030000Z
 SUMMARY:Los Angeles Lakers @ Miami Heat
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Miami Heat\nKaseya Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Miami Heat\nKaseya Center\nBr
+ oadcast: NBC / Spectrum Sports Net / Spectrum Sports Net + (streaming)
 LOCATION:Kaseya Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC / Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-25-los-angeles-lakers-vs-cleveland-cavaliers@open-sports-cal
 DTSTART:20270325T230000Z
 DTEND:20270326T020000Z
 SUMMARY:Los Angeles Lakers @ Cleveland Cavaliers
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Cleveland Cavaliers\nRocket Arena
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Cleveland Cavaliers\nRocket A
+ rena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming) /
+  DAZN CLE (streaming)
 LOCATION:Rocket Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / DAZN 
+ CLE (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-28-los-angeles-lakers-vs-houston-rockets@open-sports-cal
 DTSTART:20270328T190000Z
 DTEND:20270328T220000Z
 SUMMARY:Los Angeles Lakers @ Houston Rockets
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Houston Rockets\nToyota Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Houston Rockets\nToyota Cente
+ r\nBroadcast: ESPN / Spectrum Sports Net / Spectrum Sports Net + (streamin
+ g)
 LOCATION:Toyota Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-03-30-los-angeles-lakers-vs-memphis-grizzlies@open-sports-cal
@@ -888,82 +1116,107 @@ DTSTART:20270331T000000Z
 DTEND:20270331T030000Z
 SUMMARY:Los Angeles Lakers @ Memphis Grizzlies
 DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Memphis Grizzlies\nFedExForum
+ \nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming) / DAZ
+ N MEM (streaming)
 LOCATION:FedExForum
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / DAZN 
+ MEM (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-04-01-los-angeles-lakers-vs-oklahoma-city-thunder@open-sports-cal
 DTSTART:20270402T013000Z
 DTEND:20270402T043000Z
 SUMMARY:Los Angeles Lakers @ Oklahoma City Thunder
-DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Oklahoma City Thunder\nPaycom Center
+DESCRIPTION:NBA 2026-27\nLos Angeles Lakers @ Oklahoma City Thunder\nPaycom
+  Center\nBroadcast: Prime Video (streaming) / Spectrum Sports Net / Spectr
+ um Sports Net + (streaming)
 LOCATION:Paycom Center
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Prime Video (streaming) / Spectrum Sports Net / Spectrum Sports
+  Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-04-04-san-antonio-spurs-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270405T020000Z
 DTEND:20270405T050000Z
 SUMMARY:San Antonio Spurs @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nSan Antonio Spurs @ Los Angeles Lakers\nCrypto.com
+  Arena\nBroadcast: NBC
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-04-06-dallas-mavericks-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270407T020000Z
 DTEND:20270407T050000Z
 SUMMARY:Dallas Mavericks @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nDallas Mavericks @ Los Angeles Lakers\nCrypto.com 
+ Arena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming) 
+ / KFAA-TV / MavsTV (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / KFAA-
+ TV / MavsTV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-04-07-minnesota-timberwolves-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270408T020000Z
 DTEND:20270408T050000Z
 SUMMARY:Minnesota Timberwolves @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Los Angeles Lakers\nCrypt
+ o.com Arena\nBroadcast: ESPN / Spectrum Sports Net / Spectrum Sports Net +
+  (streaming) / DAZN MIN (streaming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN / Spectrum Sports Net / Spectrum Sports Net + (streaming) 
+ / DAZN MIN (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-04-09-minnesota-timberwolves-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270410T020000Z
 DTEND:20270410T050000Z
 SUMMARY:Minnesota Timberwolves @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nMinnesota Timberwolves @ Los Angeles Lakers\nCrypt
+ o.com Arena\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (strea
+ ming)
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nba-2026-27-2027-04-11-phoenix-suns-vs-los-angeles-lakers@open-sports-cal
 DTSTART:20270412T003000Z
 DTEND:20270412T033000Z
 SUMMARY:Phoenix Suns @ Los Angeles Lakers
-DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Los Angeles Lakers\nCrypto.com Arena
+DESCRIPTION:NBA 2026-27\nPhoenix Suns @ Los Angeles Lakers\nCrypto.com Aren
+ a\nBroadcast: Spectrum Sports Net / Spectrum Sports Net + (streaming) / Su
+ ns Live (streaming) / Arizona's Family 3TV
 LOCATION:Crypto.com Arena
 CATEGORIES:Basketball,NBA,NBA 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261106T140155Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Spectrum Sports Net / Spectrum Sports Net + (streaming) / Suns 
+ Live (streaming) / Arizona's Family 3TV
 END:VEVENT
 END:VCALENDAR

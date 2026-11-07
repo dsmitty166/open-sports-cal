@@ -12,12 +12,13 @@ DTSTART:20261103T010000Z
 DTEND:20261103T040000Z
 SUMMARY:East Texas A&M Lions @ Oklahoma Sooners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Oklahoma 
- Sooners\nLloyd Noble Center\, Norman\, OK
+ Sooners\nLloyd Noble Center\, Norman\, OK\nBroadcast: SECN+ (streaming)
 LOCATION:Lloyd Noble Center\, Norman\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921094@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261106T010000Z
 DTEND:20261106T040000Z
 SUMMARY:East Texas A&M Lions @ Rice Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Rice Owls
- \nTudor Fieldhouse\, Houston\, TX
+ \nTudor Fieldhouse\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919759@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20261111T163000Z
 DTEND:20261111T193000Z
 SUMMARY:Fairleigh Dickinson Knights @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFairleigh Dickinson Knights @ Ea
- st Texas A&M Lions\nThe Field House\, Commerce\, TX
+ st Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917527@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261114T030000Z
 DTEND:20261114T060000Z
 SUMMARY:East Texas A&M Lions @ Portland Pilots
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Portland 
- Pilots\nChiles Center\, Portland\, OR
+ Pilots\nChiles Center\, Portland\, OR\nBroadcast: ESPN+ (streaming)
 LOCATION:Chiles Center\, Portland\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929192@open-sports-cal
@@ -64,12 +69,14 @@ DTSTART:20261117T023000Z
 DTEND:20261117T053000Z
 SUMMARY:East Texas A&M Lions @ Oregon State Beavers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Oregon St
- ate Beavers\nGill Coliseum\, Corvallis\, OR
+ ate Beavers\nGill Coliseum\, Corvallis\, OR\nBroadcast: YouTube (streaming
+ )
 LOCATION:Gill Coliseum\, Corvallis\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918056@open-sports-cal
@@ -77,12 +84,14 @@ DTSTART:20261120T030000Z
 DTEND:20261120T060000Z
 SUMMARY:East Texas A&M Lions @ California Golden Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Californi
- a Golden Bears\nHaas Pavilion\, Berkeley\, CA
+ a Golden Bears\nHaas Pavilion\, Berkeley\, CA\nBroadcast: ACCNX (streaming
+ )
 LOCATION:Haas Pavilion\, Berkeley\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929351@open-sports-cal
@@ -90,12 +99,14 @@ DTSTART:20261125T003000Z
 DTEND:20261125T033000Z
 SUMMARY:Arlington Baptist Patriots @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArlington Baptist Patriots @ Eas
- t Texas A&M Lions\nThe Field House\, Commerce\, TX
+ t Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920859@open-sports-cal
@@ -103,12 +114,14 @@ DTSTART:20261128T210000Z
 DTEND:20261129T000000Z
 SUMMARY:East Texas A&M Lions @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Marshall 
- Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920985@open-sports-cal
@@ -116,12 +129,14 @@ DTSTART:20261205T223000Z
 DTEND:20261206T013000Z
 SUMMARY:East Texas A&M Lions @ Stephen F. Austin Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Stephen F
- . Austin Lumberjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ . Austin Lumberjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920986@open-sports-cal
@@ -129,12 +144,13 @@ DTSTART:20261208T000000Z
 DTEND:20261208T030000Z
 SUMMARY:East Texas A&M Lions @ Lamar Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Lamar Car
- dinals\nMontagne Center\, Beaumont\, TX
+ dinals\nMontagne Center\, Beaumont\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917943@open-sports-cal
@@ -142,12 +158,13 @@ DTSTART:20261216T003000Z
 DTEND:20261216T033000Z
 SUMMARY:East Texas A&M Lions @ Central Arkansas Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Central A
- rkansas Bears\nFarris Center\, Conway\, AR
+ rkansas Bears\nFarris Center\, Conway\, AR\nBroadcast: ESPN+ (streaming)
 LOCATION:Farris Center\, Conway\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920822@open-sports-cal
@@ -155,12 +172,13 @@ DTSTART:20261219T230000Z
 DTEND:20261220T020000Z
 SUMMARY:SE Louisiana Lions @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ East Texas 
- A&M Lions\nThe Field House\, Commerce\, TX
+ A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920987@open-sports-cal
@@ -168,11 +186,12 @@ DTSTART:20261222T003000Z
 DTEND:20261222T033000Z
 SUMMARY:McNeese Cowboys @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMcNeese Cowboys @ East Texas A&M
-  Lions\nThe Field House\, Commerce\, TX
+  Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcast not announce
+ d
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -181,12 +200,13 @@ DTSTART:20261230T010000Z
 DTEND:20261230T040000Z
 SUMMARY:East Texas A&M Lions @ Texas Longhorns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Texas Lon
- ghorns\nMoody Center\, Austin\, TX
+ ghorns\nMoody Center\, Austin\, TX\nBroadcast: SECN+ (streaming)
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920988@open-sports-cal
@@ -194,11 +214,12 @@ DTSTART:20270102T230000Z
 DTEND:20270103T020000Z
 SUMMARY:Nicholls Colonels @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNicholls Colonels @ East Texas A
- &M Lions\nThe Field House\, Commerce\, TX
+ &M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcast not announ
+ ced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +228,12 @@ DTSTART:20270105T003000Z
 DTEND:20270105T033000Z
 SUMMARY:LSU New Orleans Privateers @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU New Orleans Privateers @ Eas
- t Texas A&M Lions\nThe Field House\, Commerce\, TX
+ t Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcast n
+ ot announced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +242,12 @@ DTSTART:20270109T223000Z
 DTEND:20270110T013000Z
 SUMMARY:East Texas A&M Lions @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ UT Rio Gr
- ande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ ande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast: Broadca
+ st not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +256,12 @@ DTSTART:20270112T010000Z
 DTEND:20270112T040000Z
 SUMMARY:East Texas A&M Lions @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Texas A&M
- -Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ -Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nBroadcas
+ t: Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +270,12 @@ DTSTART:20270116T230000Z
 DTEND:20270117T020000Z
 SUMMARY:Houston Christian Huskies @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHouston Christian Huskies @ East
-  Texas A&M Lions\nThe Field House\, Commerce\, TX
+  Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcast no
+ t announced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +284,12 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Incarnate Word Cardinals @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIncarnate Word Cardinals @ East 
- Texas A&M Lions\nThe Field House\, Commerce\, TX
+ Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcast not
+  announced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +298,12 @@ DTSTART:20270123T230000Z
 DTEND:20270124T020000Z
 SUMMARY:East Texas A&M Lions @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ LSU New O
- rleans Privateers\nLakefront Arena\, New Orleans\, LA
+ rleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +312,12 @@ DTSTART:20270126T003000Z
 DTEND:20270126T033000Z
 SUMMARY:East Texas A&M Lions @ Nicholls Colonels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Nicholls 
- Colonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA
+ Colonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA\nBroadcast: Broadcas
+ t not announced
 LOCATION:David R. Stopher Gymnasium\, Thibodaux\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +326,12 @@ DTSTART:20270130T213000Z
 DTEND:20270131T003000Z
 SUMMARY:East Texas A&M Lions @ Northwestern State Demons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Northwest
- ern State Demons\nPrather Coliseum\, Natchitoches\, LA
+ ern State Demons\nPrather Coliseum\, Natchitoches\, LA\nBroadcast: Broadca
+ st not announced
 LOCATION:Prather Coliseum\, Natchitoches\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +340,12 @@ DTSTART:20270202T003000Z
 DTEND:20270202T033000Z
 SUMMARY:Lamar Cardinals @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLamar Cardinals @ East Texas A&M
-  Lions\nThe Field House\, Commerce\, TX
+  Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcast not announce
+ d
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +354,12 @@ DTSTART:20270206T230000Z
 DTEND:20270207T020000Z
 SUMMARY:Northwestern State Demons @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern State Demons @ East
-  Texas A&M Lions\nThe Field House\, Commerce\, TX
+  Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcast no
+ t announced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +368,12 @@ DTSTART:20270209T003000Z
 DTEND:20270209T033000Z
 SUMMARY:Stephen F. Austin Lumberjacks @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStephen F. Austin Lumberjacks @ 
- East Texas A&M Lions\nThe Field House\, Commerce\, TX
+ East Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcas
+ t not announced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +382,12 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:East Texas A&M Lions @ McNeese Cowboys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ McNeese C
- owboys\nTownsley Law Arena\, Lake Charles\, LA
+ owboys\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +396,12 @@ DTSTART:20270216T000000Z
 DTEND:20270216T030000Z
 SUMMARY:East Texas A&M Lions @ SE Louisiana Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ SE Louisi
- ana Lions\nUniversity Center\, Hammond\, LA
+ ana Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +410,12 @@ DTSTART:20270220T220000Z
 DTEND:20270221T010000Z
 SUMMARY:East Texas A&M Lions @ Incarnate Word Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Incarnate
-  Word Cardinals\nMcDermott Center\, San Antonio\, TX
+  Word Cardinals\nMcDermott Center\, San Antonio\, TX\nBroadcast: Broadcast
+  not announced
 LOCATION:McDermott Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +424,12 @@ DTSTART:20270223T010000Z
 DTEND:20270223T040000Z
 SUMMARY:East Texas A&M Lions @ Houston Christian Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Texas A&M Lions @ Houston C
- hristian Huskies\nSharp Gymnasium\, Houston\, TX
+ hristian Huskies\nSharp Gymnasium\, Houston\, TX\nBroadcast: Broadcast not
+  announced
 LOCATION:Sharp Gymnasium\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +438,12 @@ DTSTART:20270227T230000Z
 DTEND:20270228T020000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Rio Grande Valley Vaqueros @ 
- East Texas A&M Lions\nThe Field House\, Commerce\, TX
+ East Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcas
+ t not announced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +452,12 @@ DTSTART:20270302T003000Z
 DTEND:20270302T033000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ East Texas A&M Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M-Corpus Christi Islande
- rs @ East Texas A&M Lions\nThe Field House\, Commerce\, TX
+ rs @ East Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Bro
+ adcast not announced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

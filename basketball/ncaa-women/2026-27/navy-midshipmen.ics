@@ -12,13 +12,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Navy Midshipmen @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Mount St. Ma
- ry's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ ry's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926054@open-sports-cal
@@ -26,13 +28,14 @@ DTSTART:20261107T190000Z
 DTEND:20261107T220000Z
 SUMMARY:Navy Midshipmen @ Temple Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Temple Owls\
- nLiacouras Center\, Philadelphia\, PA
+ nLiacouras Center\, Philadelphia\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Liacouras Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918677@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:Navy Midshipmen @ James Madison Dukes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ James Madiso
- n Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA
+ n Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA\nBroadcast: ESPN+ 
+ (streaming) / Patriot League TV (streaming)
 LOCATION:Atlantic Union Bank Center\, Harrisonburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920025@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Air Force Falcons @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ Navy Midsh
- ipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ ipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: ESPN+ (streaming) /
+  Patriot League TV (streaming)
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926086@open-sports-cal
@@ -68,13 +75,15 @@ DTSTART:20261116T230000Z
 DTEND:20261117T020000Z
 SUMMARY:Dickinson Red Devils @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDickinson Red Devils @ Navy Mi
- dshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ dshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: ESPN+ (streaming
+ ) / Patriot League TV (streaming)
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926087@open-sports-cal
@@ -82,13 +91,15 @@ DTSTART:20261120T230000Z
 DTEND:20261121T020000Z
 SUMMARY:North Carolina A&T Aggies @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina A&T Aggies @ Na
- vy Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ vy Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926088@open-sports-cal
@@ -96,12 +107,13 @@ DTSTART:20261123T160000Z
 DTEND:20261123T190000Z
 SUMMARY:Toledo Rockets @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nToledo Rockets @ Navy Midshipm
- en\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site
+ en\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site\nBroadcast
+ : Broadcast not announced
 LOCATION:Baha Mar Convention Center\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +122,13 @@ DTSTART:20261125T160000Z
 DTEND:20261125T190000Z
 SUMMARY:Navy Midshipmen @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Iowa Hawkeye
- s\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site
+ s\nBaha Mar Convention Center\, Nassau\, Bahamas\nNeutral site\nBroadcast:
+  Broadcast not announced
 LOCATION:Baha Mar Convention Center\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +137,15 @@ DTSTART:20261130T230000Z
 DTEND:20261201T020000Z
 SUMMARY:Old Dominion Monarchs @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOld Dominion Monarchs @ Navy M
- idshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ idshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916039@open-sports-cal
@@ -138,12 +153,13 @@ DTSTART:20261203T230000Z
 DTEND:20261204T020000Z
 SUMMARY:UMBC Retrievers @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUMBC Retrievers @ Navy Midship
- men\nAlumni Hall (Navy)\, Annapolis\, MD
+ men\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -152,12 +168,13 @@ DTSTART:20261207T230000Z
 DTEND:20261208T020000Z
 SUMMARY:George Mason Patriots @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorge Mason Patriots @ Navy M
- idshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ idshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -166,13 +183,15 @@ DTSTART:20261213T230000Z
 DTEND:20261214T020000Z
 SUMMARY:Navy Midshipmen @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Virginia Cav
- aliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ aliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: ACC Netwo
+ rk
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913743@open-sports-cal
@@ -180,13 +199,14 @@ DTSTART:20261220T170000Z
 DTEND:20261220T200000Z
 SUMMARY:Navy Midshipmen @ NC State Wolfpack
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ NC State Wol
- fpack\nReynolds Coliseum\, Raleigh\, NC
+ fpack\nReynolds Coliseum\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Reynolds Coliseum\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926090@open-sports-cal
@@ -194,13 +214,14 @@ DTSTART:20261230T180000Z
 DTEND:20261230T210000Z
 SUMMARY:Navy Midshipmen @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Lafayette Le
- opards\nKirby Sports Center\, Easton\, PA
+ opards\nKirby Sports Center\, Easton\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919541@open-sports-cal
@@ -208,12 +229,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Navy Midshipmen @ Bucknell Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Bucknell Bis
- on\nSojka Pavilion\, Lewisburg\, PA
+ on\nSojka Pavilion\, Lewisburg\, PA\nBroadcast: Broadcast not announced
 LOCATION:Sojka Pavilion\, Lewisburg\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +243,13 @@ DTSTART:20270106T230000Z
 DTEND:20270107T020000Z
 SUMMARY:Holy Cross Crusaders @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ Navy Mi
- dshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ dshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +258,13 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:Boston University Terriers @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBoston University Terriers @ N
- avy Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ avy Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast 
+ not announced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +273,12 @@ DTSTART:20270113T230000Z
 DTEND:20270114T020000Z
 SUMMARY:Navy Midshipmen @ Colgate Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Colgate Raid
- ers\nCotterell Court\, Hamilton\, NY
+ ers\nCotterell Court\, Hamilton\, NY\nBroadcast: Broadcast not announced
 LOCATION:Cotterell Court\, Hamilton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +287,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Navy Midshipmen @ Lehigh Mountain Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Lehigh Mount
- ain Hawks\nStabler Arena\, Bethlehem\, PA
+ ain Hawks\nStabler Arena\, Bethlehem\, PA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Stabler Arena\, Bethlehem\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +302,13 @@ DTSTART:20270120T230000Z
 DTEND:20270121T020000Z
 SUMMARY:American University Eagles @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ N
- avy Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ avy Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast 
+ not announced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +317,13 @@ DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Navy Midshipmen @ Army Black Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Army Black K
- nights\nChristl Arena\, West Point\, NY\nStart time TBD
+ nights\nChristl Arena\, West Point\, NY\nStart time TBD\nBroadcast: Broadc
+ ast not announced
 LOCATION:Christl Arena\, West Point\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926022@open-sports-cal
@@ -305,12 +331,13 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:Navy Midshipmen @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Loyola Maryl
- and Greyhounds\nReitz Arena\, Baltimore\, MD
+ and Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -319,12 +346,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Colgate Raiders @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColgate Raiders @ Navy Midship
- men\nAlumni Hall (Navy)\, Annapolis\, MD
+ men\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -333,12 +361,13 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Bucknell Bison @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBucknell Bison @ Navy Midshipm
- en\nAlumni Hall (Navy)\, Annapolis\, MD
+ en\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast not announce
+ d
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -347,12 +376,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:Navy Midshipmen @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Holy Cross C
- rusaders\nHart Center Arena\, Worcester\, MA
+ rusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -361,12 +391,13 @@ DTSTART:20270210T230000Z
 DTEND:20270211T020000Z
 SUMMARY:Loyola Maryland Greyhounds @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Maryland Greyhounds @ N
- avy Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ avy Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast 
+ not announced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,12 +406,13 @@ DTSTART:20270213T230000Z
 DTEND:20270214T020000Z
 SUMMARY:Navy Midshipmen @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ American Uni
- versity Eagles\nBender Arena\, Washington\, DC
+ versity Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,12 +421,13 @@ DTSTART:20270217T230000Z
 DTEND:20270218T020000Z
 SUMMARY:Lafayette Leopards @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Navy Mids
- hipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ hipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -403,12 +436,13 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Army Black Knights @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArmy Black Knights @ Navy Mids
- hipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nStart time TBD
+ hipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nStart time TBD\nBroadcast: Br
+ oadcast not announced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919534@open-sports-cal
@@ -416,12 +450,12 @@ DTSTART:20270223T230000Z
 DTEND:20270224T020000Z
 SUMMARY:Navy Midshipmen @ Boston University Terriers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ Boston Unive
- rsity Terriers\nCase Gym\, Boston\, MA
+ rsity Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -430,12 +464,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Lehigh Mountain Hawks @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLehigh Mountain Hawks @ Navy M
- idshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ idshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

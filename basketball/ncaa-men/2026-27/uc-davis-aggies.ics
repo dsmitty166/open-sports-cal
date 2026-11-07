@@ -12,12 +12,14 @@ DTSTART:20261103T030000Z
 DTEND:20261103T060000Z
 SUMMARY:North Alabama Lions @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Alabama Lions @ UC Davis A
- ggies\nUniversity Credit Union Center\, Davis\, CA
+ ggies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: MW+ (stream
+ ing)
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911518@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261106T020000Z
 DTEND:20261106T050000Z
 SUMMARY:Menlo Oaks @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMenlo Oaks @ UC Davis Aggies\nUn
- iversity Credit Union Center\, Davis\, CA
+ iversity Credit Union Center\, Davis\, CA\nBroadcast: MW+ (streaming)
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911519@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261111T190000Z
 DTEND:20261111T220000Z
 SUMMARY:Incarnate Word Cardinals @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIncarnate Word Cardinals @ UC Da
- vis Aggies\nUniversity Credit Union Center\, Davis\, CA
+ vis Aggies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: MW+ (s
+ treaming)
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911520@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261115T010000Z
 DTEND:20261115T040000Z
 SUMMARY:UC Davis Aggies @ Sacramento State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ Sacramento Sta
- te Hornets\nHornet Pavilion\, Sacramento\, CA
+ te Hornets\nHornet Pavilion\, Sacramento\, CA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Hornet Pavilion\, Sacramento\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911521@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261118T020000Z
 DTEND:20261118T050000Z
 SUMMARY:Alabama State Hornets @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama State Hornets @ UC Davis
-  Aggies\nUniversity Credit Union Center\, Davis\, CA
+  Aggies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: MW+ (stre
+ aming)
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911522@open-sports-cal
@@ -77,11 +86,12 @@ DTSTART:20261126T013000Z
 DTEND:20261126T043000Z
 SUMMARY:Omaha Mavericks @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOmaha Mavericks @ UC Davis Aggie
- s\nResorts World Event Center\, Las Vegas\, NV\nNeutral site
+ s\nResorts World Event Center\, Las Vegas\, NV\nNeutral site\nBroadcast: B
+ roadcast not announced
 LOCATION:Resorts World Event Center\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +100,12 @@ DTSTART:20261127T010000Z
 DTEND:20261127T040000Z
 SUMMARY:Jacksonville State Gamecocks @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ U
- C Davis Aggies\nResorts World Event Center\, Las Vegas\, NV\nNeutral site
+ C Davis Aggies\nResorts World Event Center\, Las Vegas\, NV\nNeutral site\
+ nBroadcast: Broadcast not announced
 LOCATION:Resorts World Event Center\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -103,11 +114,12 @@ DTSTART:20261128T010000Z
 DTEND:20261128T040000Z
 SUMMARY:Pacific Tigers @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ UC Davis Aggies
- \nResorts World Event Center\, Las Vegas\, NV\nNeutral site
+ \nResorts World Event Center\, Las Vegas\, NV\nNeutral site\nBroadcast: Br
+ oadcast not announced
 LOCATION:Resorts World Event Center\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -116,11 +128,12 @@ DTSTART:20261202T020000Z
 DTEND:20261202T050000Z
 SUMMARY:Portland Pilots @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland Pilots @ UC Davis Aggie
- s\nUniversity Credit Union Center\, Davis\, CA
+ s\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -129,11 +142,12 @@ DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
 SUMMARY:UC Davis Aggies @ North Dakota State Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ North Dakota S
- tate Bison\nScheels Center\, Fargo\, ND
+ tate Bison\nScheels Center\, Fargo\, ND\nBroadcast: Broadcast not announce
+ d
 LOCATION:Scheels Center\, Fargo\, ND
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -142,11 +156,12 @@ DTSTART:20261215T020000Z
 DTEND:20261215T050000Z
 SUMMARY:California Baptist Lancers @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCalifornia Baptist Lancers @ UC 
- Davis Aggies\nUniversity Credit Union Center\, Davis\, CA
+ Davis Aggies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broa
+ dcast not announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +170,12 @@ DTSTART:20261218T020000Z
 DTEND:20261218T050000Z
 SUMMARY:Idaho State Bengals @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ UC Davis A
- ggies\nUniversity Credit Union Center\, Davis\, CA
+ ggies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +184,13 @@ DTSTART:20261223T030000Z
 DTEND:20261223T060000Z
 SUMMARY:UC Davis Aggies @ Seattle U Redhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ Seattle U Redh
- awks\nRedhawk Center\, Seattle\, WA
+ awks\nRedhawk Center\, Seattle\, WA\nBroadcast: ESPN+ (streaming)
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911530@open-sports-cal
@@ -181,11 +198,12 @@ DTSTART:20261229T020000Z
 DTEND:20261229T050000Z
 SUMMARY:Pacific Union PACIFIC UNION @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Union PACIFIC UNION @ UC
-  Davis Aggies\nUniversity Credit Union Center\, Davis\, CA
+  Davis Aggies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Bro
+ adcast not announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +212,12 @@ DTSTART:20270103T010000Z
 DTEND:20270103T040000Z
 SUMMARY:Grand Canyon Lopes @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ UC Davis Ag
- gies\nUniversity Credit Union Center\, Davis\, CA
+ gies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast no
+ t announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +226,12 @@ DTSTART:20270106T020000Z
 DTEND:20270106T050000Z
 SUMMARY:Hawai'i Rainbow Warriors @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHawai'i Rainbow Warriors @ UC Da
- vis Aggies\nUniversity Credit Union Center\, Davis\, CA
+ vis Aggies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadc
+ ast not announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +240,11 @@ DTSTART:20270110T004500Z
 DTEND:20270110T034500Z
 SUMMARY:UC Davis Aggies @ New Mexico Lobos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ New Mexico Lob
- os\nThe Pit\, Albuquerque\, NM
+ os\nThe Pit\, Albuquerque\, NM\nBroadcast: Broadcast not announced
 LOCATION:The Pit\, Albuquerque\, NM
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +253,11 @@ DTSTART:20270113T013000Z
 DTEND:20270113T043000Z
 SUMMARY:UC Davis Aggies @ Wyoming Cowboys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ Wyoming Cowboy
- s\nArena-Auditorium\, Laramie\, WY
+ s\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +266,12 @@ DTSTART:20270117T000000Z
 DTEND:20270117T030000Z
 SUMMARY:San José State Spartans @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSan José State Spartans @ UC Da
- vis Aggies\nUniversity Credit Union Center\, Davis\, CA
+ vis Aggies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadc
+ ast not announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +280,12 @@ DTSTART:20270120T020000Z
 DTEND:20270120T050000Z
 SUMMARY:UNLV Rebels @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNLV Rebels @ UC Davis Aggies\nU
- niversity Credit Union Center\, Davis\, CA
+ niversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +294,11 @@ DTSTART:20270124T020000Z
 DTEND:20270124T050000Z
 SUMMARY:UC Davis Aggies @ UTEP Miners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ UTEP Miners\nD
- on Haskins Center\, El Paso\, TX
+ on Haskins Center\, El Paso\, TX\nBroadcast: Broadcast not announced
 LOCATION:Don Haskins Center\, El Paso\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +307,12 @@ DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:UC Davis Aggies @ Hawai'i Rainbow Warriors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ Hawai'i Rainbo
- w Warriors\nStan Sheriff Center\, Honolulu\, HI\nStart time TBD
+ w Warriors\nStan Sheriff Center\, Honolulu\, HI\nStart time TBD\nBroadcast
+ : Broadcast not announced
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911445@open-sports-cal
@@ -297,11 +320,12 @@ DTSTART:20270204T033000Z
 DTEND:20270204T063000Z
 SUMMARY:Nevada Wolf Pack @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNevada Wolf Pack @ UC Davis Aggi
- es\nUniversity Credit Union Center\, Davis\, CA
+ es\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast not 
+ announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -310,11 +334,12 @@ DTSTART:20270207T000000Z
 DTEND:20270207T030000Z
 SUMMARY:Air Force Falcons @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ UC Davis Agg
- ies\nUniversity Credit Union Center\, Davis\, CA
+ ies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast not
+  announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -323,11 +348,12 @@ DTSTART:20270210T033000Z
 DTEND:20270210T063000Z
 SUMMARY:UC Davis Aggies @ San José State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ San José Stat
- e Spartans\nProvident Credit Union Event Center\, San Jose\, CA
+ e Spartans\nProvident Credit Union Event Center\, San Jose\, CA\nBroadcast
+ : Broadcast not announced
 LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -336,11 +362,12 @@ DTSTART:20270214T000000Z
 DTEND:20270214T030000Z
 SUMMARY:UTEP Miners @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ UC Davis Aggies\nU
- niversity Credit Union Center\, Davis\, CA
+ niversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -349,11 +376,11 @@ DTSTART:20270217T030000Z
 DTEND:20270217T060000Z
 SUMMARY:UC Davis Aggies @ Nevada Wolf Pack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ Nevada Wolf Pa
- ck\nLawlor Events Center\, Reno\, NV
+ ck\nLawlor Events Center\, Reno\, NV\nBroadcast: Broadcast not announced
 LOCATION:Lawlor Events Center\, Reno\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -362,11 +389,12 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:UC Davis Aggies @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ Air Force Falc
- ons\nClune Arena\, Colorado Springs\, CO
+ ons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -375,11 +403,12 @@ DTSTART:20270224T020000Z
 DTEND:20270224T050000Z
 SUMMARY:Wyoming Cowboys @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWyoming Cowboys @ UC Davis Aggie
- s\nUniversity Credit Union Center\, Davis\, CA
+ s\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -388,11 +417,12 @@ DTSTART:20270228T000000Z
 DTEND:20270228T030000Z
 SUMMARY:New Mexico Lobos @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Mexico Lobos @ UC Davis Aggi
- es\nUniversity Credit Union Center\, Davis\, CA
+ es\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast not 
+ announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -401,11 +431,11 @@ DTSTART:20270303T030000Z
 DTEND:20270303T060000Z
 SUMMARY:UC Davis Aggies @ UNLV Rebels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ UNLV Rebels\nT
- homas & Mack Center\, Las Vegas\, NV
+ homas & Mack Center\, Las Vegas\, NV\nBroadcast: Broadcast not announced
 LOCATION:Thomas & Mack Center\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -414,11 +444,12 @@ DTSTART:20270306T200000Z
 DTEND:20270306T230000Z
 SUMMARY:UC Davis Aggies @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ Grand Canyon L
- opes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ opes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 END:VCALENDAR

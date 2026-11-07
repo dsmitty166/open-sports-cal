@@ -12,13 +12,14 @@ DTSTART:20261103T013000Z
 DTEND:20261103T043000Z
 SUMMARY:Denver Pioneers @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ Air Force Fa
- lcons\nClune Arena\, Colorado Springs\, CO
+ lcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: MW+ (streaming)
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917690@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
 SUMMARY:Saint Mary's Gaels @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Mary's Gaels @ Air Force
-  Falcons\nClune Arena\, Colorado Springs\, CO
+  Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: MW+ (streaming)
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917698@open-sports-cal
@@ -40,13 +42,14 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:San Francisco Dons @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Air Force
-  Falcons\nClune Arena\, Colorado Springs\, CO
+  Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: MW+ (streaming)
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920025@open-sports-cal
@@ -54,13 +57,15 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Air Force Falcons @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ Navy Midsh
- ipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ ipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: ESPN+ (streaming) /
+  Patriot League TV (streaming)
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920026@open-sports-cal
@@ -68,12 +73,13 @@ DTSTART:20261119T013000Z
 DTEND:20261119T043000Z
 SUMMARY:Southern Utah Thunderbirds @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ A
- ir Force Falcons\nClune Arena\, Colorado Springs\, CO
+ ir Force Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcas
+ t not announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -82,12 +88,12 @@ DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Air Force Falcons @ Omaha Mavericks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ Omaha Mave
- ricks\nBaxter Arena\, Omaha\, NE
+ ricks\nBaxter Arena\, Omaha\, NE\nBroadcast: Broadcast not announced
 LOCATION:Baxter Arena\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -97,13 +103,13 @@ DTEND:20261127T013000Z
 SUMMARY:Air Force Falcons @ Texas Tech Lady Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ Texas Tech
   Lady Raiders\nElridge Blake Sports and Fitness Center\, Charlotte Amalie\
- , Virgin Islands\nNeutral site
+ , Virgin Islands\nNeutral site\nBroadcast: Broadcast not announced
 LOCATION:Elridge Blake Sports and Fitness Center\, Charlotte Amalie\, Virgi
  n Islands
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/St_Thomas
 END:VEVENT
 BEGIN:VEVENT
@@ -112,12 +118,13 @@ DTSTART:20261201T230000Z
 DTEND:20261202T020000Z
 SUMMARY:Chadron State Eagles @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nChadron State Eagles @ Air For
- ce Falcons\nClune Arena\, Colorado Springs\, CO
+ ce Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not 
+ announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -126,12 +133,13 @@ DTSTART:20261205T200000Z
 DTEND:20261205T230000Z
 SUMMARY:Army Black Knights @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArmy Black Knights @ Air Force
-  Falcons\nClune Arena\, Colorado Springs\, CO
+  Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -140,12 +148,13 @@ DTSTART:20261210T013000Z
 DTEND:20261210T043000Z
 SUMMARY:Kansas City Roos @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKansas City Roos @ Air Force F
- alcons\nClune Arena\, Colorado Springs\, CO
+ alcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -154,13 +163,14 @@ DTSTART:20261219T020000Z
 DTEND:20261219T050000Z
 SUMMARY:Air Force Falcons @ Pepperdine Waves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ Pepperdine
-  Waves\nFirestone Fieldhouse\, Malibu\, CA
+  Waves\nFirestone Fieldhouse\, Malibu\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Firestone Fieldhouse\, Malibu\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920250@open-sports-cal
@@ -168,13 +178,14 @@ DTSTART:20261220T190000Z
 DTEND:20261220T220000Z
 SUMMARY:Air Force Falcons @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ Cal State 
- Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928449@open-sports-cal
@@ -182,12 +193,13 @@ DTSTART:20261231T013000Z
 DTEND:20261231T043000Z
 SUMMARY:Wyoming Cowgirls @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ Air Force F
- alcons\nClune Arena\, Colorado Springs\, CO
+ alcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -196,12 +208,13 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:Grand Canyon Lopes @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrand Canyon Lopes @ Air Force
-  Falcons\nClune Arena\, Colorado Springs\, CO
+  Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -210,12 +223,13 @@ DTSTART:20270107T020000Z
 DTEND:20270107T050000Z
 SUMMARY:Air Force Falcons @ Nevada Wolf Pack
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ Nevada Wol
- f Pack\nLawlor Events Center\, Reno\, NV
+ f Pack\nLawlor Events Center\, Reno\, NV\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Lawlor Events Center\, Reno\, NV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -224,12 +238,13 @@ DTSTART:20270109T230000Z
 DTEND:20270110T020000Z
 SUMMARY:Hawai'i Rainbow Wahine @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHawai'i Rainbow Wahine @ Air F
- orce Falcons\nClune Arena\, Colorado Springs\, CO
+ orce Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast no
+ t announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -238,12 +253,12 @@ DTSTART:20270114T023000Z
 DTEND:20270114T053000Z
 SUMMARY:Air Force Falcons @ UNLV Lady Rebels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ UNLV Lady 
- Rebels\nThe Pavilion\, Las Vegas\, NV
+ Rebels\nThe Pavilion\, Las Vegas\, NV\nBroadcast: Broadcast not announced
 LOCATION:The Pavilion\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -252,12 +267,13 @@ DTSTART:20270116T220000Z
 DTEND:20270117T010000Z
 SUMMARY:Air Force Falcons @ San José State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ San José 
- State Spartans\nProvident Credit Union Event Center\, San Jose\, CA
+ State Spartans\nProvident Credit Union Event Center\, San Jose\, CA\nBroad
+ cast: Broadcast not announced
 LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +282,13 @@ DTSTART:20270121T013000Z
 DTEND:20270121T043000Z
 SUMMARY:Nevada Wolf Pack @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNevada Wolf Pack @ Air Force F
- alcons\nClune Arena\, Colorado Springs\, CO
+ alcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +297,12 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Air Force Falcons @ UTEP Miners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ UTEP Miner
- s\nDon Haskins Center\, El Paso\, TX
+ s\nDon Haskins Center\, El Paso\, TX\nBroadcast: Broadcast not announced
 LOCATION:Don Haskins Center\, El Paso\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +311,13 @@ DTSTART:20270130T200000Z
 DTEND:20270130T230000Z
 SUMMARY:New Mexico Lobos @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Mexico Lobos @ Air Force F
- alcons\nClune Arena\, Colorado Springs\, CO
+ alcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +326,13 @@ DTSTART:20270204T003000Z
 DTEND:20270204T033000Z
 SUMMARY:Air Force Falcons @ UC Davis Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ UC Davis A
- ggies\nUniversity Credit Union Center\, Davis\, CA
+ ggies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +341,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:UNLV Lady Rebels @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNLV Lady Rebels @ Air Force F
- alcons\nClune Arena\, Colorado Springs\, CO
+ alcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +356,13 @@ DTSTART:20270211T040000Z
 DTEND:20270211T070000Z
 SUMMARY:Air Force Falcons @ Hawai'i Rainbow Wahine
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ Hawai'i Ra
- inbow Wahine\nStan Sheriff Center\, Honolulu\, HI
+ inbow Wahine\nStan Sheriff Center\, Honolulu\, HI\nBroadcast: Broadcast no
+ t announced
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +371,13 @@ DTSTART:20270213T200000Z
 DTEND:20270213T230000Z
 SUMMARY:San José State Spartans @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan José State Spartans @ Air
-  Force Falcons\nClune Arena\, Colorado Springs\, CO
+  Force Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast 
+ not announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -364,12 +386,12 @@ DTSTART:20270218T013000Z
 DTEND:20270218T043000Z
 SUMMARY:UTEP Miners @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUTEP Miners @ Air Force Falcon
- s\nClune Arena\, Colorado Springs\, CO
+ s\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -378,12 +400,13 @@ DTSTART:20270220T210000Z
 DTEND:20270221T000000Z
 SUMMARY:Air Force Falcons @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ Wyoming Co
- wgirls\nArena-Auditorium\, Laramie\, WY
+ wgirls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announce
+ d
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -392,12 +415,13 @@ DTSTART:20270224T180000Z
 DTEND:20270224T210000Z
 SUMMARY:UC Davis Aggies @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Davis Aggies @ Air Force Fa
- lcons\nClune Arena\, Colorado Springs\, CO
+ lcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -406,12 +430,12 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Air Force Falcons @ New Mexico Lobos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ New Mexico
-  Lobos\nThe Pit\, Albuquerque\, NM
+  Lobos\nThe Pit\, Albuquerque\, NM\nBroadcast: Broadcast not announced
 LOCATION:The Pit\, Albuquerque\, NM
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -420,12 +444,13 @@ DTSTART:20270303T010000Z
 DTEND:20270303T040000Z
 SUMMARY:Air Force Falcons @ Grand Canyon Lopes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ Grand Cany
- on Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ on Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 END:VCALENDAR

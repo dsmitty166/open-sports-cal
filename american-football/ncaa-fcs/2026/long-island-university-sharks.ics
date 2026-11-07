@@ -12,12 +12,14 @@ DTSTART:20260828T000000Z
 DTEND:20260828T030000Z
 SUMMARY:Long Island University Sharks @ North Dakota Fighting Hawks
 DESCRIPTION:NCAA FCS Football 2026\nLong Island University Sharks @ North D
- akota Fighting Hawks\nAlerus Center\, Grand Forks\, ND
+ akota Fighting Hawks\nAlerus Center\, Grand Forks\, ND\nBroadcast: ESPN+ (
+ streaming) / Midco Sports Net
 LOCATION:Alerus Center\, Grand Forks\, ND
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming) / Midco Sports Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401856769@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20260905T000000Z
 DTEND:20260905T030000Z
 SUMMARY:Long Island University Sharks @ Kansas Jayhawks
 DESCRIPTION:NCAA FCS Football 2026\nLong Island University Sharks @ Kansas 
- Jayhawks\nDavid Booth Kansas Memorial Stadium\, Lawrence\, KS
+ Jayhawks\nDavid Booth Kansas Memorial Stadium\, Lawrence\, KS\nBroadcast: 
+ ESPNU
 LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866632@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:UAlbany Great Danes @ Long Island University Sharks
 DESCRIPTION:NCAA FCS Football 2026\nUAlbany Great Danes @ Long Island Unive
- rsity Sharks\nShark Stadium\, Brookville\, NY
+ rsity Sharks\nShark Stadium\, Brookville\, NY\nBroadcast: NEC Front Row
 LOCATION:Shark Stadium\, Brookville\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867908@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 SUMMARY:Villanova Wildcats @ Long Island University Sharks
 DESCRIPTION:NCAA FCS Football 2026\nVillanova Wildcats @ Long Island Univer
- sity Sharks\nShark Stadium\, Brookville\, NY
+ sity Sharks\nShark Stadium\, Brookville\, NY\nBroadcast: NEC Front Row
 LOCATION:Shark Stadium\, Brookville\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867909@open-sports-cal
@@ -64,12 +70,14 @@ DTSTART:20260926T220000Z
 DTEND:20260927T010000Z
 SUMMARY:Long Island University Sharks @ Florida International Panthers
 DESCRIPTION:NCAA FCS Football 2026\nLong Island University Sharks @ Florida
-  International Panthers\nPitbull Stadium\, Miami\, FL
+  International Panthers\nPitbull Stadium\, Miami\, FL\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Pitbull Stadium\, Miami\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867910@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20261003T160000Z
 DTEND:20261003T190000Z
 SUMMARY:Mercyhurst Lakers @ Long Island University Sharks
 DESCRIPTION:NCAA FCS Football 2026\nMercyhurst Lakers @ Long Island Univers
- ity Sharks\nShark Stadium\, Brookville\, NY
+ ity Sharks\nShark Stadium\, Brookville\, NY\nBroadcast: ESPN+ (streaming) 
+ / NEC Front Row
 LOCATION:Shark Stadium\, Brookville\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867911@open-sports-cal
@@ -90,12 +100,14 @@ DTSTART:20261010T170000Z
 DTEND:20261010T200000Z
 SUMMARY:Long Island University Sharks @ Duquesne Dukes
 DESCRIPTION:NCAA FCS Football 2026\nLong Island University Sharks @ Duquesn
- e Dukes\nArthur J. Rooney Athletic Field\, Pittsburgh\, PA
+ e Dukes\nArthur J. Rooney Athletic Field\, Pittsburgh\, PA\nBroadcast: NEC
+  Front Row / SportsNet PIT
 LOCATION:Arthur J. Rooney Athletic Field\, Pittsburgh\, PA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row / SportsNet PIT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867912@open-sports-cal
@@ -103,12 +115,14 @@ DTSTART:20261017T210000Z
 DTEND:20261018T000000Z
 SUMMARY:Long Island University Sharks @ Wagner Seahawks
 DESCRIPTION:NCAA FCS Football 2026\nLong Island University Sharks @ Wagner 
- Seahawks\nHameline Field at Wagner College Stadium\, Staten Island\, NY
+ Seahawks\nHameline Field at Wagner College Stadium\, Staten Island\, NY\nB
+ roadcast: NEC Front Row
 LOCATION:Hameline Field at Wagner College Stadium\, Staten Island\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867913@open-sports-cal
@@ -116,12 +130,13 @@ DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:Stonehill Skyhawks @ Long Island University Sharks
 DESCRIPTION:NCAA FCS Football 2026\nStonehill Skyhawks @ Long Island Univer
- sity Sharks\nShark Stadium\, Brookville\, NY
+ sity Sharks\nShark Stadium\, Brookville\, NY\nBroadcast: NEC Front Row
 LOCATION:Shark Stadium\, Brookville\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867914@open-sports-cal
@@ -129,12 +144,14 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:Long Island University Sharks @ New Haven Chargers
 DESCRIPTION:NCAA FCS Football 2026\nLong Island University Sharks @ New Hav
- en Chargers\nRalph F. DellaCamera Stadium\, West Haven\, CT
+ en Chargers\nRalph F. DellaCamera Stadium\, West Haven\, CT\nBroadcast: NE
+ C Front Row
 LOCATION:Ralph F. DellaCamera Stadium\, West Haven\, CT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867905@open-sports-cal
@@ -142,12 +159,14 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Central Connecticut Blue Devils @ Long Island University Sharks
 DESCRIPTION:NCAA FCS Football 2026\nCentral Connecticut Blue Devils @ Long 
- Island University Sharks\nShark Stadium\, Brookville\, NY
+ Island University Sharks\nShark Stadium\, Brookville\, NY\nBroadcast: NEC 
+ Front Row
 LOCATION:Shark Stadium\, Brookville\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867915@open-sports-cal
@@ -155,11 +174,13 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Long Island University Sharks @ Robert Morris Colonials
 DESCRIPTION:NCAA FCS Football 2026\nLong Island University Sharks @ Robert 
- Morris Colonials\nJoe Walton Stadium\, Moon Township\, PA
+ Morris Colonials\nJoe Walton Stadium\, Moon Township\, PA\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Joe Walton Stadium\, Moon Township\, PA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

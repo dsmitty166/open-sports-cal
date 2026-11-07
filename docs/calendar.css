@@ -58,3 +58,5 @@
 @media(max-width:500px){#calendar-app .saved-row select{flex-basis:100%;font-size:16px}}
 
 #picker{box-sizing:border-box}
+
+#calendar-app .broadcast{font-size:12px;margin-top:5px;overflow-wrap:anywhere;color:var(--ink)}

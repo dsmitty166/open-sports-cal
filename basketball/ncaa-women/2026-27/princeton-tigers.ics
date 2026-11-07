@@ -12,13 +12,14 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Belmont Bruins @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Princeton Tig
- ers\nJadwin Gymnasium\, Princeton\, NJ
+ ers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913676@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261106T230000Z
 DTEND:20261107T020000Z
 SUMMARY:Princeton Tigers @ Richmond Spiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Richmond Sp
- iders\nRobins Center\, Richmond\, VA
+ iders\nRobins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915323@open-sports-cal
@@ -40,13 +42,15 @@ DTSTART:20261108T170000Z
 DTEND:20261108T200000Z
 SUMMARY:Princeton Tigers @ Murray State Racers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Murray Stat
- e Racers\nRobins Center\, Richmond\, VA\nNeutral site
+ e Racers\nRobins Center\, Richmond\, VA\nNeutral site\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915324@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Villanova Wildcats @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVillanova Wildcats @ Princeton
-  Tigers\nJadwin Gymnasium\, Princeton\, NJ
+  Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915325@open-sports-cal
@@ -68,13 +73,14 @@ DTSTART:20261114T020000Z
 DTEND:20261114T050000Z
 SUMMARY:Princeton Tigers @ Pepperdine Waves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Pepperdine 
- Waves\nFirestone Fieldhouse\, Malibu\, CA
+ Waves\nFirestone Fieldhouse\, Malibu\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Firestone Fieldhouse\, Malibu\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915326@open-sports-cal
@@ -82,13 +88,14 @@ DTSTART:20261115T230000Z
 DTEND:20261116T020000Z
 SUMMARY:Princeton Tigers @ UCLA Bruins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ UCLA Bruins
- \nPauley Pavilion\, Los Angeles\, CA
+ \nPauley Pavilion\, Los Angeles\, CA\nBroadcast: BTN
 LOCATION:Pauley Pavilion\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915327@open-sports-cal
@@ -96,13 +103,15 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:George Mason Patriots @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorge Mason Patriots @ Prince
- ton Tigers\nJadwin Gymnasium\, Princeton\, NJ
+ ton Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913718@open-sports-cal
@@ -110,13 +119,15 @@ DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Georgia Tech Yellow Jackets @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Tech Yellow Jackets @ 
- Princeton Tigers\nJadwin Gymnasium\, Princeton\, NJ
+ Princeton Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913010@open-sports-cal
@@ -124,13 +135,15 @@ DTSTART:20261125T170000Z
 DTEND:20261125T200000Z
 SUMMARY:Rutgers Scarlet Knights @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRutgers Scarlet Knights @ Prin
- ceton Tigers\nJadwin Gymnasium\, Princeton\, NJ
+ ceton Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913031@open-sports-cal
@@ -138,13 +151,14 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Princeton Tigers @ Seton Hall Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Seton Hall 
- Pirates\nWalsh Gymnasium\, South Orange\, NJ
+ Pirates\nWalsh Gymnasium\, South Orange\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Walsh Gymnasium\, South Orange\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913838@open-sports-cal
@@ -152,12 +166,12 @@ DTSTART:20261205T210000Z
 DTEND:20261206T000000Z
 SUMMARY:Princeton Tigers @ Rice Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Rice Owls\n
- Tudor Fieldhouse\, Houston\, TX
+ Tudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -166,13 +180,15 @@ DTSTART:20261208T000000Z
 DTEND:20261208T030000Z
 SUMMARY:Princeton Tigers @ Houston Christian Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Houston Chr
- istian Huskies\nSharp Gymnasium\, Houston\, TX
+ istian Huskies\nSharp Gymnasium\, Houston\, TX\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Sharp Gymnasium\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915329@open-sports-cal
@@ -180,12 +196,13 @@ DTSTART:20261210T160000Z
 DTEND:20261210T190000Z
 SUMMARY:Rhode Island Rams @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Princeton 
- Tigers\nJadwin Gymnasium\, Princeton\, NJ
+ Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +211,13 @@ DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Portland Pilots @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPortland Pilots @ Princeton Ti
- gers\nJadwin Gymnasium\, Princeton\, NJ
+ gers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announce
+ d
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +226,13 @@ DTSTART:20270101T180000Z
 DTEND:20270101T210000Z
 SUMMARY:Oregon State Beavers @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOregon State Beavers @ Princet
- on Tigers\nJadwin Gymnasium\, Princeton\, NJ
+ on Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +241,13 @@ DTSTART:20270105T230000Z
 DTEND:20270106T020000Z
 SUMMARY:Pennsylvania Quakers @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPennsylvania Quakers @ Princet
- on Tigers\nJadwin Gymnasium\, Princeton\, NJ
+ on Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +256,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Yale Bulldogs @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nYale Bulldogs @ Princeton Tige
- rs\nJadwin Gymnasium\, Princeton\, NJ
+ rs\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +270,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Princeton Tigers @ Harvard Crimson
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Harvard Cri
- mson\nLavietes Pavilion\, Cambridge\, MA
+ mson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +285,12 @@ DTSTART:20270118T230000Z
 DTEND:20270119T020000Z
 SUMMARY:Princeton Tigers @ Dartmouth Big Green
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Dartmouth B
- ig Green\nLeede Arena\, Hanover\, NH
+ ig Green\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +299,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Brown Bears @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBrown Bears @ Princeton Tigers
- \nJadwin Gymnasium\, Princeton\, NJ
+ \nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +313,13 @@ DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Princeton Tigers @ Cornell Big Red
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Cornell Big
-  Red\nNewman Arena\, Ithaca\, NY\nStart time TBD
+  Red\nNewman Arena\, Ithaca\, NY\nStart time TBD\nBroadcast: Broadcast not
+  announced
 LOCATION:Newman Arena\, Ithaca\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915334@open-sports-cal
@@ -305,12 +327,13 @@ DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Princeton Tigers @ Columbia Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Columbia Li
- ons\nLevien Gymnasium\, New York\, NY\nStart time TBD
+ ons\nLevien Gymnasium\, New York\, NY\nStart time TBD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913944@open-sports-cal
@@ -318,12 +341,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Princeton Tigers @ Pennsylvania Quakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Pennsylvani
- a Quakers\nThe Palestra\, Philadelphia\, PA
+ a Quakers\nThe Palestra\, Philadelphia\, PA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -332,12 +356,13 @@ DTSTART:20270213T000000Z
 DTEND:20270213T030000Z
 SUMMARY:Cornell Big Red @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCornell Big Red @ Princeton Ti
- gers\nJadwin Gymnasium\, Princeton\, NJ
+ gers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announce
+ d
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -346,12 +371,12 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:Columbia Lions @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Princeton Tig
- ers\nJadwin Gymnasium\, Princeton\, NJ
+ ers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -360,12 +385,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Princeton Tigers @ Brown Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrinceton Tigers @ Brown Bears
- \nPizzitola Sports Center\, Providence\, RI
+ \nPizzitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -374,12 +400,13 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:Harvard Crimson @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Princeton Ti
- gers\nJadwin Gymnasium\, Princeton\, NJ
+ gers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announce
+ d
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -388,12 +415,13 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:Dartmouth Big Green @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDartmouth Big Green @ Princeto
- n Tigers\nJadwin Gymnasium\, Princeton\, NJ
+ n Tigers\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,12 +430,12 @@ DTSTART:20270306T190000Z
 DTEND:20270306T220000Z
 SUMMARY:Yale Bulldogs @ Princeton Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nYale Bulldogs @ Princeton Tige
- rs\nJadwin Gymnasium\, Princeton\, NJ
+ rs\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Massachusetts Minutemen @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Troy T
- rojans\nTrojan Arena\, Troy\, AL
+ rojans\nTrojan Arena\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909695@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Troy Trojans @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Florida State Sem
- inoles\nTucker Center\, Tallahassee\, FL
+ inoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACCNX (streaming)
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917520@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Loyola Marymount Lions @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Marymount Lions @ Troy Tr
- ojans\nTrojan Arena\, Troy\, AL
+ ojans\nTrojan Arena\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918958@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Troy Trojans @ NC State Wolfpack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ NC State Wolfpack
- \nLenovo Center\, Raleigh\, NC
+ \nLenovo Center\, Raleigh\, NC\nBroadcast: ACC Network
 LOCATION:Lenovo Center\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920297@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Cal State Northridge Matadors @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Northridge Matadors @ 
- Troy Trojans\nTrojan Arena\, Troy\, AL
+ Troy Trojans\nTrojan Arena\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928998@open-sports-cal
@@ -77,11 +82,12 @@ DTSTART:20261122T010000Z
 DTEND:20261122T040000Z
 SUMMARY:Troy Trojans @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Valparaiso Beacon
- s\nPensacola Bay Center\, Pensacola\, FL\nNeutral site
+ s\nPensacola Bay Center\, Pensacola\, FL\nNeutral site\nBroadcast: Broadca
+ st not announced
 LOCATION:Pensacola Bay Center\, Pensacola\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +96,12 @@ DTSTART:20261122T200000Z
 DTEND:20261122T230000Z
 SUMMARY:Troy Trojans @ Nicholls Colonels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Nicholls Colonels
- \nPensacola Bay Center\, Pensacola\, FL\nNeutral site
+ \nPensacola Bay Center\, Pensacola\, FL\nNeutral site\nBroadcast: Broadcas
+ t not announced
 LOCATION:Pensacola Bay Center\, Pensacola\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -103,11 +110,11 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:Troy Trojans @ Chattanooga Mocs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Chattanooga Mocs\
- nMcKenzie Arena\, Chattanooga\, TN
+ nMcKenzie Arena\, Chattanooga\, TN\nBroadcast: Broadcast not announced
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,12 +123,13 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Furman Paladins @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFurman Paladins @ Troy Trojans\n
- Trojan Arena\, Troy\, AL
+ Trojan Arena\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919023@open-sports-cal
@@ -129,12 +137,13 @@ DTSTART:20261205T221500Z
 DTEND:20261206T011500Z
 SUMMARY:UAB Blazers @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUAB Blazers @ Troy Trojans\nTroj
- an Arena\, Troy\, AL
+ an Arena\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929437@open-sports-cal
@@ -142,11 +151,11 @@ DTSTART:20261212T213000Z
 DTEND:20261213T003000Z
 SUMMARY:Mississippi U for Women Owls @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi U for Women Owls @ T
- roy Trojans\nTrojan Arena\, Troy\, AL
+ roy Trojans\nTrojan Arena\, Troy\, AL\nBroadcast: Broadcast not announced
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +164,13 @@ DTSTART:20261217T013000Z
 DTEND:20261217T043000Z
 SUMMARY:Louisiana Tech Bulldogs @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Tech Bulldogs @ Troy T
- rojans\nTrojan Arena\, Troy\, AL
+ rojans\nTrojan Arena\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911952@open-sports-cal
@@ -168,12 +178,13 @@ DTSTART:20261219T213000Z
 DTEND:20261220T003000Z
 SUMMARY:Coastal Carolina Chanticleers @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCoastal Carolina Chanticleers @ 
- Troy Trojans\nTrojan Arena\, Troy\, AL
+ Troy Trojans\nTrojan Arena\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929439@open-sports-cal
@@ -181,12 +192,13 @@ DTSTART:20261221T180000Z
 DTEND:20261221T210000Z
 SUMMARY:William Carey Crusaders @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWilliam Carey Crusaders @ Troy T
- rojans\nTrojan Arena\, Troy\, AL
+ rojans\nTrojan Arena\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911957@open-sports-cal
@@ -194,12 +206,14 @@ DTSTART:20261231T180000Z
 DTEND:20261231T210000Z
 SUMMARY:Troy Trojans @ App State Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ App State Mountai
- neers\nHolmes Convocation Center\, Boone\, NC
+ neers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911968@open-sports-cal
@@ -207,11 +221,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Troy Trojans @ James Madison Dukes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ James Madison Duk
- es\nAtlantic Union Bank Center\, Harrisonburg\, VA
+ es\nAtlantic Union Bank Center\, Harrisonburg\, VA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Atlantic Union Bank Center\, Harrisonburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +235,11 @@ DTSTART:20270106T230000Z
 DTEND:20270107T020000Z
 SUMMARY:Georgia State Panthers @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Troy Tr
- ojans\nTrojan Arena\, Troy\, AL
+ ojans\nTrojan Arena\, Troy\, AL\nBroadcast: Broadcast not announced
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +248,11 @@ DTSTART:20270109T213000Z
 DTEND:20270110T003000Z
 SUMMARY:Georgia Southern Eagles @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Troy T
- rojans\nTrojan Arena\, Troy\, AL
+ rojans\nTrojan Arena\, Troy\, AL\nBroadcast: Broadcast not announced
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +261,12 @@ DTSTART:20270114T013000Z
 DTEND:20270114T043000Z
 SUMMARY:Troy Trojans @ Southern Miss Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Southern Miss Gol
- den Eagles\nReed Green Coliseum\, Hattiesburg\, MS
+ den Eagles\nReed Green Coliseum\, Hattiesburg\, MS\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Reed Green Coliseum\, Hattiesburg\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +275,11 @@ DTSTART:20270116T213000Z
 DTEND:20270117T003000Z
 SUMMARY:UL Monroe Warhawks @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUL Monroe Warhawks @ Troy Trojan
- s\nTrojan Arena\, Troy\, AL
+ s\nTrojan Arena\, Troy\, AL\nBroadcast: Broadcast not announced
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +288,12 @@ DTSTART:20270122T003000Z
 DTEND:20270122T033000Z
 SUMMARY:Troy Trojans @ Louisiana Tech Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Louisiana Tech Bu
- lldogs\nThomas Assembly Center\, Ruston\, LA
+ lldogs\nThomas Assembly Center\, Ruston\, LA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Thomas Assembly Center\, Ruston\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +302,11 @@ DTSTART:20270123T220000Z
 DTEND:20270124T010000Z
 SUMMARY:Troy Trojans @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Louisiana Ragin' 
- Cajuns\nCajundome\, Lafayette\, LA
+ Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: Broadcast not announced
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +315,11 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:South Alabama Jaguars @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Alabama Jaguars @ Troy Tro
- jans\nTrojan Arena\, Troy\, AL
+ jans\nTrojan Arena\, Troy\, AL\nBroadcast: Broadcast not announced
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +328,11 @@ DTSTART:20270130T213000Z
 DTEND:20270131T003000Z
 SUMMARY:Arkansas State Red Wolves @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas State Red Wolves @ Troy
-  Trojans\nTrojan Arena\, Troy\, AL
+  Trojans\nTrojan Arena\, Troy\, AL\nBroadcast: Broadcast not announced
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +341,11 @@ DTSTART:20270204T003000Z
 DTEND:20270204T033000Z
 SUMMARY:Troy Trojans @ UL Monroe Warhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ UL Monroe Warhawk
- s\nb1Bank Fant Coliseum\, Monroe\, LA
+ s\nb1Bank Fant Coliseum\, Monroe\, LA\nBroadcast: Broadcast not announced
 LOCATION:b1Bank Fant Coliseum\, Monroe\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +354,11 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Troy T
- rojans\nTrojan Arena\, Troy\, AL
+ rojans\nTrojan Arena\, Troy\, AL\nBroadcast: Broadcast not announced
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +367,12 @@ DTSTART:20270213T200000Z
 DTEND:20270213T230000Z
 SUMMARY:Troy Trojans @ Arkansas State Red Wolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Arkansas State Re
- d Wolves\nFirst National Bank Arena\, Jonesboro\, AR
+ d Wolves\nFirst National Bank Arena\, Jonesboro\, AR\nBroadcast: Broadcast
+  not announced
 LOCATION:First National Bank Arena\, Jonesboro\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +381,11 @@ DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:Troy Trojans @ South Alabama Jaguars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ South Alabama Jag
- uars\nMitchell Center\, Mobile\, AL
+ uars\nMitchell Center\, Mobile\, AL\nBroadcast: Broadcast not announced
 LOCATION:Mitchell Center\, Mobile\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +394,11 @@ DTSTART:20270220T221500Z
 DTEND:20270221T011500Z
 SUMMARY:Southern Miss Golden Eagles @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Miss Golden Eagles @ Tr
- oy Trojans\nTrojan Arena\, Troy\, AL
+ oy Trojans\nTrojan Arena\, Troy\, AL\nBroadcast: Broadcast not announced
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +407,12 @@ DTSTART:20270227T020000Z
 DTEND:20270227T050000Z
 SUMMARY:Troy Trojans @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Marshall Thunderi
- ng Herd\nCam Henderson Center\, Huntington\, WV
+ ng Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: Broadcast not 
+ announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

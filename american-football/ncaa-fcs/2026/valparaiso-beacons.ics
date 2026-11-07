@@ -12,12 +12,13 @@ DTSTART:20260829T180000Z
 DTEND:20260829T210000Z
 SUMMARY:Lawrence Tech Blue Devils @ Valparaiso Beacons
 DESCRIPTION:NCAA FCS Football 2026\nLawrence Tech Blue Devils @ Valparaiso 
- Beacons\nBrown Field\, Valparaiso\, IN
+ Beacons\nBrown Field\, Valparaiso\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Brown Field\, Valparaiso\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867867@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Valparaiso Beacons @ Murray State Racers
 DESCRIPTION:NCAA FCS Football 2026\nValparaiso Beacons @ Murray State Racer
- s\nRoy Stewart Stadium\, Murray\, KY
+ s\nRoy Stewart Stadium\, Murray\, KY\nBroadcast: ESPN+ (streaming)
 LOCATION:Roy Stewart Stadium\, Murray\, KY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867857@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20260919T170000Z
 DTEND:20260919T200000Z
 SUMMARY:Valparaiso Beacons @ Indiana State Sycamores
 DESCRIPTION:NCAA FCS Football 2026\nValparaiso Beacons @ Indiana State Syca
- mores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
+ mores\nMemorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Memorial Stadium (Terre Haute\, IN)\, Terre Haute\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868211@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260926T180000Z
 DTEND:20260926T210000Z
 SUMMARY:Butler Bulldogs @ Valparaiso Beacons
 DESCRIPTION:NCAA FCS Football 2026\nButler Bulldogs @ Valparaiso Beacons\nB
- rown Field\, Valparaiso\, IN
+ rown Field\, Valparaiso\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Brown Field\, Valparaiso\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868270@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T170000Z
 DTEND:20261003T200000Z
 SUMMARY:Valparaiso Beacons @ Morehead State Eagles
 DESCRIPTION:NCAA FCS Football 2026\nValparaiso Beacons @ Morehead State Eag
- les\nPhil Simms Stadium\, Morehead\, KY
+ les\nPhil Simms Stadium\, Morehead\, KY\nBroadcast: ESPN+ (streaming)
 LOCATION:Phil Simms Stadium\, Morehead\, KY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868256@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261010T180000Z
 DTEND:20261010T210000Z
 SUMMARY:Drake Bulldogs @ Valparaiso Beacons
 DESCRIPTION:NCAA FCS Football 2026\nDrake Bulldogs @ Valparaiso Beacons\nBr
- own Field\, Valparaiso\, IN
+ own Field\, Valparaiso\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Brown Field\, Valparaiso\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868289@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261017T200000Z
 DTEND:20261017T230000Z
 SUMMARY:Valparaiso Beacons @ San Diego Toreros
 DESCRIPTION:NCAA FCS Football 2026\nValparaiso Beacons @ San Diego Toreros\
- nTorero Stadium\, San Diego\, CA
+ nTorero Stadium\, San Diego\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Torero Stadium\, San Diego\, CA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868278@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261024T170000Z
 DTEND:20261024T200000Z
 SUMMARY:Presbyterian Blue Hose @ Valparaiso Beacons
 DESCRIPTION:NCAA FCS Football 2026\nPresbyterian Blue Hose @ Valparaiso Bea
- cons\nBrown Field\, Valparaiso\, IN
+ cons\nBrown Field\, Valparaiso\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Brown Field\, Valparaiso\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868232@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:Valparaiso Beacons @ Dayton Flyers
 DESCRIPTION:NCAA FCS Football 2026\nValparaiso Beacons @ Dayton Flyers\nWel
- come Stadium\, Dayton\, OH
+ come Stadium\, Dayton\, OH\nBroadcast: YouTube (streaming)
 LOCATION:Welcome Stadium\, Dayton\, OH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868286@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Valparaiso Beacons @ Stetson Hatters
 DESCRIPTION:NCAA FCS Football 2026\nValparaiso Beacons @ Stetson Hatters\nS
- pec Martin Memorial Stadium\, DeLand\, FL
+ pec Martin Memorial Stadium\, DeLand\, FL\nBroadcast: YouTube (streaming)
 LOCATION:Spec Martin Memorial Stadium\, DeLand\, FL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868283@open-sports-cal
@@ -142,11 +153,12 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:St. Thomas Tommies @ Valparaiso Beacons
 DESCRIPTION:NCAA FCS Football 2026\nSt. Thomas Tommies @ Valparaiso Beacons
- \nBrown Field\, Valparaiso\, IN
+ \nBrown Field\, Valparaiso\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Brown Field\, Valparaiso\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

@@ -79,3 +79,8 @@ Calendar → **Add calendar** → **Subscribe from web** → paste URL → **Imp
 - Includes all 8 international games with correct venue timezones.
 - Playoff games are added automatically once the schedule is officially released.
 - Data source: [ESPN](https://www.espn.com/nfl/schedule) (cross-checked against [fixturedownload.com](https://fixturedownload.com))
+
+
+## TV and Streaming
+
+Published US TV and streaming networks are included in event descriptions and shown in the online calendar. ESPN is the broadcaster-listing source; listings refresh with the daily schedule update. Missing listings display **Broadcast not announced**. Streaming services are labeled separately. These are network names, not local channel numbers, watch links, or guarantees of availability in your region or subscription.

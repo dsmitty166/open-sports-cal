@@ -12,12 +12,13 @@ DTSTART:20260827T230000Z
 DTEND:20260828T020000Z
 SUMMARY:Glenville State Pioneers @ Elon Phoenix
 DESCRIPTION:NCAA FCS Football 2026\nGlenville State Pioneers @ Elon Phoenix
- \nRhodes Stadium\, Elon\, NC
+ \nRhodes Stadium\, Elon\, NC\nBroadcast: FloSports (streaming)
 LOCATION:Rhodes Stadium\, Elon\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866626@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20260905T220000Z
 DTEND:20260906T010000Z
 SUMMARY:Elon Phoenix @ Davidson Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nElon Phoenix @ Davidson Wildcats\nRicha
- rdson Stadium (Davidson\, NC)\, Davidson\, NC
+ rdson Stadium (Davidson\, NC)\, Davidson\, NC\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Richardson Stadium (Davidson\, NC)\, Davidson\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866628@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 SUMMARY:Elon Phoenix @ Rhode Island Rams
 DESCRIPTION:NCAA FCS Football 2026\nElon Phoenix @ Rhode Island Rams\nCentr
- eville Bank Stadium\, Pawtucket\, RI
+ eville Bank Stadium\, Pawtucket\, RI\nBroadcast: FloSports (streaming)
 LOCATION:Centreville Bank Stadium\, Pawtucket\, RI
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866637@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260919T220000Z
 DTEND:20260920T010000Z
 SUMMARY:Sacred Heart Pioneers @ Elon Phoenix
 DESCRIPTION:NCAA FCS Football 2026\nSacred Heart Pioneers @ Elon Phoenix\nR
- hodes Stadium\, Elon\, NC
+ hodes Stadium\, Elon\, NC\nBroadcast: FloSports (streaming)
 LOCATION:Rhodes Stadium\, Elon\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866643@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20260926T180000Z
 DTEND:20260926T210000Z
 SUMMARY:Maine Black Bears @ Elon Phoenix
 DESCRIPTION:NCAA FCS Football 2026\nMaine Black Bears @ Elon Phoenix\nRhode
- s Stadium\, Elon\, NC
+ s Stadium\, Elon\, NC\nBroadcast: FloSports (streaming)
 LOCATION:Rhodes Stadium\, Elon\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866650@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261003T170000Z
 DTEND:20261003T200000Z
 SUMMARY:Elon Phoenix @ New Hampshire Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nElon Phoenix @ New Hampshire Wildcats\n
- Wildcat Stadium (NH)\, Durham\, NH
+ Wildcat Stadium (NH)\, Durham\, NH\nBroadcast: FloSports (streaming)
 LOCATION:Wildcat Stadium (NH)\, Durham\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866661@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261010T180000Z
 DTEND:20261010T210000Z
 SUMMARY:Wofford Terriers @ Elon Phoenix
 DESCRIPTION:NCAA FCS Football 2026\nWofford Terriers @ Elon Phoenix\nRhodes
-  Stadium\, Elon\, NC
+  Stadium\, Elon\, NC\nBroadcast: FloSports (streaming)
 LOCATION:Rhodes Stadium\, Elon\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401858262@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261017T233000Z
 DTEND:20261018T023000Z
 SUMMARY:Elon Phoenix @ Stanford Cardinal
 DESCRIPTION:NCAA FCS Football 2026\nElon Phoenix @ Stanford Cardinal\nStanf
- ord Stadium\, Stanford\, CA
+ ord Stadium\, Stanford\, CA\nBroadcast: ACCNX (streaming)
 LOCATION:Stanford Stadium\, Stanford\, CA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866679@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261031T170000Z
 DTEND:20261031T200000Z
 SUMMARY:Elon Phoenix @ North Carolina A&T Aggies
 DESCRIPTION:NCAA FCS Football 2026\nElon Phoenix @ North Carolina A&T Aggie
- s\nTruist Stadium\, Greensboro\, NC
+ s\nTruist Stadium\, Greensboro\, NC\nBroadcast: FloSports (streaming)
 LOCATION:Truist Stadium\, Greensboro\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866685@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261107T190000Z
 DTEND:20261107T220000Z
 SUMMARY:Hampton Pirates @ Elon Phoenix
 DESCRIPTION:NCAA FCS Football 2026\nHampton Pirates @ Elon Phoenix\nRhodes 
- Stadium\, Elon\, NC
+ Stadium\, Elon\, NC\nBroadcast: FloSports (streaming)
 LOCATION:Rhodes Stadium\, Elon\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866692@open-sports-cal
@@ -142,12 +153,13 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Campbell Fighting Camels @ Elon Phoenix
 DESCRIPTION:NCAA FCS Football 2026\nCampbell Fighting Camels @ Elon Phoenix
- \nRhodes Stadium\, Elon\, NC
+ \nRhodes Stadium\, Elon\, NC\nBroadcast: FloSports (streaming)
 LOCATION:Rhodes Stadium\, Elon\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866698@open-sports-cal
@@ -155,11 +167,11 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Elon Phoenix @ Towson Tigers
 DESCRIPTION:NCAA FCS Football 2026\nElon Phoenix @ Towson Tigers\nJohnny Un
- itas Stadium\, Towson\, MD
+ itas Stadium\, Towson\, MD\nBroadcast: Broadcast not announced
 LOCATION:Johnny Unitas Stadium\, Towson\, MD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

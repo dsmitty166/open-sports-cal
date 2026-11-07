@@ -12,12 +12,14 @@ DTSTART:20260829T230000Z
 DTEND:20260830T020000Z
 SUMMARY:Eastern Kentucky Colonels @ Western Carolina Catamounts
 DESCRIPTION:NCAA FCS Football 2026\nEastern Kentucky Colonels @ Western Car
- olina Catamounts\nE.J. Whitmire Stadium\, Cullowhee\, NC
+ olina Catamounts\nE.J. Whitmire Stadium\, Cullowhee\, NC\nBroadcast: ESPN+
+  (streaming)
 LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866625@open-sports-cal
@@ -25,11 +27,12 @@ DTSTART:20260905T222000Z
 DTEND:20260906T012000Z
 SUMMARY:Western Carolina Catamounts @ Campbell Fighting Camels
 DESCRIPTION:NCAA FCS Football 2026\nWestern Carolina Catamounts @ Campbell 
- Fighting Camels\nBarker-Lane Stadium\, Buies Creek\, NC
+ Fighting Camels\nBarker-Lane Stadium\, Buies Creek\, NC\nBroadcast: Broadc
+ ast not announced
 LOCATION:Barker-Lane Stadium\, Buies Creek\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -38,11 +41,12 @@ DTSTART:20260906T150000Z
 DTEND:20260906T180000Z
 SUMMARY:Western Carolina Catamounts @ Campbell Fighting Camels
 DESCRIPTION:NCAA FCS Football 2026\nWestern Carolina Catamounts @ Campbell 
- Fighting Camels\nBarker-Lane Stadium\, Buies Creek\, NC
+ Fighting Camels\nBarker-Lane Stadium\, Buies Creek\, NC\nBroadcast: Broadc
+ ast not announced
 LOCATION:Barker-Lane Stadium\, Buies Creek\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -51,12 +55,14 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Western Carolina Catamounts @ Cincinnati Bearcats
 DESCRIPTION:NCAA FCS Football 2026\nWestern Carolina Catamounts @ Cincinnat
- i Bearcats\nNippert Stadium\, Cincinnati\, OH
+ i Bearcats\nNippert Stadium\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Nippert Stadium\, Cincinnati\, OH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868275@open-sports-cal
@@ -64,12 +70,14 @@ DTSTART:20260919T200500Z
 DTEND:20260919T230500Z
 SUMMARY:Presbyterian Blue Hose @ Western Carolina Catamounts
 DESCRIPTION:NCAA FCS Football 2026\nPresbyterian Blue Hose @ Western Caroli
- na Catamounts\nE.J. Whitmire Stadium\, Cullowhee\, NC
+ na Catamounts\nE.J. Whitmire Stadium\, Cullowhee\, NC\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868346@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:Western Carolina Catamounts @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA FCS Football 2026\nWestern Carolina Catamounts @ East Tenn
- essee State Buccaneers\nWilliam B. Greene Jr. Stadium\, Johnson City\, TN
+ essee State Buccaneers\nWilliam B. Greene Jr. Stadium\, Johnson City\, TN\
+ nBroadcast: ESPN+ (streaming)
 LOCATION:William B. Greene Jr. Stadium\, Johnson City\, TN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868391@open-sports-cal
@@ -90,12 +100,14 @@ DTSTART:20261003T220000Z
 DTEND:20261004T010000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Western Carolina Catamounts
 DESCRIPTION:NCAA FCS Football 2026\nTennessee Tech Golden Eagles @ Western 
- Carolina Catamounts\nE.J. Whitmire Stadium\, Cullowhee\, NC
+ Carolina Catamounts\nE.J. Whitmire Stadium\, Cullowhee\, NC\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868382@open-sports-cal
@@ -103,12 +115,13 @@ DTSTART:20261010T190000Z
 DTEND:20261010T220000Z
 SUMMARY:Western Carolina Catamounts @ Mercer Bears
 DESCRIPTION:NCAA FCS Football 2026\nWestern Carolina Catamounts @ Mercer Be
- ars\nFive Star Stadium\, Macon\, GA
+ ars\nFive Star Stadium\, Macon\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Five Star Stadium\, Macon\, GA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868341@open-sports-cal
@@ -116,12 +129,14 @@ DTSTART:20261024T183000Z
 DTEND:20261024T213000Z
 SUMMARY:Chattanooga Mocs @ Western Carolina Catamounts
 DESCRIPTION:NCAA FCS Football 2026\nChattanooga Mocs @ Western Carolina Cat
- amounts\nE.J. Whitmire Stadium\, Cullowhee\, NC
+ amounts\nE.J. Whitmire Stadium\, Cullowhee\, NC\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868378@open-sports-cal
@@ -129,12 +144,13 @@ DTSTART:20261031T180000Z
 DTEND:20261031T210000Z
 SUMMARY:Western Carolina Catamounts @ Furman Paladins
 DESCRIPTION:NCAA FCS Football 2026\nWestern Carolina Catamounts @ Furman Pa
- ladins\nPaladin Stadium\, Greenville\, SC
+ ladins\nPaladin Stadium\, Greenville\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Paladin Stadium\, Greenville\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868399@open-sports-cal
@@ -142,12 +158,14 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Wofford Terriers @ Western Carolina Catamounts
 DESCRIPTION:NCAA FCS Football 2026\nWofford Terriers @ Western Carolina Cat
- amounts\nE.J. Whitmire Stadium\, Cullowhee\, NC
+ amounts\nE.J. Whitmire Stadium\, Cullowhee\, NC\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868389@open-sports-cal
@@ -155,12 +173,13 @@ DTSTART:20261114T203000Z
 DTEND:20261114T233000Z
 SUMMARY:Western Carolina Catamounts @ Samford Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nWestern Carolina Catamounts @ Samford B
- ulldogs\nSeibert Stadium\, Birmingham\, AL
+ ulldogs\nSeibert Stadium\, Birmingham\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Seibert Stadium\, Birmingham\, AL
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868396@open-sports-cal
@@ -168,11 +187,13 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:The Citadel Bulldogs @ Western Carolina Catamounts
 DESCRIPTION:NCAA FCS Football 2026\nThe Citadel Bulldogs @ Western Carolina
-  Catamounts\nE.J. Whitmire Stadium\, Cullowhee\, NC
+  Catamounts\nE.J. Whitmire Stadium\, Cullowhee\, NC\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,13 @@ DTSTART:20260905T230000Z
 DTEND:20260906T020000Z
 SUMMARY:Sam Houston Bearkats @ Troy Trojans
 DESCRIPTION:NCAA FBS Football 2026\nSam Houston Bearkats @ Troy Trojans\nVe
- terans Memorial Stadium (AL)\, Troy\, AL
+ terans Memorial Stadium (AL)\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Veterans Memorial Stadium (AL)\, Troy\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862707@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Tulsa Golden Hurricane @ Sam Houston Bearkats
 DESCRIPTION:NCAA FBS Football 2026\nTulsa Golden Hurricane @ Sam Houston Be
- arkats\nElliott T. Bowers Stadium\, Huntsville\, TX
+ arkats\nElliott T. Bowers Stadium\, Huntsville\, TX\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Elliott T. Bowers Stadium\, Huntsville\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401870764@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Nicholls Colonels @ Sam Houston Bearkats
 DESCRIPTION:NCAA FBS Football 2026\nNicholls Colonels @ Sam Houston Bearkat
- s\nElliott T. Bowers Stadium\, Huntsville\, TX
+ s\nElliott T. Bowers Stadium\, Huntsville\, TX\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Elliott T. Bowers Stadium\, Huntsville\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856805@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20260926T160000Z
 DTEND:20260926T190000Z
 SUMMARY:Sam Houston Bearkats @ Texas Tech Red Raiders
 DESCRIPTION:NCAA FBS Football 2026\nSam Houston Bearkats @ Texas Tech Red R
- aiders\nGalaxy Stadium\, Lubbock\, TX
+ aiders\nGalaxy Stadium\, Lubbock\, TX\nBroadcast: TNT
 LOCATION:Galaxy Stadium\, Lubbock\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401870766@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261008T230000Z
 DTEND:20261009T020000Z
 SUMMARY:Sam Houston Bearkats @ Liberty Flames
 DESCRIPTION:NCAA FBS Football 2026\nSam Houston Bearkats @ Liberty Flames\n
- Williams Stadium (VA)\, Lynchburg\, VA
+ Williams Stadium (VA)\, Lynchburg\, VA\nBroadcast: ESPNU
 LOCATION:Williams Stadium (VA)\, Lynchburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871068@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261015T000000Z
 DTEND:20261015T030000Z
 SUMMARY:Western Kentucky Hilltoppers @ Sam Houston Bearkats
 DESCRIPTION:NCAA FBS Football 2026\nWestern Kentucky Hilltoppers @ Sam Hous
- ton Bearkats\nElliott T. Bowers Stadium\, Huntsville\, TX
+ ton Bearkats\nElliott T. Bowers Stadium\, Huntsville\, TX\nBroadcast: ESPN
 LOCATION:Elliott T. Bowers Stadium\, Huntsville\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871070@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261022T000000Z
 DTEND:20261022T030000Z
 SUMMARY:New Mexico State Aggies @ Sam Houston Bearkats
 DESCRIPTION:NCAA FBS Football 2026\nNew Mexico State Aggies @ Sam Houston B
- earkats\nElliott T. Bowers Stadium\, Huntsville\, TX
+ earkats\nElliott T. Bowers Stadium\, Huntsville\, TX\nBroadcast: ESPN2
 LOCATION:Elliott T. Bowers Stadium\, Huntsville\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871072@open-sports-cal
@@ -103,12 +112,13 @@ DTSTART:20261028T000000Z
 DTEND:20261028T030000Z
 SUMMARY:Sam Houston Bearkats @ Missouri State Bears
 DESCRIPTION:NCAA FBS Football 2026\nSam Houston Bearkats @ Missouri State B
- ears\nRobert W. Plaster Stadium\, Springfield\, MO
+ ears\nRobert W. Plaster Stadium\, Springfield\, MO\nBroadcast: ESPN2
 LOCATION:Robert W. Plaster Stadium\, Springfield\, MO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871075@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261108T000000Z
 DTEND:20261108T030000Z
 SUMMARY:Sam Houston Bearkats @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA FBS Football 2026\nSam Houston Bearkats @ Jacksonville Sta
- te Gamecocks\nAmFirst Stadium\, Jacksonville\, AL
+ te Gamecocks\nAmFirst Stadium\, Jacksonville\, AL\nBroadcast: CBSSN
 LOCATION:AmFirst Stadium\, Jacksonville\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401870769@open-sports-cal
@@ -129,12 +140,14 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Kennesaw State Owls @ Sam Houston Bearkats
 DESCRIPTION:NCAA FBS Football 2026\nKennesaw State Owls @ Sam Houston Beark
- ats\nElliott T. Bowers Stadium\, Huntsville\, TX
+ ats\nElliott T. Bowers Stadium\, Huntsville\, TX\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Elliott T. Bowers Stadium\, Huntsville\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871081@open-sports-cal
@@ -142,11 +155,12 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Sam Houston Bearkats
 DESCRIPTION:NCAA FBS Football 2026\nMiddle Tennessee Blue Raiders @ Sam Hou
- ston Bearkats\nElliott T. Bowers Stadium\, Huntsville\, TX
+ ston Bearkats\nElliott T. Bowers Stadium\, Huntsville\, TX\nBroadcast: Bro
+ adcast not announced
 LOCATION:Elliott T. Bowers Stadium\, Huntsville\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +169,12 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:Sam Houston Bearkats @ Florida International Panthers
 DESCRIPTION:NCAA FBS Football 2026\nSam Houston Bearkats @ Florida Internat
- ional Panthers\nPitbull Stadium\, Miami\, FL
+ ional Panthers\nPitbull Stadium\, Miami\, FL\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Pitbull Stadium\, Miami\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,13 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Mercyhurst Lakers @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Marquette Go
- lden Eagles\nFiserv Forum\, Milwaukee\, WI
+ lden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: ESPN+ (streaming)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909523@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:Detroit Mercy Titans @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDetroit Mercy Titans @ Marquette
-  Golden Eagles\nFiserv Forum\, Milwaukee\, WI
+  Golden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909524@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Marquette Golden Eagles @ Michigan Wolverines
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ Michig
- an Wolverines\nCrisler Center\, Ann Arbor\, MI
+ an Wolverines\nCrisler Center\, Ann Arbor\, MI\nBroadcast: FS1
 LOCATION:Crisler Center\, Ann Arbor\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909525@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20261115T193000Z
 DTEND:20261115T223000Z
 SUMMARY:Missouri Tigers @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMissouri Tigers @ Marquette Gold
- en Eagles\nUnited Center\, Chicago\, IL\nNeutral site
+ en Eagles\nUnited Center\, Chicago\, IL\nNeutral site\nBroadcast: Peacock 
+ (streaming)
 LOCATION:United Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909526@open-sports-cal
@@ -64,12 +70,14 @@ DTSTART:20261119T003000Z
 DTEND:20261119T033000Z
 SUMMARY:Northern Illinois Huskies @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Illinois Huskies @ Marq
- uette Golden Eagles\nFiserv Forum\, Milwaukee\, WI
+ uette Golden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909527@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Chicago State Cougars @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChicago State Cougars @ Marquett
- e Golden Eagles\nFiserv Forum\, Milwaukee\, WI
+ e Golden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920428@open-sports-cal
@@ -90,12 +100,14 @@ DTSTART:20261125T170000Z
 DTEND:20261125T200000Z
 SUMMARY:Virginia Cavaliers @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Cavaliers @ Marquette G
- olden Eagles\nImperial Arena\, Nassau\, Bahamas\nNeutral site
+ olden Eagles\nImperial Arena\, Nassau\, Bahamas\nNeutral site\nBroadcast: 
+ ESPN
 LOCATION:Imperial Arena\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920810@open-sports-cal
@@ -103,12 +115,14 @@ DTSTART:20261127T220000Z
 DTEND:20261128T010000Z
 SUMMARY:Marquette Golden Eagles @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ Texas 
- A&M Aggies\nImperial Arena\, Nassau\, Bahamas\nNeutral site
+ A&M Aggies\nImperial Arena\, Nassau\, Bahamas\nNeutral site\nBroadcast: SE
+ C Network
 LOCATION:Imperial Arena\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909528@open-sports-cal
@@ -116,12 +130,13 @@ DTSTART:20261202T003000Z
 DTEND:20261202T033000Z
 SUMMARY:Wagner Seahawks @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Marquette Gold
- en Eagles\nFiserv Forum\, Milwaukee\, WI
+ en Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: ESPN+ (streaming)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909529@open-sports-cal
@@ -129,12 +144,13 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Wisconsin Badgers @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWisconsin Badgers @ Marquette Go
- lden Eagles\nFiserv Forum\, Milwaukee\, WI
+ lden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: Peacock (streaming)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909530@open-sports-cal
@@ -142,12 +158,14 @@ DTSTART:20261210T003000Z
 DTEND:20261210T033000Z
 SUMMARY:New Hampshire Wildcats @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Marquet
- te Golden Eagles\nFiserv Forum\, Milwaukee\, WI
+ te Golden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906797@open-sports-cal
@@ -155,12 +173,13 @@ DTSTART:20261212T233000Z
 DTEND:20261213T023000Z
 SUMMARY:Mississippi State Bulldogs @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi State Bulldogs @ Mar
- quette Golden Eagles\nFiserv Forum\, Milwaukee\, WI
+ quette Golden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: FS1
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920573@open-sports-cal
@@ -168,12 +187,13 @@ DTSTART:20261219T233000Z
 DTEND:20261220T023000Z
 SUMMARY:Xavier Musketeers @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Marquette Go
- lden Eagles\nFiserv Forum\, Milwaukee\, WI
+ lden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: Peacock (streaming)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920576@open-sports-cal
@@ -181,12 +201,13 @@ DTSTART:20261223T230000Z
 DTEND:20261224T020000Z
 SUMMARY:Marquette Golden Eagles @ Butler Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ Butler
-  Bulldogs\nHinkle Fieldhouse\, Indianapolis\, IN
+  Bulldogs\nHinkle Fieldhouse\, Indianapolis\, IN\nBroadcast: FS1
 LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920582@open-sports-cal
@@ -194,12 +215,14 @@ DTSTART:20261231T220000Z
 DTEND:20270101T010000Z
 SUMMARY:Marquette Golden Eagles @ Creighton Bluejays
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ Creigh
- ton Bluejays\nCHI Health Center Omaha\, Omaha\, NE
+ ton Bluejays\nCHI Health Center Omaha\, Omaha\, NE\nBroadcast: Peacock (st
+ reaming)
 LOCATION:CHI Health Center Omaha\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920589@open-sports-cal
@@ -207,12 +230,13 @@ DTSTART:20270106T010000Z
 DTEND:20270106T040000Z
 SUMMARY:Providence Friars @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nProvidence Friars @ Marquette Go
- lden Eagles\nFiserv Forum\, Milwaukee\, WI
+ lden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: Peacock (streaming)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920597@open-sports-cal
@@ -220,12 +244,14 @@ DTSTART:20270109T220000Z
 DTEND:20270110T010000Z
 SUMMARY:Marquette Golden Eagles @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ Villan
- ova Wildcats\nFinneran Pavilion\, Villanova\, PA
+ ova Wildcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: Peacock (stre
+ aming)
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920600@open-sports-cal
@@ -233,12 +259,13 @@ DTSTART:20270113T000000Z
 DTEND:20270113T030000Z
 SUMMARY:Marquette Golden Eagles @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ UConn 
- Huskies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ Huskies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: TNT
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920606@open-sports-cal
@@ -246,12 +273,13 @@ DTSTART:20270116T183000Z
 DTEND:20270116T213000Z
 SUMMARY:DePaul Blue Demons @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Marquette G
- olden Eagles\nFiserv Forum\, Milwaukee\, WI
+ olden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: TNT
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920612@open-sports-cal
@@ -259,12 +287,13 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Creighton Bluejays @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCreighton Bluejays @ Marquette G
- olden Eagles\nFiserv Forum\, Milwaukee\, WI
+ olden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: FS1
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920616@open-sports-cal
@@ -272,12 +301,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Marquette Golden Eagles @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ Xavier
-  Musketeers\nCintas Center\, Cincinnati\, OH
+  Musketeers\nCintas Center\, Cincinnati\, OH\nBroadcast: TNT
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920622@open-sports-cal
@@ -285,12 +315,13 @@ DTSTART:20270127T233000Z
 DTEND:20270128T023000Z
 SUMMARY:Marquette Golden Eagles @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ Seton 
- Hall Pirates\nPrudential Center\, Newark\, NJ
+ Hall Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: FS1
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920625@open-sports-cal
@@ -298,12 +329,13 @@ DTSTART:20270130T183000Z
 DTEND:20270130T213000Z
 SUMMARY:Butler Bulldogs @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nButler Bulldogs @ Marquette Gold
- en Eagles\nFiserv Forum\, Milwaukee\, WI
+ en Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: TNT
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920629@open-sports-cal
@@ -311,12 +343,13 @@ DTSTART:20270203T003000Z
 DTEND:20270203T033000Z
 SUMMARY:St. John's Red Storm @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. John's Red Storm @ Marquette
-  Golden Eagles\nFiserv Forum\, Milwaukee\, WI
+  Golden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: TNT
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920634@open-sports-cal
@@ -324,12 +357,13 @@ DTSTART:20270206T183000Z
 DTEND:20270206T213000Z
 SUMMARY:Georgetown Hoyas @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgetown Hoyas @ Marquette Gol
- den Eagles\nFiserv Forum\, Milwaukee\, WI
+ den Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: TNT
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920642@open-sports-cal
@@ -337,12 +371,14 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:Marquette Golden Eagles @ Providence Friars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ Provid
- ence Friars\nAmica Mutual Pavilion\, Providence\, RI
+ ence Friars\nAmica Mutual Pavilion\, Providence\, RI\nBroadcast: Peacock (
+ streaming)
 LOCATION:Amica Mutual Pavilion\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920651@open-sports-cal
@@ -350,12 +386,14 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:Marquette Golden Eagles @ St. John's Red Storm
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ St. Jo
- hn's Red Storm\nMadison Square Garden\, New York\, NY
+ hn's Red Storm\nMadison Square Garden\, New York\, NY\nBroadcast: Peacock 
+ (streaming)
 LOCATION:Madison Square Garden\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920655@open-sports-cal
@@ -363,12 +401,13 @@ DTSTART:20270220T193000Z
 DTEND:20270220T223000Z
 SUMMARY:UConn Huskies @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Marquette Golden
-  Eagles\nFiserv Forum\, Milwaukee\, WI
+  Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: Fox
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920660@open-sports-cal
@@ -376,12 +415,13 @@ DTSTART:20270224T020000Z
 DTEND:20270224T050000Z
 SUMMARY:Seton Hall Pirates @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Marquette G
- olden Eagles\nFiserv Forum\, Milwaukee\, WI
+ olden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: TNT
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920664@open-sports-cal
@@ -389,12 +429,13 @@ DTSTART:20270227T020000Z
 DTEND:20270227T050000Z
 SUMMARY:Villanova Wildcats @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Marquette G
- olden Eagles\nFiserv Forum\, Milwaukee\, WI
+ olden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: FS1
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920669@open-sports-cal
@@ -402,12 +443,13 @@ DTSTART:20270302T233000Z
 DTEND:20270303T023000Z
 SUMMARY:Marquette Golden Eagles @ Georgetown Hoyas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ George
- town Hoyas\nCapital One Arena\, Washington\, DC
+ town Hoyas\nCapital One Arena\, Washington\, DC\nBroadcast: FS1
 LOCATION:Capital One Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920677@open-sports-cal
@@ -415,11 +457,13 @@ DTSTART:20270307T000000Z
 DTEND:20270307T030000Z
 SUMMARY:Marquette Golden Eagles @ DePaul Blue Demons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ DePaul
-  Blue Demons\nWintrust Arena\, Chicago\, IL
+  Blue Demons\nWintrust Arena\, Chicago\, IL\nBroadcast: Peacock (streaming
+ )
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 END:VCALENDAR

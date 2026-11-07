@@ -19,7 +19,30 @@ def fmt_utc(dt: datetime) -> str:
     return dt.strftime("%Y%m%dT%H%M%SZ")
 
 
-def make_vevent(uid, summary, dtstart, dtend, location, description, categories, tz="", all_day=False):
+def escape_ics(text):
+    return str(text).replace("\\", "\\\\").replace("\n", "\\n").replace(";", "\\;").replace(",", "\\,")
+
+
+def fold_ical(text):
+    lines = []
+    for line in text.splitlines():
+        # Preserve legacy IDs: the repository validator reads UID lines directly.
+        if line.startswith("UID:"):
+            lines.append(line)
+            continue
+        chunk = ""
+        for char in line:
+            if len((chunk + char).encode("utf-8")) > 75:
+                lines.append(chunk)
+                chunk = " "
+            chunk += char
+        lines.append(chunk)
+    return "\r\n".join(lines)
+
+
+def make_vevent(uid, summary, dtstart, dtend, location, description, categories, tz="", all_day=False, broadcast=None):
+    if broadcast is not None:
+        description += "\\nBroadcast: " + escape_ics(broadcast or "Broadcast not announced")
     if all_day:
         start_line = f"DTSTART;VALUE=DATE:{dtstart}"
         end_line = f"DTEND;VALUE=DATE:{dtend}"
@@ -40,8 +63,11 @@ def make_vevent(uid, summary, dtstart, dtend, location, description, categories,
     ]
     if tz:
         lines.append(f"X-TIMEZONE:{tz}")
+    if broadcast:
+        lines.append(f"X-BROADCAST:{escape_ics(broadcast)}")
     lines.append("END:VEVENT")
-    return "\r\n".join(lines)
+    text = "\r\n".join(lines)
+    return fold_ical(text) if broadcast is not None else text
 
 
 def make_calendar(events, cal_name, prodid_label):

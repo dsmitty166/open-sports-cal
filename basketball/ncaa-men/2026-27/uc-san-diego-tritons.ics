@@ -12,12 +12,13 @@ DTSTART:20261103T030000Z
 DTEND:20261103T060000Z
 SUMMARY:Whittier Poets @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWhittier Poets @ UC San Diego Tr
- itons\nLionTree Arena\, San Diego\, CA
+ itons\nLionTree Arena\, San Diego\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920371@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261108T030000Z
 DTEND:20261108T060000Z
 SUMMARY:Fresno State Bulldogs @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFresno State Bulldogs @ UC San D
- iego Tritons\nLionTree Arena\, San Diego\, CA
+ iego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920372@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261114T030000Z
 DTEND:20261114T060000Z
 SUMMARY:UC San Diego Tritons @ Utah State Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ Utah Stat
- e Aggies\nDee Glen Smith Spectrum\, Logan\, UT
+ e Aggies\nDee Glen Smith Spectrum\, Logan\, UT\nBroadcast: CW
 LOCATION:Dee Glen Smith Spectrum\, Logan\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920373@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20261117T030000Z
 DTEND:20261117T060000Z
 SUMMARY:Texas Southern Tigers @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Southern Tigers @ UC San D
- iego Tritons\nLionTree Arena\, San Diego\, CA
+ iego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917542@open-sports-cal
@@ -64,11 +70,12 @@ DTSTART:20261123T023000Z
 DTEND:20261123T053000Z
 SUMMARY:Seattle U Redhawks @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ UC San Dieg
- o Tritons\nAcrisure Arena\, Palm Springs\, CA\nNeutral site
+ o Tritons\nAcrisure Arena\, Palm Springs\, CA\nNeutral site\nBroadcast: Br
+ oadcast not announced
 LOCATION:Acrisure Arena\, Palm Springs\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -77,12 +84,14 @@ DTSTART:20261129T030000Z
 DTEND:20261129T060000Z
 SUMMARY:Loyola Marymount Lions @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Marymount Lions @ UC San 
- Diego Tritons\nLionTree Arena\, San Diego\, CA
+ Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917377@open-sports-cal
@@ -90,12 +99,14 @@ DTSTART:20261204T033000Z
 DTEND:20261204T063000Z
 SUMMARY:California Baptist Lancers @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCalifornia Baptist Lancers @ UC 
- San Diego Tritons\nLionTree Arena\, San Diego\, CA
+ San Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917384@open-sports-cal
@@ -103,12 +114,13 @@ DTSTART:20261206T030000Z
 DTEND:20261206T060000Z
 SUMMARY:UC San Diego Tritons @ UC Irvine Anteaters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ UC Irvine
-  Anteaters\nBren Events Center\, Irvine\, CA
+  Anteaters\nBren Events Center\, Irvine\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Bren Events Center\, Irvine\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920374@open-sports-cal
@@ -116,12 +128,13 @@ DTSTART:20261213T020000Z
 DTEND:20261213T050000Z
 SUMMARY:Stanton Elks @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStanton Elks @ UC San Diego Trit
- ons\nLionTree Arena\, San Diego\, CA
+ ons\nLionTree Arena\, San Diego\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920375@open-sports-cal
@@ -129,11 +142,12 @@ DTSTART:20261216T010000Z
 DTEND:20261216T040000Z
 SUMMARY:UC San Diego Tritons @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ St. Thoma
- s Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ s Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Broadc
+ ast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -142,11 +156,12 @@ DTSTART:20261223T003000Z
 DTEND:20261223T033000Z
 SUMMARY:UC San Diego Tritons @ San José State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ San José
-  State Spartans\nProvident Credit Union Event Center\, San Jose\, CA
+  State Spartans\nProvident Credit Union Event Center\, San Jose\, CA\nBroa
+ dcast: Broadcast not announced
 LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +170,14 @@ DTSTART:20261231T220000Z
 DTEND:20270101T010000Z
 SUMMARY:UC San Diego Tritons @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ Cal State
-  Fullerton Titans\nTitan Gym\, Fullerton\, CA
+  Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917396@open-sports-cal
@@ -168,11 +185,12 @@ DTSTART:20270103T020000Z
 DTEND:20270103T050000Z
 SUMMARY:UC San Diego Tritons @ Long Beach State Beach
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ Long Beac
- h State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+ h State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA\nBroad
+ cast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -181,11 +199,12 @@ DTSTART:20270108T030000Z
 DTEND:20270108T060000Z
 SUMMARY:Utah Valley Wolverines @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUtah Valley Wolverines @ UC San 
- Diego Tritons\nLionTree Arena\, San Diego\, CA
+ Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +213,12 @@ DTSTART:20270110T030000Z
 DTEND:20270110T060000Z
 SUMMARY:Sacramento State Hornets @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSacramento State Hornets @ UC Sa
- n Diego Tritons\nLionTree Arena\, San Diego\, CA
+ n Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: Broadcast not
+  announced
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +227,12 @@ DTSTART:20270115T030000Z
 DTEND:20270115T060000Z
 SUMMARY:UC San Diego Tritons @ UC Riverside Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ UC Rivers
- ide Highlanders\nSRC Arena\, Riverside\, CA
+ ide Highlanders\nSRC Arena\, Riverside\, CA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:SRC Arena\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -221,11 +242,11 @@ DTEND:20270117T060000Z
 SUMMARY:UC San Diego Tritons @ California Baptist Lancers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ Californi
  a Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Riverside\
- , CA
+ , CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -234,11 +255,12 @@ DTSTART:20270122T030000Z
 DTEND:20270122T060000Z
 SUMMARY:Long Beach State Beach @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Beach State Beach @ UC San 
- Diego Tritons\nLionTree Arena\, San Diego\, CA
+ Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +269,12 @@ DTSTART:20270124T020000Z
 DTEND:20270124T050000Z
 SUMMARY:Cal State Fullerton Titans @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Fullerton Titans @ UC 
- San Diego Tritons\nLionTree Arena\, San Diego\, CA
+ San Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +283,12 @@ DTSTART:20270129T020000Z
 DTEND:20270129T050000Z
 SUMMARY:UC San Diego Tritons @ UC Santa Barbara Gauchos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ UC Santa 
- Barbara Gauchos\nThe Thunderdome\, Santa Barbara\, CA
+ Barbara Gauchos\nThe Thunderdome\, Santa Barbara\, CA\nBroadcast: Broadcas
+ t not announced
 LOCATION:The Thunderdome\, Santa Barbara\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +297,12 @@ DTSTART:20270131T000000Z
 DTEND:20270131T030000Z
 SUMMARY:UC San Diego Tritons @ Cal Poly Mustangs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ Cal Poly 
- Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+ Mustangs\nMott Athletics Center\, San Luis Obispo\, CA\nBroadcast: Broadca
+ st not announced
 LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +311,12 @@ DTSTART:20270205T030000Z
 DTEND:20270205T060000Z
 SUMMARY:Cal State Northridge Matadors @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Northridge Matadors @ 
- UC San Diego Tritons\nLionTree Arena\, San Diego\, CA
+ UC San Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: Broadcas
+ t not announced
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +325,12 @@ DTSTART:20270207T020000Z
 DTEND:20270207T050000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal State Bakersfield Roadrunner
- s @ UC San Diego Tritons\nLionTree Arena\, San Diego\, CA
+ s @ UC San Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: Broa
+ dcast not announced
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +339,12 @@ DTSTART:20270212T030000Z
 DTEND:20270212T060000Z
 SUMMARY:UC San Diego Tritons @ Sacramento State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ Sacrament
- o State Hornets\nHornet Pavilion\, Sacramento\, CA
+ o State Hornets\nHornet Pavilion\, Sacramento\, CA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Hornet Pavilion\, Sacramento\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +353,11 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:UC San Diego Tritons @ Utah Valley Wolverines
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ Utah Vall
- ey Wolverines\nUCCU Center\, Orem\, UT
+ ey Wolverines\nUCCU Center\, Orem\, UT\nBroadcast: Broadcast not announced
 LOCATION:UCCU Center\, Orem\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +366,12 @@ DTSTART:20270219T030000Z
 DTEND:20270219T060000Z
 SUMMARY:UC Riverside Highlanders @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Riverside Highlanders @ UC Sa
- n Diego Tritons\nLionTree Arena\, San Diego\, CA
+ n Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: Broadcast not
+  announced
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +380,12 @@ DTSTART:20270221T020000Z
 DTEND:20270221T050000Z
 SUMMARY:UC Irvine Anteaters @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Irvine Anteaters @ UC San Die
- go Tritons\nLionTree Arena\, San Diego\, CA
+ go Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +394,12 @@ DTSTART:20270226T030000Z
 DTEND:20270226T060000Z
 SUMMARY:Cal Poly Mustangs @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCal Poly Mustangs @ UC San Diego
-  Tritons\nLionTree Arena\, San Diego\, CA
+  Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +408,12 @@ DTSTART:20270228T020000Z
 DTEND:20270228T050000Z
 SUMMARY:UC Santa Barbara Gauchos @ UC San Diego Tritons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Santa Barbara Gauchos @ UC Sa
- n Diego Tritons\nLionTree Arena\, San Diego\, CA
+ n Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: Broadcast not
+  announced
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +422,12 @@ DTSTART:20270305T023000Z
 DTEND:20270305T053000Z
 SUMMARY:UC San Diego Tritons @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ Cal State
-  Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+  Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -404,10 +437,11 @@ DTEND:20270307T040000Z
 SUMMARY:UC San Diego Tritons @ Cal State Northridge Matadors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC San Diego Tritons @ Cal State
   Northridge Matadors\nPremier America Credit Union Arena\, Northridge\, CA
+ \nBroadcast: Broadcast not announced
 LOCATION:Premier America Credit Union Arena\, Northridge\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

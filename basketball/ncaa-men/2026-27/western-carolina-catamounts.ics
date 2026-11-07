@@ -12,12 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Western Carolina Catamounts @ North Carolina Tar Heels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ No
- rth Carolina Tar Heels\nDean E. Smith Center\, Chapel Hill\, NC
+ rth Carolina Tar Heels\nDean E. Smith Center\, Chapel Hill\, NC\nBroadcast
+ : ACC Network
 LOCATION:Dean E. Smith Center\, Chapel Hill\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922291@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T223000Z
 DTEND:20261108T013000Z
 SUMMARY:Western Carolina Catamounts @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ UN
- C Asheville Bulldogs\nKimmel Arena\, Asheville\, NC
+ C Asheville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926206@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:Virginia Lynchburg Dragons @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Lynchburg Dragons @ Wes
- tern Carolina Catamounts\nRamsey Center\, Cullowhee\, NC
+ tern Carolina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920705@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:Lipscomb Bisons @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLipscomb Bisons @ Western Caroli
- na Catamounts\nRamsey Center\, Cullowhee\, NC
+ na Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902279@open-sports-cal
@@ -64,12 +72,14 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Western Carolina Catamounts @ Butler Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Bu
- tler Bulldogs\nHinkle Fieldhouse\, Indianapolis\, IN
+ tler Bulldogs\nHinkle Fieldhouse\, Indianapolis\, IN\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909730@open-sports-cal
@@ -77,12 +87,14 @@ DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
 SUMMARY:Western Carolina Catamounts @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Wa
- ke Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ ke Forest Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: AC
+ CNX (streaming)
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926207@open-sports-cal
@@ -90,12 +102,14 @@ DTSTART:20261125T190000Z
 DTEND:20261125T220000Z
 SUMMARY:Montreat Cavaliers @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMontreat Cavaliers @ Western Car
- olina Catamounts\nRamsey Center\, Cullowhee\, NC
+ olina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925821@open-sports-cal
@@ -103,12 +117,13 @@ DTSTART:20261129T200000Z
 DTEND:20261129T230000Z
 SUMMARY:Western Carolina Catamounts @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Ch
- arlotte 49ers\nHalton Arena\, Charlotte\, NC
+ arlotte 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926208@open-sports-cal
@@ -116,12 +131,13 @@ DTSTART:20261202T230000Z
 DTEND:20261203T020000Z
 SUMMARY:Piedmont Lions @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPiedmont Lions @ Western Carolin
- a Catamounts\nRamsey Center\, Cullowhee\, NC
+ a Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911820@open-sports-cal
@@ -129,12 +145,14 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:The Citadel Bulldogs @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nThe Citadel Bulldogs @ Western C
- arolina Catamounts\nRamsey Center\, Cullowhee\, NC
+ arolina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926209@open-sports-cal
@@ -142,12 +160,14 @@ DTSTART:20261207T160000Z
 DTEND:20261207T190000Z
 SUMMARY:Southern Virginia Knights @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Virginia Knights @ West
- ern Carolina Catamounts\nRamsey Center\, Cullowhee\, NC
+ ern Carolina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920432@open-sports-cal
@@ -155,12 +175,14 @@ DTSTART:20261213T170000Z
 DTEND:20261213T200000Z
 SUMMARY:Western Carolina Catamounts @ Virginia Cavaliers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Vi
- rginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ rginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast:
+  CW
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911827@open-sports-cal
@@ -168,12 +190,14 @@ DTSTART:20261219T210000Z
 DTEND:20261220T000000Z
 SUMMARY:Western Carolina Catamounts @ Furman Paladins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Fu
- rman Paladins\nTimmons Arena\, Greenville\, SC
+ rman Paladins\nTimmons Arena\, Greenville\, SC\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Timmons Arena\, Greenville\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911833@open-sports-cal
@@ -181,12 +205,14 @@ DTSTART:20261222T230000Z
 DTEND:20261223T020000Z
 SUMMARY:Western Carolina Catamounts @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Wo
- fford Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ fford Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911837@open-sports-cal
@@ -194,12 +220,14 @@ DTSTART:20261230T180000Z
 DTEND:20261230T210000Z
 SUMMARY:Chattanooga Mocs @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChattanooga Mocs @ Western Carol
- ina Catamounts\nRamsey Center\, Cullowhee\, NC
+ ina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911843@open-sports-cal
@@ -207,11 +235,12 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:VMI Keydets @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Western Carolina C
- atamounts\nRamsey Center\, Cullowhee\, NC
+ atamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +249,11 @@ DTSTART:20270106T230000Z
 DTEND:20270107T020000Z
 SUMMARY:Western Carolina Catamounts @ Mercer Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Me
- rcer Bears\nHawkins Arena\, Macon\, GA
+ rcer Bears\nHawkins Arena\, Macon\, GA\nBroadcast: Broadcast not announced
 LOCATION:Hawkins Arena\, Macon\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +262,12 @@ DTSTART:20270109T210000Z
 DTEND:20270110T000000Z
 SUMMARY:Western Carolina Catamounts @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Ea
- st Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ st Tennessee State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroa
+ dcast: Broadcast not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +276,12 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Western Carolina Catamounts @ UNC Greensboro Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ UN
- C Greensboro Spartans\nBodford Arena\, Greensboro\, NC
+ C Greensboro Spartans\nBodford Arena\, Greensboro\, NC\nBroadcast: Broadca
+ st not announced
 LOCATION:Bodford Arena\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +290,12 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Samford Bulldogs @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSamford Bulldogs @ Western Carol
- ina Catamounts\nRamsey Center\, Cullowhee\, NC
+ ina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +304,12 @@ DTSTART:20270118T230000Z
 DTEND:20270119T020000Z
 SUMMARY:Mercer Bears @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercer Bears @ Western Carolina 
- Catamounts\nRamsey Center\, Cullowhee\, NC
+ Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +318,12 @@ DTSTART:20270122T003000Z
 DTEND:20270122T033000Z
 SUMMARY:Western Carolina Catamounts @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Te
- nnessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ nnessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadca
+ st: Broadcast not announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +332,12 @@ DTSTART:20270123T213000Z
 DTEND:20270124T003000Z
 SUMMARY:Western Carolina Catamounts @ Chattanooga Mocs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Ch
- attanooga Mocs\nMcKenzie Arena\, Chattanooga\, TN
+ attanooga Mocs\nMcKenzie Arena\, Chattanooga\, TN\nBroadcast: Broadcast no
+ t announced
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +346,12 @@ DTSTART:20270127T230000Z
 DTEND:20270128T020000Z
 SUMMARY:Wofford Terriers @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ Western Carol
- ina Catamounts\nRamsey Center\, Cullowhee\, NC
+ ina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +360,12 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ W
- estern Carolina Catamounts\nRamsey Center\, Cullowhee\, NC
+ estern Carolina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: Bro
+ adcast not announced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +374,12 @@ DTSTART:20270207T210000Z
 DTEND:20270208T000000Z
 SUMMARY:Western Carolina Catamounts @ Samford Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Sa
- mford Bulldogs\nPete Hanna Center\, Homewood\, AL
+ mford Bulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: Broadcast no
+ t announced
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +388,12 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:Western Carolina Catamounts @ The Citadel Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Th
- e Citadel Bulldogs\nMcAlister Field House\, Charleston\, SC
+ e Citadel Bulldogs\nMcAlister Field House\, Charleston\, SC\nBroadcast: Br
+ oadcast not announced
 LOCATION:McAlister Field House\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +402,12 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Furman Paladins @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFurman Paladins @ Western Caroli
- na Catamounts\nRamsey Center\, Cullowhee\, NC
+ na Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +416,12 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:East Tennessee State Buccaneers @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Western Carolina Catamounts\nRamsey Center\, Cullowhee\, NC
+ @ Western Carolina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: 
+ Broadcast not announced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +430,12 @@ DTSTART:20270220T203000Z
 DTEND:20270220T233000Z
 SUMMARY:UNC Greensboro Spartans @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Wester
- n Carolina Catamounts\nRamsey Center\, Cullowhee\, NC
+ n Carolina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: Broadcas
+ t not announced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +444,12 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Western Carolina Catamounts @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ VM
- I Keydets\nCameron Hall\, Lexington\, VA
+ I Keydets\nCameron Hall\, Lexington\, VA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

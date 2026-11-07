@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Air Force Falcons @ Wright State Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ Wright State
-  Raiders\nNutter Center\, Dayton\, OH
+  Raiders\nNutter Center\, Dayton\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Nutter Center\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911334@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261106T013000Z
 DTEND:20261106T043000Z
 SUMMARY:Calumet St. Joseph Crimson Wave @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCalumet St. Joseph Crimson Wave 
- @ Air Force Falcons\nClune Arena\, Colorado Springs\, CO
+ @ Air Force Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: MW+ (
+ streaming)
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911335@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261108T200000Z
 DTEND:20261108T230000Z
 SUMMARY:Idaho State Bengals @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Air Force 
- Falcons\nClune Arena\, Colorado Springs\, CO
+ Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: MW+ (streaming)
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911230@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20261111T200000Z
 DTEND:20261111T230000Z
 SUMMARY:Loyola Chicago Ramblers @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Chicago Ramblers @ Air Fo
- rce Falcons\nClune Arena\, Colorado Springs\, CO
+ rce Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: MW+ (streamin
+ g)
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917529@open-sports-cal
@@ -64,11 +70,13 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Air Force Falcons @ Pacific Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ Pacific Tige
- rs\nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD
+ rs\nAlex G. Spanos Center\, Stockton\, CA\nStart time TBD\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911337@open-sports-cal
@@ -76,12 +84,14 @@ DTSTART:20261121T220000Z
 DTEND:20261122T010000Z
 SUMMARY:Air Force Falcons @ UTSA Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ UTSA Roadrun
- ners\nUTSA Convocation Center\, San Antonio\, TX
+ ners\nUTSA Convocation Center\, San Antonio\, TX\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:UTSA Convocation Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911338@open-sports-cal
@@ -89,11 +99,12 @@ DTSTART:20261124T210000Z
 DTEND:20261125T000000Z
 SUMMARY:Air Force Falcons @ Army Black Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ Army Black K
- nights\nUTSA Convocation Center\, San Antonio\, TX\nNeutral site
+ nights\nUTSA Convocation Center\, San Antonio\, TX\nNeutral site\nBroadcas
+ t: Broadcast not announced
 LOCATION:UTSA Convocation Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -102,11 +113,11 @@ DTSTART:20261128T200000Z
 DTEND:20261128T230000Z
 SUMMARY:Brown Bears @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Air Force Falcons\
- nClune Arena\, Colorado Springs\, CO
+ nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -115,11 +126,12 @@ DTSTART:20261202T020000Z
 DTEND:20261202T050000Z
 SUMMARY:Denver Pioneers @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDenver Pioneers @ Air Force Falc
- ons\nClune Arena\, Colorado Springs\, CO
+ ons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -128,11 +140,12 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Navy Midshipmen @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNavy Midshipmen @ Air Force Falc
- ons\nClune Arena\, Colorado Springs\, CO
+ ons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -141,12 +154,13 @@ DTSTART:20261211T010000Z
 DTEND:20261211T040000Z
 SUMMARY:Air Force Falcons @ Austin Peay Governors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ Austin Peay 
- Governors\nF&M Bank Arena\, Clarksville\, TN
+ Governors\nF&M Bank Arena\, Clarksville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:F&M Bank Arena\, Clarksville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911342@open-sports-cal
@@ -154,11 +168,12 @@ DTSTART:20261219T013000Z
 DTEND:20261219T043000Z
 SUMMARY:Alabama State Hornets @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama State Hornets @ Air Forc
- e Falcons\nClune Arena\, Colorado Springs\, CO
+ e Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -167,11 +182,12 @@ DTSTART:20261221T200000Z
 DTEND:20261221T230000Z
 SUMMARY:Eastern Kentucky Colonels @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Kentucky Colonels @ Air 
- Force Falcons\nClune Arena\, Colorado Springs\, CO
+ Force Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +196,13 @@ DTSTART:20261230T030000Z
 DTEND:20261230T060000Z
 SUMMARY:Air Force Falcons @ Utah Utes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ Utah Utes\nJ
- on M. Huntsman Center\, Salt Lake City\, UT
+ on M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: ESPN2
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911480@open-sports-cal
@@ -193,11 +210,12 @@ DTSTART:20270106T013000Z
 DTEND:20270106T043000Z
 SUMMARY:San José State Spartans @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSan José State Spartans @ Air F
- orce Falcons\nClune Arena\, Colorado Springs\, CO
+ orce Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast no
+ t announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -206,11 +224,11 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:UTEP Miners @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUTEP Miners @ Air Force Falcons\
- nClune Arena\, Colorado Springs\, CO
+ nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -219,11 +237,12 @@ DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Air Force Falcons @ Hawai'i Rainbow Warriors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ Hawai'i Rain
- bow Warriors\nStan Sheriff Center\, Honolulu\, HI\nStart time TBD
+ bow Warriors\nStan Sheriff Center\, Honolulu\, HI\nStart time TBD\nBroadca
+ st: Broadcast not announced
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924886@open-sports-cal
@@ -231,11 +250,12 @@ DTSTART:20270116T213000Z
 DTEND:20270117T003000Z
 SUMMARY:New Mexico Lobos @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Mexico Lobos @ Air Force Fal
- cons\nClune Arena\, Colorado Springs\, CO
+ cons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -244,11 +264,11 @@ DTSTART:20270120T030000Z
 DTEND:20270120T060000Z
 SUMMARY:Air Force Falcons @ Nevada Wolf Pack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ Nevada Wolf 
- Pack\nLawlor Events Center\, Reno\, NV
+ Pack\nLawlor Events Center\, Reno\, NV\nBroadcast: Broadcast not announced
 LOCATION:Lawlor Events Center\, Reno\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -257,11 +277,12 @@ DTSTART:20270123T040000Z
 DTEND:20270123T070000Z
 SUMMARY:Wyoming Cowboys @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWyoming Cowboys @ Air Force Falc
- ons\nClune Arena\, Colorado Springs\, CO
+ ons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -270,11 +291,12 @@ DTSTART:20270127T033000Z
 DTEND:20270127T063000Z
 SUMMARY:Air Force Falcons @ Grand Canyon Lopes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ Grand Canyon
-  Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+  Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast not
+  announced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -283,11 +305,11 @@ DTSTART:20270131T013000Z
 DTEND:20270131T043000Z
 SUMMARY:Air Force Falcons @ New Mexico Lobos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ New Mexico L
- obos\nThe Pit\, Albuquerque\, NM
+ obos\nThe Pit\, Albuquerque\, NM\nBroadcast: Broadcast not announced
 LOCATION:The Pit\, Albuquerque\, NM
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -296,11 +318,12 @@ DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:UNLV Rebels @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNLV Rebels @ Air Force Falcons\
- nClune Arena\, Colorado Springs\, CO\nStart time TBD
+ nClune Arena\, Colorado Springs\, CO\nStart time TBD\nBroadcast: Broadcast
+  not announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924890@open-sports-cal
@@ -308,11 +331,12 @@ DTSTART:20270207T000000Z
 DTEND:20270207T030000Z
 SUMMARY:Air Force Falcons @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ UC Davis Agg
- ies\nUniversity Credit Union Center\, Davis\, CA
+ ies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast not
+  announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -321,11 +345,12 @@ DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Hawai'i Rainbow Warriors @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHawai'i Rainbow Warriors @ Air F
- orce Falcons\nClune Arena\, Colorado Springs\, CO\nStart time TBD
+ orce Falcons\nClune Arena\, Colorado Springs\, CO\nStart time TBD\nBroadca
+ st: Broadcast not announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911488@open-sports-cal
@@ -334,11 +359,11 @@ DTEND;VALUE=DATE:20270214
 SUMMARY:Air Force Falcons @ San José State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ San José St
  ate Spartans\nProvident Credit Union Event Center\, San Jose\, CA\nStart t
- ime TBD
+ ime TBD\nBroadcast: Broadcast not announced
 LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911407@open-sports-cal
@@ -346,11 +371,12 @@ DTSTART:20270217T030000Z
 DTEND:20270217T060000Z
 SUMMARY:Grand Canyon Lopes @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ Air Force F
- alcons\nClune Arena\, Colorado Springs\, CO
+ alcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -359,11 +385,12 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:UC Davis Aggies @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUC Davis Aggies @ Air Force Falc
- ons\nClune Arena\, Colorado Springs\, CO
+ ons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -372,11 +399,11 @@ DTSTART:20270225T033000Z
 DTEND:20270225T063000Z
 SUMMARY:Air Force Falcons @ UNLV Rebels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ UNLV Rebels\
- nThomas & Mack Center\, Las Vegas\, NV
+ nThomas & Mack Center\, Las Vegas\, NV\nBroadcast: Broadcast not announced
 LOCATION:Thomas & Mack Center\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -385,11 +412,11 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Air Force Falcons @ Wyoming Cowboys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ Wyoming Cowb
- oys\nArena-Auditorium\, Laramie\, WY
+ oys\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -398,11 +425,12 @@ DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:Nevada Wolf Pack @ Air Force Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNevada Wolf Pack @ Air Force Fal
- cons\nClune Arena\, Colorado Springs\, CO\nStart time TBD
+ cons\nClune Arena\, Colorado Springs\, CO\nStart time TBD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911546@open-sports-cal
@@ -410,11 +438,11 @@ DTSTART:20270306T210000Z
 DTEND:20270307T000000Z
 SUMMARY:Air Force Falcons @ UTEP Miners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAir Force Falcons @ UTEP Miners\
- nDon Haskins Center\, El Paso\, TX
+ nDon Haskins Center\, El Paso\, TX\nBroadcast: Broadcast not announced
 LOCATION:Don Haskins Center\, El Paso\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:UNC Asheville Bulldogs @ Richmond Spiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Richmon
- d Spiders\nRobins Center\, Richmond\, VA
+ d Spiders\nRobins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922290@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261105T000000Z
 DTEND:20261105T030000Z
 SUMMARY:Erskine Flying Fleet @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nErskine Flying Fleet @ UNC Ashev
- ille Bulldogs\nKimmel Arena\, Asheville\, NC
+ ille Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922291@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20261107T223000Z
 DTEND:20261108T013000Z
 SUMMARY:Western Carolina Catamounts @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ UN
- C Asheville Bulldogs\nKimmel Arena\, Asheville\, NC
+ C Asheville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917901@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:UNC Asheville Bulldogs @ West Georgia Wolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ West Ge
- orgia Wolves\nThe Coliseum\, Carrollton\, GA
+ orgia Wolves\nThe Coliseum\, Carrollton\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:The Coliseum\, Carrollton\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920307@open-sports-cal
@@ -64,12 +69,14 @@ DTSTART:20261114T210000Z
 DTEND:20261115T000000Z
 SUMMARY:UNC Asheville Bulldogs @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Georgia
-  Tech Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+  Tech Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA\nBroadcast: ACCNX (
+ streaming)
 LOCATION:McCamish Pavilion\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922292@open-sports-cal
@@ -77,12 +84,14 @@ DTSTART:20261118T233000Z
 DTEND:20261119T023000Z
 SUMMARY:Tennessee Tech Golden Eagles @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ U
- NC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC
+ NC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922293@open-sports-cal
@@ -90,12 +99,13 @@ DTSTART:20261122T220000Z
 DTEND:20261123T010000Z
 SUMMARY:UNC Asheville Bulldogs @ Samford Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Samford
-  Bulldogs\nPete Hanna Center\, Homewood\, AL
+  Bulldogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909699@open-sports-cal
@@ -103,12 +113,13 @@ DTSTART:20261125T020000Z
 DTEND:20261125T050000Z
 SUMMARY:UNC Asheville Bulldogs @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Florida
-  State Seminoles\nTucker Center\, Tallahassee\, FL
+  State Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ACC Network
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921031@open-sports-cal
@@ -116,12 +127,14 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:Georgia Southern Eagles @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ UNC As
- heville Bulldogs\nKimmel Arena\, Asheville\, NC
+ heville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920710@open-sports-cal
@@ -129,12 +142,13 @@ DTSTART:20261203T010000Z
 DTEND:20261203T040000Z
 SUMMARY:UNC Asheville Bulldogs @ Lipscomb Bisons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Lipscom
- b Bisons\nAllen Arena\, Nashville\, TN
+ b Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922294@open-sports-cal
@@ -142,12 +156,13 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Alice Lloyd Eagles @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlice Lloyd Eagles @ UNC Ashevil
- le Bulldogs\nKimmel Arena\, Asheville\, NC
+ le Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920852@open-sports-cal
@@ -155,11 +170,12 @@ DTSTART:20261211T010000Z
 DTEND:20261211T040000Z
 SUMMARY:UNC Asheville Bulldogs @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ St. Tho
- mas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+ mas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadcast: Broa
+ dcast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +184,14 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:UNC Asheville Bulldogs @ Queens University Royals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Queens 
- University Royals\nCurry Arena\, Charlotte\, NC
+ University Royals\nCurry Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Curry Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920969@open-sports-cal
@@ -181,12 +199,14 @@ DTSTART:20261219T213000Z
 DTEND:20261220T003000Z
 SUMMARY:Morehead State Eagles @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorehead State Eagles @ UNC Ashe
- ville Bulldogs\nKimmel Arena\, Asheville\, NC
+ ville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919027@open-sports-cal
@@ -194,12 +214,13 @@ DTSTART:20261221T200000Z
 DTEND:20261221T230000Z
 SUMMARY:UNC Asheville Bulldogs @ UAB Blazers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ UAB Bla
- zers\nBartow Arena\, Birmingham\, AL
+ zers\nBartow Arena\, Birmingham\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Bartow Arena\, Birmingham\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922295@open-sports-cal
@@ -207,11 +228,12 @@ DTSTART:20261229T190000Z
 DTEND:20261229T220000Z
 SUMMARY:Spartanburg Methodist Pioneers @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSpartanburg Methodist Pioneers @
-  UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC
+  UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broadca
+ st not announced
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +242,12 @@ DTSTART:20270101T190000Z
 DTEND:20270101T220000Z
 SUMMARY:UNC Asheville Bulldogs @ South Carolina Upstate Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ South C
- arolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC
+ arolina Upstate Spartans\nG.B. Hodge Center\, Spartanburg\, SC\nBroadcast:
+  Broadcast not announced
 LOCATION:G.B. Hodge Center\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +256,12 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:Winthrop Eagles @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWinthrop Eagles @ UNC Asheville 
- Bulldogs\nKimmel Arena\, Asheville\, NC
+ Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broadcast not announce
+ d
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +270,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Charleston Southern Buccaneers @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Southern Buccaneers @
-  UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC
+  UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broadca
+ st not announced
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +284,12 @@ DTSTART:20270113T233000Z
 DTEND:20270114T023000Z
 SUMMARY:Longwood Lancers @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLongwood Lancers @ UNC Asheville
-  Bulldogs\nKimmel Arena\, Asheville\, NC
+  Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +298,12 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:UNC Asheville Bulldogs @ Gardner-Webb Runnin' Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Gardner
- -Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC
+ -Webb Runnin' Bulldogs\nPaul Porter Arena\, Boiling Springs\, NC\nBroadcas
+ t: Broadcast not announced
 LOCATION:Paul Porter Arena\, Boiling Springs\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +312,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:UNC Asheville Bulldogs @ Radford Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Radford
-  Highlanders\nThe Dedmon Center\, Radford\, VA
+  Highlanders\nThe Dedmon Center\, Radford\, VA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:The Dedmon Center\, Radford\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +326,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Presbyterian Blue Hose @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPresbyterian Blue Hose @ UNC Ash
- eville Bulldogs\nKimmel Arena\, Asheville\, NC
+ eville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +340,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:UNC Asheville Bulldogs @ High Point Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ High Po
- int Panthers\nQubein Center\, High Point\, NC
+ int Panthers\nQubein Center\, High Point\, NC\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Qubein Center\, High Point\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +354,12 @@ DTSTART:20270203T233000Z
 DTEND:20270204T023000Z
 SUMMARY:Radford Highlanders @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ UNC Ashevi
- lle Bulldogs\nKimmel Arena\, Asheville\, NC
+ lle Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +368,12 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:UNC Asheville Bulldogs @ Winthrop Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Winthro
- p Eagles\nWinthrop Coliseum\, Rock Hill\, SC
+ p Eagles\nWinthrop Coliseum\, Rock Hill\, SC\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Winthrop Coliseum\, Rock Hill\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +382,12 @@ DTSTART:20270211T233000Z
 DTEND:20270212T023000Z
 SUMMARY:High Point Panthers @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHigh Point Panthers @ UNC Ashevi
- lle Bulldogs\nKimmel Arena\, Asheville\, NC
+ lle Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +396,12 @@ DTSTART:20270213T200000Z
 DTEND:20270213T230000Z
 SUMMARY:UNC Asheville Bulldogs @ Longwood Lancers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Longwoo
- d Lancers\nJoan Perry Brock Center\, Farmville\, VA
+ d Lancers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +410,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:UNC Asheville Bulldogs @ Presbyterian Blue Hose
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Presbyt
- erian Blue Hose\nTempleton Center\, Clinton\, SC
+ erian Blue Hose\nTempleton Center\, Clinton\, SC\nBroadcast: Broadcast not
+  announced
 LOCATION:Templeton Center\, Clinton\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +424,12 @@ DTSTART:20270220T213000Z
 DTEND:20270221T003000Z
 SUMMARY:South Carolina Upstate Spartans @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Upstate Spartans 
- @ UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC
+ @ UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broadc
+ ast not announced
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +438,12 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:UNC Asheville Bulldogs @ Charleston Southern Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Asheville Bulldogs @ Charles
- ton Southern Buccaneers\nBuccaneer Fieldhouse\, Charleston\, SC
+ ton Southern Buccaneers\nBuccaneer Fieldhouse\, Charleston\, SC\nBroadcast
+ : Broadcast not announced
 LOCATION:Buccaneer Fieldhouse\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +452,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ UNC Asheville Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC
+ UNC Asheville Bulldogs\nKimmel Arena\, Asheville\, NC\nBroadcast: Broadcas
+ t not announced
 LOCATION:Kimmel Arena\, Asheville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

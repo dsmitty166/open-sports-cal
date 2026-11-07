@@ -12,13 +12,15 @@ DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Canisius Golden Griffins @ New Hampshire Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ New
-  Hampshire Wildcats\nLundholm Gymnasium\, Durham\, NH
+  Hampshire Wildcats\nLundholm Gymnasium\, Durham\, NH\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Lundholm Gymnasium\, Durham\, NH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913812@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261108T170000Z
 DTEND:20261108T200000Z
 SUMMARY:UMass Lowell River Hawks @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUMass Lowell River Hawks @ Can
- isius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ isius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914491@open-sports-cal
@@ -40,13 +44,14 @@ DTSTART:20261113T220000Z
 DTEND:20261114T010000Z
 SUMMARY:Canisius Golden Griffins @ Cornell Big Red
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Cor
- nell Big Red\nNewman Arena\, Ithaca\, NY
+ nell Big Red\nNewman Arena\, Ithaca\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Newman Arena\, Ithaca\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915595@open-sports-cal
@@ -54,13 +59,14 @@ DTSTART:20261116T000000Z
 DTEND:20261116T030000Z
 SUMMARY:Canisius Golden Griffins @ Syracuse Orange
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Syr
- acuse Orange\nJMA Wireless Dome\, Syracuse\, NY
+ acuse Orange\nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: ACC Network
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913749@open-sports-cal
@@ -68,13 +74,15 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Canisius Golden Griffins @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Pit
- tsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ tsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACC
+ NX (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915596@open-sports-cal
@@ -82,13 +90,15 @@ DTSTART:20261123T230000Z
 DTEND:20261124T020000Z
 SUMMARY:Canisius Golden Griffins @ Duquesne Dukes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Duq
- uesne Dukes\nUPMC Cooper Fieldhouse\, Pittsburgh\, PA
+ uesne Dukes\nUPMC Cooper Fieldhouse\, Pittsburgh\, PA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:UPMC Cooper Fieldhouse\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915597@open-sports-cal
@@ -96,12 +106,13 @@ DTSTART:20261125T180000Z
 DTEND:20261125T210000Z
 SUMMARY:Canisius Golden Griffins @ Mercyhurst Lakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Mer
- cyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ cyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadca
+ st not announced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,13 +121,15 @@ DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:St. Bonaventure Bonnies @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. Bonaventure Bonnies @ Cani
- sius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ sius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915598@open-sports-cal
@@ -124,13 +137,15 @@ DTSTART:20261202T230000Z
 DTEND:20261203T020000Z
 SUMMARY:Buffalo Bulls @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBuffalo Bulls @ Canisius Golde
- n Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ n Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915599@open-sports-cal
@@ -138,13 +153,15 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Canisius Golden Griffins @ Eastern Michigan Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Eas
- tern Michigan Eagles\nGervin GameAbove Center\, Ypsilanti\, MI
+ tern Michigan Eagles\nGervin GameAbove Center\, Ypsilanti\, MI\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915600@open-sports-cal
@@ -152,12 +169,13 @@ DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Canisius Golden Griffins @ Ohio State Buckeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Ohi
- o State Buckeyes\nSchottenstein Center\, Columbus\, OH
+ o State Buckeyes\nSchottenstein Center\, Columbus\, OH\nBroadcast: Broadca
+ st not announced
 LOCATION:Schottenstein Center\, Columbus\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -166,13 +184,15 @@ DTSTART:20261215T160000Z
 DTEND:20261215T190000Z
 SUMMARY:Canisius Golden Griffins @ Wright State Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Wri
- ght State Raiders\nNutter Center\, Dayton\, OH
+ ght State Raiders\nNutter Center\, Dayton\, OH\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Nutter Center\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915602@open-sports-cal
@@ -180,13 +200,15 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Canisius Golden Griffins @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Rid
- er Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ er Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915603@open-sports-cal
@@ -194,13 +216,15 @@ DTSTART:20261221T180000Z
 DTEND:20261221T210000Z
 SUMMARY:Canisius Golden Griffins @ Mount St. Mary's Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Mou
- nt St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD
+ nt St. Mary's Mountaineers\nKnott Arena\, Emmitsburg\, MD\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Knott Arena\, Emmitsburg\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915604@open-sports-cal
@@ -208,12 +232,13 @@ DTSTART:20270101T180000Z
 DTEND:20270101T210000Z
 SUMMARY:Marist Red Foxes @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarist Red Foxes @ Canisius Go
- lden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ lden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: Broadca
+ st not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +247,13 @@ DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:Sacred Heart Pioneers @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Canisi
- us Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ us Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +262,13 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:Canisius Golden Griffins @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Sai
- nt Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ
+ nt Peter's Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: Broad
+ cast not announced
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +277,13 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:Canisius Golden Griffins @ Iona Gaels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Ion
- a Gaels\nHynes Athletics Center\, New Rochelle\, NY
+ a Gaels\nHynes Athletics Center\, New Rochelle\, NY\nBroadcast: Broadcast 
+ not announced
 LOCATION:Hynes Athletics Center\, New Rochelle\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +292,13 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Merrimack Warriors @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMerrimack Warriors @ Canisius 
- Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: Broad
+ cast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +307,13 @@ DTSTART:20270118T180000Z
 DTEND:20270118T210000Z
 SUMMARY:Fairfield Stags @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFairfield Stags @ Canisius Gol
- den Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ den Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: Broadcas
+ t not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +322,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Canisius Golden Griffins @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Sac
- red Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ red Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: Br
+ oadcast not announced
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +337,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Niagara Purple Eagles @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNiagara Purple Eagles @ Canisi
- us Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ us Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +352,13 @@ DTSTART:20270128T160000Z
 DTEND:20270128T190000Z
 SUMMARY:Saint Peter's Peacocks @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Canis
- ius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ ius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +367,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Manhattan Jaspers @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nManhattan Jaspers @ Canisius G
- olden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ olden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: Broadc
+ ast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +382,13 @@ DTSTART:20270204T233000Z
 DTEND:20270205T023000Z
 SUMMARY:Canisius Golden Griffins @ Quinnipiac Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Qui
- nnipiac Bobcats\nM&T Bank Arena\, Hamden\, CT
+ nnipiac Bobcats\nM&T Bank Arena\, Hamden\, CT\nBroadcast: Broadcast not an
+ nounced
 LOCATION:M&T Bank Arena\, Hamden\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +397,13 @@ DTSTART:20270207T000000Z
 DTEND:20270207T030000Z
 SUMMARY:Canisius Golden Griffins @ Marist Red Foxes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Mar
- ist Red Foxes\nMcCann Arena\, Poughkeepsie\, NY
+ ist Red Foxes\nMcCann Arena\, Poughkeepsie\, NY\nBroadcast: Broadcast not 
+ announced
 LOCATION:McCann Arena\, Poughkeepsie\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +412,13 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Canisius Golden Griffins @ Niagara Purple Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Nia
- gara Purple Eagles\nGallagher Center\, Niagara Falls\, NY
+ gara Purple Eagles\nGallagher Center\, Niagara Falls\, NY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Gallagher Center\, Niagara Falls\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +427,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Siena Saints @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSiena Saints @ Canisius Golden
-  Griffins\nKoessler Athletic Center\, Buffalo\, NY
+  Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +442,13 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Canisius Golden Griffins @ Fairfield Stags
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Fai
- rfield Stags\nLeo D. Mahoney Arena\, Fairfield\, CT
+ rfield Stags\nLeo D. Mahoney Arena\, Fairfield\, CT\nBroadcast: Broadcast 
+ not announced
 LOCATION:Leo D. Mahoney Arena\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +457,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Canisius Golden Griffins @ Merrimack Warriors
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Mer
- rimack Warriors\nHammel Court\, North Andover\, MA
+ rimack Warriors\nHammel Court\, North Andover\, MA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Hammel Court\, North Andover\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +472,13 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMount St. Mary's Mountaineers 
- @ Canisius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ @ Canisius Golden Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroad
+ cast: Broadcast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -446,12 +487,13 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Rider Broncs @ Canisius Golden Griffins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Canisius Golden
-  Griffins\nKoessler Athletic Center\, Buffalo\, NY
+  Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

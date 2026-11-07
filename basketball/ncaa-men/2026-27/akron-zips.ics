@@ -12,12 +12,13 @@ DTSTART:20261103T010000Z
 DTEND:20261103T040000Z
 SUMMARY:Akron Zips @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Louisiana Ragin' Ca
- juns\nCajundome\, Lafayette\, LA
+ juns\nCajundome\, Lafayette\, LA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928833@open-sports-cal
@@ -25,11 +26,12 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Muskingum Fighting Muskies @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMuskingum Fighting Muskies @ Akr
- on Zips\nJames A. Rhodes Arena\, Akron\, OH
+ on Zips\nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not anno
+ unced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -38,12 +40,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Tulane Green Wave @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulane Green Wave @ Akron Zips\n
- James A. Rhodes Arena\, Akron\, OH
+ James A. Rhodes Arena\, Akron\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924941@open-sports-cal
@@ -51,11 +54,11 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Akron Zips @ Bucknell Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Bucknell Bison\nSoj
- ka Pavilion\, Lewisburg\, PA
+ ka Pavilion\, Lewisburg\, PA\nBroadcast: Broadcast not announced
 LOCATION:Sojka Pavilion\, Lewisburg\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -64,11 +67,11 @@ DTSTART:20261120T230000Z
 DTEND:20261121T020000Z
 SUMMARY:WVU Tech Golden Bears @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWVU Tech Golden Bears @ Akron Zi
- ps\nJames A. Rhodes Arena\, Akron\, OH
+ ps\nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not announced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -77,12 +80,13 @@ DTSTART:20261123T183000Z
 DTEND:20261123T213000Z
 SUMMARY:Akron Zips @ Wright State Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Wright State Raider
- s\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+ s\nState Farm Field House\, Kissimmee\, FL\nNeutral site\nBroadcast: ESPNU
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928835@open-sports-cal
@@ -90,12 +94,13 @@ DTSTART:20261124T173000Z
 DTEND:20261124T203000Z
 SUMMARY:Belmont Bruins @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Akron Zips\nSta
- te Farm Field House\, Kissimmee\, FL\nNeutral site
+ te Farm Field House\, Kissimmee\, FL\nNeutral site\nBroadcast: ESPN2
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928836@open-sports-cal
@@ -103,12 +108,14 @@ DTSTART:20261125T200000Z
 DTEND:20261125T230000Z
 SUMMARY:Akron Zips @ App State Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ App State Mountaine
- ers\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+ ers\nState Farm Field House\, Kissimmee\, FL\nNeutral site\nBroadcast: ESP
+ NU
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911033@open-sports-cal
@@ -116,12 +123,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Ball State Cardinals @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBall State Cardinals @ Akron Zip
- s\nJames A. Rhodes Arena\, Akron\, OH
+ s\nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928837@open-sports-cal
@@ -129,11 +137,12 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Frostburg State Bobcats @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFrostburg State Bobcats @ Akron 
- Zips\nJames A. Rhodes Arena\, Akron\, OH
+ Zips\nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not announc
+ ed
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +151,13 @@ DTSTART:20261216T233000Z
 DTEND:20261217T023000Z
 SUMMARY:Akron Zips @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Buffalo Bulls\nBroa
- dview Arena\, Buffalo\, NY
+ dview Arena\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911056@open-sports-cal
@@ -155,12 +165,13 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Bowling Green Falcons @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Akron Zi
- ps\nJames A. Rhodes Arena\, Akron\, OH
+ ps\nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911067@open-sports-cal
@@ -168,12 +179,13 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:Akron Zips @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Massachusetts Minut
- emen\nMullins Center\, Amherst\, MA
+ emen\nMullins Center\, Amherst\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911072@open-sports-cal
@@ -181,11 +193,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Western Michigan Broncos @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Michigan Broncos @ Akron
-  Zips\nJames A. Rhodes Arena\, Akron\, OH
+  Zips\nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not announ
+ ced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +207,11 @@ DTSTART:20270106T000000Z
 DTEND:20270106T030000Z
 SUMMARY:Akron Zips @ Ohio Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Ohio Bobcats\nConvo
- cation Center (OH)\, Athens\, OH
+ cation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not announced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +220,11 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:Miami (OH) RedHawks @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMiami (OH) RedHawks @ Akron Zips
- \nJames A. Rhodes Arena\, Akron\, OH
+ \nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not announced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +233,12 @@ DTSTART:20270112T233000Z
 DTEND:20270113T023000Z
 SUMMARY:Akron Zips @ Eastern Michigan Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Eastern Michigan Ea
- gles\nGervin GameAbove Center\, Ypsilanti\, MI
+ gles\nGervin GameAbove Center\, Ypsilanti\, MI\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +247,11 @@ DTSTART:20270116T010000Z
 DTEND:20270116T040000Z
 SUMMARY:Akron Zips @ Toledo Rockets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Toledo Rockets\nSav
- age Arena\, Toledo\, OH
+ age Arena\, Toledo\, OH\nBroadcast: Broadcast not announced
 LOCATION:Savage Arena\, Toledo\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +260,12 @@ DTSTART:20270120T000000Z
 DTEND:20270120T030000Z
 SUMMARY:Central Michigan Chippewas @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Michigan Chippewas @ Akr
- on Zips\nJames A. Rhodes Arena\, Akron\, OH
+ on Zips\nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not anno
+ unced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +274,11 @@ DTSTART:20270123T010000Z
 DTEND:20270123T040000Z
 SUMMARY:Akron Zips @ Miami (OH) RedHawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Miami (OH) RedHawks
- \nMillett Hall\, Oxford\, OH
+ \nMillett Hall\, Oxford\, OH\nBroadcast: Broadcast not announced
 LOCATION:Millett Hall\, Oxford\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +287,11 @@ DTSTART:20270127T000000Z
 DTEND:20270127T030000Z
 SUMMARY:Ohio Bobcats @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Akron Zips\nJames
-  A. Rhodes Arena\, Akron\, OH
+  A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not announced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +300,12 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Massachusetts Minutemen @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Akron 
- Zips\nJames A. Rhodes Arena\, Akron\, OH
+ Zips\nJames A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not announc
+ ed
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +314,12 @@ DTSTART:20270203T000000Z
 DTEND:20270203T030000Z
 SUMMARY:Akron Zips @ Western Michigan Broncos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Western Michigan Br
- oncos\nUniversity Arena (MI)\, Kalamazoo\, MI
+ oncos\nUniversity Arena (MI)\, Kalamazoo\, MI\nBroadcast: Broadcast not an
+ nounced
 LOCATION:University Arena (MI)\, Kalamazoo\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +328,11 @@ DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Buffalo Bulls @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Akron Zips\nJame
- s A. Rhodes Arena\, Akron\, OH
+ s A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not announced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +341,12 @@ DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Akron Zips @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Kent State Golden F
- lashes\nM.A.C. Center\, Kent\, OH\nStart time TBD
+ lashes\nM.A.C. Center\, Kent\, OH\nStart time TBD\nBroadcast: Broadcast no
+ t announced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911144@open-sports-cal
@@ -336,11 +354,11 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:Akron Zips @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Bowling Green Falco
- ns\nStroh Center\, Bowling Green\, OH
+ ns\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast not announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,11 +367,12 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Eastern Michigan Eagles @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Michigan Eagles @ Akron 
- Zips\nJames A. Rhodes Arena\, Akron\, OH\nStart time TBD
+ Zips\nJames A. Rhodes Arena\, Akron\, OH\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911156@open-sports-cal
@@ -361,11 +380,11 @@ DTSTART:20270224T000000Z
 DTEND:20270224T030000Z
 SUMMARY:Toledo Rockets @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nToledo Rockets @ Akron Zips\nJam
- es A. Rhodes Arena\, Akron\, OH
+ es A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not announced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -374,11 +393,11 @@ DTSTART:20270227T183000Z
 DTEND:20270227T213000Z
 SUMMARY:Akron Zips @ Ball State Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Ball State Cardinal
- s\nWorthen Arena\, Muncie\, IN
+ s\nWorthen Arena\, Muncie\, IN\nBroadcast: Broadcast not announced
 LOCATION:Worthen Arena\, Muncie\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -387,11 +406,12 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Akron Zips @ Central Michigan Chippewas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Central Michigan Ch
- ippewas\nMcGuirk Arena\, Mount Pleasant\, MI
+ ippewas\nMcGuirk Arena\, Mount Pleasant\, MI\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:McGuirk Arena\, Mount Pleasant\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -400,10 +420,11 @@ DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Kent State Golden Flashes @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Akro
- n Zips\nJames A. Rhodes Arena\, Akron\, OH\nStart time TBD
+ n Zips\nJames A. Rhodes Arena\, Akron\, OH\nStart time TBD\nBroadcast: Bro
+ adcast not announced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

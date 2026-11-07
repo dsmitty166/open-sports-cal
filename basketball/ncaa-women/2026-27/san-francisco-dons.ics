@@ -12,13 +12,15 @@ DTSTART:20261105T200000Z
 DTEND:20261105T230000Z
 SUMMARY:Hawai'i Rainbow Wahine @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHawai'i Rainbow Wahine @ San F
- rancisco Dons\nThe Sobrato Center\, San Francisco\, CA
+ rancisco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906064@open-sports-cal
@@ -26,12 +28,13 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:San Francisco Dons @ California Golden Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Californi
- a Golden Bears\nTahoe Blue Event Center\, Stateline\, NV\nNeutral site
+ a Golden Bears\nTahoe Blue Event Center\, Stateline\, NV\nNeutral site\nBr
+ oadcast: Broadcast not announced
 LOCATION:Tahoe Blue Event Center\, Stateline\, NV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -40,13 +43,14 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:San Francisco Dons @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Air Force
-  Falcons\nClune Arena\, Colorado Springs\, CO
+  Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: MW+ (streaming)
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917706@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261115T210000Z
 DTEND:20261116T000000Z
 SUMMARY:San Francisco Dons @ UC San Diego Tritons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ UC San Di
- ego Tritons\nLionTree Arena\, San Diego\, CA
+ ego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917710@open-sports-cal
@@ -68,13 +73,15 @@ DTSTART:20261120T020000Z
 DTEND:20261120T050000Z
 SUMMARY:Long Beach State Beach @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ San F
- rancisco Dons\nThe Sobrato Center\, San Francisco\, CA
+ rancisco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917717@open-sports-cal
@@ -82,13 +89,15 @@ DTSTART:20261122T220000Z
 DTEND:20261123T010000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Bakersfield Roadrunn
- ers @ San Francisco Dons\nThe Sobrato Center\, San Francisco\, CA
+ ers @ San Francisco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917722@open-sports-cal
@@ -96,13 +105,15 @@ DTSTART:20261125T190000Z
 DTEND:20261125T220000Z
 SUMMARY:Cal State East Bay Pioneers @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State East Bay Pioneers @ 
- San Francisco Dons\nThe Sobrato Center\, San Francisco\, CA
+ San Francisco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917731@open-sports-cal
@@ -110,13 +121,15 @@ DTSTART:20261201T020000Z
 DTEND:20261201T050000Z
 SUMMARY:Grand Canyon Lopes @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrand Canyon Lopes @ San Franc
- isco Dons\nThe Sobrato Center\, San Francisco\, CA
+ isco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917739@open-sports-cal
@@ -124,13 +137,15 @@ DTSTART:20261205T020000Z
 DTEND:20261205T050000Z
 SUMMARY:Boise State Broncos @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBoise State Broncos @ San Fran
- cisco Dons\nThe Sobrato Center\, San Francisco\, CA
+ cisco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917745@open-sports-cal
@@ -138,13 +153,15 @@ DTSTART:20261209T023000Z
 DTEND:20261209T053000Z
 SUMMARY:San Francisco Dons @ Sacramento State Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Sacrament
- o State Hornets\nHornet Pavilion\, Sacramento\, CA
+ o State Hornets\nHornet Pavilion\, Sacramento\, CA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Hornet Pavilion\, Sacramento\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917751@open-sports-cal
@@ -152,13 +169,14 @@ DTSTART:20261212T230000Z
 DTEND:20261213T020000Z
 SUMMARY:San Francisco Dons @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Colorado 
- Buffaloes\nCU Events Center\, Boulder\, CO
+ Buffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917760@open-sports-cal
@@ -166,12 +184,13 @@ DTSTART:20261219T053000Z
 DTEND:20261219T083000Z
 SUMMARY:San Francisco Dons @ Ball State Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Ball Stat
- e Cardinals\nSeabury Hall\, Makawao\, HI\nNeutral site
+ e Cardinals\nSeabury Hall\, Makawao\, HI\nNeutral site\nBroadcast: Broadca
+ st not announced
 LOCATION:Seabury Hall\, Makawao\, HI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +199,13 @@ DTSTART:20261220T003000Z
 DTEND:20261220T033000Z
 SUMMARY:San Francisco Dons @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Idaho Sta
- te Bengals\nSeabury Hall\, Makawao\, HI\nNeutral site
+ te Bengals\nSeabury Hall\, Makawao\, HI\nNeutral site\nBroadcast: Broadcas
+ t not announced
 LOCATION:Seabury Hall\, Makawao\, HI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -194,13 +214,14 @@ DTSTART:20261231T210000Z
 DTEND:20270101T000000Z
 SUMMARY:San Francisco Dons @ Pepperdine Waves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Pepperdin
- e Waves\nFirestone Fieldhouse\, Malibu\, CA
+ e Waves\nFirestone Fieldhouse\, Malibu\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:Firestone Fieldhouse\, Malibu\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917778@open-sports-cal
@@ -208,12 +229,13 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:San Francisco Dons @ San Diego Toreros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ San Diego
-  Toreros\nJenny Craig Pavilion\, San Diego\, CA
+  Toreros\nJenny Craig Pavilion\, San Diego\, CA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Jenny Craig Pavilion\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +244,13 @@ DTSTART:20270108T020000Z
 DTEND:20270108T050000Z
 SUMMARY:Loyola Marymount Lions @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Marymount Lions @ San F
- rancisco Dons\nThe Sobrato Center\, San Francisco\, CA
+ rancisco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadca
+ st not announced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +259,13 @@ DTSTART:20270109T220000Z
 DTEND:20270110T010000Z
 SUMMARY:San Francisco Dons @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Pacific T
- igers\nAlex G. Spanos Center\, Stockton\, CA
+ igers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +274,13 @@ DTSTART:20270115T020000Z
 DTEND:20270115T050000Z
 SUMMARY:Saint Mary's Gaels @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Mary's Gaels @ San Franc
- isco Dons\nThe Sobrato Center\, San Francisco\, CA
+ isco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +289,13 @@ DTSTART:20270116T220000Z
 DTEND:20270117T010000Z
 SUMMARY:Santa Clara Broncos @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSanta Clara Broncos @ San Fran
- cisco Dons\nThe Sobrato Center\, San Francisco\, CA
+ cisco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadcast 
+ not announced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +304,13 @@ DTSTART:20270122T020000Z
 DTEND:20270122T050000Z
 SUMMARY:San Francisco Dons @ Seattle U Redhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Seattle U
-  Redhawks\nRedhawk Center\, Seattle\, WA
+  Redhawks\nRedhawk Center\, Seattle\, WA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Redhawk Center\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +319,12 @@ DTSTART:20270124T010000Z
 DTEND:20270124T040000Z
 SUMMARY:San Francisco Dons @ Portland Pilots
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Portland 
- Pilots\nChiles Center\, Portland\, OR
+ Pilots\nChiles Center\, Portland\, OR\nBroadcast: Broadcast not announced
 LOCATION:Chiles Center\, Portland\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +333,13 @@ DTSTART:20270129T020000Z
 DTEND:20270129T050000Z
 SUMMARY:San Francisco Dons @ Loyola Marymount Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Loyola Ma
- rymount Lions\nGersten Pavilion\, Los Angeles\, CA
+ rymount Lions\nGersten Pavilion\, Los Angeles\, CA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Gersten Pavilion\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +348,13 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:San Diego Toreros @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Diego Toreros @ San Franci
- sco Dons\nThe Sobrato Center\, San Francisco\, CA
+ sco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadcast no
+ t announced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +363,13 @@ DTSTART:20270205T030000Z
 DTEND:20270205T060000Z
 SUMMARY:San Francisco Dons @ Santa Clara Broncos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Santa Cla
- ra Broncos\nLeavey Center\, Santa Clara\, CA
+ ra Broncos\nLeavey Center\, Santa Clara\, CA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Leavey Center\, Santa Clara\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +378,13 @@ DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:Portland Pilots @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPortland Pilots @ San Francisc
- o Dons\nThe Sobrato Center\, San Francisco\, CA
+ o Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadcast not 
+ announced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +393,13 @@ DTSTART:20270212T020000Z
 DTEND:20270212T050000Z
 SUMMARY:Pacific Tigers @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPacific Tigers @ San Francisco
-  Dons\nThe Sobrato Center\, San Francisco\, CA
+  Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +408,13 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:San Francisco Dons @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Denver Pi
- oneers\nHamilton Gymnasium\, Denver\, CO
+ oneers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +423,13 @@ DTSTART:20270219T020000Z
 DTEND:20270219T050000Z
 SUMMARY:Pepperdine Waves @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPepperdine Waves @ San Francis
- co Dons\nThe Sobrato Center\, San Francisco\, CA
+ co Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadcast not
+  announced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +438,13 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:San Francisco Dons @ Saint Mary's Gaels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Francisco Dons @ Saint Mar
- y's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nStart time TBD
+ y's Gaels\nUniversity Credit Union Pavilion\, Moraga\, CA\nStart time TBD\
+ nBroadcast: Broadcast not announced
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917853@open-sports-cal
@@ -417,12 +452,13 @@ DTSTART:20270226T020000Z
 DTEND:20270226T050000Z
 SUMMARY:Seattle U Redhawks @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSeattle U Redhawks @ San Franc
- isco Dons\nThe Sobrato Center\, San Francisco\, CA
+ isco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -431,12 +467,13 @@ DTSTART:20270227T210000Z
 DTEND:20270228T000000Z
 SUMMARY:Denver Pioneers @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDenver Pioneers @ San Francisc
- o Dons\nThe Sobrato Center\, San Francisco\, CA
+ o Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: Broadcast not 
+ announced
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

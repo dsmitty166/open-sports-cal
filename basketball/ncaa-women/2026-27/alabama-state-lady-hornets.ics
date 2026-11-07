@@ -12,13 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Alabama State Lady Hornets @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ A
- uburn Tigers\nNeville Arena\, Auburn\, AL
+ uburn Tigers\nNeville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918423@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261107T190000Z
 DTEND:20261107T220000Z
 SUMMARY:Alabama State Lady Hornets @ West Georgia Wolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ W
- est Georgia Wolves\nThe Coliseum\, Carrollton\, GA
+ est Georgia Wolves\nThe Coliseum\, Carrollton\, GA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:The Coliseum\, Carrollton\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918609@open-sports-cal
@@ -40,12 +43,13 @@ DTSTART:20261110T230000Z
 DTEND:20261111T020000Z
 SUMMARY:Talladega Tornadoes @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTalladega Tornadoes @ Alabama 
- State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+ State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroadcast: Broa
+ dcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -54,12 +58,14 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Alabama State Lady Hornets @ UTEP Miners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ U
- TEP Miners\nDon Haskins Center\, El Paso\, TX\nStart time TBD
+ TEP Miners\nDon Haskins Center\, El Paso\, TX\nStart time TBD\nBroadcast: 
+ MW+ (streaming)
 LOCATION:Don Haskins Center\, El Paso\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918611@open-sports-cal
@@ -67,13 +73,15 @@ DTSTART:20261117T170000Z
 DTEND:20261117T200000Z
 SUMMARY:Alabama State Lady Hornets @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ M
- ississippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ ississippi State Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast:
+  SECN+ (streaming)
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918612@open-sports-cal
@@ -81,13 +89,15 @@ DTSTART:20261125T003000Z
 DTEND:20261125T033000Z
 SUMMARY:Alabama State Lady Hornets @ Northwestern State Lady Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ N
- orthwestern State Lady Demons\nPrather Coliseum\, Natchitoches\, LA
+ orthwestern State Lady Demons\nPrather Coliseum\, Natchitoches\, LA\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Prather Coliseum\, Natchitoches\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918613@open-sports-cal
@@ -95,12 +105,13 @@ DTSTART:20261130T230000Z
 DTEND:20261201T020000Z
 SUMMARY:Auburn Montgomery Senators @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Montgomery Senators @ A
- labama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+ labama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroadcas
+ t: Broadcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -109,13 +120,14 @@ DTSTART:20261205T200000Z
 DTEND:20261205T230000Z
 SUMMARY:Alabama State Lady Hornets @ Troy Trojans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ T
- roy Trojans\nTrojan Arena\, Troy\, AL
+ roy Trojans\nTrojan Arena\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918615@open-sports-cal
@@ -123,13 +135,15 @@ DTSTART:20261215T000000Z
 DTEND:20261215T030000Z
 SUMMARY:Alabama State Lady Hornets @ SE Louisiana Lady Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ S
- E Louisiana Lady Lions\nUniversity Center\, Hammond\, LA
+ E Louisiana Lady Lions\nUniversity Center\, Hammond\, LA\nBroadcast: ESPN+
+  (streaming)
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918616@open-sports-cal
@@ -138,12 +152,12 @@ DTEND;VALUE=DATE:20261218
 SUMMARY:Alabama State Lady Hornets @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ S
  outh Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Center
- \, Orangeburg\, SC\nStart time TBD
+ \, Orangeburg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912986@open-sports-cal
@@ -151,13 +165,15 @@ DTSTART:20261221T190000Z
 DTEND:20261221T220000Z
 SUMMARY:Alabama State Lady Hornets @ Georgia Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ G
- eorgia Lady Bulldogs\nStegeman Coliseum\, Athens\, GA
+ eorgia Lady Bulldogs\nStegeman Coliseum\, Athens\, GA\nBroadcast: SECN+ (s
+ treaming)
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918617@open-sports-cal
@@ -165,12 +181,13 @@ DTSTART:20261229T180000Z
 DTEND:20261229T210000Z
 SUMMARY:Rust Bearcats @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRust Bearcats @ Alabama State 
- Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+ Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroadcast: Broadcast 
+ not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -179,12 +196,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Mississippi Valley State Devilettes @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi Valley State Devil
- ettes @ Alabama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+ ettes @ Alabama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\
+ nBroadcast: Broadcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -193,12 +211,13 @@ DTSTART:20270104T230000Z
 DTEND:20270105T020000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Alabama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+ ns @ Alabama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBr
+ oadcast: Broadcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -207,12 +226,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Alabama State Lady Hornets @ Alcorn State Lady Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ A
- lcorn State Lady Braves\nDavey L. Whitney Complex\, Lorman\, MS
+ lcorn State Lady Braves\nDavey L. Whitney Complex\, Lorman\, MS\nBroadcast
+ : Broadcast not announced
 LOCATION:Davey L. Whitney Complex\, Lorman\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +242,12 @@ DTEND:20270109T220000Z
 SUMMARY:Alabama State Lady Hornets @ Jackson State Lady Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ J
  ackson State Lady Tigers\nLee E. Williams Athletics and Assembly Center\, 
- Jackson\, MS
+ Jackson\, MS\nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +256,13 @@ DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
 SUMMARY:Alabama State Lady Hornets @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ A
- labama A&M Bulldogs\nEvent Center\, Huntsville\, AL
+ labama A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast 
+ not announced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +271,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Texas Southern Tigers @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Southern Tigers @ Alabam
- a State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+ a State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroadcast: Br
+ oadcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +286,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Alabama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+  @ Alabama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroa
+ dcast: Broadcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +301,13 @@ DTSTART:20270128T233000Z
 DTEND:20270129T023000Z
 SUMMARY:Alabama State Lady Hornets @ Florida A&M Rattlers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ F
- lorida A&M Rattlers\nAl Lawson Center\, Tallahassee\, FL
+ lorida A&M Rattlers\nAl Lawson Center\, Tallahassee\, FL\nBroadcast: Broad
+ cast not announced
 LOCATION:Al Lawson Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +316,13 @@ DTSTART:20270130T200000Z
 DTEND:20270130T230000Z
 SUMMARY:Alabama State Lady Hornets @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ B
- ethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ ethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadc
+ ast: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +331,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Southern Jaguars @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Alabama Sta
- te Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+ te Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroadcast: Broadca
+ st not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +346,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Grambling Lady Tigers @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrambling Lady Tigers @ Alabam
- a State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+ a State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroadcast: Br
+ oadcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -335,12 +362,12 @@ DTEND:20270212T033000Z
 SUMMARY:Alabama State Lady Hornets @ Mississippi Valley State Devilettes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ M
  ississippi Valley State Devilettes\nR.W. Harrison HPER Complex\, Itta Bena
- \, MS
+ \, MS\nBroadcast: Broadcast not announced
 LOCATION:R.W. Harrison HPER Complex\, Itta Bena\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -349,12 +376,13 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Alabama State Lady Hornets @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ A
- rkansas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ rkansas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nBr
+ oadcast: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +391,13 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Bethune-Cookman Wildcats @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Ala
- bama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+ bama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroadcast:
+  Broadcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +406,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Florida A&M Rattlers @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida A&M Rattlers @ Alabama
-  State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+  State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroadcast: Bro
+ adcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +421,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Alabama A&M Bulldogs @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama A&M Bulldogs @ Alabama
-  State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+  State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroadcast: Bro
+ adcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +436,13 @@ DTSTART:20270302T230000Z
 DTEND:20270303T020000Z
 SUMMARY:Alabama State Lady Hornets @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ S
- outhern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+ outhern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcast:
+  Broadcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +451,13 @@ DTSTART:20270305T000000Z
 DTEND:20270305T030000Z
 SUMMARY:Alabama State Lady Hornets @ Grambling Lady Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ G
- rambling Lady Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA
+ rambling Lady Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\n
+ Broadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

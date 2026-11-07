@@ -12,13 +12,15 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:LSU New Orleans Privateers @ Arkansas Razorbacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ A
- rkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ rkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SECN+
+  (streaming)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912989@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261105T000000Z
 DTEND:20261105T030000Z
 SUMMARY:LSU New Orleans Privateers @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ A
- labama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ labama Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SECN+ 
+ (streaming)
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920210@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:LSU New Orleans Privateers @ Texas A&M Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ T
- exas A&M Aggies\nReed Arena\, College Station\, TX
+ exas A&M Aggies\nReed Arena\, College Station\, TX\nBroadcast: SECN+ (stre
+ aming)
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916058@open-sports-cal
@@ -55,14 +61,15 @@ DTEND:20261113T033000Z
 SUMMARY:LSU New Orleans Privateers @ Tulane Green Wave
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ T
  ulane Green Wave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New O
- rleans\, LA
+ rleans\, LA\nBroadcast: ESPN+ (streaming)
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920211@open-sports-cal
@@ -70,13 +77,15 @@ DTSTART:20261119T003000Z
 DTEND:20261119T033000Z
 SUMMARY:LSU New Orleans Privateers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ T
- ulsa Golden Hurricane\nReynolds Center\, Tulsa\, OK
+ ulsa Golden Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918774@open-sports-cal
@@ -84,12 +93,13 @@ DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
 SUMMARY:LSU New Orleans Privateers @ Oral Roberts Golden Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ O
- ral Roberts Golden Eagles\nMabee Center\, Tulsa\, OK
+ ral Roberts Golden Eagles\nMabee Center\, Tulsa\, OK\nBroadcast: Broadcast
+  not announced
 LOCATION:Mabee Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -98,13 +108,15 @@ DTSTART:20261125T003000Z
 DTEND:20261125T033000Z
 SUMMARY:West Alabama Tigers @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWest Alabama Tigers @ LSU New 
- Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+ Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918587@open-sports-cal
@@ -112,13 +124,15 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:Bethune-Cookman Wildcats @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ LSU
-  New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+  New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920213@open-sports-cal
@@ -126,13 +140,15 @@ DTSTART:20261204T003000Z
 DTEND:20261204T033000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+ ders @ LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920214@open-sports-cal
@@ -140,13 +156,15 @@ DTSTART:20261205T200000Z
 DTEND:20261205T230000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
- @ LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+ @ LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918589@open-sports-cal
@@ -154,12 +172,13 @@ DTSTART:20261212T000000Z
 DTEND:20261212T030000Z
 SUMMARY:LSU New Orleans Privateers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ B
- ethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ ethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadc
+ ast: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +187,13 @@ DTSTART:20261213T203000Z
 DTEND:20261213T233000Z
 SUMMARY:LSU New Orleans Privateers @ West Florida Argonauts
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ W
- est Florida Argonauts\nUWF Field House\, Pensacola\, FL
+ est Florida Argonauts\nUWF Field House\, Pensacola\, FL\nBroadcast: Broadc
+ ast not announced
 LOCATION:UWF Field House\, Pensacola\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -182,13 +202,15 @@ DTSTART:20261218T000000Z
 DTEND:20261218T030000Z
 SUMMARY:LSU New Orleans Privateers @ Incarnate Word Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ I
- ncarnate Word Cardinals\nMcDermott Center\, San Antonio\, TX
+ ncarnate Word Cardinals\nMcDermott Center\, San Antonio\, TX\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:McDermott Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920216@open-sports-cal
@@ -196,13 +218,15 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:LSU New Orleans Privateers @ Houston Christian Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ H
- ouston Christian Huskies\nSharp Gymnasium\, Houston\, TX
+ ouston Christian Huskies\nSharp Gymnasium\, Houston\, TX\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Sharp Gymnasium\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920217@open-sports-cal
@@ -210,12 +234,13 @@ DTSTART:20261231T170000Z
 DTEND:20261231T200000Z
 SUMMARY:LSU New Orleans Privateers @ East Texas A&M Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ E
- ast Texas A&M Lions\nThe Field House\, Commerce\, TX
+ ast Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: Broadcast
+  not announced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -224,12 +249,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:LSU New Orleans Privateers @ Northwestern State Lady Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ N
- orthwestern State Lady Demons\nPrather Coliseum\, Natchitoches\, LA
+ orthwestern State Lady Demons\nPrather Coliseum\, Natchitoches\, LA\nBroad
+ cast: Broadcast not announced
 LOCATION:Prather Coliseum\, Natchitoches\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -238,12 +264,13 @@ DTSTART:20270108T003000Z
 DTEND:20270108T033000Z
 SUMMARY:Nicholls Colonels @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNicholls Colonels @ LSU New Or
- leans Privateers\nLakefront Arena\, New Orleans\, LA
+ leans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: Broadcast
+  not announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -252,12 +279,13 @@ DTSTART:20270109T200000Z
 DTEND:20270109T230000Z
 SUMMARY:SE Louisiana Lady Lions @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSE Louisiana Lady Lions @ LSU 
- New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+ New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +294,13 @@ DTSTART:20270115T003000Z
 DTEND:20270115T033000Z
 SUMMARY:LSU New Orleans Privateers @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ L
- amar Cardinals\nMontagne Center\, Beaumont\, TX
+ amar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadcast not 
+ announced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -281,11 +310,12 @@ DTEND:20270116T230000Z
 SUMMARY:LSU New Orleans Privateers @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ S
  tephen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+ \nBroadcast: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +324,13 @@ DTSTART:20270122T003000Z
 DTEND:20270122T033000Z
 SUMMARY:Northwestern State Lady Demons @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwestern State Lady Demons
-  @ LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+  @ LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadca
+ st: Broadcast not announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +339,13 @@ DTSTART:20270123T200000Z
 DTEND:20270123T230000Z
 SUMMARY:East Texas A&M Lions @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Texas A&M Lions @ LSU New
-  Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+  Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +354,13 @@ DTSTART:20270129T003000Z
 DTEND:20270129T033000Z
 SUMMARY:McNeese Cowgirls @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ LSU New Orl
- eans Privateers\nLakefront Arena\, New Orleans\, LA
+ eans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +369,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:LSU New Orleans Privateers @ Nicholls Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ N
- icholls Colonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA
+ icholls Colonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA\nBroadcast: 
+ Broadcast not announced
 LOCATION:David R. Stopher Gymnasium\, Thibodaux\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +384,13 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:LSU New Orleans Privateers @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ T
- exas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ exas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\n
+ Broadcast: Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -364,12 +399,13 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:LSU New Orleans Privateers @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ U
- T Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ T Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBroadcast:
+  Broadcast not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -378,12 +414,13 @@ DTSTART:20270212T003000Z
 DTEND:20270212T033000Z
 SUMMARY:Incarnate Word Cardinals @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIncarnate Word Cardinals @ LSU
-  New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+  New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: Br
+ oadcast not announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -392,12 +429,13 @@ DTSTART:20270213T200000Z
 DTEND:20270213T230000Z
 SUMMARY:Houston Christian Huskies @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHouston Christian Huskies @ LS
- U New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+ U New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: B
+ roadcast not announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -406,12 +444,13 @@ DTSTART:20270219T003000Z
 DTEND:20270219T033000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+ LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast:
+  Broadcast not announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -420,12 +459,13 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:Lamar Cardinals @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ LSU New Orle
- ans Privateers\nLakefront Arena\, New Orleans\, LA
+ ans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -434,12 +474,13 @@ DTSTART:20270226T003000Z
 DTEND:20270226T033000Z
 SUMMARY:LSU New Orleans Privateers @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ M
- cNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ cNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -448,12 +489,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:LSU New Orleans Privateers @ SE Louisiana Lady Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ S
- E Louisiana Lady Lions\nUniversity Center\, Hammond\, LA
+ E Louisiana Lady Lions\nUniversity Center\, Hammond\, LA\nBroadcast: Broad
+ cast not announced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

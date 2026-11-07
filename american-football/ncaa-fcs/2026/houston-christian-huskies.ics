@@ -12,12 +12,13 @@ DTSTART:20260827T230000Z
 DTEND:20260828T020000Z
 SUMMARY:Houston Christian Huskies @ SE Louisiana Lions
 DESCRIPTION:NCAA FCS Football 2026\nHouston Christian Huskies @ SE Louisian
- a Lions\nStrawberry Stadium\, Hammond\, LA
+ a Lions\nStrawberry Stadium\, Hammond\, LA\nBroadcast: ESPN+ (streaming)
 LOCATION:Strawberry Stadium\, Hammond\, LA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401862697@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260905T230000Z
 DTEND:20260906T020000Z
 SUMMARY:Houston Christian Huskies @ Rice Owls
 DESCRIPTION:NCAA FCS Football 2026\nHouston Christian Huskies @ Rice Owls\n
- First Community Stadium\, Houston\, TX
+ First Community Stadium\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:First Community Stadium\, Houston\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869150@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Arkansas Baptist Buffaloes @ Houston Christian Huskies
 DESCRIPTION:NCAA FCS Football 2026\nArkansas Baptist Buffaloes @ Houston Ch
- ristian Huskies\nHusky Stadium (TX)\, Houston\, TX
+ ristian Huskies\nHusky Stadium (TX)\, Houston\, TX\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Husky Stadium (TX)\, Houston\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869147@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Houston Christian Huskies @ Incarnate Word Cardinals
 DESCRIPTION:NCAA FCS Football 2026\nHouston Christian Huskies @ Incarnate W
- ord Cardinals\nGayle and Tom Benson Stadium\, San Antonio\, TX
+ ord Cardinals\nGayle and Tom Benson Stadium\, San Antonio\, TX\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401862783@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20260926T233000Z
 DTEND:20260927T023000Z
 SUMMARY:Houston Christian Huskies @ North Texas Mean Green
 DESCRIPTION:NCAA FCS Football 2026\nHouston Christian Huskies @ North Texas
-  Mean Green\nDATCU Stadium\, Denton\, TX
+  Mean Green\nDATCU Stadium\, Denton\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:DATCU Stadium\, Denton\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869151@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261003T230000Z
 DTEND:20261004T020000Z
 SUMMARY:Nicholls Colonels @ Houston Christian Huskies
 DESCRIPTION:NCAA FCS Football 2026\nNicholls Colonels @ Houston Christian H
- uskies\nHusky Stadium (TX)\, Houston\, TX
+ uskies\nHusky Stadium (TX)\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Husky Stadium (TX)\, Houston\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869152@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261017T230000Z
 DTEND:20261018T020000Z
 SUMMARY:East Texas A&M Lions @ Houston Christian Huskies
 DESCRIPTION:NCAA FCS Football 2026\nEast Texas A&M Lions @ Houston Christia
- n Huskies\nHusky Stadium (TX)\, Houston\, TX
+ n Huskies\nHusky Stadium (TX)\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Husky Stadium (TX)\, Houston\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869145@open-sports-cal
@@ -103,12 +112,14 @@ DTSTART:20261024T200000Z
 DTEND:20261024T230000Z
 SUMMARY:Houston Christian Huskies @ Lamar Cardinals
 DESCRIPTION:NCAA FCS Football 2026\nHouston Christian Huskies @ Lamar Cardi
- nals\nProvost Umphrey Stadium\, Beaumont\, TX
+ nals\nProvost Umphrey Stadium\, Beaumont\, TX\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Provost Umphrey Stadium\, Beaumont\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868312@open-sports-cal
@@ -116,12 +127,14 @@ DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 SUMMARY:Houston Christian Huskies @ Stephen F. Austin Lumberjacks
 DESCRIPTION:NCAA FCS Football 2026\nHouston Christian Huskies @ Stephen F. 
- Austin Lumberjacks\nHomer Bryce Stadium\, Nacogdoches\, TX
+ Austin Lumberjacks\nHomer Bryce Stadium\, Nacogdoches\, TX\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Homer Bryce Stadium\, Nacogdoches\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869140@open-sports-cal
@@ -129,12 +142,13 @@ DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:McNeese Cowboys @ Houston Christian Huskies
 DESCRIPTION:NCAA FCS Football 2026\nMcNeese Cowboys @ Houston Christian Hus
- kies\nHusky Stadium (TX)\, Houston\, TX
+ kies\nHusky Stadium (TX)\, Houston\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Husky Stadium (TX)\, Houston\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401869135@open-sports-cal
@@ -142,12 +156,14 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Houston Christian Huskies @ Northwestern State Demons
 DESCRIPTION:NCAA FCS Football 2026\nHouston Christian Huskies @ Northwester
- n State Demons\nTurpin Stadium\, Natchitoches\, LA
+ n State Demons\nTurpin Stadium\, Natchitoches\, LA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Turpin Stadium\, Natchitoches\, LA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868294@open-sports-cal
@@ -155,11 +171,13 @@ DTSTART:20261121T220000Z
 DTEND:20261122T010000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Houston Christian Huskies
 DESCRIPTION:NCAA FCS Football 2026\nUT Rio Grande Valley Vaqueros @ Houston
-  Christian Huskies\nHusky Stadium (TX)\, Houston\, TX
+  Christian Huskies\nHusky Stadium (TX)\, Houston\, TX\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Husky Stadium (TX)\, Houston\, TX
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

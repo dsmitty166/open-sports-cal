@@ -12,13 +12,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Redlands Bulldogs @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRedlands Bulldogs @ Southern U
- tah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ tah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927007@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T180000Z
 DTEND:20261106T210000Z
 SUMMARY:Southern Utah Thunderbirds @ New Mexico State Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ N
- ew Mexico State Aggies\nPan American Center\, Las Cruces\, NM
+ ew Mexico State Aggies\nPan American Center\, Las Cruces\, NM\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Pan American Center\, Las Cruces\, NM
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927008@open-sports-cal
@@ -41,13 +45,14 @@ DTEND:20261110T043000Z
 SUMMARY:Park University Gilbert Buccaneers @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPark University Gilbert Buccan
  eers @ Southern Utah Thunderbirds\nAmerica First Event Center\, Cedar City
- \, UT
+ \, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401903556@open-sports-cal
@@ -55,12 +60,13 @@ DTSTART:20261114T020000Z
 DTEND:20261114T050000Z
 SUMMARY:Southern Utah Thunderbirds @ Washington State Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ W
- ashington State Cougars\nBeasley Coliseum\, Pullman\, WA
+ ashington State Cougars\nBeasley Coliseum\, Pullman\, WA\nBroadcast: Broad
+ cast not announced
 LOCATION:Beasley Coliseum\, Pullman\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -69,12 +75,13 @@ DTSTART:20261119T013000Z
 DTEND:20261119T043000Z
 SUMMARY:Southern Utah Thunderbirds @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ A
- ir Force Falcons\nClune Arena\, Colorado Springs\, CO
+ ir Force Falcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcas
+ t not announced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -83,13 +90,15 @@ DTSTART:20261122T200000Z
 DTEND:20261122T230000Z
 SUMMARY:Eastern Washington Eagles @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Washington Eagles @ So
- uthern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ uthern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBr
+ oadcast: ESPN+ (streaming)
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927009@open-sports-cal
@@ -98,13 +107,14 @@ DTEND:20261125T043000Z
 SUMMARY:Nelson American Indian Warriors @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNelson American Indian Warrior
  s @ Southern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, 
- UT
+ UT\nBroadcast: ESPN+ (streaming)
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917728@open-sports-cal
@@ -112,13 +122,15 @@ DTSTART:20261128T210000Z
 DTEND:20261129T000000Z
 SUMMARY:San Diego Toreros @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan Diego Toreros @ Southern U
- tah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ tah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914331@open-sports-cal
@@ -126,13 +138,15 @@ DTSTART:20261204T020000Z
 DTEND:20261204T050000Z
 SUMMARY:Southern Utah Thunderbirds @ Idaho State Bengals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ I
- daho State Bengals\nReed Gym\, Pocatello\, ID
+ daho State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914338@open-sports-cal
@@ -140,13 +154,15 @@ DTSTART:20261205T210000Z
 DTEND:20261206T000000Z
 SUMMARY:Southern Utah Thunderbirds @ Weber State Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ W
- eber State Wildcats\nDee Events Center\, Ogden\, UT
+ eber State Wildcats\nDee Events Center\, Ogden\, UT\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Dee Events Center\, Ogden\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916158@open-sports-cal
@@ -154,13 +170,14 @@ DTSTART:20261209T210000Z
 DTEND:20261210T000000Z
 SUMMARY:Southern Utah Thunderbirds @ BYU Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ B
- YU Cougars\nMarriott Center\, Provo\, UT
+ YU Cougars\nMarriott Center\, Provo\, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:Marriott Center\, Provo\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927010@open-sports-cal
@@ -169,12 +186,12 @@ DTEND:20261212T230000Z
 SUMMARY:Southern Utah Thunderbirds @ San José State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ S
  an José State Spartans\nProvident Credit Union Event Center\, San Jose\, 
- CA
+ CA\nBroadcast: Broadcast not announced
 LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -183,13 +200,15 @@ DTSTART:20261219T013000Z
 DTEND:20261219T043000Z
 SUMMARY:Cal State Fullerton Titans @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ S
- outhern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ outhern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401906072@open-sports-cal
@@ -197,13 +216,15 @@ DTSTART:20261222T200000Z
 DTEND:20261222T230000Z
 SUMMARY:Southern Utah Thunderbirds @ California Golden Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ C
- alifornia Golden Bears\nHaas Pavilion\, Berkeley\, CA
+ alifornia Golden Bears\nHaas Pavilion\, Berkeley\, CA\nBroadcast: ACCNX (s
+ treaming)
 LOCATION:Haas Pavilion\, Berkeley\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914339@open-sports-cal
@@ -211,13 +232,15 @@ DTSTART:20270101T013000Z
 DTEND:20270101T043000Z
 SUMMARY:Eastern Washington Eagles @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Washington Eagles @ So
- uthern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ uthern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBr
+ oadcast: ESPN+ (streaming)
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401914365@open-sports-cal
@@ -225,12 +248,13 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Idaho Vandals @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Southern Utah 
- Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroadcast: Bro
+ adcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -239,12 +263,13 @@ DTSTART:20270108T010000Z
 DTEND:20270108T040000Z
 SUMMARY:Southern Utah Thunderbirds @ Northern Colorado Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ N
- orthern Colorado Bears\nBank of Colorado Arena\, Greeley\, CO
+ orthern Colorado Bears\nBank of Colorado Arena\, Greeley\, CO\nBroadcast: 
+ Broadcast not announced
 LOCATION:Bank of Colorado Arena\, Greeley\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -253,12 +278,13 @@ DTSTART:20270109T220000Z
 DTEND:20270110T010000Z
 SUMMARY:Southern Utah Thunderbirds @ Portland State Vikings
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ P
- ortland State Vikings\nViking Pavilion\, Portland\, OR
+ ortland State Vikings\nViking Pavilion\, Portland\, OR\nBroadcast: Broadca
+ st not announced
 LOCATION:Viking Pavilion\, Portland\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -267,12 +293,13 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Utah Tech Trailblazers @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah Tech Trailblazers @ South
- ern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ ern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroad
+ cast: Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -281,12 +308,13 @@ DTSTART:20270119T020000Z
 DTEND:20270119T050000Z
 SUMMARY:Southern Utah Thunderbirds @ Montana State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ M
- ontana State Bobcats\nWorthington Arena\, Bozeman\, MT
+ ontana State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadca
+ st not announced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -295,12 +323,13 @@ DTSTART:20270126T013000Z
 DTEND:20270126T043000Z
 SUMMARY:Montana Lady Griz @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana Lady Griz @ Southern U
- tah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ tah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroadcast:
+  Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -309,12 +338,13 @@ DTSTART:20270129T013000Z
 DTEND:20270129T043000Z
 SUMMARY:Weber State Wildcats @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWeber State Wildcats @ Souther
- n Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ n Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroadca
+ st: Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -323,12 +353,13 @@ DTSTART:20270130T210000Z
 DTEND:20270131T000000Z
 SUMMARY:Idaho State Bengals @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho State Bengals @ Southern
-  Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+  Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroadcas
+ t: Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -337,12 +368,12 @@ DTSTART:20270205T020000Z
 DTEND:20270205T050000Z
 SUMMARY:Southern Utah Thunderbirds @ Idaho Vandals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ I
- daho Vandals\nICCU Arena\, Moscow\, ID
+ daho Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announced
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -351,12 +382,13 @@ DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:Southern Utah Thunderbirds @ Eastern Washington Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ E
- astern Washington Eagles\nReese Court\, Cheney\, WA
+ astern Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -365,12 +397,13 @@ DTSTART:20270209T020000Z
 DTEND:20270209T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
-  Southern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+  Southern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\
+ nBroadcast: Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -379,12 +412,13 @@ DTSTART:20270213T200000Z
 DTEND:20270213T230000Z
 SUMMARY:Southern Utah Thunderbirds @ Utah Tech Trailblazers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ U
- tah Tech Trailblazers\nBurns Arena\, St. George\, UT
+ tah Tech Trailblazers\nBurns Arena\, St. George\, UT\nBroadcast: Broadcast
+  not announced
 LOCATION:Burns Arena\, St. George\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -393,12 +427,13 @@ DTSTART:20270218T013000Z
 DTEND:20270218T043000Z
 SUMMARY:Portland State Vikings @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPortland State Vikings @ South
- ern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ ern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroad
+ cast: Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -407,12 +442,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Northern Colorado Bears @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Colorado Bears @ Sout
- hern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ hern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroa
+ dcast: Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -421,12 +457,13 @@ DTSTART:20270223T013000Z
 DTEND:20270223T043000Z
 SUMMARY:Montana State Bobcats @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMontana State Bobcats @ Southe
- rn Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ rn Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nBroadc
+ ast: Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -435,12 +472,13 @@ DTSTART:20270227T210000Z
 DTEND:20270228T000000Z
 SUMMARY:Southern Utah Thunderbirds @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ N
- orthern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ orthern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\n
+ Broadcast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -449,12 +487,13 @@ DTSTART:20270302T020000Z
 DTEND:20270302T050000Z
 SUMMARY:Southern Utah Thunderbirds @ Montana Lady Griz
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Utah Thunderbirds @ M
- ontana Lady Griz\nDahlberg Arena\, Missoula\, MT
+ ontana Lady Griz\nDahlberg Arena\, Missoula\, MT\nBroadcast: Broadcast not
+  announced
 LOCATION:Dahlberg Arena\, Missoula\, MT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 END:VCALENDAR

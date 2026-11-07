@@ -12,12 +12,13 @@ DTSTART:20260904T000000Z
 DTEND:20260904T030000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Missouri Tigers
 DESCRIPTION:NCAA FBS Football 2026\nArkansas-Pine Bluff Golden Lions @ Miss
- ouri Tigers\nMemorial Stadium\, Columbia\, MO
+ ouri Tigers\nMemorial Stadium\, Columbia\, MO\nBroadcast: SEC Network
 LOCATION:Memorial Stadium\, Columbia\, MO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856678@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T000000Z
 DTEND:20260912T030000Z
 SUMMARY:Missouri Tigers @ Kansas Jayhawks
 DESCRIPTION:NCAA FBS Football 2026\nMissouri Tigers @ Kansas Jayhawks\nDavi
- d Booth Kansas Memorial Stadium\, Lawrence\, KS
+ d Booth Kansas Memorial Stadium\, Lawrence\, KS\nBroadcast: Fox
 LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856689@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Troy Trojans @ Missouri Tigers
 DESCRIPTION:NCAA FBS Football 2026\nTroy Trojans @ Missouri Tigers\nMemoria
- l Stadium\, Columbia\, MO
+ l Stadium\, Columbia\, MO\nBroadcast: SECN+ (streaming)
 LOCATION:Memorial Stadium\, Columbia\, MO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856703@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T234500Z
 DTEND:20260927T024500Z
 SUMMARY:Missouri Tigers @ Mississippi State Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nMissouri Tigers @ Mississippi State Bul
- ldogs\nDavis Wade Stadium\, Starkville\, MS
+ ldogs\nDavis Wade Stadium\, Starkville\, MS\nBroadcast: SEC Network
 LOCATION:Davis Wade Stadium\, Starkville\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856708@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T195000Z
 DTEND:20261003T225000Z
 SUMMARY:Florida Gators @ Missouri Tigers
 DESCRIPTION:NCAA FBS Football 2026\nFlorida Gators @ Missouri Tigers\nMemor
- ial Stadium\, Columbia\, MO
+ ial Stadium\, Columbia\, MO\nBroadcast: ABC
 LOCATION:Memorial Stadium\, Columbia\, MO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856716@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:Texas A&M Aggies @ Missouri Tigers
 DESCRIPTION:NCAA FBS Football 2026\nTexas A&M Aggies @ Missouri Tigers\nMem
- orial Stadium\, Columbia\, MO
+ orial Stadium\, Columbia\, MO\nBroadcast: ABC / Disney+ (streaming)
 LOCATION:Memorial Stadium\, Columbia\, MO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856721@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261017T193000Z
 DTEND:20261017T223000Z
 SUMMARY:Missouri Tigers @ Ole Miss Rebels
 DESCRIPTION:NCAA FBS Football 2026\nMissouri Tigers @ Ole Miss Rebels\nVaug
- ht-Hemingway Stadium\, Oxford\, MS
+ ht-Hemingway Stadium\, Oxford\, MS\nBroadcast: SEC Network
 LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856733@open-sports-cal
@@ -103,12 +110,14 @@ DTSTART:20261031T234500Z
 DTEND:20261101T024500Z
 SUMMARY:Missouri Tigers @ Arkansas Razorbacks
 DESCRIPTION:NCAA FBS Football 2026\nMissouri Tigers @ Arkansas Razorbacks\n
- Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
+ Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR\nBroadcast: SEC N
+ etwork
 LOCATION:Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856743@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:Texas Longhorns @ Missouri Tigers
 DESCRIPTION:NCAA FBS Football 2026\nTexas Longhorns @ Missouri Tigers\nMemo
- rial Stadium\, Columbia\, MO
+ rial Stadium\, Columbia\, MO\nBroadcast: ESPN / Disney+ (streaming)
 LOCATION:Memorial Stadium\, Columbia\, MO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856883@open-sports-cal
@@ -129,11 +139,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Missouri Tigers @ Georgia Bulldogs
 DESCRIPTION:NCAA FBS Football 2026\nMissouri Tigers @ Georgia Bulldogs\nSan
- ford Stadium\, Athens\, GA\nStart time TBD
+ ford Stadium\, Athens\, GA\nStart time TBD\nBroadcast: ABC
 LOCATION:Sanford Stadium\, Athens\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856751@open-sports-cal
@@ -141,11 +152,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Kentucky Wildcats @ Missouri Tigers
 DESCRIPTION:NCAA FBS Football 2026\nKentucky Wildcats @ Missouri Tigers\nMe
- morial Stadium\, Columbia\, MO\nStart time TBD
+ morial Stadium\, Columbia\, MO\nStart time TBD\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Memorial Stadium\, Columbia\, MO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856763@open-sports-cal
@@ -153,10 +165,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Oklahoma Sooners @ Missouri Tigers
 DESCRIPTION:NCAA FBS Football 2026\nOklahoma Sooners @ Missouri Tigers\nMem
- orial Stadium\, Columbia\, MO\nStart time TBD
+ orial Stadium\, Columbia\, MO\nStart time TBD\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Memorial Stadium\, Columbia\, MO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

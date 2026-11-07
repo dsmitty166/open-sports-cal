@@ -15,6 +15,8 @@ If you find this useful, give it a ⭐ — it helps others find it!
 
 Open [My calendar](https://dsmitty166.github.io/open-sports-cal/calendar.html) to select teams across leagues, view a month or agenda in your local timezone, and copy a permanent shareable link. Selections are also saved on your device. Links follow each team into its latest published season; source schedules are checked daily. Open or refresh the page for current data.
 
+NCAA, NBA, and NFL game details include published US TV/streaming networks from ESPN, refreshed daily. Missing listings show **Broadcast not announced**. Network availability depends on region and subscription.
+
 This web view is separate from an Apple/Google subscription and does not generate a combined ICS subscription. Individual calendar subscriptions below remain available.
 
 Use **Save as** to name a selection on your device, then switch calendars using **Saved on this device**. Named calendars automatically save team and Month/Agenda changes. **Manage** lets you rename, duplicate, or delete calendars, start an empty calendar, and export/import JSON backups. Imports add separate copies and keep existing saves. Shared links continue to work without an account.

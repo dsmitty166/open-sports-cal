@@ -12,12 +12,13 @@ DTSTART:20261104T010000Z
 DTEND:20261104T040000Z
 SUMMARY:Alabama State Hornets @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama State Hornets @ Texas A&
- M Aggies\nReed Arena\, College Station\, TX
+ M Aggies\nReed Arena\, College Station\, TX\nBroadcast: SECN+ (streaming)
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920807@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:Northern Kentucky Norse @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Kentucky Norse @ Texas 
- A&M Aggies\nReed Arena\, College Station\, TX
+ A&M Aggies\nReed Arena\, College Station\, TX\nBroadcast: SECN+ (streaming
+ )
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917978@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261110T010000Z
 DTEND:20261110T040000Z
 SUMMARY:UL Monroe Warhawks @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUL Monroe Warhawks @ Texas A&M A
- ggies\nReed Arena\, College Station\, TX
+ ggies\nReed Arena\, College Station\, TX\nBroadcast: SECN+ (streaming)
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919041@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261113T010000Z
 DTEND:20261113T040000Z
 SUMMARY:Oklahoma State Cowboys @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma State Cowboys @ Texas A
- &M Aggies\nReed Arena\, College Station\, TX
+ &M Aggies\nReed Arena\, College Station\, TX\nBroadcast: SECN+ (streaming)
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920808@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261117T013000Z
 DTEND:20261117T043000Z
 SUMMARY:SE Louisiana Lions @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSE Louisiana Lions @ Texas A&M A
- ggies\nReed Arena\, College Station\, TX
+ ggies\nReed Arena\, College Station\, TX\nBroadcast: SECN+ (streaming)
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919050@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261120T010000Z
 DTEND:20261120T040000Z
 SUMMARY:Texas A&M Aggies @ TCU Horned Frogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ TCU Horned Fr
- ogs\nSchollmaier Arena\, Fort Worth\, TX
+ ogs\nSchollmaier Arena\, Fort Worth\, TX\nBroadcast: Peacock (streaming)
 LOCATION:Schollmaier Arena\, Fort Worth\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920809@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261125T193000Z
 DTEND:20261125T223000Z
 SUMMARY:Texas A&M Aggies @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ Xavier Musket
- eers\nImperial Arena\, Nassau\, Bahamas\nNeutral site
+ eers\nImperial Arena\, Nassau\, Bahamas\nNeutral site\nBroadcast: ESPN2
 LOCATION:Imperial Arena\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920810@open-sports-cal
@@ -103,12 +111,14 @@ DTSTART:20261127T220000Z
 DTEND:20261128T010000Z
 SUMMARY:Marquette Golden Eagles @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ Texas 
- A&M Aggies\nImperial Arena\, Nassau\, Bahamas\nNeutral site
+ A&M Aggies\nImperial Arena\, Nassau\, Bahamas\nNeutral site\nBroadcast: SE
+ C Network
 LOCATION:Imperial Arena\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920811@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261203T021500Z
 DTEND:20261203T051500Z
 SUMMARY:Stanford Cardinal @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStanford Cardinal @ Texas A&M Ag
- gies\nReed Arena\, College Station\, TX
+ gies\nReed Arena\, College Station\, TX\nBroadcast: ESPNU
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920812@open-sports-cal
@@ -129,12 +140,14 @@ DTSTART:20261206T210000Z
 DTEND:20261207T000000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
-  @ Texas A&M Aggies\nReed Arena\, College Station\, TX
+  @ Texas A&M Aggies\nReed Arena\, College Station\, TX\nBroadcast: SEC Net
+ work
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909701@open-sports-cal
@@ -142,12 +155,14 @@ DTSTART:20261212T200000Z
 DTEND:20261212T230000Z
 SUMMARY:Florida State Seminoles @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida State Seminoles @ Texas 
- A&M Aggies\nToyota Center (Houston)\, Houston\, TX\nNeutral site
+ A&M Aggies\nToyota Center (Houston)\, Houston\, TX\nNeutral site\nBroadcas
+ t: ESPNU
 LOCATION:Toyota Center (Houston)\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920813@open-sports-cal
@@ -155,12 +170,13 @@ DTSTART:20261218T000000Z
 DTEND:20261218T030000Z
 SUMMARY:Holy Cross Crusaders @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHoly Cross Crusaders @ Texas A&M
-  Aggies\nReed Arena\, College Station\, TX
+  Aggies\nReed Arena\, College Station\, TX\nBroadcast: SEC Network
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920814@open-sports-cal
@@ -168,11 +184,12 @@ DTSTART:20261221T190000Z
 DTEND:20261221T220000Z
 SUMMARY:North Florida Ospreys @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Texas A&
- M Aggies\nReed Arena\, College Station\, TX
+ M Aggies\nReed Arena\, College Station\, TX\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -181,11 +198,12 @@ DTSTART:20261230T010000Z
 DTEND:20261230T040000Z
 SUMMARY:Prairie View A&M Panthers @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrairie View A&M Panthers @ Texa
- s A&M Aggies\nReed Arena\, College Station\, TX
+ s A&M Aggies\nReed Arena\, College Station\, TX\nBroadcast: Broadcast not 
+ announced
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +212,13 @@ DTSTART:20270103T013000Z
 DTEND:20270103T043000Z
 SUMMARY:Auburn Tigers @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAuburn Tigers @ Texas A&M Aggies
- \nReed Arena\, College Station\, TX
+ \nReed Arena\, College Station\, TX\nBroadcast: SEC Network
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902316@open-sports-cal
@@ -207,12 +226,13 @@ DTSTART:20270106T020000Z
 DTEND:20270106T050000Z
 SUMMARY:Texas A&M Aggies @ Missouri Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ Missouri Tige
- rs\nMizzou Arena\, Columbia\, MO
+ rs\nMizzou Arena\, Columbia\, MO\nBroadcast: SEC Network
 LOCATION:Mizzou Arena\, Columbia\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902326@open-sports-cal
@@ -220,12 +240,13 @@ DTSTART:20270109T203000Z
 DTEND:20270109T233000Z
 SUMMARY:Texas A&M Aggies @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ South Carolin
- a Gamecocks\nColonial Life Arena\, Columbia\, SC
+ a Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Network
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902332@open-sports-cal
@@ -233,11 +254,12 @@ DTSTART:20270113T000000Z
 DTEND:20270113T030000Z
 SUMMARY:Arkansas Razorbacks @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Texas A&M 
- Aggies\nReed Arena\, College Station\, TX
+ Aggies\nReed Arena\, College Station\, TX\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -246,12 +268,13 @@ DTSTART:20270116T230000Z
 DTEND:20270117T020000Z
 SUMMARY:LSU Tigers @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Texas A&M Aggies\nR
- eed Arena\, College Station\, TX
+ eed Arena\, College Station\, TX\nBroadcast: SEC Network
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902348@open-sports-cal
@@ -259,11 +282,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Texas A&M Aggies @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ Florida Gator
- s\nStephen C. O'Connell Center\, Gainesville\, FL
+ s\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: Broadcast no
+ t announced
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,12 +296,14 @@ DTSTART:20270123T230000Z
 DTEND:20270124T020000Z
 SUMMARY:Texas A&M Aggies @ Ole Miss Rebels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ Ole Miss Rebe
- ls\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
+ ls\nThe Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS\nBroadcast
+ : SEC Network
 LOCATION:The Sandy and John Black Pavilion at Ole Miss\, Oxford\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902359@open-sports-cal
@@ -285,11 +311,12 @@ DTSTART:20270127T000000Z
 DTEND:20270127T030000Z
 SUMMARY:Tennessee Volunteers @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Volunteers @ Texas A&M
-  Aggies\nReed Arena\, College Station\, TX
+  Aggies\nReed Arena\, College Station\, TX\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +325,12 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Texas A&M Aggies @ Vanderbilt Commodores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ Vanderbilt Co
- mmodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ mmodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,12 +339,13 @@ DTSTART:20270203T020000Z
 DTEND:20270203T050000Z
 SUMMARY:Oklahoma Sooners @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Texas A&M Agg
- ies\nReed Arena\, College Station\, TX
+ ies\nReed Arena\, College Station\, TX\nBroadcast: SEC Network
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902381@open-sports-cal
@@ -324,12 +353,13 @@ DTSTART:20270206T230000Z
 DTEND:20270207T020000Z
 SUMMARY:Texas A&M Aggies @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ Mississippi S
- tate Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ tate Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: SEC Network
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902394@open-sports-cal
@@ -337,12 +367,13 @@ DTSTART:20270213T203000Z
 DTEND:20270213T233000Z
 SUMMARY:Georgia Bulldogs @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Bulldogs @ Texas A&M Agg
- ies\nReed Arena\, College Station\, TX
+ ies\nReed Arena\, College Station\, TX\nBroadcast: SEC Network
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902406@open-sports-cal
@@ -350,11 +381,11 @@ DTSTART:20270218T020000Z
 DTEND:20270218T050000Z
 SUMMARY:Texas A&M Aggies @ Texas Longhorns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ Texas Longhor
- ns\nMoody Center\, Austin\, TX
+ ns\nMoody Center\, Austin\, TX\nBroadcast: Broadcast not announced
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +394,13 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Vanderbilt Commodores @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVanderbilt Commodores @ Texas A&
- M Aggies\nReed Arena\, College Station\, TX\nStart time TBD
+ M Aggies\nReed Arena\, College Station\, TX\nStart time TBD\nBroadcast: ES
+ PN2
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902420@open-sports-cal
@@ -375,12 +408,13 @@ DTSTART:20270224T020000Z
 DTEND:20270224T050000Z
 SUMMARY:Alabama Crimson Tide @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Texas A&M
-  Aggies\nReed Arena\, College Station\, TX
+  Aggies\nReed Arena\, College Station\, TX\nBroadcast: SEC Network
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902425@open-sports-cal
@@ -388,12 +422,13 @@ DTSTART:20270228T013000Z
 DTEND:20270228T043000Z
 SUMMARY:Texas A&M Aggies @ LSU Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ LSU Tigers\nP
- ete Maravich Assembly Center\, Baton Rouge\, LA
+ ete Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: SEC Network
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902437@open-sports-cal
@@ -401,11 +436,11 @@ DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
 SUMMARY:Texas A&M Aggies @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ Kentucky Wild
- cats\nRupp Arena\, Lexington\, KY
+ cats\nRupp Arena\, Lexington\, KY\nBroadcast: Broadcast not announced
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -414,11 +449,12 @@ DTSTART:20270307T010000Z
 DTEND:20270307T040000Z
 SUMMARY:Texas Longhorns @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Longhorns @ Texas A&M Aggi
- es\nReed Arena\, College Station\, TX
+ es\nReed Arena\, College Station\, TX\nBroadcast: SEC Network
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 END:VCALENDAR

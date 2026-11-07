@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Florida Memorial Lions @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Memorial Lions @ Bethu
- ne-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ ne-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadcast:
+  Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -27,12 +28,12 @@ DTEND:20261106T030000Z
 SUMMARY:Bethune-Cookman Wildcats @ South Carolina State Lady Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Sou
  th Carolina State Lady Bulldogs\nSmith-Hammond-Middleton Memorial Center\,
-  Orangeburg\, SC
+  Orangeburg\, SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -41,13 +42,15 @@ DTSTART:20261110T020000Z
 DTEND:20261110T050000Z
 SUMMARY:Bethune-Cookman Wildcats @ Utah Utes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Uta
- h Utes\nJon M. Huntsman Center\, Salt Lake City\, UT
+ h Utes\nJon M. Huntsman Center\, Salt Lake City\, UT\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Jon M. Huntsman Center\, Salt Lake City\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916152@open-sports-cal
@@ -55,13 +58,14 @@ DTSTART:20261111T180000Z
 DTEND:20261111T210000Z
 SUMMARY:Bethune-Cookman Wildcats @ BYU Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ BYU
-  Cougars\nMarriott Center\, Provo\, UT
+  Cougars\nMarriott Center\, Provo\, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:Marriott Center\, Provo\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918584@open-sports-cal
@@ -69,13 +73,15 @@ DTSTART:20261113T180000Z
 DTEND:20261113T210000Z
 SUMMARY:Bethune-Cookman Wildcats @ Utah State Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Uta
- h State Aggies\nDee Glen Smith Spectrum\, Logan\, UT
+ h State Aggies\nDee Glen Smith Spectrum\, Logan\, UT\nBroadcast: YouTube (
+ streaming)
 LOCATION:Dee Glen Smith Spectrum\, Logan\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918585@open-sports-cal
@@ -83,12 +89,13 @@ DTSTART:20261120T000000Z
 DTEND:20261120T030000Z
 SUMMARY:North Florida Ospreys @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Florida Ospreys @ Bethun
- e-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ e-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadcast: 
+ Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -97,12 +104,13 @@ DTSTART:20261124T180000Z
 DTEND:20261124T210000Z
 SUMMARY:Wright State Raiders @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWright State Raiders @ Bethune
- -Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ -Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadcast: B
+ roadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -111,13 +119,15 @@ DTSTART:20261129T190000Z
 DTEND:20261129T220000Z
 SUMMARY:Bethune-Cookman Wildcats @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ LSU
-  New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+  New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918588@open-sports-cal
@@ -125,12 +135,13 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:Webber International Warriors @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWebber International Warriors 
- @ Bethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ @ Bethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBro
+ adcast: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -139,12 +150,13 @@ DTSTART:20261212T000000Z
 DTEND:20261212T030000Z
 SUMMARY:LSU New Orleans Privateers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ B
- ethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ ethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadc
+ ast: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -153,13 +165,15 @@ DTSTART:20261214T230000Z
 DTEND:20261215T020000Z
 SUMMARY:Bethune-Cookman Wildcats @ Florida Gators
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Flo
- rida Gators\nStephen C. O'Connell Center\, Gainesville\, FL
+ rida Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: SE
+ CN+ (streaming)
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918590@open-sports-cal
@@ -168,12 +182,12 @@ DTEND:20261220T190000Z
 SUMMARY:Towson Tigers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTowson Tigers @ Bethune-Cookma
  n Wildcats\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nNe
- utral site
+ utral site\nBroadcast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -183,12 +197,12 @@ DTEND:20261221T220000Z
 SUMMARY:Longwood Lancers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ Bethune-Coo
  kman Wildcats\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\
- nNeutral site
+ nNeutral site\nBroadcast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -197,13 +211,15 @@ DTSTART:20261229T000000Z
 DTEND:20261229T030000Z
 SUMMARY:Bethune-Cookman Wildcats @ Miami Hurricanes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Mia
- mi Hurricanes\nWatsco Center\, Coral Gables\, FL
+ mi Hurricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: ACCNX (stream
+ ing)
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918592@open-sports-cal
@@ -211,12 +227,13 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:Bethune-Cookman Wildcats @ Florida A&M Rattlers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Flo
- rida A&M Rattlers\nAl Lawson Center\, Tallahassee\, FL
+ rida A&M Rattlers\nAl Lawson Center\, Tallahassee\, FL\nBroadcast: Broadca
+ st not announced
 LOCATION:Al Lawson Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -225,12 +242,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Bethune-Cookman Wildcats @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Sou
- thern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+ thern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcast: B
+ roadcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -239,12 +257,13 @@ DTSTART:20270109T200000Z
 DTEND:20270109T230000Z
 SUMMARY:Bethune-Cookman Wildcats @ Grambling Lady Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Gra
- mbling Lady Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA
+ mbling Lady Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nBr
+ oadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -253,12 +272,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
- ns @ Bethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ ns @ Bethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\n
+ Broadcast: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -268,12 +288,12 @@ DTEND:20270116T230000Z
 SUMMARY:Mississippi Valley State Devilettes @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi Valley State Devil
  ettes @ Bethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, F
- L
+ L\nBroadcast: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -283,12 +303,12 @@ DTEND:20270123T220000Z
 SUMMARY:Bethune-Cookman Wildcats @ Jackson State Lady Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Jac
  kson State Lady Tigers\nLee E. Williams Athletics and Assembly Center\, Ja
- ckson\, MS
+ ckson\, MS\nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -297,12 +317,13 @@ DTSTART:20270126T000000Z
 DTEND:20270126T030000Z
 SUMMARY:Bethune-Cookman Wildcats @ Alcorn State Lady Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Alc
- orn State Lady Braves\nDavey L. Whitney Complex\, Lorman\, MS
+ orn State Lady Braves\nDavey L. Whitney Complex\, Lorman\, MS\nBroadcast: 
+ Broadcast not announced
 LOCATION:Davey L. Whitney Complex\, Lorman\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,12 +332,13 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Alabama A&M Bulldogs @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama A&M Bulldogs @ Bethune
- -Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ -Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadcast: B
+ roadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -325,12 +347,13 @@ DTSTART:20270130T200000Z
 DTEND:20270130T230000Z
 SUMMARY:Alabama State Lady Hornets @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ B
- ethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ ethune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadc
+ ast: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -339,12 +362,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Bethune-Cookman Wildcats @ Texas Southern Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Tex
- as Southern Tigers\nH&PE Arena\, Houston\, TX
+ as Southern Tigers\nH&PE Arena\, Houston\, TX\nBroadcast: Broadcast not an
+ nounced
 LOCATION:H&PE Arena\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -354,11 +378,12 @@ DTEND:20270206T210000Z
 SUMMARY:Bethune-Cookman Wildcats @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Pra
  irie View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX
+ \nBroadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -367,12 +392,13 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Jackson State Lady Tigers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJackson State Lady Tigers @ Be
- thune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ thune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadca
+ st: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -381,12 +407,13 @@ DTSTART:20270213T200000Z
 DTEND:20270213T230000Z
 SUMMARY:Alcorn State Lady Braves @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlcorn State Lady Braves @ Bet
- hune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ hune-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadcas
+ t: Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -395,12 +422,13 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Bethune-Cookman Wildcats @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Ala
- bama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+ bama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroadcast:
+  Broadcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -409,12 +437,13 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:Bethune-Cookman Wildcats @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Ala
- bama A&M Bulldogs\nEvent Center\, Huntsville\, AL
+ bama A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadcast no
+ t announced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -423,12 +452,13 @@ DTSTART:20270225T223000Z
 DTEND:20270226T013000Z
 SUMMARY:Grambling Lady Tigers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrambling Lady Tigers @ Bethun
- e-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ e-Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadcast: 
+ Broadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -437,12 +467,13 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Southern Jaguars @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Bethune-Coo
- kman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ kman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadcast: Broad
+ cast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -451,12 +482,13 @@ DTSTART:20270304T223000Z
 DTEND:20270305T013000Z
 SUMMARY:Florida A&M Rattlers @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida A&M Rattlers @ Bethune
- -Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ -Cookman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadcast: B
+ roadcast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

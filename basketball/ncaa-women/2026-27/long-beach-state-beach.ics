@@ -12,13 +12,15 @@ DTSTART:20261106T020000Z
 DTEND:20261106T050000Z
 SUMMARY:Long Beach State Beach @ California Golden Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ Calif
- ornia Golden Bears\nHaas Pavilion\, Berkeley\, CA
+ ornia Golden Bears\nHaas Pavilion\, Berkeley\, CA\nBroadcast: ACCNX (strea
+ ming)
 LOCATION:Haas Pavilion\, Berkeley\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917693@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261110T020000Z
 DTEND:20261110T050000Z
 SUMMARY:Santa Clara Broncos @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSanta Clara Broncos @ Long Bea
- ch State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+ ch State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917703@open-sports-cal
@@ -40,13 +44,14 @@ DTSTART:20261115T010000Z
 DTEND:20261115T040000Z
 SUMMARY:Long Beach State Beach @ Portland Pilots
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ Portl
- and Pilots\nChiles Center\, Portland\, OR
+ and Pilots\nChiles Center\, Portland\, OR\nBroadcast: ESPN+ (streaming)
 LOCATION:Chiles Center\, Portland\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917710@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261120T020000Z
 DTEND:20261120T050000Z
 SUMMARY:Long Beach State Beach @ San Francisco Dons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ San F
- rancisco Dons\nThe Sobrato Center\, San Francisco\, CA
+ rancisco Dons\nThe Sobrato Center\, San Francisco\, CA\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927840@open-sports-cal
@@ -68,12 +75,13 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Long Beach State Beach @ San José State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ San J
- osé State Spartans\nProvident Credit Union Event Center\, San Jose\, CA
+ osé State Spartans\nProvident Credit Union Event Center\, San Jose\, CA\n
+ Broadcast: Broadcast not announced
 LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -83,12 +91,14 @@ DTEND:20261201T050000Z
 SUMMARY:Hope International Royals @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHope International Royals @ Lo
  ng Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+ \nBroadcast: ESPN+ (streaming)
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923134@open-sports-cal
@@ -96,13 +106,14 @@ DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
 SUMMARY:Long Beach State Beach @ Utah Valley Wolverines
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ Utah 
- Valley Wolverines\nUCCU Center\, Orem\, UT
+ Valley Wolverines\nUCCU Center\, Orem\, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:UCCU Center\, Orem\, UT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921525@open-sports-cal
@@ -111,13 +122,14 @@ DTEND:20261206T010000Z
 SUMMARY:Cal State Fullerton Titans @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Fullerton Titans @ L
  ong Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, C
- A
+ A\nBroadcast: ESPN+ (streaming)
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926981@open-sports-cal
@@ -125,13 +137,15 @@ DTSTART:20261210T020000Z
 DTEND:20261210T050000Z
 SUMMARY:Idaho Vandals @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Long Beach Sta
- te Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+ te Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917754@open-sports-cal
@@ -139,13 +153,15 @@ DTSTART:20261213T220000Z
 DTEND:20261214T010000Z
 SUMMARY:Loyola Marymount Lions @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Marymount Lions @ Long 
- Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+ Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927842@open-sports-cal
@@ -154,13 +170,14 @@ DTEND:20261222T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Arizona Lumberjacks @
   Long Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\,
-  CA
+  CA\nBroadcast: ESPN+ (streaming)
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921623@open-sports-cal
@@ -168,13 +185,15 @@ DTSTART:20261231T220000Z
 DTEND:20270101T010000Z
 SUMMARY:Long Beach State Beach @ UC Irvine Anteaters
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ UC Ir
- vine Anteaters\nBren Events Center\, Irvine\, CA
+ vine Anteaters\nBren Events Center\, Irvine\, CA\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Bren Events Center\, Irvine\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923123@open-sports-cal
@@ -182,12 +201,13 @@ DTSTART:20270103T000000Z
 DTEND:20270103T030000Z
 SUMMARY:Long Beach State Beach @ UC San Diego Tritons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ UC Sa
- n Diego Tritons\nLionTree Arena\, San Diego\, CA
+ n Diego Tritons\nLionTree Arena\, San Diego\, CA\nBroadcast: Broadcast not
+  announced
 LOCATION:LionTree Arena\, San Diego\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -196,12 +216,13 @@ DTSTART:20270108T020000Z
 DTEND:20270108T050000Z
 SUMMARY:Cal Poly Mustangs @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal Poly Mustangs @ Long Beach
-  State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+  State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA\nBroadc
+ ast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -210,12 +231,13 @@ DTSTART:20270109T220000Z
 DTEND:20270110T010000Z
 SUMMARY:UC Santa Barbara Gauchos @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Santa Barbara Gauchos @ Lon
- g Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+ g Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA\
+ nBroadcast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -225,12 +247,12 @@ DTEND:20270114T223000Z
 SUMMARY:Long Beach State Beach @ Cal State Northridge Matadors
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ Cal S
  tate Northridge Matadors\nPremier America Credit Union Arena\, Northridge\
- , CA
+ , CA\nBroadcast: Broadcast not announced
 LOCATION:Premier America Credit Union Arena\, Northridge\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -239,12 +261,13 @@ DTSTART:20270116T220000Z
 DTEND:20270117T010000Z
 SUMMARY:Long Beach State Beach @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ Cal S
- tate Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ tate Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadcast:
+  Broadcast not announced
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -253,12 +276,13 @@ DTSTART:20270122T020000Z
 DTEND:20270122T050000Z
 SUMMARY:UC San Diego Tritons @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC San Diego Tritons @ Long Be
- ach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+ ach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA\nBro
+ adcast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -267,12 +291,13 @@ DTSTART:20270123T220000Z
 DTEND:20270124T010000Z
 SUMMARY:UC Irvine Anteaters @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Irvine Anteaters @ Long Bea
- ch State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+ ch State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA\nBroa
+ dcast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -282,12 +307,12 @@ DTEND:20270129T050000Z
 SUMMARY:California Baptist Lancers @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Baptist Lancers @ L
  ong Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, C
- A
+ A\nBroadcast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -296,12 +321,13 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:UC Riverside Highlanders @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Riverside Highlanders @ Lon
- g Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+ g Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA\
+ nBroadcast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -310,12 +336,13 @@ DTSTART:20270205T020000Z
 DTEND:20270205T050000Z
 SUMMARY:Long Beach State Beach @ UC Santa Barbara Gauchos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ UC Sa
- nta Barbara Gauchos\nThe Thunderdome\, Santa Barbara\, CA
+ nta Barbara Gauchos\nThe Thunderdome\, Santa Barbara\, CA\nBroadcast: Broa
+ dcast not announced
 LOCATION:The Thunderdome\, Santa Barbara\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -324,12 +351,13 @@ DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:Long Beach State Beach @ Cal Poly Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ Cal P
- oly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+ oly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -339,12 +367,12 @@ DTEND:20270212T050000Z
 SUMMARY:Cal State Bakersfield Roadrunners @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Bakersfield Roadrunn
  ers @ Long Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Be
- ach\, CA
+ ach\, CA\nBroadcast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -354,12 +382,12 @@ DTEND:20270214T010000Z
 SUMMARY:Cal State Northridge Matadors @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCal State Northridge Matadors 
  @ Long Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\
- , CA
+ , CA\nBroadcast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -368,12 +396,13 @@ DTSTART:20270219T023000Z
 DTEND:20270219T053000Z
 SUMMARY:Long Beach State Beach @ Sacramento State Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ Sacra
- mento State Hornets\nHornet Pavilion\, Sacramento\, CA
+ mento State Hornets\nHornet Pavilion\, Sacramento\, CA\nBroadcast: Broadca
+ st not announced
 LOCATION:Hornet Pavilion\, Sacramento\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -382,12 +411,13 @@ DTSTART:20270220T220000Z
 DTEND:20270221T010000Z
 SUMMARY:Long Beach State Beach @ Cal State Fullerton Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ Cal S
- tate Fullerton Titans\nTitan Gym\, Fullerton\, CA
+ tate Fullerton Titans\nTitan Gym\, Fullerton\, CA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Titan Gym\, Fullerton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -396,12 +426,13 @@ DTSTART:20270226T020000Z
 DTEND:20270226T050000Z
 SUMMARY:Utah Valley Wolverines @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah Valley Wolverines @ Long 
- Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+ Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA\nB
+ roadcast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -410,12 +441,13 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:Sacramento State Hornets @ Long Beach State Beach
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacramento State Hornets @ Lon
- g Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA
+ g Beach State Beach\nLBS Financial Credit Union Pyramid\, Long Beach\, CA\
+ nBroadcast: Broadcast not announced
 LOCATION:LBS Financial Credit Union Pyramid\, Long Beach\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -424,12 +456,13 @@ DTSTART:20270305T020000Z
 DTEND:20270305T050000Z
 SUMMARY:Long Beach State Beach @ UC Riverside Highlanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ UC Ri
- verside Highlanders\nSRC Arena\, Riverside\, CA
+ verside Highlanders\nSRC Arena\, Riverside\, CA\nBroadcast: Broadcast not 
+ announced
 LOCATION:SRC Arena\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -439,12 +472,12 @@ DTEND:20270307T000000Z
 SUMMARY:Long Beach State Beach @ California Baptist Lancers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Beach State Beach @ Calif
  ornia Baptist Lancers\nDale E. and Sarah Ann Fowler Events Center\, Rivers
- ide\, CA
+ ide\, CA\nBroadcast: Broadcast not announced
 LOCATION:Dale E. and Sarah Ann Fowler Events Center\, Riverside\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 END:VCALENDAR

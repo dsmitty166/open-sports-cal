@@ -12,13 +12,15 @@ DTSTART:20261102T190000Z
 DTEND:20261102T220000Z
 SUMMARY:Lafayette Leopards @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ St. John'
- s Red Storm\nCarnesecca Arena\, Queens\, NY
+ s Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming) 
+ / Patriot League TV (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919962@open-sports-cal
@@ -26,13 +28,14 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Wagner Seahawks @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ St. John's R
- ed Storm\nCarnesecca Arena\, Queens\, NY
+ ed Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916212@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261111T190000Z
 DTEND:20261111T220000Z
 SUMMARY:Quinnipiac Bobcats @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nQuinnipiac Bobcats @ St. John'
- s Red Storm\nCarnesecca Arena\, Queens\, NY
+ s Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915776@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Rhode Island Rams @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ St. John's
-  Red Storm\nCarnesecca Arena\, Queens\, NY
+  Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401907051@open-sports-cal
@@ -68,13 +73,15 @@ DTSTART:20261119T003000Z
 DTEND:20261119T033000Z
 SUMMARY:St. John's Red Storm @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ Oklahom
- a State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ a State Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921306@open-sports-cal
@@ -82,12 +89,13 @@ DTSTART:20261124T220000Z
 DTEND:20261125T010000Z
 SUMMARY:UCLA Bruins @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUCLA Bruins @ St. John's Red S
- torm\nMohegan Sun Arena\, Uncasville\, CT\nNeutral site
+ torm\nMohegan Sun Arena\, Uncasville\, CT\nNeutral site\nBroadcast: Broadc
+ ast not announced
 LOCATION:Mohegan Sun Arena\, Uncasville\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -96,12 +104,13 @@ DTSTART:20261127T193000Z
 DTEND:20261127T223000Z
 SUMMARY:Richmond Spiders @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRichmond Spiders @ St. John's 
- Red Storm\nHenrico Sports & Events Center\, Glen Allen\, VA\nNeutral site
+ Red Storm\nHenrico Sports & Events Center\, Glen Allen\, VA\nNeutral site\
+ nBroadcast: Broadcast not announced
 LOCATION:Henrico Sports & Events Center\, Glen Allen\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +119,13 @@ DTSTART:20261128T193000Z
 DTEND:20261128T223000Z
 SUMMARY:St. John's Red Storm @ Dayton Flyers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ Dayton 
- Flyers\nHenrico Sports & Events Center\, Glen Allen\, VA\nNeutral site
+ Flyers\nHenrico Sports & Events Center\, Glen Allen\, VA\nNeutral site\nBr
+ oadcast: Broadcast not announced
 LOCATION:Henrico Sports & Events Center\, Glen Allen\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +134,14 @@ DTSTART:20261204T190000Z
 DTEND:20261204T220000Z
 SUMMARY:Providence Friars @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nProvidence Friars @ St. John's
-  Red Storm\nCarnesecca Arena\, Queens\, NY
+  Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923121@open-sports-cal
@@ -138,13 +149,14 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:St. John's Red Storm @ Xavier Musketeers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ Xavier 
- Musketeers\nCintas Center\, Cincinnati\, OH
+ Musketeers\nCintas Center\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923117@open-sports-cal
@@ -152,13 +164,14 @@ DTSTART:20261211T000000Z
 DTEND:20261211T030000Z
 SUMMARY:Georgetown Hoyas @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgetown Hoyas @ St. John's 
- Red Storm\nCarnesecca Arena\, Queens\, NY
+ Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: truTV
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921307@open-sports-cal
@@ -166,13 +179,14 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Temple Owls @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTemple Owls @ St. John's Red S
- torm\nCarnesecca Arena\, Queens\, NY
+ torm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921308@open-sports-cal
@@ -180,13 +194,14 @@ DTSTART:20261216T230000Z
 DTEND:20261217T020000Z
 SUMMARY:Dartmouth Big Green @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDartmouth Big Green @ St. John
- 's Red Storm\nCarnesecca Arena\, Queens\, NY
+ 's Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923019@open-sports-cal
@@ -194,13 +209,15 @@ DTSTART:20261220T200000Z
 DTEND:20261220T230000Z
 SUMMARY:St. John's Red Storm @ Marquette Golden Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ Marquet
- te Golden Eagles\nAl McGuire Center\, Milwaukee\, WI
+ te Golden Eagles\nAl McGuire Center\, Milwaukee\, WI\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Al McGuire Center\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921309@open-sports-cal
@@ -208,13 +225,14 @@ DTSTART:20261222T180000Z
 DTEND:20261222T210000Z
 SUMMARY:New Haven Chargers @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Haven Chargers @ St. John'
- s Red Storm\nCarnesecca Arena\, Queens\, NY
+ s Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923028@open-sports-cal
@@ -222,13 +240,15 @@ DTSTART:20261230T230000Z
 DTEND:20261231T020000Z
 SUMMARY:St. John's Red Storm @ Butler Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ Butler 
- Bulldogs\nHinkle Fieldhouse\, Indianapolis\, IN
+ Bulldogs\nHinkle Fieldhouse\, Indianapolis\, IN\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923032@open-sports-cal
@@ -236,12 +256,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Villanova Wildcats @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVillanova Wildcats @ St. John'
- s Red Storm\nCarnesecca Arena\, Queens\, NY
+ s Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +271,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Xavier Musketeers @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nXavier Musketeers @ St. John's
-  Red Storm\nCarnesecca Arena\, Queens\, NY
+  Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +286,13 @@ DTSTART:20270110T180000Z
 DTEND:20270110T210000Z
 SUMMARY:St. John's Red Storm @ Providence Friars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ Provide
- nce Friars\nAlumni Hall (RI)\, Providence\, RI
+ nce Friars\nAlumni Hall (RI)\, Providence\, RI\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Alumni Hall (RI)\, Providence\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +301,13 @@ DTSTART:20270115T003000Z
 DTEND:20270115T033000Z
 SUMMARY:St. John's Red Storm @ Creighton Bluejays
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ Creight
- on Bluejays\nD.J. Sokol Arena\, Omaha\, NE
+ on Bluejays\nD.J. Sokol Arena\, Omaha\, NE\nBroadcast: Broadcast not annou
+ nced
 LOCATION:D.J. Sokol Arena\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +316,13 @@ DTSTART:20270117T190000Z
 DTEND:20270117T220000Z
 SUMMARY:DePaul Blue Demons @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDePaul Blue Demons @ St. John'
- s Red Storm\nCarnesecca Arena\, Queens\, NY
+ s Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,13 +331,14 @@ DTSTART:20270124T170000Z
 DTEND:20270124T200000Z
 SUMMARY:UConn Huskies @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ St. John's Red
-  Storm\nMadison Square Garden\, New York\, NY
+  Storm\nMadison Square Garden\, New York\, NY\nBroadcast: TNT
 LOCATION:Madison Square Garden\, New York\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923069@open-sports-cal
@@ -320,13 +346,14 @@ DTSTART:20270129T013000Z
 DTEND:20270129T043000Z
 SUMMARY:St. John's Red Storm @ Villanova Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ Villano
- va Wildcats\nFinneran Pavilion\, Villanova\, PA
+ va Wildcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: FS1
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923071@open-sports-cal
@@ -334,12 +361,13 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:Marquette Golden Eagles @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarquette Golden Eagles @ St. 
- John's Red Storm\nCarnesecca Arena\, Queens\, NY
+ John's Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: Broadcast not
+  announced
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,13 +376,15 @@ DTSTART:20270204T233000Z
 DTEND:20270205T023000Z
 SUMMARY:St. John's Red Storm @ Seton Hall Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ Seton H
- all Pirates\nWalsh Gymnasium\, South Orange\, NJ
+ all Pirates\nWalsh Gymnasium\, South Orange\, NJ\nBroadcast: Peacock (stre
+ aming)
 LOCATION:Walsh Gymnasium\, South Orange\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923083@open-sports-cal
@@ -362,12 +392,13 @@ DTSTART:20270207T200000Z
 DTEND:20270207T230000Z
 SUMMARY:St. John's Red Storm @ DePaul Blue Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ DePaul 
- Blue Demons\nWintrust Arena\, Chicago\, IL
+ Blue Demons\nWintrust Arena\, Chicago\, IL\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,13 +407,14 @@ DTSTART:20270214T160000Z
 DTEND:20270214T190000Z
 SUMMARY:Creighton Bluejays @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCreighton Bluejays @ St. John'
- s Red Storm\nCarnesecca Arena\, Queens\, NY
+ s Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: truTV
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923096@open-sports-cal
@@ -390,12 +422,13 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Butler Bulldogs @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nButler Bulldogs @ St. John's R
- ed Storm\nCarnesecca Arena\, Queens\, NY
+ ed Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,13 +437,14 @@ DTSTART:20270221T170000Z
 DTEND:20270221T200000Z
 SUMMARY:St. John's Red Storm @ UConn Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ UConn H
- uskies\nPeoplesBank Arena\, Hartford\, CT
+ uskies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: FS1
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923108@open-sports-cal
@@ -418,13 +452,14 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:Seton Hall Pirates @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSeton Hall Pirates @ St. John'
- s Red Storm\nCarnesecca Arena\, Queens\, NY
+ s Red Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: truTV
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923111@open-sports-cal
@@ -432,12 +467,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:St. John's Red Storm @ Georgetown Hoyas
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. John's Red Storm @ Georget
- own Hoyas\nMcDonough Arena\, Washington\, DC
+ own Hoyas\nMcDonough Arena\, Washington\, DC\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:McDonough Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,14 @@ DTSTART:20261104T010000Z
 DTEND:20261104T040000Z
 SUMMARY:South Dakota State Jackrabbits @ Kansas State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  Kansas State Wildcats\nBramlage Coliseum\, Manhattan\, KS
+  Kansas State Wildcats\nBramlage Coliseum\, Manhattan\, KS\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Bramlage Coliseum\, Manhattan\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929410@open-sports-cal
@@ -25,12 +27,15 @@ DTSTART:20261107T023000Z
 DTEND:20261107T053000Z
 SUMMARY:Briar Cliff Chargers @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBriar Cliff Chargers @ South Dak
- ota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ ota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcas
+ t: Summit League Network (streaming) / Midco Sports Plus (streaming)
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming) / Midco Sports Plus (streamin
+ g)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928996@open-sports-cal
@@ -38,12 +43,15 @@ DTSTART:20261112T010000Z
 DTEND:20261112T040000Z
 SUMMARY:Valparaiso Beacons @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ South Dakot
- a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcast:
+  Summit League Network (streaming) / Midco Sports Plus (streaming)
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming) / Midco Sports Plus (streamin
+ g)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925889@open-sports-cal
@@ -51,12 +59,14 @@ DTSTART:20261114T210000Z
 DTEND:20261115T000000Z
 SUMMARY:South Dakota State Jackrabbits @ Northern Colorado Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  Northern Colorado Bears\nThe Monument\, Rapid City\, SD\nNeutral site
+  Northern Colorado Bears\nThe Monument\, Rapid City\, SD\nNeutral site\nBr
+ oadcast: Summit League Network (streaming)
 LOCATION:The Monument\, Rapid City\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929411@open-sports-cal
@@ -64,12 +74,15 @@ DTSTART:20261117T010000Z
 DTEND:20261117T040000Z
 SUMMARY:Mayville State Comets @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMayville State Comets @ South Da
- kota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ kota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadca
+ st: Summit League Network (streaming) / Midco Sports Plus (streaming)
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Summit League Network (streaming) / Midco Sports Plus (streamin
+ g)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922022@open-sports-cal
@@ -77,12 +90,14 @@ DTSTART:20261120T210000Z
 DTEND:20261121T000000Z
 SUMMARY:South Dakota State Jackrabbits @ Idaho State Bengals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  Idaho State Bengals\nReed Gym\, Pocatello\, ID
+  Idaho State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917967@open-sports-cal
@@ -90,11 +105,12 @@ DTSTART:20261125T190000Z
 DTEND:20261125T220000Z
 SUMMARY:Abilene Christian Wildcats @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Sou
- th Dakota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ th Dakota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBr
+ oadcast: Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -104,11 +120,11 @@ DTEND:20261129T020000Z
 SUMMARY:South Alabama Jaguars @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Alabama Jaguars @ South Da
  kota State Jackrabbits\nConvocation Center (LA)\, New Orleans\, LA\nNeutra
- l site
+ l site\nBroadcast: Broadcast not announced
 LOCATION:Convocation Center (LA)\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -118,11 +134,11 @@ DTEND:20261130T020000Z
 SUMMARY:South Dakota State Jackrabbits @ Fresno State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
   Fresno State Bulldogs\nConvocation Center (LA)\, New Orleans\, LA\nNeutra
- l site
+ l site\nBroadcast: Broadcast not announced
 LOCATION:Convocation Center (LA)\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -131,12 +147,14 @@ DTSTART:20261206T000000Z
 DTEND:20261206T030000Z
 SUMMARY:South Dakota State Jackrabbits @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  Abilene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+  Abilene Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926870@open-sports-cal
@@ -144,11 +162,12 @@ DTSTART:20261209T010000Z
 DTEND:20261209T040000Z
 SUMMARY:Milwaukee Panthers @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMilwaukee Panthers @ South Dakot
- a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcast:
+  Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -157,11 +176,12 @@ DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Idaho Vandals @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho Vandals @ South Dakota Sta
- te Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nStart time TBD
+ te Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nStart time TBD\
+ nBroadcast: Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929435@open-sports-cal
@@ -169,11 +189,12 @@ DTSTART:20261215T010000Z
 DTEND:20261215T040000Z
 SUMMARY:Buena Vista Beavers @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuena Vista Beavers @ South Dako
- ta State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ ta State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcast
+ : Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -182,12 +203,14 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:South Dakota State Jackrabbits @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  Eastern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+  Eastern Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928810@open-sports-cal
@@ -195,11 +218,12 @@ DTSTART:20261222T010000Z
 DTEND:20261222T040000Z
 SUMMARY:Green Bay Phoenix @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGreen Bay Phoenix @ South Dakota
-  State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+  State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcast: 
+ Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -208,11 +232,12 @@ DTSTART:20261230T030000Z
 DTEND:20261230T060000Z
 SUMMARY:South Dakota State Jackrabbits @ Nevada Wolf Pack
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  Nevada Wolf Pack\nLawlor Events Center\, Reno\, NV
+  Nevada Wolf Pack\nLawlor Events Center\, Reno\, NV\nBroadcast: Broadcast 
+ not announced
 LOCATION:Lawlor Events Center\, Reno\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -221,11 +246,12 @@ DTSTART:20270102T223000Z
 DTEND:20270103T013000Z
 SUMMARY:Dakota Wesleyan Tigers @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDakota Wesleyan Tigers @ South D
- akota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ akota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadc
+ ast: Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -234,11 +260,12 @@ DTSTART:20270108T010000Z
 DTEND:20270108T040000Z
 SUMMARY:South Dakota State Jackrabbits @ Kansas City Roos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  Kansas City Roos\nSwinney Center\, Kansas City\, MO
+  Kansas City Roos\nSwinney Center\, Kansas City\, MO\nBroadcast: Broadcast
+  not announced
 LOCATION:Swinney Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +274,12 @@ DTSTART:20270110T010000Z
 DTEND:20270110T040000Z
 SUMMARY:South Dakota State Jackrabbits @ Oral Roberts Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  Oral Roberts Golden Eagles\nMabee Center\, Tulsa\, OK
+  Oral Roberts Golden Eagles\nMabee Center\, Tulsa\, OK\nBroadcast: Broadca
+ st not announced
 LOCATION:Mabee Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +288,12 @@ DTSTART:20270116T010000Z
 DTEND:20270116T040000Z
 SUMMARY:South Dakota State Jackrabbits @ South Dakota Coyotes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD
+  South Dakota Coyotes\nSanford Coyote Sports Center\, Vermillion\, SD\nBro
+ adcast: Broadcast not announced
 LOCATION:Sanford Coyote Sports Center\, Vermillion\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +302,12 @@ DTSTART:20270122T010000Z
 DTEND:20270122T040000Z
 SUMMARY:North Dakota State Bison @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Dakota State Bison @ South
-  Dakota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+  Dakota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroa
+ dcast: Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +316,12 @@ DTSTART:20270123T200000Z
 DTEND:20270123T230000Z
 SUMMARY:North Dakota Fighting Hawks @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Dakota Fighting Hawks @ So
- uth Dakota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ uth Dakota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nB
+ roadcast: Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +330,12 @@ DTSTART:20270129T010000Z
 DTEND:20270129T040000Z
 SUMMARY:South Dakota State Jackrabbits @ St. Thomas Tommies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  St. Thomas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN
+  St. Thomas Tommies\nLee & Penny Anderson Arena\, Saint Paul\, MN\nBroadca
+ st: Broadcast not announced
 LOCATION:Lee & Penny Anderson Arena\, Saint Paul\, MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +344,12 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:South Dakota State Jackrabbits @ Omaha Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  Omaha Mavericks\nBaxter Arena\, Omaha\, NE
+  Omaha Mavericks\nBaxter Arena\, Omaha\, NE\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Baxter Arena\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +358,12 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:Oral Roberts Golden Eagles @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOral Roberts Golden Eagles @ Sou
- th Dakota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ th Dakota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBr
+ oadcast: Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +372,12 @@ DTSTART:20270206T200000Z
 DTEND:20270206T230000Z
 SUMMARY:Kansas City Roos @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas City Roos @ South Dakota 
- State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcast: B
+ roadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +386,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:South Dakota Coyotes @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota Coyotes @ South Dak
- ota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ ota State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcas
+ t: Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -365,11 +401,11 @@ DTEND:20270219T040000Z
 SUMMARY:South Dakota State Jackrabbits @ North Dakota Fighting Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
   North Dakota Fighting Hawks\nBetty Engelstad Sioux Center\, Grand Forks\,
-  ND
+  ND\nBroadcast: Broadcast not announced
 LOCATION:Betty Engelstad Sioux Center\, Grand Forks\, ND
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -378,11 +414,12 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:South Dakota State Jackrabbits @ North Dakota State Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota State Jackrabbits @
-  North Dakota State Bison\nScheels Center\, Fargo\, ND
+  North Dakota State Bison\nScheels Center\, Fargo\, ND\nBroadcast: Broadca
+ st not announced
 LOCATION:Scheels Center\, Fargo\, ND
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -391,11 +428,12 @@ DTSTART:20270226T010000Z
 DTEND:20270226T040000Z
 SUMMARY:Omaha Mavericks @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOmaha Mavericks @ South Dakota S
- tate Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ tate Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcast: Br
+ oadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -404,11 +442,12 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:St. Thomas Tommies @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Thomas Tommies @ South Dakot
- a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcast:
+  Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

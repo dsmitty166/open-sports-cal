@@ -12,12 +12,14 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Southern Indiana Screaming Eagles @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Indiana Screaming Eagle
- s @ Belmont Bruins\nCurb Event Center Arena\, Nashville\, TN
+ s @ Belmont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920759@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261106T003000Z
 DTEND:20261106T033000Z
 SUMMARY:Centre Colonels @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentre Colonels @ Belmont Bruins
- \nCurb Event Center Arena\, Nashville\, TN
+ \nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920704@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
 SUMMARY:Belmont Bruins @ Lipscomb Bisons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Lipscomb Bisons
- \nAllen Arena\, Nashville\, TN
+ \nAllen Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920760@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261115T013000Z
 DTEND:20261115T043000Z
 SUMMARY:Furman Paladins @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFurman Paladins @ Belmont Bruins
- \nCurb Event Center Arena\, Nashville\, TN
+ \nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920761@open-sports-cal
@@ -64,12 +69,14 @@ DTSTART:20261118T233000Z
 DTEND:20261119T023000Z
 SUMMARY:Union Commonwealth (KY) Bulldogs @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUnion Commonwealth (KY) Bulldogs
-  @ Belmont Bruins\nCurb Event Center Arena\, Nashville\, TN
+  @ Belmont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929286@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261123T210000Z
 DTEND:20261124T000000Z
 SUMMARY:Yale Bulldogs @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Belmont Bruins\n
- State Farm Field House\, Kissimmee\, FL\nNeutral site
+ State Farm Field House\, Kissimmee\, FL\nNeutral site\nBroadcast: ESPNU
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928835@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261124T173000Z
 DTEND:20261124T203000Z
 SUMMARY:Belmont Bruins @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Akron Zips\nSta
- te Farm Field House\, Kissimmee\, FL\nNeutral site
+ te Farm Field House\, Kissimmee\, FL\nNeutral site\nBroadcast: ESPN2
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927399@open-sports-cal
@@ -103,12 +112,14 @@ DTSTART:20261125T150000Z
 DTEND:20261125T180000Z
 SUMMARY:St. Bonaventure Bonnies @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. Bonaventure Bonnies @ Belmon
- t Bruins\nState Farm Field House\, Kissimmee\, FL\nNeutral site
+ t Bruins\nState Farm Field House\, Kissimmee\, FL\nNeutral site\nBroadcast
+ : ESPN2
 LOCATION:State Farm Field House\, Kissimmee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920762@open-sports-cal
@@ -116,12 +127,14 @@ DTSTART:20261202T003000Z
 DTEND:20261202T033000Z
 SUMMARY:Belmont Bruins @ Western Kentucky Hilltoppers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Western Kentuck
- y Hilltoppers\nE.A. Diddle Arena\, Bowling Green\, KY
+ y Hilltoppers\nE.A. Diddle Arena\, Bowling Green\, KY\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:E.A. Diddle Arena\, Bowling Green\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920763@open-sports-cal
@@ -129,12 +142,14 @@ DTSTART:20261206T010000Z
 DTEND:20261206T040000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMiddle Tennessee Blue Raiders @ 
- Belmont Bruins\nCurb Event Center Arena\, Nashville\, TN
+ Belmont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919024@open-sports-cal
@@ -142,12 +157,13 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:Belmont Bruins @ UAB Blazers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ UAB Blazers\nBa
- rtow Arena\, Birmingham\, AL
+ rtow Arena\, Birmingham\, AL\nBroadcast: ESPNU
 LOCATION:Bartow Arena\, Birmingham\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920764@open-sports-cal
@@ -155,12 +171,14 @@ DTSTART:20261215T003000Z
 DTEND:20261215T033000Z
 SUMMARY:Charleston Cougars @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Cougars @ Belmont Bru
- ins\nCurb Event Center Arena\, Nashville\, TN
+ ins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922514@open-sports-cal
@@ -168,12 +186,13 @@ DTSTART:20261219T010000Z
 DTEND:20261219T040000Z
 SUMMARY:Belmont Bruins @ Bradley Braves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Bradley Braves\
- nCarver Arena\, Peoria\, IL
+ nCarver Arena\, Peoria\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:Carver Arena\, Peoria\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922517@open-sports-cal
@@ -181,12 +200,13 @@ DTSTART:20261222T020000Z
 DTEND:20261222T050000Z
 SUMMARY:Belmont Bruins @ Illinois State Redbirds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Illinois State 
- Redbirds\nCEFCU Arena\, Normal\, IL
+ Redbirds\nCEFCU Arena\, Normal\, IL\nBroadcast: ESPN+ (streaming)
 LOCATION:CEFCU Arena\, Normal\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922524@open-sports-cal
@@ -194,12 +214,14 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:Northern Iowa Panthers @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Iowa Panthers @ Belmont
-  Bruins\nCurb Event Center Arena\, Nashville\, TN
+  Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922527@open-sports-cal
@@ -207,11 +229,11 @@ DTSTART:20270101T220000Z
 DTEND:20270102T010000Z
 SUMMARY:UIC Flames @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUIC Flames @ Belmont Bruins\nCur
- b Event Center Arena\, Nashville\, TN
+ b Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast not announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +242,11 @@ DTSTART:20270106T003000Z
 DTEND:20270106T033000Z
 SUMMARY:Belmont Bruins @ Drake Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Drake Bulldogs\
- nKnapp Center\, Des Moines\, IA
+ nKnapp Center\, Des Moines\, IA\nBroadcast: Broadcast not announced
 LOCATION:Knapp Center\, Des Moines\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +255,12 @@ DTSTART:20270109T010000Z
 DTEND:20270109T040000Z
 SUMMARY:Illinois State Redbirds @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois State Redbirds @ Belmon
- t Bruins\nCurb Event Center Arena\, Nashville\, TN
+ t Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +269,11 @@ DTSTART:20270113T010000Z
 DTEND:20270113T040000Z
 SUMMARY:Belmont Bruins @ Evansville Purple Aces
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Evansville Purp
- le Aces\nFord Center\, Evansville\, IN
+ le Aces\nFord Center\, Evansville\, IN\nBroadcast: Broadcast not announced
 LOCATION:Ford Center\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +282,12 @@ DTSTART:20270116T220000Z
 DTEND:20270117T010000Z
 SUMMARY:Southern Illinois Salukis @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Illinois Salukis @ Belm
- ont Bruins\nCurb Event Center Arena\, Nashville\, TN
+ ont Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast
+  not announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +296,12 @@ DTSTART:20270119T003000Z
 DTEND:20270119T033000Z
 SUMMARY:Indiana State Sycamores @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana State Sycamores @ Belmon
- t Bruins\nCurb Event Center Arena\, Nashville\, TN
+ t Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +310,12 @@ DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Belmont Bruins @ Valparaiso Beacons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Valparaiso Beac
- ons\nAthletics-Recreation Center\, Valparaiso\, IN\nStart time TBD
+ ons\nAthletics-Recreation Center\, Valparaiso\, IN\nStart time TBD\nBroadc
+ ast: Broadcast not announced
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922561@open-sports-cal
@@ -297,11 +323,12 @@ DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Belmont Bruins @ UIC Flames
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ UIC Flames\nCre
- dit Union 1 Arena\, Chicago\, IL\nStart time TBD
+ dit Union 1 Arena\, Chicago\, IL\nStart time TBD\nBroadcast: Broadcast not
+  announced
 LOCATION:Credit Union 1 Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922566@open-sports-cal
@@ -309,11 +336,12 @@ DTSTART:20270128T003000Z
 DTEND:20270128T033000Z
 SUMMARY:Drake Bulldogs @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDrake Bulldogs @ Belmont Bruins\
- nCurb Event Center Arena\, Nashville\, TN
+ nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,11 +350,12 @@ DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Belmont Bruins @ Southern Illinois Salukis
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Southern Illino
- is Salukis\nBanterra Center\, Carbondale\, IL\nStart time TBD
+ is Salukis\nBanterra Center\, Carbondale\, IL\nStart time TBD\nBroadcast: 
+ Broadcast not announced
 LOCATION:Banterra Center\, Carbondale\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922581@open-sports-cal
@@ -334,11 +363,12 @@ DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Belmont Bruins @ Murray State Racers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Murray State Ra
- cers\nCFSB Center\, Murray\, KY\nStart time TBD
+ cers\nCFSB Center\, Murray\, KY\nStart time TBD\nBroadcast: Broadcast not 
+ announced
 LOCATION:CFSB Center\, Murray\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922586@open-sports-cal
@@ -346,11 +376,12 @@ DTSTART:20270210T003000Z
 DTEND:20270210T033000Z
 SUMMARY:Bradley Braves @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBradley Braves @ Belmont Bruins\
- nCurb Event Center Arena\, Nashville\, TN
+ nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -359,11 +390,12 @@ DTSTART:20270213T010000Z
 DTEND:20270213T040000Z
 SUMMARY:Evansville Purple Aces @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEvansville Purple Aces @ Belmont
-  Bruins\nCurb Event Center Arena\, Nashville\, TN
+  Bruins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast no
+ t announced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -372,11 +404,12 @@ DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 SUMMARY:Belmont Bruins @ Indiana State Sycamores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Indiana State S
- ycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD
+ ycamores\nHulman Center\, Terre Haute\, IN\nStart time TBD\nBroadcast: Bro
+ adcast not announced
 LOCATION:Hulman Center\, Terre Haute\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922605@open-sports-cal
@@ -384,11 +417,12 @@ DTSTART:20270220T230000Z
 DTEND:20270221T020000Z
 SUMMARY:Murray State Racers @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMurray State Racers @ Belmont Br
- uins\nCurb Event Center Arena\, Nashville\, TN
+ uins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -397,11 +431,12 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:Valparaiso Beacons @ Belmont Bruins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nValparaiso Beacons @ Belmont Bru
- ins\nCurb Event Center Arena\, Nashville\, TN
+ ins\nCurb Event Center Arena\, Nashville\, TN\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Curb Event Center Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -410,10 +445,11 @@ DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Belmont Bruins @ Northern Iowa Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBelmont Bruins @ Northern Iowa P
- anthers\nMcLeod Center\, Cedar Falls\, IA\nStart time TBD
+ anthers\nMcLeod Center\, Cedar Falls\, IA\nStart time TBD\nBroadcast: Broa
+ dcast not announced
 LOCATION:McLeod Center\, Cedar Falls\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

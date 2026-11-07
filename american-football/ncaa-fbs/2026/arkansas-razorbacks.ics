@@ -12,12 +12,14 @@ DTSTART:20260905T201500Z
 DTEND:20260905T231500Z
 SUMMARY:North Alabama Lions @ Arkansas Razorbacks
 DESCRIPTION:NCAA FBS Football 2026\nNorth Alabama Lions @ Arkansas Razorbac
- ks\nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR
+ ks\nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR\nBroadcast: S
+ EC Network
 LOCATION:Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856670@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260913T023000Z
 DTEND:20260913T053000Z
 SUMMARY:Arkansas Razorbacks @ Utah Utes
 DESCRIPTION:NCAA FBS Football 2026\nArkansas Razorbacks @ Utah Utes\nRice-E
- ccles Stadium\, Salt Lake City\, UT
+ ccles Stadium\, Salt Lake City\, UT\nBroadcast: ESPN
 LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856686@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 SUMMARY:Georgia Bulldogs @ Arkansas Razorbacks
 DESCRIPTION:NCAA FBS Football 2026\nGeorgia Bulldogs @ Arkansas Razorbacks\
- nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR
+ nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR\nBroadcast: ABC
 LOCATION:Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856697@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20260927T000000Z
 DTEND:20260927T030000Z
 SUMMARY:Tulsa Golden Hurricane @ Arkansas Razorbacks
 DESCRIPTION:NCAA FBS Football 2026\nTulsa Golden Hurricane @ Arkansas Razor
- backs\nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR
+ backs\nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR\nBroadcast
+ : SECN+ (streaming)
 LOCATION:Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856711@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261003T230000Z
 DTEND:20261004T020000Z
 SUMMARY:Arkansas Razorbacks @ Texas A&M Aggies
 DESCRIPTION:NCAA FBS Football 2026\nArkansas Razorbacks @ Texas A&M Aggies\
- nKyle Field\, College Station\, TX
+ nKyle Field\, College Station\, TX\nBroadcast: ESPN2
 LOCATION:Kyle Field\, College Station\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856713@open-sports-cal
@@ -77,12 +84,14 @@ DTSTART:20261010T201500Z
 DTEND:20261010T231500Z
 SUMMARY:Tennessee Volunteers @ Arkansas Razorbacks
 DESCRIPTION:NCAA FBS Football 2026\nTennessee Volunteers @ Arkansas Razorba
- cks\nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR
+ cks\nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR\nBroadcast: 
+ SEC Network
 LOCATION:Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856726@open-sports-cal
@@ -90,12 +99,13 @@ DTSTART:20261017T230000Z
 DTEND:20261018T020000Z
 SUMMARY:Arkansas Razorbacks @ Vanderbilt Commodores
 DESCRIPTION:NCAA FBS Football 2026\nArkansas Razorbacks @ Vanderbilt Commod
- ores\nFirstBank Stadium\, Nashville\, TN
+ ores\nFirstBank Stadium\, Nashville\, TN\nBroadcast: ESPN2
 LOCATION:FirstBank Stadium\, Nashville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856733@open-sports-cal
@@ -103,12 +113,14 @@ DTSTART:20261031T234500Z
 DTEND:20261101T024500Z
 SUMMARY:Missouri Tigers @ Arkansas Razorbacks
 DESCRIPTION:NCAA FBS Football 2026\nMissouri Tigers @ Arkansas Razorbacks\n
- Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
+ Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR\nBroadcast: SEC N
+ etwork
 LOCATION:Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856738@open-sports-cal
@@ -116,12 +128,13 @@ DTSTART:20261107T174500Z
 DTEND:20261107T204500Z
 SUMMARY:Arkansas Razorbacks @ Auburn Tigers
 DESCRIPTION:NCAA FBS Football 2026\nArkansas Razorbacks @ Auburn Tigers\nJo
- rdan-Hare Stadium\, Auburn\, AL
+ rdan-Hare Stadium\, Auburn\, AL\nBroadcast: SEC Network
 LOCATION:Jordan-Hare Stadium\, Auburn\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856882@open-sports-cal
@@ -129,12 +142,14 @@ DTSTART:20261115T004500Z
 DTEND:20261115T034500Z
 SUMMARY:South Carolina Gamecocks @ Arkansas Razorbacks
 DESCRIPTION:NCAA FBS Football 2026\nSouth Carolina Gamecocks @ Arkansas Raz
- orbacks\nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR
+ orbacks\nDonald W. Reynolds Razorback Stadium\, Fayetteville\, AR\nBroadca
+ st: SEC Network
 LOCATION:Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856755@open-sports-cal
@@ -142,11 +157,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Arkansas Razorbacks @ Texas Longhorns
 DESCRIPTION:NCAA FBS Football 2026\nArkansas Razorbacks @ Texas Longhorns\n
- DKR-Texas Memorial Stadium\, Austin\, TX\nStart time TBD
+ DKR-Texas Memorial Stadium\, Austin\, TX\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856758@open-sports-cal
@@ -154,10 +170,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:LSU Tigers @ Arkansas Razorbacks
 DESCRIPTION:NCAA FBS Football 2026\nLSU Tigers @ Arkansas Razorbacks\nDonal
- d W. Reynolds Razorback Stadium\, Fayetteville\, AR\nStart time TBD
+ d W. Reynolds Razorback Stadium\, Fayetteville\, AR\nStart time TBD\nBroad
+ cast: Broadcast not announced
 LOCATION:Donald W. Reynolds Razorback Stadium\, Fayetteville\, AR
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

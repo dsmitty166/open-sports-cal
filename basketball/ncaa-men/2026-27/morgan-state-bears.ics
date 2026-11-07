@@ -12,11 +12,12 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Cheyney (PA) Wolves @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCheyney (PA) Wolves @ Morgan Sta
- te Bears\nHill Field House\, Baltimore\, MD
+ te Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -25,11 +26,12 @@ DTSTART:20261105T000000Z
 DTEND:20261105T030000Z
 SUMMARY:Virginia Lynchburg Dragons @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Lynchburg Dragons @ Mor
- gan State Bears\nHill Field House\, Baltimore\, MD
+ gan State Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -38,12 +40,14 @@ DTSTART:20261107T233000Z
 DTEND:20261108T023000Z
 SUMMARY:Morgan State Bears @ Niagara Purple Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ Niagara Pur
- ple Eagles\nGallagher Center\, Niagara Falls\, NY
+ ple Eagles\nGallagher Center\, Niagara Falls\, NY\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Gallagher Center\, Niagara Falls\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921086@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20261112T230000Z
 DTEND:20261113T020000Z
 SUMMARY:Morgan State Bears @ UMBC Retrievers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ UMBC Retrie
- vers\nChesapeake Employers Insurance Arena\, Baltimore\, MD
+ vers\nChesapeake Employers Insurance Arena\, Baltimore\, MD\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Chesapeake Employers Insurance Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920567@open-sports-cal
@@ -64,11 +70,12 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Towson Tigers @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTowson Tigers @ Morgan State Bea
- rs\nSECU Arena\, Towson\, MD\nNeutral site
+ rs\nSECU Arena\, Towson\, MD\nNeutral site\nBroadcast: Broadcast not annou
+ nced
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +84,12 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Morgan State Bears @ North Carolina A&T Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ North Carol
- ina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC
+ ina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC\nBroadcast: Broadc
+ ast not announced
 LOCATION:Corbett Sports Center\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +98,13 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Cornell Big Red @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCornell Big Red @ Morgan State B
- ears\nHill Field House\, Baltimore\, MD
+ ears\nHill Field House\, Baltimore\, MD\nBroadcast: ESPN+ (streaming)
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920923@open-sports-cal
@@ -103,11 +112,12 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMount St. Mary's Mountaineers @ 
- Morgan State Bears\nHill Field House\, Baltimore\, MD
+ Morgan State Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,11 +126,12 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:Manhattan Jaspers @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nManhattan Jaspers @ Morgan State
-  Bears\nHill Field House\, Baltimore\, MD
+  Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -129,11 +140,12 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Mercyhurst Lakers @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Morgan State
-  Bears\nHill Field House\, Baltimore\, MD
+  Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +154,13 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:Morgan State Bears @ George Mason Patriots
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ George Maso
- n Patriots\nEagleBank Arena\, Fairfax\, VA
+ n Patriots\nEagleBank Arena\, Fairfax\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:EagleBank Arena\, Fairfax\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916300@open-sports-cal
@@ -155,12 +168,13 @@ DTSTART:20261216T010000Z
 DTEND:20261216T040000Z
 SUMMARY:Morgan State Bears @ Maryland Terrapins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ Maryland Te
- rrapins\nXFINITY Center\, College Park\, MD
+ rrapins\nXFINITY Center\, College Park\, MD\nBroadcast: BTN
 LOCATION:XFINITY Center\, College Park\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922052@open-sports-cal
@@ -168,12 +182,14 @@ DTSTART:20261219T200000Z
 DTEND:20261219T230000Z
 SUMMARY:Morgan State Bears @ Longwood Lancers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ Longwood La
- ncers\nJoan Perry Brock Center\, Farmville\, VA
+ ncers\nJoan Perry Brock Center\, Farmville\, VA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Joan Perry Brock Center\, Farmville\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920208@open-sports-cal
@@ -181,12 +197,13 @@ DTSTART:20261223T000000Z
 DTEND:20261223T030000Z
 SUMMARY:Morgan State Bears @ VCU Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ VCU Rams\nS
- iegel Center\, Richmond\, VA
+ iegel Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Siegel Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920805@open-sports-cal
@@ -194,12 +211,13 @@ DTSTART:20261230T013000Z
 DTEND:20261230T043000Z
 SUMMARY:Morgan State Bears @ Auburn Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ Auburn Tige
- rs\nNeville Arena\, Auburn\, AL
+ rs\nNeville Arena\, Auburn\, AL\nBroadcast: SECN+ (streaming)
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925845@open-sports-cal
@@ -207,11 +225,12 @@ DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:Maryland Eastern Shore Hawks @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaryland Eastern Shore Hawks @ M
- organ State Bears\nHill Field House\, Baltimore\, MD\nStart time TBD
+ organ State Bears\nHill Field House\, Baltimore\, MD\nStart time TBD\nBroa
+ dcast: Broadcast not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401931235@open-sports-cal
@@ -220,11 +239,11 @@ DTEND:20270110T000000Z
 SUMMARY:Morgan State Bears @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ South Carol
  ina State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangeburg\,
-  SC
+  SC\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +252,12 @@ DTSTART:20270112T000000Z
 DTEND:20270112T030000Z
 SUMMARY:Morgan State Bears @ North Carolina Central Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ North Carol
- ina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ ina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroadcast: Bro
+ adcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +266,12 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Delaware State Hornets @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ Morgan 
- State Bears\nHill Field House\, Baltimore\, MD
+ State Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +280,11 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Howard Bison @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Morgan State Bear
- s\nHill Field House\, Baltimore\, MD
+ s\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcast not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +293,12 @@ DTSTART:20270126T000000Z
 DTEND:20270126T030000Z
 SUMMARY:Norfolk State Spartans @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorfolk State Spartans @ Morgan 
- State Bears\nHill Field House\, Baltimore\, MD
+ State Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +307,12 @@ DTSTART:20270130T210000Z
 DTEND:20270131T000000Z
 SUMMARY:Coppin State Eagles @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCoppin State Eagles @ Morgan Sta
- te Bears\nHill Field House\, Baltimore\, MD
+ te Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +321,12 @@ DTSTART:20270206T203000Z
 DTEND:20270206T233000Z
 SUMMARY:Morgan State Bears @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ Maryland Ea
- stern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ stern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +335,12 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:South Carolina State Bulldogs @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Morgan State Bears\nHill Field House\, Baltimore\, MD
+ Morgan State Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +349,12 @@ DTSTART:20270216T000000Z
 DTEND:20270216T030000Z
 SUMMARY:North Carolina Central Eagles @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Central Eagles @ 
- Morgan State Bears\nHill Field House\, Baltimore\, MD
+ Morgan State Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +363,12 @@ DTSTART:20270220T220000Z
 DTEND:20270221T010000Z
 SUMMARY:Morgan State Bears @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ Delaware St
- ate Hornets\nMemorial Hall (DE)\, Dover\, DE
+ ate Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +377,12 @@ DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Morgan State Bears @ Howard Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ Howard Biso
- n\nBurr Gymnasium\, Washington\, DC\nStart time TBD
+ n\nBurr Gymnasium\, Washington\, DC\nStart time TBD\nBroadcast: Broadcast 
+ not announced
 LOCATION:Burr Gymnasium\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925912@open-sports-cal
@@ -362,11 +390,12 @@ DTSTART:20270302T000000Z
 DTEND:20270302T030000Z
 SUMMARY:Morgan State Bears @ Norfolk State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ Norfolk Sta
- te Spartans\nJoseph G. Echols Hall\, Norfolk\, VA
+ te Spartans\nJoseph G. Echols Hall\, Norfolk\, VA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Joseph G. Echols Hall\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,11 +404,12 @@ DTSTART:20270305T010000Z
 DTEND:20270305T040000Z
 SUMMARY:Morgan State Bears @ Coppin State Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ Coppin Stat
- e Eagles\nPhysical Education Complex\, Baltimore\, MD
+ e Eagles\nPhysical Education Complex\, Baltimore\, MD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Physical Education Complex\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

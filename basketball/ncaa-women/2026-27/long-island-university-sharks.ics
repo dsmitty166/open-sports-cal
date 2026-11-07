@@ -13,13 +13,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Long Island University Sharks @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Rutgers Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ @ Rutgers Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadc
+ ast: B1G+ (streaming)
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919931@open-sports-cal
@@ -28,12 +30,12 @@ DTEND:20261105T040000Z
 SUMMARY:Long Island University Sharks @ Texas State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
  @ Texas State Bobcats\nStrahan Arena at the University Events Center\, San
-  Marcos\, TX
+  Marcos\, TX\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -42,13 +44,15 @@ DTSTART:20261107T190000Z
 DTEND:20261107T220000Z
 SUMMARY:Long Island University Sharks @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Pittsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ @ Pittsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast
+ : ACCNX (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915963@open-sports-cal
@@ -56,13 +60,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Long Island University Sharks @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ SMU Mustangs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ @ SMU Mustangs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: ACCNX (s
+ treaming)
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913666@open-sports-cal
@@ -71,13 +77,14 @@ DTEND:20261115T013000Z
 SUMMARY:Long Island University Sharks @ George Washington Revolutionaries
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
  @ George Washington Revolutionaries\nCharles E. Smith Center\, Washington\
- , DC
+ , DC\nBroadcast: ESPN+ (streaming)
 LOCATION:Charles E. Smith Center\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915693@open-sports-cal
@@ -85,12 +92,13 @@ DTSTART:20261120T000000Z
 DTEND:20261120T030000Z
 SUMMARY:Manhattan Jaspers @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nManhattan Jaspers @ Long Islan
- d University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ d University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: 
+ Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -99,12 +107,13 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Saint Peter's Peacocks @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Long 
- Island University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ Island University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadc
+ ast: Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -113,13 +122,15 @@ DTSTART:20261202T230000Z
 DTEND:20261203T020000Z
 SUMMARY:Long Island University Sharks @ Rider Broncs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Rider Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ
+ @ Rider Broncs\nAlumni Gymnasium (Rider)\, Lawrenceville\, NJ\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Alumni Gymnasium (Rider)\, Lawrenceville\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919470@open-sports-cal
@@ -127,13 +138,15 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Long Island University Sharks @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ American University Eagles\nBender Arena\, Washington\, DC
+ @ American University Eagles\nBender Arena\, Washington\, DC\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919428@open-sports-cal
@@ -141,12 +154,13 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:Coppin State Eagles @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoppin State Eagles @ Long Isl
- and University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ and University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast
+ : Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +169,13 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Lehigh Mountain Hawks @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLehigh Mountain Hawks @ Long I
- sland University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ sland University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadca
+ st: Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -169,12 +184,13 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Berkeley Knights @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBerkeley Knights @ Long Island
-  University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+  University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -183,12 +199,13 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:New Haven Chargers @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Haven Chargers @ Long Isla
- nd University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ nd University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast:
+  Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -198,12 +215,12 @@ DTEND:20270109T220000Z
 SUMMARY:Long Island University Sharks @ Fairleigh Dickinson Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
  @ Fairleigh Dickinson Knights\nBogota Savings Bank Center\, Hackensack\, N
- J
+ J\nBroadcast: Broadcast not announced
 LOCATION:Bogota Savings Bank Center\, Hackensack\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -212,12 +229,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Chicago State Cougars @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nChicago State Cougars @ Long I
- sland University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ sland University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadca
+ st: Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -226,12 +244,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Long Island University Sharks @ Stonehill Skyhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Stonehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+ @ Stonehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Br
+ oadcast not announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -240,12 +259,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Long Island University Sharks @ Mercyhurst Lakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Mercyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ @ Mercyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Br
+ oadcast not announced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -254,12 +274,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Long Island University Sharks @ Le Moyne Dolphins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Le Moyne Dolphins\nTed Grant Court\, Syracuse\, NY
+ @ Le Moyne Dolphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast
+  not announced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -269,12 +290,12 @@ DTEND:20270129T030000Z
 SUMMARY:Central Connecticut Blue Devils @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
  s @ Long Island University Sharks\nBrooklyn Athletic Center\, Brooklyn\, N
- Y
+ Y\nBroadcast: Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -283,12 +304,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Wagner Seahawks @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Long Island 
- University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -297,12 +319,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Mercyhurst Lakers @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMercyhurst Lakers @ Long Islan
- d University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ d University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: 
+ Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,12 +334,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Le Moyne Dolphins @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLe Moyne Dolphins @ Long Islan
- d University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ d University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: 
+ Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -325,12 +349,13 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:Long Island University Sharks @ Chicago State Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Chicago State Cougars\nJones Convocation Center\, Chicago\, IL
+ @ Chicago State Cougars\nJones Convocation Center\, Chicago\, IL\nBroadcas
+ t: Broadcast not announced
 LOCATION:Jones Convocation Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -339,12 +364,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Long Island University Sharks @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY
+ @ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -353,12 +379,13 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Stonehill Skyhawks @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStonehill Skyhawks @ Long Isla
- nd University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ nd University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast:
+  Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -367,12 +394,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Fairleigh Dickinson Knights @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFairleigh Dickinson Knights @ 
- Long Island University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ Long Island University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nB
+ roadcast: Broadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -381,12 +409,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Long Island University Sharks @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Central Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ @ Central Connecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nB
+ roadcast: Broadcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -396,11 +425,12 @@ DTEND:20270305T020000Z
 SUMMARY:Long Island University Sharks @ New Haven Chargers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
  @ New Haven Chargers\nJeffery P. Hazell Athletics Center\, West Haven\, CT
+ \nBroadcast: Broadcast not announced
 LOCATION:Jeffery P. Hazell Athletics Center\, West Haven\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

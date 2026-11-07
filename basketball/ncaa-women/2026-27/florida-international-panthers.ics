@@ -13,13 +13,15 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Jacksonville Dolphins @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJacksonville Dolphins @ Florid
- a International Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ a International Panthers\nOcean Bank Convocation Center\, Miami\, FL\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927087@open-sports-cal
@@ -27,13 +29,15 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Stetson Hatters @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStetson Hatters @ Florida Inte
- rnational Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ rnational Panthers\nOcean Bank Convocation Center\, Miami\, FL\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913865@open-sports-cal
@@ -41,13 +45,15 @@ DTSTART:20261115T200000Z
 DTEND:20261115T230000Z
 SUMMARY:Florida International Panthers @ South Florida Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
-  @ South Florida Bulls\nYuengling Center\, Tampa\, FL
+  @ South Florida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913728@open-sports-cal
@@ -55,13 +61,15 @@ DTSTART:20261120T000000Z
 DTEND:20261120T030000Z
 SUMMARY:Florida International Panthers @ Miami Hurricanes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
-  @ Miami Hurricanes\nWatsco Center\, Coral Gables\, FL
+  @ Miami Hurricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: ACCNX (
+ streaming)
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927987@open-sports-cal
@@ -70,12 +78,14 @@ DTEND:20261127T190000Z
 SUMMARY:North Dakota Fighting Hawks @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Dakota Fighting Hawks @ 
  Florida International Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ \nBroadcast: ESPN+ (streaming)
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926036@open-sports-cal
@@ -83,12 +93,13 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:Florida Atlantic Owls @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida Atlantic Owls @ Florid
- a International Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ a International Panthers\nOcean Bank Convocation Center\, Miami\, FL\nBroa
+ dcast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -98,13 +109,14 @@ DTEND:20261212T210000Z
 SUMMARY:Florida International Panthers @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
   @ Georgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, St
- atesboro\, GA
+ atesboro\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927988@open-sports-cal
@@ -112,13 +124,15 @@ DTSTART:20261218T160000Z
 DTEND:20261218T190000Z
 SUMMARY:Morgan State Lady Bears @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorgan State Lady Bears @ Flor
- ida International Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ ida International Panthers\nOcean Bank Convocation Center\, Miami\, FL\nBr
+ oadcast: ESPN+ (streaming)
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925629@open-sports-cal
@@ -127,12 +141,12 @@ DTEND:20261219T190000Z
 SUMMARY:North Carolina Central Eagles @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Central Eagles 
  @ Florida International Panthers\nOcean Bank Convocation Center\, Miami\, 
- FL
+ FL\nBroadcast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -141,12 +155,13 @@ DTSTART:20270102T170000Z
 DTEND:20270102T200000Z
 SUMMARY:New Mexico State Aggies @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Mexico State Aggies @ Flor
- ida International Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ ida International Panthers\nOcean Bank Convocation Center\, Miami\, FL\nBr
+ oadcast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +170,13 @@ DTSTART:20270105T000000Z
 DTEND:20270105T030000Z
 SUMMARY:Sam Houston Bearkats @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSam Houston Bearkats @ Florida
-  International Panthers\nOcean Bank Convocation Center\, Miami\, FL
+  International Panthers\nOcean Bank Convocation Center\, Miami\, FL\nBroad
+ cast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -169,12 +185,13 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:Florida International Panthers @ Liberty Flames
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
-  @ Liberty Flames\nLiberty Arena (VA)\, Lynchburg\, VA
+  @ Liberty Flames\nLiberty Arena (VA)\, Lynchburg\, VA\nBroadcast: Broadca
+ st not announced
 LOCATION:Liberty Arena (VA)\, Lynchburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -183,12 +200,13 @@ DTSTART:20270110T180000Z
 DTEND:20270110T210000Z
 SUMMARY:Florida International Panthers @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
-  @ Delaware Blue Hens\nBob Carpenter Center\, Newark\, DE
+  @ Delaware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: Broa
+ dcast not announced
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -198,11 +216,12 @@ DTEND:20270116T200000Z
 SUMMARY:Florida International Panthers @ Missouri State Lady Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
   @ Missouri State Lady Bears\nGreat Southern Bank Arena\, Springfield\, MO
+ \nBroadcast: Broadcast not announced
 LOCATION:Great Southern Bank Arena\, Springfield\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -212,12 +231,12 @@ DTEND:20270122T030000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiddle Tennessee Blue Raiders 
  @ Florida International Panthers\nOcean Bank Convocation Center\, Miami\, 
- FL
+ FL\nBroadcast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -227,12 +246,12 @@ DTEND:20270123T210000Z
 SUMMARY:Western Kentucky Lady Toppers @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Kentucky Lady Toppers 
  @ Florida International Panthers\nOcean Bank Convocation Center\, Miami\, 
- FL
+ FL\nBroadcast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -242,11 +261,12 @@ DTEND:20270129T030000Z
 SUMMARY:Florida International Panthers @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
   @ Jacksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ \nBroadcast: Broadcast not announced
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -255,12 +275,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Florida International Panthers @ Kennesaw State Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
-  @ Kennesaw State Owls\nVyStar Arena\, Kennesaw\, GA
+  @ Kennesaw State Owls\nVyStar Arena\, Kennesaw\, GA\nBroadcast: Broadcast
+  not announced
 LOCATION:VyStar Arena\, Kennesaw\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -269,12 +290,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Delaware Blue Hens @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Florida I
- nternational Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ nternational Panthers\nOcean Bank Convocation Center\, Miami\, FL\nBroadca
+ st: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -283,12 +305,13 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Liberty Flames @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLiberty Flames @ Florida Inter
- national Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ national Panthers\nOcean Bank Convocation Center\, Miami\, FL\nBroadcast: 
+ Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -297,12 +320,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Missouri State Lady Bears @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMissouri State Lady Bears @ Fl
- orida International Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ orida International Panthers\nOcean Bank Convocation Center\, Miami\, FL\n
+ Broadcast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,12 +335,13 @@ DTSTART:20270218T170000Z
 DTEND:20270218T200000Z
 SUMMARY:Florida International Panthers @ Western Kentucky Lady Toppers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
-  @ Western Kentucky Lady Toppers\nE.A. Diddle Arena\, Bowling Green\, KY
+  @ Western Kentucky Lady Toppers\nE.A. Diddle Arena\, Bowling Green\, KY\n
+ Broadcast: Broadcast not announced
 LOCATION:E.A. Diddle Arena\, Bowling Green\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -325,12 +350,13 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:Florida International Panthers @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
-  @ Middle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+  @ Middle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroad
+ cast: Broadcast not announced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -340,12 +366,12 @@ DTEND:20270225T190000Z
 SUMMARY:Jacksonville State Gamecocks @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJacksonville State Gamecocks @
   Florida International Panthers\nOcean Bank Convocation Center\, Miami\, F
- L
+ L\nBroadcast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -354,12 +380,13 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Kennesaw State Owls @ Florida International Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nKennesaw State Owls @ Florida 
- International Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ International Panthers\nOcean Bank Convocation Center\, Miami\, FL\nBroadc
+ ast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -368,12 +395,13 @@ DTSTART:20270305T003000Z
 DTEND:20270305T033000Z
 SUMMARY:Florida International Panthers @ Sam Houston Bearkats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
-  @ Sam Houston Bearkats\nBernard G. Johnson Coliseum\, Huntsville\, TX
+  @ Sam Houston Bearkats\nBernard G. Johnson Coliseum\, Huntsville\, TX\nBr
+ oadcast: Broadcast not announced
 LOCATION:Bernard G. Johnson Coliseum\, Huntsville\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -382,12 +410,13 @@ DTSTART:20270306T200000Z
 DTEND:20270306T230000Z
 SUMMARY:Florida International Panthers @ New Mexico State Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida International Panthers
-  @ New Mexico State Aggies\nPan American Center\, Las Cruces\, NM
+  @ New Mexico State Aggies\nPan American Center\, Las Cruces\, NM\nBroadca
+ st: Broadcast not announced
 LOCATION:Pan American Center\, Las Cruces\, NM
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 END:VCALENDAR

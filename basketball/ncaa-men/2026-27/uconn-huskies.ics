@@ -12,12 +12,14 @@ DTSTART:20261103T020000Z
 DTEND:20261103T050000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGardner-Webb Runnin' Bulldogs @ 
- UConn Huskies\nPeoplesBank Arena\, Hartford\, CT
+ UConn Huskies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: Peacock (stre
+ aming)
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920685@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:UConn Huskies @ Michigan Wolverines
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Michigan Wolveri
- nes\nTD Garden\, Boston\, MA\nNeutral site
+ nes\nTD Garden\, Boston\, MA\nNeutral site\nBroadcast: TNT
 LOCATION:TD Garden\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920686@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Wagner Seahawks @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ UConn Huskies\
- nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: truTV
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916316@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20261114T003000Z
 DTEND:20261114T033000Z
 SUMMARY:Ohio State Buckeyes @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio State Buckeyes @ UConn Husk
- ies\nPeoplesBank Arena\, Hartford\, CT
+ ies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: TNT
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909742@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261119T020000Z
 DTEND:20261119T050000Z
 SUMMARY:UConn Huskies @ Arizona Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Arizona Wildcats
- \nMcKale Center at ALKEME Arena\, Tucson\, AZ
+ \nMcKale Center at ALKEME Arena\, Tucson\, AZ\nBroadcast: FS1
 LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909568@open-sports-cal
@@ -77,12 +83,14 @@ DTSTART:20261126T000000Z
 DTEND:20261126T030000Z
 SUMMARY:UConn Huskies @ Duke Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Duke Blue Devils
- \nT-Mobile Arena\, Las Vegas\, NV\nNeutral site
+ \nT-Mobile Arena\, Las Vegas\, NV\nNeutral site\nBroadcast: Prime Video (s
+ treaming)
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920687@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261130T233000Z
 DTEND:20261201T023000Z
 SUMMARY:Rider Broncs @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ UConn Huskies\nM&
- T Bank Center at Gampel Pavilion\, Storrs\, CT
+ T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: FS1
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913532@open-sports-cal
@@ -103,12 +112,13 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:UConn Huskies @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Illinois Fightin
- g Illini\nUnited Center\, Chicago\, IL\nNeutral site
+ g Illini\nUnited Center\, Chicago\, IL\nNeutral site\nBroadcast: Fox
 LOCATION:United Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920688@open-sports-cal
@@ -116,12 +126,14 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:Mississippi Valley State Delta Devils @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi Valley State Delta D
- evils @ UConn Huskies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ evils @ UConn Huskies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nB
+ roadcast: truTV
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909792@open-sports-cal
@@ -129,12 +141,13 @@ DTSTART:20261213T010000Z
 DTEND:20261213T040000Z
 SUMMARY:Kansas Jayhawks @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKansas Jayhawks @ UConn Huskies\
- nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: Fox
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920689@open-sports-cal
@@ -142,12 +155,13 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Delaware State Hornets @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ UConn H
- uskies\nPeoplesBank Arena\, Hartford\, CT
+ uskies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: truTV
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920433@open-sports-cal
@@ -155,12 +169,13 @@ DTSTART:20261220T200000Z
 DTEND:20261220T230000Z
 SUMMARY:UConn Huskies @ Virginia Cavaliers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Virginia Cavalie
- rs\nMadison Square Garden\, New York\, NY\nNeutral site
+ rs\nMadison Square Garden\, New York\, NY\nNeutral site\nBroadcast: ESPN
 LOCATION:Madison Square Garden\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920578@open-sports-cal
@@ -168,12 +183,13 @@ DTSTART:20261223T200000Z
 DTEND:20261223T230000Z
 SUMMARY:Georgetown Hoyas @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgetown Hoyas @ UConn Huskies
- \nPeoplesBank Arena\, Hartford\, CT
+ \nPeoplesBank Arena\, Hartford\, CT\nBroadcast: Peacock (streaming)
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920583@open-sports-cal
@@ -181,12 +197,13 @@ DTSTART:20270101T000000Z
 DTEND:20270101T030000Z
 SUMMARY:UConn Huskies @ Butler Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Butler Bulldogs\
- nHinkle Fieldhouse\, Indianapolis\, IN
+ nHinkle Fieldhouse\, Indianapolis\, IN\nBroadcast: FS1
 LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920586@open-sports-cal
@@ -194,12 +211,13 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:UConn Huskies @ Creighton Bluejays
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Creighton Blueja
- ys\nCHI Health Center Omaha\, Omaha\, NE
+ ys\nCHI Health Center Omaha\, Omaha\, NE\nBroadcast: NBC
 LOCATION:CHI Health Center Omaha\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920591@open-sports-cal
@@ -207,12 +225,13 @@ DTSTART:20270106T233000Z
 DTEND:20270107T023000Z
 SUMMARY:DePaul Blue Demons @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ UConn Huski
- es\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ es\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: FS1
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920595@open-sports-cal
@@ -220,12 +239,13 @@ DTSTART:20270110T000000Z
 DTEND:20270110T030000Z
 SUMMARY:UConn Huskies @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Seton Hall Pirat
- es\nPrudential Center\, Newark\, NJ
+ es\nPrudential Center\, Newark\, NJ\nBroadcast: Peacock (streaming)
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920600@open-sports-cal
@@ -233,12 +253,13 @@ DTSTART:20270113T000000Z
 DTEND:20270113T030000Z
 SUMMARY:Marquette Golden Eagles @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ UConn 
- Huskies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ Huskies\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: TNT
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920608@open-sports-cal
@@ -246,11 +267,12 @@ DTSTART:20270116T170000Z
 DTEND:20270116T200000Z
 SUMMARY:Xavier Musketeers @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ UConn Huskie
- s\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ s\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: Broadcast 
+ not announced
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,12 +281,13 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:UConn Huskies @ Providence Friars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Providence Friar
- s\nAmica Mutual Pavilion\, Providence\, RI
+ s\nAmica Mutual Pavilion\, Providence\, RI\nBroadcast: Peacock (streaming)
 LOCATION:Amica Mutual Pavilion\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920615@open-sports-cal
@@ -272,12 +295,13 @@ DTSTART:20270123T170000Z
 DTEND:20270123T200000Z
 SUMMARY:Butler Bulldogs @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nButler Bulldogs @ UConn Huskies\
- nPeoplesBank Arena\, Hartford\, CT
+ nPeoplesBank Arena\, Hartford\, CT\nBroadcast: TNT
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920619@open-sports-cal
@@ -285,12 +309,13 @@ DTSTART:20270127T010000Z
 DTEND:20270127T040000Z
 SUMMARY:UConn Huskies @ Georgetown Hoyas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Georgetown Hoyas
- \nCapital One Arena\, Washington\, DC
+ \nCapital One Arena\, Washington\, DC\nBroadcast: FS1
 LOCATION:Capital One Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920624@open-sports-cal
@@ -298,12 +323,13 @@ DTSTART:20270130T010000Z
 DTEND:20270130T040000Z
 SUMMARY:UConn Huskies @ St. John's Red Storm
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ St. John's Red S
- torm\nMadison Square Garden\, New York\, NY
+ torm\nMadison Square Garden\, New York\, NY\nBroadcast: Fox
 LOCATION:Madison Square Garden\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920631@open-sports-cal
@@ -311,12 +337,13 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:Villanova Wildcats @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ UConn Huski
- es\nPeoplesBank Arena\, Hartford\, CT
+ es\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: Peacock (streaming)
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920637@open-sports-cal
@@ -324,12 +351,13 @@ DTSTART:20270207T213000Z
 DTEND:20270208T003000Z
 SUMMARY:Creighton Bluejays @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCreighton Bluejays @ UConn Huski
- es\nPeoplesBank Arena\, Hartford\, CT
+ es\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: Fox
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920640@open-sports-cal
@@ -337,12 +365,13 @@ DTSTART:20270211T013000Z
 DTEND:20270211T043000Z
 SUMMARY:UConn Huskies @ DePaul Blue Demons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ DePaul Blue Demo
- ns\nWintrust Arena\, Chicago\, IL
+ ns\nWintrust Arena\, Chicago\, IL\nBroadcast: FS1
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920647@open-sports-cal
@@ -350,12 +379,13 @@ DTSTART:20270214T170000Z
 DTEND:20270214T200000Z
 SUMMARY:UConn Huskies @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Villanova Wildca
- ts\nXfinity Mobile Arena\, Philadelphia\, PA
+ ts\nXfinity Mobile Arena\, Philadelphia\, PA\nBroadcast: Fox
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920652@open-sports-cal
@@ -363,12 +393,14 @@ DTSTART:20270218T010000Z
 DTEND:20270218T040000Z
 SUMMARY:Seton Hall Pirates @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ UConn Huski
- es\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ es\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: Peacock (
+ streaming)
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920655@open-sports-cal
@@ -376,12 +408,13 @@ DTSTART:20270220T193000Z
 DTEND:20270220T223000Z
 SUMMARY:UConn Huskies @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Marquette Golden
-  Eagles\nFiserv Forum\, Milwaukee\, WI
+  Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: Fox
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920667@open-sports-cal
@@ -389,12 +422,13 @@ DTSTART:20270228T010000Z
 DTEND:20270228T040000Z
 SUMMARY:Providence Friars @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nProvidence Friars @ UConn Huskie
- s\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ s\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: Fox
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920670@open-sports-cal
@@ -402,12 +436,13 @@ DTSTART:20270303T003000Z
 DTEND:20270303T033000Z
 SUMMARY:St. John's Red Storm @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. John's Red Storm @ UConn Hus
- kies\nPeoplesBank Arena\, Hartford\, CT
+ kies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: TNT
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920674@open-sports-cal
@@ -415,11 +450,12 @@ DTSTART:20270306T193000Z
 DTEND:20270306T223000Z
 SUMMARY:UConn Huskies @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Xavier Musketeer
- s\nCintas Center\, Cincinnati\, OH
+ s\nCintas Center\, Cincinnati\, OH\nBroadcast: TNT
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 END:VCALENDAR

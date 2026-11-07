@@ -12,13 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:UL Monroe Warhawks @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUL Monroe Warhawks @ Ohio Bobc
- ats\nConvocation Center (OH)\, Athens\, OH
+ ats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929151@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261109T160000Z
 DTEND:20261109T190000Z
 SUMMARY:Otterbein Cardinals @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOtterbein Cardinals @ Ohio Bob
- cats\nConvocation Center (OH)\, Athens\, OH
+ cats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912980@open-sports-cal
@@ -40,13 +42,15 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Georgia Lady Bulldogs @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Lady Bulldogs @ Ohio B
- obcats\nConvocation Center (OH)\, Athens\, OH
+ obcats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929152@open-sports-cal
@@ -54,12 +58,12 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Ohio Bobcats @ Howard Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Howard Bison\nB
- urr Gymnasium\, Washington\, DC
+ urr Gymnasium\, Washington\, DC\nBroadcast: Broadcast not announced
 LOCATION:Burr Gymnasium\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -68,13 +72,14 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Xavier Musketeers @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nXavier Musketeers @ Ohio Bobca
- ts\nConvocation Center (OH)\, Athens\, OH
+ ts\nConvocation Center (OH)\, Athens\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918662@open-sports-cal
@@ -82,13 +87,15 @@ DTSTART:20261130T230000Z
 DTEND:20261201T020000Z
 SUMMARY:Ohio Bobcats @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Marshall Thunde
- ring Herd\nCam Henderson Center\, Huntington\, WV
+ ring Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911512@open-sports-cal
@@ -96,13 +103,14 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:Radford Highlanders @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRadford Highlanders @ Ohio Bob
- cats\nConvocation Center (OH)\, Athens\, OH
+ cats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920012@open-sports-cal
@@ -110,13 +118,15 @@ DTSTART:20261214T170000Z
 DTEND:20261214T200000Z
 SUMMARY:Ohio Bobcats @ Southern Illinois Salukis
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Southern Illino
- is Salukis\nBanterra Center\, Carbondale\, IL
+ is Salukis\nBanterra Center\, Carbondale\, IL\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Banterra Center\, Carbondale\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921239@open-sports-cal
@@ -124,13 +134,14 @@ DTSTART:20261217T010000Z
 DTEND:20261217T040000Z
 SUMMARY:Ohio Bobcats @ Saint Louis Billikens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Saint Louis Bil
- likens\nChaifetz Arena\, St. Louis\, MO
+ likens\nChaifetz Arena\, St. Louis\, MO\nBroadcast: ESPN+ (streaming)
 LOCATION:Chaifetz Arena\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921024@open-sports-cal
@@ -138,13 +149,14 @@ DTSTART:20261222T180000Z
 DTEND:20261222T210000Z
 SUMMARY:Davidson Wildcats @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDavidson Wildcats @ Ohio Bobca
- ts\nConvocation Center (OH)\, Athens\, OH
+ ts\nConvocation Center (OH)\, Athens\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929153@open-sports-cal
@@ -152,13 +164,15 @@ DTSTART:20261229T170000Z
 DTEND:20261229T200000Z
 SUMMARY:Ohio Wesleyan Battling Bishops @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Wesleyan Battling Bishops
-  @ Ohio Bobcats\nConvocation Center (OH)\, Athens\, OH
+  @ Ohio Bobcats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401909351@open-sports-cal
@@ -166,12 +180,13 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:Bowling Green Falcons @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Ohio B
- obcats\nConvocation Center (OH)\, Athens\, OH
+ obcats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +195,13 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Ohio Bobcats @ Western Michigan Broncos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Western Michiga
- n Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI
+ n Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI\nBroadcast: Broadcast no
+ t announced
 LOCATION:University Arena (MI)\, Kalamazoo\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +210,13 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:Ohio Bobcats @ Eastern Michigan Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Eastern Michiga
- n Eagles\nGervin GameAbove Center\, Ypsilanti\, MI
+ n Eagles\nGervin GameAbove Center\, Ypsilanti\, MI\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +225,12 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Toledo Rockets @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nToledo Rockets @ Ohio Bobcats\
- nConvocation Center (OH)\, Athens\, OH
+ nConvocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not announced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +239,12 @@ DTSTART:20270116T170000Z
 DTEND:20270116T200000Z
 SUMMARY:Ohio Bobcats @ Akron Zips
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Akron Zips\nJam
- es A. Rhodes Arena\, Akron\, OH
+ es A. Rhodes Arena\, Akron\, OH\nBroadcast: Broadcast not announced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +253,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Buffalo Bulls @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBuffalo Bulls @ Ohio Bobcats\n
- Convocation Center (OH)\, Athens\, OH
+ Convocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not announced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +267,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Miami (OH) RedHawks @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiami (OH) RedHawks @ Ohio Bob
- cats\nConvocation Center (OH)\, Athens\, OH
+ cats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +282,12 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:Ohio Bobcats @ Toledo Rockets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Toledo Rockets\
- nSavage Arena\, Toledo\, OH
+ nSavage Arena\, Toledo\, OH\nBroadcast: Broadcast not announced
 LOCATION:Savage Arena\, Toledo\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +296,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Massachusetts Minutewomen @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMassachusetts Minutewomen @ Oh
- io Bobcats\nConvocation Center (OH)\, Athens\, OH
+ io Bobcats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast no
+ t announced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +311,12 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:Ohio Bobcats @ Kent State Golden Flashes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Kent State Gold
- en Flashes\nM.A.C. Center\, Kent\, OH
+ en Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: Broadcast not announced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +325,13 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:Ball State Cardinals @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBall State Cardinals @ Ohio Bo
- bcats\nConvocation Center (OH)\, Athens\, OH
+ bcats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +340,13 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:Ohio Bobcats @ Bowling Green Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Bowling Green F
- alcons\nStroh Center\, Bowling Green\, OH
+ alcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +355,13 @@ DTSTART:20270217T233000Z
 DTEND:20270218T023000Z
 SUMMARY:Ohio Bobcats @ Central Michigan Chippewas
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Central Michiga
- n Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI
+ n Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI\nBroadcast: Broadcast not
+  announced
 LOCATION:McGuirk Arena\, Mount Pleasant\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +370,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Eastern Michigan Eagles @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Michigan Eagles @ Ohio
-  Bobcats\nConvocation Center (OH)\, Athens\, OH
+  Bobcats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not 
+ announced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +385,12 @@ DTSTART:20270224T230000Z
 DTEND:20270225T020000Z
 SUMMARY:Ohio Bobcats @ Buffalo Bulls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Buffalo Bulls\n
- Broadview Arena\, Buffalo\, NY
+ Broadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announced
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +399,13 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Western Michigan Broncos @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Michigan Broncos @ Ohi
- o Bobcats\nConvocation Center (OH)\, Athens\, OH
+ o Bobcats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not
+  announced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +414,12 @@ DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
 SUMMARY:Akron Zips @ Ohio Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAkron Zips @ Ohio Bobcats\nCon
- vocation Center (OH)\, Athens\, OH
+ vocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not announced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +428,12 @@ DTSTART:20270306T180000Z
 DTEND:20270306T210000Z
 SUMMARY:Ohio Bobcats @ Miami (OH) RedHawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Miami (OH) RedH
- awks\nMillett Hall\, Oxford\, OH
+ awks\nMillett Hall\, Oxford\, OH\nBroadcast: Broadcast not announced
 LOCATION:Millett Hall\, Oxford\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

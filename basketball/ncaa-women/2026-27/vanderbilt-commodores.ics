@@ -12,13 +12,15 @@ DTSTART:20261102T170000Z
 DTEND:20261102T200000Z
 SUMMARY:Lipscomb Bisons @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLipscomb Bisons @ Vanderbilt C
- ommodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ ommodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: SECN+ (str
+ eaming)
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913884@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261105T003000Z
 DTEND:20261105T033000Z
 SUMMARY:Queens University Royals @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nQueens University Royals @ Van
- derbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ derbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: S
+ ECN+ (streaming)
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918828@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261110T003000Z
 DTEND:20261110T033000Z
 SUMMARY:Morehead State Eagles @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMorehead State Eagles @ Vander
- bilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ bilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: SECN
+ + (streaming)
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918829@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261112T003000Z
 DTEND:20261112T033000Z
 SUMMARY:Western Kentucky Lady Toppers @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Kentucky Lady Toppers 
- @ Vanderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ @ Vanderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadca
+ st: SECN+ (streaming)
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918830@open-sports-cal
@@ -68,13 +76,15 @@ DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Vanderbilt Commodores @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Iowa H
- awkeyes\nTyson Events Center\, Sioux City\, IA\nNeutral site
+ awkeyes\nTyson Events Center\, Sioux City\, IA\nNeutral site\nBroadcast: F
+ S1
 LOCATION:Tyson Events Center\, Sioux City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918831@open-sports-cal
@@ -82,13 +92,15 @@ DTSTART:20261119T003000Z
 DTEND:20261119T033000Z
 SUMMARY:North Alabama Lions @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Alabama Lions @ Vanderbi
- lt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ lt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: SECN+ 
+ (streaming)
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913059@open-sports-cal
@@ -96,12 +108,13 @@ DTSTART:20261123T220000Z
 DTEND:20261124T010000Z
 SUMMARY:Vanderbilt Commodores @ Arizona Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Arizon
- a Wildcats\nThe Reef\, Jacksonville\, FL\nNeutral site
+ a Wildcats\nThe Reef\, Jacksonville\, FL\nNeutral site\nBroadcast: Broadca
+ st not announced
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +123,13 @@ DTSTART:20261125T233000Z
 DTEND:20261126T023000Z
 SUMMARY:Vanderbilt Commodores @ Oregon State Beavers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Oregon
-  State Beavers\nThe Reef\, Jacksonville\, FL\nNeutral site
+  State Beavers\nThe Reef\, Jacksonville\, FL\nNeutral site\nBroadcast: Bro
+ adcast not announced
 LOCATION:The Reef\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +138,15 @@ DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:Georgia State Panthers @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Vande
- rbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ rbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: SEC
+  Network
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918834@open-sports-cal
@@ -138,13 +154,15 @@ DTSTART:20261204T020000Z
 DTEND:20261204T050000Z
 SUMMARY:Notre Dame Fighting Irish @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Va
- nderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ nderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: 
+ ESPN
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918835@open-sports-cal
@@ -152,13 +170,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:South Alabama Jaguars @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Alabama Jaguars @ Vander
- bilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ bilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: SEC 
+ Network
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918836@open-sports-cal
@@ -166,13 +186,15 @@ DTSTART:20261209T220000Z
 DTEND:20261210T010000Z
 SUMMARY:Vanderbilt Commodores @ Davidson Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Davids
- on Wildcats\nJohn M. Belk Arena\, Davidson\, NC
+ on Wildcats\nJohn M. Belk Arena\, Davidson\, NC\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:John M. Belk Arena\, Davidson\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918837@open-sports-cal
@@ -180,13 +202,15 @@ DTSTART:20261219T013000Z
 DTEND:20261219T043000Z
 SUMMARY:Belmont Bruins @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBelmont Bruins @ Vanderbilt Co
- mmodores\nBridgestone Arena\, Nashville\, TN\nNeutral site
+ mmodores\nBridgestone Arena\, Nashville\, TN\nNeutral site\nBroadcast: ESP
+ NU
 LOCATION:Bridgestone Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918838@open-sports-cal
@@ -194,13 +218,15 @@ DTSTART:20261221T180000Z
 DTEND:20261221T210000Z
 SUMMARY:Tennessee State Lady Tigers @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee State Lady Tigers @ 
- Vanderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ Vanderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast
+ : SECN+ (streaming)
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918839@open-sports-cal
@@ -208,13 +234,15 @@ DTSTART:20261229T003000Z
 DTEND:20261229T033000Z
 SUMMARY:Little Rock Trojans @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLittle Rock Trojans @ Vanderbi
- lt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ lt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: SECN+ 
+ (streaming)
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912831@open-sports-cal
@@ -222,13 +250,15 @@ DTSTART:20270101T020000Z
 DTEND:20270101T050000Z
 SUMMARY:Arkansas Razorbacks @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas Razorbacks @ Vanderbi
- lt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ lt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: SEC Ne
+ twork
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912834@open-sports-cal
@@ -236,13 +266,14 @@ DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:Vanderbilt Commodores @ LSU Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ LSU Ti
- gers\nPete Maravich Assembly Center\, Baton Rouge\, LA
+ gers\nPete Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: ABC
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912842@open-sports-cal
@@ -250,12 +281,12 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Vanderbilt Commodores @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Auburn
-  Tigers\nNeville Arena\, Auburn\, AL
+  Tigers\nNeville Arena\, Auburn\, AL\nBroadcast: Broadcast not announced
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,13 +295,15 @@ DTSTART:20270110T230000Z
 DTEND:20270111T020000Z
 SUMMARY:Mississippi State Bulldogs @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi State Bulldogs @ V
- anderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ anderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast:
+  SEC Network
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912863@open-sports-cal
@@ -278,13 +311,15 @@ DTSTART:20270115T023000Z
 DTEND:20270115T053000Z
 SUMMARY:Texas A&M Aggies @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M Aggies @ Vanderbilt 
- Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: SEC Netwo
+ rk
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912866@open-sports-cal
@@ -292,13 +327,14 @@ DTSTART:20270117T180000Z
 DTEND:20270117T210000Z
 SUMMARY:Vanderbilt Commodores @ Texas Longhorns
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Texas 
- Longhorns\nMoody Center\, Austin\, TX
+ Longhorns\nMoody Center\, Austin\, TX\nBroadcast: ABC
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912870@open-sports-cal
@@ -306,12 +342,13 @@ DTSTART:20270122T003000Z
 DTEND:20270122T033000Z
 SUMMARY:Vanderbilt Commodores @ Missouri Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Missou
- ri Tigers\nMizzou Arena\, Columbia\, MO
+ ri Tigers\nMizzou Arena\, Columbia\, MO\nBroadcast: Broadcast not announce
+ d
 LOCATION:Mizzou Arena\, Columbia\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +357,13 @@ DTSTART:20270124T200000Z
 DTEND:20270124T230000Z
 SUMMARY:Georgia Lady Bulldogs @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Lady Bulldogs @ Vander
- bilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ bilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: Broa
+ dcast not announced
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -334,13 +372,14 @@ DTSTART:20270129T020000Z
 DTEND:20270129T050000Z
 SUMMARY:Vanderbilt Commodores @ Oklahoma Sooners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Oklaho
- ma Sooners\nLloyd Noble Center\, Norman\, OK
+ ma Sooners\nLloyd Noble Center\, Norman\, OK\nBroadcast: ESPN2
 LOCATION:Lloyd Noble Center\, Norman\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912903@open-sports-cal
@@ -348,13 +387,15 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:South Carolina Gamecocks @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouth Carolina Gamecocks @ Van
- derbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ derbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: E
+ SPN
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912909@open-sports-cal
@@ -363,12 +404,13 @@ DTEND;VALUE=DATE:20270208
 SUMMARY:Tennessee Lady Volunteers @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee Lady Volunteers @ Va
  nderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nStart time 
- TBD
+ TBD\nBroadcast: ESPN
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912912@open-sports-cal
@@ -376,13 +418,14 @@ DTSTART:20270212T013000Z
 DTEND:20270212T043000Z
 SUMMARY:Vanderbilt Commodores @ Alabama Crimson Tide
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Alabam
- a Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ a Crimson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: SEC Network
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912927@open-sports-cal
@@ -390,13 +433,14 @@ DTSTART:20270215T230000Z
 DTEND:20270216T020000Z
 SUMMARY:Vanderbilt Commodores @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Kentuc
- ky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ ky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: ESPN2
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912934@open-sports-cal
@@ -404,13 +448,14 @@ DTSTART:20270221T170000Z
 DTEND:20270221T200000Z
 SUMMARY:Ole Miss Rebels @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOle Miss Rebels @ Vanderbilt C
- ommodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ ommodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: ESPN
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912943@open-sports-cal
@@ -418,12 +463,13 @@ DTSTART:20270226T003000Z
 DTEND:20270226T033000Z
 SUMMARY:Missouri Tigers @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMissouri Tigers @ Vanderbilt C
- ommodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ ommodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: Broadcast 
+ not announced
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +478,13 @@ DTSTART:20270228T180000Z
 DTEND:20270228T210000Z
 SUMMARY:Vanderbilt Commodores @ Florida Gators
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVanderbilt Commodores @ Florid
- a Gators\nStephen C. O'Connell Center\, Gainesville\, FL
+ a Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: Broad
+ cast not announced
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

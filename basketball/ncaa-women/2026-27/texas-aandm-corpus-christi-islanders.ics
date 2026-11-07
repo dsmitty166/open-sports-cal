@@ -13,13 +13,15 @@ DTSTART:20261105T010000Z
 DTEND:20261105T040000Z
 SUMMARY:Our Lady of the Lake Saints @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOur Lady of the Lake Saints @ 
- Texas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ Texas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\
+ nBroadcast: ESPN+ (streaming)
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918464@open-sports-cal
@@ -27,13 +29,15 @@ DTSTART:20261108T200000Z
 DTEND:20261108T230000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Baylor Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ Baylor Bears\nFoster Pavilion\, Waco\, TX
+ ders @ Baylor Bears\nFoster Pavilion\, Waco\, TX\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Foster Pavilion\, Waco\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920440@open-sports-cal
@@ -42,12 +46,12 @@ DTEND:20261113T203000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Texas State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
  ders @ Texas State Bobcats\nStrahan Arena at the University Events Center\
- , San Marcos\, TX
+ , San Marcos\, TX\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -56,13 +60,15 @@ DTSTART:20261118T010000Z
 DTEND:20261118T040000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Houston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ Houston Cougars\nFertitta Center\, Houston\, TX
+ ders @ Houston Cougars\nFertitta Center\, Houston\, TX\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Fertitta Center\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913903@open-sports-cal
@@ -70,13 +76,15 @@ DTSTART:20261123T010000Z
 DTEND:20261123T040000Z
 SUMMARY:West Florida Argonauts @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWest Florida Argonauts @ Texas
-  A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+  A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920442@open-sports-cal
@@ -84,13 +92,15 @@ DTSTART:20261125T010000Z
 DTEND:20261125T040000Z
 SUMMARY:St. Mary's (TX) Rattlers @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSt. Mary's (TX) Rattlers @ Tex
- as A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ as A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nBr
+ oadcast: ESPN+ (streaming)
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920213@open-sports-cal
@@ -98,13 +108,15 @@ DTSTART:20261204T003000Z
 DTEND:20261204T033000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+ ders @ LSU New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920443@open-sports-cal
@@ -112,13 +124,15 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Nicholls Colonels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ Nicholls Colonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA
+ ders @ Nicholls Colonels\nDavid R. Stopher Gymnasium\, Thibodaux\, LA\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:David R. Stopher Gymnasium\, Thibodaux\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920092@open-sports-cal
@@ -126,13 +140,15 @@ DTSTART:20261216T010000Z
 DTEND:20261216T040000Z
 SUMMARY:Lamar Cardinals @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLamar Cardinals @ Texas A&M-Co
- rpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ rpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920444@open-sports-cal
@@ -140,13 +156,15 @@ DTSTART:20261218T010000Z
 DTEND:20261218T040000Z
 SUMMARY:Stephen F. Austin Ladyjacks @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStephen F. Austin Ladyjacks @ 
- Texas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ Texas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\
+ nBroadcast: ESPN+ (streaming)
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920445@open-sports-cal
@@ -154,12 +172,13 @@ DTSTART:20261220T220000Z
 DTEND:20261221T010000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Fresno State Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ Fresno State Bulldogs\nSave Mart Center\, Fresno\, CA
+ ders @ Fresno State Bulldogs\nSave Mart Center\, Fresno\, CA\nBroadcast: B
+ roadcast not announced
 LOCATION:Save Mart Center\, Fresno\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -168,13 +187,15 @@ DTSTART:20261222T220000Z
 DTEND:20261223T010000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Pacific Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ Pacific Tigers\nAlex G. Spanos Center\, Stockton\, CA
+ ders @ Pacific Tigers\nAlex G. Spanos Center\, Stockton\, CA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Alex G. Spanos Center\, Stockton\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920446@open-sports-cal
@@ -182,13 +203,15 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Houston Christian Huskies @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHouston Christian Huskies @ Te
- xas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ xas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920447@open-sports-cal
@@ -196,12 +219,13 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ UT Rio Grande Valley Vaqueros
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ UT Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX
+ ders @ UT Rio Grande Valley Vaqueros\nUTRGV Fieldhouse\, Edinburg\, TX\nBr
+ oadcast: Broadcast not announced
 LOCATION:UTRGV Fieldhouse\, Edinburg\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -210,12 +234,13 @@ DTSTART:20270107T170000Z
 DTEND:20270107T200000Z
 SUMMARY:East Texas A&M Lions @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEast Texas A&M Lions @ Texas A
- &M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ &M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nBroadc
+ ast: Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -225,12 +250,12 @@ DTEND:20270109T220000Z
 SUMMARY:Northwestern State Lady Demons @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwestern State Lady Demons
   @ Texas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, 
- TX
+ TX\nBroadcast: Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -239,12 +264,13 @@ DTSTART:20270115T003000Z
 DTEND:20270115T033000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ McNeese Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA
+ ders @ McNeese Cowgirls\nTownsley Law Arena\, Lake Charles\, LA\nBroadcast
+ : Broadcast not announced
 LOCATION:Townsley Law Arena\, Lake Charles\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -253,12 +279,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ SE Louisiana Lady Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ SE Louisiana Lady Lions\nUniversity Center\, Hammond\, LA
+ ders @ SE Louisiana Lady Lions\nUniversity Center\, Hammond\, LA\nBroadcas
+ t: Broadcast not announced
 LOCATION:University Center\, Hammond\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -267,12 +294,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Houston Christian Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ Houston Christian Huskies\nSharp Gymnasium\, Houston\, TX
+ ders @ Houston Christian Huskies\nSharp Gymnasium\, Houston\, TX\nBroadcas
+ t: Broadcast not announced
 LOCATION:Sharp Gymnasium\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -281,12 +309,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Incarnate Word Cardinals @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIncarnate Word Cardinals @ Tex
- as A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ as A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nBr
+ oadcast: Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -296,12 +325,12 @@ DTEND:20270129T040000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Rio Grande Valley Vaqueros 
  @ Texas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, T
- X
+ X\nBroadcast: Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -310,12 +339,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Incarnate Word Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ Incarnate Word Cardinals\nMcDermott Center\, San Antonio\, TX
+ ders @ Incarnate Word Cardinals\nMcDermott Center\, San Antonio\, TX\nBroa
+ dcast: Broadcast not announced
 LOCATION:McDermott Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -324,12 +354,13 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:LSU New Orleans Privateers @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLSU New Orleans Privateers @ T
- exas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ exas A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\n
+ Broadcast: Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -338,12 +369,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Nicholls Colonels @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNicholls Colonels @ Texas A&M-
- Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nBroadcast
+ : Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -353,12 +385,12 @@ DTEND:20270212T033000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Stephen F. Austin Ladyjacks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
  ders @ Stephen F. Austin Ladyjacks\nWilliam R. Johnson Coliseum\, Nacogdoc
- hes\, TX
+ hes\, TX\nBroadcast: Broadcast not announced
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -367,12 +399,13 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX
+ ders @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: Broadc
+ ast not announced
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -381,12 +414,13 @@ DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:SE Louisiana Lady Lions @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSE Louisiana Lady Lions @ Texa
- s A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ s A&M-Corpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nBro
+ adcast: Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -395,12 +429,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:McNeese Cowgirls @ Texas A&M-Corpus Christi Islanders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMcNeese Cowgirls @ Texas A&M-C
- orpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX
+ orpus Christi Islanders\nHilliard Center\, Corpus Christi\, TX\nBroadcast:
+  Broadcast not announced
 LOCATION:Hilliard Center\, Corpus Christi\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -409,12 +444,13 @@ DTSTART:20270226T003000Z
 DTEND:20270226T033000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ East Texas A&M Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
- ders @ East Texas A&M Lions\nThe Field House\, Commerce\, TX
+ ders @ East Texas A&M Lions\nThe Field House\, Commerce\, TX\nBroadcast: B
+ roadcast not announced
 LOCATION:The Field House\, Commerce\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -424,12 +460,12 @@ DTEND:20270227T220000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Northwestern State Lady Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas A&M-Corpus Christi Islan
  ders @ Northwestern State Lady Demons\nPrather Coliseum\, Natchitoches\, L
- A
+ A\nBroadcast: Broadcast not announced
 LOCATION:Prather Coliseum\, Natchitoches\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

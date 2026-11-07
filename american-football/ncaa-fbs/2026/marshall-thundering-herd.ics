@@ -12,12 +12,13 @@ DTSTART:20260905T193000Z
 DTEND:20260905T223000Z
 SUMMARY:Marshall Thundering Herd @ Penn State Nittany Lions
 DESCRIPTION:NCAA FBS Football 2026\nMarshall Thundering Herd @ Penn State N
- ittany Lions\nBeaver Stadium\, University Park\, PA
+ ittany Lions\nBeaver Stadium\, University Park\, PA\nBroadcast: FS1
 LOCATION:Beaver Stadium\, University Park\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871045@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Marshall Thundering Herd
 DESCRIPTION:NCAA FBS Football 2026\nMiddle Tennessee Blue Raiders @ Marshal
- l Thundering Herd\nJoan C. Edwards Stadium\, Huntington\, WV
+ l Thundering Herd\nJoan C. Edwards Stadium\, Huntington\, WV\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871047@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260919T223000Z
 DTEND:20260920T013000Z
 SUMMARY:Marshall Thundering Herd @ Missouri State Bears
 DESCRIPTION:NCAA FBS Football 2026\nMarshall Thundering Herd @ Missouri Sta
- te Bears\nRobert W. Plaster Stadium\, Springfield\, MO
+ te Bears\nRobert W. Plaster Stadium\, Springfield\, MO\nBroadcast: CBSSN
 LOCATION:Robert W. Plaster Stadium\, Springfield\, MO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401868188@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:Gardner-Webb Runnin' Bulldogs @ Marshall Thundering Herd
 DESCRIPTION:NCAA FBS Football 2026\nGardner-Webb Runnin' Bulldogs @ Marshal
- l Thundering Herd\nJoan C. Edwards Stadium\, Huntington\, WV
+ l Thundering Herd\nJoan C. Edwards Stadium\, Huntington\, WV\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869962@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261003T194500Z
 DTEND:20261003T224500Z
 SUMMARY:Marshall Thundering Herd @ James Madison Dukes
 DESCRIPTION:NCAA FBS Football 2026\nMarshall Thundering Herd @ James Madiso
- n Dukes\nBridgeforth Stadium\, Harrisonburg\, VA
+ n Dukes\nBridgeforth Stadium\, Harrisonburg\, VA\nBroadcast: ESPNU
 LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869943@open-sports-cal
@@ -77,12 +84,14 @@ DTSTART:20261010T230000Z
 DTEND:20261011T020000Z
 SUMMARY:Coastal Carolina Chanticleers @ Marshall Thundering Herd
 DESCRIPTION:NCAA FBS Football 2026\nCoastal Carolina Chanticleers @ Marshal
- l Thundering Herd\nJoan C. Edwards Stadium\, Huntington\, WV
+ l Thundering Herd\nJoan C. Edwards Stadium\, Huntington\, WV\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871092@open-sports-cal
@@ -90,12 +99,13 @@ DTSTART:20261020T233000Z
 DTEND:20261021T023000Z
 SUMMARY:South Alabama Jaguars @ Marshall Thundering Herd
 DESCRIPTION:NCAA FBS Football 2026\nSouth Alabama Jaguars @ Marshall Thunde
- ring Herd\nJoan C. Edwards Stadium\, Huntington\, WV
+ ring Herd\nJoan C. Edwards Stadium\, Huntington\, WV\nBroadcast: ESPN2
 LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871096@open-sports-cal
@@ -103,12 +113,14 @@ DTSTART:20261031T170000Z
 DTEND:20261031T200000Z
 SUMMARY:Marshall Thundering Herd @ Old Dominion Monarchs
 DESCRIPTION:NCAA FBS Football 2026\nMarshall Thundering Herd @ Old Dominion
-  Monarchs\nS.B. Ballard Stadium\, Norfolk\, VA
+  Monarchs\nS.B. Ballard Stadium\, Norfolk\, VA\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869951@open-sports-cal
@@ -116,12 +128,14 @@ DTSTART:20261107T203000Z
 DTEND:20261107T233000Z
 SUMMARY:Marshall Thundering Herd @ Georgia Southern Eagles
 DESCRIPTION:NCAA FBS Football 2026\nMarshall Thundering Herd @ Georgia Sout
- hern Eagles\nAllen E. Paulson Stadium\, Statesboro\, GA
+ hern Eagles\nAllen E. Paulson Stadium\, Statesboro\, GA\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Allen E. Paulson Stadium\, Statesboro\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869928@open-sports-cal
@@ -129,12 +143,14 @@ DTSTART:20261114T230000Z
 DTEND:20261115T020000Z
 SUMMARY:App State Mountaineers @ Marshall Thundering Herd
 DESCRIPTION:NCAA FBS Football 2026\nApp State Mountaineers @ Marshall Thund
- ering Herd\nJoan C. Edwards Stadium\, Huntington\, WV
+ ering Herd\nJoan C. Edwards Stadium\, Huntington\, WV\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401869958@open-sports-cal
@@ -142,11 +158,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Georgia State Panthers @ Marshall Thundering Herd
 DESCRIPTION:NCAA FBS Football 2026\nGeorgia State Panthers @ Marshall Thund
- ering Herd\nJoan C. Edwards Stadium\, Huntington\, WV\nStart time TBD
+ ering Herd\nJoan C. Edwards Stadium\, Huntington\, WV\nStart time TBD\nBro
+ adcast: Broadcast not announced
 LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401871102@open-sports-cal
@@ -154,10 +171,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Marshall Thundering Herd @ UL Monroe Warhawks
 DESCRIPTION:NCAA FBS Football 2026\nMarshall Thundering Herd @ UL Monroe Wa
- rhawks\nMalone Stadium\, Monroe\, LA\nStart time TBD
+ rhawks\nMalone Stadium\, Monroe\, LA\nStart time TBD\nBroadcast: Broadcast
+  not announced
 LOCATION:Malone Stadium\, Monroe\, LA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

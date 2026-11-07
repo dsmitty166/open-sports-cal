@@ -11,1968 +11,2296 @@ UID:nfl-2026-2026-09-09-new-england-patriots-vs-seattle-seahawks@open-sports-cal
 DTSTART:20260910T002000Z
 DTEND:20260910T032000Z
 SUMMARY:New England Patriots @ Seattle Seahawks
-DESCRIPTION:NFL 2026 — Week 1\nNew England Patriots @ Seattle Seahawks\nLumen Field
+DESCRIPTION:NFL 2026 — Week 1\nNew England Patriots @ Seattle Seahawks\nL
+ umen Field\nBroadcast: NBC
 LOCATION:Lumen Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-11-san-francisco-49ers-vs-los-angeles-rams@open-sports-cal
 DTSTART:20260911T003500Z
 DTEND:20260911T033500Z
 SUMMARY:San Francisco 49ers @ Los Angeles Rams
-DESCRIPTION:NFL 2026 — Week 1\nSan Francisco 49ers @ Los Angeles Rams\nMelbourne Cricket Ground
+DESCRIPTION:NFL 2026 — Week 1\nSan Francisco 49ers @ Los Angeles Rams\nMe
+ lbourne Cricket Ground\nBroadcast: Netflix (streaming)
 LOCATION:Melbourne Cricket Ground
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Australia/Melbourne
+X-BROADCAST:Netflix (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-atlanta-falcons-vs-pittsburgh-steelers@open-sports-cal
 DTSTART:20260913T170000Z
 DTEND:20260913T200000Z
 SUMMARY:Atlanta Falcons @ Pittsburgh Steelers
-DESCRIPTION:NFL 2026 — Week 1\nAtlanta Falcons @ Pittsburgh Steelers\nAcrisure Stadium
+DESCRIPTION:NFL 2026 — Week 1\nAtlanta Falcons @ Pittsburgh Steelers\nAcr
+ isure Stadium\nBroadcast: Fox
 LOCATION:Acrisure Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-baltimore-ravens-vs-indianapolis-colts@open-sports-cal
 DTSTART:20260913T170000Z
 DTEND:20260913T200000Z
 SUMMARY:Baltimore Ravens @ Indianapolis Colts
-DESCRIPTION:NFL 2026 — Week 1\nBaltimore Ravens @ Indianapolis Colts\nLucas Oil Stadium
+DESCRIPTION:NFL 2026 — Week 1\nBaltimore Ravens @ Indianapolis Colts\nLuc
+ as Oil Stadium\nBroadcast: CBS
 LOCATION:Lucas Oil Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-buffalo-bills-vs-houston-texans@open-sports-cal
 DTSTART:20260913T170000Z
 DTEND:20260913T200000Z
 SUMMARY:Buffalo Bills @ Houston Texans
-DESCRIPTION:NFL 2026 — Week 1\nBuffalo Bills @ Houston Texans\nReliant Stadium
+DESCRIPTION:NFL 2026 — Week 1\nBuffalo Bills @ Houston Texans\nReliant St
+ adium\nBroadcast: CBS
 LOCATION:Reliant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-chicago-bears-vs-carolina-panthers@open-sports-cal
 DTSTART:20260913T170000Z
 DTEND:20260913T200000Z
 SUMMARY:Chicago Bears @ Carolina Panthers
-DESCRIPTION:NFL 2026 — Week 1\nChicago Bears @ Carolina Panthers\nBank of America Stadium
+DESCRIPTION:NFL 2026 — Week 1\nChicago Bears @ Carolina Panthers\nBank of
+  America Stadium\nBroadcast: Fox
 LOCATION:Bank of America Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-tampa-bay-buccaneers-vs-cincinnati-bengals@open-sports-cal
 DTSTART:20260913T170000Z
 DTEND:20260913T200000Z
 SUMMARY:Tampa Bay Buccaneers @ Cincinnati Bengals
-DESCRIPTION:NFL 2026 — Week 1\nTampa Bay Buccaneers @ Cincinnati Bengals\nPaycor Stadium
+DESCRIPTION:NFL 2026 — Week 1\nTampa Bay Buccaneers @ Cincinnati Bengals\
+ nPaycor Stadium\nBroadcast: Fox
 LOCATION:Paycor Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-cleveland-browns-vs-jacksonville-jaguars@open-sports-cal
 DTSTART:20260913T170000Z
 DTEND:20260913T200000Z
 SUMMARY:Cleveland Browns @ Jacksonville Jaguars
-DESCRIPTION:NFL 2026 — Week 1\nCleveland Browns @ Jacksonville Jaguars\nEverBank Stadium
+DESCRIPTION:NFL 2026 — Week 1\nCleveland Browns @ Jacksonville Jaguars\nE
+ verBank Stadium\nBroadcast: CBS
 LOCATION:EverBank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-new-orleans-saints-vs-detroit-lions@open-sports-cal
 DTSTART:20260913T170000Z
 DTEND:20260913T200000Z
 SUMMARY:New Orleans Saints @ Detroit Lions
-DESCRIPTION:NFL 2026 — Week 1\nNew Orleans Saints @ Detroit Lions\nFord Field
+DESCRIPTION:NFL 2026 — Week 1\nNew Orleans Saints @ Detroit Lions\nFord F
+ ield\nBroadcast: Fox
 LOCATION:Ford Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-new-york-jets-vs-tennessee-titans@open-sports-cal
 DTSTART:20260913T170000Z
 DTEND:20260913T200000Z
 SUMMARY:New York Jets @ Tennessee Titans
-DESCRIPTION:NFL 2026 — Week 1\nNew York Jets @ Tennessee Titans\nNissan Stadium
+DESCRIPTION:NFL 2026 — Week 1\nNew York Jets @ Tennessee Titans\nNissan S
+ tadium\nBroadcast: CBS
 LOCATION:Nissan Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-arizona-cardinals-vs-los-angeles-chargers@open-sports-cal
 DTSTART:20260913T202500Z
 DTEND:20260913T232500Z
 SUMMARY:Arizona Cardinals @ Los Angeles Chargers
-DESCRIPTION:NFL 2026 — Week 1\nArizona Cardinals @ Los Angeles Chargers\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 1\nArizona Cardinals @ Los Angeles Chargers\n
+ SoFi Stadium\nBroadcast: CBS
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-green-bay-packers-vs-minnesota-vikings@open-sports-cal
 DTSTART:20260913T202500Z
 DTEND:20260913T232500Z
 SUMMARY:Green Bay Packers @ Minnesota Vikings
-DESCRIPTION:NFL 2026 — Week 1\nGreen Bay Packers @ Minnesota Vikings\nU.S. Bank Stadium
+DESCRIPTION:NFL 2026 — Week 1\nGreen Bay Packers @ Minnesota Vikings\nU.S
+ . Bank Stadium\nBroadcast: CBS
 LOCATION:U.S. Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-miami-dolphins-vs-las-vegas-raiders@open-sports-cal
 DTSTART:20260913T202500Z
 DTEND:20260913T232500Z
 SUMMARY:Miami Dolphins @ Las Vegas Raiders
-DESCRIPTION:NFL 2026 — Week 1\nMiami Dolphins @ Las Vegas Raiders\nAllegiant Stadium
+DESCRIPTION:NFL 2026 — Week 1\nMiami Dolphins @ Las Vegas Raiders\nAllegi
+ ant Stadium\nBroadcast: Fox
 LOCATION:Allegiant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-washington-commanders-vs-philadelphia-eagles@open-sports-cal
 DTSTART:20260913T202500Z
 DTEND:20260913T232500Z
 SUMMARY:Washington Commanders @ Philadelphia Eagles
-DESCRIPTION:NFL 2026 — Week 1\nWashington Commanders @ Philadelphia Eagles\nLincoln Financial Field
+DESCRIPTION:NFL 2026 — Week 1\nWashington Commanders @ Philadelphia Eagle
+ s\nLincoln Financial Field\nBroadcast: Fox
 LOCATION:Lincoln Financial Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-13-dallas-cowboys-vs-new-york-giants@open-sports-cal
 DTSTART:20260914T002000Z
 DTEND:20260914T032000Z
 SUMMARY:Dallas Cowboys @ New York Giants
-DESCRIPTION:NFL 2026 — Week 1\nDallas Cowboys @ New York Giants\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 1\nDallas Cowboys @ New York Giants\nMetLife 
+ Stadium\nBroadcast: NBC
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-14-denver-broncos-vs-kansas-city-chiefs@open-sports-cal
 DTSTART:20260915T001500Z
 DTEND:20260915T031500Z
 SUMMARY:Denver Broncos @ Kansas City Chiefs
-DESCRIPTION:NFL 2026 — Week 1\nDenver Broncos @ Kansas City Chiefs\nArrowhead Stadium
+DESCRIPTION:NFL 2026 — Week 1\nDenver Broncos @ Kansas City Chiefs\nArrow
+ head Stadium\nBroadcast: ESPN / ABC
 LOCATION:Arrowhead Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-17-detroit-lions-vs-buffalo-bills@open-sports-cal
 DTSTART:20260918T001500Z
 DTEND:20260918T031500Z
 SUMMARY:Detroit Lions @ Buffalo Bills
-DESCRIPTION:NFL 2026 — Week 2\nDetroit Lions @ Buffalo Bills\nHighmark Stadium
+DESCRIPTION:NFL 2026 — Week 2\nDetroit Lions @ Buffalo Bills\nHighmark St
+ adium\nBroadcast: Prime Video (streaming)
 LOCATION:Highmark Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-carolina-panthers-vs-atlanta-falcons@open-sports-cal
 DTSTART:20260920T170000Z
 DTEND:20260920T200000Z
 SUMMARY:Carolina Panthers @ Atlanta Falcons
-DESCRIPTION:NFL 2026 — Week 2\nCarolina Panthers @ Atlanta Falcons\nMercedes-Benz Stadium
+DESCRIPTION:NFL 2026 — Week 2\nCarolina Panthers @ Atlanta Falcons\nMerce
+ des-Benz Stadium\nBroadcast: Fox
 LOCATION:Mercedes-Benz Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-new-orleans-saints-vs-baltimore-ravens@open-sports-cal
 DTSTART:20260920T170000Z
 DTEND:20260920T200000Z
 SUMMARY:New Orleans Saints @ Baltimore Ravens
-DESCRIPTION:NFL 2026 — Week 2\nNew Orleans Saints @ Baltimore Ravens\nM&T Bank Stadium
+DESCRIPTION:NFL 2026 — Week 2\nNew Orleans Saints @ Baltimore Ravens\nM&T
+  Bank Stadium\nBroadcast: CBS
 LOCATION:M&T Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-minnesota-vikings-vs-chicago-bears@open-sports-cal
 DTSTART:20260920T170000Z
 DTEND:20260920T200000Z
 SUMMARY:Minnesota Vikings @ Chicago Bears
-DESCRIPTION:NFL 2026 — Week 2\nMinnesota Vikings @ Chicago Bears\nSoldier Field
+DESCRIPTION:NFL 2026 — Week 2\nMinnesota Vikings @ Chicago Bears\nSoldier
+  Field\nBroadcast: Fox
 LOCATION:Soldier Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-cincinnati-bengals-vs-houston-texans@open-sports-cal
 DTSTART:20260920T170000Z
 DTEND:20260920T200000Z
 SUMMARY:Cincinnati Bengals @ Houston Texans
-DESCRIPTION:NFL 2026 — Week 2\nCincinnati Bengals @ Houston Texans\nReliant Stadium
+DESCRIPTION:NFL 2026 — Week 2\nCincinnati Bengals @ Houston Texans\nRelia
+ nt Stadium\nBroadcast: CBS
 LOCATION:Reliant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-cleveland-browns-vs-tampa-bay-buccaneers@open-sports-cal
 DTSTART:20260920T170000Z
 DTEND:20260920T200000Z
 SUMMARY:Cleveland Browns @ Tampa Bay Buccaneers
-DESCRIPTION:NFL 2026 — Week 2\nCleveland Browns @ Tampa Bay Buccaneers\nRaymond James Stadium
+DESCRIPTION:NFL 2026 — Week 2\nCleveland Browns @ Tampa Bay Buccaneers\nR
+ aymond James Stadium\nBroadcast: CBS
 LOCATION:Raymond James Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-green-bay-packers-vs-new-york-jets@open-sports-cal
 DTSTART:20260920T170000Z
 DTEND:20260920T200000Z
 SUMMARY:Green Bay Packers @ New York Jets
-DESCRIPTION:NFL 2026 — Week 2\nGreen Bay Packers @ New York Jets\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 2\nGreen Bay Packers @ New York Jets\nMetLife
+  Stadium\nBroadcast: Fox
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-pittsburgh-steelers-vs-new-england-patriots@open-sports-cal
 DTSTART:20260920T170000Z
 DTEND:20260920T200000Z
 SUMMARY:Pittsburgh Steelers @ New England Patriots
-DESCRIPTION:NFL 2026 — Week 2\nPittsburgh Steelers @ New England Patriots\nGillette Stadium
+DESCRIPTION:NFL 2026 — Week 2\nPittsburgh Steelers @ New England Patriots
+ \nGillette Stadium\nBroadcast: CBS
 LOCATION:Gillette Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-philadelphia-eagles-vs-tennessee-titans@open-sports-cal
 DTSTART:20260920T170000Z
 DTEND:20260920T200000Z
 SUMMARY:Philadelphia Eagles @ Tennessee Titans
-DESCRIPTION:NFL 2026 — Week 2\nPhiladelphia Eagles @ Tennessee Titans\nNissan Stadium
+DESCRIPTION:NFL 2026 — Week 2\nPhiladelphia Eagles @ Tennessee Titans\nNi
+ ssan Stadium\nBroadcast: Fox
 LOCATION:Nissan Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-jacksonville-jaguars-vs-denver-broncos@open-sports-cal
 DTSTART:20260920T200500Z
 DTEND:20260920T230500Z
 SUMMARY:Jacksonville Jaguars @ Denver Broncos
-DESCRIPTION:NFL 2026 — Week 2\nJacksonville Jaguars @ Denver Broncos\nEmpower Field at Mile High
+DESCRIPTION:NFL 2026 — Week 2\nJacksonville Jaguars @ Denver Broncos\nEmp
+ ower Field at Mile High\nBroadcast: CBS
 LOCATION:Empower Field at Mile High
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-las-vegas-raiders-vs-los-angeles-chargers@open-sports-cal
 DTSTART:20260920T200500Z
 DTEND:20260920T230500Z
 SUMMARY:Las Vegas Raiders @ Los Angeles Chargers
-DESCRIPTION:NFL 2026 — Week 2\nLas Vegas Raiders @ Los Angeles Chargers\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 2\nLas Vegas Raiders @ Los Angeles Chargers\n
+ SoFi Stadium\nBroadcast: CBS
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-seattle-seahawks-vs-arizona-cardinals@open-sports-cal
 DTSTART:20260920T202500Z
 DTEND:20260920T232500Z
 SUMMARY:Seattle Seahawks @ Arizona Cardinals
-DESCRIPTION:NFL 2026 — Week 2\nSeattle Seahawks @ Arizona Cardinals\nState Farm Stadium
+DESCRIPTION:NFL 2026 — Week 2\nSeattle Seahawks @ Arizona Cardinals\nStat
+ e Farm Stadium\nBroadcast: Fox
 LOCATION:State Farm Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-washington-commanders-vs-dallas-cowboys@open-sports-cal
 DTSTART:20260920T202500Z
 DTEND:20260920T232500Z
 SUMMARY:Washington Commanders @ Dallas Cowboys
-DESCRIPTION:NFL 2026 — Week 2\nWashington Commanders @ Dallas Cowboys\nAT&T Stadium
+DESCRIPTION:NFL 2026 — Week 2\nWashington Commanders @ Dallas Cowboys\nAT
+ &T Stadium\nBroadcast: Fox
 LOCATION:AT&T Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-miami-dolphins-vs-san-francisco-49ers@open-sports-cal
 DTSTART:20260920T202500Z
 DTEND:20260920T232500Z
 SUMMARY:Miami Dolphins @ San Francisco 49ers
-DESCRIPTION:NFL 2026 — Week 2\nMiami Dolphins @ San Francisco 49ers\nLevi's Stadium
+DESCRIPTION:NFL 2026 — Week 2\nMiami Dolphins @ San Francisco 49ers\nLevi
+ 's Stadium\nBroadcast: Fox
 LOCATION:Levi's Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-20-indianapolis-colts-vs-kansas-city-chiefs@open-sports-cal
 DTSTART:20260921T002000Z
 DTEND:20260921T032000Z
 SUMMARY:Indianapolis Colts @ Kansas City Chiefs
-DESCRIPTION:NFL 2026 — Week 2\nIndianapolis Colts @ Kansas City Chiefs\nArrowhead Stadium
+DESCRIPTION:NFL 2026 — Week 2\nIndianapolis Colts @ Kansas City Chiefs\nA
+ rrowhead Stadium\nBroadcast: NBC
 LOCATION:Arrowhead Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-21-new-york-giants-vs-los-angeles-rams@open-sports-cal
 DTSTART:20260922T001500Z
 DTEND:20260922T031500Z
 SUMMARY:New York Giants @ Los Angeles Rams
-DESCRIPTION:NFL 2026 — Week 2\nNew York Giants @ Los Angeles Rams\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 2\nNew York Giants @ Los Angeles Rams\nSoFi S
+ tadium\nBroadcast: ESPN / ABC
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN / ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-24-atlanta-falcons-vs-green-bay-packers@open-sports-cal
 DTSTART:20260925T001500Z
 DTEND:20260925T031500Z
 SUMMARY:Atlanta Falcons @ Green Bay Packers
-DESCRIPTION:NFL 2026 — Week 3\nAtlanta Falcons @ Green Bay Packers\nLambeau Field
+DESCRIPTION:NFL 2026 — Week 3\nAtlanta Falcons @ Green Bay Packers\nLambe
+ au Field\nBroadcast: Prime Video (streaming)
 LOCATION:Lambeau Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-los-angeles-chargers-vs-buffalo-bills@open-sports-cal
 DTSTART:20260927T170000Z
 DTEND:20260927T200000Z
 SUMMARY:Los Angeles Chargers @ Buffalo Bills
-DESCRIPTION:NFL 2026 — Week 3\nLos Angeles Chargers @ Buffalo Bills\nHighmark Stadium
+DESCRIPTION:NFL 2026 — Week 3\nLos Angeles Chargers @ Buffalo Bills\nHigh
+ mark Stadium\nBroadcast: Fox
 LOCATION:Highmark Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-carolina-panthers-vs-cleveland-browns@open-sports-cal
 DTSTART:20260927T170000Z
 DTEND:20260927T200000Z
 SUMMARY:Carolina Panthers @ Cleveland Browns
-DESCRIPTION:NFL 2026 — Week 3\nCarolina Panthers @ Cleveland Browns\nHuntington Bank Field
+DESCRIPTION:NFL 2026 — Week 3\nCarolina Panthers @ Cleveland Browns\nHunt
+ ington Bank Field\nBroadcast: Fox
 LOCATION:Huntington Bank Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-cincinnati-bengals-vs-pittsburgh-steelers@open-sports-cal
 DTSTART:20260927T170000Z
 DTEND:20260927T200000Z
 SUMMARY:Cincinnati Bengals @ Pittsburgh Steelers
-DESCRIPTION:NFL 2026 — Week 3\nCincinnati Bengals @ Pittsburgh Steelers\nAcrisure Stadium
+DESCRIPTION:NFL 2026 — Week 3\nCincinnati Bengals @ Pittsburgh Steelers\n
+ Acrisure Stadium\nBroadcast: CBS
 LOCATION:Acrisure Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-new-york-jets-vs-detroit-lions@open-sports-cal
 DTSTART:20260927T170000Z
 DTEND:20260927T200000Z
 SUMMARY:New York Jets @ Detroit Lions
-DESCRIPTION:NFL 2026 — Week 3\nNew York Jets @ Detroit Lions\nFord Field
+DESCRIPTION:NFL 2026 — Week 3\nNew York Jets @ Detroit Lions\nFord Field\
+ nBroadcast: Fox
 LOCATION:Ford Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-houston-texans-vs-indianapolis-colts@open-sports-cal
 DTSTART:20260927T170000Z
 DTEND:20260927T200000Z
 SUMMARY:Houston Texans @ Indianapolis Colts
-DESCRIPTION:NFL 2026 — Week 3\nHouston Texans @ Indianapolis Colts\nLucas Oil Stadium
+DESCRIPTION:NFL 2026 — Week 3\nHouston Texans @ Indianapolis Colts\nLucas
+  Oil Stadium\nBroadcast: CBS
 LOCATION:Lucas Oil Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-new-england-patriots-vs-jacksonville-jaguars@open-sports-cal
 DTSTART:20260927T170000Z
 DTEND:20260927T200000Z
 SUMMARY:New England Patriots @ Jacksonville Jaguars
-DESCRIPTION:NFL 2026 — Week 3\nNew England Patriots @ Jacksonville Jaguars\nEverBank Stadium
+DESCRIPTION:NFL 2026 — Week 3\nNew England Patriots @ Jacksonville Jaguar
+ s\nEverBank Stadium\nBroadcast: CBS
 LOCATION:EverBank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-kansas-city-chiefs-vs-miami-dolphins@open-sports-cal
 DTSTART:20260927T170000Z
 DTEND:20260927T200000Z
 SUMMARY:Kansas City Chiefs @ Miami Dolphins
-DESCRIPTION:NFL 2026 — Week 3\nKansas City Chiefs @ Miami Dolphins\nHard Rock Stadium
+DESCRIPTION:NFL 2026 — Week 3\nKansas City Chiefs @ Miami Dolphins\nHard 
+ Rock Stadium\nBroadcast: CBS
 LOCATION:Hard Rock Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-tennessee-titans-vs-new-york-giants@open-sports-cal
 DTSTART:20260927T170000Z
 DTEND:20260927T200000Z
 SUMMARY:Tennessee Titans @ New York Giants
-DESCRIPTION:NFL 2026 — Week 3\nTennessee Titans @ New York Giants\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 3\nTennessee Titans @ New York Giants\nMetLif
+ e Stadium\nBroadcast: CBS
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-seattle-seahawks-vs-washington-commanders@open-sports-cal
 DTSTART:20260927T170000Z
 DTEND:20260927T200000Z
 SUMMARY:Seattle Seahawks @ Washington Commanders
-DESCRIPTION:NFL 2026 — Week 3\nSeattle Seahawks @ Washington Commanders\nNorthwest Stadium
+DESCRIPTION:NFL 2026 — Week 3\nSeattle Seahawks @ Washington Commanders\n
+ Northwest Stadium\nBroadcast: Fox
 LOCATION:Northwest Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-arizona-cardinals-vs-san-francisco-49ers@open-sports-cal
 DTSTART:20260927T200500Z
 DTEND:20260927T230500Z
 SUMMARY:Arizona Cardinals @ San Francisco 49ers
-DESCRIPTION:NFL 2026 — Week 3\nArizona Cardinals @ San Francisco 49ers\nLevi's Stadium
+DESCRIPTION:NFL 2026 — Week 3\nArizona Cardinals @ San Francisco 49ers\nL
+ evi's Stadium\nBroadcast: Fox
 LOCATION:Levi's Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-minnesota-vikings-vs-tampa-bay-buccaneers@open-sports-cal
 DTSTART:20260927T200500Z
 DTEND:20260927T230500Z
 SUMMARY:Minnesota Vikings @ Tampa Bay Buccaneers
-DESCRIPTION:NFL 2026 — Week 3\nMinnesota Vikings @ Tampa Bay Buccaneers\nRaymond James Stadium
+DESCRIPTION:NFL 2026 — Week 3\nMinnesota Vikings @ Tampa Bay Buccaneers\n
+ Raymond James Stadium\nBroadcast: Fox
 LOCATION:Raymond James Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-baltimore-ravens-vs-dallas-cowboys@open-sports-cal
 DTSTART:20260927T202500Z
 DTEND:20260927T232500Z
 SUMMARY:Baltimore Ravens @ Dallas Cowboys
-DESCRIPTION:NFL 2026 — Week 3\nBaltimore Ravens @ Dallas Cowboys\nMaracanã Stadium
+DESCRIPTION:NFL 2026 — Week 3\nBaltimore Ravens @ Dallas Cowboys\nMaracan
+ ã Stadium\nBroadcast: CBS
 LOCATION:Maracanã Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Sao_Paulo
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-las-vegas-raiders-vs-new-orleans-saints@open-sports-cal
 DTSTART:20260927T202500Z
 DTEND:20260927T232500Z
 SUMMARY:Las Vegas Raiders @ New Orleans Saints
-DESCRIPTION:NFL 2026 — Week 3\nLas Vegas Raiders @ New Orleans Saints\nCaesars Superdome
+DESCRIPTION:NFL 2026 — Week 3\nLas Vegas Raiders @ New Orleans Saints\nCa
+ esars Superdome\nBroadcast: CBS
 LOCATION:Caesars Superdome
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-27-los-angeles-rams-vs-denver-broncos@open-sports-cal
 DTSTART:20260928T002000Z
 DTEND:20260928T032000Z
 SUMMARY:Los Angeles Rams @ Denver Broncos
-DESCRIPTION:NFL 2026 — Week 3\nLos Angeles Rams @ Denver Broncos\nEmpower Field at Mile High
+DESCRIPTION:NFL 2026 — Week 3\nLos Angeles Rams @ Denver Broncos\nEmpower
+  Field at Mile High\nBroadcast: NBC
 LOCATION:Empower Field at Mile High
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-09-28-philadelphia-eagles-vs-chicago-bears@open-sports-cal
 DTSTART:20260929T001500Z
 DTEND:20260929T031500Z
 SUMMARY:Philadelphia Eagles @ Chicago Bears
-DESCRIPTION:NFL 2026 — Week 3\nPhiladelphia Eagles @ Chicago Bears\nSoldier Field
+DESCRIPTION:NFL 2026 — Week 3\nPhiladelphia Eagles @ Chicago Bears\nSoldi
+ er Field\nBroadcast: ESPN / ABC
 LOCATION:Soldier Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-01-pittsburgh-steelers-vs-cleveland-browns@open-sports-cal
 DTSTART:20261002T001500Z
 DTEND:20261002T031500Z
 SUMMARY:Pittsburgh Steelers @ Cleveland Browns
-DESCRIPTION:NFL 2026 — Week 4\nPittsburgh Steelers @ Cleveland Browns\nHuntington Bank Field
+DESCRIPTION:NFL 2026 — Week 4\nPittsburgh Steelers @ Cleveland Browns\nHu
+ ntington Bank Field\nBroadcast: Prime Video (streaming)
 LOCATION:Huntington Bank Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-indianapolis-colts-vs-washington-commanders@open-sports-cal
 DTSTART:20261004T133000Z
 DTEND:20261004T163000Z
 SUMMARY:Indianapolis Colts @ Washington Commanders
-DESCRIPTION:NFL 2026 — Week 4\nIndianapolis Colts @ Washington Commanders\nTottenham Hotspur Stadium
+DESCRIPTION:NFL 2026 — Week 4\nIndianapolis Colts @ Washington Commanders
+ \nTottenham Hotspur Stadium\nBroadcast: NFL Net
 LOCATION:Tottenham Hotspur Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Europe/London
+X-BROADCAST:NFL Net
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-arizona-cardinals-vs-new-york-giants@open-sports-cal
 DTSTART:20261004T170000Z
 DTEND:20261004T200000Z
 SUMMARY:Arizona Cardinals @ New York Giants
-DESCRIPTION:NFL 2026 — Week 4\nArizona Cardinals @ New York Giants\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 4\nArizona Cardinals @ New York Giants\nMetLi
+ fe Stadium\nBroadcast: CBS
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-tennessee-titans-vs-baltimore-ravens@open-sports-cal
 DTSTART:20261004T170000Z
 DTEND:20261004T200000Z
 SUMMARY:Tennessee Titans @ Baltimore Ravens
-DESCRIPTION:NFL 2026 — Week 4\nTennessee Titans @ Baltimore Ravens\nM&T Bank Stadium
+DESCRIPTION:NFL 2026 — Week 4\nTennessee Titans @ Baltimore Ravens\nM&T B
+ ank Stadium\nBroadcast: CBS
 LOCATION:M&T Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-new-england-patriots-vs-buffalo-bills@open-sports-cal
 DTSTART:20261004T170000Z
 DTEND:20261004T200000Z
 SUMMARY:New England Patriots @ Buffalo Bills
-DESCRIPTION:NFL 2026 — Week 4\nNew England Patriots @ Buffalo Bills\nHighmark Stadium
+DESCRIPTION:NFL 2026 — Week 4\nNew England Patriots @ Buffalo Bills\nHigh
+ mark Stadium\nBroadcast: CBS
 LOCATION:Highmark Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-new-york-jets-vs-chicago-bears@open-sports-cal
 DTSTART:20261004T170000Z
 DTEND:20261004T200000Z
 SUMMARY:New York Jets @ Chicago Bears
-DESCRIPTION:NFL 2026 — Week 4\nNew York Jets @ Chicago Bears\nSoldier Field
+DESCRIPTION:NFL 2026 — Week 4\nNew York Jets @ Chicago Bears\nSoldier Fie
+ ld\nBroadcast: Fox
 LOCATION:Soldier Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-jacksonville-jaguars-vs-cincinnati-bengals@open-sports-cal
 DTSTART:20261004T170000Z
 DTEND:20261004T200000Z
 SUMMARY:Jacksonville Jaguars @ Cincinnati Bengals
-DESCRIPTION:NFL 2026 — Week 4\nJacksonville Jaguars @ Cincinnati Bengals\nPaycor Stadium
+DESCRIPTION:NFL 2026 — Week 4\nJacksonville Jaguars @ Cincinnati Bengals\
+ nPaycor Stadium\nBroadcast: CBS
 LOCATION:Paycor Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-dallas-cowboys-vs-houston-texans@open-sports-cal
 DTSTART:20261004T170000Z
 DTEND:20261004T200000Z
 SUMMARY:Dallas Cowboys @ Houston Texans
-DESCRIPTION:NFL 2026 — Week 4\nDallas Cowboys @ Houston Texans\nReliant Stadium
+DESCRIPTION:NFL 2026 — Week 4\nDallas Cowboys @ Houston Texans\nReliant S
+ tadium\nBroadcast: Fox
 LOCATION:Reliant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-green-bay-packers-vs-tampa-bay-buccaneers@open-sports-cal
 DTSTART:20261004T170000Z
 DTEND:20261004T200000Z
 SUMMARY:Green Bay Packers @ Tampa Bay Buccaneers
-DESCRIPTION:NFL 2026 — Week 4\nGreen Bay Packers @ Tampa Bay Buccaneers\nRaymond James Stadium
+DESCRIPTION:NFL 2026 — Week 4\nGreen Bay Packers @ Tampa Bay Buccaneers\n
+ Raymond James Stadium\nBroadcast: Fox
 LOCATION:Raymond James Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-los-angeles-rams-vs-philadelphia-eagles@open-sports-cal
 DTSTART:20261004T170000Z
 DTEND:20261004T200000Z
 SUMMARY:Los Angeles Rams @ Philadelphia Eagles
-DESCRIPTION:NFL 2026 — Week 4\nLos Angeles Rams @ Philadelphia Eagles\nLincoln Financial Field
+DESCRIPTION:NFL 2026 — Week 4\nLos Angeles Rams @ Philadelphia Eagles\nLi
+ ncoln Financial Field\nBroadcast: Fox
 LOCATION:Lincoln Financial Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-miami-dolphins-vs-minnesota-vikings@open-sports-cal
 DTSTART:20261004T200500Z
 DTEND:20261004T230500Z
 SUMMARY:Miami Dolphins @ Minnesota Vikings
-DESCRIPTION:NFL 2026 — Week 4\nMiami Dolphins @ Minnesota Vikings\nU.S. Bank Stadium
+DESCRIPTION:NFL 2026 — Week 4\nMiami Dolphins @ Minnesota Vikings\nU.S. B
+ ank Stadium\nBroadcast: Fox
 LOCATION:U.S. Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-denver-broncos-vs-san-francisco-49ers@open-sports-cal
 DTSTART:20261004T202500Z
 DTEND:20261004T232500Z
 SUMMARY:Denver Broncos @ San Francisco 49ers
-DESCRIPTION:NFL 2026 — Week 4\nDenver Broncos @ San Francisco 49ers\nLevi's Stadium
+DESCRIPTION:NFL 2026 — Week 4\nDenver Broncos @ San Francisco 49ers\nLevi
+ 's Stadium\nBroadcast: CBS
 LOCATION:Levi's Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-kansas-city-chiefs-vs-las-vegas-raiders@open-sports-cal
 DTSTART:20261004T202500Z
 DTEND:20261004T232500Z
 SUMMARY:Kansas City Chiefs @ Las Vegas Raiders
-DESCRIPTION:NFL 2026 — Week 4\nKansas City Chiefs @ Las Vegas Raiders\nAllegiant Stadium
+DESCRIPTION:NFL 2026 — Week 4\nKansas City Chiefs @ Las Vegas Raiders\nAl
+ legiant Stadium\nBroadcast: CBS
 LOCATION:Allegiant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-los-angeles-chargers-vs-seattle-seahawks@open-sports-cal
 DTSTART:20261004T202500Z
 DTEND:20261004T232500Z
 SUMMARY:Los Angeles Chargers @ Seattle Seahawks
-DESCRIPTION:NFL 2026 — Week 4\nLos Angeles Chargers @ Seattle Seahawks\nLumen Field
+DESCRIPTION:NFL 2026 — Week 4\nLos Angeles Chargers @ Seattle Seahawks\nL
+ umen Field\nBroadcast: CBS
 LOCATION:Lumen Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-04-detroit-lions-vs-carolina-panthers@open-sports-cal
 DTSTART:20261005T002000Z
 DTEND:20261005T032000Z
 SUMMARY:Detroit Lions @ Carolina Panthers
-DESCRIPTION:NFL 2026 — Week 4\nDetroit Lions @ Carolina Panthers\nBank of America Stadium
+DESCRIPTION:NFL 2026 — Week 4\nDetroit Lions @ Carolina Panthers\nBank of
+  America Stadium\nBroadcast: NBC
 LOCATION:Bank of America Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-05-atlanta-falcons-vs-new-orleans-saints@open-sports-cal
 DTSTART:20261006T001500Z
 DTEND:20261006T031500Z
 SUMMARY:Atlanta Falcons @ New Orleans Saints
-DESCRIPTION:NFL 2026 — Week 4\nAtlanta Falcons @ New Orleans Saints\nCaesars Superdome
+DESCRIPTION:NFL 2026 — Week 4\nAtlanta Falcons @ New Orleans Saints\nCaes
+ ars Superdome\nBroadcast: ESPN
 LOCATION:Caesars Superdome
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-08-tampa-bay-buccaneers-vs-dallas-cowboys@open-sports-cal
 DTSTART:20261009T001500Z
 DTEND:20261009T031500Z
 SUMMARY:Tampa Bay Buccaneers @ Dallas Cowboys
-DESCRIPTION:NFL 2026 — Week 5\nTampa Bay Buccaneers @ Dallas Cowboys\nAT&T Stadium
+DESCRIPTION:NFL 2026 — Week 5\nTampa Bay Buccaneers @ Dallas Cowboys\nAT&
+ T Stadium\nBroadcast: Prime Video (streaming)
 LOCATION:AT&T Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-philadelphia-eagles-vs-jacksonville-jaguars@open-sports-cal
 DTSTART:20261011T133000Z
 DTEND:20261011T163000Z
 SUMMARY:Philadelphia Eagles @ Jacksonville Jaguars
-DESCRIPTION:NFL 2026 — Week 5\nPhiladelphia Eagles @ Jacksonville Jaguars\nTottenham Hotspur Stadium
+DESCRIPTION:NFL 2026 — Week 5\nPhiladelphia Eagles @ Jacksonville Jaguars
+ \nTottenham Hotspur Stadium\nBroadcast: NFL Net
 LOCATION:Tottenham Hotspur Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Europe/London
+X-BROADCAST:NFL Net
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-chicago-bears-vs-green-bay-packers@open-sports-cal
 DTSTART:20261011T170000Z
 DTEND:20261011T200000Z
 SUMMARY:Chicago Bears @ Green Bay Packers
-DESCRIPTION:NFL 2026 — Week 5\nChicago Bears @ Green Bay Packers\nLambeau Field
+DESCRIPTION:NFL 2026 — Week 5\nChicago Bears @ Green Bay Packers\nLambeau
+  Field\nBroadcast: Fox
 LOCATION:Lambeau Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-cincinnati-bengals-vs-miami-dolphins@open-sports-cal
 DTSTART:20261011T170000Z
 DTEND:20261011T200000Z
 SUMMARY:Cincinnati Bengals @ Miami Dolphins
-DESCRIPTION:NFL 2026 — Week 5\nCincinnati Bengals @ Miami Dolphins\nHard Rock Stadium
+DESCRIPTION:NFL 2026 — Week 5\nCincinnati Bengals @ Miami Dolphins\nHard 
+ Rock Stadium\nBroadcast: Fox
 LOCATION:Hard Rock Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-cleveland-browns-vs-new-york-jets@open-sports-cal
 DTSTART:20261011T170000Z
 DTEND:20261011T200000Z
 SUMMARY:Cleveland Browns @ New York Jets
-DESCRIPTION:NFL 2026 — Week 5\nCleveland Browns @ New York Jets\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 5\nCleveland Browns @ New York Jets\nMetLife 
+ Stadium\nBroadcast: CBS
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-houston-texans-vs-tennessee-titans@open-sports-cal
 DTSTART:20261011T170000Z
 DTEND:20261011T200000Z
 SUMMARY:Houston Texans @ Tennessee Titans
-DESCRIPTION:NFL 2026 — Week 5\nHouston Texans @ Tennessee Titans\nNissan Stadium
+DESCRIPTION:NFL 2026 — Week 5\nHouston Texans @ Tennessee Titans\nNissan 
+ Stadium\nBroadcast: CBS
 LOCATION:Nissan Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-indianapolis-colts-vs-pittsburgh-steelers@open-sports-cal
 DTSTART:20261011T170000Z
 DTEND:20261011T200000Z
 SUMMARY:Indianapolis Colts @ Pittsburgh Steelers
-DESCRIPTION:NFL 2026 — Week 5\nIndianapolis Colts @ Pittsburgh Steelers\nAcrisure Stadium
+DESCRIPTION:NFL 2026 — Week 5\nIndianapolis Colts @ Pittsburgh Steelers\n
+ Acrisure Stadium\nBroadcast: CBS
 LOCATION:Acrisure Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-las-vegas-raiders-vs-new-england-patriots@open-sports-cal
 DTSTART:20261011T170000Z
 DTEND:20261011T200000Z
 SUMMARY:Las Vegas Raiders @ New England Patriots
-DESCRIPTION:NFL 2026 — Week 5\nLas Vegas Raiders @ New England Patriots\nGillette Stadium
+DESCRIPTION:NFL 2026 — Week 5\nLas Vegas Raiders @ New England Patriots\n
+ Gillette Stadium\nBroadcast: CBS
 LOCATION:Gillette Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-minnesota-vikings-vs-new-orleans-saints@open-sports-cal
 DTSTART:20261011T170000Z
 DTEND:20261011T200000Z
 SUMMARY:Minnesota Vikings @ New Orleans Saints
-DESCRIPTION:NFL 2026 — Week 5\nMinnesota Vikings @ New Orleans Saints\nCaesars Superdome
+DESCRIPTION:NFL 2026 — Week 5\nMinnesota Vikings @ New Orleans Saints\nCa
+ esars Superdome\nBroadcast: Fox
 LOCATION:Caesars Superdome
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-new-york-giants-vs-washington-commanders@open-sports-cal
 DTSTART:20261011T170000Z
 DTEND:20261011T200000Z
 SUMMARY:New York Giants @ Washington Commanders
-DESCRIPTION:NFL 2026 — Week 5\nNew York Giants @ Washington Commanders\nNorthwest Stadium
+DESCRIPTION:NFL 2026 — Week 5\nNew York Giants @ Washington Commanders\nN
+ orthwest Stadium\nBroadcast: Fox
 LOCATION:Northwest Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-denver-broncos-vs-los-angeles-chargers@open-sports-cal
 DTSTART:20261011T200500Z
 DTEND:20261011T230500Z
 SUMMARY:Denver Broncos @ Los Angeles Chargers
-DESCRIPTION:NFL 2026 — Week 5\nDenver Broncos @ Los Angeles Chargers\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 5\nDenver Broncos @ Los Angeles Chargers\nSoF
+ i Stadium\nBroadcast: CBS
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-detroit-lions-vs-arizona-cardinals@open-sports-cal
 DTSTART:20261011T202500Z
 DTEND:20261011T232500Z
 SUMMARY:Detroit Lions @ Arizona Cardinals
-DESCRIPTION:NFL 2026 — Week 5\nDetroit Lions @ Arizona Cardinals\nState Farm Stadium
+DESCRIPTION:NFL 2026 — Week 5\nDetroit Lions @ Arizona Cardinals\nState F
+ arm Stadium\nBroadcast: Fox
 LOCATION:State Farm Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-san-francisco-49ers-vs-seattle-seahawks@open-sports-cal
 DTSTART:20261011T202500Z
 DTEND:20261011T232500Z
 SUMMARY:San Francisco 49ers @ Seattle Seahawks
-DESCRIPTION:NFL 2026 — Week 5\nSan Francisco 49ers @ Seattle Seahawks\nLumen Field
+DESCRIPTION:NFL 2026 — Week 5\nSan Francisco 49ers @ Seattle Seahawks\nLu
+ men Field\nBroadcast: Fox
 LOCATION:Lumen Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-11-baltimore-ravens-vs-atlanta-falcons@open-sports-cal
 DTSTART:20261012T002000Z
 DTEND:20261012T032000Z
 SUMMARY:Baltimore Ravens @ Atlanta Falcons
-DESCRIPTION:NFL 2026 — Week 5\nBaltimore Ravens @ Atlanta Falcons\nMercedes-Benz Stadium
+DESCRIPTION:NFL 2026 — Week 5\nBaltimore Ravens @ Atlanta Falcons\nMerced
+ es-Benz Stadium\nBroadcast: NBC
 LOCATION:Mercedes-Benz Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-12-buffalo-bills-vs-los-angeles-rams@open-sports-cal
 DTSTART:20261013T001500Z
 DTEND:20261013T031500Z
 SUMMARY:Buffalo Bills @ Los Angeles Rams
-DESCRIPTION:NFL 2026 — Week 5\nBuffalo Bills @ Los Angeles Rams\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 5\nBuffalo Bills @ Los Angeles Rams\nSoFi Sta
+ dium\nBroadcast: ESPN / ABC
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN / ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-15-seattle-seahawks-vs-denver-broncos@open-sports-cal
 DTSTART:20261016T001500Z
 DTEND:20261016T031500Z
 SUMMARY:Seattle Seahawks @ Denver Broncos
-DESCRIPTION:NFL 2026 — Week 6\nSeattle Seahawks @ Denver Broncos\nEmpower Field at Mile High
+DESCRIPTION:NFL 2026 — Week 6\nSeattle Seahawks @ Denver Broncos\nEmpower
+  Field at Mile High\nBroadcast: Prime Video (streaming)
 LOCATION:Empower Field at Mile High
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-18-houston-texans-vs-jacksonville-jaguars@open-sports-cal
 DTSTART:20261018T133000Z
 DTEND:20261018T163000Z
 SUMMARY:Houston Texans @ Jacksonville Jaguars
-DESCRIPTION:NFL 2026 — Week 6\nHouston Texans @ Jacksonville Jaguars\nWembley Stadium
+DESCRIPTION:NFL 2026 — Week 6\nHouston Texans @ Jacksonville Jaguars\nWem
+ bley Stadium\nBroadcast: NFL Net
 LOCATION:Wembley Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Europe/London
+X-BROADCAST:NFL Net
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-18-chicago-bears-vs-atlanta-falcons@open-sports-cal
 DTSTART:20261018T170000Z
 DTEND:20261018T200000Z
 SUMMARY:Chicago Bears @ Atlanta Falcons
-DESCRIPTION:NFL 2026 — Week 6\nChicago Bears @ Atlanta Falcons\nMercedes-Benz Stadium
+DESCRIPTION:NFL 2026 — Week 6\nChicago Bears @ Atlanta Falcons\nMercedes-
+ Benz Stadium\nBroadcast: Fox
 LOCATION:Mercedes-Benz Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-18-baltimore-ravens-vs-cleveland-browns@open-sports-cal
 DTSTART:20261018T170000Z
 DTEND:20261018T200000Z
 SUMMARY:Baltimore Ravens @ Cleveland Browns
-DESCRIPTION:NFL 2026 — Week 6\nBaltimore Ravens @ Cleveland Browns\nHuntington Bank Field
+DESCRIPTION:NFL 2026 — Week 6\nBaltimore Ravens @ Cleveland Browns\nHunti
+ ngton Bank Field\nBroadcast: Fox
 LOCATION:Huntington Bank Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-18-carolina-panthers-vs-philadelphia-eagles@open-sports-cal
 DTSTART:20261018T170000Z
 DTEND:20261018T200000Z
 SUMMARY:Carolina Panthers @ Philadelphia Eagles
-DESCRIPTION:NFL 2026 — Week 6\nCarolina Panthers @ Philadelphia Eagles\nLincoln Financial Field
+DESCRIPTION:NFL 2026 — Week 6\nCarolina Panthers @ Philadelphia Eagles\nL
+ incoln Financial Field\nBroadcast: CBS
 LOCATION:Lincoln Financial Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-18-tennessee-titans-vs-indianapolis-colts@open-sports-cal
 DTSTART:20261018T170000Z
 DTEND:20261018T200000Z
 SUMMARY:Tennessee Titans @ Indianapolis Colts
-DESCRIPTION:NFL 2026 — Week 6\nTennessee Titans @ Indianapolis Colts\nLucas Oil Stadium
+DESCRIPTION:NFL 2026 — Week 6\nTennessee Titans @ Indianapolis Colts\nLuc
+ as Oil Stadium\nBroadcast: Fox
 LOCATION:Lucas Oil Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-18-new-york-jets-vs-new-england-patriots@open-sports-cal
 DTSTART:20261018T170000Z
 DTEND:20261018T200000Z
 SUMMARY:New York Jets @ New England Patriots
-DESCRIPTION:NFL 2026 — Week 6\nNew York Jets @ New England Patriots\nGillette Stadium
+DESCRIPTION:NFL 2026 — Week 6\nNew York Jets @ New England Patriots\nGill
+ ette Stadium\nBroadcast: CBS
 LOCATION:Gillette Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-18-new-orleans-saints-vs-new-york-giants@open-sports-cal
 DTSTART:20261018T170000Z
 DTEND:20261018T200000Z
 SUMMARY:New Orleans Saints @ New York Giants
-DESCRIPTION:NFL 2026 — Week 6\nNew Orleans Saints @ New York Giants\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 6\nNew Orleans Saints @ New York Giants\nMetL
+ ife Stadium\nBroadcast: Fox
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-18-pittsburgh-steelers-vs-tampa-bay-buccaneers@open-sports-cal
 DTSTART:20261018T170000Z
 DTEND:20261018T200000Z
 SUMMARY:Pittsburgh Steelers @ Tampa Bay Buccaneers
-DESCRIPTION:NFL 2026 — Week 6\nPittsburgh Steelers @ Tampa Bay Buccaneers\nRaymond James Stadium
+DESCRIPTION:NFL 2026 — Week 6\nPittsburgh Steelers @ Tampa Bay Buccaneers
+ \nRaymond James Stadium\nBroadcast: CBS
 LOCATION:Raymond James Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-18-arizona-cardinals-vs-los-angeles-rams@open-sports-cal
 DTSTART:20261018T200500Z
 DTEND:20261018T230500Z
 SUMMARY:Arizona Cardinals @ Los Angeles Rams
-DESCRIPTION:NFL 2026 — Week 6\nArizona Cardinals @ Los Angeles Rams\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 6\nArizona Cardinals @ Los Angeles Rams\nSoFi
+  Stadium\nBroadcast: Fox
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-18-buffalo-bills-vs-las-vegas-raiders@open-sports-cal
 DTSTART:20261018T202500Z
 DTEND:20261018T232500Z
 SUMMARY:Buffalo Bills @ Las Vegas Raiders
-DESCRIPTION:NFL 2026 — Week 6\nBuffalo Bills @ Las Vegas Raiders\nAllegiant Stadium
+DESCRIPTION:NFL 2026 — Week 6\nBuffalo Bills @ Las Vegas Raiders\nAllegia
+ nt Stadium\nBroadcast: CBS
 LOCATION:Allegiant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-18-los-angeles-chargers-vs-kansas-city-chiefs@open-sports-cal
 DTSTART:20261018T202500Z
 DTEND:20261018T232500Z
 SUMMARY:Los Angeles Chargers @ Kansas City Chiefs
-DESCRIPTION:NFL 2026 — Week 6\nLos Angeles Chargers @ Kansas City Chiefs\nArrowhead Stadium
+DESCRIPTION:NFL 2026 — Week 6\nLos Angeles Chargers @ Kansas City Chiefs\
+ nArrowhead Stadium\nBroadcast: CBS
 LOCATION:Arrowhead Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-18-dallas-cowboys-vs-green-bay-packers@open-sports-cal
 DTSTART:20261019T002000Z
 DTEND:20261019T032000Z
 SUMMARY:Dallas Cowboys @ Green Bay Packers
-DESCRIPTION:NFL 2026 — Week 6\nDallas Cowboys @ Green Bay Packers\nLambeau Field
+DESCRIPTION:NFL 2026 — Week 6\nDallas Cowboys @ Green Bay Packers\nLambea
+ u Field\nBroadcast: NBC
 LOCATION:Lambeau Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-19-washington-commanders-vs-san-francisco-49ers@open-sports-cal
 DTSTART:20261020T001500Z
 DTEND:20261020T031500Z
 SUMMARY:Washington Commanders @ San Francisco 49ers
-DESCRIPTION:NFL 2026 — Week 6\nWashington Commanders @ San Francisco 49ers\nLevi's Stadium
+DESCRIPTION:NFL 2026 — Week 6\nWashington Commanders @ San Francisco 49er
+ s\nLevi's Stadium\nBroadcast: ESPN / ABC
 LOCATION:Levi's Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN / ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-22-new-england-patriots-vs-chicago-bears@open-sports-cal
 DTSTART:20261023T001500Z
 DTEND:20261023T031500Z
 SUMMARY:New England Patriots @ Chicago Bears
-DESCRIPTION:NFL 2026 — Week 7\nNew England Patriots @ Chicago Bears\nSoldier Field
+DESCRIPTION:NFL 2026 — Week 7\nNew England Patriots @ Chicago Bears\nSold
+ ier Field\nBroadcast: Prime Video (streaming)
 LOCATION:Soldier Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-25-pittsburgh-steelers-vs-new-orleans-saints@open-sports-cal
 DTSTART:20261025T133000Z
 DTEND:20261025T163000Z
 SUMMARY:Pittsburgh Steelers @ New Orleans Saints
-DESCRIPTION:NFL 2026 — Week 7\nPittsburgh Steelers @ New Orleans Saints\nStade de France
+DESCRIPTION:NFL 2026 — Week 7\nPittsburgh Steelers @ New Orleans Saints\n
+ Stade de France\nBroadcast: NFL Net
 LOCATION:Stade de France
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Europe/Paris
+X-BROADCAST:NFL Net
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-25-san-francisco-49ers-vs-atlanta-falcons@open-sports-cal
 DTSTART:20261025T170000Z
 DTEND:20261025T200000Z
 SUMMARY:San Francisco 49ers @ Atlanta Falcons
-DESCRIPTION:NFL 2026 — Week 7\nSan Francisco 49ers @ Atlanta Falcons\nMercedes-Benz Stadium
+DESCRIPTION:NFL 2026 — Week 7\nSan Francisco 49ers @ Atlanta Falcons\nMer
+ cedes-Benz Stadium\nBroadcast: Fox
 LOCATION:Mercedes-Benz Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-25-cincinnati-bengals-vs-baltimore-ravens@open-sports-cal
 DTSTART:20261025T170000Z
 DTEND:20261025T200000Z
 SUMMARY:Cincinnati Bengals @ Baltimore Ravens
-DESCRIPTION:NFL 2026 — Week 7\nCincinnati Bengals @ Baltimore Ravens\nM&T Bank Stadium
+DESCRIPTION:NFL 2026 — Week 7\nCincinnati Bengals @ Baltimore Ravens\nM&T
+  Bank Stadium\nBroadcast: CBS
 LOCATION:M&T Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-25-tampa-bay-buccaneers-vs-carolina-panthers@open-sports-cal
 DTSTART:20261025T170000Z
 DTEND:20261025T200000Z
 SUMMARY:Tampa Bay Buccaneers @ Carolina Panthers
-DESCRIPTION:NFL 2026 — Week 7\nTampa Bay Buccaneers @ Carolina Panthers\nBank of America Stadium
+DESCRIPTION:NFL 2026 — Week 7\nTampa Bay Buccaneers @ Carolina Panthers\n
+ Bank of America Stadium\nBroadcast: Fox
 LOCATION:Bank of America Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-25-cleveland-browns-vs-tennessee-titans@open-sports-cal
 DTSTART:20261025T170000Z
 DTEND:20261025T200000Z
 SUMMARY:Cleveland Browns @ Tennessee Titans
-DESCRIPTION:NFL 2026 — Week 7\nCleveland Browns @ Tennessee Titans\nNissan Stadium
+DESCRIPTION:NFL 2026 — Week 7\nCleveland Browns @ Tennessee Titans\nNissa
+ n Stadium\nBroadcast: CBS
 LOCATION:Nissan Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-25-new-york-giants-vs-houston-texans@open-sports-cal
 DTSTART:20261025T170000Z
 DTEND:20261025T200000Z
 SUMMARY:New York Giants @ Houston Texans
-DESCRIPTION:NFL 2026 — Week 7\nNew York Giants @ Houston Texans\nReliant Stadium
+DESCRIPTION:NFL 2026 — Week 7\nNew York Giants @ Houston Texans\nReliant 
+ Stadium\nBroadcast: Fox
 LOCATION:Reliant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-25-indianapolis-colts-vs-minnesota-vikings@open-sports-cal
 DTSTART:20261025T170000Z
 DTEND:20261025T200000Z
 SUMMARY:Indianapolis Colts @ Minnesota Vikings
-DESCRIPTION:NFL 2026 — Week 7\nIndianapolis Colts @ Minnesota Vikings\nU.S. Bank Stadium
+DESCRIPTION:NFL 2026 — Week 7\nIndianapolis Colts @ Minnesota Vikings\nU.
+ S. Bank Stadium\nBroadcast: CBS
 LOCATION:U.S. Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-25-miami-dolphins-vs-new-york-jets@open-sports-cal
 DTSTART:20261025T170000Z
 DTEND:20261025T200000Z
 SUMMARY:Miami Dolphins @ New York Jets
-DESCRIPTION:NFL 2026 — Week 7\nMiami Dolphins @ New York Jets\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 7\nMiami Dolphins @ New York Jets\nMetLife St
+ adium\nBroadcast: CBS
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-25-denver-broncos-vs-arizona-cardinals@open-sports-cal
 DTSTART:20261025T200500Z
 DTEND:20261025T230500Z
 SUMMARY:Denver Broncos @ Arizona Cardinals
-DESCRIPTION:NFL 2026 — Week 7\nDenver Broncos @ Arizona Cardinals\nState Farm Stadium
+DESCRIPTION:NFL 2026 — Week 7\nDenver Broncos @ Arizona Cardinals\nState 
+ Farm Stadium\nBroadcast: CBS
 LOCATION:State Farm Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-25-green-bay-packers-vs-detroit-lions@open-sports-cal
 DTSTART:20261025T202500Z
 DTEND:20261025T232500Z
 SUMMARY:Green Bay Packers @ Detroit Lions
-DESCRIPTION:NFL 2026 — Week 7\nGreen Bay Packers @ Detroit Lions\nFord Field
+DESCRIPTION:NFL 2026 — Week 7\nGreen Bay Packers @ Detroit Lions\nFord Fi
+ eld\nBroadcast: Fox
 LOCATION:Ford Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-25-los-angeles-rams-vs-las-vegas-raiders@open-sports-cal
 DTSTART:20261025T202500Z
 DTEND:20261025T232500Z
 SUMMARY:Los Angeles Rams @ Las Vegas Raiders
-DESCRIPTION:NFL 2026 — Week 7\nLos Angeles Rams @ Las Vegas Raiders\nAllegiant Stadium
+DESCRIPTION:NFL 2026 — Week 7\nLos Angeles Rams @ Las Vegas Raiders\nAlle
+ giant Stadium\nBroadcast: Fox
 LOCATION:Allegiant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-25-kansas-city-chiefs-vs-seattle-seahawks@open-sports-cal
 DTSTART:20261026T002000Z
 DTEND:20261026T032000Z
 SUMMARY:Kansas City Chiefs @ Seattle Seahawks
-DESCRIPTION:NFL 2026 — Week 7\nKansas City Chiefs @ Seattle Seahawks\nLumen Field
+DESCRIPTION:NFL 2026 — Week 7\nKansas City Chiefs @ Seattle Seahawks\nLum
+ en Field\nBroadcast: NBC
 LOCATION:Lumen Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-26-dallas-cowboys-vs-philadelphia-eagles@open-sports-cal
 DTSTART:20261027T001500Z
 DTEND:20261027T031500Z
 SUMMARY:Dallas Cowboys @ Philadelphia Eagles
-DESCRIPTION:NFL 2026 — Week 7\nDallas Cowboys @ Philadelphia Eagles\nLincoln Financial Field
+DESCRIPTION:NFL 2026 — Week 7\nDallas Cowboys @ Philadelphia Eagles\nLinc
+ oln Financial Field\nBroadcast: ESPN / ABC / Disney+ (streaming)
 LOCATION:Lincoln Financial Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN / ABC / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-10-29-carolina-panthers-vs-green-bay-packers@open-sports-cal
 DTSTART:20261030T001500Z
 DTEND:20261030T031500Z
 SUMMARY:Carolina Panthers @ Green Bay Packers
-DESCRIPTION:NFL 2026 — Week 8\nCarolina Panthers @ Green Bay Packers\nLambeau Field
+DESCRIPTION:NFL 2026 — Week 8\nCarolina Panthers @ Green Bay Packers\nLam
+ beau Field\nBroadcast: Prime Video (streaming)
 LOCATION:Lambeau Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-01-arizona-cardinals-vs-dallas-cowboys@open-sports-cal
 DTSTART:20261101T180000Z
 DTEND:20261101T210000Z
 SUMMARY:Arizona Cardinals @ Dallas Cowboys
-DESCRIPTION:NFL 2026 — Week 8\nArizona Cardinals @ Dallas Cowboys\nAT&T Stadium
+DESCRIPTION:NFL 2026 — Week 8\nArizona Cardinals @ Dallas Cowboys\nAT&T S
+ tadium\nBroadcast: Fox
 LOCATION:AT&T Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-01-atlanta-falcons-vs-tampa-bay-buccaneers@open-sports-cal
 DTSTART:20261101T180000Z
 DTEND:20261101T210000Z
 SUMMARY:Atlanta Falcons @ Tampa Bay Buccaneers
-DESCRIPTION:NFL 2026 — Week 8\nAtlanta Falcons @ Tampa Bay Buccaneers\nRaymond James Stadium
+DESCRIPTION:NFL 2026 — Week 8\nAtlanta Falcons @ Tampa Bay Buccaneers\nRa
+ ymond James Stadium\nBroadcast: Fox
 LOCATION:Raymond James Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-01-baltimore-ravens-vs-buffalo-bills@open-sports-cal
 DTSTART:20261101T180000Z
 DTEND:20261101T210000Z
 SUMMARY:Baltimore Ravens @ Buffalo Bills
-DESCRIPTION:NFL 2026 — Week 8\nBaltimore Ravens @ Buffalo Bills\nHighmark Stadium
+DESCRIPTION:NFL 2026 — Week 8\nBaltimore Ravens @ Buffalo Bills\nHighmark
+  Stadium\nBroadcast: CBS
 LOCATION:Highmark Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-01-tennessee-titans-vs-cincinnati-bengals@open-sports-cal
 DTSTART:20261101T180000Z
 DTEND:20261101T210000Z
 SUMMARY:Tennessee Titans @ Cincinnati Bengals
-DESCRIPTION:NFL 2026 — Week 8\nTennessee Titans @ Cincinnati Bengals\nPaycor Stadium
+DESCRIPTION:NFL 2026 — Week 8\nTennessee Titans @ Cincinnati Bengals\nPay
+ cor Stadium\nBroadcast: CBS
 LOCATION:Paycor Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-01-cleveland-browns-vs-pittsburgh-steelers@open-sports-cal
 DTSTART:20261101T180000Z
 DTEND:20261101T210000Z
 SUMMARY:Cleveland Browns @ Pittsburgh Steelers
-DESCRIPTION:NFL 2026 — Week 8\nCleveland Browns @ Pittsburgh Steelers\nAcrisure Stadium
+DESCRIPTION:NFL 2026 — Week 8\nCleveland Browns @ Pittsburgh Steelers\nAc
+ risure Stadium\nBroadcast: CBS
 LOCATION:Acrisure Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-01-minnesota-vikings-vs-detroit-lions@open-sports-cal
 DTSTART:20261101T180000Z
 DTEND:20261101T210000Z
 SUMMARY:Minnesota Vikings @ Detroit Lions
-DESCRIPTION:NFL 2026 — Week 8\nMinnesota Vikings @ Detroit Lions\nFord Field
+DESCRIPTION:NFL 2026 — Week 8\nMinnesota Vikings @ Detroit Lions\nFord Fi
+ eld\nBroadcast: Fox
 LOCATION:Ford Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-01-indianapolis-colts-vs-jacksonville-jaguars@open-sports-cal
 DTSTART:20261101T180000Z
 DTEND:20261101T210000Z
 SUMMARY:Indianapolis Colts @ Jacksonville Jaguars
-DESCRIPTION:NFL 2026 — Week 8\nIndianapolis Colts @ Jacksonville Jaguars\nEverBank Stadium
+DESCRIPTION:NFL 2026 — Week 8\nIndianapolis Colts @ Jacksonville Jaguars\
+ nEverBank Stadium\nBroadcast: CBS
 LOCATION:EverBank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-01-las-vegas-raiders-vs-new-york-jets@open-sports-cal
 DTSTART:20261101T180000Z
 DTEND:20261101T210000Z
 SUMMARY:Las Vegas Raiders @ New York Jets
-DESCRIPTION:NFL 2026 — Week 8\nLas Vegas Raiders @ New York Jets\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 8\nLas Vegas Raiders @ New York Jets\nMetLife
+  Stadium\nBroadcast: Fox
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-01-los-angeles-chargers-vs-los-angeles-rams@open-sports-cal
 DTSTART:20261101T210500Z
 DTEND:20261102T000500Z
 SUMMARY:Los Angeles Chargers @ Los Angeles Rams
-DESCRIPTION:NFL 2026 — Week 8\nLos Angeles Chargers @ Los Angeles Rams\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 8\nLos Angeles Chargers @ Los Angeles Rams\nS
+ oFi Stadium\nBroadcast: Fox
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-01-kansas-city-chiefs-vs-denver-broncos@open-sports-cal
 DTSTART:20261101T212500Z
 DTEND:20261102T002500Z
 SUMMARY:Kansas City Chiefs @ Denver Broncos
-DESCRIPTION:NFL 2026 — Week 8\nKansas City Chiefs @ Denver Broncos\nEmpower Field at Mile High
+DESCRIPTION:NFL 2026 — Week 8\nKansas City Chiefs @ Denver Broncos\nEmpow
+ er Field at Mile High\nBroadcast: CBS
 LOCATION:Empower Field at Mile High
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-01-new-england-patriots-vs-miami-dolphins@open-sports-cal
 DTSTART:20261101T212500Z
 DTEND:20261102T002500Z
 SUMMARY:New England Patriots @ Miami Dolphins
-DESCRIPTION:NFL 2026 — Week 8\nNew England Patriots @ Miami Dolphins\nHard Rock Stadium
+DESCRIPTION:NFL 2026 — Week 8\nNew England Patriots @ Miami Dolphins\nHar
+ d Rock Stadium\nBroadcast: CBS
 LOCATION:Hard Rock Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-01-philadelphia-eagles-vs-washington-commanders@open-sports-cal
 DTSTART:20261102T012000Z
 DTEND:20261102T042000Z
 SUMMARY:Philadelphia Eagles @ Washington Commanders
-DESCRIPTION:NFL 2026 — Week 8\nPhiladelphia Eagles @ Washington Commanders\nNorthwest Stadium
+DESCRIPTION:NFL 2026 — Week 8\nPhiladelphia Eagles @ Washington Commander
+ s\nNorthwest Stadium\nBroadcast: NBC
 LOCATION:Northwest Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-02-chicago-bears-vs-seattle-seahawks@open-sports-cal
 DTSTART:20261103T011500Z
 DTEND:20261103T041500Z
 SUMMARY:Chicago Bears @ Seattle Seahawks
-DESCRIPTION:NFL 2026 — Week 8\nChicago Bears @ Seattle Seahawks\nLumen Field
+DESCRIPTION:NFL 2026 — Week 8\nChicago Bears @ Seattle Seahawks\nLumen Fi
+ eld\nBroadcast: ESPN
 LOCATION:Lumen Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-05-jacksonville-jaguars-vs-baltimore-ravens@open-sports-cal
 DTSTART:20261106T011500Z
 DTEND:20261106T041500Z
 SUMMARY:Jacksonville Jaguars @ Baltimore Ravens
-DESCRIPTION:NFL 2026 — Week 9\nJacksonville Jaguars @ Baltimore Ravens\nM&T Bank Stadium
+DESCRIPTION:NFL 2026 — Week 9\nJacksonville Jaguars @ Baltimore Ravens\nM
+ &T Bank Stadium\nBroadcast: Prime Video (streaming)
 LOCATION:M&T Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-cincinnati-bengals-vs-atlanta-falcons@open-sports-cal
 DTSTART:20261108T143000Z
 DTEND:20261108T173000Z
 SUMMARY:Cincinnati Bengals @ Atlanta Falcons
-DESCRIPTION:NFL 2026 — Week 9\nCincinnati Bengals @ Atlanta Falcons\nSantiago Bernabéu
+DESCRIPTION:NFL 2026 — Week 9\nCincinnati Bengals @ Atlanta Falcons\nSant
+ iago Bernabéu\nBroadcast: NFL Net
 LOCATION:Santiago Bernabéu
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Europe/Madrid
+X-BROADCAST:NFL Net
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-denver-broncos-vs-carolina-panthers@open-sports-cal
 DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Denver Broncos @ Carolina Panthers
-DESCRIPTION:NFL 2026 — Week 9\nDenver Broncos @ Carolina Panthers\nBank of America Stadium
+DESCRIPTION:NFL 2026 — Week 9\nDenver Broncos @ Carolina Panthers\nBank o
+ f America Stadium\nBroadcast: CBS
 LOCATION:Bank of America Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-cleveland-browns-vs-new-orleans-saints@open-sports-cal
 DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Cleveland Browns @ New Orleans Saints
-DESCRIPTION:NFL 2026 — Week 9\nCleveland Browns @ New Orleans Saints\nCaesars Superdome
+DESCRIPTION:NFL 2026 — Week 9\nCleveland Browns @ New Orleans Saints\nCae
+ sars Superdome\nBroadcast: CBS
 LOCATION:Caesars Superdome
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-dallas-cowboys-vs-indianapolis-colts@open-sports-cal
 DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Dallas Cowboys @ Indianapolis Colts
-DESCRIPTION:NFL 2026 — Week 9\nDallas Cowboys @ Indianapolis Colts\nLucas Oil Stadium
+DESCRIPTION:NFL 2026 — Week 9\nDallas Cowboys @ Indianapolis Colts\nLucas
+  Oil Stadium\nBroadcast: Fox
 LOCATION:Lucas Oil Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-detroit-lions-vs-miami-dolphins@open-sports-cal
 DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Detroit Lions @ Miami Dolphins
-DESCRIPTION:NFL 2026 — Week 9\nDetroit Lions @ Miami Dolphins\nHard Rock Stadium
+DESCRIPTION:NFL 2026 — Week 9\nDetroit Lions @ Miami Dolphins\nHard Rock 
+ Stadium\nBroadcast: Fox
 LOCATION:Hard Rock Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-new-york-jets-vs-kansas-city-chiefs@open-sports-cal
 DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:New York Jets @ Kansas City Chiefs
-DESCRIPTION:NFL 2026 — Week 9\nNew York Jets @ Kansas City Chiefs\nArrowhead Stadium
+DESCRIPTION:NFL 2026 — Week 9\nNew York Jets @ Kansas City Chiefs\nArrowh
+ ead Stadium\nBroadcast: CBS
 LOCATION:Arrowhead Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-los-angeles-rams-vs-washington-commanders@open-sports-cal
 DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Los Angeles Rams @ Washington Commanders
-DESCRIPTION:NFL 2026 — Week 9\nLos Angeles Rams @ Washington Commanders\nNorthwest Stadium
+DESCRIPTION:NFL 2026 — Week 9\nLos Angeles Rams @ Washington Commanders\n
+ Northwest Stadium\nBroadcast: Fox
 LOCATION:Northwest Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-new-york-giants-vs-philadelphia-eagles@open-sports-cal
 DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:New York Giants @ Philadelphia Eagles
-DESCRIPTION:NFL 2026 — Week 9\nNew York Giants @ Philadelphia Eagles\nLincoln Financial Field
+DESCRIPTION:NFL 2026 — Week 9\nNew York Giants @ Philadelphia Eagles\nLin
+ coln Financial Field\nBroadcast: Fox
 LOCATION:Lincoln Financial Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-houston-texans-vs-los-angeles-chargers@open-sports-cal
 DTSTART:20261108T210500Z
 DTEND:20261109T000500Z
 SUMMARY:Houston Texans @ Los Angeles Chargers
-DESCRIPTION:NFL 2026 — Week 9\nHouston Texans @ Los Angeles Chargers\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 9\nHouston Texans @ Los Angeles Chargers\nSoF
+ i Stadium\nBroadcast: CBS
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-arizona-cardinals-vs-seattle-seahawks@open-sports-cal
 DTSTART:20261108T212500Z
 DTEND:20261109T002500Z
 SUMMARY:Arizona Cardinals @ Seattle Seahawks
-DESCRIPTION:NFL 2026 — Week 9\nArizona Cardinals @ Seattle Seahawks\nLumen Field
+DESCRIPTION:NFL 2026 — Week 9\nArizona Cardinals @ Seattle Seahawks\nLume
+ n Field\nBroadcast: Fox
 LOCATION:Lumen Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-green-bay-packers-vs-new-england-patriots@open-sports-cal
 DTSTART:20261108T212500Z
 DTEND:20261109T002500Z
 SUMMARY:Green Bay Packers @ New England Patriots
-DESCRIPTION:NFL 2026 — Week 9\nGreen Bay Packers @ New England Patriots\nGillette Stadium
+DESCRIPTION:NFL 2026 — Week 9\nGreen Bay Packers @ New England Patriots\n
+ Gillette Stadium\nBroadcast: Fox
 LOCATION:Gillette Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-las-vegas-raiders-vs-san-francisco-49ers@open-sports-cal
 DTSTART:20261108T212500Z
 DTEND:20261109T002500Z
 SUMMARY:Las Vegas Raiders @ San Francisco 49ers
-DESCRIPTION:NFL 2026 — Week 9\nLas Vegas Raiders @ San Francisco 49ers\nLevi's Stadium
+DESCRIPTION:NFL 2026 — Week 9\nLas Vegas Raiders @ San Francisco 49ers\nL
+ evi's Stadium\nBroadcast: Fox
 LOCATION:Levi's Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-08-tampa-bay-buccaneers-vs-chicago-bears@open-sports-cal
 DTSTART:20261109T012000Z
 DTEND:20261109T042000Z
 SUMMARY:Tampa Bay Buccaneers @ Chicago Bears
-DESCRIPTION:NFL 2026 — Week 9\nTampa Bay Buccaneers @ Chicago Bears\nSoldier Field
+DESCRIPTION:NFL 2026 — Week 9\nTampa Bay Buccaneers @ Chicago Bears\nSold
+ ier Field\nBroadcast: NBC
 LOCATION:Soldier Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-09-buffalo-bills-vs-minnesota-vikings@open-sports-cal
 DTSTART:20261110T011500Z
 DTEND:20261110T041500Z
 SUMMARY:Buffalo Bills @ Minnesota Vikings
-DESCRIPTION:NFL 2026 — Week 9\nBuffalo Bills @ Minnesota Vikings\nU.S. Bank Stadium
+DESCRIPTION:NFL 2026 — Week 9\nBuffalo Bills @ Minnesota Vikings\nU.S. Ba
+ nk Stadium\nBroadcast: ESPN / ABC
 LOCATION:U.S. Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-12-washington-commanders-vs-new-york-giants@open-sports-cal
 DTSTART:20261113T011500Z
 DTEND:20261113T041500Z
 SUMMARY:Washington Commanders @ New York Giants
-DESCRIPTION:NFL 2026 — Week 10\nWashington Commanders @ New York Giants\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 10\nWashington Commanders @ New York Giants\n
+ MetLife Stadium\nBroadcast: Prime Video (streaming)
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-15-new-england-patriots-vs-detroit-lions@open-sports-cal
 DTSTART:20261115T143000Z
 DTEND:20261115T173000Z
 SUMMARY:New England Patriots @ Detroit Lions
-DESCRIPTION:NFL 2026 — Week 10\nNew England Patriots @ Detroit Lions\nFC Bayern Munich Stadium
+DESCRIPTION:NFL 2026 — Week 10\nNew England Patriots @ Detroit Lions\nFC 
+ Bayern Munich Stadium\nBroadcast: Fox
 LOCATION:FC Bayern Munich Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Europe/Berlin
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-15-kansas-city-chiefs-vs-atlanta-falcons@open-sports-cal
 DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Kansas City Chiefs @ Atlanta Falcons
-DESCRIPTION:NFL 2026 — Week 10\nKansas City Chiefs @ Atlanta Falcons\nMercedes-Benz Stadium
+DESCRIPTION:NFL 2026 — Week 10\nKansas City Chiefs @ Atlanta Falcons\nMer
+ cedes-Benz Stadium\nBroadcast: CBS
 LOCATION:Mercedes-Benz Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-15-buffalo-bills-vs-new-york-jets@open-sports-cal
 DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Buffalo Bills @ New York Jets
-DESCRIPTION:NFL 2026 — Week 10\nBuffalo Bills @ New York Jets\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 10\nBuffalo Bills @ New York Jets\nMetLife St
+ adium\nBroadcast: CBS
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-15-carolina-panthers-vs-new-orleans-saints@open-sports-cal
 DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Carolina Panthers @ New Orleans Saints
-DESCRIPTION:NFL 2026 — Week 10\nCarolina Panthers @ New Orleans Saints\nCaesars Superdome
+DESCRIPTION:NFL 2026 — Week 10\nCarolina Panthers @ New Orleans Saints\nC
+ aesars Superdome\nBroadcast: Fox
 LOCATION:Caesars Superdome
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-15-houston-texans-vs-cleveland-browns@open-sports-cal
 DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Houston Texans @ Cleveland Browns
-DESCRIPTION:NFL 2026 — Week 10\nHouston Texans @ Cleveland Browns\nHuntington Bank Field
+DESCRIPTION:NFL 2026 — Week 10\nHouston Texans @ Cleveland Browns\nHuntin
+ gton Bank Field\nBroadcast: Fox
 LOCATION:Huntington Bank Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-15-minnesota-vikings-vs-green-bay-packers@open-sports-cal
 DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Minnesota Vikings @ Green Bay Packers
-DESCRIPTION:NFL 2026 — Week 10\nMinnesota Vikings @ Green Bay Packers\nLambeau Field
+DESCRIPTION:NFL 2026 — Week 10\nMinnesota Vikings @ Green Bay Packers\nLa
+ mbeau Field\nBroadcast: Fox
 LOCATION:Lambeau Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-15-miami-dolphins-vs-indianapolis-colts@open-sports-cal
 DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Miami Dolphins @ Indianapolis Colts
-DESCRIPTION:NFL 2026 — Week 10\nMiami Dolphins @ Indianapolis Colts\nLucas Oil Stadium
+DESCRIPTION:NFL 2026 — Week 10\nMiami Dolphins @ Indianapolis Colts\nLuca
+ s Oil Stadium\nBroadcast: CBS
 LOCATION:Lucas Oil Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-15-jacksonville-jaguars-vs-tennessee-titans@open-sports-cal
 DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Jacksonville Jaguars @ Tennessee Titans
-DESCRIPTION:NFL 2026 — Week 10\nJacksonville Jaguars @ Tennessee Titans\nNissan Stadium
+DESCRIPTION:NFL 2026 — Week 10\nJacksonville Jaguars @ Tennessee Titans\n
+ Nissan Stadium\nBroadcast: Fox
 LOCATION:Nissan Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-15-los-angeles-rams-vs-arizona-cardinals@open-sports-cal
 DTSTART:20261115T210500Z
 DTEND:20261116T000500Z
 SUMMARY:Los Angeles Rams @ Arizona Cardinals
-DESCRIPTION:NFL 2026 — Week 10\nLos Angeles Rams @ Arizona Cardinals\nState Farm Stadium
+DESCRIPTION:NFL 2026 — Week 10\nLos Angeles Rams @ Arizona Cardinals\nSta
+ te Farm Stadium\nBroadcast: CBS
 LOCATION:State Farm Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-15-seattle-seahawks-vs-las-vegas-raiders@open-sports-cal
 DTSTART:20261115T210500Z
 DTEND:20261116T000500Z
 SUMMARY:Seattle Seahawks @ Las Vegas Raiders
-DESCRIPTION:NFL 2026 — Week 10\nSeattle Seahawks @ Las Vegas Raiders\nAllegiant Stadium
+DESCRIPTION:NFL 2026 — Week 10\nSeattle Seahawks @ Las Vegas Raiders\nAll
+ egiant Stadium\nBroadcast: CBS
 LOCATION:Allegiant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-15-san-francisco-49ers-vs-dallas-cowboys@open-sports-cal
 DTSTART:20261115T212500Z
 DTEND:20261116T002500Z
 SUMMARY:San Francisco 49ers @ Dallas Cowboys
-DESCRIPTION:NFL 2026 — Week 10\nSan Francisco 49ers @ Dallas Cowboys\nAT&T Stadium
+DESCRIPTION:NFL 2026 — Week 10\nSan Francisco 49ers @ Dallas Cowboys\nAT&
+ T Stadium\nBroadcast: Fox
 LOCATION:AT&T Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-15-pittsburgh-steelers-vs-cincinnati-bengals@open-sports-cal
 DTSTART:20261116T012000Z
 DTEND:20261116T042000Z
 SUMMARY:Pittsburgh Steelers @ Cincinnati Bengals
-DESCRIPTION:NFL 2026 — Week 10\nPittsburgh Steelers @ Cincinnati Bengals\nPaycor Stadium
+DESCRIPTION:NFL 2026 — Week 10\nPittsburgh Steelers @ Cincinnati Bengals\
+ nPaycor Stadium\nBroadcast: NBC
 LOCATION:Paycor Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-16-los-angeles-chargers-vs-baltimore-ravens@open-sports-cal
 DTSTART:20261117T011500Z
 DTEND:20261117T041500Z
 SUMMARY:Los Angeles Chargers @ Baltimore Ravens
-DESCRIPTION:NFL 2026 — Week 10\nLos Angeles Chargers @ Baltimore Ravens\nM&T Bank Stadium
+DESCRIPTION:NFL 2026 — Week 10\nLos Angeles Chargers @ Baltimore Ravens\n
+ M&T Bank Stadium\nBroadcast: ESPN
 LOCATION:M&T Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-19-indianapolis-colts-vs-houston-texans@open-sports-cal
 DTSTART:20261120T011500Z
 DTEND:20261120T041500Z
 SUMMARY:Indianapolis Colts @ Houston Texans
-DESCRIPTION:NFL 2026 — Week 11\nIndianapolis Colts @ Houston Texans\nReliant Stadium
+DESCRIPTION:NFL 2026 — Week 11\nIndianapolis Colts @ Houston Texans\nReli
+ ant Stadium\nBroadcast: Prime Video (streaming)
 LOCATION:Reliant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-22-arizona-cardinals-vs-kansas-city-chiefs@open-sports-cal
 DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Arizona Cardinals @ Kansas City Chiefs
-DESCRIPTION:NFL 2026 — Week 11\nArizona Cardinals @ Kansas City Chiefs\nArrowhead Stadium
+DESCRIPTION:NFL 2026 — Week 11\nArizona Cardinals @ Kansas City Chiefs\nA
+ rrowhead Stadium\nBroadcast: CBS
 LOCATION:Arrowhead Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-22-baltimore-ravens-vs-carolina-panthers@open-sports-cal
 DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Baltimore Ravens @ Carolina Panthers
-DESCRIPTION:NFL 2026 — Week 11\nBaltimore Ravens @ Carolina Panthers\nBank of America Stadium
+DESCRIPTION:NFL 2026 — Week 11\nBaltimore Ravens @ Carolina Panthers\nBan
+ k of America Stadium\nBroadcast: Fox
 LOCATION:Bank of America Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-22-miami-dolphins-vs-buffalo-bills@open-sports-cal
 DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Miami Dolphins @ Buffalo Bills
-DESCRIPTION:NFL 2026 — Week 11\nMiami Dolphins @ Buffalo Bills\nHighmark Stadium
+DESCRIPTION:NFL 2026 — Week 11\nMiami Dolphins @ Buffalo Bills\nHighmark 
+ Stadium\nBroadcast: Fox
 LOCATION:Highmark Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-22-new-orleans-saints-vs-chicago-bears@open-sports-cal
 DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:New Orleans Saints @ Chicago Bears
-DESCRIPTION:NFL 2026 — Week 11\nNew Orleans Saints @ Chicago Bears\nSoldier Field
+DESCRIPTION:NFL 2026 — Week 11\nNew Orleans Saints @ Chicago Bears\nSoldi
+ er Field\nBroadcast: Fox
 LOCATION:Soldier Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-22-tennessee-titans-vs-dallas-cowboys@open-sports-cal
 DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Tennessee Titans @ Dallas Cowboys
-DESCRIPTION:NFL 2026 — Week 11\nTennessee Titans @ Dallas Cowboys\nAT&T Stadium
+DESCRIPTION:NFL 2026 — Week 11\nTennessee Titans @ Dallas Cowboys\nAT&T S
+ tadium\nBroadcast: Fox
 LOCATION:AT&T Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-22-tampa-bay-buccaneers-vs-detroit-lions@open-sports-cal
 DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Tampa Bay Buccaneers @ Detroit Lions
-DESCRIPTION:NFL 2026 — Week 11\nTampa Bay Buccaneers @ Detroit Lions\nFord Field
+DESCRIPTION:NFL 2026 — Week 11\nTampa Bay Buccaneers @ Detroit Lions\nFor
+ d Field\nBroadcast: CBS
 LOCATION:Ford Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-22-jacksonville-jaguars-vs-new-york-giants@open-sports-cal
 DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Jacksonville Jaguars @ New York Giants
-DESCRIPTION:NFL 2026 — Week 11\nJacksonville Jaguars @ New York Giants\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 11\nJacksonville Jaguars @ New York Giants\nM
+ etLife Stadium\nBroadcast: CBS
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-22-new-york-jets-vs-los-angeles-chargers@open-sports-cal
 DTSTART:20261122T210500Z
 DTEND:20261123T000500Z
 SUMMARY:New York Jets @ Los Angeles Chargers
-DESCRIPTION:NFL 2026 — Week 11\nNew York Jets @ Los Angeles Chargers\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 11\nNew York Jets @ Los Angeles Chargers\nSoF
+ i Stadium\nBroadcast: Fox
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-22-las-vegas-raiders-vs-denver-broncos@open-sports-cal
 DTSTART:20261122T212500Z
 DTEND:20261123T002500Z
 SUMMARY:Las Vegas Raiders @ Denver Broncos
-DESCRIPTION:NFL 2026 — Week 11\nLas Vegas Raiders @ Denver Broncos\nEmpower Field at Mile High
+DESCRIPTION:NFL 2026 — Week 11\nLas Vegas Raiders @ Denver Broncos\nEmpow
+ er Field at Mile High\nBroadcast: CBS
 LOCATION:Empower Field at Mile High
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-22-pittsburgh-steelers-vs-philadelphia-eagles@open-sports-cal
 DTSTART:20261122T212500Z
 DTEND:20261123T002500Z
 SUMMARY:Pittsburgh Steelers @ Philadelphia Eagles
-DESCRIPTION:NFL 2026 — Week 11\nPittsburgh Steelers @ Philadelphia Eagles\nLincoln Financial Field
+DESCRIPTION:NFL 2026 — Week 11\nPittsburgh Steelers @ Philadelphia Eagles
+ \nLincoln Financial Field\nBroadcast: CBS
 LOCATION:Lincoln Financial Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-22-minnesota-vikings-vs-san-francisco-49ers@open-sports-cal
 DTSTART:20261123T012000Z
 DTEND:20261123T042000Z
 SUMMARY:Minnesota Vikings @ San Francisco 49ers
-DESCRIPTION:NFL 2026 — Week 11\nMinnesota Vikings @ San Francisco 49ers\nEstadio Banorte
+DESCRIPTION:NFL 2026 — Week 11\nMinnesota Vikings @ San Francisco 49ers\n
+ Estadio Banorte\nBroadcast: NBC
 LOCATION:Estadio Banorte
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Mexico_City
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-23-cincinnati-bengals-vs-washington-commanders@open-sports-cal
 DTSTART:20261124T011500Z
 DTEND:20261124T041500Z
 SUMMARY:Cincinnati Bengals @ Washington Commanders
-DESCRIPTION:NFL 2026 — Week 11\nCincinnati Bengals @ Washington Commanders\nNorthwest Stadium
+DESCRIPTION:NFL 2026 — Week 11\nCincinnati Bengals @ Washington Commander
+ s\nNorthwest Stadium\nBroadcast: ESPN
 LOCATION:Northwest Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-25-green-bay-packers-vs-los-angeles-rams@open-sports-cal
 DTSTART:20261126T010000Z
 DTEND:20261126T040000Z
 SUMMARY:Green Bay Packers @ Los Angeles Rams
-DESCRIPTION:NFL 2026 — Week 12\nGreen Bay Packers @ Los Angeles Rams\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 12\nGreen Bay Packers @ Los Angeles Rams\nSoF
+ i Stadium\nBroadcast: Netflix (streaming)
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Netflix (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-26-chicago-bears-vs-detroit-lions@open-sports-cal
@@ -1980,1270 +2308,1465 @@ DTSTART:20261126T180000Z
 DTEND:20261126T210000Z
 SUMMARY:Chicago Bears @ Detroit Lions
 DESCRIPTION:NFL 2026 — Week 12\nChicago Bears @ Detroit Lions\nFord Field
+ \nBroadcast: CBS
 LOCATION:Ford Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-26-philadelphia-eagles-vs-dallas-cowboys@open-sports-cal
 DTSTART:20261126T213000Z
 DTEND:20261127T003000Z
 SUMMARY:Philadelphia Eagles @ Dallas Cowboys
-DESCRIPTION:NFL 2026 — Week 12\nPhiladelphia Eagles @ Dallas Cowboys\nAT&T Stadium
+DESCRIPTION:NFL 2026 — Week 12\nPhiladelphia Eagles @ Dallas Cowboys\nAT&
+ T Stadium\nBroadcast: Fox
 LOCATION:AT&T Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-26-kansas-city-chiefs-vs-buffalo-bills@open-sports-cal
 DTSTART:20261127T012000Z
 DTEND:20261127T042000Z
 SUMMARY:Kansas City Chiefs @ Buffalo Bills
-DESCRIPTION:NFL 2026 — Week 12\nKansas City Chiefs @ Buffalo Bills\nHighmark Stadium
+DESCRIPTION:NFL 2026 — Week 12\nKansas City Chiefs @ Buffalo Bills\nHighm
+ ark Stadium\nBroadcast: NBC
 LOCATION:Highmark Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-27-denver-broncos-vs-pittsburgh-steelers@open-sports-cal
 DTSTART:20261127T200000Z
 DTEND:20261127T230000Z
 SUMMARY:Denver Broncos @ Pittsburgh Steelers
-DESCRIPTION:NFL 2026 — Week 12\nDenver Broncos @ Pittsburgh Steelers\nAcrisure Stadium
+DESCRIPTION:NFL 2026 — Week 12\nDenver Broncos @ Pittsburgh Steelers\nAcr
+ isure Stadium\nBroadcast: Prime Video (streaming)
 LOCATION:Acrisure Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-29-atlanta-falcons-vs-minnesota-vikings@open-sports-cal
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:Atlanta Falcons @ Minnesota Vikings
-DESCRIPTION:NFL 2026 — Week 12\nAtlanta Falcons @ Minnesota Vikings\nU.S. Bank Stadium
+DESCRIPTION:NFL 2026 — Week 12\nAtlanta Falcons @ Minnesota Vikings\nU.S.
+  Bank Stadium\nBroadcast: Fox
 LOCATION:U.S. Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-29-baltimore-ravens-vs-houston-texans@open-sports-cal
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:Baltimore Ravens @ Houston Texans
-DESCRIPTION:NFL 2026 — Week 12\nBaltimore Ravens @ Houston Texans\nReliant Stadium
+DESCRIPTION:NFL 2026 — Week 12\nBaltimore Ravens @ Houston Texans\nRelian
+ t Stadium\nBroadcast: CBS
 LOCATION:Reliant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-29-new-orleans-saints-vs-cincinnati-bengals@open-sports-cal
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:New Orleans Saints @ Cincinnati Bengals
-DESCRIPTION:NFL 2026 — Week 12\nNew Orleans Saints @ Cincinnati Bengals\nPaycor Stadium
+DESCRIPTION:NFL 2026 — Week 12\nNew Orleans Saints @ Cincinnati Bengals\n
+ Paycor Stadium\nBroadcast: CBS
 LOCATION:Paycor Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-29-las-vegas-raiders-vs-cleveland-browns@open-sports-cal
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:Las Vegas Raiders @ Cleveland Browns
-DESCRIPTION:NFL 2026 — Week 12\nLas Vegas Raiders @ Cleveland Browns\nHuntington Bank Field
+DESCRIPTION:NFL 2026 — Week 12\nLas Vegas Raiders @ Cleveland Browns\nHun
+ tington Bank Field\nBroadcast: Fox
 LOCATION:Huntington Bank Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-29-new-york-giants-vs-indianapolis-colts@open-sports-cal
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:New York Giants @ Indianapolis Colts
-DESCRIPTION:NFL 2026 — Week 12\nNew York Giants @ Indianapolis Colts\nLucas Oil Stadium
+DESCRIPTION:NFL 2026 — Week 12\nNew York Giants @ Indianapolis Colts\nLuc
+ as Oil Stadium\nBroadcast: Fox
 LOCATION:Lucas Oil Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-29-new-york-jets-vs-miami-dolphins@open-sports-cal
 DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:New York Jets @ Miami Dolphins
-DESCRIPTION:NFL 2026 — Week 12\nNew York Jets @ Miami Dolphins\nHard Rock Stadium
+DESCRIPTION:NFL 2026 — Week 12\nNew York Jets @ Miami Dolphins\nHard Rock
+  Stadium\nBroadcast: CBS
 LOCATION:Hard Rock Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-29-tennessee-titans-vs-jacksonville-jaguars@open-sports-cal
 DTSTART:20261129T210500Z
 DTEND:20261130T000500Z
 SUMMARY:Tennessee Titans @ Jacksonville Jaguars
-DESCRIPTION:NFL 2026 — Week 12\nTennessee Titans @ Jacksonville Jaguars\nEverBank Stadium
+DESCRIPTION:NFL 2026 — Week 12\nTennessee Titans @ Jacksonville Jaguars\n
+ EverBank Stadium\nBroadcast: CBS
 LOCATION:EverBank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-29-washington-commanders-vs-arizona-cardinals@open-sports-cal
 DTSTART:20261129T212500Z
 DTEND:20261130T002500Z
 SUMMARY:Washington Commanders @ Arizona Cardinals
-DESCRIPTION:NFL 2026 — Week 12\nWashington Commanders @ Arizona Cardinals\nState Farm Stadium
+DESCRIPTION:NFL 2026 — Week 12\nWashington Commanders @ Arizona Cardinals
+ \nState Farm Stadium\nBroadcast: Fox
 LOCATION:State Farm Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-29-seattle-seahawks-vs-san-francisco-49ers@open-sports-cal
 DTSTART:20261129T212500Z
 DTEND:20261130T002500Z
 SUMMARY:Seattle Seahawks @ San Francisco 49ers
-DESCRIPTION:NFL 2026 — Week 12\nSeattle Seahawks @ San Francisco 49ers\nLevi's Stadium
+DESCRIPTION:NFL 2026 — Week 12\nSeattle Seahawks @ San Francisco 49ers\nL
+ evi's Stadium\nBroadcast: Fox
 LOCATION:Levi's Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-29-new-england-patriots-vs-los-angeles-chargers@open-sports-cal
 DTSTART:20261130T012000Z
 DTEND:20261130T042000Z
 SUMMARY:New England Patriots @ Los Angeles Chargers
-DESCRIPTION:NFL 2026 — Week 12\nNew England Patriots @ Los Angeles Chargers\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 12\nNew England Patriots @ Los Angeles Charge
+ rs\nSoFi Stadium\nBroadcast: NBC
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-11-30-carolina-panthers-vs-tampa-bay-buccaneers@open-sports-cal
 DTSTART:20261201T011500Z
 DTEND:20261201T041500Z
 SUMMARY:Carolina Panthers @ Tampa Bay Buccaneers
-DESCRIPTION:NFL 2026 — Week 12\nCarolina Panthers @ Tampa Bay Buccaneers\nRaymond James Stadium
+DESCRIPTION:NFL 2026 — Week 12\nCarolina Panthers @ Tampa Bay Buccaneers\
+ nRaymond James Stadium\nBroadcast: ESPN
 LOCATION:Raymond James Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-03-kansas-city-chiefs-vs-los-angeles-rams@open-sports-cal
 DTSTART:20261204T011500Z
 DTEND:20261204T041500Z
 SUMMARY:Kansas City Chiefs @ Los Angeles Rams
-DESCRIPTION:NFL 2026 — Week 13\nKansas City Chiefs @ Los Angeles Rams\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 13\nKansas City Chiefs @ Los Angeles Rams\nSo
+ Fi Stadium\nBroadcast: Prime Video (streaming)
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-06-detroit-lions-vs-atlanta-falcons@open-sports-cal
 DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Detroit Lions @ Atlanta Falcons
-DESCRIPTION:NFL 2026 — Week 13\nDetroit Lions @ Atlanta Falcons\nMercedes-Benz Stadium
+DESCRIPTION:NFL 2026 — Week 13\nDetroit Lions @ Atlanta Falcons\nMercedes
+ -Benz Stadium\nBroadcast: CBS
 LOCATION:Mercedes-Benz Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-06-jacksonville-jaguars-vs-chicago-bears@open-sports-cal
 DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Jacksonville Jaguars @ Chicago Bears
-DESCRIPTION:NFL 2026 — Week 13\nJacksonville Jaguars @ Chicago Bears\nSoldier Field
+DESCRIPTION:NFL 2026 — Week 13\nJacksonville Jaguars @ Chicago Bears\nSol
+ dier Field\nBroadcast: Fox
 LOCATION:Soldier Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-06-cincinnati-bengals-vs-cleveland-browns@open-sports-cal
 DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Cincinnati Bengals @ Cleveland Browns
-DESCRIPTION:NFL 2026 — Week 13\nCincinnati Bengals @ Cleveland Browns\nHuntington Bank Field
+DESCRIPTION:NFL 2026 — Week 13\nCincinnati Bengals @ Cleveland Browns\nHu
+ ntington Bank Field\nBroadcast: CBS
 LOCATION:Huntington Bank Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-06-green-bay-packers-vs-new-orleans-saints@open-sports-cal
 DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Green Bay Packers @ New Orleans Saints
-DESCRIPTION:NFL 2026 — Week 13\nGreen Bay Packers @ New Orleans Saints\nCaesars Superdome
+DESCRIPTION:NFL 2026 — Week 13\nGreen Bay Packers @ New Orleans Saints\nC
+ aesars Superdome\nBroadcast: Fox
 LOCATION:Caesars Superdome
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-06-los-angeles-chargers-vs-tampa-bay-buccaneers@open-sports-cal
 DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Los Angeles Chargers @ Tampa Bay Buccaneers
-DESCRIPTION:NFL 2026 — Week 13\nLos Angeles Chargers @ Tampa Bay Buccaneers\nRaymond James Stadium
+DESCRIPTION:NFL 2026 — Week 13\nLos Angeles Chargers @ Tampa Bay Buccanee
+ rs\nRaymond James Stadium\nBroadcast: CBS
 LOCATION:Raymond James Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-06-san-francisco-49ers-vs-new-york-giants@open-sports-cal
 DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:San Francisco 49ers @ New York Giants
-DESCRIPTION:NFL 2026 — Week 13\nSan Francisco 49ers @ New York Giants\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 13\nSan Francisco 49ers @ New York Giants\nMe
+ tLife Stadium\nBroadcast: Fox
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-06-washington-commanders-vs-tennessee-titans@open-sports-cal
 DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Washington Commanders @ Tennessee Titans
-DESCRIPTION:NFL 2026 — Week 13\nWashington Commanders @ Tennessee Titans\nNissan Stadium
+DESCRIPTION:NFL 2026 — Week 13\nWashington Commanders @ Tennessee Titans\
+ nNissan Stadium\nBroadcast: CBS
 LOCATION:Nissan Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-06-philadelphia-eagles-vs-arizona-cardinals@open-sports-cal
 DTSTART:20261206T210500Z
 DTEND:20261207T000500Z
 SUMMARY:Philadelphia Eagles @ Arizona Cardinals
-DESCRIPTION:NFL 2026 — Week 13\nPhiladelphia Eagles @ Arizona Cardinals\nState Farm Stadium
+DESCRIPTION:NFL 2026 — Week 13\nPhiladelphia Eagles @ Arizona Cardinals\n
+ State Farm Stadium\nBroadcast: Fox
 LOCATION:State Farm Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-06-miami-dolphins-vs-denver-broncos@open-sports-cal
 DTSTART:20261206T210500Z
 DTEND:20261207T000500Z
 SUMMARY:Miami Dolphins @ Denver Broncos
-DESCRIPTION:NFL 2026 — Week 13\nMiami Dolphins @ Denver Broncos\nEmpower Field at Mile High
+DESCRIPTION:NFL 2026 — Week 13\nMiami Dolphins @ Denver Broncos\nEmpower 
+ Field at Mile High\nBroadcast: Fox
 LOCATION:Empower Field at Mile High
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-06-buffalo-bills-vs-new-england-patriots@open-sports-cal
 DTSTART:20261206T212500Z
 DTEND:20261207T002500Z
 SUMMARY:Buffalo Bills @ New England Patriots
-DESCRIPTION:NFL 2026 — Week 13\nBuffalo Bills @ New England Patriots\nGillette Stadium
+DESCRIPTION:NFL 2026 — Week 13\nBuffalo Bills @ New England Patriots\nGil
+ lette Stadium\nBroadcast: CBS
 LOCATION:Gillette Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-06-carolina-panthers-vs-minnesota-vikings@open-sports-cal
 DTSTART:20261206T212500Z
 DTEND:20261207T002500Z
 SUMMARY:Carolina Panthers @ Minnesota Vikings
-DESCRIPTION:NFL 2026 — Week 13\nCarolina Panthers @ Minnesota Vikings\nU.S. Bank Stadium
+DESCRIPTION:NFL 2026 — Week 13\nCarolina Panthers @ Minnesota Vikings\nU.
+ S. Bank Stadium\nBroadcast: CBS
 LOCATION:U.S. Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-06-houston-texans-vs-pittsburgh-steelers@open-sports-cal
 DTSTART:20261207T012000Z
 DTEND:20261207T042000Z
 SUMMARY:Houston Texans @ Pittsburgh Steelers
-DESCRIPTION:NFL 2026 — Week 13\nHouston Texans @ Pittsburgh Steelers\nAcrisure Stadium
+DESCRIPTION:NFL 2026 — Week 13\nHouston Texans @ Pittsburgh Steelers\nAcr
+ isure Stadium\nBroadcast: NBC
 LOCATION:Acrisure Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-07-dallas-cowboys-vs-seattle-seahawks@open-sports-cal
 DTSTART:20261208T011500Z
 DTEND:20261208T041500Z
 SUMMARY:Dallas Cowboys @ Seattle Seahawks
-DESCRIPTION:NFL 2026 — Week 13\nDallas Cowboys @ Seattle Seahawks\nLumen Field
+DESCRIPTION:NFL 2026 — Week 13\nDallas Cowboys @ Seattle Seahawks\nLumen 
+ Field\nBroadcast: ESPN / ABC
 LOCATION:Lumen Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN / ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-10-minnesota-vikings-vs-new-england-patriots@open-sports-cal
 DTSTART:20261211T011500Z
 DTEND:20261211T041500Z
 SUMMARY:Minnesota Vikings @ New England Patriots
-DESCRIPTION:NFL 2026 — Week 14\nMinnesota Vikings @ New England Patriots\nGillette Stadium
+DESCRIPTION:NFL 2026 — Week 14\nMinnesota Vikings @ New England Patriots\
+ nGillette Stadium\nBroadcast: Prime Video (streaming)
 LOCATION:Gillette Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-atlanta-falcons-vs-cleveland-browns@open-sports-cal
 DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Atlanta Falcons @ Cleveland Browns
-DESCRIPTION:NFL 2026 — Week 14\nAtlanta Falcons @ Cleveland Browns\nHuntington Bank Field
+DESCRIPTION:NFL 2026 — Week 14\nAtlanta Falcons @ Cleveland Browns\nHunti
+ ngton Bank Field\nBroadcast: CBS
 LOCATION:Huntington Bank Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-tampa-bay-buccaneers-vs-baltimore-ravens@open-sports-cal
 DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Tampa Bay Buccaneers @ Baltimore Ravens
-DESCRIPTION:NFL 2026 — Week 14\nTampa Bay Buccaneers @ Baltimore Ravens\nM&T Bank Stadium
+DESCRIPTION:NFL 2026 — Week 14\nTampa Bay Buccaneers @ Baltimore Ravens\n
+ M&T Bank Stadium\nBroadcast: Fox
 LOCATION:M&T Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-new-orleans-saints-vs-carolina-panthers@open-sports-cal
 DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:New Orleans Saints @ Carolina Panthers
-DESCRIPTION:NFL 2026 — Week 14\nNew Orleans Saints @ Carolina Panthers\nBank of America Stadium
+DESCRIPTION:NFL 2026 — Week 14\nNew Orleans Saints @ Carolina Panthers\nB
+ ank of America Stadium\nBroadcast: CBS
 LOCATION:Bank of America Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-chicago-bears-vs-miami-dolphins@open-sports-cal
 DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Chicago Bears @ Miami Dolphins
-DESCRIPTION:NFL 2026 — Week 14\nChicago Bears @ Miami Dolphins\nHard Rock Stadium
+DESCRIPTION:NFL 2026 — Week 14\nChicago Bears @ Miami Dolphins\nHard Rock
+  Stadium\nBroadcast: CBS
 LOCATION:Hard Rock Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-denver-broncos-vs-new-york-jets@open-sports-cal
 DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Denver Broncos @ New York Jets
-DESCRIPTION:NFL 2026 — Week 14\nDenver Broncos @ New York Jets\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 14\nDenver Broncos @ New York Jets\nMetLife S
+ tadium\nBroadcast: CBS
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-tennessee-titans-vs-detroit-lions@open-sports-cal
 DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Tennessee Titans @ Detroit Lions
-DESCRIPTION:NFL 2026 — Week 14\nTennessee Titans @ Detroit Lions\nFord Field
+DESCRIPTION:NFL 2026 — Week 14\nTennessee Titans @ Detroit Lions\nFord Fi
+ eld\nBroadcast: Fox
 LOCATION:Ford Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-houston-texans-vs-washington-commanders@open-sports-cal
 DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Houston Texans @ Washington Commanders
-DESCRIPTION:NFL 2026 — Week 14\nHouston Texans @ Washington Commanders\nNorthwest Stadium
+DESCRIPTION:NFL 2026 — Week 14\nHouston Texans @ Washington Commanders\nN
+ orthwest Stadium\nBroadcast: CBS
 LOCATION:Northwest Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-indianapolis-colts-vs-philadelphia-eagles@open-sports-cal
 DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Indianapolis Colts @ Philadelphia Eagles
-DESCRIPTION:NFL 2026 — Week 14\nIndianapolis Colts @ Philadelphia Eagles\nLincoln Financial Field
+DESCRIPTION:NFL 2026 — Week 14\nIndianapolis Colts @ Philadelphia Eagles\
+ nLincoln Financial Field\nBroadcast: Fox
 LOCATION:Lincoln Financial Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-los-angeles-chargers-vs-las-vegas-raiders@open-sports-cal
 DTSTART:20261213T210500Z
 DTEND:20261214T000500Z
 SUMMARY:Los Angeles Chargers @ Las Vegas Raiders
-DESCRIPTION:NFL 2026 — Week 14\nLos Angeles Chargers @ Las Vegas Raiders\nAllegiant Stadium
+DESCRIPTION:NFL 2026 — Week 14\nLos Angeles Chargers @ Las Vegas Raiders\
+ nAllegiant Stadium\nBroadcast: CBS
 LOCATION:Allegiant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-kansas-city-chiefs-vs-cincinnati-bengals@open-sports-cal
 DTSTART:20261213T212500Z
 DTEND:20261214T002500Z
 SUMMARY:Kansas City Chiefs @ Cincinnati Bengals
-DESCRIPTION:NFL 2026 — Week 14\nKansas City Chiefs @ Cincinnati Bengals\nPaycor Stadium
+DESCRIPTION:NFL 2026 — Week 14\nKansas City Chiefs @ Cincinnati Bengals\n
+ Paycor Stadium\nBroadcast: Fox
 LOCATION:Paycor Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-los-angeles-rams-vs-san-francisco-49ers@open-sports-cal
 DTSTART:20261213T212500Z
 DTEND:20261214T002500Z
 SUMMARY:Los Angeles Rams @ San Francisco 49ers
-DESCRIPTION:NFL 2026 — Week 14\nLos Angeles Rams @ San Francisco 49ers\nLevi's Stadium
+DESCRIPTION:NFL 2026 — Week 14\nLos Angeles Rams @ San Francisco 49ers\nL
+ evi's Stadium\nBroadcast: Fox
 LOCATION:Levi's Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-new-york-giants-vs-seattle-seahawks@open-sports-cal
 DTSTART:20261213T212500Z
 DTEND:20261214T002500Z
 SUMMARY:New York Giants @ Seattle Seahawks
-DESCRIPTION:NFL 2026 — Week 14\nNew York Giants @ Seattle Seahawks\nLumen Field
+DESCRIPTION:NFL 2026 — Week 14\nNew York Giants @ Seattle Seahawks\nLumen
+  Field\nBroadcast: Fox
 LOCATION:Lumen Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-13-buffalo-bills-vs-green-bay-packers@open-sports-cal
 DTSTART:20261214T012000Z
 DTEND:20261214T042000Z
 SUMMARY:Buffalo Bills @ Green Bay Packers
-DESCRIPTION:NFL 2026 — Week 14\nBuffalo Bills @ Green Bay Packers\nLambeau Field
+DESCRIPTION:NFL 2026 — Week 14\nBuffalo Bills @ Green Bay Packers\nLambea
+ u Field\nBroadcast: NBC
 LOCATION:Lambeau Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-14-pittsburgh-steelers-vs-jacksonville-jaguars@open-sports-cal
 DTSTART:20261215T011500Z
 DTEND:20261215T041500Z
 SUMMARY:Pittsburgh Steelers @ Jacksonville Jaguars
-DESCRIPTION:NFL 2026 — Week 14\nPittsburgh Steelers @ Jacksonville Jaguars\nEverBank Stadium
+DESCRIPTION:NFL 2026 — Week 14\nPittsburgh Steelers @ Jacksonville Jaguar
+ s\nEverBank Stadium\nBroadcast: ESPN
 LOCATION:EverBank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-17-san-francisco-49ers-vs-los-angeles-chargers@open-sports-cal
 DTSTART:20261218T011500Z
 DTEND:20261218T041500Z
 SUMMARY:San Francisco 49ers @ Los Angeles Chargers
-DESCRIPTION:NFL 2026 — Week 15\nSan Francisco 49ers @ Los Angeles Chargers\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 15\nSan Francisco 49ers @ Los Angeles Charger
+ s\nSoFi Stadium\nBroadcast: Prime Video (streaming)
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-19-seattle-seahawks-vs-philadelphia-eagles@open-sports-cal
 DTSTART:20261219T220000Z
 DTEND:20261220T010000Z
 SUMMARY:Seattle Seahawks @ Philadelphia Eagles
-DESCRIPTION:NFL 2026 — Week 15\nSeattle Seahawks @ Philadelphia Eagles\nLincoln Financial Field
+DESCRIPTION:NFL 2026 — Week 15\nSeattle Seahawks @ Philadelphia Eagles\nL
+ incoln Financial Field\nBroadcast: Fox
 LOCATION:Lincoln Financial Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-19-chicago-bears-vs-buffalo-bills@open-sports-cal
 DTSTART:20261220T012000Z
 DTEND:20261220T042000Z
 SUMMARY:Chicago Bears @ Buffalo Bills
-DESCRIPTION:NFL 2026 — Week 15\nChicago Bears @ Buffalo Bills\nHighmark Stadium
+DESCRIPTION:NFL 2026 — Week 15\nChicago Bears @ Buffalo Bills\nHighmark S
+ tadium\nBroadcast: CBS
 LOCATION:Highmark Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-20-atlanta-falcons-vs-washington-commanders@open-sports-cal
 DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Atlanta Falcons @ Washington Commanders
-DESCRIPTION:NFL 2026 — Week 15\nAtlanta Falcons @ Washington Commanders\nNorthwest Stadium
+DESCRIPTION:NFL 2026 — Week 15\nAtlanta Falcons @ Washington Commanders\n
+ Northwest Stadium\nBroadcast: Fox
 LOCATION:Northwest Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-20-baltimore-ravens-vs-pittsburgh-steelers@open-sports-cal
 DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Baltimore Ravens @ Pittsburgh Steelers
-DESCRIPTION:NFL 2026 — Week 15\nBaltimore Ravens @ Pittsburgh Steelers\nAcrisure Stadium
+DESCRIPTION:NFL 2026 — Week 15\nBaltimore Ravens @ Pittsburgh Steelers\nA
+ crisure Stadium\nBroadcast: CBS
 LOCATION:Acrisure Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-20-cincinnati-bengals-vs-carolina-panthers@open-sports-cal
 DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Cincinnati Bengals @ Carolina Panthers
-DESCRIPTION:NFL 2026 — Week 15\nCincinnati Bengals @ Carolina Panthers\nBank of America Stadium
+DESCRIPTION:NFL 2026 — Week 15\nCincinnati Bengals @ Carolina Panthers\nB
+ ank of America Stadium\nBroadcast: Fox
 LOCATION:Bank of America Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-20-cleveland-browns-vs-new-york-giants@open-sports-cal
 DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Cleveland Browns @ New York Giants
-DESCRIPTION:NFL 2026 — Week 15\nCleveland Browns @ New York Giants\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 15\nCleveland Browns @ New York Giants\nMetLi
+ fe Stadium\nBroadcast: CBS
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-20-miami-dolphins-vs-green-bay-packers@open-sports-cal
 DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Miami Dolphins @ Green Bay Packers
-DESCRIPTION:NFL 2026 — Week 15\nMiami Dolphins @ Green Bay Packers\nLambeau Field
+DESCRIPTION:NFL 2026 — Week 15\nMiami Dolphins @ Green Bay Packers\nLambe
+ au Field\nBroadcast: Fox
 LOCATION:Lambeau Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-20-jacksonville-jaguars-vs-houston-texans@open-sports-cal
 DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Jacksonville Jaguars @ Houston Texans
-DESCRIPTION:NFL 2026 — Week 15\nJacksonville Jaguars @ Houston Texans\nReliant Stadium
+DESCRIPTION:NFL 2026 — Week 15\nJacksonville Jaguars @ Houston Texans\nRe
+ liant Stadium\nBroadcast: CBS
 LOCATION:Reliant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-20-indianapolis-colts-vs-tennessee-titans@open-sports-cal
 DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Indianapolis Colts @ Tennessee Titans
-DESCRIPTION:NFL 2026 — Week 15\nIndianapolis Colts @ Tennessee Titans\nNissan Stadium
+DESCRIPTION:NFL 2026 — Week 15\nIndianapolis Colts @ Tennessee Titans\nNi
+ ssan Stadium\nBroadcast: CBS
 LOCATION:Nissan Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-20-new-orleans-saints-vs-tampa-bay-buccaneers@open-sports-cal
 DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:New Orleans Saints @ Tampa Bay Buccaneers
-DESCRIPTION:NFL 2026 — Week 15\nNew Orleans Saints @ Tampa Bay Buccaneers\nRaymond James Stadium
+DESCRIPTION:NFL 2026 — Week 15\nNew Orleans Saints @ Tampa Bay Buccaneers
+ \nRaymond James Stadium\nBroadcast: Fox
 LOCATION:Raymond James Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-20-new-york-jets-vs-arizona-cardinals@open-sports-cal
 DTSTART:20261220T210500Z
 DTEND:20261221T000500Z
 SUMMARY:New York Jets @ Arizona Cardinals
-DESCRIPTION:NFL 2026 — Week 15\nNew York Jets @ Arizona Cardinals\nState Farm Stadium
+DESCRIPTION:NFL 2026 — Week 15\nNew York Jets @ Arizona Cardinals\nState 
+ Farm Stadium\nBroadcast: Fox
 LOCATION:State Farm Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-20-dallas-cowboys-vs-los-angeles-rams@open-sports-cal
 DTSTART:20261220T212500Z
 DTEND:20261221T002500Z
 SUMMARY:Dallas Cowboys @ Los Angeles Rams
-DESCRIPTION:NFL 2026 — Week 15\nDallas Cowboys @ Los Angeles Rams\nSoFi Stadium
+DESCRIPTION:NFL 2026 — Week 15\nDallas Cowboys @ Los Angeles Rams\nSoFi S
+ tadium\nBroadcast: CBS
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-20-denver-broncos-vs-las-vegas-raiders@open-sports-cal
 DTSTART:20261220T212500Z
 DTEND:20261221T002500Z
 SUMMARY:Denver Broncos @ Las Vegas Raiders
-DESCRIPTION:NFL 2026 — Week 15\nDenver Broncos @ Las Vegas Raiders\nAllegiant Stadium
+DESCRIPTION:NFL 2026 — Week 15\nDenver Broncos @ Las Vegas Raiders\nAlleg
+ iant Stadium\nBroadcast: CBS
 LOCATION:Allegiant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-20-detroit-lions-vs-minnesota-vikings@open-sports-cal
 DTSTART:20261221T012000Z
 DTEND:20261221T042000Z
 SUMMARY:Detroit Lions @ Minnesota Vikings
-DESCRIPTION:NFL 2026 — Week 15\nDetroit Lions @ Minnesota Vikings\nU.S. Bank Stadium
+DESCRIPTION:NFL 2026 — Week 15\nDetroit Lions @ Minnesota Vikings\nU.S. B
+ ank Stadium\nBroadcast: NBC
 LOCATION:U.S. Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-21-new-england-patriots-vs-kansas-city-chiefs@open-sports-cal
 DTSTART:20261222T011500Z
 DTEND:20261222T041500Z
 SUMMARY:New England Patriots @ Kansas City Chiefs
-DESCRIPTION:NFL 2026 — Week 15\nNew England Patriots @ Kansas City Chiefs\nArrowhead Stadium
+DESCRIPTION:NFL 2026 — Week 15\nNew England Patriots @ Kansas City Chiefs
+ \nArrowhead Stadium\nBroadcast: ESPN / ABC
 LOCATION:Arrowhead Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-24-houston-texans-vs-philadelphia-eagles@open-sports-cal
 DTSTART:20261225T011500Z
 DTEND:20261225T041500Z
 SUMMARY:Houston Texans @ Philadelphia Eagles
-DESCRIPTION:NFL 2026 — Week 16\nHouston Texans @ Philadelphia Eagles\nLincoln Financial Field
+DESCRIPTION:NFL 2026 — Week 16\nHouston Texans @ Philadelphia Eagles\nLin
+ coln Financial Field\nBroadcast: Prime Video (streaming)
 LOCATION:Lincoln Financial Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-25-green-bay-packers-vs-chicago-bears@open-sports-cal
 DTSTART:20261225T180000Z
 DTEND:20261225T210000Z
 SUMMARY:Green Bay Packers @ Chicago Bears
-DESCRIPTION:NFL 2026 — Week 16\nGreen Bay Packers @ Chicago Bears\nSoldier Field
+DESCRIPTION:NFL 2026 — Week 16\nGreen Bay Packers @ Chicago Bears\nSoldie
+ r Field\nBroadcast: Netflix (streaming)
 LOCATION:Soldier Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Netflix (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-25-buffalo-bills-vs-denver-broncos@open-sports-cal
 DTSTART:20261225T213000Z
 DTEND:20261226T003000Z
 SUMMARY:Buffalo Bills @ Denver Broncos
-DESCRIPTION:NFL 2026 — Week 16\nBuffalo Bills @ Denver Broncos\nEmpower Field at Mile High
+DESCRIPTION:NFL 2026 — Week 16\nBuffalo Bills @ Denver Broncos\nEmpower F
+ ield at Mile High\nBroadcast: Netflix (streaming)
 LOCATION:Empower Field at Mile High
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:Netflix (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-25-los-angeles-rams-vs-seattle-seahawks@open-sports-cal
 DTSTART:20261226T011500Z
 DTEND:20261226T041500Z
 SUMMARY:Los Angeles Rams @ Seattle Seahawks
-DESCRIPTION:NFL 2026 — Week 16\nLos Angeles Rams @ Seattle Seahawks\nLumen Field
+DESCRIPTION:NFL 2026 — Week 16\nLos Angeles Rams @ Seattle Seahawks\nLume
+ n Field\nBroadcast: Fox
 LOCATION:Lumen Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-27-tampa-bay-buccaneers-vs-atlanta-falcons@open-sports-cal
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:Tampa Bay Buccaneers @ Atlanta Falcons
-DESCRIPTION:NFL 2026 — Week 16\nTampa Bay Buccaneers @ Atlanta Falcons\nMercedes-Benz Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 16\nTampa Bay Buccaneers @ Atlanta Falcons\nM
+ ercedes-Benz Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Mercedes-Benz Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-27-carolina-panthers-vs-pittsburgh-steelers@open-sports-cal
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:Carolina Panthers @ Pittsburgh Steelers
-DESCRIPTION:NFL 2026 — Week 16\nCarolina Panthers @ Pittsburgh Steelers\nAcrisure Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 16\nCarolina Panthers @ Pittsburgh Steelers\n
+ Acrisure Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Acrisure Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-27-cincinnati-bengals-vs-indianapolis-colts@open-sports-cal
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:Cincinnati Bengals @ Indianapolis Colts
-DESCRIPTION:NFL 2026 — Week 16\nCincinnati Bengals @ Indianapolis Colts\nLucas Oil Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 16\nCincinnati Bengals @ Indianapolis Colts\n
+ Lucas Oil Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Lucas Oil Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-27-washington-commanders-vs-minnesota-vikings@open-sports-cal
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:Washington Commanders @ Minnesota Vikings
-DESCRIPTION:NFL 2026 — Week 16\nWashington Commanders @ Minnesota Vikings\nU.S. Bank Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 16\nWashington Commanders @ Minnesota Vikings
+ \nU.S. Bank Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:U.S. Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-27-arizona-cardinals-vs-new-orleans-saints@open-sports-cal
 DTSTART:20261227T180000Z
 DTEND:20261227T210000Z
 SUMMARY:Arizona Cardinals @ New Orleans Saints
-DESCRIPTION:NFL 2026 — Week 16\nArizona Cardinals @ New Orleans Saints\nCaesars Superdome
+DESCRIPTION:NFL 2026 — Week 16\nArizona Cardinals @ New Orleans Saints\nC
+ aesars Superdome\nBroadcast: Fox
 LOCATION:Caesars Superdome
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-27-cleveland-browns-vs-baltimore-ravens@open-sports-cal
 DTSTART:20261227T180000Z
 DTEND:20261227T210000Z
 SUMMARY:Cleveland Browns @ Baltimore Ravens
-DESCRIPTION:NFL 2026 — Week 16\nCleveland Browns @ Baltimore Ravens\nM&T Bank Stadium
+DESCRIPTION:NFL 2026 — Week 16\nCleveland Browns @ Baltimore Ravens\nM&T 
+ Bank Stadium\nBroadcast: CBS
 LOCATION:M&T Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-27-los-angeles-chargers-vs-miami-dolphins@open-sports-cal
 DTSTART:20261227T180000Z
 DTEND:20261227T210000Z
 SUMMARY:Los Angeles Chargers @ Miami Dolphins
-DESCRIPTION:NFL 2026 — Week 16\nLos Angeles Chargers @ Miami Dolphins\nHard Rock Stadium
+DESCRIPTION:NFL 2026 — Week 16\nLos Angeles Chargers @ Miami Dolphins\nHa
+ rd Rock Stadium\nBroadcast: Fox
 LOCATION:Hard Rock Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-27-new-england-patriots-vs-new-york-jets@open-sports-cal
 DTSTART:20261227T180000Z
 DTEND:20261227T210000Z
 SUMMARY:New England Patriots @ New York Jets
-DESCRIPTION:NFL 2026 — Week 16\nNew England Patriots @ New York Jets\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 16\nNew England Patriots @ New York Jets\nMet
+ Life Stadium\nBroadcast: CBS
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-27-tennessee-titans-vs-las-vegas-raiders@open-sports-cal
 DTSTART:20261227T210500Z
 DTEND:20261228T000500Z
 SUMMARY:Tennessee Titans @ Las Vegas Raiders
-DESCRIPTION:NFL 2026 — Week 16\nTennessee Titans @ Las Vegas Raiders\nAllegiant Stadium
+DESCRIPTION:NFL 2026 — Week 16\nTennessee Titans @ Las Vegas Raiders\nAll
+ egiant Stadium\nBroadcast: Fox
 LOCATION:Allegiant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-27-san-francisco-49ers-vs-kansas-city-chiefs@open-sports-cal
 DTSTART:20261227T212500Z
 DTEND:20261228T002500Z
 SUMMARY:San Francisco 49ers @ Kansas City Chiefs
-DESCRIPTION:NFL 2026 — Week 16\nSan Francisco 49ers @ Kansas City Chiefs\nArrowhead Stadium
+DESCRIPTION:NFL 2026 — Week 16\nSan Francisco 49ers @ Kansas City Chiefs\
+ nArrowhead Stadium\nBroadcast: CBS
 LOCATION:Arrowhead Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-27-jacksonville-jaguars-vs-dallas-cowboys@open-sports-cal
 DTSTART:20261228T012000Z
 DTEND:20261228T042000Z
 SUMMARY:Jacksonville Jaguars @ Dallas Cowboys
-DESCRIPTION:NFL 2026 — Week 16\nJacksonville Jaguars @ Dallas Cowboys\nAT&T Stadium
+DESCRIPTION:NFL 2026 — Week 16\nJacksonville Jaguars @ Dallas Cowboys\nAT
+ &T Stadium\nBroadcast: NBC
 LOCATION:AT&T Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-28-new-york-giants-vs-detroit-lions@open-sports-cal
 DTSTART:20261229T011500Z
 DTEND:20261229T041500Z
 SUMMARY:New York Giants @ Detroit Lions
-DESCRIPTION:NFL 2026 — Week 16\nNew York Giants @ Detroit Lions\nFord Field
+DESCRIPTION:NFL 2026 — Week 16\nNew York Giants @ Detroit Lions\nFord Fie
+ ld\nBroadcast: ESPN
 LOCATION:Ford Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2026-12-31-baltimore-ravens-vs-cincinnati-bengals@open-sports-cal
 DTSTART:20270101T011500Z
 DTEND:20270101T041500Z
 SUMMARY:Baltimore Ravens @ Cincinnati Bengals
-DESCRIPTION:NFL 2026 — Week 17\nBaltimore Ravens @ Cincinnati Bengals\nPaycor Stadium
+DESCRIPTION:NFL 2026 — Week 17\nBaltimore Ravens @ Cincinnati Bengals\nPa
+ ycor Stadium\nBroadcast: Prime Video (streaming)
 LOCATION:Paycor Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Prime Video (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-denver-broncos-vs-new-england-patriots@open-sports-cal
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Denver Broncos @ New England Patriots
-DESCRIPTION:NFL 2026 — Week 17\nDenver Broncos @ New England Patriots\nGillette Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 17\nDenver Broncos @ New England Patriots\nGi
+ llette Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Gillette Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-washington-commanders-vs-jacksonville-jaguars@open-sports-cal
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Washington Commanders @ Jacksonville Jaguars
-DESCRIPTION:NFL 2026 — Week 17\nWashington Commanders @ Jacksonville Jaguars\nEverBank Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 17\nWashington Commanders @ Jacksonville Jagu
+ ars\nEverBank Stadium\nKickoff time TBD\nBroadcast: Broadcast not announce
+ d
 LOCATION:EverBank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-kansas-city-chiefs-vs-los-angeles-chargers@open-sports-cal
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Kansas City Chiefs @ Los Angeles Chargers
-DESCRIPTION:NFL 2026 — Week 17\nKansas City Chiefs @ Los Angeles Chargers\nSoFi Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 17\nKansas City Chiefs @ Los Angeles Chargers
+ \nSoFi Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-los-angeles-rams-vs-tampa-bay-buccaneers@open-sports-cal
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Los Angeles Rams @ Tampa Bay Buccaneers
-DESCRIPTION:NFL 2026 — Week 17\nLos Angeles Rams @ Tampa Bay Buccaneers\nRaymond James Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 17\nLos Angeles Rams @ Tampa Bay Buccaneers\n
+ Raymond James Stadium\nKickoff time TBD\nBroadcast: Broadcast not announce
+ d
 LOCATION:Raymond James Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-new-orleans-saints-vs-atlanta-falcons@open-sports-cal
 DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:New Orleans Saints @ Atlanta Falcons
-DESCRIPTION:NFL 2026 — Week 17\nNew Orleans Saints @ Atlanta Falcons\nMercedes-Benz Stadium
+DESCRIPTION:NFL 2026 — Week 17\nNew Orleans Saints @ Atlanta Falcons\nMer
+ cedes-Benz Stadium\nBroadcast: Fox
 LOCATION:Mercedes-Benz Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-buffalo-bills-vs-miami-dolphins@open-sports-cal
 DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:Buffalo Bills @ Miami Dolphins
-DESCRIPTION:NFL 2026 — Week 17\nBuffalo Bills @ Miami Dolphins\nHard Rock Stadium
+DESCRIPTION:NFL 2026 — Week 17\nBuffalo Bills @ Miami Dolphins\nHard Rock
+  Stadium\nBroadcast: CBS
 LOCATION:Hard Rock Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-seattle-seahawks-vs-carolina-panthers@open-sports-cal
 DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:Seattle Seahawks @ Carolina Panthers
-DESCRIPTION:NFL 2026 — Week 17\nSeattle Seahawks @ Carolina Panthers\nBank of America Stadium
+DESCRIPTION:NFL 2026 — Week 17\nSeattle Seahawks @ Carolina Panthers\nBan
+ k of America Stadium\nBroadcast: Fox
 LOCATION:Bank of America Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-indianapolis-colts-vs-cleveland-browns@open-sports-cal
 DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:Indianapolis Colts @ Cleveland Browns
-DESCRIPTION:NFL 2026 — Week 17\nIndianapolis Colts @ Cleveland Browns\nHuntington Bank Field
+DESCRIPTION:NFL 2026 — Week 17\nIndianapolis Colts @ Cleveland Browns\nHu
+ ntington Bank Field\nBroadcast: Fox
 LOCATION:Huntington Bank Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-new-york-giants-vs-dallas-cowboys@open-sports-cal
 DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:New York Giants @ Dallas Cowboys
-DESCRIPTION:NFL 2026 — Week 17\nNew York Giants @ Dallas Cowboys\nAT&T Stadium
+DESCRIPTION:NFL 2026 — Week 17\nNew York Giants @ Dallas Cowboys\nAT&T St
+ adium\nBroadcast: Fox
 LOCATION:AT&T Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-minnesota-vikings-vs-new-york-jets@open-sports-cal
 DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:Minnesota Vikings @ New York Jets
-DESCRIPTION:NFL 2026 — Week 17\nMinnesota Vikings @ New York Jets\nMetLife Stadium
+DESCRIPTION:NFL 2026 — Week 17\nMinnesota Vikings @ New York Jets\nMetLif
+ e Stadium\nBroadcast: CBS
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-pittsburgh-steelers-vs-tennessee-titans@open-sports-cal
 DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:Pittsburgh Steelers @ Tennessee Titans
-DESCRIPTION:NFL 2026 — Week 17\nPittsburgh Steelers @ Tennessee Titans\nNissan Stadium
+DESCRIPTION:NFL 2026 — Week 17\nPittsburgh Steelers @ Tennessee Titans\nN
+ issan Stadium\nBroadcast: CBS
 LOCATION:Nissan Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-las-vegas-raiders-vs-arizona-cardinals@open-sports-cal
 DTSTART:20270103T210500Z
 DTEND:20270104T000500Z
 SUMMARY:Las Vegas Raiders @ Arizona Cardinals
-DESCRIPTION:NFL 2026 — Week 17\nLas Vegas Raiders @ Arizona Cardinals\nState Farm Stadium
+DESCRIPTION:NFL 2026 — Week 17\nLas Vegas Raiders @ Arizona Cardinals\nSt
+ ate Farm Stadium\nBroadcast: CBS
 LOCATION:State Farm Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-detroit-lions-vs-chicago-bears@open-sports-cal
 DTSTART:20270103T212500Z
 DTEND:20270104T002500Z
 SUMMARY:Detroit Lions @ Chicago Bears
-DESCRIPTION:NFL 2026 — Week 17\nDetroit Lions @ Chicago Bears\nSoldier Field
+DESCRIPTION:NFL 2026 — Week 17\nDetroit Lions @ Chicago Bears\nSoldier Fi
+ eld\nBroadcast: Fox
 LOCATION:Soldier Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-03-philadelphia-eagles-vs-san-francisco-49ers@open-sports-cal
 DTSTART:20270104T012000Z
 DTEND:20270104T042000Z
 SUMMARY:Philadelphia Eagles @ San Francisco 49ers
-DESCRIPTION:NFL 2026 — Week 17\nPhiladelphia Eagles @ San Francisco 49ers\nLevi's Stadium
+DESCRIPTION:NFL 2026 — Week 17\nPhiladelphia Eagles @ San Francisco 49ers
+ \nLevi's Stadium\nBroadcast: NBC
 LOCATION:Levi's Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-04-houston-texans-vs-green-bay-packers@open-sports-cal
 DTSTART:20270105T011500Z
 DTEND:20270105T041500Z
 SUMMARY:Houston Texans @ Green Bay Packers
-DESCRIPTION:NFL 2026 — Week 17\nHouston Texans @ Green Bay Packers\nLambeau Field
+DESCRIPTION:NFL 2026 — Week 17\nHouston Texans @ Green Bay Packers\nLambe
+ au Field\nBroadcast: ESPN
 LOCATION:Lambeau Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-san-francisco-49ers-vs-arizona-cardinals@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:San Francisco 49ers @ Arizona Cardinals
-DESCRIPTION:NFL 2026 — Week 18\nSan Francisco 49ers @ Arizona Cardinals\nState Farm Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nSan Francisco 49ers @ Arizona Cardinals\n
+ State Farm Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:State Farm Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-atlanta-falcons-vs-carolina-panthers@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Atlanta Falcons @ Carolina Panthers
-DESCRIPTION:NFL 2026 — Week 18\nAtlanta Falcons @ Carolina Panthers\nBank of America Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nAtlanta Falcons @ Carolina Panthers\nBank
+  of America Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Bank of America Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-pittsburgh-steelers-vs-baltimore-ravens@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Pittsburgh Steelers @ Baltimore Ravens
-DESCRIPTION:NFL 2026 — Week 18\nPittsburgh Steelers @ Baltimore Ravens\nM&T Bank Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nPittsburgh Steelers @ Baltimore Ravens\nM
+ &T Bank Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:M&T Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-new-york-jets-vs-buffalo-bills@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:New York Jets @ Buffalo Bills
-DESCRIPTION:NFL 2026 — Week 18\nNew York Jets @ Buffalo Bills\nHighmark Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nNew York Jets @ Buffalo Bills\nHighmark S
+ tadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Highmark Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-chicago-bears-vs-minnesota-vikings@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Chicago Bears @ Minnesota Vikings
-DESCRIPTION:NFL 2026 — Week 18\nChicago Bears @ Minnesota Vikings\nU.S. Bank Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nChicago Bears @ Minnesota Vikings\nU.S. B
+ ank Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:U.S. Bank Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-cleveland-browns-vs-cincinnati-bengals@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Cleveland Browns @ Cincinnati Bengals
-DESCRIPTION:NFL 2026 — Week 18\nCleveland Browns @ Cincinnati Bengals\nPaycor Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nCleveland Browns @ Cincinnati Bengals\nPa
+ ycor Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Paycor Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-dallas-cowboys-vs-washington-commanders@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Dallas Cowboys @ Washington Commanders
-DESCRIPTION:NFL 2026 — Week 18\nDallas Cowboys @ Washington Commanders\nNorthwest Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nDallas Cowboys @ Washington Commanders\nN
+ orthwest Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Northwest Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-los-angeles-chargers-vs-denver-broncos@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Los Angeles Chargers @ Denver Broncos
-DESCRIPTION:NFL 2026 — Week 18\nLos Angeles Chargers @ Denver Broncos\nEmpower Field at Mile High\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nLos Angeles Chargers @ Denver Broncos\nEm
+ power Field at Mile High\nKickoff time TBD\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Empower Field at Mile High
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-detroit-lions-vs-green-bay-packers@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Detroit Lions @ Green Bay Packers
-DESCRIPTION:NFL 2026 — Week 18\nDetroit Lions @ Green Bay Packers\nLambeau Field\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nDetroit Lions @ Green Bay Packers\nLambea
+ u Field\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Lambeau Field
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-tennessee-titans-vs-houston-texans@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Tennessee Titans @ Houston Texans
-DESCRIPTION:NFL 2026 — Week 18\nTennessee Titans @ Houston Texans\nReliant Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nTennessee Titans @ Houston Texans\nRelian
+ t Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Reliant Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-jacksonville-jaguars-vs-indianapolis-colts@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Jacksonville Jaguars @ Indianapolis Colts
-DESCRIPTION:NFL 2026 — Week 18\nJacksonville Jaguars @ Indianapolis Colts\nLucas Oil Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nJacksonville Jaguars @ Indianapolis Colts
+ \nLucas Oil Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Lucas Oil Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-las-vegas-raiders-vs-kansas-city-chiefs@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Las Vegas Raiders @ Kansas City Chiefs
-DESCRIPTION:NFL 2026 — Week 18\nLas Vegas Raiders @ Kansas City Chiefs\nArrowhead Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nLas Vegas Raiders @ Kansas City Chiefs\nA
+ rrowhead Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Arrowhead Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-seattle-seahawks-vs-los-angeles-rams@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Seattle Seahawks @ Los Angeles Rams
-DESCRIPTION:NFL 2026 — Week 18\nSeattle Seahawks @ Los Angeles Rams\nSoFi Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nSeattle Seahawks @ Los Angeles Rams\nSoFi
+  Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:SoFi Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-miami-dolphins-vs-new-england-patriots@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Miami Dolphins @ New England Patriots
-DESCRIPTION:NFL 2026 — Week 18\nMiami Dolphins @ New England Patriots\nGillette Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nMiami Dolphins @ New England Patriots\nGi
+ llette Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Gillette Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-tampa-bay-buccaneers-vs-new-orleans-saints@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Tampa Bay Buccaneers @ New Orleans Saints
-DESCRIPTION:NFL 2026 — Week 18\nTampa Bay Buccaneers @ New Orleans Saints\nCaesars Superdome\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nTampa Bay Buccaneers @ New Orleans Saints
+ \nCaesars Superdome\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:Caesars Superdome
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:nfl-2026-2027-01-10-philadelphia-eagles-vs-new-york-giants@open-sports-cal
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Philadelphia Eagles @ New York Giants
-DESCRIPTION:NFL 2026 — Week 18\nPhiladelphia Eagles @ New York Giants\nMetLife Stadium\nKickoff time TBD
+DESCRIPTION:NFL 2026 — Week 18\nPhiladelphia Eagles @ New York Giants\nMe
+ tLife Stadium\nKickoff time TBD\nBroadcast: Broadcast not announced
 LOCATION:MetLife Stadium
 CATEGORIES:American Football,NFL,NFL 2026
 STATUS:CONFIRMED
-DTSTAMP:20261106T140207Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

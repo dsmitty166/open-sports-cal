@@ -12,12 +12,13 @@ DTSTART:20260905T194500Z
 DTEND:20260905T224500Z
 SUMMARY:Oklahoma State Cowboys @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA FBS Football 2026\nOklahoma State Cowboys @ Tulsa Golden H
- urricane\nH. A. Chapman Stadium\, Tulsa\, OK
+ urricane\nH. A. Chapman Stadium\, Tulsa\, OK\nBroadcast: ESPNU
 LOCATION:H. A. Chapman Stadium\, Tulsa\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856782@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20260912T173000Z
 DTEND:20260912T203000Z
 SUMMARY:Oregon Ducks @ Oklahoma State Cowboys
 DESCRIPTION:NCAA FBS Football 2026\nOregon Ducks @ Oklahoma State Cowboys\n
- Boone Pickens Stadium\, Stillwater\, OK
+ Boone Pickens Stadium\, Stillwater\, OK\nBroadcast: ESPNEWS / Disney+ (str
+ eaming)
 LOCATION:Boone Pickens Stadium\, Stillwater\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNEWS / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856803@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20260919T230000Z
 DTEND:20260920T020000Z
 SUMMARY:Murray State Racers @ Oklahoma State Cowboys
 DESCRIPTION:NCAA FBS Football 2026\nMurray State Racers @ Oklahoma State Co
- wboys\nBoone Pickens Stadium\, Stillwater\, OK
+ wboys\nBoone Pickens Stadium\, Stillwater\, OK\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Boone Pickens Stadium\, Stillwater\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856881@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20260926T230000Z
 DTEND:20260927T020000Z
 SUMMARY:Oklahoma State Cowboys @ West Virginia Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nOklahoma State Cowboys @ West Virginia 
- Mountaineers\nMilan Puskar Stadium\, Morgantown\, WV
+ Mountaineers\nMilan Puskar Stadium\, Morgantown\, WV\nBroadcast: FS1
 LOCATION:Milan Puskar Stadium\, Morgantown\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856824@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:UCF Knights @ Oklahoma State Cowboys
 DESCRIPTION:NCAA FBS Football 2026\nUCF Knights @ Oklahoma State Cowboys\nB
- oone Pickens Stadium\, Stillwater\, OK
+ oone Pickens Stadium\, Stillwater\, OK\nBroadcast: ESPN2
 LOCATION:Boone Pickens Stadium\, Stillwater\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856831@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261017T233000Z
 DTEND:20261018T023000Z
 SUMMARY:Oklahoma State Cowboys @ Houston Cougars
 DESCRIPTION:NCAA FBS Football 2026\nOklahoma State Cowboys @ Houston Cougar
- s\nTDECU Stadium\, Houston\, TX
+ s\nTDECU Stadium\, Houston\, TX\nBroadcast: Fox
 LOCATION:TDECU Stadium\, Houston\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856836@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261024T230000Z
 DTEND:20261025T020000Z
 SUMMARY:Colorado Buffaloes @ Oklahoma State Cowboys
 DESCRIPTION:NCAA FBS Football 2026\nColorado Buffaloes @ Oklahoma State Cow
- boys\nBoone Pickens Stadium\, Stillwater\, OK
+ boys\nBoone Pickens Stadium\, Stillwater\, OK\nBroadcast: FS1
 LOCATION:Boone Pickens Stadium\, Stillwater\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856847@open-sports-cal
@@ -103,12 +112,13 @@ DTSTART:20261031T230000Z
 DTEND:20261101T020000Z
 SUMMARY:Oklahoma State Cowboys @ Iowa State Cyclones
 DESCRIPTION:NCAA FBS Football 2026\nOklahoma State Cowboys @ Iowa State Cyc
- lones\nJack Trice Stadium\, Ames\, IA
+ lones\nJack Trice Stadium\, Ames\, IA\nBroadcast: Fox
 LOCATION:Jack Trice Stadium\, Ames\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856854@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Oklahoma State Cowboys @ Kansas State Wildcats
 DESCRIPTION:NCAA FBS Football 2026\nOklahoma State Cowboys @ Kansas State W
- ildcats\nBill Snyder Family Stadium\, Manhattan\, KS
+ ildcats\nBill Snyder Family Stadium\, Manhattan\, KS\nBroadcast: TNT
 LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856863@open-sports-cal
@@ -129,11 +140,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Texas Tech Red Raiders @ Oklahoma State Cowboys
 DESCRIPTION:NCAA FBS Football 2026\nTexas Tech Red Raiders @ Oklahoma State
-  Cowboys\nBoone Pickens Stadium\, Stillwater\, OK\nStart time TBD
+  Cowboys\nBoone Pickens Stadium\, Stillwater\, OK\nStart time TBD\nBroadca
+ st: Broadcast not announced
 LOCATION:Boone Pickens Stadium\, Stillwater\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856870@open-sports-cal
@@ -141,11 +153,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Oklahoma State Cowboys @ Arizona State Sun Devils
 DESCRIPTION:NCAA FBS Football 2026\nOklahoma State Cowboys @ Arizona State 
- Sun Devils\nMountain America Stadium\, Tempe\, AZ\nStart time TBD
+ Sun Devils\nMountain America Stadium\, Tempe\, AZ\nStart time TBD\nBroadca
+ st: Broadcast not announced
 LOCATION:Mountain America Stadium\, Tempe\, AZ
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856877@open-sports-cal
@@ -153,10 +166,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Kansas Jayhawks @ Oklahoma State Cowboys
 DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ Oklahoma State Cowboy
- s\nBoone Pickens Stadium\, Stillwater\, OK\nStart time TBD
+ s\nBoone Pickens Stadium\, Stillwater\, OK\nStart time TBD\nBroadcast: Bro
+ adcast not announced
 LOCATION:Boone Pickens Stadium\, Stillwater\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

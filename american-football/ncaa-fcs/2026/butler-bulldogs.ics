@@ -12,12 +12,14 @@ DTSTART:20260829T170000Z
 DTEND:20260829T200000Z
 SUMMARY:Georgetown (KY) Tigers @ Butler Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nGeorgetown (KY) Tigers @ Butler Bulldog
- s\nBud and Jackie Sellick Bowl\, Indianapolis\, IN
+ s\nBud and Jackie Sellick Bowl\, Indianapolis\, IN\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Bud and Jackie Sellick Bowl\, Indianapolis\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868119@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20260906T003000Z
 DTEND:20260906T033000Z
 SUMMARY:Butler Bulldogs @ Montana State Bobcats
 DESCRIPTION:NCAA FCS Football 2026\nButler Bulldogs @ Montana State Bobcats
- \nBobcat Stadium (MT)\, Bozeman\, MT
+ \nBobcat Stadium (MT)\, Bozeman\, MT\nBroadcast: ESPN+ (streaming) / Scrip
+ ps Sports (streaming)
 LOCATION:Bobcat Stadium (MT)\, Bozeman\, MT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming) / Scripps Sports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868210@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20260912T220000Z
 DTEND:20260913T010000Z
 SUMMARY:Franklin Grizzlies @ Butler Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nFranklin Grizzlies @ Butler Bulldogs\nB
- ud and Jackie Sellick Bowl\, Indianapolis\, IN
+ ud and Jackie Sellick Bowl\, Indianapolis\, IN\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Bud and Jackie Sellick Bowl\, Indianapolis\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401867686@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20260919T170000Z
 DTEND:20260919T200000Z
 SUMMARY:Chicago State Cougars @ Butler Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nChicago State Cougars @ Butler Bulldogs
- \nBud and Jackie Sellick Bowl\, Indianapolis\, IN
+ \nBud and Jackie Sellick Bowl\, Indianapolis\, IN\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Bud and Jackie Sellick Bowl\, Indianapolis\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868211@open-sports-cal
@@ -64,12 +72,13 @@ DTSTART:20260926T180000Z
 DTEND:20260926T210000Z
 SUMMARY:Butler Bulldogs @ Valparaiso Beacons
 DESCRIPTION:NCAA FCS Football 2026\nButler Bulldogs @ Valparaiso Beacons\nB
- rown Field\, Valparaiso\, IN
+ rown Field\, Valparaiso\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Brown Field\, Valparaiso\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868212@open-sports-cal
@@ -77,12 +86,14 @@ DTSTART:20261010T170000Z
 DTEND:20261010T200000Z
 SUMMARY:San Diego Toreros @ Butler Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nSan Diego Toreros @ Butler Bulldogs\nBu
- d and Jackie Sellick Bowl\, Indianapolis\, IN
+ d and Jackie Sellick Bowl\, Indianapolis\, IN\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Bud and Jackie Sellick Bowl\, Indianapolis\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868213@open-sports-cal
@@ -90,12 +101,13 @@ DTSTART:20261017T170000Z
 DTEND:20261017T200000Z
 SUMMARY:Dayton Flyers @ Butler Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nDayton Flyers @ Butler Bulldogs\nBud an
- d Jackie Sellick Bowl\, Indianapolis\, IN
+ d Jackie Sellick Bowl\, Indianapolis\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Bud and Jackie Sellick Bowl\, Indianapolis\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868214@open-sports-cal
@@ -103,12 +115,13 @@ DTSTART:20261024T170000Z
 DTEND:20261024T200000Z
 SUMMARY:Butler Bulldogs @ Drake Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nButler Bulldogs @ Drake Bulldogs\nDrake
-  Stadium (IA)\, Des Moines\, IA
+  Stadium (IA)\, Des Moines\, IA\nBroadcast: ESPN+ (streaming)
 LOCATION:Drake Stadium (IA)\, Des Moines\, IA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868215@open-sports-cal
@@ -116,12 +129,13 @@ DTSTART:20261031T170000Z
 DTEND:20261031T200000Z
 SUMMARY:Butler Bulldogs @ Presbyterian Blue Hose
 DESCRIPTION:NCAA FCS Football 2026\nButler Bulldogs @ Presbyterian Blue Hos
- e\nBailey Memorial Stadium\, Clinton\, SC
+ e\nBailey Memorial Stadium\, Clinton\, SC\nBroadcast: ESPN+ (streaming)
 LOCATION:Bailey Memorial Stadium\, Clinton\, SC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868216@open-sports-cal
@@ -129,11 +143,12 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:St. Thomas Tommies @ Butler Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nSt. Thomas Tommies @ Butler Bulldogs\nB
- ud and Jackie Sellick Bowl\, Indianapolis\, IN
+ ud and Jackie Sellick Bowl\, Indianapolis\, IN\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Bud and Jackie Sellick Bowl\, Indianapolis\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +157,14 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Butler Bulldogs @ Marist Red Foxes
 DESCRIPTION:NCAA FCS Football 2026\nButler Bulldogs @ Marist Red Foxes\nTen
- ney Stadium at Leonidoff Field\, Poughkeepsie\, NY
+ ney Stadium at Leonidoff Field\, Poughkeepsie\, NY\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Tenney Stadium at Leonidoff Field\, Poughkeepsie\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868218@open-sports-cal
@@ -155,11 +172,13 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Morehead State Eagles @ Butler Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nMorehead State Eagles @ Butler Bulldogs
- \nBud and Jackie Sellick Bowl\, Indianapolis\, IN
+ \nBud and Jackie Sellick Bowl\, Indianapolis\, IN\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Bud and Jackie Sellick Bowl\, Indianapolis\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

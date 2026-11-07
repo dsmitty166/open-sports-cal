@@ -12,12 +12,14 @@ DTSTART:20260905T193000Z
 DTEND:20260905T223000Z
 SUMMARY:Tulane Green Wave @ Duke Blue Devils
 DESCRIPTION:NCAA FBS Football 2026\nTulane Green Wave @ Duke Blue Devils\nW
- allace Wade Stadium\, Durham\, NC
+ allace Wade Stadium\, Durham\, NC\nBroadcast: ACC Network / ACCNX (streami
+ ng)
 LOCATION:Wallace Wade Stadium\, Durham\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network / ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858217@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260912T193000Z
 DTEND:20260912T223000Z
 SUMMARY:Duke Blue Devils @ Illinois Fighting Illini
 DESCRIPTION:NCAA FBS Football 2026\nDuke Blue Devils @ Illinois Fighting Il
- lini\nGies Memorial Stadium\, Champaign\, IL
+ lini\nGies Memorial Stadium\, Champaign\, IL\nBroadcast: FS1
 LOCATION:Gies Memorial Stadium\, Champaign\, IL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858231@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260919T200000Z
 DTEND:20260919T230000Z
 SUMMARY:Stanford Cardinal @ Duke Blue Devils
 DESCRIPTION:NCAA FBS Football 2026\nStanford Cardinal @ Duke Blue Devils\nW
- allace Wade Stadium\, Durham\, NC
+ allace Wade Stadium\, Durham\, NC\nBroadcast: CW
 LOCATION:Wallace Wade Stadium\, Durham\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858244@open-sports-cal
@@ -51,12 +55,13 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:William & Mary Tribe @ Duke Blue Devils
 DESCRIPTION:NCAA FBS Football 2026\nWilliam & Mary Tribe @ Duke Blue Devils
- \nWallace Wade Stadium\, Durham\, NC
+ \nWallace Wade Stadium\, Durham\, NC\nBroadcast: ACCNX (streaming)
 LOCATION:Wallace Wade Stadium\, Durham\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858255@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261010T193000Z
 DTEND:20261010T223000Z
 SUMMARY:Duke Blue Devils @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA FBS Football 2026\nDuke Blue Devils @ Georgia Tech Yellow 
- Jackets\nBobby Dodd Stadium\, Atlanta\, GA
+ Jackets\nBobby Dodd Stadium\, Atlanta\, GA\nBroadcast: ESPN2
 LOCATION:Bobby Dodd Stadium\, Atlanta\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858266@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261017T193000Z
 DTEND:20261017T223000Z
 SUMMARY:North Carolina Tar Heels @ Duke Blue Devils
 DESCRIPTION:NCAA FBS Football 2026\nNorth Carolina Tar Heels @ Duke Blue De
- vils\nWallace Wade Stadium\, Durham\, NC
+ vils\nWallace Wade Stadium\, Durham\, NC\nBroadcast: ESPN2
 LOCATION:Wallace Wade Stadium\, Durham\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858271@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261023T230000Z
 DTEND:20261024T020000Z
 SUMMARY:Duke Blue Devils @ Virginia Cavaliers
 DESCRIPTION:NCAA FBS Football 2026\nDuke Blue Devils @ Virginia Cavaliers\n
- Scott Stadium\, Charlottesville\, VA
+ Scott Stadium\, Charlottesville\, VA\nBroadcast: ESPN
 LOCATION:Scott Stadium\, Charlottesville\, VA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858279@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Boston College Eagles @ Duke Blue Devils
 DESCRIPTION:NCAA FBS Football 2026\nBoston College Eagles @ Duke Blue Devil
- s\nWallace Wade Stadium\, Durham\, NC
+ s\nWallace Wade Stadium\, Durham\, NC\nBroadcast: CW
 LOCATION:Wallace Wade Stadium\, Durham\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858286@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T173000Z
 DTEND:20261107T203000Z
 SUMMARY:Duke Blue Devils @ NC State Wolfpack
 DESCRIPTION:NCAA FBS Football 2026\nDuke Blue Devils @ NC State Wolfpack\nC
- arter-Finley Stadium\, Raleigh\, NC
+ arter-Finley Stadium\, Raleigh\, NC\nBroadcast: CW
 LOCATION:Carter-Finley Stadium\, Raleigh\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858296@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Duke Blue Devils @ Miami Hurricanes
 DESCRIPTION:NCAA FBS Football 2026\nDuke Blue Devils @ Miami Hurricanes\nHa
- rd Rock Stadium\, Miami Gardens\, FL
+ rd Rock Stadium\, Miami Gardens\, FL\nBroadcast: ABC
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858303@open-sports-cal
@@ -142,12 +153,13 @@ DTSTART:20261121T003000Z
 DTEND:20261121T033000Z
 SUMMARY:Clemson Tigers @ Duke Blue Devils
 DESCRIPTION:NCAA FBS Football 2026\nClemson Tigers @ Duke Blue Devils\nWall
- ace Wade Stadium\, Durham\, NC
+ ace Wade Stadium\, Durham\, NC\nBroadcast: ESPN
 LOCATION:Wallace Wade Stadium\, Durham\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858312@open-sports-cal
@@ -156,10 +168,10 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Duke Blue Devils @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA FBS Football 2026\nDuke Blue Devils @ Wake Forest Demon De
  acons\nAllegacy Federal Credit Union Stadium\, Winston-Salem\, NC\nStart t
- ime TBD
+ ime TBD\nBroadcast: Broadcast not announced
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

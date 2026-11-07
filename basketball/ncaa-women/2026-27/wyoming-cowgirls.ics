@@ -12,13 +12,14 @@ DTSTART:20261103T013000Z
 DTEND:20261103T043000Z
 SUMMARY:Santa Clara Broncos @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSanta Clara Broncos @ Wyoming 
- Cowgirls\nArena-Auditorium\, Laramie\, WY
+ Cowgirls\nArena-Auditorium\, Laramie\, WY\nBroadcast: MW+ (streaming)
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920496@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261108T020000Z
 DTEND:20261108T050000Z
 SUMMARY:Missouri State Lady Bears @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMissouri State Lady Bears @ Wy
- oming Cowgirls\nArena-Auditorium\, Laramie\, WY
+ oming Cowgirls\nArena-Auditorium\, Laramie\, WY\nBroadcast: MW+ (streaming
+ )
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920497@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261111T013000Z
 DTEND:20261111T043000Z
 SUMMARY:UT Arlington Mavericks @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUT Arlington Mavericks @ Wyomi
- ng Cowgirls\nArena-Auditorium\, Laramie\, WY
+ ng Cowgirls\nArena-Auditorium\, Laramie\, WY\nBroadcast: MW+ (streaming)
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920498@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261114T013000Z
 DTEND:20261114T043000Z
 SUMMARY:Wyoming Cowgirls @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ Colorado St
- ate Rams\nMoby Arena\, Fort Collins\, CO
+ ate Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: YouTube (streaming)
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920499@open-sports-cal
@@ -68,12 +73,13 @@ DTSTART:20261119T010000Z
 DTEND:20261119T040000Z
 SUMMARY:Wyoming Cowgirls @ South Dakota State Jackrabbits
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ South Dakot
- a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD
+ a State Jackrabbits\nFirst Bank & Trust Arena\, Brookings\, SD\nBroadcast:
+  Broadcast not announced
 LOCATION:First Bank & Trust Arena\, Brookings\, SD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -82,12 +88,12 @@ DTSTART:20261122T210000Z
 DTEND:20261123T000000Z
 SUMMARY:Harvard Crimson @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Wyoming Cowg
- irls\nArena-Auditorium\, Laramie\, WY
+ irls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -96,12 +102,13 @@ DTSTART:20261128T003000Z
 DTEND:20261128T033000Z
 SUMMARY:Utah State Aggies @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUtah State Aggies @ Wyoming Co
- wgirls\nBren Events Center\, Irvine\, CA\nNeutral site
+ wgirls\nBren Events Center\, Irvine\, CA\nNeutral site\nBroadcast: Broadca
+ st not announced
 LOCATION:Bren Events Center\, Irvine\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +117,13 @@ DTSTART:20261128T220000Z
 DTEND:20261129T010000Z
 SUMMARY:Jacksonville State Gamecocks @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJacksonville State Gamecocks @
-  Wyoming Cowgirls\nBren Events Center\, Irvine\, CA\nNeutral site
+  Wyoming Cowgirls\nBren Events Center\, Irvine\, CA\nNeutral site\nBroadca
+ st: Broadcast not announced
 LOCATION:Bren Events Center\, Irvine\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +132,13 @@ DTSTART:20261202T180000Z
 DTEND:20261202T210000Z
 SUMMARY:Regis University REGIS UNIVERSITY @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRegis University REGIS UNIVERS
- ITY @ Wyoming Cowgirls\nArena-Auditorium\, Laramie\, WY
+ ITY @ Wyoming Cowgirls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadc
+ ast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +147,14 @@ DTSTART:20261206T200000Z
 DTEND:20261206T230000Z
 SUMMARY:Wyoming Cowgirls @ Colorado Buffaloes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ Colorado Bu
- ffaloes\nCU Events Center\, Boulder\, CO
+ ffaloes\nCU Events Center\, Boulder\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:CU Events Center\, Boulder\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920504@open-sports-cal
@@ -152,12 +162,12 @@ DTSTART:20261212T200000Z
 DTEND:20261212T230000Z
 SUMMARY:Idaho Vandals @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIdaho Vandals @ Wyoming Cowgir
- ls\nArena-Auditorium\, Laramie\, WY
+ ls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -166,13 +176,14 @@ DTSTART:20261219T220000Z
 DTEND:20261220T010000Z
 SUMMARY:Wyoming Cowgirls @ Portland Pilots
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ Portland Pi
- lots\nChiles Center\, Portland\, OR
+ lots\nChiles Center\, Portland\, OR\nBroadcast: ESPN+ (streaming)
 LOCATION:Chiles Center\, Portland\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920505@open-sports-cal
@@ -180,13 +191,14 @@ DTSTART:20261222T200000Z
 DTEND:20261222T230000Z
 SUMMARY:Wyoming Cowgirls @ Denver Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ Denver Pion
- eers\nHamilton Gymnasium\, Denver\, CO
+ eers\nHamilton Gymnasium\, Denver\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Hamilton Gymnasium\, Denver\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401928449@open-sports-cal
@@ -194,12 +206,13 @@ DTSTART:20261231T013000Z
 DTEND:20261231T043000Z
 SUMMARY:Wyoming Cowgirls @ Air Force Falcons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ Air Force F
- alcons\nClune Arena\, Colorado Springs\, CO
+ alcons\nClune Arena\, Colorado Springs\, CO\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Clune Arena\, Colorado Springs\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +221,13 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:Wyoming Cowgirls @ Nevada Wolf Pack
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ Nevada Wolf
-  Pack\nLawlor Events Center\, Reno\, NV
+  Pack\nLawlor Events Center\, Reno\, NV\nBroadcast: Broadcast not announce
+ d
 LOCATION:Lawlor Events Center\, Reno\, NV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +236,13 @@ DTSTART:20270107T013000Z
 DTEND:20270107T043000Z
 SUMMARY:Hawai'i Rainbow Wahine @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHawai'i Rainbow Wahine @ Wyomi
- ng Cowgirls\nArena-Auditorium\, Laramie\, WY
+ ng Cowgirls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +251,12 @@ DTSTART:20270109T210000Z
 DTEND:20270110T000000Z
 SUMMARY:UNLV Lady Rebels @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNLV Lady Rebels @ Wyoming Cow
- girls\nArena-Auditorium\, Laramie\, WY
+ girls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +265,13 @@ DTSTART:20270114T020000Z
 DTEND:20270114T050000Z
 SUMMARY:Wyoming Cowgirls @ UC Davis Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ UC Davis Ag
- gies\nUniversity Credit Union Center\, Davis\, CA
+ gies\nUniversity Credit Union Center\, Davis\, CA\nBroadcast: Broadcast no
+ t announced
 LOCATION:University Credit Union Center\, Davis\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +280,13 @@ DTSTART:20270116T200000Z
 DTEND:20270116T230000Z
 SUMMARY:Wyoming Cowgirls @ Grand Canyon Lopes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ Grand Canyo
- n Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ
+ n Lopes\nGlobal Credit Union Arena\, Phoenix\, AZ\nBroadcast: Broadcast no
+ t announced
 LOCATION:Global Credit Union Arena\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +295,12 @@ DTSTART:20270121T013000Z
 DTEND:20270121T043000Z
 SUMMARY:UTEP Miners @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUTEP Miners @ Wyoming Cowgirls
- \nArena-Auditorium\, Laramie\, WY
+ \nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +309,12 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:New Mexico Lobos @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Mexico Lobos @ Wyoming Cow
- girls\nArena-Auditorium\, Laramie\, WY
+ girls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +323,13 @@ DTSTART:20270128T030000Z
 DTEND:20270128T060000Z
 SUMMARY:Wyoming Cowgirls @ San José State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ San José S
- tate Spartans\nProvident Credit Union Event Center\, San Jose\, CA
+ tate Spartans\nProvident Credit Union Event Center\, San Jose\, CA\nBroadc
+ ast: Broadcast not announced
 LOCATION:Provident Credit Union Event Center\, San Jose\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +338,12 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:Wyoming Cowgirls @ UNLV Lady Rebels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ UNLV Lady R
- ebels\nThe Pavilion\, Las Vegas\, NV
+ ebels\nThe Pavilion\, Las Vegas\, NV\nBroadcast: Broadcast not announced
 LOCATION:The Pavilion\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +352,12 @@ DTSTART:20270204T013000Z
 DTEND:20270204T043000Z
 SUMMARY:Nevada Wolf Pack @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNevada Wolf Pack @ Wyoming Cow
- girls\nArena-Auditorium\, Laramie\, WY
+ girls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +366,12 @@ DTSTART:20270206T210000Z
 DTEND:20270207T000000Z
 SUMMARY:UC Davis Aggies @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUC Davis Aggies @ Wyoming Cowg
- irls\nArena-Auditorium\, Laramie\, WY
+ irls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +380,12 @@ DTSTART:20270213T210000Z
 DTEND:20270214T000000Z
 SUMMARY:Wyoming Cowgirls @ UTEP Miners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ UTEP Miners
- \nDon Haskins Center\, El Paso\, TX
+ \nDon Haskins Center\, El Paso\, TX\nBroadcast: Broadcast not announced
 LOCATION:Don Haskins Center\, El Paso\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +394,12 @@ DTSTART:20270218T020000Z
 DTEND:20270218T050000Z
 SUMMARY:Wyoming Cowgirls @ New Mexico Lobos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ New Mexico 
- Lobos\nThe Pit\, Albuquerque\, NM
+ Lobos\nThe Pit\, Albuquerque\, NM\nBroadcast: Broadcast not announced
 LOCATION:The Pit\, Albuquerque\, NM
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +408,13 @@ DTSTART:20270220T210000Z
 DTEND:20270221T000000Z
 SUMMARY:Air Force Falcons @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAir Force Falcons @ Wyoming Co
- wgirls\nArena-Auditorium\, Laramie\, WY
+ wgirls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announce
+ d
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +423,13 @@ DTSTART:20270225T040000Z
 DTEND:20270225T070000Z
 SUMMARY:Wyoming Cowgirls @ Hawai'i Rainbow Wahine
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWyoming Cowgirls @ Hawai'i Rai
- nbow Wahine\nStan Sheriff Center\, Honolulu\, HI
+ nbow Wahine\nStan Sheriff Center\, Honolulu\, HI\nBroadcast: Broadcast not
+  announced
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -418,12 +438,13 @@ DTSTART:20270228T020000Z
 DTEND:20270228T050000Z
 SUMMARY:Grand Canyon Lopes @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrand Canyon Lopes @ Wyoming C
- owgirls\nArena-Auditorium\, Laramie\, WY
+ owgirls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -432,12 +453,13 @@ DTSTART:20270303T013000Z
 DTEND:20270303T043000Z
 SUMMARY:San José State Spartans @ Wyoming Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSan José State Spartans @ Wyo
- ming Cowgirls\nArena-Auditorium\, Laramie\, WY
+ ming Cowgirls\nArena-Auditorium\, Laramie\, WY\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Arena-Auditorium\, Laramie\, WY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 END:VCALENDAR

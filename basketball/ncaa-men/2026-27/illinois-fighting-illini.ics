@@ -12,12 +12,13 @@ DTSTART:20261103T010000Z
 DTEND:20261103T040000Z
 SUMMARY:Fairleigh Dickinson Knights @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFairleigh Dickinson Knights @ Il
- linois Fighting Illini\nState Farm Center\, Champaign\, IL
+ linois Fighting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: BTN
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913526@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261106T013000Z
 DTEND:20261106T043000Z
 SUMMARY:Pennsylvania Quakers @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPennsylvania Quakers @ Illinois 
- Fighting Illini\nState Farm Center\, Champaign\, IL
+ Fighting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: FS1
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913527@open-sports-cal
@@ -38,12 +40,14 @@ DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
 SUMMARY:Illinois Fighting Illini @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Texas
-  Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+  Tech Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: Pe
+ acock (streaming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913528@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Sam Houston Bearkats @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSam Houston Bearkats @ Illinois 
- Fighting Illini\nState Farm Center\, Champaign\, IL
+ Fighting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: B1G+ (stre
+ aming)
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909566@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Illinois Fighting Illini @ Duke Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Duke 
- Blue Devils\nCameron Indoor Stadium\, Durham\, NC
+ Blue Devils\nCameron Indoor Stadium\, Durham\, NC\nBroadcast: ESPN
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913529@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261121T020000Z
 DTEND:20261121T050000Z
 SUMMARY:Eastern Illinois Panthers @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Illinois Panthers @ Illi
- nois Fighting Illini\nState Farm Center\, Champaign\, IL
+ nois Fighting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: BTN
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913530@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261124T010000Z
 DTEND:20261124T040000Z
 SUMMARY:Winthrop Eagles @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWinthrop Eagles @ Illinois Fight
- ing Illini\nState Farm Center\, Champaign\, IL
+ ing Illini\nState Farm Center\, Champaign\, IL\nBroadcast: BTN
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913531@open-sports-cal
@@ -103,12 +112,14 @@ DTSTART:20261127T230000Z
 DTEND:20261128T020000Z
 SUMMARY:Western Kentucky Hilltoppers @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Kentucky Hilltoppers @ I
- llinois Fighting Illini\nState Farm Center\, Champaign\, IL
+ llinois Fighting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: FS
+ 1
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913532@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:UConn Huskies @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Illinois Fightin
- g Illini\nUnited Center\, Chicago\, IL\nNeutral site
+ g Illini\nUnited Center\, Chicago\, IL\nNeutral site\nBroadcast: Fox
 LOCATION:United Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921883@open-sports-cal
@@ -130,13 +142,14 @@ DTEND:20261209T030000Z
 SUMMARY:Illinois Fighting Illini @ Minnesota Golden Gophers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Minne
  sota Golden Gophers\nThe Barn by Blue Cross and Blue Shield of Minnesota\,
-  Minneapolis\, MN
+  Minneapolis\, MN\nBroadcast: Peacock (streaming)
 LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
  , MN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921888@open-sports-cal
@@ -144,12 +157,13 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Penn State Nittany Lions @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPenn State Nittany Lions @ Illin
- ois Fighting Illini\nState Farm Center\, Champaign\, IL
+ ois Fighting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: FS1
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913533@open-sports-cal
@@ -157,12 +171,14 @@ DTSTART:20261221T003000Z
 DTEND:20261221T033000Z
 SUMMARY:Illinois Fighting Illini @ Missouri Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Misso
- uri Tigers\nEnterprise Center\, St. Louis\, MO\nNeutral site
+ uri Tigers\nEnterprise Center\, St. Louis\, MO\nNeutral site\nBroadcast: E
+ SPN2
 LOCATION:Enterprise Center\, St. Louis\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913534@open-sports-cal
@@ -170,12 +186,14 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:Seattle U Redhawks @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeattle U Redhawks @ Illinois Fi
- ghting Illini\nState Farm Center\, Champaign\, IL
+ ghting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: B1G+ (stream
+ ing)
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921836@open-sports-cal
@@ -183,12 +201,13 @@ DTSTART:20270103T010000Z
 DTEND:20270103T040000Z
 SUMMARY:Illinois Fighting Illini @ Wisconsin Badgers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Wisco
- nsin Badgers\nKohl Center\, Madison\, WI
+ nsin Badgers\nKohl Center\, Madison\, WI\nBroadcast: Fox
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921900@open-sports-cal
@@ -196,12 +215,14 @@ DTSTART:20270106T020000Z
 DTEND:20270106T050000Z
 SUMMARY:Purdue Boilermakers @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPurdue Boilermakers @ Illinois F
- ighting Illini\nState Farm Center\, Champaign\, IL
+ ighting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: Peacock (st
+ reaming)
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921909@open-sports-cal
@@ -209,12 +230,13 @@ DTSTART:20270109T210000Z
 DTEND:20270110T000000Z
 SUMMARY:Ohio State Buckeyes @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio State Buckeyes @ Illinois F
- ighting Illini\nState Farm Center\, Champaign\, IL
+ ighting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: CBS
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921918@open-sports-cal
@@ -222,12 +244,13 @@ DTSTART:20270114T020000Z
 DTEND:20270114T050000Z
 SUMMARY:Illinois Fighting Illini @ Northwestern Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ North
- western Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+ western Wildcats\nWelsh-Ryan Arena\, Evanston\, IL\nBroadcast: BTN
 LOCATION:Welsh-Ryan Arena\, Evanston\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921920@open-sports-cal
@@ -235,12 +258,14 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Illinois Fighting Illini @ Maryland Terrapins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Maryl
- and Terrapins\nXFINITY Center\, College Park\, MD
+ and Terrapins\nXFINITY Center\, College Park\, MD\nBroadcast: Peacock (str
+ eaming)
 LOCATION:XFINITY Center\, College Park\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921927@open-sports-cal
@@ -248,12 +273,14 @@ DTSTART:20270120T020000Z
 DTEND:20270120T050000Z
 SUMMARY:Nebraska Cornhuskers @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Illinois 
- Fighting Illini\nState Farm Center\, Champaign\, IL
+ Fighting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: Peacock (s
+ treaming)
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921788@open-sports-cal
@@ -261,12 +288,13 @@ DTSTART:20270124T170000Z
 DTEND:20270124T200000Z
 SUMMARY:Illinois Fighting Illini @ Indiana Hoosiers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ India
- na Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+ na Hoosiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN\nBroadcast: CBS
 LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921944@open-sports-cal
@@ -274,12 +302,13 @@ DTSTART:20270128T020000Z
 DTEND:20270128T050000Z
 SUMMARY:USC Trojans @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUSC Trojans @ Illinois Fighting 
- Illini\nState Farm Center\, Champaign\, IL
+ Illini\nState Farm Center\, Champaign\, IL\nBroadcast: BTN
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401912715@open-sports-cal
@@ -288,11 +317,11 @@ DTEND;VALUE=DATE:20270131
 SUMMARY:Illinois Fighting Illini @ North Carolina Tar Heels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ North
   Carolina Tar Heels\nBridgestone Arena\, Nashville\, TN\nNeutral site\nSta
- rt time TBD
+ rt time TBD\nBroadcast: Broadcast not announced
 LOCATION:Bridgestone Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921952@open-sports-cal
@@ -300,12 +329,13 @@ DTSTART:20270203T020000Z
 DTEND:20270203T050000Z
 SUMMARY:UCLA Bruins @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUCLA Bruins @ Illinois Fighting 
- Illini\nState Farm Center\, Champaign\, IL
+ Illini\nState Farm Center\, Champaign\, IL\nBroadcast: Peacock (streaming)
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921956@open-sports-cal
@@ -313,12 +343,14 @@ DTSTART:20270206T010000Z
 DTEND:20270206T040000Z
 SUMMARY:Illinois Fighting Illini @ Michigan State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Michi
- gan State Spartans\nState Farm Center\, Champaign\, IL\nNeutral site
+ gan State Spartans\nState Farm Center\, Champaign\, IL\nNeutral site\nBroa
+ dcast: Fox
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921963@open-sports-cal
@@ -326,12 +358,14 @@ DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Illinois Fighting Illini @ Michigan Wolverines
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Michi
- gan Wolverines\nCrisler Center\, Ann Arbor\, MI
+ gan Wolverines\nCrisler Center\, Ann Arbor\, MI\nBroadcast: Peacock (strea
+ ming)
 LOCATION:Crisler Center\, Ann Arbor\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921969@open-sports-cal
@@ -339,12 +373,13 @@ DTSTART:20270213T010000Z
 DTEND:20270213T040000Z
 SUMMARY:Illinois Fighting Illini @ Purdue Boilermakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Purdu
- e Boilermakers\nMackey Arena\, West Lafayette\, IN
+ e Boilermakers\nMackey Arena\, West Lafayette\, IN\nBroadcast: Fox
 LOCATION:Mackey Arena\, West Lafayette\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921975@open-sports-cal
@@ -352,12 +387,13 @@ DTSTART:20270217T020000Z
 DTEND:20270217T050000Z
 SUMMARY:Northwestern Wildcats @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthwestern Wildcats @ Illinois
-  Fighting Illini\nState Farm Center\, Champaign\, IL
+  Fighting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: BTN
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921984@open-sports-cal
@@ -365,12 +401,13 @@ DTSTART:20270220T220000Z
 DTEND:20270221T010000Z
 SUMMARY:Illinois Fighting Illini @ Oregon Ducks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Orego
- n Ducks\nMatthew Knight Arena\, Eugene\, OR
+ n Ducks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Fox
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921992@open-sports-cal
@@ -378,12 +415,13 @@ DTSTART:20270224T030000Z
 DTEND:20270224T060000Z
 SUMMARY:Illinois Fighting Illini @ Washington Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Washi
- ngton Huskies\nAlaska Airlines Arena\, Seattle\, WA
+ ngton Huskies\nAlaska Airlines Arena\, Seattle\, WA\nBroadcast: FS1
 LOCATION:Alaska Airlines Arena\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921870@open-sports-cal
@@ -391,12 +429,13 @@ DTSTART:20270228T183000Z
 DTEND:20270228T213000Z
 SUMMARY:Wisconsin Badgers @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWisconsin Badgers @ Illinois Fig
- hting Illini\nState Farm Center\, Champaign\, IL
+ hting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: CBS
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922008@open-sports-cal
@@ -404,12 +443,14 @@ DTSTART:20270303T233000Z
 DTEND:20270304T023000Z
 SUMMARY:Illinois Fighting Illini @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIllinois Fighting Illini @ Rutge
- rs Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+ rs Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: BT
+ N
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922011@open-sports-cal
@@ -417,11 +458,12 @@ DTSTART:20270307T010000Z
 DTEND:20270307T040000Z
 SUMMARY:Iowa Hawkeyes @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Illinois Fightin
- g Illini\nState Farm Center\, Champaign\, IL
+ g Illini\nState Farm Center\, Champaign\, IL\nBroadcast: Fox
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 END:VCALENDAR

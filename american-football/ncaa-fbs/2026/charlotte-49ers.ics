@@ -12,12 +12,13 @@ DTSTART:20260905T193000Z
 DTEND:20260905T223000Z
 SUMMARY:The Citadel Bulldogs @ Charlotte 49ers
 DESCRIPTION:NCAA FBS Football 2026\nThe Citadel Bulldogs @ Charlotte 49ers\
- nJerry Richardson Stadium\, Charlotte\, NC
+ nJerry Richardson Stadium\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Jerry Richardson Stadium\, Charlotte\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856676@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T234500Z
 DTEND:20260913T024500Z
 SUMMARY:Charlotte 49ers @ Ole Miss Rebels
 DESCRIPTION:NCAA FBS Football 2026\nCharlotte 49ers @ Ole Miss Rebels\nVaug
- ht-Hemingway Stadium\, Oxford\, MS
+ ht-Hemingway Stadium\, Oxford\, MS\nBroadcast: ESPN2
 LOCATION:Vaught-Hemingway Stadium\, Oxford\, MS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401864574@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260920T013000Z
 DTEND:20260920T043000Z
 SUMMARY:Charlotte 49ers @ App State Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nCharlotte 49ers @ App State Mountaineer
- s\nKidd Brewer Stadium\, Boone\, NC
+ s\nKidd Brewer Stadium\, Boone\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Kidd Brewer Stadium\, Boone\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862780@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20260926T223000Z
 DTEND:20260927T013000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Charlotte 49ers
 DESCRIPTION:NCAA FBS Football 2026\nLouisiana Ragin' Cajuns @ Charlotte 49e
- rs\nJerry Richardson Stadium\, Charlotte\, NC
+ rs\nJerry Richardson Stadium\, Charlotte\, NC\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Jerry Richardson Stadium\, Charlotte\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862787@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261003T150000Z
 DTEND:20261003T180000Z
 SUMMARY:Memphis Tigers @ Charlotte 49ers
 DESCRIPTION:NCAA FBS Football 2026\nMemphis Tigers @ Charlotte 49ers\nJerry
-  Richardson Stadium\, Charlotte\, NC
+  Richardson Stadium\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Jerry Richardson Stadium\, Charlotte\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862796@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261010T193000Z
 DTEND:20261010T223000Z
 SUMMARY:Charlotte 49ers @ North Texas Mean Green
 DESCRIPTION:NCAA FBS Football 2026\nCharlotte 49ers @ North Texas Mean Gree
- n\nDATCU Stadium\, Denton\, TX
+ n\nDATCU Stadium\, Denton\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:DATCU Stadium\, Denton\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862803@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261017T170000Z
 DTEND:20261017T200000Z
 SUMMARY:Charlotte 49ers @ Temple Owls
 DESCRIPTION:NCAA FBS Football 2026\nCharlotte 49ers @ Temple Owls\nLincoln 
- Financial Field\, Philadelphia\, PA
+ Financial Field\, Philadelphia\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862813@open-sports-cal
@@ -103,12 +111,13 @@ DTSTART:20261030T230000Z
 DTEND:20261031T020000Z
 SUMMARY:Tulane Green Wave @ Charlotte 49ers
 DESCRIPTION:NCAA FBS Football 2026\nTulane Green Wave @ Charlotte 49ers\nJe
- rry Richardson Stadium\, Charlotte\, NC
+ rry Richardson Stadium\, Charlotte\, NC\nBroadcast: ESPN2
 LOCATION:Jerry Richardson Stadium\, Charlotte\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862819@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T203000Z
 DTEND:20261107T233000Z
 SUMMARY:Charlotte 49ers @ UAB Blazers
 DESCRIPTION:NCAA FBS Football 2026\nCharlotte 49ers @ UAB Blazers\nProtecti
- ve Stadium\, Birmingham\, AL
+ ve Stadium\, Birmingham\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Protective Stadium\, Birmingham\, AL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862825@open-sports-cal
@@ -129,12 +139,13 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:East Carolina Pirates @ Charlotte 49ers
 DESCRIPTION:NCAA FBS Football 2026\nEast Carolina Pirates @ Charlotte 49ers
- \nJerry Richardson Stadium\, Charlotte\, NC
+ \nJerry Richardson Stadium\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Jerry Richardson Stadium\, Charlotte\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862832@open-sports-cal
@@ -142,11 +153,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Charlotte 49ers @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA FBS Football 2026\nCharlotte 49ers @ Tulsa Golden Hurrican
- e\nH. A. Chapman Stadium\, Tulsa\, OK\nStart time TBD
+ e\nH. A. Chapman Stadium\, Tulsa\, OK\nStart time TBD\nBroadcast: Broadcas
+ t not announced
 LOCATION:H. A. Chapman Stadium\, Tulsa\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862842@open-sports-cal
@@ -154,10 +166,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Navy Midshipmen @ Charlotte 49ers
 DESCRIPTION:NCAA FBS Football 2026\nNavy Midshipmen @ Charlotte 49ers\nJerr
- y Richardson Stadium\, Charlotte\, NC\nStart time TBD
+ y Richardson Stadium\, Charlotte\, NC\nStart time TBD\nBroadcast: Broadcas
+ t not announced
 LOCATION:Jerry Richardson Stadium\, Charlotte\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

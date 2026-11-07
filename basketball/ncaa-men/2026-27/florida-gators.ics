@@ -12,12 +12,14 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Miami Hurricanes @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMiami Hurricanes @ Florida Gator
- s\nBenchmark International Arena\, Tampa\, FL\nNeutral site
+ s\nBenchmark International Arena\, Tampa\, FL\nNeutral site\nBroadcast: ES
+ PNEWS
 LOCATION:Benchmark International Arena\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNEWS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906770@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261106T010000Z
 DTEND:20261106T040000Z
 SUMMARY:Jacksonville Dolphins @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville Dolphins @ Florida 
- Gators\nStephen C. O'Connell Center\, Gainesville\, FL
+ Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: SECN+ (
+ streaming)
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906771@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20261110T230000Z
 DTEND:20261111T020000Z
 SUMMARY:Florida Gators @ Florida State Seminoles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ Florida State S
- eminoles\nTucker Center\, Tallahassee\, FL
+ eminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: ESPN2
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906772@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Merrimack Warriors @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMerrimack Warriors @ Florida Gat
- ors\nStephen C. O'Connell Center\, Gainesville\, FL
+ ors\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: SEC Networ
+ k
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906773@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261117T213000Z
 DTEND:20261118T003000Z
 SUMMARY:Notre Dame Fighting Irish @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNotre Dame Fighting Irish @ Flor
- ida Gators\nMichelob ULTRA Arena\, Las Vegas\, NV\nNeutral site
+ ida Gators\nMichelob ULTRA Arena\, Las Vegas\, NV\nNeutral site\nBroadcast
+ : ESPN
 LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906774@open-sports-cal
@@ -77,12 +86,14 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Milwaukee Panthers @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMilwaukee Panthers @ Florida Gat
- ors\nStephen C. O'Connell Center\, Gainesville\, FL
+ ors\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: SECN+ (str
+ eaming)
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906775@open-sports-cal
@@ -90,12 +101,13 @@ DTSTART:20261202T023000Z
 DTEND:20261202T053000Z
 SUMMARY:Duke Blue Devils @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDuke Blue Devils @ Florida Gator
- s\nStephen C. O'Connell Center\, Gainesville\, FL
+ s\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: ESPN
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906776@open-sports-cal
@@ -103,12 +115,14 @@ DTSTART:20261206T170000Z
 DTEND:20261206T200000Z
 SUMMARY:Vermont Catamounts @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ Florida Gat
- ors\nStephen C. O'Connell Center\, Gainesville\, FL
+ ors\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: SEC Networ
+ k / SECN+ (streaming)
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network / SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920313@open-sports-cal
@@ -116,12 +130,13 @@ DTSTART:20261212T170000Z
 DTEND:20261212T200000Z
 SUMMARY:Georgia Tech Yellow Jackets @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Tech Yellow Jackets @ Fl
- orida Gators\nKia Center\, Orlando\, FL\nNeutral site
+ orida Gators\nKia Center\, Orlando\, FL\nNeutral site\nBroadcast: ESPNU
 LOCATION:Kia Center\, Orlando\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911353@open-sports-cal
@@ -129,12 +144,14 @@ DTSTART:20261218T230000Z
 DTEND:20261219T020000Z
 SUMMARY:Grand Canyon Lopes @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGrand Canyon Lopes @ Florida Gat
- ors\nVyStar Veterans Memorial Arena\, Jacksonville\, FL\nNeutral site
+ ors\nVyStar Veterans Memorial Arena\, Jacksonville\, FL\nNeutral site\nBro
+ adcast: ESPNU
 LOCATION:VyStar Veterans Memorial Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906777@open-sports-cal
@@ -142,12 +159,14 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Florida A&M Rattlers @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida A&M Rattlers @ Florida G
- ators\nStephen C. O'Connell Center\, Gainesville\, FL
+ ators\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: SEC Netw
+ ork
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906778@open-sports-cal
@@ -155,12 +174,14 @@ DTSTART:20261229T230000Z
 DTEND:20261230T020000Z
 SUMMARY:Long Island University Sharks @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Florida Gators\nStephen C. O'Connell Center\, Gainesville\, FL
+ Florida Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast:
+  SEC Network
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902310@open-sports-cal
@@ -168,11 +189,11 @@ DTSTART:20270102T230000Z
 DTEND:20270103T020000Z
 SUMMARY:Florida Gators @ Texas Longhorns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ Texas Longhorns
- \nMoody Center\, Austin\, TX
+ \nMoody Center\, Austin\, TX\nBroadcast: Broadcast not announced
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -181,12 +202,13 @@ DTSTART:20270107T020000Z
 DTEND:20270107T050000Z
 SUMMARY:Oklahoma Sooners @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Florida Gator
- s\nStephen C. O'Connell Center\, Gainesville\, FL
+ s\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: ESPN2
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902324@open-sports-cal
@@ -194,12 +216,13 @@ DTSTART:20270109T160000Z
 DTEND:20270109T190000Z
 SUMMARY:Vanderbilt Commodores @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVanderbilt Commodores @ Florida 
- Gators\nStephen C. O'Connell Center\, Gainesville\, FL
+ Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: ESPN
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902327@open-sports-cal
@@ -207,11 +230,12 @@ DTSTART:20270114T020000Z
 DTEND:20270114T050000Z
 SUMMARY:Florida Gators @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ Mississippi Sta
- te Bulldogs\nHumphrey Coliseum\, Starkville\, MS
+ te Bulldogs\nHumphrey Coliseum\, Starkville\, MS\nBroadcast: Broadcast not
+  announced
 LOCATION:Humphrey Coliseum\, Starkville\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +244,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Florida Gators @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ Alabama Crimson
-  Tide\nColeman Coliseum\, Tuscaloosa\, AL
+  Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +258,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Texas A&M Aggies @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ Florida Gator
- s\nStephen C. O'Connell Center\, Gainesville\, FL
+ s\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: Broadcast no
+ t announced
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +272,11 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Florida Gators @ Georgia Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ Georgia Bulldog
- s\nStegeman Coliseum\, Athens\, GA
+ s\nStegeman Coliseum\, Athens\, GA\nBroadcast: Broadcast not announced
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +285,12 @@ DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Florida Gators @ Tennessee Volunteers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ Tennessee Volun
- teers\nFood City Center\, Knoxville\, TN\nStart time TBD
+ teers\nFood City Center\, Knoxville\, TN\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902377@open-sports-cal
@@ -271,11 +298,13 @@ DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:South Carolina Gamecocks @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina Gamecocks @ Flori
- da Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nStart time TBD
+ da Gators\nStephen C. O'Connell Center\, Gainesville\, FL\nStart time TBD\
+ nBroadcast: SEC Network
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902382@open-sports-cal
@@ -283,12 +312,13 @@ DTSTART:20270206T170000Z
 DTEND:20270206T200000Z
 SUMMARY:Texas Longhorns @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Longhorns @ Florida Gators
- \nStephen C. O'Connell Center\, Gainesville\, FL
+ \nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: ESPN
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902386@open-sports-cal
@@ -296,12 +326,13 @@ DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Florida Gators @ Auburn Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ Auburn Tigers\n
- Neville Arena\, Auburn\, AL
+ Neville Arena\, Auburn\, AL\nBroadcast: ESPN2
 LOCATION:Neville Arena\, Auburn\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902395@open-sports-cal
@@ -309,11 +340,12 @@ DTSTART:20270213T170000Z
 DTEND:20270213T200000Z
 SUMMARY:Missouri Tigers @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMissouri Tigers @ Florida Gators
- \nStephen C. O'Connell Center\, Gainesville\, FL
+ \nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +354,13 @@ DTSTART:20270218T010000Z
 DTEND:20270218T040000Z
 SUMMARY:Florida Gators @ LSU Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ LSU Tigers\nPet
- e Maravich Assembly Center\, Baton Rouge\, LA
+ e Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: SEC Network
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902411@open-sports-cal
@@ -335,12 +368,13 @@ DTSTART:20270221T013000Z
 DTEND:20270221T043000Z
 SUMMARY:Georgia Bulldogs @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Bulldogs @ Florida Gator
- s\nStephen C. O'Connell Center\, Gainesville\, FL
+ s\nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: SEC Network
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902421@open-sports-cal
@@ -348,11 +382,12 @@ DTSTART:20270225T020000Z
 DTEND:20270225T050000Z
 SUMMARY:Ole Miss Rebels @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOle Miss Rebels @ Florida Gators
- \nStephen C. O'Connell Center\, Gainesville\, FL
+ \nStephen C. O'Connell Center\, Gainesville\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -361,12 +396,13 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Florida Gators @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ Arkansas Razorb
- acks\nBud Walton Arena\, Fayetteville\, AR
+ acks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: ABC
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902438@open-sports-cal
@@ -374,12 +410,13 @@ DTSTART:20270303T010000Z
 DTEND:20270303T040000Z
 SUMMARY:Florida Gators @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ South Carolina 
- Gamecocks\nColonial Life Arena\, Columbia\, SC
+ Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Network
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902444@open-sports-cal
@@ -387,10 +424,12 @@ DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Kentucky Wildcats @ Florida Gators
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKentucky Wildcats @ Florida Gato
- rs\nStephen C. O'Connell Center\, Gainesville\, FL\nStart time TBD
+ rs\nStephen C. O'Connell Center\, Gainesville\, FL\nStart time TBD\nBroadc
+ ast: ESPN
 LOCATION:Stephen C. O'Connell Center\, Gainesville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN
 END:VEVENT
 END:VCALENDAR

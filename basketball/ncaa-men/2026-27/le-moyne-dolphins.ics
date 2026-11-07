@@ -12,12 +12,13 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Le Moyne Dolphins @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Nebraska Cor
- nhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ nhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: B1G+ (streaming)
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909491@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261106T010000Z
 DTEND:20261106T040000Z
 SUMMARY:Le Moyne Dolphins @ Creighton Bluejays
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Creighton Bl
- uejays\nCHI Health Center Omaha\, Omaha\, NE
+ uejays\nCHI Health Center Omaha\, Omaha\, NE\nBroadcast: ESPN+ (streaming)
 LOCATION:CHI Health Center Omaha\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919781@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Elmira Soaring Eagles @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nElmira Soaring Eagles @ Le Moyne
-  Dolphins\nTed Grant Court\, Syracuse\, NY
+  Dolphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: NEC Front Row
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919782@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20261114T230000Z
 DTEND:20261115T020000Z
 SUMMARY:Manhattan Jaspers @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nManhattan Jaspers @ Le Moyne Dol
- phins\nTed Grant Court\, Syracuse\, NY
+ phins\nTed Grant Court\, Syracuse\, NY\nBroadcast: NEC Front Row
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919783@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261118T010000Z
 DTEND:20261118T040000Z
 SUMMARY:Le Moyne Dolphins @ Evansville Purple Aces
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Evansville P
- urple Aces\nFord Center\, Evansville\, IN
+ urple Aces\nFord Center\, Evansville\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Ford Center\, Evansville\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919784@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
 SUMMARY:Le Moyne Dolphins @ Missouri Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Missouri Tig
- ers\nMizzou Arena\, Columbia\, MO
+ ers\nMizzou Arena\, Columbia\, MO\nBroadcast: SECN+ (streaming)
 LOCATION:Mizzou Arena\, Columbia\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919785@open-sports-cal
@@ -90,11 +96,12 @@ DTSTART:20261124T000000Z
 DTEND:20261124T030000Z
 SUMMARY:Mansfield Mountaineers @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMansfield Mountaineers @ Le Moyn
- e Dolphins\nTed Grant Court\, Syracuse\, NY
+ e Dolphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +110,14 @@ DTSTART:20261127T190000Z
 DTEND:20261127T220000Z
 SUMMARY:Maine Black Bears @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaine Black Bears @ Le Moyne Dol
- phins\nKirby Sports Center\, Easton\, PA\nNeutral site
+ phins\nKirby Sports Center\, Easton\, PA\nNeutral site\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919787@open-sports-cal
@@ -116,12 +125,14 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:Le Moyne Dolphins @ Niagara Purple Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Niagara Purp
- le Eagles\nKirby Sports Center\, Easton\, PA\nNeutral site
+ le Eagles\nKirby Sports Center\, Easton\, PA\nNeutral site\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919788@open-sports-cal
@@ -129,12 +140,13 @@ DTSTART:20261129T193000Z
 DTEND:20261129T223000Z
 SUMMARY:Le Moyne Dolphins @ Lafayette Leopards
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Lafayette Le
- opards\nKirby Sports Center\, Easton\, PA
+ opards\nKirby Sports Center\, Easton\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911281@open-sports-cal
@@ -142,11 +154,12 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:Binghamton Bearcats @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBinghamton Bearcats @ Le Moyne D
- olphins\nTed Grant Court\, Syracuse\, NY
+ olphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,12 +168,13 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Le Moyne Dolphins @ Clemson Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Clemson Tige
- rs\nLittlejohn Coliseum\, Clemson\, SC
+ rs\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: ACCNX (streaming)
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919789@open-sports-cal
@@ -168,11 +182,12 @@ DTSTART:20261213T220000Z
 DTEND:20261214T010000Z
 SUMMARY:Le Moyne Dolphins @ Fairfield Stags
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Fairfield St
- ags\nLeo D. Mahoney Arena\, Fairfield\, CT
+ ags\nLeo D. Mahoney Arena\, Fairfield\, CT\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Leo D. Mahoney Arena\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -181,12 +196,14 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:Le Moyne Dolphins @ Saint Peter's Peacocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Saint Peter'
- s Peacocks\nYanitelli Center\, Jersey City\, NJ
+ s Peacocks\nYanitelli Center\, Jersey City\, NJ\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Yanitelli Center\, Jersey City\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919791@open-sports-cal
@@ -194,12 +211,14 @@ DTSTART:20261221T190000Z
 DTEND:20261221T220000Z
 SUMMARY:Le Moyne Dolphins @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Notre Dame F
- ighting Irish\nPurcell Pavilion\, South Bend\, IN
+ ighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACCNX (strea
+ ming)
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919792@open-sports-cal
@@ -207,11 +226,12 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:SUNY ESF Mighty Oaks @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSUNY ESF Mighty Oaks @ Le Moyne 
- Dolphins\nTed Grant Court\, Syracuse\, NY
+ Dolphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +240,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Le Moyne Dolphins @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Long Island 
- University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +254,11 @@ DTSTART:20270105T000000Z
 DTEND:20270105T030000Z
 SUMMARY:Mercyhurst Lakers @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Le Moyne Dol
- phins\nTed Grant Court\, Syracuse\, NY
+ phins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not announced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +267,12 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:Central Connecticut Blue Devils @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Connecticut Blue Devils 
- @ Le Moyne Dolphins\nTed Grant Court\, Syracuse\, NY
+ @ Le Moyne Dolphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast
+  not announced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +281,12 @@ DTSTART:20270110T180000Z
 DTEND:20270110T210000Z
 SUMMARY:Stonehill Skyhawks @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Le Moyne Do
- lphins\nTed Grant Court\, Syracuse\, NY
+ lphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not announce
+ d
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +295,12 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Le Moyne Dolphins @ Fairleigh Dickinson Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Fairleigh Di
- ckinson Knights\nBogota Savings Bank Center\, Hackensack\, NJ
+ ckinson Knights\nBogota Savings Bank Center\, Hackensack\, NJ\nBroadcast: 
+ Broadcast not announced
 LOCATION:Bogota Savings Bank Center\, Hackensack\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +309,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Le Moyne Dolphins @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Wagner Seaha
- wks\nSpiro Sports Center\, Staten Island\, NY
+ wks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +323,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Le Moyne Dolphins @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Mercyhurst L
- akers\nMercyhurst Athletic Center\, Erie\, PA
+ akers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +337,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Chicago State Cougars @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChicago State Cougars @ Le Moyne
-  Dolphins\nTed Grant Court\, Syracuse\, NY
+  Dolphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +351,12 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:Le Moyne Dolphins @ New Haven Chargers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ New Haven Ch
- argers\nJeffery P. Hazell Athletics Center\, West Haven\, CT
+ argers\nJeffery P. Hazell Athletics Center\, West Haven\, CT\nBroadcast: B
+ roadcast not announced
 LOCATION:Jeffery P. Hazell Athletics Center\, West Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +365,12 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Long Island University Sharks @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Le Moyne Dolphins\nTed Grant Court\, Syracuse\, NY
+ Le Moyne Dolphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +379,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Le Moyne Dolphins @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Central Conn
- ecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ ecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: Broa
+ dcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +393,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Le Moyne Dolphins @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Stonehill Sk
- yhawks\nMerkert Gymnasium\, South Easton\, MA
+ yhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +407,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:New Haven Chargers @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Haven Chargers @ Le Moyne Do
- lphins\nTed Grant Court\, Syracuse\, NY
+ lphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not announce
+ d
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +421,12 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Le Moyne Dolphins @ Chicago State Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Chicago Stat
- e Cougars\nJones Convocation Center\, Chicago\, IL
+ e Cougars\nJones Convocation Center\, Chicago\, IL\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Jones Convocation Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +435,11 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Wagner Seahawks @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Le Moyne Dolph
- ins\nTed Grant Court\, Syracuse\, NY
+ ins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not announced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +448,12 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Fairleigh Dickinson Knights @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFairleigh Dickinson Knights @ Le
-  Moyne Dolphins\nTed Grant Court\, Syracuse\, NY
+  Moyne Dolphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not
+  announced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

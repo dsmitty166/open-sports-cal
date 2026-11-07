@@ -12,12 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Northeastern Huskies @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNortheastern Huskies @ Boston Un
- iversity Terriers\nCase Gym\, Boston\, MA
+ iversity Terriers\nCase Gym\, Boston\, MA\nBroadcast: ESPN+ (streaming) / 
+ Patriot League TV (streaming)
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911305@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Boston University Terriers @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Bro
- wn Bears\nPizzitola Sports Center\, Providence\, RI
+ wn Bears\nPizzitola Sports Center\, Providence\, RI\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920734@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20261110T010000Z
 DTEND:20261110T040000Z
 SUMMARY:Boston University Terriers @ Northwestern Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Nor
- thwestern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+ thwestern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL\nBroadcast: BTN
 LOCATION:Welsh-Ryan Arena\, Evanston\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923400@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261112T230000Z
 DTEND:20261113T020000Z
 SUMMARY:Johnson & Wales Griffins @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJohnson & Wales Griffins @ Bosto
- n University Terriers\nCase Gym\, Boston\, MA
+ n University Terriers\nCase Gym\, Boston\, MA\nBroadcast: ESPN+ (streaming
+ ) / Patriot League TV (streaming)
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920235@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Dartmouth Big Green @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Boston Uni
- versity Terriers\nCase Gym\, Boston\, MA
+ versity Terriers\nCase Gym\, Boston\, MA\nBroadcast: ESPN+ (streaming) / P
+ atriot League TV (streaming)
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923401@open-sports-cal
@@ -77,12 +86,14 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Boston University Terriers @ Merrimack Warriors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Mer
- rimack Warriors\nLawler Arena\, North Andover\, MA
+ rimack Warriors\nLawler Arena\, North Andover\, MA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Lawler Arena\, North Andover\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923402@open-sports-cal
@@ -90,12 +101,13 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Columbia Lions @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColumbia Lions @ Boston Universi
- ty Terriers\nCase Gym\, Boston\, MA
+ ty Terriers\nCase Gym\, Boston\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920358@open-sports-cal
@@ -103,12 +115,14 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Boston University Terriers @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Har
- vard Crimson\nLavietes Pavilion\, Cambridge\, MA
+ vard Crimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911203@open-sports-cal
@@ -116,12 +130,13 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Boston University Terriers @ Fordham Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ For
- dham Rams\nRose Hill Gym\, Bronx\, NY
+ dham Rams\nRose Hill Gym\, Bronx\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Rose Hill Gym\, Bronx\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923403@open-sports-cal
@@ -129,12 +144,13 @@ DTSTART:20261205T213000Z
 DTEND:20261206T003000Z
 SUMMARY:New Hampshire Wildcats @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Boston 
- University Terriers\nCase Gym\, Boston\, MA
+ University Terriers\nCase Gym\, Boston\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920198@open-sports-cal
@@ -142,12 +158,14 @@ DTSTART:20261209T000000Z
 DTEND:20261209T030000Z
 SUMMARY:Boston University Terriers @ Saint Joseph's Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Sai
- nt Joseph's Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA
+ nt Joseph's Hawks\nMichael J. Hagan '85 Arena\, Philadelphia\, PA\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Michael J. Hagan '85 Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923309@open-sports-cal
@@ -155,12 +173,14 @@ DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
 SUMMARY:Boston University Terriers @ Maine Black Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Mai
- ne Black Bears\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME
+ ne Black Bears\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:Skip Chappelle Court in Memorial Gymnasium\, Orono\, ME
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923404@open-sports-cal
@@ -168,12 +188,14 @@ DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Boston University Terriers @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ UMa
- ss Lowell River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ ss Lowell River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921271@open-sports-cal
@@ -181,12 +203,14 @@ DTSTART:20261230T190000Z
 DTEND:20261230T220000Z
 SUMMARY:Boston University Terriers @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Loy
- ola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD
+ ola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923405@open-sports-cal
@@ -194,11 +218,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Boston University Terriers @ Lehigh Mountain Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Leh
- igh Mountain Hawks\nStabler Arena\, Bethlehem\, PA
+ igh Mountain Hawks\nStabler Arena\, Bethlehem\, PA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Stabler Arena\, Bethlehem\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +232,11 @@ DTSTART:20270106T230000Z
 DTEND:20270107T020000Z
 SUMMARY:Bucknell Bison @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBucknell Bison @ Boston Universi
- ty Terriers\nCase Gym\, Boston\, MA
+ ty Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +245,11 @@ DTSTART:20270109T170000Z
 DTEND:20270109T200000Z
 SUMMARY:Navy Midshipmen @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNavy Midshipmen @ Boston Univers
- ity Terriers\nCase Gym\, Boston\, MA
+ ity Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +258,12 @@ DTSTART:20270114T000000Z
 DTEND:20270114T030000Z
 SUMMARY:Boston University Terriers @ Lafayette Leopards
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Laf
- ayette Leopards\nKirby Sports Center\, Easton\, PA
+ ayette Leopards\nKirby Sports Center\, Easton\, PA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +272,12 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:American University Eagles @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAmerican University Eagles @ Bos
- ton University Terriers\nCase Gym\, Boston\, MA
+ ton University Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +286,12 @@ DTSTART:20270118T220000Z
 DTEND:20270119T010000Z
 SUMMARY:Boston University Terriers @ Colgate Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Col
- gate Raiders\nCotterell Court\, Hamilton\, NY
+ gate Raiders\nCotterell Court\, Hamilton\, NY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Cotterell Court\, Hamilton\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +300,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Boston University Terriers @ Holy Cross Crusaders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Hol
- y Cross Crusaders\nHart Center Arena\, Worcester\, MA
+ y Cross Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +314,12 @@ DTSTART:20270127T230000Z
 DTEND:20270128T020000Z
 SUMMARY:Lafayette Leopards @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLafayette Leopards @ Boston Univ
- ersity Terriers\nCase Gym\, Boston\, MA
+ ersity Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +328,12 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Boston University Terriers @ American University Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Ame
- rican University Eagles\nBender Arena\, Washington\, DC
+ rican University Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broadc
+ ast not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +342,12 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Lehigh Mountain Hawks @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLehigh Mountain Hawks @ Boston U
- niversity Terriers\nCase Gym\, Boston\, MA
+ niversity Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +356,12 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Boston University Terriers @ Army Black Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Arm
- y Black Knights\nChristl Arena\, West Point\, NY
+ y Black Knights\nChristl Arena\, West Point\, NY\nBroadcast: Broadcast not
+  announced
 LOCATION:Christl Arena\, West Point\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +370,11 @@ DTSTART:20270210T230000Z
 DTEND:20270211T020000Z
 SUMMARY:Colgate Raiders @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColgate Raiders @ Boston Univers
- ity Terriers\nCase Gym\, Boston\, MA
+ ity Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +383,12 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Loyola Maryland Greyhounds @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLoyola Maryland Greyhounds @ Bos
- ton University Terriers\nCase Gym\, Boston\, MA
+ ton University Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +397,12 @@ DTSTART:20270215T233000Z
 DTEND:20270216T023000Z
 SUMMARY:Boston University Terriers @ Bucknell Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Buc
- knell Bison\nSojka Pavilion\, Lewisburg\, PA
+ knell Bison\nSojka Pavilion\, Lewisburg\, PA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Sojka Pavilion\, Lewisburg\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +411,12 @@ DTSTART:20270221T180000Z
 DTEND:20270221T210000Z
 SUMMARY:Holy Cross Crusaders @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHoly Cross Crusaders @ Boston Un
- iversity Terriers\nCase Gym\, Boston\, MA
+ iversity Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +425,12 @@ DTSTART:20270224T230000Z
 DTEND:20270225T020000Z
 SUMMARY:Boston University Terriers @ Navy Midshipmen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Nav
- y Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ y Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast no
+ t announced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +439,12 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Army Black Knights @ Boston University Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArmy Black Knights @ Boston Univ
- ersity Terriers\nCase Gym\, Boston\, MA
+ ersity Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

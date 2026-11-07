@@ -12,13 +12,15 @@ DTSTART:20261104T000000Z
 DTEND:20261104T030000Z
 SUMMARY:Saint Peter's Peacocks @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSaint Peter's Peacocks @ Pitts
- burgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ burgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX
+  (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913745@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261107T190000Z
 DTEND:20261107T220000Z
 SUMMARY:Long Island University Sharks @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Pittsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ @ Pittsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast
+ : ACCNX (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913746@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Delaware State Hornets @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware State Hornets @ Pitts
- burgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ burgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX
+  (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913747@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261114T170000Z
 DTEND:20261114T200000Z
 SUMMARY:Charleston Southern Buccaneers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Southern Buccaneers
-  @ Pittsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+  @ Pittsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcas
+ t: ACCNX (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913748@open-sports-cal
@@ -68,13 +76,15 @@ DTSTART:20261118T160000Z
 DTEND:20261118T190000Z
 SUMMARY:UMBC Retrievers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUMBC Retrievers @ Pittsburgh P
- anthers\nPetersen Events Center\, Pittsburgh\, PA
+ anthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (strea
+ ming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913749@open-sports-cal
@@ -82,13 +92,15 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Canisius Golden Griffins @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCanisius Golden Griffins @ Pit
- tsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ tsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACC
+ NX (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913750@open-sports-cal
@@ -96,12 +108,13 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Harvard Crimson @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Pittsburgh P
- anthers\nStabler Arena\, Bethlehem\, PA\nNeutral site\nStart time TBD
+ anthers\nStabler Arena\, Bethlehem\, PA\nNeutral site\nStart time TBD\nBro
+ adcast: Broadcast not announced
 LOCATION:Stabler Arena\, Bethlehem\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913751@open-sports-cal
@@ -109,13 +122,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Sacred Heart Pioneers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSacred Heart Pioneers @ Pittsb
- urgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ urgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX 
+ (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918262@open-sports-cal
@@ -123,13 +138,15 @@ DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Pittsburgh Panthers @ Georgia Tech Yellow Jackets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPittsburgh Panthers @ Georgia 
- Tech Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA
+ Tech Yellow Jackets\nMcCamish Pavilion\, Atlanta\, GA\nBroadcast: ACCNX (s
+ treaming)
 LOCATION:McCamish Pavilion\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913752@open-sports-cal
@@ -137,13 +154,15 @@ DTSTART:20261218T000000Z
 DTEND:20261218T030000Z
 SUMMARY:Mercyhurst Lakers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMercyhurst Lakers @ Pittsburgh
-  Panthers\nPetersen Events Center\, Pittsburgh\, PA
+  Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (str
+ eaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913753@open-sports-cal
@@ -151,13 +170,15 @@ DTSTART:20261220T170000Z
 DTEND:20261220T200000Z
 SUMMARY:Duquesne Dukes @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDuquesne Dukes @ Pittsburgh Pa
- nthers\nPetersen Events Center\, Pittsburgh\, PA
+ nthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (stream
+ ing)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918269@open-sports-cal
@@ -165,13 +186,15 @@ DTSTART:20261229T000000Z
 DTEND:20261229T030000Z
 SUMMARY:Notre Dame Fighting Irish @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Pi
- ttsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ ttsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: AC
+ CNX (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918277@open-sports-cal
@@ -179,13 +202,15 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Virginia Tech Hokies @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Tech Hokies @ Pittsbu
- rgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ rgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (
+ streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918283@open-sports-cal
@@ -193,12 +218,13 @@ DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:Pittsburgh Panthers @ Wake Forest Demon Deacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPittsburgh Panthers @ Wake For
- est Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC
+ est Demon Deacons\nLJVM Coliseum\, Winston-Salem\, NC\nBroadcast: Broadcas
+ t not announced
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,12 +233,13 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:Pittsburgh Panthers @ Syracuse Orange
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPittsburgh Panthers @ Syracuse
-  Orange\nJMA Wireless Dome\, Syracuse\, NY
+  Orange\nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: Broadcast not annou
+ nced
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -221,12 +248,13 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:SMU Mustangs @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Pittsburgh Pant
- hers\nPetersen Events Center\, Pittsburgh\, PA
+ hers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -235,12 +263,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Louisville Cardinals @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Pittsbu
- rgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ rgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broadca
+ st not announced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -249,12 +278,13 @@ DTSTART:20270121T230000Z
 DTEND:20270122T020000Z
 SUMMARY:Pittsburgh Panthers @ Florida State Seminoles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPittsburgh Panthers @ Florida 
- State Seminoles\nTucker Center\, Tallahassee\, FL
+ State Seminoles\nTucker Center\, Tallahassee\, FL\nBroadcast: Broadcast no
+ t announced
 LOCATION:Tucker Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -263,12 +293,13 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Virginia Cavaliers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Pittsburg
- h Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ h Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broadcast
+  not announced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -277,13 +308,14 @@ DTSTART:20270128T230000Z
 DTEND:20270129T020000Z
 SUMMARY:Clemson Tigers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nClemson Tigers @ Pittsburgh Pa
- nthers\nPetersen Events Center\, Pittsburgh\, PA
+ nthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACC Network
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918065@open-sports-cal
@@ -291,12 +323,13 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:Boston College Eagles @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBoston College Eagles @ Pittsb
- urgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ urgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -305,12 +338,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Pittsburgh Panthers @ NC State Wolfpack
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPittsburgh Panthers @ NC State
-  Wolfpack\nReynolds Coliseum\, Raleigh\, NC
+  Wolfpack\nReynolds Coliseum\, Raleigh\, NC\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Reynolds Coliseum\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -319,12 +353,13 @@ DTSTART:20270207T200000Z
 DTEND:20270207T230000Z
 SUMMARY:Pittsburgh Panthers @ SMU Mustangs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPittsburgh Panthers @ SMU Must
- angs\nMoody Coliseum (Dallas)\, Dallas\, TX
+ angs\nMoody Coliseum (Dallas)\, Dallas\, TX\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -333,12 +368,13 @@ DTSTART:20270214T170000Z
 DTEND:20270214T200000Z
 SUMMARY:Pittsburgh Panthers @ Duke Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPittsburgh Panthers @ Duke Blu
- e Devils\nCameron Indoor Stadium\, Durham\, NC
+ e Devils\nCameron Indoor Stadium\, Durham\, NC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -347,13 +383,15 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:North Carolina Tar Heels @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina Tar Heels @ Pit
- tsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ tsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACC
+  Network
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918400@open-sports-cal
@@ -361,12 +399,13 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:Miami Hurricanes @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMiami Hurricanes @ Pittsburgh 
- Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,12 +414,13 @@ DTSTART:20270226T030000Z
 DTEND:20270226T060000Z
 SUMMARY:Pittsburgh Panthers @ Stanford Cardinal
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPittsburgh Panthers @ Stanford
-  Cardinal\nMaples Pavilion\, Stanford\, CA
+  Cardinal\nMaples Pavilion\, Stanford\, CA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Maples Pavilion\, Stanford\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -389,12 +429,13 @@ DTSTART:20270228T190000Z
 DTEND:20270228T220000Z
 SUMMARY:Pittsburgh Panthers @ California Golden Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPittsburgh Panthers @ Californ
- ia Golden Bears\nHaas Pavilion\, Berkeley\, CA
+ ia Golden Bears\nHaas Pavilion\, Berkeley\, CA\nBroadcast: ACC Network
 LOCATION:Haas Pavilion\, Berkeley\, CA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ACC Network
 END:VEVENT
 END:VCALENDAR

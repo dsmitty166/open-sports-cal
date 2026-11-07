@@ -12,13 +12,15 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Southern Jaguars @ Oklahoma State Cowgirls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Oklahoma St
- ate Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK
+ ate Cowgirls\nGallagher-Iba Arena\, Stillwater\, OK\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Gallagher-Iba Arena\, Stillwater\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927061@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261107T200000Z
 DTEND:20261107T230000Z
 SUMMARY:Southern Jaguars @ Illinois Fighting Illini
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Illinois Fi
- ghting Illini\nState Farm Center\, Champaign\, IL
+ ghting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: B1G+ (stream
+ ing)
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918910@open-sports-cal
@@ -41,14 +45,15 @@ DTEND:20261111T040000Z
 SUMMARY:Southern Jaguars @ Minnesota Golden Gophers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Minnesota G
  olden Gophers\nThe Barn by Blue Cross and Blue Shield of Minnesota\, Minne
- apolis\, MN
+ apolis\, MN\nBroadcast: B1G+ (streaming)
 LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
  , MN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929215@open-sports-cal
@@ -56,12 +61,13 @@ DTSTART:20261113T170000Z
 DTEND:20261113T200000Z
 SUMMARY:Louisiana Christian Wildcats @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisiana Christian Wildcats @
-  Southern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+  Southern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcas
+ t: Broadcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -70,13 +76,14 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:Southern Jaguars @ Oklahoma Sooners
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Oklahoma So
- oners\nLloyd Noble Center\, Norman\, OK
+ oners\nLloyd Noble Center\, Norman\, OK\nBroadcast: SECN+ (streaming)
 LOCATION:Lloyd Noble Center\, Norman\, OK
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923184@open-sports-cal
@@ -84,13 +91,15 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Southern Jaguars @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Notre Dame 
- Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACCNX (stre
+ aming)
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921393@open-sports-cal
@@ -98,12 +107,13 @@ DTSTART:20261125T160000Z
 DTEND:20261125T190000Z
 SUMMARY:Southern Jaguars @ Syracuse Orange
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Syracuse Or
- ange\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site
+ ange\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site\nBro
+ adcast: Broadcast not announced
 LOCATION:Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Puerto_Rico
 END:VEVENT
 BEGIN:VEVENT
@@ -112,12 +122,13 @@ DTSTART:20261126T160000Z
 DTEND:20261126T190000Z
 SUMMARY:Auburn Tigers @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAuburn Tigers @ Southern Jagua
- rs\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site
+ rs\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site\nBroad
+ cast: Broadcast not announced
 LOCATION:Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Puerto_Rico
 END:VEVENT
 BEGIN:VEVENT
@@ -126,12 +137,13 @@ DTSTART:20261201T020000Z
 DTEND:20261201T050000Z
 SUMMARY:Southern Jaguars @ Oregon State Beavers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Oregon Stat
- e Beavers\nGill Coliseum\, Corvallis\, OR
+ e Beavers\nGill Coliseum\, Corvallis\, OR\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Gill Coliseum\, Corvallis\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -140,12 +152,12 @@ DTSTART:20261203T020000Z
 DTEND:20261203T050000Z
 SUMMARY:Southern Jaguars @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Oregon Duck
- s\nMatthew Knight Arena\, Eugene\, OR
+ s\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Broadcast not announced
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -154,12 +166,13 @@ DTSTART:20261205T200000Z
 DTEND:20261205T230000Z
 SUMMARY:Southern Jaguars @ Colorado State Rams
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Colorado St
- ate Rams\nMoby Arena\, Fort Collins\, CO
+ ate Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +181,13 @@ DTSTART:20261211T030000Z
 DTEND:20261211T060000Z
 SUMMARY:Southern Jaguars @ Washington Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Washington 
- Huskies\nAlaska Airlines Arena\, Seattle\, WA
+ Huskies\nAlaska Airlines Arena\, Seattle\, WA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Alaska Airlines Arena\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -182,12 +196,13 @@ DTSTART:20261213T180000Z
 DTEND:20261213T210000Z
 SUMMARY:Southern Jaguars @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Iowa Hawkey
- es\nCarver-Hawkeye Arena\, Iowa City\, IA
+ es\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -196,12 +211,13 @@ DTSTART:20261220T200000Z
 DTEND:20261220T230000Z
 SUMMARY:Southern New Orleans Knights @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern New Orleans Knights @
-  Southern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+  Southern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcas
+ t: Broadcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -210,12 +226,12 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:Southern Jaguars @ Texas Southern Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Texas South
- ern Tigers\nH&PE Arena\, Houston\, TX
+ ern Tigers\nH&PE Arena\, Houston\, TX\nBroadcast: Broadcast not announced
 LOCATION:H&PE Arena\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -224,12 +240,13 @@ DTSTART:20270104T220000Z
 DTEND:20270105T010000Z
 SUMMARY:Southern Jaguars @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Prairie Vie
- w A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX
+ w A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX\nBroadc
+ ast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -238,12 +255,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Bethune-Cookman Wildcats @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Sou
- thern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+ thern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcast: B
+ roadcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -252,12 +270,13 @@ DTSTART:20270109T203000Z
 DTEND:20270109T233000Z
 SUMMARY:Florida A&M Rattlers @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida A&M Rattlers @ Souther
- n Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+ n Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcast: Broad
+ cast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -266,12 +285,13 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Grambling Lady Tigers @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrambling Lady Tigers @ Southe
- rn Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+ rn Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcast: Broa
+ dcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -280,12 +300,13 @@ DTSTART:20270122T003000Z
 DTEND:20270122T033000Z
 SUMMARY:Southern Jaguars @ Mississippi Valley State Devilettes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Mississippi
-  Valley State Devilettes\nR.W. Harrison HPER Complex\, Itta Bena\, MS
+  Valley State Devilettes\nR.W. Harrison HPER Complex\, Itta Bena\, MS\nBro
+ adcast: Broadcast not announced
 LOCATION:R.W. Harrison HPER Complex\, Itta Bena\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +315,13 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Southern Jaguars @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Arkansas-Pi
- ne Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ ne Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR\nBroadcast: B
+ roadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -308,12 +330,13 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Jackson State Lady Tigers @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJackson State Lady Tigers @ So
- uthern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+ uthern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcast: 
+ Broadcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +345,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Alcorn State Lady Braves @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlcorn State Lady Braves @ Sou
- thern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+ thern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcast: B
+ roadcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -336,12 +360,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Southern Jaguars @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Alabama Sta
- te Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+ te Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroadcast: Broadca
+ st not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +375,13 @@ DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Southern Jaguars @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Alabama A&M
-  Bulldogs\nEvent Center\, Huntsville\, AL\nStart time TBD
+  Bulldogs\nEvent Center\, Huntsville\, AL\nStart time TBD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923353@open-sports-cal
@@ -363,12 +389,13 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Texas Southern Tigers @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas Southern Tigers @ Southe
- rn Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+ rn Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcast: Broa
+ dcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +404,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Southern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+  @ Southern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadc
+ ast: Broadcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +419,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Southern Jaguars @ Grambling Lady Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Grambling L
- ady Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA
+ ady Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, LA\nBroadcast:
+  Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +434,13 @@ DTSTART:20270225T233000Z
 DTEND:20270226T023000Z
 SUMMARY:Southern Jaguars @ Florida A&M Rattlers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Florida A&M
-  Rattlers\nAl Lawson Center\, Tallahassee\, FL
+  Rattlers\nAl Lawson Center\, Tallahassee\, FL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Al Lawson Center\, Tallahassee\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +449,13 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Southern Jaguars @ Bethune-Cookman Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Bethune-Coo
- kman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL
+ kman Wildcats\nMoore Gymnasium (FL)\, Daytona Beach\, FL\nBroadcast: Broad
+ cast not announced
 LOCATION:Moore Gymnasium (FL)\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -433,12 +464,13 @@ DTSTART:20270302T230000Z
 DTEND:20270303T020000Z
 SUMMARY:Alabama State Lady Hornets @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama State Lady Hornets @ S
- outhern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+ outhern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcast:
+  Broadcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -447,12 +479,13 @@ DTSTART:20270304T230000Z
 DTEND:20270305T020000Z
 SUMMARY:Alabama A&M Bulldogs @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlabama A&M Bulldogs @ Souther
- n Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+ n Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadcast: Broad
+ cast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

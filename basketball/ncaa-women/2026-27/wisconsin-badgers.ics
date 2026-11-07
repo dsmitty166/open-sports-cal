@@ -12,13 +12,14 @@ DTSTART:20261104T003000Z
 DTEND:20261104T033000Z
 SUMMARY:Bradley Braves @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBradley Braves @ Wisconsin Bad
- gers\nKohl Center\, Madison\, WI
+ gers\nKohl Center\, Madison\, WI\nBroadcast: B1G+ (streaming)
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918865@open-sports-cal
@@ -26,13 +27,14 @@ DTSTART:20261106T003000Z
 DTEND:20261106T033000Z
 SUMMARY:Oakland Golden Grizzlies @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOakland Golden Grizzlies @ Wis
- consin Badgers\nKohl Center\, Madison\, WI
+ consin Badgers\nKohl Center\, Madison\, WI\nBroadcast: B1G+ (streaming)
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918866@open-sports-cal
@@ -40,13 +42,14 @@ DTSTART:20261108T200000Z
 DTEND:20261108T230000Z
 SUMMARY:Grambling Lady Tigers @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrambling Lady Tigers @ Wiscon
- sin Badgers\nKohl Center\, Madison\, WI
+ sin Badgers\nKohl Center\, Madison\, WI\nBroadcast: B1G+ (streaming)
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918867@open-sports-cal
@@ -54,13 +57,14 @@ DTSTART:20261112T003000Z
 DTEND:20261112T033000Z
 SUMMARY:Delaware Blue Hens @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware Blue Hens @ Wisconsin
-  Badgers\nKohl Center\, Madison\, WI
+  Badgers\nKohl Center\, Madison\, WI\nBroadcast: B1G+ (streaming)
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918888@open-sports-cal
@@ -68,13 +72,14 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Wisconsin Badgers @ Green Bay Phoenix
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Green Bay 
- Phoenix\nKress Center\, Green Bay\, WI
+ Phoenix\nKress Center\, Green Bay\, WI\nBroadcast: ESPN+ (streaming)
 LOCATION:Kress Center\, Green Bay\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918889@open-sports-cal
@@ -82,13 +87,14 @@ DTSTART:20261118T003000Z
 DTEND:20261118T033000Z
 SUMMARY:Marquette Golden Eagles @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarquette Golden Eagles @ Wisc
- onsin Badgers\nKohl Center\, Madison\, WI
+ onsin Badgers\nKohl Center\, Madison\, WI\nBroadcast: B1G+ (streaming)
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918890@open-sports-cal
@@ -96,12 +102,12 @@ DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Lafayette Leopards @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ Wisconsin
-  Badgers\nKohl Center\, Madison\, WI
+  Badgers\nKohl Center\, Madison\, WI\nBroadcast: Broadcast not announced
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +116,13 @@ DTSTART:20261125T183000Z
 DTEND:20261125T213000Z
 SUMMARY:Wisconsin Badgers @ Auburn Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Auburn Tig
- ers\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site
+ ers\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site\nBroa
+ dcast: Broadcast not announced
 LOCATION:Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Puerto_Rico
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +131,13 @@ DTSTART:20261126T183000Z
 DTEND:20261126T213000Z
 SUMMARY:Syracuse Orange @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSyracuse Orange @ Wisconsin Ba
- dgers\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site
+ dgers\nColiseo Guillermo Angulo\, Carolina\, Puerto Rico\nNeutral site\nBr
+ oadcast: Broadcast not announced
 LOCATION:Coliseo Guillermo Angulo\, Carolina\, Puerto Rico
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Puerto_Rico
 END:VEVENT
 BEGIN:VEVENT
@@ -138,12 +146,13 @@ DTSTART:20261203T003000Z
 DTEND:20261203T033000Z
 SUMMARY:Western Michigan Broncos @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWestern Michigan Broncos @ Wis
- consin Badgers\nKohl Center\, Madison\, WI
+ consin Badgers\nKohl Center\, Madison\, WI\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -152,12 +161,13 @@ DTSTART:20261205T200000Z
 DTEND:20261205T230000Z
 SUMMARY:Illinois Fighting Illini @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIllinois Fighting Illini @ Wis
- consin Badgers\nKohl Center\, Madison\, WI
+ consin Badgers\nKohl Center\, Madison\, WI\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -166,13 +176,15 @@ DTSTART:20261211T000000Z
 DTEND:20261211T030000Z
 SUMMARY:Wisconsin Badgers @ Valparaiso Beacons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Valparaiso
-  Beacons\nAthletics-Recreation Center\, Valparaiso\, IN
+  Beacons\nAthletics-Recreation Center\, Valparaiso\, IN\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Athletics-Recreation Center\, Valparaiso\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918895@open-sports-cal
@@ -180,12 +192,13 @@ DTSTART:20261218T040000Z
 DTEND:20261218T070000Z
 SUMMARY:Delaware State Hornets @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDelaware State Hornets @ Wisco
- nsin Badgers\nKohl Center\, Madison\, WI
+ nsin Badgers\nKohl Center\, Madison\, WI\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +207,12 @@ DTSTART:20261220T170000Z
 DTEND:20261220T200000Z
 SUMMARY:Omaha Mavericks @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOmaha Mavericks @ Wisconsin Ba
- dgers\nKohl Center\, Madison\, WI
+ dgers\nKohl Center\, Madison\, WI\nBroadcast: Broadcast not announced
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -208,13 +221,14 @@ DTSTART:20261229T200000Z
 DTEND:20261229T230000Z
 SUMMARY:USC Trojans @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUSC Trojans @ Wisconsin Badger
- s\nKohl Center\, Madison\, WI
+ s\nKohl Center\, Madison\, WI\nBroadcast: Peacock (streaming) / NBCSN
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming) / NBCSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922074@open-sports-cal
@@ -222,12 +236,13 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:Wisconsin Badgers @ Washington Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Washington
-  Huskies\nAlaska Airlines Arena\, Seattle\, WA
+  Huskies\nAlaska Airlines Arena\, Seattle\, WA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Alaska Airlines Arena\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +251,12 @@ DTSTART:20270106T030000Z
 DTEND:20270106T060000Z
 SUMMARY:Wisconsin Badgers @ Oregon Ducks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Oregon Duc
- ks\nMatthew Knight Arena\, Eugene\, OR
+ ks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: Broadcast not announced
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +265,12 @@ DTSTART:20270110T200000Z
 DTEND:20270110T230000Z
 SUMMARY:Ohio State Buckeyes @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio State Buckeyes @ Wisconsi
- n Badgers\nKohl Center\, Madison\, WI
+ n Badgers\nKohl Center\, Madison\, WI\nBroadcast: Broadcast not announced
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -264,13 +279,14 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Wisconsin Badgers @ Purdue Boilermakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Purdue Boi
- lermakers\nMackey Arena\, West Lafayette\, IN
+ lermakers\nMackey Arena\, West Lafayette\, IN\nBroadcast: BTN
 LOCATION:Mackey Arena\, West Lafayette\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922107@open-sports-cal
@@ -278,12 +294,13 @@ DTSTART:20270117T200000Z
 DTEND:20270117T230000Z
 SUMMARY:Northwestern Wildcats @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthwestern Wildcats @ Wiscon
- sin Badgers\nKohl Center\, Madison\, WI
+ sin Badgers\nKohl Center\, Madison\, WI\nBroadcast: Broadcast not announce
+ d
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -293,14 +310,15 @@ DTEND:20270122T043000Z
 SUMMARY:Wisconsin Badgers @ Minnesota Golden Gophers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Minnesota 
  Golden Gophers\nThe Barn by Blue Cross and Blue Shield of Minnesota\, Minn
- eapolis\, MN
+ eapolis\, MN\nBroadcast: BTN
 LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
  , MN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922124@open-sports-cal
@@ -308,12 +326,13 @@ DTSTART:20270124T200000Z
 DTEND:20270124T230000Z
 SUMMARY:Rutgers Scarlet Knights @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRutgers Scarlet Knights @ Wisc
- onsin Badgers\nKohl Center\, Madison\, WI
+ onsin Badgers\nKohl Center\, Madison\, WI\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -322,13 +341,14 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Maryland Terrapins @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMaryland Terrapins @ Wisconsin
-  Badgers\nKohl Center\, Madison\, WI
+  Badgers\nKohl Center\, Madison\, WI\nBroadcast: BTN
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922141@open-sports-cal
@@ -336,12 +356,13 @@ DTSTART:20270131T200000Z
 DTEND:20270131T230000Z
 SUMMARY:Wisconsin Badgers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Iowa Hawke
- yes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ yes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,12 +371,13 @@ DTSTART:20270205T003000Z
 DTEND:20270205T033000Z
 SUMMARY:Minnesota Golden Gophers @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMinnesota Golden Gophers @ Wis
- consin Badgers\nKohl Center\, Madison\, WI
+ consin Badgers\nKohl Center\, Madison\, WI\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -364,13 +386,14 @@ DTSTART:20270212T020000Z
 DTEND:20270212T050000Z
 SUMMARY:UCLA Bruins @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUCLA Bruins @ Wisconsin Badger
- s\nKohl Center\, Madison\, WI
+ s\nKohl Center\, Madison\, WI\nBroadcast: FS1
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922173@open-sports-cal
@@ -378,12 +401,13 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Wisconsin Badgers @ Indiana Hoosiers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Indiana Ho
- osiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN
+ osiers\nSimon Skjodt Assembly Hall\, Bloomington\, IN\nBroadcast: Broadcas
+ t not announced
 LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -392,12 +416,13 @@ DTSTART:20270218T010000Z
 DTEND:20270218T040000Z
 SUMMARY:Wisconsin Badgers @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Nebraska C
- ornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ ornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -406,13 +431,14 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Michigan Wolverines @ Wisconsin Badgers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMichigan Wolverines @ Wisconsi
- n Badgers\nKohl Center\, Madison\, WI
+ n Badgers\nKohl Center\, Madison\, WI\nBroadcast: BTN
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401922200@open-sports-cal
@@ -420,12 +446,13 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:Wisconsin Badgers @ Michigan State Spartans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Michigan S
- tate Spartans\nBreslin Center\, East Lansing\, MI
+ tate Spartans\nBreslin Center\, East Lansing\, MI\nBroadcast: Broadcast no
+ t announced
 LOCATION:Breslin Center\, East Lansing\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -434,12 +461,13 @@ DTSTART:20270228T180000Z
 DTEND:20270228T210000Z
 SUMMARY:Wisconsin Badgers @ Penn State Lady Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWisconsin Badgers @ Penn State
-  Lady Lions\nRec Hall\, University Park\, PA
+  Lady Lions\nRec Hall\, University Park\, PA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Rec Hall\, University Park\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,14 @@ DTSTART:20260830T020000Z
 DTEND:20260830T050000Z
 SUMMARY:Montana State Bobcats @ Utah Tech Trailblazers
 DESCRIPTION:NCAA FCS Football 2026\nMontana State Bobcats @ Utah Tech Trail
- blazers\nGreater Zion Stadium\, Saint George\, UT
+ blazers\nGreater Zion Stadium\, Saint George\, UT\nBroadcast: ESPN+ (strea
+ ming) / The Spot - MTN
 LOCATION:Greater Zion Stadium\, Saint George\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming) / The Spot - MTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401856775@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260906T000000Z
 DTEND:20260906T030000Z
 SUMMARY:Utah Tech Trailblazers @ BYU Cougars
 DESCRIPTION:NCAA FCS Football 2026\nUtah Tech Trailblazers @ BYU Cougars\nL
- aVell Edwards Stadium\, Provo\, UT
+ aVell Edwards Stadium\, Provo\, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:LaVell Edwards Stadium\, Provo\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868112@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20260912T190000Z
 DTEND:20260912T220000Z
 SUMMARY:Utah Tech Trailblazers @ Montana Grizzlies
 DESCRIPTION:NCAA FCS Football 2026\nUtah Tech Trailblazers @ Montana Grizzl
- ies\nWashington-Grizzly Stadium\, Missoula\, MT
+ ies\nWashington-Grizzly Stadium\, Missoula\, MT\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Washington-Grizzly Stadium\, Missoula\, MT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868124@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20260920T000000Z
 DTEND:20260920T030000Z
 SUMMARY:Northern Arizona Lumberjacks @ Utah Tech Trailblazers
 DESCRIPTION:NCAA FCS Football 2026\nNorthern Arizona Lumberjacks @ Utah Tec
- h Trailblazers\nGreater Zion Stadium\, Saint George\, UT
+ h Trailblazers\nGreater Zion Stadium\, Saint George\, UT\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Greater Zion Stadium\, Saint George\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868131@open-sports-cal
@@ -64,12 +71,13 @@ DTSTART:20260927T000000Z
 DTEND:20260927T030000Z
 SUMMARY:Utah Tech Trailblazers @ Northern Colorado Bears
 DESCRIPTION:NCAA FCS Football 2026\nUtah Tech Trailblazers @ Northern Color
- ado Bears\nNottingham Field\, Greeley\, CO
+ ado Bears\nNottingham Field\, Greeley\, CO\nBroadcast: ESPN+ (streaming)
 LOCATION:Nottingham Field\, Greeley\, CO
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868160@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20261004T000000Z
 DTEND:20261004T030000Z
 SUMMARY:Southern Utah Thunderbirds @ Utah Tech Trailblazers
 DESCRIPTION:NCAA FCS Football 2026\nSouthern Utah Thunderbirds @ Utah Tech 
- Trailblazers\nGreater Zion Stadium\, Saint George\, UT
+ Trailblazers\nGreater Zion Stadium\, Saint George\, UT\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Greater Zion Stadium\, Saint George\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868156@open-sports-cal
@@ -90,12 +100,14 @@ DTSTART:20261010T200000Z
 DTEND:20261010T230000Z
 SUMMARY:Utah Tech Trailblazers @ Portland State Vikings
 DESCRIPTION:NCAA FCS Football 2026\nUtah Tech Trailblazers @ Portland State
-  Vikings\nHillsboro Stadium\, Portland\, OR
+  Vikings\nHillsboro Stadium\, Portland\, OR\nBroadcast: ESPN+ (streaming) 
+ / Rose City Sports Net
 LOCATION:Hillsboro Stadium\, Portland\, OR
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming) / Rose City Sports Net
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868080@open-sports-cal
@@ -103,12 +115,14 @@ DTSTART:20261024T210000Z
 DTEND:20261025T000000Z
 SUMMARY:Utah Tech Trailblazers @ Cal Poly Mustangs
 DESCRIPTION:NCAA FCS Football 2026\nUtah Tech Trailblazers @ Cal Poly Musta
- ngs\nMustang Memorial Field at Spanos Stadium\, San Luis Obispo\, CA
+ ngs\nMustang Memorial Field at Spanos Stadium\, San Luis Obispo\, CA\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Mustang Memorial Field at Spanos Stadium\, San Luis Obispo\, CA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868107@open-sports-cal
@@ -116,12 +130,14 @@ DTSTART:20261031T190000Z
 DTEND:20261031T220000Z
 SUMMARY:Idaho State Bengals @ Utah Tech Trailblazers
 DESCRIPTION:NCAA FCS Football 2026\nIdaho State Bengals @ Utah Tech Trailbl
- azers\nGreater Zion Stadium\, Saint George\, UT
+ azers\nGreater Zion Stadium\, Saint George\, UT\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Greater Zion Stadium\, Saint George\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868166@open-sports-cal
@@ -129,12 +145,13 @@ DTSTART:20261108T000000Z
 DTEND:20261108T030000Z
 SUMMARY:Utah Tech Trailblazers @ UC Davis Aggies
 DESCRIPTION:NCAA FCS Football 2026\nUtah Tech Trailblazers @ UC Davis Aggie
- s\nUC Davis Health Stadium\, Davis\, CA
+ s\nUC Davis Health Stadium\, Davis\, CA\nBroadcast: ESPN+ (streaming)
 LOCATION:UC Davis Health Stadium\, Davis\, CA
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868091@open-sports-cal
@@ -142,12 +159,14 @@ DTSTART:20261114T210000Z
 DTEND:20261115T000000Z
 SUMMARY:Eastern Washington Eagles @ Utah Tech Trailblazers
 DESCRIPTION:NCAA FCS Football 2026\nEastern Washington Eagles @ Utah Tech T
- railblazers\nGreater Zion Stadium\, Saint George\, UT
+ railblazers\nGreater Zion Stadium\, Saint George\, UT\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Greater Zion Stadium\, Saint George\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401868167@open-sports-cal
@@ -155,11 +174,12 @@ DTSTART:20261121T200000Z
 DTEND:20261121T230000Z
 SUMMARY:Utah Tech Trailblazers @ Weber State Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nUtah Tech Trailblazers @ Weber State Wi
- ldcats\nStewart Stadium\, Ogden\, UT
+ ldcats\nStewart Stadium\, Ogden\, UT\nBroadcast: ESPN+ (streaming)
 LOCATION:Stewart Stadium\, Ogden\, UT
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 END:VCALENDAR

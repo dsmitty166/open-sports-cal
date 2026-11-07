@@ -12,12 +12,13 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Le Moyne Dolphins @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Nebraska Cor
- nhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ nhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: B1G+ (streaming)
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909532@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261108T000000Z
 DTEND:20261108T030000Z
 SUMMARY:Providence Friars @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nProvidence Friars @ Nebraska Cor
- nhuskers\nMohegan Sun Arena\, Uncasville\, CT\nNeutral site
+ nhuskers\nMohegan Sun Arena\, Uncasville\, CT\nNeutral site\nBroadcast: FS
+ 1
 LOCATION:Mohegan Sun Arena\, Uncasville\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926062@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261112T020000Z
 DTEND:20261112T050000Z
 SUMMARY:Lindenwood Lions @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLindenwood Lions @ Nebraska Corn
- huskers\nPinnacle Bank Arena\, Lincoln\, NE
+ huskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: FS1
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926063@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Boise State Broncos @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoise State Broncos @ Nebraska C
- ornhuskers\nSanford Pentagon\, Sioux Falls\, SD\nNeutral site
+ ornhuskers\nSanford Pentagon\, Sioux Falls\, SD\nNeutral site\nBroadcast: 
+ BTN
 LOCATION:Sanford Pentagon\, Sioux Falls\, SD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926064@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261119T013000Z
 DTEND:20261119T043000Z
 SUMMARY:South Dakota Coyotes @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Dakota Coyotes @ Nebraska 
- Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: BTN
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902281@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
 SUMMARY:Butler Bulldogs @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nButler Bulldogs @ Nebraska Cornh
- uskers\nCredit Union 1 Arena\, Chicago\, IL\nNeutral site
+ uskers\nCredit Union 1 Arena\, Chicago\, IL\nNeutral site\nBroadcast: FS1
 LOCATION:Credit Union 1 Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926065@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261125T220000Z
 DTEND:20261126T010000Z
 SUMMARY:Southern Jaguars @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Jaguars @ Nebraska Corn
- huskers\nPinnacle Bank Arena\, Lincoln\, NE
+ huskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: BTN
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921878@open-sports-cal
@@ -103,12 +112,13 @@ DTSTART:20261203T013000Z
 DTEND:20261203T043000Z
 SUMMARY:Ohio State Buckeyes @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio State Buckeyes @ Nebraska C
- ornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ ornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: BTN
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909497@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:Nebraska Cornhuskers @ Creighton Bluejays
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Creighton
-  Bluejays\nCHI Health Center Omaha\, Omaha\, NE
+  Bluejays\nCHI Health Center Omaha\, Omaha\, NE\nBroadcast: TNT
 LOCATION:CHI Health Center Omaha\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921884@open-sports-cal
@@ -129,12 +140,14 @@ DTSTART:20261209T010000Z
 DTEND:20261209T040000Z
 SUMMARY:Nebraska Cornhuskers @ Penn State Nittany Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Penn Stat
- e Nittany Lions\nBryce Jordan Center\, University Park\, PA
+ e Nittany Lions\nBryce Jordan Center\, University Park\, PA\nBroadcast: BT
+ N
 LOCATION:Bryce Jordan Center\, University Park\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921690@open-sports-cal
@@ -142,12 +155,13 @@ DTSTART:20261213T000000Z
 DTEND:20261213T030000Z
 SUMMARY:Missouri Tigers @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMissouri Tigers @ Nebraska Cornh
- uskers\nT-Mobile Center\, Kansas City\, MO\nNeutral site
+ uskers\nT-Mobile Center\, Kansas City\, MO\nNeutral site\nBroadcast: ESPNU
 LOCATION:T-Mobile Center\, Kansas City\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920927@open-sports-cal
@@ -155,12 +169,13 @@ DTSTART:20261218T000000Z
 DTEND:20261218T030000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMount St. Mary's Mountaineers @ 
- Nebraska Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ Nebraska Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: BTN
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919766@open-sports-cal
@@ -168,12 +183,13 @@ DTSTART:20261220T210000Z
 DTEND:20261221T000000Z
 SUMMARY:Fairleigh Dickinson Knights @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFairleigh Dickinson Knights @ Ne
- braska Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ braska Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: BTN
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926066@open-sports-cal
@@ -181,12 +197,13 @@ DTSTART:20261230T190000Z
 DTEND:20261230T220000Z
 SUMMARY:New Haven Chargers @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Haven Chargers @ Nebraska Co
- rnhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ rnhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: BTN
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921896@open-sports-cal
@@ -194,12 +211,13 @@ DTSTART:20270102T204500Z
 DTEND:20270102T234500Z
 SUMMARY:Michigan State Spartans @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan State Spartans @ Nebras
- ka Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ ka Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: CBS
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921903@open-sports-cal
@@ -207,12 +225,14 @@ DTSTART:20270106T000000Z
 DTEND:20270106T030000Z
 SUMMARY:Michigan Wolverines @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan Wolverines @ Nebraska C
- ornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ ornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: Peacock (stream
+ ing)
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921912@open-sports-cal
@@ -220,12 +240,13 @@ DTSTART:20270110T233000Z
 DTEND:20270111T023000Z
 SUMMARY:Nebraska Cornhuskers @ Oregon Ducks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Oregon Du
- cks\nMatthew Knight Arena\, Eugene\, OR
+ cks\nMatthew Knight Arena\, Eugene\, OR\nBroadcast: BTN
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921919@open-sports-cal
@@ -233,12 +254,13 @@ DTSTART:20270114T040000Z
 DTEND:20270114T070000Z
 SUMMARY:Nebraska Cornhuskers @ Washington Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Washingto
- n Huskies\nAlaska Airlines Arena\, Seattle\, WA
+ n Huskies\nAlaska Airlines Arena\, Seattle\, WA\nBroadcast: BTN
 LOCATION:Alaska Airlines Arena\, Seattle\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921922@open-sports-cal
@@ -246,11 +268,12 @@ DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
 SUMMARY:Iowa Hawkeyes @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Nebraska Cornhus
- kers\nPinnacle Bank Arena\, Lincoln\, NE
+ kers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,12 +282,14 @@ DTSTART:20270120T020000Z
 DTEND:20270120T050000Z
 SUMMARY:Nebraska Cornhuskers @ Illinois Fighting Illini
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Illinois 
- Fighting Illini\nState Farm Center\, Champaign\, IL
+ Fighting Illini\nState Farm Center\, Champaign\, IL\nBroadcast: Peacock (s
+ treaming)
 LOCATION:State Farm Center\, Champaign\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921932@open-sports-cal
@@ -272,12 +297,13 @@ DTSTART:20270123T020000Z
 DTEND:20270123T050000Z
 SUMMARY:UCLA Bruins @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUCLA Bruins @ Nebraska Cornhuske
- rs\nPinnacle Bank Arena\, Lincoln\, NE
+ rs\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: FS1
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921942@open-sports-cal
@@ -285,12 +311,14 @@ DTSTART:20270126T230000Z
 DTEND:20270127T020000Z
 SUMMARY:Nebraska Cornhuskers @ Purdue Boilermakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Purdue Bo
- ilermakers\nMackey Arena\, West Lafayette\, IN
+ ilermakers\nMackey Arena\, West Lafayette\, IN\nBroadcast: Peacock (stream
+ ing)
 LOCATION:Mackey Arena\, West Lafayette\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921946@open-sports-cal
@@ -298,12 +326,14 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:Nebraska Cornhuskers @ Iowa Hawkeyes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Iowa Hawk
- eyes\nCarver-Hawkeye Arena\, Iowa City\, IA
+ eyes\nCarver-Hawkeye Arena\, Iowa City\, IA\nBroadcast: Peacock (streaming
+ )
 LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921792@open-sports-cal
@@ -311,11 +341,13 @@ DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Indiana Hoosiers @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIndiana Hoosiers @ Nebraska Corn
- huskers\nPinnacle Bank Arena\, Lincoln\, NE\nStart time TBD
+ huskers\nPinnacle Bank Arena\, Lincoln\, NE\nStart time TBD\nBroadcast: Fo
+ x
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921962@open-sports-cal
@@ -323,12 +355,13 @@ DTSTART:20270209T233000Z
 DTEND:20270210T023000Z
 SUMMARY:Nebraska Cornhuskers @ Maryland Terrapins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Maryland 
- Terrapins\nXFINITY Center\, College Park\, MD
+ Terrapins\nXFINITY Center\, College Park\, MD\nBroadcast: FS1
 LOCATION:XFINITY Center\, College Park\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921968@open-sports-cal
@@ -336,12 +369,13 @@ DTSTART:20270213T023000Z
 DTEND:20270213T053000Z
 SUMMARY:Penn State Nittany Lions @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPenn State Nittany Lions @ Nebra
- ska Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ ska Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: FS1
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921978@open-sports-cal
@@ -349,12 +383,13 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:Rutgers Scarlet Knights @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRutgers Scarlet Knights @ Nebras
- ka Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ ka Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: BTN
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921983@open-sports-cal
@@ -362,12 +397,13 @@ DTSTART:20270221T010000Z
 DTEND:20270221T040000Z
 SUMMARY:Nebraska Cornhuskers @ Michigan State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Michigan 
- State Spartans\nBreslin Center\, East Lansing\, MI
+ State Spartans\nBreslin Center\, East Lansing\, MI\nBroadcast: Fox
 LOCATION:Breslin Center\, East Lansing\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921990@open-sports-cal
@@ -375,12 +411,13 @@ DTSTART:20270224T020000Z
 DTEND:20270224T050000Z
 SUMMARY:USC Trojans @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUSC Trojans @ Nebraska Cornhuske
- rs\nPinnacle Bank Arena\, Lincoln\, NE
+ rs\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: Peacock (streaming)
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921999@open-sports-cal
@@ -388,12 +425,13 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Nebraska Cornhuskers @ Northwestern Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Northwest
- ern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+ ern Wildcats\nWelsh-Ryan Arena\, Evanston\, IL\nBroadcast: Fox
 LOCATION:Welsh-Ryan Arena\, Evanston\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921871@open-sports-cal
@@ -401,12 +439,13 @@ DTSTART:20270304T013000Z
 DTEND:20270304T043000Z
 SUMMARY:Nebraska Cornhuskers @ Wisconsin Badgers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNebraska Cornhuskers @ Wisconsin
-  Badgers\nKohl Center\, Madison\, WI
+  Badgers\nKohl Center\, Madison\, WI\nBroadcast: BTN
 LOCATION:Kohl Center\, Madison\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:BTN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922015@open-sports-cal
@@ -414,11 +453,12 @@ DTSTART:20270308T000000Z
 DTEND:20270308T030000Z
 SUMMARY:Minnesota Golden Gophers @ Nebraska Cornhuskers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMinnesota Golden Gophers @ Nebra
- ska Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE
+ ska Cornhuskers\nPinnacle Bank Arena\, Lincoln\, NE\nBroadcast: FS1
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 END:VCALENDAR

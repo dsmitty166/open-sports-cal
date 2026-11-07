@@ -12,13 +12,15 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Marshall Thundering Herd @ Massachusetts Minutewomen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Mas
- sachusetts Minutewomen\nMullins Center\, Amherst\, MA
+ sachusetts Minutewomen\nMullins Center\, Amherst\, MA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918656@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T230000Z
 DTEND:20261107T020000Z
 SUMMARY:North Carolina A&T Aggies @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina A&T Aggies @ Ma
- rshall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ rshall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918657@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261110T230000Z
 DTEND:20261111T020000Z
 SUMMARY:Howard Bison @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoward Bison @ Marshall Thunde
- ring Herd\nCam Henderson Center\, Huntington\, WV
+ ring Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918658@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261112T160000Z
 DTEND:20261112T190000Z
 SUMMARY:West Virginia State Yellow Jackets @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWest Virginia State Yellow Jac
- kets @ Marshall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ kets @ Marshall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915909@open-sports-cal
@@ -68,13 +76,15 @@ DTSTART:20261115T200000Z
 DTEND:20261115T230000Z
 SUMMARY:Marshall Thundering Herd @ Duke Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Duk
- e Blue Devils\nCameron Indoor Stadium\, Durham\, NC
+ e Blue Devils\nCameron Indoor Stadium\, Durham\, NC\nBroadcast: ACC Networ
+ k
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918659@open-sports-cal
@@ -82,13 +92,15 @@ DTSTART:20261118T220000Z
 DTEND:20261119T010000Z
 SUMMARY:Marshall Thundering Herd @ Wright State Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Wri
- ght State Raiders\nNutter Center\, Dayton\, OH
+ ght State Raiders\nNutter Center\, Dayton\, OH\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Nutter Center\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918660@open-sports-cal
@@ -96,13 +108,15 @@ DTSTART:20261120T230000Z
 DTEND:20261121T020000Z
 SUMMARY:Marshall Thundering Herd @ Kentucky Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Ken
- tucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY
+ tucky Wildcats\nMemorial Coliseum (KY)\, Lexington\, KY\nBroadcast: SECN+ 
+ (streaming)
 LOCATION:Memorial Coliseum (KY)\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918661@open-sports-cal
@@ -110,13 +124,15 @@ DTSTART:20261124T230000Z
 DTEND:20261125T020000Z
 SUMMARY:Davis & Elkins Senators @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDavis & Elkins Senators @ Mars
- hall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ hall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918662@open-sports-cal
@@ -124,13 +140,15 @@ DTSTART:20261130T230000Z
 DTEND:20261201T020000Z
 SUMMARY:Ohio Bobcats @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOhio Bobcats @ Marshall Thunde
- ring Herd\nCam Henderson Center\, Huntington\, WV
+ ring Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918663@open-sports-cal
@@ -138,13 +156,15 @@ DTSTART:20261203T170000Z
 DTEND:20261203T200000Z
 SUMMARY:Marshall Thundering Herd @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Ten
- nessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ nessee Tech Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913924@open-sports-cal
@@ -152,13 +172,15 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Harvard Crimson @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHarvard Crimson @ Marshall Thu
- ndering Herd\nCam Henderson Center\, Huntington\, WV
+ ndering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918664@open-sports-cal
@@ -166,13 +188,15 @@ DTSTART:20261212T203000Z
 DTEND:20261212T233000Z
 SUMMARY:Marshall Thundering Herd @ Kent State Golden Flashes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Ken
- t State Golden Flashes\nM.A.C. Center\, Kent\, OH
+ t State Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912071@open-sports-cal
@@ -180,13 +204,15 @@ DTSTART:20261216T160000Z
 DTEND:20261216T190000Z
 SUMMARY:App State Mountaineers @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nApp State Mountaineers @ Marsh
- all Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ all Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912079@open-sports-cal
@@ -194,13 +220,15 @@ DTSTART:20261219T200000Z
 DTEND:20261219T230000Z
 SUMMARY:Marshall Thundering Herd @ South Alabama Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Sou
- th Alabama Jaguars\nMitchell Center\, Mobile\, AL
+ th Alabama Jaguars\nMitchell Center\, Mobile\, AL\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Mitchell Center\, Mobile\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918665@open-sports-cal
@@ -208,13 +236,15 @@ DTSTART:20261222T170000Z
 DTEND:20261222T200000Z
 SUMMARY:Marshall Thundering Herd @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Nor
- thern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ thern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912083@open-sports-cal
@@ -222,13 +252,14 @@ DTSTART:20261231T000000Z
 DTEND:20261231T030000Z
 SUMMARY:Marshall Thundering Herd @ Troy Trojans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Tro
- y Trojans\nTrojan Arena\, Troy\, AL
+ y Trojans\nTrojan Arena\, Troy\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401912094@open-sports-cal
@@ -236,12 +267,13 @@ DTSTART:20270102T200000Z
 DTEND:20270102T230000Z
 SUMMARY:Marshall Thundering Herd @ Arkansas State Red Wolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Ark
- ansas State Red Wolves\nFirst National Bank Arena\, Jonesboro\, AR
+ ansas State Red Wolves\nFirst National Bank Arena\, Jonesboro\, AR\nBroadc
+ ast: Broadcast not announced
 LOCATION:First National Bank Arena\, Jonesboro\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +282,13 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:Louisiana Tech Lady Techsters @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisiana Tech Lady Techsters 
- @ Marshall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ @ Marshall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadc
+ ast: Broadcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +297,13 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Mars
- hall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ hall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: B
+ roadcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +312,13 @@ DTSTART:20270114T230000Z
 DTEND:20270115T020000Z
 SUMMARY:Georgia State Panthers @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia State Panthers @ Marsh
- all Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ all Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: Br
+ oadcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +327,13 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:James Madison Dukes @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJames Madison Dukes @ Marshall
-  Thundering Herd\nCam Henderson Center\, Huntington\, WV
+  Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: Broad
+ cast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +343,12 @@ DTEND:20270121T020000Z
 SUMMARY:Marshall Thundering Herd @ Georgia Southern Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Geo
  rgia Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesbo
- ro\, GA
+ ro\, GA\nBroadcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -321,12 +357,13 @@ DTSTART:20270123T210000Z
 DTEND:20270124T000000Z
 SUMMARY:Marshall Thundering Herd @ Old Dominion Monarchs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Old
-  Dominion Monarchs\nChartway Arena\, Norfolk\, VA
+  Dominion Monarchs\nChartway Arena\, Norfolk\, VA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Chartway Arena\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -335,12 +372,13 @@ DTSTART:20270128T230000Z
 DTEND:20270129T020000Z
 SUMMARY:Marshall Thundering Herd @ James Madison Dukes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Jam
- es Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA
+ es Madison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA\nBroadcas
+ t: Broadcast not announced
 LOCATION:Atlantic Union Bank Center\, Harrisonburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,12 +387,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Marshall Thundering Herd @ App State Mountaineers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ App
-  State Mountaineers\nHolmes Convocation Center\, Boone\, NC
+  State Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: Br
+ oadcast not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +402,13 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Georgia Southern Eagles @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Southern Eagles @ Mars
- hall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ hall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: B
+ roadcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +417,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:UL Monroe Warhawks @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUL Monroe Warhawks @ Marshall 
- Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: Broadc
+ ast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,12 +432,13 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:Marshall Thundering Herd @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Coa
- stal Carolina Chanticleers\nThe HTC Center\, Conway\, SC
+ stal Carolina Chanticleers\nThe HTC Center\, Conway\, SC\nBroadcast: Broad
+ cast not announced
 LOCATION:The HTC Center\, Conway\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -405,12 +447,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Marshall Thundering Herd @ Georgia State Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMarshall Thundering Herd @ Geo
- rgia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ rgia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Bro
+ adcast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +462,13 @@ DTSTART:20270223T230000Z
 DTEND:20270224T020000Z
 SUMMARY:Old Dominion Monarchs @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOld Dominion Monarchs @ Marsha
- ll Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ ll Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: Bro
+ adcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -433,12 +477,13 @@ DTSTART:20270226T230000Z
 DTEND:20270227T020000Z
 SUMMARY:Coastal Carolina Chanticleers @ Marshall Thundering Herd
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCoastal Carolina Chanticleers 
- @ Marshall Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ @ Marshall Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadc
+ ast: Broadcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

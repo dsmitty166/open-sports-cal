@@ -249,6 +249,7 @@
 }
         </script>
         <style>
+            .match-broadcast { display:block; margin-top:4px; font-size:0.75rem; white-space:normal; overflow-wrap:anywhere; }
             *,
             *::before,
             *::after {
@@ -1894,7 +1895,7 @@
                                 const timeCell = eventTz ? `${fmtTime(dt, allDay)}<span class="event-tz">${escapeHtml(eventTz)}</span>` : fmtTime(dt, allDay);
                                 return `<div class="match-row">
                                     <span class="match-time">${timeCell}</span>
-                                    <span class="match-teams">${escapeHtml(ev.summary || "")}</span>
+                                    <span class="match-teams">${escapeHtml(ev.summary || "")}<small class="match-broadcast">${ev.broadcast?'TV / streaming: '+escapeHtml(ev.broadcast):'Broadcast not announced'}</small></span>
                                     <span class="match-venue" title="${escapeHtml(ev.location || "")}">${escapeHtml(venue)}</span>
                                 </div>`;
                             })

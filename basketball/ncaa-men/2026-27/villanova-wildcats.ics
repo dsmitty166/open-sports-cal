@@ -12,12 +12,14 @@ DTSTART:20261101T143000Z
 DTEND:20261101T173000Z
 SUMMARY:Notre Dame Fighting Irish @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNotre Dame Fighting Irish @ Vill
- anova Wildcats\nPalazzo dello Sport\, Rome\, Italy\nNeutral site
+ anova Wildcats\nPalazzo dello Sport\, Rome\, Italy\nNeutral site\nBroadcas
+ t: Fox
 LOCATION:Palazzo dello Sport\, Rome\, Italy
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Europe/Rome
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921285@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Holy Cross Crusaders @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHoly Cross Crusaders @ Villanova
-  Wildcats\nFinneran Pavilion\, Villanova\, PA
+  Wildcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921774@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:La Salle Explorers @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLa Salle Explorers @ Villanova W
- ildcats\nFinneran Pavilion\, Villanova\, PA
+ ildcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: truTV
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921775@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:Rider Broncs @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRider Broncs @ Villanova Wildcat
- s\nFinneran Pavilion\, Villanova\, PA
+ s\nFinneran Pavilion\, Villanova\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909708@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Villanova Wildcats @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Pittsburgh 
- Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACC Network
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921776@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
 SUMMARY:Michigan Wolverines @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMichigan Wolverines @ Villanova 
- Wildcats\nXfinity Mobile Arena\, Philadelphia\, PA
+ Wildcats\nXfinity Mobile Arena\, Philadelphia\, PA\nBroadcast: Fox
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921777@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Coppin State Eagles @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCoppin State Eagles @ Villanova 
- Wildcats\nFinneran Pavilion\, Villanova\, PA
+ Wildcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: truTV
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909789@open-sports-cal
@@ -103,12 +112,13 @@ DTSTART:20261127T220000Z
 DTEND:20261128T010000Z
 SUMMARY:Villanova Wildcats @ Kansas Jayhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Kansas Jayh
- awks\nAllen Fieldhouse\, Lawrence\, KS
+ awks\nAllen Fieldhouse\, Lawrence\, KS\nBroadcast: ESPN2
 LOCATION:Allen Fieldhouse\, Lawrence\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921778@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261201T233000Z
 DTEND:20261202T023000Z
 SUMMARY:Villanova Wildcats @ Temple Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Temple Owls
- \nLiacouras Center\, Philadelphia\, PA
+ \nLiacouras Center\, Philadelphia\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Liacouras Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920897@open-sports-cal
@@ -129,12 +140,14 @@ DTSTART:20261212T170000Z
 DTEND:20261212T200000Z
 SUMMARY:Villanova Wildcats @ Wisconsin Badgers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Wisconsin B
- adgers\nXfinity Mobile Arena\, Philadelphia\, PA\nNeutral site
+ adgers\nXfinity Mobile Arena\, Philadelphia\, PA\nNeutral site\nBroadcast:
+  Fox
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920572@open-sports-cal
@@ -142,12 +155,13 @@ DTSTART:20261220T010000Z
 DTEND:20261220T040000Z
 SUMMARY:Villanova Wildcats @ Creighton Bluejays
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Creighton B
- luejays\nCHI Health Center Omaha\, Omaha\, NE
+ luejays\nCHI Health Center Omaha\, Omaha\, NE\nBroadcast: Fox
 LOCATION:CHI Health Center Omaha\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920575@open-sports-cal
@@ -155,12 +169,13 @@ DTSTART:20261222T233000Z
 DTEND:20261223T023000Z
 SUMMARY:Providence Friars @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nProvidence Friars @ Villanova Wi
- ldcats\nFinneran Pavilion\, Villanova\, PA
+ ldcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: FS1
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928839@open-sports-cal
@@ -168,12 +183,13 @@ DTSTART:20261230T000000Z
 DTEND:20261230T030000Z
 SUMMARY:Fairleigh Dickinson Knights @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFairleigh Dickinson Knights @ Vi
- llanova Wildcats\nFinneran Pavilion\, Villanova\, PA
+ llanova Wildcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: truTV
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920588@open-sports-cal
@@ -181,12 +197,13 @@ DTSTART:20270103T170000Z
 DTEND:20270103T200000Z
 SUMMARY:Villanova Wildcats @ Georgetown Hoyas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Georgetown 
- Hoyas\nCapital One Arena\, Washington\, DC
+ Hoyas\nCapital One Arena\, Washington\, DC\nBroadcast: Peacock (streaming)
 LOCATION:Capital One Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920593@open-sports-cal
@@ -194,12 +211,13 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Villanova Wildcats @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Xavier Musk
- eteers\nCintas Center\, Cincinnati\, OH
+ eteers\nCintas Center\, Cincinnati\, OH\nBroadcast: truTV
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920597@open-sports-cal
@@ -207,12 +225,14 @@ DTSTART:20270109T220000Z
 DTEND:20270110T010000Z
 SUMMARY:Marquette Golden Eagles @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ Villan
- ova Wildcats\nFinneran Pavilion\, Villanova\, PA
+ ova Wildcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: Peacock (stre
+ aming)
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920601@open-sports-cal
@@ -220,12 +240,14 @@ DTSTART:20270112T230000Z
 DTEND:20270113T020000Z
 SUMMARY:Seton Hall Pirates @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Villanova W
- ildcats\nFinneran Pavilion\, Villanova\, PA
+ ildcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: Peacock (streaming
+ )
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920605@open-sports-cal
@@ -233,12 +255,13 @@ DTSTART:20270115T230000Z
 DTEND:20270116T020000Z
 SUMMARY:Villanova Wildcats @ Butler Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Butler Bull
- dogs\nHinkle Fieldhouse\, Indianapolis\, IN
+ dogs\nHinkle Fieldhouse\, Indianapolis\, IN\nBroadcast: FS1
 LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920611@open-sports-cal
@@ -246,12 +269,13 @@ DTSTART:20270119T233000Z
 DTEND:20270120T023000Z
 SUMMARY:Xavier Musketeers @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Villanova Wi
- ldcats\nFinneran Pavilion\, Villanova\, PA
+ ldcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: FS1
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920614@open-sports-cal
@@ -259,12 +283,13 @@ DTSTART:20270123T000000Z
 DTEND:20270123T030000Z
 SUMMARY:Villanova Wildcats @ DePaul Blue Demons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ DePaul Blue
-  Demons\nWintrust Arena\, Chicago\, IL
+  Demons\nWintrust Arena\, Chicago\, IL\nBroadcast: FS1
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920621@open-sports-cal
@@ -272,12 +297,14 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:Creighton Bluejays @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCreighton Bluejays @ Villanova W
- ildcats\nFinneran Pavilion\, Villanova\, PA
+ ildcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: Peacock (streaming
+ )
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920631@open-sports-cal
@@ -285,12 +312,13 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:Villanova Wildcats @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ UConn Huski
- es\nPeoplesBank Arena\, Hartford\, CT
+ es\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: Peacock (streaming)
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920635@open-sports-cal
@@ -298,12 +326,13 @@ DTSTART:20270206T173000Z
 DTEND:20270206T203000Z
 SUMMARY:St. John's Red Storm @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. John's Red Storm @ Villanova
-  Wildcats\nXfinity Mobile Arena\, Philadelphia\, PA
+  Wildcats\nXfinity Mobile Arena\, Philadelphia\, PA\nBroadcast: Fox
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920643@open-sports-cal
@@ -311,12 +340,13 @@ DTSTART:20270211T010000Z
 DTEND:20270211T040000Z
 SUMMARY:Villanova Wildcats @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Seton Hall 
- Pirates\nPrudential Center\, Newark\, NJ
+ Pirates\nPrudential Center\, Newark\, NJ\nBroadcast: Peacock (streaming)
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920647@open-sports-cal
@@ -324,12 +354,13 @@ DTSTART:20270214T170000Z
 DTEND:20270214T200000Z
 SUMMARY:UConn Huskies @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Villanova Wildca
- ts\nXfinity Mobile Arena\, Philadelphia\, PA
+ ts\nXfinity Mobile Arena\, Philadelphia\, PA\nBroadcast: Fox
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Fox
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920653@open-sports-cal
@@ -337,12 +368,13 @@ DTSTART:20270217T233000Z
 DTEND:20270218T023000Z
 SUMMARY:Villanova Wildcats @ Providence Friars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Providence 
- Friars\nAmica Mutual Pavilion\, Providence\, RI
+ Friars\nAmica Mutual Pavilion\, Providence\, RI\nBroadcast: TNT
 LOCATION:Amica Mutual Pavilion\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920654@open-sports-cal
@@ -350,12 +382,13 @@ DTSTART:20270220T170000Z
 DTEND:20270220T200000Z
 SUMMARY:Butler Bulldogs @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nButler Bulldogs @ Villanova Wild
- cats\nFinneran Pavilion\, Villanova\, PA
+ cats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: FS1
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920661@open-sports-cal
@@ -363,12 +396,13 @@ DTSTART:20270224T000000Z
 DTEND:20270224T030000Z
 SUMMARY:Villanova Wildcats @ St. John's Red Storm
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ St. John's 
- Red Storm\nMadison Square Garden\, New York\, NY
+ Red Storm\nMadison Square Garden\, New York\, NY\nBroadcast: TNT
 LOCATION:Madison Square Garden\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920664@open-sports-cal
@@ -376,12 +410,13 @@ DTSTART:20270227T020000Z
 DTEND:20270227T050000Z
 SUMMARY:Villanova Wildcats @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Marquette G
- olden Eagles\nFiserv Forum\, Milwaukee\, WI
+ olden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: FS1
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920672@open-sports-cal
@@ -389,12 +424,14 @@ DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
 SUMMARY:DePaul Blue Demons @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Villanova W
- ildcats\nFinneran Pavilion\, Villanova\, PA
+ ildcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: Peacock (streaming
+ )
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920676@open-sports-cal
@@ -402,11 +439,12 @@ DTSTART:20270306T173000Z
 DTEND:20270306T203000Z
 SUMMARY:Georgetown Hoyas @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgetown Hoyas @ Villanova Wil
- dcats\nFinneran Pavilion\, Villanova\, PA
+ dcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: TNT
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 END:VCALENDAR

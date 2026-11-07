@@ -1,6 +1,10 @@
 const {test} = require('node:test');
 const assert = require('node:assert/strict');
 const cal = require('../docs/calendar-core.js');
+test('broadcast metadata unfolds and unescapes for display',()=>{
+ const [e]=cal.parseICS('BEGIN:VEVENT\nUID:tv\nDTSTART:20261107T180000Z\nSUMMARY:A @ B\nX-BROADCAST:ESPN / ABC\\,\n  local\nEND:VEVENT');
+ assert.equal(e.broadcast,'ESPN / ABC, local');
+});
 test('UTC dates convert across local midnight; TBD dates stay on their announced day', () => {
   const events = cal.parseICS('BEGIN:VCALENDAR\nBEGIN:VEVENT\nUID:a\nDTSTART:20261108T003000Z\nSUMMARY:Iowa @ Northwestern\nLOCATION:Ryan\\, Field\nEND:VEVENT\nBEGIN:VEVENT\nUID:b\nDTSTART;VALUE=DATE:20261114\nSUMMARY:Purdue @ Iowa\nEND:VEVENT\nEND:VCALENDAR');
   assert.equal(cal.dateKey(events[0], 'America/Chicago'), '2026-11-07');

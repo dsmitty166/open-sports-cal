@@ -12,12 +12,13 @@ DTSTART:20261103T230000Z
 DTEND:20261104T020000Z
 SUMMARY:Wofford Terriers @ Tennessee Volunteers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ Tennessee Vol
- unteers\nFood City Center\, Knoxville\, TN
+ unteers\nFood City Center\, Knoxville\, TN\nBroadcast: SEC Network
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913100@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Wofford Terriers @ North Carolina Tar Heels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ North Carolin
- a Tar Heels\nDean E. Smith Center\, Chapel Hill\, NC
+ a Tar Heels\nDean E. Smith Center\, Chapel Hill\, NC\nBroadcast: ACC Netwo
+ rk
 LOCATION:Dean E. Smith Center\, Chapel Hill\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926210@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:Allen Yellow Jackets @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAllen Yellow Jackets @ Wofford T
- erriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ erriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926211@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261111T230000Z
 DTEND:20261112T020000Z
 SUMMARY:Voorhees Tigers @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVoorhees Tigers @ Wofford Terrie
- rs\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ rs\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922230@open-sports-cal
@@ -64,12 +71,13 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Wofford Terriers @ Queens University Royals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ Queens Univer
- sity Royals\nCurry Arena\, Charlotte\, NC
+ sity Royals\nCurry Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Curry Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911377@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Wofford Terriers @ Charleston Southern Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ Charleston So
- uthern Buccaneers\nBuccaneer Fieldhouse\, Charleston\, SC
+ uthern Buccaneers\nBuccaneer Fieldhouse\, Charleston\, SC\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Buccaneer Fieldhouse\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925709@open-sports-cal
@@ -90,12 +100,14 @@ DTSTART:20261121T220000Z
 DTEND:20261122T010000Z
 SUMMARY:Winthrop Eagles @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWinthrop Eagles @ Wofford Terrie
- rs\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ rs\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922231@open-sports-cal
@@ -103,12 +115,14 @@ DTSTART:20261124T230000Z
 DTEND:20261125T020000Z
 SUMMARY:Queens University Royals @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nQueens University Royals @ Woffo
- rd Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ rd Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast
+ : ESPN+ (streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926212@open-sports-cal
@@ -116,12 +130,14 @@ DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:Wofford Terriers @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ Purdue Fort W
- ayne Mastodons\nMemorial Coliseum (IN)\, Fort Wayne\, IN
+ ayne Mastodons\nMemorial Coliseum (IN)\, Fort Wayne\, IN\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Memorial Coliseum (IN)\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925814@open-sports-cal
@@ -129,11 +145,12 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Wofford Terriers @ La Salle Explorers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ La Salle Expl
- orers\nJohn Glaser Arena\, Philadelphia\, PA
+ orers\nJohn Glaser Arena\, Philadelphia\, PA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:John Glaser Arena\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +159,13 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Wofford Terriers @ Mercer Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ Mercer Bears\
- nHawkins Arena\, Macon\, GA
+ nHawkins Arena\, Macon\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Hawkins Arena\, Macon\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921034@open-sports-cal
@@ -155,12 +173,14 @@ DTSTART:20261209T230000Z
 DTEND:20261210T020000Z
 SUMMARY:Georgia Southern Eagles @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Woffor
- d Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ d Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926213@open-sports-cal
@@ -168,12 +188,14 @@ DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
 SUMMARY:Virginia Lynchburg Dragons @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Lynchburg Dragons @ Wof
- ford Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ ford Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911829@open-sports-cal
@@ -181,12 +203,13 @@ DTSTART:20261219T220000Z
 DTEND:20261220T010000Z
 SUMMARY:Wofford Terriers @ Samford Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ Samford Bulld
- ogs\nPete Hanna Center\, Homewood\, AL
+ ogs\nPete Hanna Center\, Homewood\, AL\nBroadcast: ESPN+ (streaming)
 LOCATION:Pete Hanna Center\, Homewood\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911833@open-sports-cal
@@ -194,12 +217,14 @@ DTSTART:20261222T230000Z
 DTEND:20261223T020000Z
 SUMMARY:Western Carolina Catamounts @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Carolina Catamounts @ Wo
- fford Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ fford Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911838@open-sports-cal
@@ -207,12 +232,14 @@ DTSTART:20261230T230000Z
 DTEND:20261231T020000Z
 SUMMARY:Tennessee Tech Golden Eagles @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee Tech Golden Eagles @ W
- offord Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ offord Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911842@open-sports-cal
@@ -220,11 +247,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Wofford Terriers @ UNC Greensboro Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ UNC Greensbor
- o Spartans\nBodford Arena\, Greensboro\, NC
+ o Spartans\nBodford Arena\, Greensboro\, NC\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Bodford Arena\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +261,12 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Wofford Terriers @ The Citadel Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ The Citadel B
- ulldogs\nMcAlister Field House\, Charleston\, SC
+ ulldogs\nMcAlister Field House\, Charleston\, SC\nBroadcast: Broadcast not
+  announced
 LOCATION:McAlister Field House\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +275,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Mercer Bears @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercer Bears @ Wofford Terriers\
- nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast: Broadcast 
+ not announced
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +289,11 @@ DTSTART:20270113T230000Z
 DTEND:20270114T020000Z
 SUMMARY:Wofford Terriers @ VMI Keydets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ VMI Keydets\n
- Cameron Hall\, Lexington\, VA
+ Cameron Hall\, Lexington\, VA\nBroadcast: Broadcast not announced
 LOCATION:Cameron Hall\, Lexington\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,12 +302,14 @@ DTSTART:20270116T220000Z
 DTEND:20270117T010000Z
 SUMMARY:Chattanooga Mocs @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChattanooga Mocs @ Wofford Terri
- ers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ ers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911865@open-sports-cal
@@ -285,11 +317,11 @@ DTSTART:20270119T230000Z
 DTEND:20270120T020000Z
 SUMMARY:Wofford Terriers @ Furman Paladins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ Furman Paladi
- ns\nTimmons Arena\, Greenville\, SC
+ ns\nTimmons Arena\, Greenville\, SC\nBroadcast: Broadcast not announced
 LOCATION:Timmons Arena\, Greenville\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,12 +330,14 @@ DTSTART:20270121T230000Z
 DTEND:20270122T020000Z
 SUMMARY:The Citadel Bulldogs @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nThe Citadel Bulldogs @ Wofford T
- erriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ erriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911875@open-sports-cal
@@ -311,11 +345,12 @@ DTSTART:20270124T210000Z
 DTEND:20270125T000000Z
 SUMMARY:East Tennessee State Buccaneers @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Wofford Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ @ Wofford Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBr
+ oadcast: Broadcast not announced
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +359,12 @@ DTSTART:20270127T230000Z
 DTEND:20270128T020000Z
 SUMMARY:Wofford Terriers @ Western Carolina Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ Western Carol
- ina Catamounts\nRamsey Center\, Cullowhee\, NC
+ ina Catamounts\nRamsey Center\, Cullowhee\, NC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Ramsey Center\, Cullowhee\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,12 +373,14 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Samford Bulldogs @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSamford Bulldogs @ Wofford Terri
- ers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ ers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911893@open-sports-cal
@@ -350,11 +388,12 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:VMI Keydets @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVMI Keydets @ Wofford Terriers\n
- Jerry Richardson Indoor Stadium\, Spartanburg\, SC
+ Jerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +402,11 @@ DTSTART:20270207T000000Z
 DTEND:20270207T030000Z
 SUMMARY:Wofford Terriers @ Chattanooga Mocs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ Chattanooga M
- ocs\nMcKenzie Arena\, Chattanooga\, TN
+ ocs\nMcKenzie Arena\, Chattanooga\, TN\nBroadcast: Broadcast not announced
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +415,12 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Wofford Terriers @ East Tennessee State Buccaneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ East Tennesse
- e State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN
+ e State Buccaneers\nFreedom Hall (TN)\, Johnson City\, TN\nBroadcast: Broa
+ dcast not announced
 LOCATION:Freedom Hall (TN)\, Johnson City\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +429,12 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:UNC Greensboro Spartans @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNC Greensboro Spartans @ Woffor
- d Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ d Terriers\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast:
+  Broadcast not announced
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +443,12 @@ DTSTART:20270221T000000Z
 DTEND:20270221T030000Z
 SUMMARY:Furman Paladins @ Wofford Terriers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFurman Paladins @ Wofford Terrie
- rs\nJerry Richardson Indoor Stadium\, Spartanburg\, SC
+ rs\nJerry Richardson Indoor Stadium\, Spartanburg\, SC\nBroadcast: Broadca
+ st not announced
 LOCATION:Jerry Richardson Indoor Stadium\, Spartanburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +457,12 @@ DTSTART:20270225T003000Z
 DTEND:20270225T033000Z
 SUMMARY:Wofford Terriers @ Tennessee Tech Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWofford Terriers @ Tennessee Tec
- h Golden Eagles\nHooper Eblen Center\, Cookeville\, TN
+ h Golden Eagles\nHooper Eblen Center\, Cookeville\, TN\nBroadcast: Broadca
+ st not announced
 LOCATION:Hooper Eblen Center\, Cookeville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

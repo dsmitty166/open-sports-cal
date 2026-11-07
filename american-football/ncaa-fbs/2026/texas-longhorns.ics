@@ -12,12 +12,13 @@ DTSTART:20260905T193000Z
 DTEND:20260905T223000Z
 SUMMARY:Texas State Bobcats @ Texas Longhorns
 DESCRIPTION:NCAA FBS Football 2026\nTexas State Bobcats @ Texas Longhorns\n
- DKR-Texas Memorial Stadium\, Austin\, TX
+ DKR-Texas Memorial Stadium\, Austin\, TX\nBroadcast: ESPN
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856682@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T233000Z
 DTEND:20260913T023000Z
 SUMMARY:Ohio State Buckeyes @ Texas Longhorns
 DESCRIPTION:NCAA FBS Football 2026\nOhio State Buckeyes @ Texas Longhorns\n
- DKR-Texas Memorial Stadium\, Austin\, TX
+ DKR-Texas Memorial Stadium\, Austin\, TX\nBroadcast: ABC
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856693@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260920T000000Z
 DTEND:20260920T030000Z
 SUMMARY:UTSA Roadrunners @ Texas Longhorns
 DESCRIPTION:NCAA FBS Football 2026\nUTSA Roadrunners @ Texas Longhorns\nDKR
- -Texas Memorial Stadium\, Austin\, TX
+ -Texas Memorial Stadium\, Austin\, TX\nBroadcast: SECN+ (streaming)
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856704@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T160000Z
 DTEND:20260926T190000Z
 SUMMARY:Texas Longhorns @ Tennessee Volunteers
 DESCRIPTION:NCAA FBS Football 2026\nTexas Longhorns @ Tennessee Volunteers\
- nNeyland Stadium\, Knoxville\, TN
+ nNeyland Stadium\, Knoxville\, TN\nBroadcast: ABC
 LOCATION:Neyland Stadium\, Knoxville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856717@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261010T193000Z
 DTEND:20261010T223000Z
 SUMMARY:Texas Longhorns @ Oklahoma Sooners
 DESCRIPTION:NCAA FBS Football 2026\nTexas Longhorns @ Oklahoma Sooners\nCot
- ton Bowl\, Dallas\, TX\nNeutral site
+ ton Bowl\, Dallas\, TX\nNeutral site\nBroadcast: ABC
 LOCATION:Cotton Bowl\, Dallas\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856724@open-sports-cal
@@ -77,12 +82,13 @@ DTSTART:20261017T160000Z
 DTEND:20261017T190000Z
 SUMMARY:Florida Gators @ Texas Longhorns
 DESCRIPTION:NCAA FBS Football 2026\nFlorida Gators @ Texas Longhorns\nDKR-T
- exas Memorial Stadium\, Austin\, TX
+ exas Memorial Stadium\, Austin\, TX\nBroadcast: ABC
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856732@open-sports-cal
@@ -90,12 +96,13 @@ DTSTART:20261024T233000Z
 DTEND:20261025T023000Z
 SUMMARY:Ole Miss Rebels @ Texas Longhorns
 DESCRIPTION:NCAA FBS Football 2026\nOle Miss Rebels @ Texas Longhorns\nDKR-
- Texas Memorial Stadium\, Austin\, TX
+ Texas Memorial Stadium\, Austin\, TX\nBroadcast: ABC
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856737@open-sports-cal
@@ -103,12 +110,14 @@ DTSTART:20261031T233000Z
 DTEND:20261101T023000Z
 SUMMARY:Mississippi State Bulldogs @ Texas Longhorns
 DESCRIPTION:NCAA FBS Football 2026\nMississippi State Bulldogs @ Texas Long
- horns\nDKR-Texas Memorial Stadium\, Austin\, TX
+ horns\nDKR-Texas Memorial Stadium\, Austin\, TX\nBroadcast: ESPN / Disney+
+  (streaming)
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856743@open-sports-cal
@@ -116,12 +125,13 @@ DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:Texas Longhorns @ Missouri Tigers
 DESCRIPTION:NCAA FBS Football 2026\nTexas Longhorns @ Missouri Tigers\nMemo
- rial Stadium\, Columbia\, MO
+ rial Stadium\, Columbia\, MO\nBroadcast: ESPN / Disney+ (streaming)
 LOCATION:Memorial Stadium\, Columbia\, MO
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856885@open-sports-cal
@@ -129,11 +139,12 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Texas Longhorns @ LSU Tigers
 DESCRIPTION:NCAA FBS Football 2026\nTexas Longhorns @ LSU Tigers\nTiger Sta
- dium (LA)\, Baton Rouge\, LA\nStart time TBD
+ dium (LA)\, Baton Rouge\, LA\nStart time TBD\nBroadcast: ABC
 LOCATION:Tiger Stadium (LA)\, Baton Rouge\, LA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856755@open-sports-cal
@@ -141,11 +152,12 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Arkansas Razorbacks @ Texas Longhorns
 DESCRIPTION:NCAA FBS Football 2026\nArkansas Razorbacks @ Texas Longhorns\n
- DKR-Texas Memorial Stadium\, Austin\, TX\nStart time TBD
+ DKR-Texas Memorial Stadium\, Austin\, TX\nStart time TBD\nBroadcast: Broad
+ cast not announced
 LOCATION:DKR-Texas Memorial Stadium\, Austin\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856756@open-sports-cal
@@ -153,11 +165,12 @@ DTSTART:20261128T003000Z
 DTEND:20261128T033000Z
 SUMMARY:Texas Longhorns @ Texas A&M Aggies
 DESCRIPTION:NCAA FBS Football 2026\nTexas Longhorns @ Texas A&M Aggies\nKyl
- e Field\, College Station\, TX
+ e Field\, College Station\, TX\nBroadcast: ABC
 LOCATION:Kyle Field\, College Station\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 END:VCALENDAR

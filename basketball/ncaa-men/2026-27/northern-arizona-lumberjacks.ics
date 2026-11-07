@@ -12,12 +12,14 @@ DTSTART:20261104T030000Z
 DTEND:20261104T060000Z
 SUMMARY:Northern Arizona Lumberjacks @ UNLV Rebels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ U
- NLV Rebels\nThomas & Mack Center\, Las Vegas\, NV
+ NLV Rebels\nThomas & Mack Center\, Las Vegas\, NV\nBroadcast: MW+ (streami
+ ng)
 LOCATION:Thomas & Mack Center\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924895@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261107T230000Z
 DTEND:20261108T020000Z
 SUMMARY:Northern Arizona Lumberjacks @ New Mexico Lobos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ N
- ew Mexico Lobos\nThe Pit\, Albuquerque\, NM
+ ew Mexico Lobos\nThe Pit\, Albuquerque\, NM\nBroadcast: MW+ (streaming)
 LOCATION:The Pit\, Albuquerque\, NM
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909740@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261111T020000Z
 DTEND:20261111T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Arizona Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ A
- rizona Wildcats\nMcKale Center at ALKEME Arena\, Tucson\, AZ
+ rizona Wildcats\nMcKale Center at ALKEME Arena\, Tucson\, AZ\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:McKale Center at ALKEME Arena\, Tucson\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921803@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Northern Arizona Lumberjacks @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ K
- entucky Wildcats\nRupp Arena\, Lexington\, KY
+ entucky Wildcats\nRupp Arena\, Lexington\, KY\nBroadcast: SECN+ (streaming
+ )
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927867@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261118T010000Z
 DTEND:20261118T040000Z
 SUMMARY:Embry Riddle (AZ) Eagles @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEmbry Riddle (AZ) Eagles @ North
- ern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ ern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920125@open-sports-cal
@@ -77,12 +86,14 @@ DTSTART:20261122T000000Z
 DTEND:20261122T030000Z
 SUMMARY:Northern Arizona Lumberjacks @ Cal Poly Mustangs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ C
- al Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA
+ al Poly Mustangs\nMott Athletics Center\, San Luis Obispo\, CA\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Mott Athletics Center\, San Luis Obispo\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920139@open-sports-cal
@@ -90,12 +101,14 @@ DTSTART:20261128T220000Z
 DTEND:20261129T010000Z
 SUMMARY:Northern Arizona Lumberjacks @ Cal State Bakersfield Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ C
- al State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA
+ al State Bakersfield Roadrunners\nIcardo Center\, Bakersfield\, CA\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:Icardo Center\, Bakersfield\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913419@open-sports-cal
@@ -103,12 +116,14 @@ DTSTART:20261204T010000Z
 DTEND:20261204T040000Z
 SUMMARY:Montana Grizzlies @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMontana Grizzlies @ Northern Ari
- zona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ zona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913424@open-sports-cal
@@ -116,12 +131,14 @@ DTSTART:20261206T010000Z
 DTEND:20261206T040000Z
 SUMMARY:Montana State Bobcats @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMontana State Bobcats @ Northern
-  Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+  Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927868@open-sports-cal
@@ -130,11 +147,11 @@ DTEND:20261211T040000Z
 SUMMARY:Nelson American Indian Warriors @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNelson American Indian Warriors 
  @ Northern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, A
- Z
+ Z\nBroadcast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -143,12 +160,14 @@ DTSTART:20261214T180000Z
 DTEND:20261214T210000Z
 SUMMARY:Justice Lions @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJustice Lions @ Northern Arizona
-  Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+  Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadcast: ESPN
+ + (streaming)
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921770@open-sports-cal
@@ -156,12 +175,14 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Northern Arizona Lumberjacks @ West Virginia Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ W
- est Virginia Mountaineers\nHope Coliseum\, Morgantown\, WV
+ est Virginia Mountaineers\nHope Coliseum\, Morgantown\, WV\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Hope Coliseum\, Morgantown\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909781@open-sports-cal
@@ -169,11 +190,12 @@ DTSTART:20261221T230000Z
 DTEND:20261222T020000Z
 SUMMARY:Northern Arizona Lumberjacks @ Iowa State Cyclones
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ I
- owa State Cyclones\nHilton Coliseum\, Ames\, IA
+ owa State Cyclones\nHilton Coliseum\, Ames\, IA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Hilton Coliseum\, Ames\, IA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -182,11 +204,12 @@ DTSTART:20261229T010000Z
 DTEND:20261229T040000Z
 SUMMARY:Benedictine Mesa Redhawks @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBenedictine Mesa Redhawks @ Nort
- hern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ hern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBro
+ adcast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -195,12 +218,14 @@ DTSTART:20261231T210000Z
 DTEND:20270101T000000Z
 SUMMARY:Northern Arizona Lumberjacks @ Weber State Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ W
- eber State Wildcats\nDee Events Center\, Ogden\, UT
+ eber State Wildcats\nDee Events Center\, Ogden\, UT\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Dee Events Center\, Ogden\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913433@open-sports-cal
@@ -208,11 +233,12 @@ DTSTART:20270102T230000Z
 DTEND:20270103T020000Z
 SUMMARY:Northern Arizona Lumberjacks @ Idaho State Bengals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ I
- daho State Bengals\nReed Gym\, Pocatello\, ID
+ daho State Bengals\nReed Gym\, Pocatello\, ID\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Reed Gym\, Pocatello\, ID
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -221,11 +247,12 @@ DTSTART:20270108T020000Z
 DTEND:20270108T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Eastern Washington Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ E
- astern Washington Eagles\nReese Court\, Cheney\, WA
+ astern Washington Eagles\nReese Court\, Cheney\, WA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Reese Court\, Cheney\, WA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -234,11 +261,11 @@ DTSTART:20270109T220000Z
 DTEND:20270110T010000Z
 SUMMARY:Northern Arizona Lumberjacks @ Idaho Vandals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ I
- daho Vandals\nICCU Arena\, Moscow\, ID
+ daho Vandals\nICCU Arena\, Moscow\, ID\nBroadcast: Broadcast not announced
 LOCATION:ICCU Arena\, Moscow\, ID
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +274,12 @@ DTSTART:20270115T010000Z
 DTEND:20270115T040000Z
 SUMMARY:Utah Tech Trailblazers @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUtah Tech Trailblazers @ Norther
- n Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ n Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadc
+ ast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +288,12 @@ DTSTART:20270122T030000Z
 DTEND:20270122T060000Z
 SUMMARY:Northern Arizona Lumberjacks @ Portland State Vikings
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ P
- ortland State Vikings\nViking Pavilion\, Portland\, OR
+ ortland State Vikings\nViking Pavilion\, Portland\, OR\nBroadcast: Broadca
+ st not announced
 LOCATION:Viking Pavilion\, Portland\, OR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +302,12 @@ DTSTART:20270124T010000Z
 DTEND:20270124T040000Z
 SUMMARY:Northern Colorado Bears @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Colorado Bears @ Northe
- rn Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ rn Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroad
+ cast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +316,12 @@ DTSTART:20270129T020000Z
 DTEND:20270129T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Montana State Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ M
- ontana State Bobcats\nWorthington Arena\, Bozeman\, MT
+ ontana State Bobcats\nWorthington Arena\, Bozeman\, MT\nBroadcast: Broadca
+ st not announced
 LOCATION:Worthington Arena\, Bozeman\, MT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +330,12 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Northern Arizona Lumberjacks @ Montana Grizzlies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ M
- ontana Grizzlies\nDahlberg Arena\, Missoula\, MT
+ ontana Grizzlies\nDahlberg Arena\, Missoula\, MT\nBroadcast: Broadcast not
+  announced
 LOCATION:Dahlberg Arena\, Missoula\, MT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +344,12 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:Idaho State Bengals @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho State Bengals @ Northern A
- rizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ rizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadcast
+ : Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +358,12 @@ DTSTART:20270207T010000Z
 DTEND:20270207T040000Z
 SUMMARY:Weber State Wildcats @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWeber State Wildcats @ Northern 
- Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadcas
+ t: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +372,12 @@ DTSTART:20270209T010000Z
 DTEND:20270209T040000Z
 SUMMARY:Southern Utah Thunderbirds @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Utah Thunderbirds @ Nor
- thern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ thern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBr
+ oadcast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +386,12 @@ DTSTART:20270212T020000Z
 DTEND:20270212T050000Z
 SUMMARY:Northern Arizona Lumberjacks @ Utah Tech Trailblazers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ U
- tah Tech Trailblazers\nBurns Arena\, St. George\, UT
+ tah Tech Trailblazers\nBurns Arena\, St. George\, UT\nBroadcast: Broadcast
+  not announced
 LOCATION:Burns Arena\, St. George\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +400,12 @@ DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:Idaho Vandals @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIdaho Vandals @ Northern Arizona
-  Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+  Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadcast: Broa
+ dcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +414,12 @@ DTSTART:20270221T010000Z
 DTEND:20270221T040000Z
 SUMMARY:Eastern Washington Eagles @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Washington Eagles @ Nort
- hern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ hern Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBro
+ adcast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +428,12 @@ DTSTART:20270223T010000Z
 DTEND:20270223T040000Z
 SUMMARY:Portland State Vikings @ Northern Arizona Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPortland State Vikings @ Norther
- n Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ
+ n Arizona Lumberjacks\nJ. Lawrence Walkup Skydome\, Flagstaff\, AZ\nBroadc
+ ast: Broadcast not announced
 LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -403,11 +442,12 @@ DTSTART:20270228T013000Z
 DTEND:20270228T043000Z
 SUMMARY:Northern Arizona Lumberjacks @ Southern Utah Thunderbirds
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ S
- outhern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT
+ outhern Utah Thunderbirds\nAmerica First Event Center\, Cedar City\, UT\nB
+ roadcast: Broadcast not announced
 LOCATION:America First Event Center\, Cedar City\, UT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -416,11 +456,12 @@ DTSTART:20270302T010000Z
 DTEND:20270302T040000Z
 SUMMARY:Northern Arizona Lumberjacks @ Northern Colorado Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Arizona Lumberjacks @ N
- orthern Colorado Bears\nBank of Colorado Arena\, Greeley\, CO
+ orthern Colorado Bears\nBank of Colorado Arena\, Greeley\, CO\nBroadcast: 
+ Broadcast not announced
 LOCATION:Bank of Colorado Arena\, Greeley\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 END:VCALENDAR

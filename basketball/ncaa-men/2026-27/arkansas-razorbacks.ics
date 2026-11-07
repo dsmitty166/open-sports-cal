@@ -12,12 +12,14 @@ DTSTART:20261104T010000Z
 DTEND:20261104T040000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas-Pine Bluff Golden Lions
-  @ Arkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+  @ Arkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: S
+ ECN+ (streaming)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920424@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Arkansas Razorbacks @ Virginia Cavaliers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Virginia C
- avaliers\nCapital One Arena\, Washington\, DC\nNeutral site
+ avaliers\nCapital One Arena\, Washington\, DC\nNeutral site\nBroadcast: ES
+ PN
 LOCATION:Capital One Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928824@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261112T010000Z
 DTEND:20261112T040000Z
 SUMMARY:Robert Morris Colonials @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRobert Morris Colonials @ Arkans
- as Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ as Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SECN+ (str
+ eaming)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917916@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261114T010000Z
 DTEND:20261114T040000Z
 SUMMARY:Central Arkansas Bears @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Arkansas Bears @ Arkansa
- s Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ s Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SECN+ (stre
+ aming)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401916289@open-sports-cal
@@ -64,12 +72,14 @@ DTSTART:20261118T003000Z
 DTEND:20261118T033000Z
 SUMMARY:Arkansas Razorbacks @ Indiana Hoosiers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Indiana Ho
- osiers\nMadison Square Garden\, New York\, NY\nNeutral site
+ osiers\nMadison Square Garden\, New York\, NY\nNeutral site\nBroadcast: Pe
+ acock (streaming)
 LOCATION:Madison Square Garden\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925740@open-sports-cal
@@ -77,12 +87,14 @@ DTSTART:20261121T010000Z
 DTEND:20261121T040000Z
 SUMMARY:Mississippi Valley State Delta Devils @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi Valley State Delta D
- evils @ Arkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ evils @ Arkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadca
+ st: SECN+ (streaming)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925757@open-sports-cal
@@ -90,12 +102,14 @@ DTSTART:20261126T213000Z
 DTEND:20261127T003000Z
 SUMMARY:Arkansas Razorbacks @ Michigan State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Michigan S
- tate Spartans\nLittle Caesars Arena\, Detroit\, MI\nNeutral site
+ tate Spartans\nLittle Caesars Arena\, Detroit\, MI\nNeutral site\nBroadcas
+ t: CBS
 LOCATION:Little Caesars Arena\, Detroit\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBS
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401912712@open-sports-cal
@@ -103,12 +117,13 @@ DTSTART:20261202T003000Z
 DTEND:20261202T033000Z
 SUMMARY:Arkansas Razorbacks @ North Carolina Tar Heels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ North Caro
- lina Tar Heels\nDean E. Smith Center\, Chapel Hill\, NC
+ lina Tar Heels\nDean E. Smith Center\, Chapel Hill\, NC\nBroadcast: ESPN
 LOCATION:Dean E. Smith Center\, Chapel Hill\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929374@open-sports-cal
@@ -117,12 +132,13 @@ DTEND:20261206T000000Z
 SUMMARY:Oral Roberts Golden Eagles @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOral Roberts Golden Eagles @ Ark
  ansas Razorbacks\nSimmons Bank Arena\, North Little Rock\, AR\nNeutral sit
- e
+ e\nBroadcast: SECN+ (streaming)
 LOCATION:Simmons Bank Arena\, North Little Rock\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928815@open-sports-cal
@@ -130,12 +146,14 @@ DTSTART:20261209T020000Z
 DTEND:20261209T050000Z
 SUMMARY:Oakland Golden Grizzlies @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOakland Golden Grizzlies @ Arkan
- sas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ sas Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SEC Netwo
+ rk / SECN+ (streaming)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network / SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929360@open-sports-cal
@@ -143,12 +161,14 @@ DTSTART:20261213T220000Z
 DTEND:20261214T010000Z
 SUMMARY:UT Arlington Mavericks @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Arkansa
- s Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ s Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SECN+ (stre
+ aming)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909747@open-sports-cal
@@ -156,12 +176,14 @@ DTSTART:20261219T233000Z
 DTEND:20261220T023000Z
 SUMMARY:Arkansas Razorbacks @ Arizona Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Arizona Wi
- ldcats\nMortgage Matchup Center\, Phoenix\, AZ\nNeutral site
+ ldcats\nMortgage Matchup Center\, Phoenix\, AZ\nNeutral site\nBroadcast: E
+ SPN
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Phoenix
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911063@open-sports-cal
@@ -169,12 +191,14 @@ DTSTART:20261223T000000Z
 DTEND:20261223T030000Z
 SUMMARY:Central Michigan Chippewas @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Michigan Chippewas @ Ark
- ansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ ansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SECN+ (
+ streaming)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925111@open-sports-cal
@@ -182,12 +206,14 @@ DTSTART:20261230T010000Z
 DTEND:20261230T040000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Rio Grande Valley Vaqueros @ 
- Arkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ Arkansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SECN
+ + (streaming)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902303@open-sports-cal
@@ -195,11 +221,12 @@ DTSTART:20270102T210000Z
 DTEND:20270103T000000Z
 SUMMARY:Missouri Tigers @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMissouri Tigers @ Arkansas Razor
- backs\nBud Walton Arena\, Fayetteville\, AR
+ backs\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +235,14 @@ DTSTART:20270107T020000Z
 DTEND:20270107T050000Z
 SUMMARY:Arkansas Razorbacks @ South Carolina Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ South Caro
- lina Gamecocks\nColonial Life Arena\, Columbia\, SC
+ lina Gamecocks\nColonial Life Arena\, Columbia\, SC\nBroadcast: SEC Networ
+ k
 LOCATION:Colonial Life Arena\, Columbia\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902319@open-sports-cal
@@ -221,12 +250,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Alabama Crimson Tide @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ Arkansas 
- Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: ESPN2
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902332@open-sports-cal
@@ -234,11 +264,12 @@ DTSTART:20270113T000000Z
 DTEND:20270113T030000Z
 SUMMARY:Arkansas Razorbacks @ Texas A&M Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Texas A&M 
- Aggies\nReed Arena\, College Station\, TX
+ Aggies\nReed Arena\, College Station\, TX\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +278,12 @@ DTSTART:20270116T170000Z
 DTEND:20270116T200000Z
 SUMMARY:Arkansas Razorbacks @ Tennessee Volunteers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Tennessee 
- Volunteers\nFood City Center\, Knoxville\, TN
+ Volunteers\nFood City Center\, Knoxville\, TN\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Food City Center\, Knoxville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -260,12 +292,13 @@ DTSTART:20270120T020000Z
 DTEND:20270120T050000Z
 SUMMARY:Georgia Bulldogs @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Bulldogs @ Arkansas Razo
- rbacks\nBud Walton Arena\, Fayetteville\, AR
+ rbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: ESPNU
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902356@open-sports-cal
@@ -273,11 +306,11 @@ DTSTART:20270123T230000Z
 DTEND:20270124T020000Z
 SUMMARY:Arkansas Razorbacks @ Texas Longhorns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Texas Long
- horns\nMoody Center\, Austin\, TX
+ horns\nMoody Center\, Austin\, TX\nBroadcast: Broadcast not announced
 LOCATION:Moody Center\, Austin\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -286,12 +319,13 @@ DTSTART:20270127T020000Z
 DTEND:20270127T050000Z
 SUMMARY:LSU Tigers @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLSU Tigers @ Arkansas Razorbacks
- \nBud Walton Arena\, Fayetteville\, AR
+ \nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SEC Network
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902365@open-sports-cal
@@ -299,12 +333,14 @@ DTSTART:20270131T013000Z
 DTEND:20270131T043000Z
 SUMMARY:Mississippi State Bulldogs @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMississippi State Bulldogs @ Ark
- ansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ ansas Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SEC Net
+ work
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902385@open-sports-cal
@@ -312,11 +348,13 @@ DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Arkansas Razorbacks @ Vanderbilt Commodores
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Vanderbilt
-  Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nStart time TBD
+  Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nStart time TBD\nBro
+ adcast: ESPN
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902389@open-sports-cal
@@ -324,12 +362,13 @@ DTSTART:20270210T020000Z
 DTEND:20270210T050000Z
 SUMMARY:Ole Miss Rebels @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOle Miss Rebels @ Arkansas Razor
- backs\nBud Walton Arena\, Fayetteville\, AR
+ backs\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SEC Network
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902392@open-sports-cal
@@ -337,12 +376,13 @@ DTSTART:20270214T010000Z
 DTEND:20270214T040000Z
 SUMMARY:Arkansas Razorbacks @ Alabama Crimson Tide
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Alabama Cr
- imson Tide\nColeman Coliseum\, Tuscaloosa\, AL
+ imson Tide\nColeman Coliseum\, Tuscaloosa\, AL\nBroadcast: ESPN2
 LOCATION:Coleman Coliseum\, Tuscaloosa\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902400@open-sports-cal
@@ -350,11 +390,12 @@ DTSTART:20270217T020000Z
 DTEND:20270217T050000Z
 SUMMARY:Auburn Tigers @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAuburn Tigers @ Arkansas Razorba
- cks\nBud Walton Arena\, Fayetteville\, AR
+ cks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +404,12 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Arkansas Razorbacks @ Kentucky Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Kentucky W
- ildcats\nRupp Arena\, Lexington\, KY\nStart time TBD
+ ildcats\nRupp Arena\, Lexington\, KY\nStart time TBD\nBroadcast: ESPN
 LOCATION:Rupp Arena\, Lexington\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902415@open-sports-cal
@@ -375,11 +417,11 @@ DTSTART:20270224T000000Z
 DTEND:20270224T030000Z
 SUMMARY:Arkansas Razorbacks @ Missouri Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ Missouri T
- igers\nMizzou Arena\, Columbia\, MO
+ igers\nMizzou Arena\, Columbia\, MO\nBroadcast: Broadcast not announced
 LOCATION:Mizzou Arena\, Columbia\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -388,12 +430,13 @@ DTSTART:20270227T200000Z
 DTEND:20270227T230000Z
 SUMMARY:Florida Gators @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gators @ Arkansas Razorb
- acks\nBud Walton Arena\, Fayetteville\, AR
+ acks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: ABC
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902431@open-sports-cal
@@ -401,12 +444,13 @@ DTSTART:20270303T020000Z
 DTEND:20270303T050000Z
 SUMMARY:Arkansas Razorbacks @ LSU Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas Razorbacks @ LSU Tigers
- \nPete Maravich Assembly Center\, Baton Rouge\, LA
+ \nPete Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: ESPNU
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401902439@open-sports-cal
@@ -414,11 +458,12 @@ DTSTART:20270306T170000Z
 DTEND:20270306T200000Z
 SUMMARY:Oklahoma Sooners @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOklahoma Sooners @ Arkansas Razo
- rbacks\nBud Walton Arena\, Fayetteville\, AR
+ rbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

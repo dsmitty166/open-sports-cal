@@ -12,12 +12,13 @@ DTSTART:20260905T163000Z
 DTEND:20260905T193000Z
 SUMMARY:Miami (OH) RedHawks @ Pittsburgh Panthers
 DESCRIPTION:NCAA FBS Football 2026\nMiami (OH) RedHawks @ Pittsburgh Panthe
- rs\nAcrisure Stadium\, Pittsburgh\, PA
+ rs\nAcrisure Stadium\, Pittsburgh\, PA\nBroadcast: CW
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866417@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20260912T170000Z
 DTEND:20260912T200000Z
 SUMMARY:Holy Cross Crusaders @ Miami (OH) RedHawks
 DESCRIPTION:NCAA FBS Football 2026\nHoly Cross Crusaders @ Miami (OH) RedHa
- wks\nYager Stadium\, Oxford\, OH
+ wks\nYager Stadium\, Oxford\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Yager Stadium\, Oxford\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856797@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20260919T193000Z
 DTEND:20260919T223000Z
 SUMMARY:Miami (OH) RedHawks @ Cincinnati Bearcats
 DESCRIPTION:NCAA FBS Football 2026\nMiami (OH) RedHawks @ Cincinnati Bearca
- ts\nTQL Stadium\, Cincinnati\, OH
+ ts\nTQL Stadium\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:TQL Stadium\, Cincinnati\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401861970@open-sports-cal
@@ -51,12 +54,13 @@ DTSTART:20260926T193000Z
 DTEND:20260926T223000Z
 SUMMARY:UConn Huskies @ Miami (OH) RedHawks
 DESCRIPTION:NCAA FBS Football 2026\nUConn Huskies @ Miami (OH) RedHawks\nYa
- ger Stadium\, Oxford\, OH
+ ger Stadium\, Oxford\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Yager Stadium\, Oxford\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866477@open-sports-cal
@@ -64,12 +68,13 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Bowling Green Falcons @ Miami (OH) RedHawks
 DESCRIPTION:NCAA FBS Football 2026\nBowling Green Falcons @ Miami (OH) RedH
- awks\nYager Stadium\, Oxford\, OH
+ awks\nYager Stadium\, Oxford\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Yager Stadium\, Oxford\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866440@open-sports-cal
@@ -77,12 +82,14 @@ DTSTART:20261010T180000Z
 DTEND:20261010T210000Z
 SUMMARY:Miami (OH) RedHawks @ Massachusetts Minutemen
 DESCRIPTION:NCAA FBS Football 2026\nMiami (OH) RedHawks @ Massachusetts Min
- utemen\nWarren McGuirk Alumni Stadium\, Amherst\, MA
+ utemen\nWarren McGuirk Alumni Stadium\, Amherst\, MA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866478@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261017T193000Z
 DTEND:20261017T223000Z
 SUMMARY:Akron Zips @ Miami (OH) RedHawks
 DESCRIPTION:NCAA FBS Football 2026\nAkron Zips @ Miami (OH) RedHawks\nYager
-  Stadium\, Oxford\, OH
+  Stadium\, Oxford\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Yager Stadium\, Oxford\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866476@open-sports-cal
@@ -103,12 +111,14 @@ DTSTART:20261024T170000Z
 DTEND:20261024T200000Z
 SUMMARY:Miami (OH) RedHawks @ Central Michigan Chippewas
 DESCRIPTION:NCAA FBS Football 2026\nMiami (OH) RedHawks @ Central Michigan 
- Chippewas\nKelly/Shorts Stadium\, Mount Pleasant\, MI
+ Chippewas\nKelly/Shorts Stadium\, Mount Pleasant\, MI\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Kelly/Shorts Stadium\, Mount Pleasant\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866454@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261104T010000Z
 DTEND:20261104T040000Z
 SUMMARY:Buffalo Bulls @ Miami (OH) RedHawks
 DESCRIPTION:NCAA FBS Football 2026\nBuffalo Bulls @ Miami (OH) RedHawks\nYa
- ger Stadium\, Oxford\, OH
+ ger Stadium\, Oxford\, OH\nBroadcast: ESPN
 LOCATION:Yager Stadium\, Oxford\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866460@open-sports-cal
@@ -129,12 +140,13 @@ DTSTART:20261111T010000Z
 DTEND:20261111T040000Z
 SUMMARY:Ohio Bobcats @ Miami (OH) RedHawks
 DESCRIPTION:NCAA FBS Football 2026\nOhio Bobcats @ Miami (OH) RedHawks\nYag
- er Stadium\, Oxford\, OH
+ er Stadium\, Oxford\, OH\nBroadcast: ESPN2
 LOCATION:Yager Stadium\, Oxford\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866466@open-sports-cal
@@ -142,11 +154,12 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Miami (OH) RedHawks @ Kent State Golden Flashes
 DESCRIPTION:NCAA FBS Football 2026\nMiami (OH) RedHawks @ Kent State Golden
-  Flashes\nZoeller Field at Dix Stadium\, Kent\, OH
+  Flashes\nZoeller Field at Dix Stadium\, Kent\, OH\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Zoeller Field at Dix Stadium\, Kent\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,10 +168,11 @@ DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Miami (OH) RedHawks @ Western Michigan Broncos
 DESCRIPTION:NCAA FBS Football 2026\nMiami (OH) RedHawks @ Western Michigan 
- Broncos\nWaldo Stadium\, Kalamazoo\, MI\nStart time TBD
+ Broncos\nWaldo Stadium\, Kalamazoo\, MI\nStart time TBD\nBroadcast: Broadc
+ ast not announced
 LOCATION:Waldo Stadium\, Kalamazoo\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

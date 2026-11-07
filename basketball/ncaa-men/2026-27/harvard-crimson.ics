@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:MIT Engineers @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMIT Engineers @ Harvard Crimson\
- nLavietes Pavilion\, Cambridge\, MA
+ nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920355@open-sports-cal
@@ -25,11 +26,12 @@ DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Harvard Crimson @ Chicago Maroons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Chicago Maroon
- s\nRatner Athletics Center\, Chicago\, IL
+ s\nRatner Athletics Center\, Chicago\, IL\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Ratner Athletics Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -38,12 +40,13 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Harvard Crimson @ Northeastern Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Northeastern H
- uskies\nCabot Center\, Boston\, MA
+ uskies\nCabot Center\, Boston\, MA\nBroadcast: FloSports (streaming)
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911210@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Harvard Crimson @ George Washington Revolutionaries
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ George Washing
- ton Revolutionaries\nCharles E. Smith Center\, Washington\, DC
+ ton Revolutionaries\nCharles E. Smith Center\, Washington\, DC\nBroadcast:
+  ESPN+ (streaming)
 LOCATION:Charles E. Smith Center\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401912210@open-sports-cal
@@ -64,12 +69,13 @@ DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Harvard Crimson @ American University Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ American Unive
- rsity Eagles\nBender Arena\, Washington\, DC
+ rsity Eagles\nBender Arena\, Washington\, DC\nBroadcast: ESPN+ (streaming)
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909555@open-sports-cal
@@ -77,12 +83,13 @@ DTSTART:20261119T010000Z
 DTEND:20261119T040000Z
 SUMMARY:Boston College Eagles @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston College Eagles @ Harvard 
- Crimson\nLavietes Pavilion\, Cambridge\, MA
+ Crimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920357@open-sports-cal
@@ -90,12 +97,13 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Harvard Crimson @ Holy Cross Crusaders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Holy Cross Cru
- saders\nHart Center Arena\, Worcester\, MA
+ saders\nHart Center Arena\, Worcester\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920358@open-sports-cal
@@ -103,12 +111,14 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Boston University Terriers @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ Har
- vard Crimson\nLavietes Pavilion\, Cambridge\, MA
+ vard Crimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911202@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:Fordham Rams @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFordham Rams @ Harvard Crimson\n
- Lavietes Pavilion\, Cambridge\, MA
+ Lavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920359@open-sports-cal
@@ -129,12 +140,13 @@ DTSTART:20261202T230000Z
 DTEND:20261203T020000Z
 SUMMARY:Harvard Crimson @ New Hampshire Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ New Hampshire 
- Wildcats\nLundholm Gymnasium\, Durham\, NH
+ Wildcats\nLundholm Gymnasium\, Durham\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Lundholm Gymnasium\, Durham\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909569@open-sports-cal
@@ -142,12 +154,13 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:Harvard Crimson @ Duke Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Duke Blue Devi
- ls\nCameron Indoor Stadium\, Durham\, NC
+ ls\nCameron Indoor Stadium\, Durham\, NC\nBroadcast: ESPN2
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920360@open-sports-cal
@@ -155,12 +168,14 @@ DTSTART:20261220T210000Z
 DTEND:20261221T000000Z
 SUMMARY:Northern Kentucky Norse @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorthern Kentucky Norse @ Harvar
- d Crimson\nLavietes Pavilion\, Cambridge\, MA
+ d Crimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917585@open-sports-cal
@@ -168,12 +183,14 @@ DTSTART:20261223T020000Z
 DTEND:20261223T050000Z
 SUMMARY:Harvard Crimson @ Saint Mary's Gaels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Saint Mary's G
- aels\nUniversity Credit Union Pavilion\, Moraga\, CA
+ aels\nUniversity Credit Union Pavilion\, Moraga\, CA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:University Credit Union Pavilion\, Moraga\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920361@open-sports-cal
@@ -181,12 +198,13 @@ DTSTART:20261229T190000Z
 DTEND:20261229T220000Z
 SUMMARY:Harvard Crimson @ Bryant Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Bryant Bulldog
- s\nChace Athletic Center\, Smithfield\, RI
+ s\nChace Athletic Center\, Smithfield\, RI\nBroadcast: ESPN+ (streaming)
 LOCATION:Chace Athletic Center\, Smithfield\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920244@open-sports-cal
@@ -194,11 +212,11 @@ DTSTART:20270104T233000Z
 DTEND:20270105T023000Z
 SUMMARY:Harvard Crimson @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Dartmouth Big 
- Green\nLeede Arena\, Hanover\, NH
+ Green\nLeede Arena\, Hanover\, NH\nBroadcast: Broadcast not announced
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +225,11 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Columbia Lions @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nColumbia Lions @ Harvard Crimson
- \nLavietes Pavilion\, Cambridge\, MA
+ \nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +238,12 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Harvard Crimson @ Pennsylvania Quakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Pennsylvania Q
- uakers\nThe Palestra\, Philadelphia\, PA
+ uakers\nThe Palestra\, Philadelphia\, PA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +252,11 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:Harvard Crimson @ Princeton Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Princeton Tige
- rs\nJadwin Gymnasium\, Princeton\, NJ
+ rs\nJadwin Gymnasium\, Princeton\, NJ\nBroadcast: Broadcast not announced
 LOCATION:Jadwin Gymnasium\, Princeton\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,12 +265,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Harvard Crimson @ Cornell Big Red
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Cornell Big Re
- d\nNewman Arena\, Ithaca\, NY
+ d\nNewman Arena\, Ithaca\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Newman Arena\, Ithaca\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920365@open-sports-cal
@@ -259,11 +279,11 @@ DTSTART:20270130T000000Z
 DTEND:20270130T030000Z
 SUMMARY:Yale Bulldogs @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nYale Bulldogs @ Harvard Crimson\
- nLavietes Pavilion\, Cambridge\, MA
+ nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +292,11 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Brown Bears @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBrown Bears @ Harvard Crimson\nL
- avietes Pavilion\, Cambridge\, MA
+ avietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +305,12 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Dartmouth Big Green @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDartmouth Big Green @ Harvard Cr
- imson\nLavietes Pavilion\, Cambridge\, MA
+ imson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +319,12 @@ DTSTART:20270212T223000Z
 DTEND:20270213T013000Z
 SUMMARY:Harvard Crimson @ Yale Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Yale Bulldogs\
- nJohn J. Lee Amphitheater\, New Haven\, CT
+ nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: Broadcast not annou
+ nced
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +333,12 @@ DTSTART:20270213T230000Z
 DTEND:20270214T020000Z
 SUMMARY:Harvard Crimson @ Brown Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Brown Bears\nP
- izzitola Sports Center\, Providence\, RI
+ izzitola Sports Center\, Providence\, RI\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Pizzitola Sports Center\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,12 +347,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Cornell Big Red @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCornell Big Red @ Harvard Crimso
- n\nLavietes Pavilion\, Cambridge\, MA
+ n\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: ESPN+ (streaming)
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911420@open-sports-cal
@@ -337,11 +361,12 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:Pennsylvania Quakers @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPennsylvania Quakers @ Harvard C
- rimson\nLavietes Pavilion\, Cambridge\, MA
+ rimson\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +375,11 @@ DTSTART:20270227T230000Z
 DTEND:20270228T020000Z
 SUMMARY:Princeton Tigers @ Harvard Crimson
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPrinceton Tigers @ Harvard Crims
- on\nLavietes Pavilion\, Cambridge\, MA
+ on\nLavietes Pavilion\, Cambridge\, MA\nBroadcast: Broadcast not announced
 LOCATION:Lavietes Pavilion\, Cambridge\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +388,11 @@ DTSTART:20270305T230000Z
 DTEND:20270306T020000Z
 SUMMARY:Harvard Crimson @ Columbia Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHarvard Crimson @ Columbia Lions
- \nLevien Gymnasium\, New York\, NY
+ \nLevien Gymnasium\, New York\, NY\nBroadcast: Broadcast not announced
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

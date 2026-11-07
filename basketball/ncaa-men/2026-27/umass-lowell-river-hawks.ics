@@ -12,12 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Rivier Raiders @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRivier Raiders @ UMass Lowell Ri
- ver Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ ver Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921679@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:UMass Lowell River Hawks @ Merrimack Warriors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Merri
- mack Warriors\nLawler Arena\, North Andover\, MA
+ mack Warriors\nLawler Arena\, North Andover\, MA\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Lawler Arena\, North Andover\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921687@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261108T180000Z
 DTEND:20261108T210000Z
 SUMMARY:Marist Red Foxes @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarist Red Foxes @ UMass Lowell 
- River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911012@open-sports-cal
@@ -51,11 +57,12 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:UMass Lowell River Hawks @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Massa
- chusetts Minutemen\nMullins Center\, Amherst\, MA
+ chusetts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -64,12 +71,14 @@ DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:Saint Peter's Peacocks @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Peter's Peacocks @ UMass L
- owell River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ owell River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921748@open-sports-cal
@@ -77,12 +86,14 @@ DTSTART:20261122T190000Z
 DTEND:20261122T220000Z
 SUMMARY:UMass Lowell River Hawks @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Cinci
- nnati Bearcats\nFifth Third Arena\, Cincinnati\, OH
+ nnati Bearcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921416@open-sports-cal
@@ -90,11 +101,12 @@ DTSTART:20261127T180000Z
 DTEND:20261127T210000Z
 SUMMARY:Hampton Pirates @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHampton Pirates @ UMass Lowell R
- iver Hawks\nBender Arena\, Washington\, DC\nNeutral site
+ iver Hawks\nBender Arena\, Washington\, DC\nNeutral site\nBroadcast: Broad
+ cast not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +115,14 @@ DTSTART:20261128T210000Z
 DTEND:20261129T000000Z
 SUMMARY:UMass Lowell River Hawks @ American University Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Ameri
- can University Eagles\nBender Arena\, Washington\, DC
+ can University Eagles\nBender Arena\, Washington\, DC\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921415@open-sports-cal
@@ -116,11 +130,12 @@ DTSTART:20261129T180000Z
 DTEND:20261129T210000Z
 SUMMARY:Radford Highlanders @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRadford Highlanders @ UMass Lowe
- ll River Hawks\nBender Arena\, Washington\, DC\nNeutral site
+ ll River Hawks\nBender Arena\, Washington\, DC\nNeutral site\nBroadcast: B
+ roadcast not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +144,14 @@ DTSTART:20261202T233000Z
 DTEND:20261203T023000Z
 SUMMARY:UMass Lowell River Hawks @ Georgetown Hoyas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Georg
- etown Hoyas\nCapital One Arena\, Washington\, DC
+ etown Hoyas\nCapital One Arena\, Washington\, DC\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Capital One Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909557@open-sports-cal
@@ -142,12 +159,13 @@ DTSTART:20261206T000000Z
 DTEND:20261206T030000Z
 SUMMARY:UMass Lowell River Hawks @ Boston College Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Bosto
- n College Eagles\nConte Forum\, Chestnut Hill\, MA
+ n College Eagles\nConte Forum\, Chestnut Hill\, MA\nBroadcast: ACC Network
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923326@open-sports-cal
@@ -155,12 +173,14 @@ DTSTART:20261209T160000Z
 DTEND:20261209T190000Z
 SUMMARY:UMass Lowell River Hawks @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Sacre
- d Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ d Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: ESPN
+ + (streaming)
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919853@open-sports-cal
@@ -168,12 +188,14 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Stonehill Skyhawks @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ UMass Lowel
- l River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ l River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923450@open-sports-cal
@@ -181,12 +203,14 @@ DTSTART:20261216T230000Z
 DTEND:20261217T020000Z
 SUMMARY:Fisher Eagles @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFisher Eagles @ UMass Lowell Riv
- er Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ er Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923404@open-sports-cal
@@ -194,12 +218,14 @@ DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:Boston University Terriers @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBoston University Terriers @ UMa
- ss Lowell River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ ss Lowell River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401923451@open-sports-cal
@@ -207,12 +233,14 @@ DTSTART:20261229T190000Z
 DTEND:20261229T220000Z
 SUMMARY:Emerson Lions @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEmerson Lions @ UMass Lowell Riv
- er Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ er Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401913273@open-sports-cal
@@ -220,11 +248,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:New Hampshire Wildcats @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ UMass L
- owell River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ owell River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcas
+ t: Broadcast not announced
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +262,12 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:UMass Lowell River Hawks @ Vermont Catamounts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Vermo
- nt Catamounts\nPatrick Gymnasium\, Burlington\, VT
+ nt Catamounts\nPatrick Gymnasium\, Burlington\, VT\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Patrick Gymnasium\, Burlington\, VT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +276,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Bryant Bulldogs @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBryant Bulldogs @ UMass Lowell R
- iver Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ iver Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: Broa
+ dcast not announced
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +290,12 @@ DTSTART:20270114T230000Z
 DTEND:20270115T020000Z
 SUMMARY:Binghamton Bearcats @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBinghamton Bearcats @ UMass Lowe
- ll River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ ll River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: 
+ Broadcast not announced
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +304,12 @@ DTSTART:20270118T190000Z
 DTEND:20270118T220000Z
 SUMMARY:UMass Lowell River Hawks @ Maine Black Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Maine
-  Black Bears\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME
+  Black Bears\nSkip Chappelle Court in Memorial Gymnasium\, Orono\, ME\nBro
+ adcast: Broadcast not announced
 LOCATION:Skip Chappelle Court in Memorial Gymnasium\, Orono\, ME
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +318,12 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:UMass Lowell River Hawks @ UMBC Retrievers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ UMBC 
- Retrievers\nChesapeake Employers Insurance Arena\, Baltimore\, MD
+ Retrievers\nChesapeake Employers Insurance Arena\, Baltimore\, MD\nBroadca
+ st: Broadcast not announced
 LOCATION:Chesapeake Employers Insurance Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +332,12 @@ DTSTART:20270128T230000Z
 DTEND:20270129T020000Z
 SUMMARY:UAlbany Great Danes @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUAlbany Great Danes @ UMass Lowe
- ll River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ ll River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: 
+ Broadcast not announced
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +346,12 @@ DTSTART:20270130T210000Z
 DTEND:20270131T000000Z
 SUMMARY:UMass Lowell River Hawks @ NJIT Highlanders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ NJIT 
- Highlanders\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ
+ Highlanders\nJoel & Diane Bloom Wellness and Events Center\, Newark\, NJ\n
+ Broadcast: Broadcast not announced
 LOCATION:Joel & Diane Bloom Wellness and Events Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +360,12 @@ DTSTART:20270204T230000Z
 DTEND:20270205T020000Z
 SUMMARY:Maine Black Bears @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaine Black Bears @ UMass Lowell
-  River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+  River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: Br
+ oadcast not announced
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +374,12 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:UMass Lowell River Hawks @ New Hampshire Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ New H
- ampshire Wildcats\nLundholm Gymnasium\, Durham\, NH
+ ampshire Wildcats\nLundholm Gymnasium\, Durham\, NH\nBroadcast: Broadcast 
+ not announced
 LOCATION:Lundholm Gymnasium\, Durham\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +388,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:UMass Lowell River Hawks @ Binghamton Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Bingh
- amton Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY
+ amton Bearcats\nEvents Center (Binghamton)\, Binghamton\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:Events Center (Binghamton)\, Binghamton\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +402,12 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:NJIT Highlanders @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNJIT Highlanders @ UMass Lowell 
- River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +416,12 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:UMBC Retrievers @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMBC Retrievers @ UMass Lowell R
- iver Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ iver Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: Broa
+ dcast not announced
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +430,12 @@ DTSTART:20270225T230000Z
 DTEND:20270226T020000Z
 SUMMARY:UMass Lowell River Hawks @ Bryant Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ Bryan
- t Bulldogs\nChace Athletic Center\, Smithfield\, RI
+ t Bulldogs\nChace Athletic Center\, Smithfield\, RI\nBroadcast: Broadcast 
+ not announced
 LOCATION:Chace Athletic Center\, Smithfield\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +444,12 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:Vermont Catamounts @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont Catamounts @ UMass Lowel
- l River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ l River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: B
+ roadcast not announced
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +458,12 @@ DTSTART:20270302T233000Z
 DTEND:20270303T023000Z
 SUMMARY:UMass Lowell River Hawks @ UAlbany Great Danes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMass Lowell River Hawks @ UAlba
- ny Great Danes\nBroadview Center\, Albany\, NY
+ ny Great Danes\nBroadview Center\, Albany\, NY\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Broadview Center\, Albany\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

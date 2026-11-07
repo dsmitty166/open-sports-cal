@@ -12,13 +12,15 @@ DTSTART:20261101T170000Z
 DTEND:20261101T200000Z
 SUMMARY:Notre Dame Fighting Irish @ Villanova Wildcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Vi
- llanova Wildcats\nPalazzo dello Sport\, Rome\, Italy\nNeutral site
+ llanova Wildcats\nPalazzo dello Sport\, Rome\, Italy\nNeutral site\nBroadc
+ ast: FS1
 LOCATION:Palazzo dello Sport\, Rome\, Italy
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Europe/Rome
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919954@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Stonehill Skyhawks @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStonehill Skyhawks @ Notre Dam
- e Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ e Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACCNX (st
+ reaming)
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923182@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Detroit Mercy Titans @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDetroit Mercy Titans @ Notre D
- ame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ ame Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACCNX (
+ streaming)
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923183@open-sports-cal
@@ -55,11 +61,12 @@ DTEND:20261114T210000Z
 SUMMARY:DePaul Blue Demons @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDePaul Blue Demons @ Notre Dam
  e Fighting Irish\nColonial Hall\, White Sulphur Springs\, WV\nNeutral site
+ \nBroadcast: Broadcast not announced
 LOCATION:Colonial Hall\, White Sulphur Springs\, WV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -68,13 +75,15 @@ DTSTART:20261119T000000Z
 DTEND:20261119T030000Z
 SUMMARY:Southern Jaguars @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Notre Dame 
- Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACCNX (stre
+ aming)
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401921022@open-sports-cal
@@ -82,13 +91,15 @@ DTSTART:20261124T180000Z
 DTEND:20261124T210000Z
 SUMMARY:Davidson Wildcats @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDavidson Wildcats @ Notre Dame
-  Fighting Irish\nImperial Arena\, Nassau\, Bahamas\nNeutral site
+  Fighting Irish\nImperial Arena\, Nassau\, Bahamas\nNeutral site\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Imperial Arena\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923185@open-sports-cal
@@ -96,13 +107,15 @@ DTSTART:20261126T163000Z
 DTEND:20261126T193000Z
 SUMMARY:West Virginia Mountaineers @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWest Virginia Mountaineers @ N
- otre Dame Fighting Irish\nImperial Arena\, Nassau\, Bahamas\nNeutral site
+ otre Dame Fighting Irish\nImperial Arena\, Nassau\, Bahamas\nNeutral site\
+ nBroadcast: ESPN2
 LOCATION:Imperial Arena\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918834@open-sports-cal
@@ -110,13 +123,15 @@ DTSTART:20261204T020000Z
 DTEND:20261204T050000Z
 SUMMARY:Notre Dame Fighting Irish @ Vanderbilt Commodores
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Va
- nderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN
+ nderbilt Commodores\nMemorial Gymnasium (TN)\, Nashville\, TN\nBroadcast: 
+ ESPN
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918256@open-sports-cal
@@ -124,13 +139,15 @@ DTSTART:20261206T170000Z
 DTEND:20261206T200000Z
 SUMMARY:Florida State Seminoles @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida State Seminoles @ Notr
- e Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ e Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACC 
+ Network
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401911744@open-sports-cal
@@ -138,13 +155,14 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:UConn Huskies @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUConn Huskies @ Notre Dame Fig
- hting Irish\nPurcell Pavilion\, South Bend\, IN
+ hting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ESPN
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401923186@open-sports-cal
@@ -152,13 +170,15 @@ DTSTART:20261213T170000Z
 DTEND:20261213T200000Z
 SUMMARY:Bowling Green Falcons @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Notre 
- Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACC Ne
+ twork
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915937@open-sports-cal
@@ -166,13 +186,15 @@ DTSTART:20261220T040000Z
 DTEND:20261220T070000Z
 SUMMARY:USC Trojans @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUSC Trojans @ Notre Dame Fight
- ing Irish\nMichelob ULTRA Arena\, Las Vegas\, NV\nNeutral site
+ ing Irish\nMichelob ULTRA Arena\, Las Vegas\, NV\nNeutral site\nBroadcast:
+  ESPN
 LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915939@open-sports-cal
@@ -181,13 +203,14 @@ DTEND:20261221T033000Z
 SUMMARY:Notre Dame Fighting Irish @ South Carolina Gamecocks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ So
  uth Carolina Gamecocks\nMichelob ULTRA Arena\, Las Vegas\, NV\nNeutral sit
- e
+ e\nBroadcast: ESPN
 LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918269@open-sports-cal
@@ -195,13 +218,15 @@ DTSTART:20261229T000000Z
 DTEND:20261229T030000Z
 SUMMARY:Notre Dame Fighting Irish @ Pittsburgh Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Pi
- ttsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ ttsburgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: AC
+ CNX (streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918270@open-sports-cal
@@ -209,13 +234,15 @@ DTSTART:20261231T220000Z
 DTEND:20270101T010000Z
 SUMMARY:California Golden Bears @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCalifornia Golden Bears @ Notr
- e Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ e Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACCN
+ X (streaming)
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918282@open-sports-cal
@@ -223,13 +250,14 @@ DTSTART:20270103T230000Z
 DTEND:20270104T020000Z
 SUMMARY:Notre Dame Fighting Irish @ Miami Hurricanes
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Mi
- ami Hurricanes\nWatsco Center\, Coral Gables\, FL
+ ami Hurricanes\nWatsco Center\, Coral Gables\, FL\nBroadcast: ACC Network
 LOCATION:Watsco Center\, Coral Gables\, FL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918290@open-sports-cal
@@ -237,12 +265,13 @@ DTSTART:20270107T230000Z
 DTEND:20270108T020000Z
 SUMMARY:Notre Dame Fighting Irish @ Virginia Tech Hokies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Vi
- rginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA
+ rginia Tech Hokies\nCassell Coliseum\, Blacksburg\, VA\nBroadcast: Broadca
+ st not announced
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -251,13 +280,14 @@ DTSTART:20270110T170000Z
 DTEND:20270110T200000Z
 SUMMARY:Duke Blue Devils @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDuke Blue Devils @ Notre Dame 
- Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ABC
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ABC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918323@open-sports-cal
@@ -265,12 +295,13 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Georgia Tech Yellow Jackets @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGeorgia Tech Yellow Jackets @ 
- Notre Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ Notre Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: 
+ Broadcast not announced
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -279,12 +310,13 @@ DTSTART:20270117T200000Z
 DTEND:20270117T230000Z
 SUMMARY:Notre Dame Fighting Irish @ Syracuse Orange
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Sy
- racuse Orange\nJMA Wireless Dome\, Syracuse\, NY
+ racuse Orange\nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: Broadcast not
+  announced
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -293,13 +325,14 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Notre Dame Fighting Irish @ Louisville Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Lo
- uisville Cardinals\nKFC Yum! Center\, Louisville\, KY
+ uisville Cardinals\nKFC Yum! Center\, Louisville\, KY\nBroadcast: ESPN
 LOCATION:KFC Yum! Center\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918354@open-sports-cal
@@ -307,13 +340,15 @@ DTSTART:20270128T230000Z
 DTEND:20270129T020000Z
 SUMMARY:Notre Dame Fighting Irish @ North Carolina Tar Heels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ No
- rth Carolina Tar Heels\nCarmichael Arena\, Chapel Hill\, NC
+ rth Carolina Tar Heels\nCarmichael Arena\, Chapel Hill\, NC\nBroadcast: ES
+ PN
 LOCATION:Carmichael Arena\, Chapel Hill\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918359@open-sports-cal
@@ -321,13 +356,14 @@ DTSTART:20270131T180000Z
 DTEND:20270131T210000Z
 SUMMARY:Stanford Cardinal @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStanford Cardinal @ Notre Dame
-  Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+  Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: CW
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CW
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918368@open-sports-cal
@@ -335,13 +371,14 @@ DTSTART:20270205T010000Z
 DTEND:20270205T040000Z
 SUMMARY:SMU Mustangs @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSMU Mustangs @ Notre Dame Figh
- ting Irish\nPurcell Pavilion\, South Bend\, IN
+ ting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACC Network
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918375@open-sports-cal
@@ -349,12 +386,13 @@ DTSTART:20270207T170000Z
 DTEND:20270207T200000Z
 SUMMARY:Notre Dame Fighting Irish @ Clemson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Cl
- emson Tigers\nLittlejohn Coliseum\, Clemson\, SC
+ emson Tigers\nLittlejohn Coliseum\, Clemson\, SC\nBroadcast: Broadcast not
+  announced
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,13 +401,14 @@ DTSTART:20270211T230000Z
 DTEND:20270212T020000Z
 SUMMARY:Virginia Cavaliers @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Cavaliers @ Notre Dam
- e Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ e Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ESPN2
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918390@open-sports-cal
@@ -377,12 +416,13 @@ DTSTART:20270214T190000Z
 DTEND:20270214T220000Z
 SUMMARY:Wake Forest Demon Deacons @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWake Forest Demon Deacons @ No
- tre Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ tre Dame Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: Br
+ oadcast not announced
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,13 +431,14 @@ DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:Notre Dame Fighting Irish @ NC State Wolfpack
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ NC
-  State Wolfpack\nReynolds Coliseum\, Raleigh\, NC
+  State Wolfpack\nReynolds Coliseum\, Raleigh\, NC\nBroadcast: ESPN2
 LOCATION:Reynolds Coliseum\, Raleigh\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918070@open-sports-cal
@@ -405,12 +446,13 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:Notre Dame Fighting Irish @ Boston College Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNotre Dame Fighting Irish @ Bo
- ston College Eagles\nConte Forum\, Chestnut Hill\, MA
+ ston College Eagles\nConte Forum\, Chestnut Hill\, MA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -419,12 +461,13 @@ DTSTART:20270228T170000Z
 DTEND:20270228T200000Z
 SUMMARY:Louisville Cardinals @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLouisville Cardinals @ Notre D
- ame Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ ame Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ESPN
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 END:VCALENDAR

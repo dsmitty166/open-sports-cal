@@ -12,12 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Mount St. Mary's Mountaineers @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMount St. Mary's Mountaineers @ 
- Xavier Musketeers\nCintas Center\, Cincinnati\, OH
+ Xavier Musketeers\nCintas Center\, Cincinnati\, OH\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909542@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Eastern Michigan Eagles @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Michigan Eagles @ Xavier
-  Musketeers\nCintas Center\, Cincinnati\, OH
+  Musketeers\nCintas Center\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909543@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Detroit Mercy Titans @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDetroit Mercy Titans @ Xavier Mu
- sketeers\nCintas Center\, Cincinnati\, OH
+ sketeers\nCintas Center\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906794@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20261114T020000Z
 DTEND:20261114T050000Z
 SUMMARY:Xavier Musketeers @ Mississippi State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Mississippi 
- State Bulldogs\nColonial Hall\, White Sulphur Springs\, WV\nNeutral site
+ State Bulldogs\nColonial Hall\, White Sulphur Springs\, WV\nNeutral site\n
+ Broadcast: FS1
 LOCATION:Colonial Hall\, White Sulphur Springs\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909544@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Cleveland State Vikings @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCleveland State Vikings @ Xavier
-  Musketeers\nCintas Center\, Cincinnati\, OH
+  Musketeers\nCintas Center\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909545@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261121T003000Z
 DTEND:20261121T033000Z
 SUMMARY:Iowa Hawkeyes @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nIowa Hawkeyes @ Xavier Musketeer
- s\nCintas Center\, Cincinnati\, OH
+ s\nCintas Center\, Cincinnati\, OH\nBroadcast: TNT
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920809@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261125T193000Z
 DTEND:20261125T223000Z
 SUMMARY:Texas A&M Aggies @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M Aggies @ Xavier Musket
- eers\nImperial Arena\, Nassau\, Bahamas\nNeutral site
+ eers\nImperial Arena\, Nassau\, Bahamas\nNeutral site\nBroadcast: ESPN2
 LOCATION:Imperial Arena\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920429@open-sports-cal
@@ -103,12 +112,13 @@ DTSTART:20261127T160000Z
 DTEND:20261127T190000Z
 SUMMARY:Virginia Cavaliers @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVirginia Cavaliers @ Xavier Musk
- eteers\nImperial Arena\, Nassau\, Bahamas\nNeutral site
+ eteers\nImperial Arena\, Nassau\, Bahamas\nNeutral site\nBroadcast: ESPN2
 LOCATION:Imperial Arena\, Nassau\, Bahamas
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Nassau
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909546@open-sports-cal
@@ -116,12 +126,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Texas Southern Tigers @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Southern Tigers @ Xavier M
- usketeers\nCintas Center\, Cincinnati\, OH
+ usketeers\nCintas Center\, Cincinnati\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909547@open-sports-cal
@@ -129,12 +140,13 @@ DTSTART:20261206T010000Z
 DTEND:20261206T040000Z
 SUMMARY:Xavier Musketeers @ Cincinnati Bearcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Cincinnati B
- earcats\nFifth Third Arena\, Cincinnati\, OH
+ earcats\nFifth Third Arena\, Cincinnati\, OH\nBroadcast: ESPN2
 LOCATION:Fifth Third Arena\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909548@open-sports-cal
@@ -142,12 +154,14 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ Xa
- vier Musketeers\nCintas Center\, Cincinnati\, OH
+ vier Musketeers\nCintas Center\, Cincinnati\, OH\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909549@open-sports-cal
@@ -155,12 +169,13 @@ DTSTART:20261212T230000Z
 DTEND:20261213T020000Z
 SUMMARY:Florida International Panthers @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida International Panthers @
-  Xavier Musketeers\nCintas Center\, Cincinnati\, OH
+  Xavier Musketeers\nCintas Center\, Cincinnati\, OH\nBroadcast: truTV
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920573@open-sports-cal
@@ -168,12 +183,13 @@ DTSTART:20261219T233000Z
 DTEND:20261220T023000Z
 SUMMARY:Xavier Musketeers @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Marquette Go
- lden Eagles\nFiserv Forum\, Milwaukee\, WI
+ lden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: Peacock (streaming)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920574@open-sports-cal
@@ -181,12 +197,13 @@ DTSTART:20261223T013000Z
 DTEND:20261223T043000Z
 SUMMARY:Creighton Bluejays @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCreighton Bluejays @ Xavier Musk
- eteers\nCintas Center\, Cincinnati\, OH
+ eteers\nCintas Center\, Cincinnati\, OH\nBroadcast: FS1
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920579@open-sports-cal
@@ -194,12 +211,13 @@ DTSTART:20261231T010000Z
 DTEND:20261231T040000Z
 SUMMARY:Xavier Musketeers @ Georgetown Hoyas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Georgetown H
- oyas\nCapital One Arena\, Washington\, DC
+ oyas\nCapital One Arena\, Washington\, DC\nBroadcast: FS1
 LOCATION:Capital One Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920585@open-sports-cal
@@ -207,12 +225,13 @@ DTSTART:20270102T170000Z
 DTEND:20270102T200000Z
 SUMMARY:Seton Hall Pirates @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSeton Hall Pirates @ Xavier Musk
- eteers\nCintas Center\, Cincinnati\, OH
+ eteers\nCintas Center\, Cincinnati\, OH\nBroadcast: FS1
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920593@open-sports-cal
@@ -220,12 +239,13 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:Villanova Wildcats @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVillanova Wildcats @ Xavier Musk
- eteers\nCintas Center\, Cincinnati\, OH
+ eteers\nCintas Center\, Cincinnati\, OH\nBroadcast: truTV
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920598@open-sports-cal
@@ -233,12 +253,14 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:Xavier Musketeers @ Providence Friars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Providence F
- riars\nAmica Mutual Pavilion\, Providence\, RI
+ riars\nAmica Mutual Pavilion\, Providence\, RI\nBroadcast: Peacock (stream
+ ing)
 LOCATION:Amica Mutual Pavilion\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920599@open-sports-cal
@@ -246,12 +268,13 @@ DTSTART:20270113T010000Z
 DTEND:20270113T040000Z
 SUMMARY:Butler Bulldogs @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nButler Bulldogs @ Xavier Muskete
- ers\nCintas Center\, Cincinnati\, OH
+ ers\nCintas Center\, Cincinnati\, OH\nBroadcast: FS1
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920608@open-sports-cal
@@ -259,11 +282,12 @@ DTSTART:20270116T170000Z
 DTEND:20270116T200000Z
 SUMMARY:Xavier Musketeers @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ UConn Huskie
- s\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT
+ s\nM&T Bank Center at Gampel Pavilion\, Storrs\, CT\nBroadcast: Broadcast 
+ not announced
 LOCATION:M&T Bank Center at Gampel Pavilion\, Storrs\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,12 +296,13 @@ DTSTART:20270119T233000Z
 DTEND:20270120T023000Z
 SUMMARY:Xavier Musketeers @ Villanova Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Villanova Wi
- ldcats\nFinneran Pavilion\, Villanova\, PA
+ ldcats\nFinneran Pavilion\, Villanova\, PA\nBroadcast: FS1
 LOCATION:Finneran Pavilion\, Villanova\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920616@open-sports-cal
@@ -285,12 +310,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Marquette Golden Eagles @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarquette Golden Eagles @ Xavier
-  Musketeers\nCintas Center\, Cincinnati\, OH
+  Musketeers\nCintas Center\, Cincinnati\, OH\nBroadcast: TNT
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920620@open-sports-cal
@@ -298,12 +324,13 @@ DTSTART:20270127T010000Z
 DTEND:20270127T040000Z
 SUMMARY:St. John's Red Storm @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSt. John's Red Storm @ Xavier Mu
- sketeers\nCintas Center\, Cincinnati\, OH
+ sketeers\nCintas Center\, Cincinnati\, OH\nBroadcast: Peacock (streaming)
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920628@open-sports-cal
@@ -311,12 +338,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Xavier Musketeers @ DePaul Blue Demons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ DePaul Blue 
- Demons\nWintrust Arena\, Chicago\, IL
+ Demons\nWintrust Arena\, Chicago\, IL\nBroadcast: FS1
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920636@open-sports-cal
@@ -324,12 +352,13 @@ DTSTART:20270206T203000Z
 DTEND:20270206T233000Z
 SUMMARY:Xavier Musketeers @ Butler Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Butler Bulld
- ogs\nHinkle Fieldhouse\, Indianapolis\, IN
+ ogs\nHinkle Fieldhouse\, Indianapolis\, IN\nBroadcast: TNT
 LOCATION:Hinkle Fieldhouse\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920639@open-sports-cal
@@ -337,12 +366,13 @@ DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Georgetown Hoyas @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgetown Hoyas @ Xavier Musket
- eers\nCintas Center\, Cincinnati\, OH
+ eers\nCintas Center\, Cincinnati\, OH\nBroadcast: TNT
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920646@open-sports-cal
@@ -350,12 +380,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Xavier Musketeers @ St. John's Red Storm
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ St. John's R
- ed Storm\nMadison Square Garden\, New York\, NY
+ ed Storm\nMadison Square Garden\, New York\, NY\nBroadcast: NBC
 LOCATION:Madison Square Garden\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NBC
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920656@open-sports-cal
@@ -363,12 +394,13 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:DePaul Blue Demons @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDePaul Blue Demons @ Xavier Musk
- eteers\nCintas Center\, Cincinnati\, OH
+ eteers\nCintas Center\, Cincinnati\, OH\nBroadcast: TNT
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920663@open-sports-cal
@@ -376,12 +408,14 @@ DTSTART:20270225T013000Z
 DTEND:20270225T043000Z
 SUMMARY:Xavier Musketeers @ Creighton Bluejays
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Creighton Bl
- uejays\nCHI Health Center Omaha\, Omaha\, NE
+ uejays\nCHI Health Center Omaha\, Omaha\, NE\nBroadcast: Peacock (streamin
+ g)
 LOCATION:CHI Health Center Omaha\, Omaha\, NE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920668@open-sports-cal
@@ -389,12 +423,13 @@ DTSTART:20270228T170000Z
 DTEND:20270228T200000Z
 SUMMARY:Xavier Musketeers @ Seton Hall Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nXavier Musketeers @ Seton Hall P
- irates\nPrudential Center\, Newark\, NJ
+ irates\nPrudential Center\, Newark\, NJ\nBroadcast: FS1
 LOCATION:Prudential Center\, Newark\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920673@open-sports-cal
@@ -402,12 +437,13 @@ DTSTART:20270304T000000Z
 DTEND:20270304T030000Z
 SUMMARY:Providence Friars @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nProvidence Friars @ Xavier Muske
- teers\nCintas Center\, Cincinnati\, OH
+ teers\nCintas Center\, Cincinnati\, OH\nBroadcast: FS1
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920674@open-sports-cal
@@ -415,11 +451,12 @@ DTSTART:20270306T193000Z
 DTEND:20270306T223000Z
 SUMMARY:UConn Huskies @ Xavier Musketeers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUConn Huskies @ Xavier Musketeer
- s\nCintas Center\, Cincinnati\, OH
+ s\nCintas Center\, Cincinnati\, OH\nBroadcast: TNT
 LOCATION:Cintas Center\, Cincinnati\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:TNT
 END:VEVENT
 END:VCALENDAR

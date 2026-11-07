@@ -13,13 +13,15 @@ DTSTART:20261105T000000Z
 DTEND:20261105T030000Z
 SUMMARY:Wiley Wildcats @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWiley Wildcats @ Prairie View 
- A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX
+ A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX\nBroadcas
+ t: SWAC TV (streaming)
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SWAC TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918465@open-sports-cal
@@ -27,13 +29,14 @@ DTSTART:20261113T010000Z
 DTEND:20261113T040000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Baylor Bears
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Baylor Bears\nFoster Pavilion\, Waco\, TX
+  @ Baylor Bears\nFoster Pavilion\, Waco\, TX\nBroadcast: ESPN+ (streaming)
 LOCATION:Foster Pavilion\, Waco\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927470@open-sports-cal
@@ -41,12 +44,13 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Texas College Steers @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTexas College Steers @ Prairie
-  View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX
+  View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX\nBr
+ oadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -57,12 +61,12 @@ SUMMARY:College of Biblical Studies Ambassadors @ Prairie View A&M Lady Pan
  thers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCollege of Biblical Studies Am
  bassadors @ Prairie View A&M Lady Panthers\nWilliam J. Nicks Building\, Pr
- airie View\, TX
+ airie View\, TX\nBroadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -71,13 +75,15 @@ DTSTART:20261124T010000Z
 DTEND:20261124T040000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Houston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Houston Cougars\nFertitta Center\, Houston\, TX
+  @ Houston Cougars\nFertitta Center\, Houston\, TX\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Fertitta Center\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927472@open-sports-cal
@@ -85,12 +91,13 @@ DTSTART:20261201T000000Z
 DTEND:20261201T030000Z
 SUMMARY:UNT Dallas Trailblazers @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNT Dallas Trailblazers @ Prai
- rie View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX
+ rie View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX\
+ nBroadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -99,12 +106,13 @@ DTSTART:20261205T000000Z
 DTEND:20261205T030000Z
 SUMMARY:Hofstra Pride @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHofstra Pride @ Prairie View A
- &M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX
+ &M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX\nBroadcast
+ : Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -113,13 +121,15 @@ DTSTART:20261207T170000Z
 DTEND:20261207T200000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Lamar Cardinals
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX
+  @ Lamar Cardinals\nMontagne Center\, Beaumont\, TX\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Montagne Center\, Beaumont\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927474@open-sports-cal
@@ -128,12 +138,12 @@ DTEND:20261213T230000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Texas State Bobcats
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
   @ Texas State Bobcats\nStrahan Arena at the University Events Center\, Sa
- n Marcos\, TX
+ n Marcos\, TX\nBroadcast: Broadcast not announced
 LOCATION:Strahan Arena at the University Events Center\, San Marcos\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +152,13 @@ DTSTART:20261220T200000Z
 DTEND:20261220T230000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Rice Owls
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Rice Owls\nTudor Fieldhouse\, Houston\, TX
+  @ Rice Owls\nTudor Fieldhouse\, Houston\, TX\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Tudor Fieldhouse\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -156,12 +167,13 @@ DTSTART:20261222T180000Z
 DTEND:20261222T210000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Texas A&M Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Texas A&M Aggies\nReed Arena\, College Station\, TX
+  @ Texas A&M Aggies\nReed Arena\, College Station\, TX\nBroadcast: Broadca
+ st not announced
 LOCATION:Reed Arena\, College Station\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -170,12 +182,13 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:Grambling Lady Tigers @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrambling Lady Tigers @ Prairi
- e View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX
+ e View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX\nB
+ roadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -184,12 +197,13 @@ DTSTART:20270104T220000Z
 DTEND:20270105T010000Z
 SUMMARY:Southern Jaguars @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Jaguars @ Prairie Vie
- w A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX
+ w A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX\nBroadc
+ ast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -199,11 +213,12 @@ DTEND:20270108T023000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Arkansas-Pine Bluff Golden Lions
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
   @ Arkansas-Pine Bluff Golden Lions\nH.O. Clemmons Arena\, Pine Bluff\, AR
+ \nBroadcast: Broadcast not announced
 LOCATION:H.O. Clemmons Arena\, Pine Bluff\, AR
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -214,12 +229,12 @@ SUMMARY:Prairie View A&M Lady Panthers @ Mississippi Valley State Devilette
  s
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
   @ Mississippi Valley State Devilettes\nR.W. Harrison HPER Complex\, Itta 
- Bena\, MS
+ Bena\, MS\nBroadcast: Broadcast not announced
 LOCATION:R.W. Harrison HPER Complex\, Itta Bena\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -229,11 +244,12 @@ DTEND:20270115T030000Z
 SUMMARY:Alcorn State Lady Braves @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAlcorn State Lady Braves @ Pra
  irie View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX
+ \nBroadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -243,12 +259,12 @@ DTEND:20270117T010000Z
 SUMMARY:Jackson State Lady Tigers @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nJackson State Lady Tigers @ Pr
  airie View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, T
- X
+ X\nBroadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -257,12 +273,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Alabama A&M Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Alabama A&M Bulldogs\nEvent Center\, Huntsville\, AL
+  @ Alabama A&M Bulldogs\nEvent Center\, Huntsville\, AL\nBroadcast: Broadc
+ ast not announced
 LOCATION:Event Center\, Huntsville\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -271,12 +288,13 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Alabama State Lady Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Alabama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL
+  @ Alabama State Lady Hornets\nDunn-Oliver Acadome\, Montgomery\, AL\nBroa
+ dcast: Broadcast not announced
 LOCATION:Dunn-Oliver Acadome\, Montgomery\, AL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -285,12 +303,13 @@ DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Texas Southern Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Texas Southern Tigers\nH&PE Arena\, Houston\, TX
+  @ Texas Southern Tigers\nH&PE Arena\, Houston\, TX\nBroadcast: Broadcast 
+ not announced
 LOCATION:H&PE Arena\, Houston\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -299,12 +318,13 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Florida A&M Rattlers @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFlorida A&M Rattlers @ Prairie
-  View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX
+  View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX\nBr
+ oadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -314,11 +334,12 @@ DTEND:20270206T210000Z
 SUMMARY:Bethune-Cookman Wildcats @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBethune-Cookman Wildcats @ Pra
  irie View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie View\, TX
+ \nBroadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -328,12 +349,12 @@ DTEND:20270212T030000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Grambling Lady Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
   @ Grambling Lady Tigers\nFredrick C. Hobdy Assembly Center\, Grambling\, 
- LA
+ LA\nBroadcast: Broadcast not announced
 LOCATION:Fredrick C. Hobdy Assembly Center\, Grambling\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -342,12 +363,13 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Southern Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Southern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA
+  @ Southern Jaguars\nF.G. Clark Activity Center\, Baton Rouge\, LA\nBroadc
+ ast: Broadcast not announced
 LOCATION:F.G. Clark Activity Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -357,12 +379,12 @@ DTEND:20270219T030000Z
 SUMMARY:Arkansas-Pine Bluff Golden Lions @ Prairie View A&M Lady Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArkansas-Pine Bluff Golden Lio
  ns @ Prairie View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairie V
- iew\, TX
+ iew\, TX\nBroadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -373,12 +395,12 @@ SUMMARY:Mississippi Valley State Devilettes @ Prairie View A&M Lady Panther
  s
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMississippi Valley State Devil
  ettes @ Prairie View A&M Lady Panthers\nWilliam J. Nicks Building\, Prairi
- e View\, TX
+ e View\, TX\nBroadcast: Broadcast not announced
 LOCATION:William J. Nicks Building\, Prairie View\, TX
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -388,12 +410,12 @@ DTEND:20270226T020000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Jackson State Lady Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
   @ Jackson State Lady Tigers\nLee E. Williams Athletics and Assembly Cente
- r\, Jackson\, MS
+ r\, Jackson\, MS\nBroadcast: Broadcast not announced
 LOCATION:Lee E. Williams Athletics and Assembly Center\, Jackson\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -402,12 +424,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Prairie View A&M Lady Panthers @ Alcorn State Lady Braves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPrairie View A&M Lady Panthers
-  @ Alcorn State Lady Braves\nDavey L. Whitney Complex\, Lorman\, MS
+  @ Alcorn State Lady Braves\nDavey L. Whitney Complex\, Lorman\, MS\nBroad
+ cast: Broadcast not announced
 LOCATION:Davey L. Whitney Complex\, Lorman\, MS
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

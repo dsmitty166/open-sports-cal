@@ -12,12 +12,13 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Mercyhurst Lakers @ Marquette Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Marquette Go
- lden Eagles\nFiserv Forum\, Milwaukee\, WI
+ lden Eagles\nFiserv Forum\, Milwaukee\, WI\nBroadcast: ESPN+ (streaming)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919823@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Mercyhurst Lakers @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Notre Dame F
- ighting Irish\nPurcell Pavilion\, South Bend\, IN
+ ighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACCNX (strea
+ ming)
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919824@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261107T210000Z
 DTEND:20261108T000000Z
 SUMMARY:Penn State Shenango Nittany Lions @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPenn State Shenango Nittany Lion
- s @ Mercyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ s @ Mercyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: 
+ NEC Front Row
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917176@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261112T233000Z
 DTEND:20261113T023000Z
 SUMMARY:Mercyhurst Lakers @ Penn State Nittany Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Penn State N
- ittany Lions\nBryce Jordan Center\, University Park\, PA
+ ittany Lions\nBryce Jordan Center\, University Park\, PA\nBroadcast: B1G+ 
+ (streaming)
 LOCATION:Bryce Jordan Center\, University Park\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919825@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261115T210000Z
 DTEND:20261116T000000Z
 SUMMARY:Mercyhurst Lakers @ James Madison Dukes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ James Madiso
- n Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA
+ n Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Atlantic Union Bank Center\, Harrisonburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919827@open-sports-cal
@@ -77,12 +86,14 @@ DTSTART:20261120T223000Z
 DTEND:20261121T013000Z
 SUMMARY:Mercyhurst Lakers @ Canisius Golden Griffins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Canisius Gol
- den Griffins\nKoessler Athletic Center\, Buffalo\, NY
+ den Griffins\nKoessler Athletic Center\, Buffalo\, NY\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919828@open-sports-cal
@@ -90,11 +101,12 @@ DTSTART:20261121T183000Z
 DTEND:20261121T213000Z
 SUMMARY:Mercyhurst Lakers @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Western Illi
- nois Leathernecks\nKoessler Athletic Center\, Buffalo\, NY\nNeutral site
+ nois Leathernecks\nKoessler Athletic Center\, Buffalo\, NY\nNeutral site\n
+ Broadcast: Broadcast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,11 +115,12 @@ DTSTART:20261122T203000Z
 DTEND:20261122T233000Z
 SUMMARY:UAlbany Great Danes @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUAlbany Great Danes @ Mercyhurst
-  Lakers\nKoessler Athletic Center\, Buffalo\, NY\nNeutral site
+  Lakers\nKoessler Athletic Center\, Buffalo\, NY\nNeutral site\nBroadcast:
+  Broadcast not announced
 LOCATION:Koessler Athletic Center\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,11 +129,12 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:SUNY Fredonia Blue Devils @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSUNY Fredonia Blue Devils @ Merc
- yhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ yhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +143,14 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Mercyhurst Lakers @ West Virginia Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ West Virgini
- a Mountaineers\nHope Coliseum\, Morgantown\, WV
+ a Mountaineers\nHope Coliseum\, Morgantown\, WV\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Hope Coliseum\, Morgantown\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919831@open-sports-cal
@@ -142,11 +158,12 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Mercyhurst Lakers @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Morgan State
-  Bears\nHill Field House\, Baltimore\, MD
+  Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +172,12 @@ DTSTART:20261208T000000Z
 DTEND:20261208T030000Z
 SUMMARY:Mercyhurst Lakers @ Coppin State Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Coppin State
-  Eagles\nPhysical Education Complex\, Baltimore\, MD
+  Eagles\nPhysical Education Complex\, Baltimore\, MD\nBroadcast: Broadcast
+  not announced
 LOCATION:Physical Education Complex\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +186,13 @@ DTSTART:20261212T220000Z
 DTEND:20261213T010000Z
 SUMMARY:Mercyhurst Lakers @ Syracuse Orange
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Syracuse Ora
- nge\nJMA Wireless Dome\, Syracuse\, NY
+ nge\nJMA Wireless Dome\, Syracuse\, NY\nBroadcast: ACC Network
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919833@open-sports-cal
@@ -181,11 +200,12 @@ DTSTART:20261214T170000Z
 DTEND:20261214T200000Z
 SUMMARY:Mount Aloysius Mounties @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMount Aloysius Mounties @ Mercyh
- urst Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ urst Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +214,13 @@ DTSTART:20261217T010000Z
 DTEND:20261217T040000Z
 SUMMARY:Mercyhurst Lakers @ Northwestern Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Northwestern
-  Wildcats\nWelsh-Ryan Arena\, Evanston\, IL
+  Wildcats\nWelsh-Ryan Arena\, Evanston\, IL\nBroadcast: B1G+ (streaming)
 LOCATION:Welsh-Ryan Arena\, Evanston\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911268@open-sports-cal
@@ -207,12 +228,14 @@ DTSTART:20261219T170000Z
 DTEND:20261219T200000Z
 SUMMARY:Mercyhurst Lakers @ St. Bonaventure Bonnies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ St. Bonavent
- ure Bonnies\nReilly Center\, Saint Bonaventure\, NY
+ ure Bonnies\nReilly Center\, Saint Bonaventure\, NY\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Reilly Center\, Saint Bonaventure\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919835@open-sports-cal
@@ -220,11 +243,12 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:Mercyhurst Lakers @ New Haven Chargers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ New Haven Ch
- argers\nJeffery P. Hazell Athletics Center\, West Haven\, CT
+ argers\nJeffery P. Hazell Athletics Center\, West Haven\, CT\nBroadcast: B
+ roadcast not announced
 LOCATION:Jeffery P. Hazell Athletics Center\, West Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +257,11 @@ DTSTART:20270105T000000Z
 DTEND:20270105T030000Z
 SUMMARY:Mercyhurst Lakers @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Le Moyne Dol
- phins\nTed Grant Court\, Syracuse\, NY
+ phins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not announced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +270,12 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:Stonehill Skyhawks @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Mercyhurst 
- Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +284,12 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:Central Connecticut Blue Devils @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Connecticut Blue Devils 
- @ Mercyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ @ Mercyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Br
+ oadcast not announced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +298,12 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Mercyhurst Lakers @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Wagner Seaha
- wks\nSpiro Sports Center\, Staten Island\, NY
+ wks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +312,12 @@ DTSTART:20270117T000000Z
 DTEND:20270117T030000Z
 SUMMARY:Mercyhurst Lakers @ Fairleigh Dickinson Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Fairleigh Di
- ckinson Knights\nBogota Savings Bank Center\, Hackensack\, NJ
+ ckinson Knights\nBogota Savings Bank Center\, Hackensack\, NJ\nBroadcast: 
+ Broadcast not announced
 LOCATION:Bogota Savings Bank Center\, Hackensack\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +326,12 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Mercyhurst Lakers @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Long Island 
- University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +340,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Le Moyne Dolphins @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Mercyhurst L
- akers\nMercyhurst Athletic Center\, Erie\, PA
+ akers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +354,12 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Chicago State Cougars @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChicago State Cougars @ Mercyhur
- st Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ st Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +368,12 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Long Island University Sharks @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Mercyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ Mercyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broa
+ dcast not announced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +382,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Mercyhurst Lakers @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Stonehill Sk
- yhawks\nMerkert Gymnasium\, South Easton\, MA
+ yhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +396,12 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:Mercyhurst Lakers @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Central Conn
- ecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ ecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: Broa
+ dcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +410,12 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:Mercyhurst Lakers @ Chicago State Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Chicago Stat
- e Cougars\nJones Convocation Center\, Chicago\, IL
+ e Cougars\nJones Convocation Center\, Chicago\, IL\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Jones Convocation Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +424,12 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:New Haven Chargers @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Haven Chargers @ Mercyhurst 
- Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +438,12 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Fairleigh Dickinson Knights @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFairleigh Dickinson Knights @ Me
- rcyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ rcyhurst Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +452,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Wagner Seahawks @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Mercyhurst Lak
- ers\nMercyhurst Athletic Center\, Erie\, PA
+ ers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,13 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:UAlbany Great Danes @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUAlbany Great Danes @ Northeas
- tern Huskies\nCabot Center\, Boston\, MA
+ tern Huskies\nCabot Center\, Boston\, MA\nBroadcast: FloSports (streaming)
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919515@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261106T230000Z
 DTEND:20261107T020000Z
 SUMMARY:Northeastern Huskies @ Boston University Terriers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Boston 
- University Terriers\nCase Gym\, Boston\, MA
+ University Terriers\nCase Gym\, Boston\, MA\nBroadcast: ESPN+ (streaming) 
+ / Patriot League TV (streaming)
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401918040@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Northeastern Huskies @ Sacred Heart Pioneers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Sacred 
- Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT
+ Heart Pioneers\nWilliam H. Pitt Center\, Fairfield\, CT\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:William H. Pitt Center\, Fairfield\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913037@open-sports-cal
@@ -54,13 +59,15 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Northeastern Huskies @ Providence Friars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Provide
- nce Friars\nAlumni Hall (RI)\, Providence\, RI
+ nce Friars\nAlumni Hall (RI)\, Providence\, RI\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Alumni Hall (RI)\, Providence\, RI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913758@open-sports-cal
@@ -68,12 +75,12 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Bryant Bulldogs @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBryant Bulldogs @ Northeastern
-  Huskies\nCabot Center\, Boston\, MA
+  Huskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -82,13 +89,15 @@ DTSTART:20261124T230000Z
 DTEND:20261125T020000Z
 SUMMARY:Northeastern Huskies @ Boston College Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Boston 
- College Eagles\nConte Forum\, Chestnut Hill\, MA
+ College Eagles\nConte Forum\, Chestnut Hill\, MA\nBroadcast: ACCNX (stream
+ ing)
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401925886@open-sports-cal
@@ -96,12 +105,13 @@ DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:Merrimack Warriors @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMerrimack Warriors @ Northeast
- ern Huskies\nCabot Center\, Boston\, MA
+ ern Huskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +120,13 @@ DTSTART:20261203T230000Z
 DTEND:20261204T020000Z
 SUMMARY:Northeastern Huskies @ New Haven Chargers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ New Hav
- en Chargers\nJeffery P. Hazell Athletics Center\, West Haven\, CT
+ en Chargers\nJeffery P. Hazell Athletics Center\, West Haven\, CT\nBroadca
+ st: Broadcast not announced
 LOCATION:Jeffery P. Hazell Athletics Center\, West Haven\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +135,12 @@ DTSTART:20261212T180000Z
 DTEND:20261212T210000Z
 SUMMARY:Yale Bulldogs @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nYale Bulldogs @ Northeastern H
- uskies\nCabot Center\, Boston\, MA
+ uskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -138,12 +149,13 @@ DTSTART:20261222T160000Z
 DTEND:20261222T190000Z
 SUMMARY:UMass Lowell River Hawks @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUMass Lowell River Hawks @ Nor
- theastern Huskies\nCabot Center\, Boston\, MA
+ theastern Huskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -152,12 +164,12 @@ DTSTART:20270101T180000Z
 DTEND:20270101T210000Z
 SUMMARY:Hofstra Pride @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHofstra Pride @ Northeastern H
- uskies\nCabot Center\, Boston\, MA
+ uskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -166,12 +178,12 @@ DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:Drexel Dragons @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDrexel Dragons @ Northeastern 
- Huskies\nCabot Center\, Boston\, MA
+ Huskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +192,13 @@ DTSTART:20270110T190000Z
 DTEND:20270110T220000Z
 SUMMARY:Northeastern Huskies @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Hampton
-  Lady Pirates\nConvocation Center (VA)\, Hampton\, VA
+  Lady Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +207,13 @@ DTSTART:20270115T230000Z
 DTEND:20270116T020000Z
 SUMMARY:Northeastern Huskies @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ UNC Wil
- mington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ mington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +222,13 @@ DTSTART:20270117T180000Z
 DTEND:20270117T210000Z
 SUMMARY:Northeastern Huskies @ Charleston Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Charles
- ton Cougars\nTD Arena\, Charleston\, SC
+ ton Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announce
+ d
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +237,12 @@ DTSTART:20270123T000000Z
 DTEND:20270123T030000Z
 SUMMARY:Towson Tigers @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTowson Tigers @ Northeastern H
- uskies\nCabot Center\, Boston\, MA
+ uskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +251,13 @@ DTSTART:20270124T180000Z
 DTEND:20270124T210000Z
 SUMMARY:North Carolina A&T Aggies @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina A&T Aggies @ No
- rtheastern Huskies\nCabot Center\, Boston\, MA
+ rtheastern Huskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +266,13 @@ DTSTART:20270129T233100Z
 DTEND:20270130T023100Z
 SUMMARY:Northeastern Huskies @ Stony Brook Seawolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Stony B
- rook Seawolves\nStony Brook Arena\, Stony Brook\, NY
+ rook Seawolves\nStony Brook Arena\, Stony Brook\, NY\nBroadcast: Broadcast
+  not announced
 LOCATION:Stony Brook Arena\, Stony Brook\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +281,13 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:Northeastern Huskies @ Hofstra Pride
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Hofstra
-  Pride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY
+  Pride\nDavid S. Mack Sports and Exhibition Complex\, Hempstead\, NY\nBroa
+ dcast: Broadcast not announced
 LOCATION:David S. Mack Sports and Exhibition Complex\, Hempstead\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +296,13 @@ DTSTART:20270206T000000Z
 DTEND:20270206T030000Z
 SUMMARY:Campbell Fighting Camels @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCampbell Fighting Camels @ Nor
- theastern Huskies\nCabot Center\, Boston\, MA
+ theastern Huskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +311,12 @@ DTSTART:20270207T180000Z
 DTEND:20270207T210000Z
 SUMMARY:Elon Phoenix @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nElon Phoenix @ Northeastern Hu
- skies\nCabot Center\, Boston\, MA
+ skies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +325,13 @@ DTSTART:20270212T230000Z
 DTEND:20270213T020000Z
 SUMMARY:Northeastern Huskies @ Monmouth Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Monmout
- h Hawks\nOceanFirst Bank Center\, West Long Branch\, NJ
+ h Hawks\nOceanFirst Bank Center\, West Long Branch\, NJ\nBroadcast: Broadc
+ ast not announced
 LOCATION:OceanFirst Bank Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +340,13 @@ DTSTART:20270214T180000Z
 DTEND:20270214T210000Z
 SUMMARY:UNC Wilmington Seahawks @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Wilmington Seahawks @ Nort
- heastern Huskies\nCabot Center\, Boston\, MA
+ heastern Huskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +355,13 @@ DTSTART:20270220T000000Z
 DTEND:20270220T030000Z
 SUMMARY:Northeastern Huskies @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ William
-  & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+  & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +370,13 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:Northeastern Huskies @ Campbell Fighting Camels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Campbel
- l Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ l Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\
+ nBroadcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +385,13 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:Stony Brook Seawolves @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStony Brook Seawolves @ Northe
- astern Huskies\nCabot Center\, Boston\, MA
+ astern Huskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +400,13 @@ DTSTART:20270228T190000Z
 DTEND:20270228T220000Z
 SUMMARY:Northeastern Huskies @ Drexel Dragons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ Drexel 
- Dragons\nDaskalakis Athletic Center\, Philadelphia\, PA
+ Dragons\nDaskalakis Athletic Center\, Philadelphia\, PA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Daskalakis Athletic Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +415,12 @@ DTSTART:20270306T180000Z
 DTEND:20270306T210000Z
 SUMMARY:Monmouth Hawks @ Northeastern Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMonmouth Hawks @ Northeastern 
- Huskies\nCabot Center\, Boston\, MA
+ Huskies\nCabot Center\, Boston\, MA\nBroadcast: Broadcast not announced
 LOCATION:Cabot Center\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

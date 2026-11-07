@@ -12,12 +12,14 @@ DTSTART:20261103T003000Z
 DTEND:20261103T033000Z
 SUMMARY:Kent State Golden Flashes @ Louisiana Tech Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Loui
- siana Tech Bulldogs\nThomas Assembly Center\, Ruston\, LA
+ siana Tech Bulldogs\nThomas Assembly Center\, Ruston\, LA\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Thomas Assembly Center\, Ruston\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928840@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:Roberts Wesleyan Redhawks @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRoberts Wesleyan Redhawks @ Kent
-  State Golden Flashes\nM.A.C. Center\, Kent\, OH
+  State Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926863@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261112T000000Z
 DTEND:20261112T030000Z
 SUMMARY:Kent State Golden Flashes @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ UNC 
- Wilmington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ Wilmington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: FloSport
+ s (streaming)
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401928841@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261117T000000Z
 DTEND:20261117T030000Z
 SUMMARY:Eastern Kentucky Colonels @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Kentucky Colonels @ Kent
-  State Golden Flashes\nM.A.C. Center\, Kent\, OH
+  State Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921169@open-sports-cal
@@ -64,12 +72,14 @@ DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:Kent State Golden Flashes @ Cleveland State Vikings
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Clev
- eland State Vikings\nWolstein Center\, Cleveland\, OH
+ eland State Vikings\nWolstein Center\, Cleveland\, OH\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Wolstein Center\, Cleveland\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921707@open-sports-cal
@@ -77,11 +87,12 @@ DTSTART:20261124T223000Z
 DTEND:20261125T013000Z
 SUMMARY:Wyoming Cowboys @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWyoming Cowboys @ Kent State Gol
- den Flashes\nOcean Center\, Daytona Beach\, FL\nNeutral site
+ den Flashes\nOcean Center\, Daytona Beach\, FL\nNeutral site\nBroadcast: B
+ roadcast not announced
 LOCATION:Ocean Center\, Daytona Beach\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +101,11 @@ DTSTART:20261129T200000Z
 DTEND:20261129T230000Z
 SUMMARY:Malone Pioneers @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMalone Pioneers @ Kent State Gol
- den Flashes\nM.A.C. Center\, Kent\, OH
+ den Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: Broadcast not announced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +114,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Bowling Green Falcons @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Kent Sta
- te Golden Flashes\nM.A.C. Center\, Kent\, OH
+ te Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911039@open-sports-cal
@@ -116,12 +128,13 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Kent State Golden Flashes @ Toledo Rockets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Tole
- do Rockets\nSavage Arena\, Toledo\, OH
+ do Rockets\nSavage Arena\, Toledo\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Savage Arena\, Toledo\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911047@open-sports-cal
@@ -129,12 +142,14 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:Kent State Golden Flashes @ Central Michigan Chippewas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Cent
- ral Michigan Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI
+ ral Michigan Chippewas\nMcGuirk Arena\, Mount Pleasant\, MI\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:McGuirk Arena\, Mount Pleasant\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911051@open-sports-cal
@@ -142,12 +157,14 @@ DTSTART:20261213T000000Z
 DTEND:20261213T030000Z
 SUMMARY:Massachusetts Minutemen @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMassachusetts Minutemen @ Kent S
- tate Golden Flashes\nM.A.C. Center\, Kent\, OH
+ tate Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929397@open-sports-cal
@@ -155,11 +172,12 @@ DTSTART:20261221T000000Z
 DTEND:20261221T030000Z
 SUMMARY:Omaha Mavericks @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOmaha Mavericks @ Kent State Gol
- den Flashes\nDon Haskins Center\, El Paso\, TX\nNeutral site
+ den Flashes\nDon Haskins Center\, El Paso\, TX\nNeutral site\nBroadcast: B
+ roadcast not announced
 LOCATION:Don Haskins Center\, El Paso\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -168,11 +186,11 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Buffalo Bulls @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBuffalo Bulls @ Kent State Golde
- n Flashes\nM.A.C. Center\, Kent\, OH
+ n Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: Broadcast not announced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -181,11 +199,12 @@ DTSTART:20270106T000000Z
 DTEND:20270106T030000Z
 SUMMARY:Kent State Golden Flashes @ Ball State Cardinals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Ball
-  State Cardinals\nWorthen Arena\, Muncie\, IN
+  State Cardinals\nWorthen Arena\, Muncie\, IN\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Worthen Arena\, Muncie\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +213,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Kent State Golden Flashes @ Western Michigan Broncos
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ West
- ern Michigan Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI
+ ern Michigan Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI\nBroadcast: B
+ roadcast not announced
 LOCATION:University Arena (MI)\, Kalamazoo\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -207,11 +227,11 @@ DTSTART:20270113T000000Z
 DTEND:20270113T030000Z
 SUMMARY:Ohio Bobcats @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOhio Bobcats @ Kent State Golden
-  Flashes\nM.A.C. Center\, Kent\, OH
+  Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: Broadcast not announced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +240,12 @@ DTSTART:20270116T230000Z
 DTEND:20270117T020000Z
 SUMMARY:Miami (OH) RedHawks @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMiami (OH) RedHawks @ Kent State
-  Golden Flashes\nM.A.C. Center\, Kent\, OH
+  Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: Broadcast not annou
+ nced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +254,12 @@ DTSTART:20270119T233000Z
 DTEND:20270120T023000Z
 SUMMARY:Kent State Golden Flashes @ Eastern Michigan Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ East
- ern Michigan Eagles\nGervin GameAbove Center\, Ypsilanti\, MI
+ ern Michigan Eagles\nGervin GameAbove Center\, Ypsilanti\, MI\nBroadcast: 
+ Broadcast not announced
 LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +268,12 @@ DTSTART:20270123T000000Z
 DTEND:20270123T030000Z
 SUMMARY:Kent State Golden Flashes @ Bowling Green Falcons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Bowl
- ing Green Falcons\nStroh Center\, Bowling Green\, OH
+ ing Green Falcons\nStroh Center\, Bowling Green\, OH\nBroadcast: Broadcast
+  not announced
 LOCATION:Stroh Center\, Bowling Green\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +282,12 @@ DTSTART:20270127T000000Z
 DTEND:20270127T030000Z
 SUMMARY:Ball State Cardinals @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBall State Cardinals @ Kent Stat
- e Golden Flashes\nM.A.C. Center\, Kent\, OH
+ e Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: Broadcast not anno
+ unced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +296,12 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Central Michigan Chippewas @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Michigan Chippewas @ Ken
- t State Golden Flashes\nM.A.C. Center\, Kent\, OH
+ t State Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: Broadcast no
+ t announced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +310,12 @@ DTSTART:20270203T000000Z
 DTEND:20270203T030000Z
 SUMMARY:Kent State Golden Flashes @ Miami (OH) RedHawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Miam
- i (OH) RedHawks\nMillett Hall\, Oxford\, OH
+ i (OH) RedHawks\nMillett Hall\, Oxford\, OH\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Millett Hall\, Oxford\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +324,12 @@ DTSTART:20270210T000000Z
 DTEND:20270210T030000Z
 SUMMARY:Kent State Golden Flashes @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Mass
- achusetts Minutemen\nMullins Center\, Amherst\, MA
+ achusetts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +338,12 @@ DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Akron Zips @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Kent State Golden F
- lashes\nM.A.C. Center\, Kent\, OH\nStart time TBD
+ lashes\nM.A.C. Center\, Kent\, OH\nStart time TBD\nBroadcast: Broadcast no
+ t announced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911142@open-sports-cal
@@ -323,11 +351,12 @@ DTSTART:20270217T000000Z
 DTEND:20270217T030000Z
 SUMMARY:Western Michigan Broncos @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Michigan Broncos @ Kent 
- State Golden Flashes\nM.A.C. Center\, Kent\, OH
+ State Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: Broadcast not 
+ announced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -336,11 +365,12 @@ DTSTART:20270220T220000Z
 DTEND:20270221T010000Z
 SUMMARY:Kent State Golden Flashes @ Buffalo Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Buff
- alo Bulls\nBroadview Arena\, Buffalo\, NY
+ alo Bulls\nBroadview Arena\, Buffalo\, NY\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Broadview Arena\, Buffalo\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -349,11 +379,12 @@ DTSTART:20270224T000000Z
 DTEND:20270224T030000Z
 SUMMARY:Kent State Golden Flashes @ Ohio Bobcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Ohio
-  Bobcats\nConvocation Center (OH)\, Athens\, OH
+  Bobcats\nConvocation Center (OH)\, Athens\, OH\nBroadcast: Broadcast not 
+ announced
 LOCATION:Convocation Center (OH)\, Athens\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,11 +393,11 @@ DTSTART:20270227T180000Z
 DTEND:20270227T210000Z
 SUMMARY:Toledo Rockets @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nToledo Rockets @ Kent State Gold
- en Flashes\nM.A.C. Center\, Kent\, OH
+ en Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: Broadcast not announced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -375,11 +406,12 @@ DTSTART:20270303T000000Z
 DTEND:20270303T030000Z
 SUMMARY:Eastern Michigan Eagles @ Kent State Golden Flashes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Michigan Eagles @ Kent S
- tate Golden Flashes\nM.A.C. Center\, Kent\, OH
+ tate Golden Flashes\nM.A.C. Center\, Kent\, OH\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:M.A.C. Center\, Kent\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -388,10 +420,11 @@ DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Kent State Golden Flashes @ Akron Zips
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKent State Golden Flashes @ Akro
- n Zips\nJames A. Rhodes Arena\, Akron\, OH\nStart time TBD
+ n Zips\nJames A. Rhodes Arena\, Akron\, OH\nStart time TBD\nBroadcast: Bro
+ adcast not announced
 LOCATION:James A. Rhodes Arena\, Akron\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 END:VCALENDAR

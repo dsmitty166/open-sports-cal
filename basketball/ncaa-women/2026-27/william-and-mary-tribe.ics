@@ -12,13 +12,14 @@ DTSTART:20261102T210000Z
 DTEND:20261103T000000Z
 SUMMARY:Chowan Hawks @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nChowan Hawks @ William & Mary 
- Tribe\nKaplan Arena\, Williamsburg\, VA
+ Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: FloSports (streaming)
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927981@open-sports-cal
@@ -26,13 +27,15 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Tennessee State Lady Tigers @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTennessee State Lady Tigers @ 
- William & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ William & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: FloSpor
+ ts (streaming)
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916005@open-sports-cal
@@ -40,13 +43,15 @@ DTSTART:20261108T190000Z
 DTEND:20261108T220000Z
 SUMMARY:William & Mary Tribe @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Virgini
- a Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ a Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast: ACCN
+ X (streaming)
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913679@open-sports-cal
@@ -54,13 +59,14 @@ DTSTART:20261115T190000Z
 DTEND:20261115T220000Z
 SUMMARY:William & Mary Tribe @ Richmond Spiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Richmon
- d Spiders\nRobins Center\, Richmond\, VA
+ d Spiders\nRobins Center\, Richmond\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:Robins Center\, Richmond\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401927982@open-sports-cal
@@ -68,13 +74,15 @@ DTSTART:20261119T233000Z
 DTEND:20261120T023000Z
 SUMMARY:William & Mary Tribe @ Old Dominion Monarchs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Old Dom
- inion Monarchs\nChartway Arena\, Norfolk\, VA
+ inion Monarchs\nChartway Arena\, Norfolk\, VA\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Chartway Arena\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919425@open-sports-cal
@@ -82,12 +90,13 @@ DTSTART:20261124T160000Z
 DTEND:20261124T190000Z
 SUMMARY:William & Mary Tribe @ Coppin State Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Coppin 
- State Eagles\nPhysical Education Complex\, Baltimore\, MD
+ State Eagles\nPhysical Education Complex\, Baltimore\, MD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Physical Education Complex\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -96,12 +105,13 @@ DTSTART:20261128T180000Z
 DTEND:20261128T210000Z
 SUMMARY:Longwood Lancers @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLongwood Lancers @ William & M
- ary Tribe\nKaplan Arena\, Williamsburg\, VA
+ ary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +120,13 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:American University Eagles @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ W
- illiam & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ illiam & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +135,13 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Virginia Lynchburg Dragons @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nVirginia Lynchburg Dragons @ W
- illiam & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ illiam & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -138,13 +150,15 @@ DTSTART:20261218T160000Z
 DTEND:20261218T190000Z
 SUMMARY:William & Mary Tribe @ Pennsylvania Quakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Pennsyl
- vania Quakers\nThe Palestra\, Philadelphia\, PA
+ vania Quakers\nThe Palestra\, Philadelphia\, PA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:The Palestra\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401926019@open-sports-cal
@@ -152,13 +166,15 @@ DTSTART:20261220T180000Z
 DTEND:20261220T210000Z
 SUMMARY:William & Mary Tribe @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Loyola 
- Maryland Greyhounds\nReitz Arena\, Baltimore\, MD
+ Maryland Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401903583@open-sports-cal
@@ -166,12 +182,13 @@ DTSTART:20270101T180000Z
 DTEND:20270101T210000Z
 SUMMARY:Campbell Fighting Camels @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCampbell Fighting Camels @ Wil
- liam & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ liam & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast 
+ not announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +197,12 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:William & Mary Tribe @ Elon Phoenix
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Elon Ph
- oenix\nSchar Center\, Elon\, NC
+ oenix\nSchar Center\, Elon\, NC\nBroadcast: Broadcast not announced
 LOCATION:Schar Center\, Elon\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +211,13 @@ DTSTART:20270110T180000Z
 DTEND:20270110T210000Z
 SUMMARY:Charleston Cougars @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCharleston Cougars @ William &
-  Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+  Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +226,13 @@ DTSTART:20270116T000000Z
 DTEND:20270116T030000Z
 SUMMARY:Hampton Lady Pirates @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHampton Lady Pirates @ William
-  & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+  & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +241,13 @@ DTSTART:20270117T180000Z
 DTEND:20270117T210000Z
 SUMMARY:William & Mary Tribe @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ UNC Wil
- mington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ mington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +256,13 @@ DTSTART:20270123T000000Z
 DTEND:20270123T030000Z
 SUMMARY:Hofstra Pride @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHofstra Pride @ William & Mary
-  Tribe\nKaplan Arena\, Williamsburg\, VA
+  Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +271,13 @@ DTSTART:20270124T180000Z
 DTEND:20270124T210000Z
 SUMMARY:Elon Phoenix @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nElon Phoenix @ William & Mary 
- Tribe\nKaplan Arena\, Williamsburg\, VA
+ Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +286,13 @@ DTSTART:20270129T230000Z
 DTEND:20270130T020000Z
 SUMMARY:William & Mary Tribe @ Campbell Fighting Camels
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Campbel
- l Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC
+ l Fighting Camels\nJohn W. Pope Jr. Convocation Center\, Buies Creek\, NC\
+ nBroadcast: Broadcast not announced
 LOCATION:John W. Pope Jr. Convocation Center\, Buies Creek\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +301,13 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:William & Mary Tribe @ Hampton Lady Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Hampton
-  Lady Pirates\nConvocation Center (VA)\, Hampton\, VA
+  Lady Pirates\nConvocation Center (VA)\, Hampton\, VA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Convocation Center (VA)\, Hampton\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +316,13 @@ DTSTART:20270207T180000Z
 DTEND:20270207T210000Z
 SUMMARY:North Carolina A&T Aggies @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorth Carolina A&T Aggies @ Wi
- lliam & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ lliam & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast
+  not announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +331,12 @@ DTSTART:20270212T233000Z
 DTEND:20270213T023000Z
 SUMMARY:William & Mary Tribe @ Towson Tigers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Towson 
- Tigers\nSECU Arena\, Towson\, MD
+ Tigers\nSECU Arena\, Towson\, MD\nBroadcast: Broadcast not announced
 LOCATION:SECU Arena\, Towson\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +345,13 @@ DTSTART:20270214T180000Z
 DTEND:20270214T210000Z
 SUMMARY:William & Mary Tribe @ Drexel Dragons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Drexel 
- Dragons\nDaskalakis Athletic Center\, Philadelphia\, PA
+ Dragons\nDaskalakis Athletic Center\, Philadelphia\, PA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Daskalakis Athletic Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +360,13 @@ DTSTART:20270220T000000Z
 DTEND:20270220T030000Z
 SUMMARY:Northeastern Huskies @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNortheastern Huskies @ William
-  & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+  & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +375,13 @@ DTSTART:20270221T190000Z
 DTEND:20270221T220000Z
 SUMMARY:William & Mary Tribe @ North Carolina A&T Aggies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ North C
- arolina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC
+ arolina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC\nBroadcast: Br
+ oadcast not announced
 LOCATION:Corbett Sports Center\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +390,13 @@ DTSTART:20270227T000000Z
 DTEND:20270227T030000Z
 SUMMARY:UNC Wilmington Seahawks @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nUNC Wilmington Seahawks @ Will
- iam & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ iam & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +405,13 @@ DTSTART:20270228T180000Z
 DTEND:20270228T210000Z
 SUMMARY:Towson Tigers @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nTowson Tigers @ William & Mary
-  Tribe\nKaplan Arena\, Williamsburg\, VA
+  Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +420,13 @@ DTSTART:20270304T230000Z
 DTEND:20270305T020000Z
 SUMMARY:William & Mary Tribe @ Monmouth Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Monmout
- h Hawks\nOceanFirst Bank Center\, West Long Branch\, NJ
+ h Hawks\nOceanFirst Bank Center\, West Long Branch\, NJ\nBroadcast: Broadc
+ ast not announced
 LOCATION:OceanFirst Bank Center\, West Long Branch\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +435,13 @@ DTSTART:20270306T180000Z
 DTEND:20270306T210000Z
 SUMMARY:William & Mary Tribe @ Stony Brook Seawolves
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWilliam & Mary Tribe @ Stony B
- rook Seawolves\nStony Brook Arena\, Stony Brook\, NY
+ rook Seawolves\nStony Brook Arena\, Stony Brook\, NY\nBroadcast: Broadcast
+  not announced
 LOCATION:Stony Brook Arena\, Stony Brook\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

@@ -12,12 +12,14 @@ DTSTART:20261103T004500Z
 DTEND:20261103T034500Z
 SUMMARY:Charleston Southern Buccaneers @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharleston Southern Buccaneers @
-  South Florida Bulls\nYuengling Center\, Tampa\, FL
+  South Florida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909501@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261106T013000Z
 DTEND:20261106T043000Z
 SUMMARY:South Florida Bulls @ DePaul Blue Demons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ DePaul Blu
- e Demons\nWintrust Arena\, Chicago\, IL
+ e Demons\nWintrust Arena\, Chicago\, IL\nBroadcast: truTV
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918992@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261111T200000Z
 DTEND:20261111T230000Z
 SUMMARY:Saint Joseph's Hawks @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Joseph's Hawks @ South Flo
- rida Bulls\nAlumni Hall (Navy)\, Annapolis\, MD\nNeutral site
+ rida Bulls\nAlumni Hall (Navy)\, Annapolis\, MD\nNeutral site\nBroadcast: 
+ CBSSN
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918993@open-sports-cal
@@ -51,12 +56,13 @@ DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
 SUMMARY:Coppin State Eagles @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCoppin State Eagles @ South Flor
- ida Bulls\nYuengling Center\, Tampa\, FL
+ ida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918994@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Tennessee State Tigers @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTennessee State Tigers @ South F
- lorida Bulls\nYuengling Center\, Tampa\, FL
+ lorida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918995@open-sports-cal
@@ -77,12 +84,13 @@ DTSTART:20261121T210000Z
 DTEND:20261122T000000Z
 SUMMARY:South Florida Bulls @ George Mason Patriots
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ George Mas
- on Patriots\nEagleBank Arena\, Fairfax\, VA
+ on Patriots\nEagleBank Arena\, Fairfax\, VA\nBroadcast: ESPN+ (streaming)
 LOCATION:EagleBank Arena\, Fairfax\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918996@open-sports-cal
@@ -90,12 +98,13 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Stetson Hatters @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ South Florida 
- Bulls\nYuengling Center\, Tampa\, FL
+ Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911255@open-sports-cal
@@ -103,12 +112,14 @@ DTSTART:20261129T203000Z
 DTEND:20261129T233000Z
 SUMMARY:South Florida Bulls @ Saint Louis Billikens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Saint Loui
- s Billikens\nNationwide Arena\, Columbus\, OH\nNeutral site
+ s Billikens\nNationwide Arena\, Columbus\, OH\nNeutral site\nBroadcast: ES
+ PN
 LOCATION:Nationwide Arena\, Columbus\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918997@open-sports-cal
@@ -116,12 +127,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:West Florida Argonauts @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Florida Argonauts @ South F
- lorida Bulls\nYuengling Center\, Tampa\, FL
+ lorida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918998@open-sports-cal
@@ -129,12 +141,13 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:Jacksonville Dolphins @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville Dolphins @ South Fl
- orida Bulls\nYuengling Center\, Tampa\, FL
+ orida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911191@open-sports-cal
@@ -142,12 +155,13 @@ DTSTART:20261213T000000Z
 DTEND:20261213T030000Z
 SUMMARY:South Florida Bulls @ Dayton Flyers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Dayton Fly
- ers\nUD Arena\, Dayton\, OH
+ ers\nUD Arena\, Dayton\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:UD Arena\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906766@open-sports-cal
@@ -155,12 +169,13 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Alabama Crimson Tide @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlabama Crimson Tide @ South Flo
- rida Bulls\nYuengling Center\, Tampa\, FL
+ rida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN2
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918999@open-sports-cal
@@ -168,12 +183,13 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Kennesaw State Owls @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKennesaw State Owls @ South Flor
- ida Bulls\nYuengling Center\, Tampa\, FL
+ ida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919000@open-sports-cal
@@ -181,11 +197,11 @@ DTSTART:20261223T000000Z
 DTEND:20261223T030000Z
 SUMMARY:South Florida Bulls @ Charleston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Charleston
-  Cougars\nTD Arena\, Charleston\, SC
+  Cougars\nTD Arena\, Charleston\, SC\nBroadcast: Broadcast not announced
 LOCATION:TD Arena\, Charleston\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +210,13 @@ DTSTART:20261231T010000Z
 DTEND:20261231T040000Z
 SUMMARY:South Florida Bulls @ Tulsa Golden Hurricane
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Tulsa Gold
- en Hurricane\nReynolds Center\, Tulsa\, OK
+ en Hurricane\nReynolds Center\, Tulsa\, OK\nBroadcast: ESPN2
 LOCATION:Reynolds Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927641@open-sports-cal
@@ -207,11 +224,11 @@ DTSTART:20270103T180000Z
 DTEND:20270103T210000Z
 SUMMARY:Memphis Tigers @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMemphis Tigers @ South Florida B
- ulls\nYuengling Center\, Tampa\, FL
+ ulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +237,11 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Charlotte 49ers @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ South Florida 
- Bulls\nYuengling Center\, Tampa\, FL
+ Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -234,12 +251,12 @@ DTEND:20270110T230000Z
 SUMMARY:South Florida Bulls @ Tulane Green Wave
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Tulane Gre
  en Wave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, 
- LA
+ LA\nBroadcast: Broadcast not announced
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -248,11 +265,12 @@ DTSTART:20270114T233000Z
 DTEND:20270115T023000Z
 SUMMARY:South Florida Bulls @ Temple Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Temple Owl
- s\nLiacouras Center\, Philadelphia\, PA
+ s\nLiacouras Center\, Philadelphia\, PA\nBroadcast: Broadcast not announce
+ d
 LOCATION:Liacouras Center\, Philadelphia\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -261,11 +279,12 @@ DTSTART:20270117T180000Z
 DTEND:20270117T210000Z
 SUMMARY:Tulsa Golden Hurricane @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulsa Golden Hurricane @ South F
- lorida Bulls\nYuengling Center\, Tampa\, FL
+ lorida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -274,11 +293,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:South Florida Bulls @ UTSA Roadrunners
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ UTSA Roadr
- unners\nUTSA Convocation Center\, San Antonio\, TX
+ unners\nUTSA Convocation Center\, San Antonio\, TX\nBroadcast: Broadcast n
+ ot announced
 LOCATION:UTSA Convocation Center\, San Antonio\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -287,11 +307,11 @@ DTSTART:20270127T020000Z
 DTEND:20270127T050000Z
 SUMMARY:Rice Owls @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRice Owls @ South Florida Bulls\
- nYuengling Center\, Tampa\, FL
+ nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -301,10 +321,11 @@ DTEND:20270131T220000Z
 SUMMARY:South Florida Bulls @ Florida Atlantic Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Florida At
  lantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
+ \nBroadcast: Broadcast not announced
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -313,11 +334,12 @@ DTSTART:20270204T230000Z
 DTEND:20270205T020000Z
 SUMMARY:Wichita State Shockers @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWichita State Shockers @ South F
- lorida Bulls\nYuengling Center\, Tampa\, FL
+ lorida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -326,11 +348,11 @@ DTSTART:20270207T190000Z
 DTEND:20270207T220000Z
 SUMMARY:South Florida Bulls @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Charlotte 
- 49ers\nHalton Arena\, Charlotte\, NC
+ 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: Broadcast not announced
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -339,11 +361,12 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:South Florida Bulls @ East Carolina Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ East Carol
- ina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC
+ ina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC\nBroadcas
+ t: Broadcast not announced
 LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -352,11 +375,11 @@ DTSTART:20270213T230000Z
 DTEND:20270214T020000Z
 SUMMARY:Temple Owls @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTemple Owls @ South Florida Bull
- s\nYuengling Center\, Tampa\, FL
+ s\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -365,11 +388,12 @@ DTSTART:20270218T230000Z
 DTEND:20270219T020000Z
 SUMMARY:South Florida Bulls @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Wichita St
- ate Shockers\nCharles Koch Arena\, Wichita\, KS
+ ate Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: Broadcast not 
+ announced
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -378,11 +402,11 @@ DTSTART:20270221T170000Z
 DTEND:20270221T200000Z
 SUMMARY:UAB Blazers @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUAB Blazers @ South Florida Bull
- s\nYuengling Center\, Tampa\, FL
+ s\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not announced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -391,11 +415,12 @@ DTSTART:20270225T000000Z
 DTEND:20270225T030000Z
 SUMMARY:North Texas Mean Green @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Texas Mean Green @ South F
- lorida Bulls\nYuengling Center\, Tampa\, FL
+ lorida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,11 +429,11 @@ DTSTART:20270228T170000Z
 DTEND:20270228T200000Z
 SUMMARY:South Florida Bulls @ Memphis Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Florida Bulls @ Memphis Ti
- gers\nFedExForum\, Memphis\, TN
+ gers\nFedExForum\, Memphis\, TN\nBroadcast: Broadcast not announced
 LOCATION:FedExForum\, Memphis\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -417,11 +442,12 @@ DTSTART:20270305T020000Z
 DTEND:20270305T050000Z
 SUMMARY:Florida Atlantic Owls @ South Florida Bulls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Atlantic Owls @ South Fl
- orida Bulls\nYuengling Center\, Tampa\, FL
+ orida Bulls\nYuengling Center\, Tampa\, FL\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Yuengling Center\, Tampa\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

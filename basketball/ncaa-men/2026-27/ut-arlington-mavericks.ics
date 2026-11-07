@@ -12,12 +12,14 @@ DTSTART:20261103T010000Z
 DTEND:20261103T040000Z
 SUMMARY:UNT Dallas Trailblazers @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUNT Dallas Trailblazers @ UT Arl
- ington Mavericks\nCollege Park Center\, Arlington\, TX
+ ington Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929356@open-sports-cal
@@ -25,11 +27,12 @@ DTSTART:20261107T023000Z
 DTEND:20261107T053000Z
 SUMMARY:UT Arlington Mavericks @ Portland Pilots
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Portlan
- d Pilots\nStan Sheriff Center\, Honolulu\, HI\nNeutral site
+ d Pilots\nStan Sheriff Center\, Honolulu\, HI\nNeutral site\nBroadcast: Br
+ oadcast not announced
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -38,12 +41,14 @@ DTSTART:20261109T040000Z
 DTEND:20261109T070000Z
 SUMMARY:UT Arlington Mavericks @ Hawai'i Rainbow Warriors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Hawai'i
-  Rainbow Warriors\nStan Sheriff Center\, Honolulu\, HI
+  Rainbow Warriors\nStan Sheriff Center\, Honolulu\, HI\nBroadcast: MW+ (st
+ reaming)
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
+X-BROADCAST:MW+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929357@open-sports-cal
@@ -51,11 +56,12 @@ DTSTART:20261110T033000Z
 DTEND:20261110T063000Z
 SUMMARY:UT Arlington Mavericks @ Bethesda Flames
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Bethesd
- a Flames\nStan Sheriff Center\, Honolulu\, HI\nNeutral site
+ a Flames\nStan Sheriff Center\, Honolulu\, HI\nNeutral site\nBroadcast: Br
+ oadcast not announced
 LOCATION:Stan Sheriff Center\, Honolulu\, HI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:Pacific/Honolulu
 END:VEVENT
 BEGIN:VEVENT
@@ -64,12 +70,14 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:UT Rio Grande Valley Vaqueros @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Rio Grande Valley Vaqueros @ 
- UT Arlington Mavericks\nCollege Park Center\, Arlington\, TX
+ UT Arlington Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929358@open-sports-cal
@@ -77,12 +85,14 @@ DTSTART:20261118T010000Z
 DTEND:20261118T040000Z
 SUMMARY:UT Arlington Mavericks @ Southern Miss Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Souther
- n Miss Golden Eagles\nReed Green Coliseum\, Hattiesburg\, MS
+ n Miss Golden Eagles\nReed Green Coliseum\, Hattiesburg\, MS\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Reed Green Coliseum\, Hattiesburg\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925080@open-sports-cal
@@ -90,12 +100,14 @@ DTSTART:20261121T003000Z
 DTEND:20261121T033000Z
 SUMMARY:UT Arlington Mavericks @ Northwestern State Demons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Northwe
- stern State Demons\nPrather Coliseum\, Natchitoches\, LA
+ stern State Demons\nPrather Coliseum\, Natchitoches\, LA\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Prather Coliseum\, Natchitoches\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929359@open-sports-cal
@@ -103,12 +115,14 @@ DTSTART:20261125T010000Z
 DTEND:20261125T040000Z
 SUMMARY:Oral Roberts Golden Eagles @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOral Roberts Golden Eagles @ UT 
- Arlington Mavericks\nCollege Park Center\, Arlington\, TX
+ Arlington Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: ESPN
+ + (streaming)
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929177@open-sports-cal
@@ -116,11 +130,12 @@ DTSTART:20261202T020000Z
 DTEND:20261202T050000Z
 SUMMARY:UT Arlington Mavericks @ Colorado State Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Colorad
- o State Rams\nMoby Arena\, Fort Collins\, CO
+ o State Rams\nMoby Arena\, Fort Collins\, CO\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Moby Arena\, Fort Collins\, CO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +144,14 @@ DTSTART:20261210T003000Z
 DTEND:20261210T033000Z
 SUMMARY:UT Arlington Mavericks @ Stephen F. Austin Lumberjacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Stephen
-  F. Austin Lumberjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX
+  F. Austin Lumberjacks\nWilliam R. Johnson Coliseum\, Nacogdoches\, TX\nBr
+ oadcast: ESPN+ (streaming)
 LOCATION:William R. Johnson Coliseum\, Nacogdoches\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929360@open-sports-cal
@@ -142,12 +159,14 @@ DTSTART:20261213T220000Z
 DTEND:20261214T010000Z
 SUMMARY:UT Arlington Mavericks @ Arkansas Razorbacks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Arkansa
- s Razorbacks\nBud Walton Arena\, Fayetteville\, AR
+ s Razorbacks\nBud Walton Arena\, Fayetteville\, AR\nBroadcast: SECN+ (stre
+ aming)
 LOCATION:Bud Walton Arena\, Fayetteville\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929361@open-sports-cal
@@ -155,12 +174,14 @@ DTSTART:20261215T170000Z
 DTEND:20261215T200000Z
 SUMMARY:LeTourneau Yellow Jackets @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLeTourneau Yellow Jackets @ UT A
- rlington Mavericks\nCollege Park Center\, Arlington\, TX
+ rlington Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: ESPN+
+  (streaming)
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922228@open-sports-cal
@@ -168,12 +189,14 @@ DTSTART:20261219T230000Z
 DTEND:20261220T020000Z
 SUMMARY:North Florida Ospreys @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ UT Arlin
- gton Mavericks\nCollege Park Center\, Arlington\, TX
+ gton Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929363@open-sports-cal
@@ -181,12 +204,14 @@ DTSTART:20261221T180000Z
 DTEND:20261221T210000Z
 SUMMARY:Arlington Baptist Patriots @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArlington Baptist Patriots @ UT 
- Arlington Mavericks\nCollege Park Center\, Arlington\, TX
+ Arlington Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: ESPN
+ + (streaming)
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401920885@open-sports-cal
@@ -194,12 +219,14 @@ DTSTART:20261231T200000Z
 DTEND:20261231T230000Z
 SUMMARY:Jacksonville Dolphins @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville Dolphins @ UT Arlin
- gton Mavericks\nCollege Park Center\, Arlington\, TX
+ gton Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922246@open-sports-cal
@@ -207,11 +234,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:UT Arlington Mavericks @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Stetson
-  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+  Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nBroa
+ dcast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +248,12 @@ DTSTART:20270106T000000Z
 DTEND:20270106T030000Z
 SUMMARY:UT Arlington Mavericks @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Florida
-  Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+  Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast no
+ t announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +262,12 @@ DTSTART:20270109T200000Z
 DTEND:20270109T230000Z
 SUMMARY:Central Arkansas Bears @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Arkansas Bears @ UT Arli
- ngton Mavericks\nCollege Park Center\, Arlington\, TX
+ ngton Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: Broadcas
+ t not announced
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +276,12 @@ DTSTART:20270114T010000Z
 DTEND:20270114T040000Z
 SUMMARY:Austin Peay Governors @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAustin Peay Governors @ UT Arlin
- gton Mavericks\nCollege Park Center\, Arlington\, TX
+ gton Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: Broadcast
+  not announced
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +290,12 @@ DTSTART:20270117T000000Z
 DTEND:20270117T030000Z
 SUMMARY:UT Arlington Mavericks @ Abilene Christian Wildcats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Abilene
-  Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX
+  Christian Wildcats\nMoody Coliseum (Abilene)\, Abilene\, TX\nBroadcast: B
+ roadcast not announced
 LOCATION:Moody Coliseum (Abilene)\, Abilene\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +304,12 @@ DTSTART:20270121T004500Z
 DTEND:20270121T034500Z
 SUMMARY:UT Arlington Mavericks @ West Georgia Wolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ West Ge
- orgia Wolves\nThe Coliseum\, Carrollton\, GA
+ orgia Wolves\nThe Coliseum\, Carrollton\, GA\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:The Coliseum\, Carrollton\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +318,12 @@ DTSTART:20270123T230000Z
 DTEND:20270124T020000Z
 SUMMARY:UT Arlington Mavericks @ North Alabama Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ North A
- labama Lions\nCB&S Bank Arena at Flowers Hall\, Florence\, AL
+ labama Lions\nCB&S Bank Arena at Flowers Hall\, Florence\, AL\nBroadcast: 
+ Broadcast not announced
 LOCATION:CB&S Bank Arena at Flowers Hall\, Florence\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +332,12 @@ DTSTART:20270128T010000Z
 DTEND:20270128T040000Z
 SUMMARY:Little Rock Trojans @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ UT Arlingt
- on Mavericks\nCollege Park Center\, Arlington\, TX
+ on Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: Broadcast n
+ ot announced
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +346,12 @@ DTSTART:20270130T230000Z
 DTEND:20270131T020000Z
 SUMMARY:Abilene Christian Wildcats @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ UT 
- Arlington Mavericks\nCollege Park Center\, Arlington\, TX
+ Arlington Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: Broa
+ dcast not announced
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +360,12 @@ DTSTART:20270204T010000Z
 DTEND:20270204T040000Z
 SUMMARY:UT Arlington Mavericks @ Eastern Kentucky Colonels
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Eastern
-  Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY
+  Kentucky Colonels\nBaptist Health Arena\, Richmond\, KY\nBroadcast: Broad
+ cast not announced
 LOCATION:Baptist Health Arena\, Richmond\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +374,12 @@ DTSTART:20270206T223000Z
 DTEND:20270207T013000Z
 SUMMARY:UT Arlington Mavericks @ Austin Peay Governors
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Austin 
- Peay Governors\nF&M Bank Arena\, Clarksville\, TN
+ Peay Governors\nF&M Bank Arena\, Clarksville\, TN\nBroadcast: Broadcast no
+ t announced
 LOCATION:F&M Bank Arena\, Clarksville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +388,12 @@ DTSTART:20270213T230000Z
 DTEND:20270214T020000Z
 SUMMARY:Tarleton State Texans @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTarleton State Texans @ UT Arlin
- gton Mavericks\nCollege Park Center\, Arlington\, TX
+ gton Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: Broadcast
+  not announced
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +402,12 @@ DTSTART:20270218T020000Z
 DTEND:20270218T050000Z
 SUMMARY:West Georgia Wolves @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Georgia Wolves @ UT Arlingt
- on Mavericks\nCollege Park Center\, Arlington\, TX
+ on Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: Broadcast n
+ ot announced
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +416,12 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:North Alabama Lions @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Alabama Lions @ UT Arlingt
- on Mavericks\nCollege Park Center\, Arlington\, TX
+ on Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: Broadcast n
+ ot announced
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +430,12 @@ DTSTART:20270225T010000Z
 DTEND:20270225T040000Z
 SUMMARY:UT Arlington Mavericks @ Little Rock Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Little 
- Rock Trojans\nJack Stephens Center\, Little Rock\, AR
+ Rock Trojans\nJack Stephens Center\, Little Rock\, AR\nBroadcast: Broadcas
+ t not announced
 LOCATION:Jack Stephens Center\, Little Rock\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +444,12 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:UT Arlington Mavericks @ Tarleton State Texans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Tarleto
- n State Texans\nEECU Center\, Stephenville\, TX
+ n State Texans\nEECU Center\, Stephenville\, TX\nBroadcast: Broadcast not 
+ announced
 LOCATION:EECU Center\, Stephenville\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +458,12 @@ DTSTART:20270304T003000Z
 DTEND:20270304T033000Z
 SUMMARY:UT Arlington Mavericks @ Central Arkansas Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Central
-  Arkansas Bears\nFarris Center\, Conway\, AR
+  Arkansas Bears\nFarris Center\, Conway\, AR\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Farris Center\, Conway\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -428,11 +472,12 @@ DTSTART:20270307T010000Z
 DTEND:20270307T040000Z
 SUMMARY:Eastern Kentucky Colonels @ UT Arlington Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEastern Kentucky Colonels @ UT A
- rlington Mavericks\nCollege Park Center\, Arlington\, TX
+ rlington Mavericks\nCollege Park Center\, Arlington\, TX\nBroadcast: Broad
+ cast not announced
 LOCATION:College Park Center\, Arlington\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

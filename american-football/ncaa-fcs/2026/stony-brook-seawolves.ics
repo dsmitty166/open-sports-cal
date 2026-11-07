@@ -12,12 +12,14 @@ DTSTART:20260827T220000Z
 DTEND:20260828T010000Z
 SUMMARY:Stony Brook Seawolves @ Delaware State Hornets
 DESCRIPTION:NCAA FCS Football 2026\nStony Brook Seawolves @ Delaware State 
- Hornets\nAlumni Stadium (DE)\, Dover\, DE
+ Hornets\nAlumni Stadium (DE)\, Dover\, DE\nBroadcast: MEAC Network (stream
+ ing)
 LOCATION:Alumni Stadium (DE)\, Dover\, DE
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MEAC Network (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866622@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20260903T230000Z
 DTEND:20260904T020000Z
 SUMMARY:Lindenwood Lions @ Stony Brook Seawolves
 DESCRIPTION:NCAA FCS Football 2026\nLindenwood Lions @ Stony Brook Seawolve
- s\nKenneth P. LaValle Stadium\, Stony Brook\, NY
+ s\nKenneth P. LaValle Stadium\, Stony Brook\, NY\nBroadcast: SNY / FloSpor
+ ts (streaming)
 LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SNY / FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866413@open-sports-cal
@@ -38,12 +42,13 @@ DTSTART:20260912T180000Z
 DTEND:20260912T210000Z
 SUMMARY:Stony Brook Seawolves @ Ball State Cardinals
 DESCRIPTION:NCAA FCS Football 2026\nStony Brook Seawolves @ Ball State Card
- inals\nScheumann Stadium\, Muncie\, IN
+ inals\nScheumann Stadium\, Muncie\, IN\nBroadcast: ESPN+ (streaming)
 LOCATION:Scheumann Stadium\, Muncie\, IN
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866634@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20260919T183000Z
 DTEND:20260919T213000Z
 SUMMARY:Rhode Island Rams @ Stony Brook Seawolves
 DESCRIPTION:NCAA FCS Football 2026\nRhode Island Rams @ Stony Brook Seawolv
- es\nKenneth P. LaValle Stadium\, Stony Brook\, NY
+ es\nKenneth P. LaValle Stadium\, Stony Brook\, NY\nBroadcast: FloSports (s
+ treaming)
 LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866648@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20260926T170000Z
 DTEND:20260926T200000Z
 SUMMARY:Stony Brook Seawolves @ Fordham Rams
 DESCRIPTION:NCAA FCS Football 2026\nStony Brook Seawolves @ Fordham Rams\nM
- oglia Stadium at Jack Coffey Field\, Bronx\, NY
+ oglia Stadium at Jack Coffey Field\, Bronx\, NY\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Moglia Stadium at Jack Coffey Field\, Bronx\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866659@open-sports-cal
@@ -77,12 +86,14 @@ DTSTART:20261010T200000Z
 DTEND:20261010T230000Z
 SUMMARY:Stony Brook Seawolves @ Towson Tigers
 DESCRIPTION:NCAA FCS Football 2026\nStony Brook Seawolves @ Towson Tigers\n
- Johnny Unitas Stadium\, Towson\, MD
+ Johnny Unitas Stadium\, Towson\, MD\nBroadcast: MNMT / FloSports (streamin
+ g)
 LOCATION:Johnny Unitas Stadium\, Towson\, MD
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MNMT / FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866666@open-sports-cal
@@ -90,12 +101,14 @@ DTSTART:20261017T183000Z
 DTEND:20261017T213000Z
 SUMMARY:UAlbany Great Danes @ Stony Brook Seawolves
 DESCRIPTION:NCAA FCS Football 2026\nUAlbany Great Danes @ Stony Brook Seawo
- lves\nKenneth P. LaValle Stadium\, Stony Brook\, NY
+ lves\nKenneth P. LaValle Stadium\, Stony Brook\, NY\nBroadcast: SNY / FloS
+ ports (streaming)
 LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SNY / FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866672@open-sports-cal
@@ -103,12 +116,13 @@ DTSTART:20261024T180000Z
 DTEND:20261024T210000Z
 SUMMARY:Stony Brook Seawolves @ Bryant Bulldogs
 DESCRIPTION:NCAA FCS Football 2026\nStony Brook Seawolves @ Bryant Bulldogs
- \nBeirne Stadium\, Smithfield\, RI
+ \nBeirne Stadium\, Smithfield\, RI\nBroadcast: FloSports (streaming)
 LOCATION:Beirne Stadium\, Smithfield\, RI
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866677@open-sports-cal
@@ -116,12 +130,14 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Sacred Heart Pioneers @ Stony Brook Seawolves
 DESCRIPTION:NCAA FCS Football 2026\nSacred Heart Pioneers @ Stony Brook Sea
- wolves\nKenneth P. LaValle Stadium\, Stony Brook\, NY
+ wolves\nKenneth P. LaValle Stadium\, Stony Brook\, NY\nBroadcast: FloSport
+ s (streaming)
 LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866684@open-sports-cal
@@ -129,12 +145,14 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Stony Brook Seawolves @ Campbell Fighting Camels
 DESCRIPTION:NCAA FCS Football 2026\nStony Brook Seawolves @ Campbell Fighti
- ng Camels\nBarker-Lane Stadium\, Buies Creek\, NC
+ ng Camels\nBarker-Lane Stadium\, Buies Creek\, NC\nBroadcast: FloSports (s
+ treaming)
 LOCATION:Barker-Lane Stadium\, Buies Creek\, NC
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866691@open-sports-cal
@@ -142,12 +160,14 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Stony Brook Seawolves @ New Hampshire Wildcats
 DESCRIPTION:NCAA FCS Football 2026\nStony Brook Seawolves @ New Hampshire W
- ildcats\nWildcat Stadium (NH)\, Durham\, NH
+ ildcats\nWildcat Stadium (NH)\, Durham\, NH\nBroadcast: FloSports (streami
+ ng)
 LOCATION:Wildcat Stadium (NH)\, Durham\, NH
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fcs-401866695@open-sports-cal
@@ -155,11 +175,12 @@ DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:Hampton Pirates @ Stony Brook Seawolves
 DESCRIPTION:NCAA FCS Football 2026\nHampton Pirates @ Stony Brook Seawolves
- \nKenneth P. LaValle Stadium\, Stony Brook\, NY
+ \nKenneth P. LaValle Stadium\, Stony Brook\, NY\nBroadcast: Broadcast not 
+ announced
 LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
 CATEGORIES:American Football,NCAA FCS Football,NCAA FCS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

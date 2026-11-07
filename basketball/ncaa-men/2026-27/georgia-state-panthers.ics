@@ -12,12 +12,14 @@ DTSTART:20261102T230000Z
 DTEND:20261103T020000Z
 SUMMARY:Bowling Green Falcons @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBowling Green Falcons @ Georgia 
- State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925819@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Georgia State Panthers @ Charlotte 49ers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Charlot
- te 49ers\nHalton Arena\, Charlotte\, NC
+ te 49ers\nHalton Arena\, Charlotte\, NC\nBroadcast: ESPN+ (streaming)
 LOCATION:Halton Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929449@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Andrew Fighting Tigers @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAndrew Fighting Tigers @ Georgia
-  State Panthers\nGSU Convocation Center\, Atlanta\, GA
+  State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929180@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261111T020000Z
 DTEND:20261111T050000Z
 SUMMARY:Georgia State Panthers @ Fresno State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Fresno 
- State Bulldogs\nSave Mart Center\, Fresno\, CA
+ State Bulldogs\nSave Mart Center\, Fresno\, CA\nBroadcast: YouTube (stream
+ ing)
 LOCATION:Save Mart Center\, Fresno\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925896@open-sports-cal
@@ -64,12 +71,14 @@ DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Norfolk State Spartans @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorfolk State Spartans @ Georgia
-  State Panthers\nGSU Convocation Center\, Atlanta\, GA
+  State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ (
+ streaming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926782@open-sports-cal
@@ -77,12 +86,14 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Georgia State Panthers @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Jackson
- ville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ ville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919006@open-sports-cal
@@ -90,11 +101,12 @@ DTSTART:20261123T210000Z
 DTEND:20261124T000000Z
 SUMMARY:Tulane Green Wave @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTulane Green Wave @ Georgia Stat
- e Panthers\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site
+ e Panthers\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site\nB
+ roadcast: Broadcast not announced
 LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -104,11 +116,11 @@ DTEND:20261126T000000Z
 SUMMARY:Georgia State Panthers @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Florida
   Gulf Coast Eagles\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral
-  site
+  site\nBroadcast: Broadcast not announced
 LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -117,12 +129,13 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Mercer Bears @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercer Bears @ Georgia State Pan
- thers\nGSU Convocation Center\, Atlanta\, GA
+ thers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ (streaming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911944@open-sports-cal
@@ -130,12 +143,14 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:Georgia State Panthers @ UL Monroe Warhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ UL Monr
- oe Warhawks\nb1Bank Fant Coliseum\, Monroe\, LA
+ oe Warhawks\nb1Bank Fant Coliseum\, Monroe\, LA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:b1Bank Fant Coliseum\, Monroe\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926790@open-sports-cal
@@ -143,12 +158,14 @@ DTSTART:20261210T000000Z
 DTEND:20261210T030000Z
 SUMMARY:Kennesaw State Owls @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKennesaw State Owls @ Georgia St
- ate Panthers\nGSU Convocation Center\, Atlanta\, GA
+ ate Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929415@open-sports-cal
@@ -156,12 +173,14 @@ DTSTART:20261212T200000Z
 DTEND:20261212T230000Z
 SUMMARY:Texas Southern Tigers @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas Southern Tigers @ Georgia 
- State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911946@open-sports-cal
@@ -169,12 +188,14 @@ DTSTART:20261217T000000Z
 DTEND:20261217T030000Z
 SUMMARY:Georgia State Panthers @ James Madison Dukes
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ James M
- adison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA
+ adison Dukes\nAtlantic Union Bank Center\, Harrisonburg\, VA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Atlantic Union Bank Center\, Harrisonburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909714@open-sports-cal
@@ -182,12 +203,14 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:Georgia State Panthers @ Pittsburgh Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Pittsbu
- rgh Panthers\nPetersen Events Center\, Pittsburgh\, PA
+ rgh Panthers\nPetersen Events Center\, Pittsburgh\, PA\nBroadcast: ACCNX (
+ streaming)
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929451@open-sports-cal
@@ -195,12 +218,14 @@ DTSTART:20261222T180000Z
 DTEND:20261222T210000Z
 SUMMARY:Coastal Georgia Mariner @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCoastal Georgia Mariner @ Georgi
- a State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ a State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911960@open-sports-cal
@@ -208,12 +233,14 @@ DTSTART:20261231T180000Z
 DTEND:20261231T210000Z
 SUMMARY:Southern Miss Golden Eagles @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Miss Golden Eagles @ Ge
- orgia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ orgia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911967@open-sports-cal
@@ -221,11 +248,12 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Georgi
- a State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ a State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broadc
+ ast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -234,11 +262,11 @@ DTSTART:20270106T230000Z
 DTEND:20270107T020000Z
 SUMMARY:Georgia State Panthers @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Troy Tr
- ojans\nTrojan Arena\, Troy\, AL
+ ojans\nTrojan Arena\, Troy\, AL\nBroadcast: Broadcast not announced
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -247,11 +275,12 @@ DTSTART:20270109T200000Z
 DTEND:20270109T230000Z
 SUMMARY:Georgia State Panthers @ Arkansas State Red Wolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Arkansa
- s State Red Wolves\nFirst National Bank Arena\, Jonesboro\, AR
+ s State Red Wolves\nFirst National Bank Arena\, Jonesboro\, AR\nBroadcast:
+  Broadcast not announced
 LOCATION:First National Bank Arena\, Jonesboro\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +289,12 @@ DTSTART:20270114T200000Z
 DTEND:20270114T230000Z
 SUMMARY:Marshall Thundering Herd @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ Georg
- ia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ ia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broad
+ cast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -273,11 +303,12 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Georgia State Panthers @ App State Mountaineers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ App Sta
- te Mountaineers\nHolmes Convocation Center\, Boone\, NC
+ te Mountaineers\nHolmes Convocation Center\, Boone\, NC\nBroadcast: Broadc
+ ast not announced
 LOCATION:Holmes Convocation Center\, Boone\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -286,11 +317,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Georgia Southern Eagles @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia Southern Eagles @ Georgi
- a State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ a State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broadc
+ ast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -299,11 +331,12 @@ DTSTART:20270123T200000Z
 DTEND:20270123T230000Z
 SUMMARY:James Madison Dukes @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJames Madison Dukes @ Georgia St
- ate Panthers\nGSU Convocation Center\, Atlanta\, GA
+ ate Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broadcast 
+ not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +345,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Georgia State Panthers @ Marshall Thundering Herd
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Marshal
- l Thundering Herd\nCam Henderson Center\, Huntington\, WV
+ l Thundering Herd\nCam Henderson Center\, Huntington\, WV\nBroadcast: Broa
+ dcast not announced
 LOCATION:Cam Henderson Center\, Huntington\, WV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -325,11 +359,12 @@ DTSTART:20270131T010000Z
 DTEND:20270131T040000Z
 SUMMARY:Coastal Carolina Chanticleers @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCoastal Carolina Chanticleers @ 
- Georgia State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ Georgia State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: 
+ Broadcast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +373,12 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:Georgia State Panthers @ Old Dominion Monarchs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Old Dom
- inion Monarchs\nChartway Arena\, Norfolk\, VA
+ inion Monarchs\nChartway Arena\, Norfolk\, VA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Chartway Arena\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +387,12 @@ DTSTART:20270213T180000Z
 DTEND:20270213T210000Z
 SUMMARY:South Alabama Jaguars @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Alabama Jaguars @ Georgia 
- State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broadcas
+ t not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +401,12 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:Georgia State Panthers @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Coastal
-  Carolina Chanticleers\nThe HTC Center\, Conway\, SC
+  Carolina Chanticleers\nThe HTC Center\, Conway\, SC\nBroadcast: Broadcast
+  not announced
 LOCATION:The HTC Center\, Conway\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +415,12 @@ DTSTART:20270220T200000Z
 DTEND:20270220T230000Z
 SUMMARY:App State Mountaineers @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nApp State Mountaineers @ Georgia
-  State Panthers\nGSU Convocation Center\, Atlanta\, GA
+  State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broadca
+ st not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +429,12 @@ DTSTART:20270223T230000Z
 DTEND:20270224T020000Z
 SUMMARY:Old Dominion Monarchs @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOld Dominion Monarchs @ Georgia 
- State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broadcas
+ t not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,11 +444,11 @@ DTEND:20270227T040000Z
 SUMMARY:Georgia State Panthers @ Georgia Southern Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Georgia
   Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\,
-  GA
+  GA\nBroadcast: Broadcast not announced
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

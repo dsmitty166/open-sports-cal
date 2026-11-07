@@ -12,13 +12,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:SUNY Cortland Red Dragons @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSUNY Cortland Red Dragons @ Wa
- gner Seahawks\nSpiro Sports Center\, Staten Island\, NY
+ gner Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: NEC Fr
+ ont Row
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919961@open-sports-cal
@@ -26,13 +28,14 @@ DTSTART:20261106T013000Z
 DTEND:20261106T043000Z
 SUMMARY:Wagner Seahawks @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Lafayette Le
- opards\nKirby Sports Center\, Easton\, PA
+ opards\nKirby Sports Center\, Easton\, PA\nBroadcast: ESPN+ (streaming)
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919962@open-sports-cal
@@ -40,13 +43,14 @@ DTSTART:20261107T180000Z
 DTEND:20261107T210000Z
 SUMMARY:Wagner Seahawks @ St. John's Red Storm
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ St. John's R
- ed Storm\nCarnesecca Arena\, Queens\, NY
+ ed Storm\nCarnesecca Arena\, Queens\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Carnesecca Arena\, Queens\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915775@open-sports-cal
@@ -54,13 +58,14 @@ DTSTART:20261113T000000Z
 DTEND:20261113T030000Z
 SUMMARY:Rhode Island Rams @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRhode Island Rams @ Wagner Sea
- hawks\nSpiro Sports Center\, Staten Island\, NY
+ hawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: NEC Front Row
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919410@open-sports-cal
@@ -68,12 +73,13 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Rider Broncs @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRider Broncs @ Wagner Seahawks
- \nSpiro Sports Center\, Staten Island\, NY
+ \nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -82,13 +88,14 @@ DTSTART:20261124T230000Z
 DTEND:20261125T020000Z
 SUMMARY:Wagner Seahawks @ Cornell Big Red
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Cornell Big 
- Red\nNewman Arena\, Ithaca\, NY
+ Red\nNewman Arena\, Ithaca\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Newman Arena\, Ithaca\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401915671@open-sports-cal
@@ -96,12 +103,13 @@ DTSTART:20261203T000000Z
 DTEND:20261203T030000Z
 SUMMARY:Iona Gaels @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIona Gaels @ Wagner Seahawks\n
- Spiro Sports Center\, Staten Island\, NY
+ Spiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not announc
+ ed
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -110,12 +118,13 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Columbia Lions @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColumbia Lions @ Wagner Seahaw
- ks\nSpiro Sports Center\, Staten Island\, NY
+ ks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +133,14 @@ DTSTART:20261210T230000Z
 DTEND:20261211T020000Z
 SUMMARY:Wagner Seahawks @ Siena Saints
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Siena Saints
- \nUHY Center\, Loudonville\, NY
+ \nUHY Center\, Loudonville\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:UHY Center\, Loudonville\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919080@open-sports-cal
@@ -138,13 +148,15 @@ DTSTART:20261213T200000Z
 DTEND:20261213T230000Z
 SUMMARY:Wagner Seahawks @ Marquette Golden Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Marquette Go
- lden Eagles\nAl McGuire Center\, Milwaukee\, WI
+ lden Eagles\nAl McGuire Center\, Milwaukee\, WI\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Al McGuire Center\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913033@open-sports-cal
@@ -152,13 +164,14 @@ DTSTART:20261219T180000Z
 DTEND:20261219T210000Z
 SUMMARY:Wagner Seahawks @ Seton Hall Pirates
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Seton Hall P
- irates\nWalsh Gymnasium\, South Orange\, NJ
+ irates\nWalsh Gymnasium\, South Orange\, NJ\nBroadcast: ESPN+ (streaming)
 LOCATION:Walsh Gymnasium\, South Orange\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919963@open-sports-cal
@@ -166,12 +179,13 @@ DTSTART:20261230T190000Z
 DTEND:20261230T220000Z
 SUMMARY:SUNY New Paltz Hawks @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSUNY New Paltz Hawks @ Wagner 
- Seahawks\nSpiro Sports Center\, Staten Island\, NY
+ Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -180,12 +194,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Stonehill Skyhawks @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nStonehill Skyhawks @ Wagner Se
- ahawks\nSpiro Sports Center\, Staten Island\, NY
+ ahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not
+  announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +209,13 @@ DTSTART:20270107T000000Z
 DTEND:20270107T030000Z
 SUMMARY:New Haven Chargers @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNew Haven Chargers @ Wagner Se
- ahawks\nSpiro Sports Center\, Staten Island\, NY
+ ahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not
+  announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +224,13 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Wagner Seahawks @ Chicago State Cougars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Chicago Stat
- e Cougars\nJones Convocation Center\, Chicago\, IL
+ e Cougars\nJones Convocation Center\, Chicago\, IL\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Jones Convocation Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +239,13 @@ DTSTART:20270114T230000Z
 DTEND:20270115T020000Z
 SUMMARY:Wagner Seahawks @ Mercyhurst Lakers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Mercyhurst L
- akers\nMercyhurst Athletic Center\, Erie\, PA
+ akers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +254,12 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Wagner Seahawks @ Le Moyne Dolphins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Le Moyne Dol
- phins\nTed Grant Court\, Syracuse\, NY
+ phins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not announced
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +268,13 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Chicago State Cougars @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nChicago State Cougars @ Wagner
-  Seahawks\nSpiro Sports Center\, Staten Island\, NY
+  Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast 
+ not announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +283,13 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Fairleigh Dickinson Knights @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nFairleigh Dickinson Knights @ 
- Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY
+ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broa
+ dcast not announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +298,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:Wagner Seahawks @ Long Island University Sharks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Long Island 
- University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+ University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +313,13 @@ DTSTART:20270204T230000Z
 DTEND:20270205T020000Z
 SUMMARY:Wagner Seahawks @ Stonehill Skyhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Stonehill Sk
- yhawks\nMerkert Gymnasium\, South Easton\, MA
+ yhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +328,13 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Wagner Seahawks @ New Haven Chargers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ New Haven Ch
- argers\nJeffery P. Hazell Athletics Center\, West Haven\, CT
+ argers\nJeffery P. Hazell Athletics Center\, West Haven\, CT\nBroadcast: B
+ roadcast not announced
 LOCATION:Jeffery P. Hazell Athletics Center\, West Haven\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +343,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Long Island University Sharks @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY
+ @ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Br
+ oadcast not announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -335,12 +359,12 @@ DTEND;VALUE=DATE:20270219
 SUMMARY:Wagner Seahawks @ Fairleigh Dickinson Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Fairleigh Di
  ckinson Knights\nBogota Savings Bank Center\, Hackensack\, NJ\nStart time 
- TBD
+ TBD\nBroadcast: Broadcast not announced
 LOCATION:Bogota Savings Bank Center\, Hackensack\, NJ
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919870@open-sports-cal
@@ -348,12 +372,13 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Wagner Seahawks @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWagner Seahawks @ Central Conn
- ecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ ecticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: Broa
+ dcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +387,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Le Moyne Dolphins @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLe Moyne Dolphins @ Wagner Sea
- hawks\nSpiro Sports Center\, Staten Island\, NY
+ hawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not 
+ announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +402,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Mercyhurst Lakers @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nMercyhurst Lakers @ Wagner Sea
- hawks\nSpiro Sports Center\, Staten Island\, NY
+ hawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not 
+ announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +417,13 @@ DTSTART:20270305T000000Z
 DTEND:20270305T030000Z
 SUMMARY:Central Connecticut Blue Devils @ Wagner Seahawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCentral Connecticut Blue Devil
- s @ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY
+ s @ Wagner Seahawks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: 
+ Broadcast not announced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

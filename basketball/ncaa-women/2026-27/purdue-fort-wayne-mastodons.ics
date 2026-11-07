@@ -12,13 +12,15 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Xavier Musketeers @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nXavier Musketeers @ Purdue For
- t Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ t Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401913045@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261106T170000Z
 DTEND:20261106T200000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ DePaul Blue Demons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- DePaul Blue Demons\nWintrust Arena\, Chicago\, IL
+ DePaul Blue Demons\nWintrust Arena\, Chicago\, IL\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Wintrust Arena\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929100@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Western Michigan Broncos
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Western Michigan Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI
+ Western Michigan Broncos\nUniversity Arena (MI)\, Kalamazoo\, MI\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:University Arena (MI)\, Kalamazoo\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920016@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261113T160000Z
 DTEND:20261113T190000Z
 SUMMARY:Valparaiso Beacons @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nValparaiso Beacons @ Purdue Fo
- rt Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ rt Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929101@open-sports-cal
@@ -68,13 +76,15 @@ DTSTART:20261117T170000Z
 DTEND:20261117T200000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Western Illinois Leathernecks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL
+ Western Illinois Leathernecks\nWestern Hall\, Macomb\, IL\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Western Hall\, Macomb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929102@open-sports-cal
@@ -82,13 +92,15 @@ DTSTART:20261124T000000Z
 DTEND:20261124T030000Z
 SUMMARY:Grace Lancers @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGrace Lancers @ Purdue Fort Wa
- yne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ yne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401920008@open-sports-cal
@@ -97,12 +109,12 @@ DTEND:20261127T233000Z
 SUMMARY:Southern Illinois Salukis @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nSouthern Illinois Salukis @ Pu
  rdue Fort Wayne Mastodons\nJohn A. Alario Sr. Event Center\, Westwego\, LA
- \nNeutral site
+ \nNeutral site\nBroadcast: Broadcast not announced
 LOCATION:John A. Alario Sr. Event Center\, Westwego\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -112,12 +124,12 @@ DTEND:20261129T020000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ UL Monroe Warhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
  UL Monroe Warhawks\nJohn A. Alario Sr. Event Center\, Westwego\, LA\nNeutr
- al site
+ al site\nBroadcast: Broadcast not announced
 LOCATION:John A. Alario Sr. Event Center\, Westwego\, LA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -126,13 +138,15 @@ DTSTART:20261203T233000Z
 DTEND:20261204T023000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ IU Indianapolis Jaguars
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- IU Indianapolis Jaguars\nJames T. Morris Arena\, Indianapolis\, IN
+ IU Indianapolis Jaguars\nJames T. Morris Arena\, Indianapolis\, IN\nBroadc
+ ast: ESPN+ (streaming)
 LOCATION:James T. Morris Arena\, Indianapolis\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919092@open-sports-cal
@@ -140,13 +154,15 @@ DTSTART:20261206T190000Z
 DTEND:20261206T220000Z
 SUMMARY:Wright State Raiders @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWright State Raiders @ Purdue 
- Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nBroa
+ dcast: ESPN+ (streaming)
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929104@open-sports-cal
@@ -154,13 +170,15 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Southeast Missouri State Redhawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Southeast Missouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO
+ Southeast Missouri State Redhawks\nShow Me Center\, Cape Girardeau\, MO\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:Show Me Center\, Cape Girardeau\, MO
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929105@open-sports-cal
@@ -168,13 +186,15 @@ DTSTART:20261219T000000Z
 DTEND:20261219T030000Z
 SUMMARY:Eastern Michigan Eagles @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nEastern Michigan Eagles @ Purd
- ue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ ue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401929106@open-sports-cal
@@ -182,13 +202,15 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Bowling Green Falcons @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBowling Green Falcons @ Purdue
-  Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+  Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919095@open-sports-cal
@@ -196,13 +218,15 @@ DTSTART:20261231T180000Z
 DTEND:20261231T210000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Milwaukee Panthers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Milwaukee Panthers\nKlotsche Center\, Milwaukee\, WI
+ Milwaukee Panthers\nKlotsche Center\, Milwaukee\, WI\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Klotsche Center\, Milwaukee\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919100@open-sports-cal
@@ -210,12 +234,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Green Bay Phoenix
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Green Bay Phoenix\nKress Center\, Green Bay\, WI
+ Green Bay Phoenix\nKress Center\, Green Bay\, WI\nBroadcast: Broadcast not
+  announced
 LOCATION:Kress Center\, Green Bay\, WI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -224,12 +249,13 @@ DTSTART:20270108T000000Z
 DTEND:20270108T030000Z
 SUMMARY:Cleveland State Vikings @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nCleveland State Vikings @ Purd
- ue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ ue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nB
+ roadcast: Broadcast not announced
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -238,12 +264,13 @@ DTSTART:20270110T200000Z
 DTEND:20270110T230000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Northern Illinois Huskies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Northern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL
+ Northern Illinois Huskies\nNIU Convocation Center\, Dekalb\, IL\nBroadcast
+ : Broadcast not announced
 LOCATION:NIU Convocation Center\, Dekalb\, IL
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -253,12 +280,12 @@ DTEND:20270114T023000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Youngstown State Penguins
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
  Youngstown State Penguins\nZidian Family Arena at Beeghly Center\, Youngst
- own\, OH
+ own\, OH\nBroadcast: Broadcast not announced
 LOCATION:Zidian Family Arena at Beeghly Center\, Youngstown\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -267,12 +294,13 @@ DTSTART:20270116T190000Z
 DTEND:20270116T220000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Robert Morris Colonials
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Robert Morris Colonials\nUPMC Events Center\, Moon Township\, PA
+ Robert Morris Colonials\nUPMC Events Center\, Moon Township\, PA\nBroadcas
+ t: Broadcast not announced
 LOCATION:UPMC Events Center\, Moon Township\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -281,12 +309,13 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Northern Kentucky Norse @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Kentucky Norse @ Purd
- ue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ ue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nB
+ roadcast: Broadcast not announced
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -295,12 +324,13 @@ DTSTART:20270124T190000Z
 DTEND:20270124T220000Z
 SUMMARY:Green Bay Phoenix @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nGreen Bay Phoenix @ Purdue For
- t Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ t Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nBroadca
+ st: Broadcast not announced
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -309,12 +339,13 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:Detroit Mercy Titans @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDetroit Mercy Titans @ Purdue 
- Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nBroa
+ dcast: Broadcast not announced
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -323,12 +354,13 @@ DTSTART:20270131T190000Z
 DTEND:20270131T220000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Oakland Golden Grizzlies
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Oakland Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI
+ Oakland Golden Grizzlies\nOU Credit Union O'rena\, Rochester\, MI\nBroadca
+ st: Broadcast not announced
 LOCATION:OU Credit Union O'rena\, Rochester\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,12 +369,13 @@ DTSTART:20270204T000000Z
 DTEND:20270204T030000Z
 SUMMARY:IU Indianapolis Jaguars @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nIU Indianapolis Jaguars @ Purd
- ue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ ue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nB
+ roadcast: Broadcast not announced
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -351,12 +384,13 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Northern Illinois Huskies @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNorthern Illinois Huskies @ Pu
- rdue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ rdue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\
+ nBroadcast: Broadcast not announced
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -365,12 +399,13 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:Youngstown State Penguins @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nYoungstown State Penguins @ Pu
- rdue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ rdue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\
+ nBroadcast: Broadcast not announced
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -379,12 +414,13 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Northern Kentucky Norse
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Northern Kentucky Norse\nTruist Arena\, Highland Heights\, KY
+ Northern Kentucky Norse\nTruist Arena\, Highland Heights\, KY\nBroadcast: 
+ Broadcast not announced
 LOCATION:Truist Arena\, Highland Heights\, KY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -393,12 +429,13 @@ DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:Oakland Golden Grizzlies @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nOakland Golden Grizzlies @ Pur
- due Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ due Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\n
+ Broadcast: Broadcast not announced
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -407,12 +444,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:Robert Morris Colonials @ Purdue Fort Wayne Mastodons
 DESCRIPTION:NCAA Women's Basketball 2026-27\nRobert Morris Colonials @ Purd
- ue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN
+ ue Fort Wayne Mastodons\nHilliard Gates Sports Center\, Fort Wayne\, IN\nB
+ roadcast: Broadcast not announced
 LOCATION:Hilliard Gates Sports Center\, Fort Wayne\, IN
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -421,12 +459,13 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Detroit Mercy Titans
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Detroit Mercy Titans\nCalihan Hall\, Detroit\, MI
+ Detroit Mercy Titans\nCalihan Hall\, Detroit\, MI\nBroadcast: Broadcast no
+ t announced
 LOCATION:Calihan Hall\, Detroit\, MI
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -435,12 +474,13 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Purdue Fort Wayne Mastodons @ Wright State Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nPurdue Fort Wayne Mastodons @ 
- Wright State Raiders\nNutter Center\, Dayton\, OH
+ Wright State Raiders\nNutter Center\, Dayton\, OH\nBroadcast: Broadcast no
+ t announced
 LOCATION:Nutter Center\, Dayton\, OH
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

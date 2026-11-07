@@ -12,12 +12,14 @@ DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:Tarleton State Texans @ Bowling Green Falcons
 DESCRIPTION:NCAA FBS Football 2026\nTarleton State Texans @ Bowling Green F
- alcons\nDoyt L. Perry Stadium\, Bowling Green\, OH
+ alcons\nDoyt L. Perry Stadium\, Bowling Green\, OH\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Doyt L. Perry Stadium\, Bowling Green\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858441@open-sports-cal
@@ -25,12 +27,13 @@ DTSTART:20260912T230000Z
 DTEND:20260913T020000Z
 SUMMARY:Bowling Green Falcons @ Nebraska Cornhuskers
 DESCRIPTION:NCAA FBS Football 2026\nBowling Green Falcons @ Nebraska Cornhu
- skers\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE
+ skers\nMemorial Stadium (Lincoln\, NE)\, Lincoln\, NE\nBroadcast: FS1
 LOCATION:Memorial Stadium (Lincoln\, NE)\, Lincoln\, NE
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:FS1
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856798@open-sports-cal
@@ -38,12 +41,13 @@ DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 SUMMARY:Bowling Green Falcons @ Iowa State Cyclones
 DESCRIPTION:NCAA FBS Football 2026\nBowling Green Falcons @ Iowa State Cycl
- ones\nJack Trice Stadium\, Ames\, IA
+ ones\nJack Trice Stadium\, Ames\, IA\nBroadcast: ESPNU
 LOCATION:Jack Trice Stadium\, Ames\, IA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401862785@open-sports-cal
@@ -51,12 +55,14 @@ DTSTART:20260926T210000Z
 DTEND:20260927T000000Z
 SUMMARY:South Florida Bulls @ Bowling Green Falcons
 DESCRIPTION:NCAA FBS Football 2026\nSouth Florida Bulls @ Bowling Green Fal
- cons\nDoyt L. Perry Stadium\, Bowling Green\, OH
+ cons\nDoyt L. Perry Stadium\, Bowling Green\, OH\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Doyt L. Perry Stadium\, Bowling Green\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866477@open-sports-cal
@@ -64,12 +70,13 @@ DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 SUMMARY:Bowling Green Falcons @ Miami (OH) RedHawks
 DESCRIPTION:NCAA FBS Football 2026\nBowling Green Falcons @ Miami (OH) RedH
- awks\nYager Stadium\, Oxford\, OH
+ awks\nYager Stadium\, Oxford\, OH\nBroadcast: ESPN+ (streaming)
 LOCATION:Yager Stadium\, Oxford\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866436@open-sports-cal
@@ -77,12 +84,14 @@ DTSTART:20261010T160000Z
 DTEND:20261010T190000Z
 SUMMARY:Sacramento State Hornets @ Bowling Green Falcons
 DESCRIPTION:NCAA FBS Football 2026\nSacramento State Hornets @ Bowling Gree
- n Falcons\nDoyt L. Perry Stadium\, Bowling Green\, OH
+ n Falcons\nDoyt L. Perry Stadium\, Bowling Green\, OH\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Doyt L. Perry Stadium\, Bowling Green\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866441@open-sports-cal
@@ -90,12 +99,14 @@ DTSTART:20261017T160000Z
 DTEND:20261017T190000Z
 SUMMARY:Ball State Cardinals @ Bowling Green Falcons
 DESCRIPTION:NCAA FBS Football 2026\nBall State Cardinals @ Bowling Green Fa
- lcons\nDoyt L. Perry Stadium\, Bowling Green\, OH
+ lcons\nDoyt L. Perry Stadium\, Bowling Green\, OH\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Doyt L. Perry Stadium\, Bowling Green\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866448@open-sports-cal
@@ -103,12 +114,13 @@ DTSTART:20261024T193000Z
 DTEND:20261024T223000Z
 SUMMARY:Bowling Green Falcons @ Buffalo Bulls
 DESCRIPTION:NCAA FBS Football 2026\nBowling Green Falcons @ Buffalo Bulls\n
- Broadview Stadium\, Buffalo\, NY
+ Broadview Stadium\, Buffalo\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Broadview Stadium\, Buffalo\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866452@open-sports-cal
@@ -116,12 +128,13 @@ DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:Bowling Green Falcons @ Western Michigan Broncos
 DESCRIPTION:NCAA FBS Football 2026\nBowling Green Falcons @ Western Michiga
- n Broncos\nWaldo Stadium\, Kalamazoo\, MI
+ n Broncos\nWaldo Stadium\, Kalamazoo\, MI\nBroadcast: CBSSN
 LOCATION:Waldo Stadium\, Kalamazoo\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:CBSSN
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866459@open-sports-cal
@@ -129,12 +142,13 @@ DTSTART:20261111T000000Z
 DTEND:20261111T030000Z
 SUMMARY:Kent State Golden Flashes @ Bowling Green Falcons
 DESCRIPTION:NCAA FBS Football 2026\nKent State Golden Flashes @ Bowling Gre
- en Falcons\nDoyt L. Perry Stadium\, Bowling Green\, OH
+ en Falcons\nDoyt L. Perry Stadium\, Bowling Green\, OH\nBroadcast: ESPNU
 LOCATION:Doyt L. Perry Stadium\, Bowling Green\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866468@open-sports-cal
@@ -142,12 +156,13 @@ DTSTART:20261121T003000Z
 DTEND:20261121T033000Z
 SUMMARY:Bowling Green Falcons @ Toledo Rockets
 DESCRIPTION:NCAA FBS Football 2026\nBowling Green Falcons @ Toledo Rockets\
- nGlass Bowl\, Toledo\, OH
+ nGlass Bowl\, Toledo\, OH\nBroadcast: ESPN2
 LOCATION:Glass Bowl\, Toledo\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866475@open-sports-cal
@@ -155,11 +170,12 @@ DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 SUMMARY:Massachusetts Minutemen @ Bowling Green Falcons
 DESCRIPTION:NCAA FBS Football 2026\nMassachusetts Minutemen @ Bowling Green
-  Falcons\nDoyt L. Perry Stadium\, Bowling Green\, OH
+  Falcons\nDoyt L. Perry Stadium\, Bowling Green\, OH\nBroadcast: Broadcast
+  not announced
 LOCATION:Doyt L. Perry Stadium\, Bowling Green\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

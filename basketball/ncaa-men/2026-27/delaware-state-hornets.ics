@@ -12,11 +12,12 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Saint Vincent Bearcats @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSaint Vincent Bearcats @ Delawar
- e State Hornets\nMemorial Hall (DE)\, Dover\, DE
+ e State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not
+  announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -25,12 +26,14 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:Delaware State Hornets @ Navy Midshipmen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ Navy Mi
- dshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ dshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: ESPN+ (streaming
+ ) / Patriot League TV (streaming)
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming) / Patriot League TV (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909514@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261110T233000Z
 DTEND:20261111T023000Z
 SUMMARY:Delaware State Hornets @ Georgetown Hoyas
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ Georget
- own Hoyas\nCapital One Arena\, Washington\, DC
+ own Hoyas\nCapital One Arena\, Washington\, DC\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Capital One Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401918979@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261114T210000Z
 DTEND:20261115T000000Z
 SUMMARY:Delaware State Hornets @ East Carolina Pirates
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ East Ca
- rolina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC
+ rolina Pirates\nWilliams Arena at Minges Coliseum\, Greenville\, NC\nBroad
+ cast: ESPN+ (streaming)
 LOCATION:Williams Arena at Minges Coliseum\, Greenville\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927342@open-sports-cal
@@ -64,11 +71,12 @@ DTSTART:20261118T000000Z
 DTEND:20261118T030000Z
 SUMMARY:Cheyney (PA) Wolves @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCheyney (PA) Wolves @ Delaware S
- tate Hornets\nMemorial Hall (DE)\, Dover\, DE
+ tate Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +85,12 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Niagara Purple Eagles @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNiagara Purple Eagles @ Delaware
-  State Hornets\nMemorial Hall (DE)\, Dover\, DE
+  State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not 
+ announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +99,13 @@ DTSTART:20261125T000000Z
 DTEND:20261125T030000Z
 SUMMARY:Delaware State Hornets @ Chattanooga Mocs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ Chattan
- ooga Mocs\nMcKenzie Arena\, Chattanooga\, TN
+ ooga Mocs\nMcKenzie Arena\, Chattanooga\, TN\nBroadcast: ESPN+ (streaming)
 LOCATION:McKenzie Arena\, Chattanooga\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921158@open-sports-cal
@@ -103,11 +113,12 @@ DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
 SUMMARY:Delaware State Hornets @ North Carolina A&T Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ North C
- arolina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC
+ arolina A&T Aggies\nCorbett Sports Center\, Greensboro\, NC\nBroadcast: Br
+ oadcast not announced
 LOCATION:Corbett Sports Center\, Greensboro\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -116,11 +127,12 @@ DTSTART:20261202T003000Z
 DTEND:20261202T033000Z
 SUMMARY:New Haven Chargers @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Haven Chargers @ Delaware St
- ate Hornets\nMemorial Hall (DE)\, Dover\, DE
+ ate Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -129,11 +141,12 @@ DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
 SUMMARY:UMBC Retrievers @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUMBC Retrievers @ Delaware State
-  Hornets\nMemorial Hall (DE)\, Dover\, DE
+  Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,11 +155,12 @@ DTSTART:20261209T003000Z
 DTEND:20261209T033000Z
 SUMMARY:Binghamton Bearcats @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBinghamton Bearcats @ Delaware S
- tate Hornets\nMemorial Hall (DE)\, Dover\, DE
+ tate Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -155,11 +169,12 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Longwood Lancers @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLongwood Lancers @ Delaware Stat
- e Hornets\nMemorial Hall (DE)\, Dover\, DE
+ e Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -168,12 +183,13 @@ DTSTART:20261216T000000Z
 DTEND:20261216T030000Z
 SUMMARY:Delaware State Hornets @ UConn Huskies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ UConn H
- uskies\nPeoplesBank Arena\, Hartford\, CT
+ uskies\nPeoplesBank Arena\, Hartford\, CT\nBroadcast: truTV
 LOCATION:PeoplesBank Arena\, Hartford\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:truTV
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401927344@open-sports-cal
@@ -181,11 +197,12 @@ DTSTART:20261219T180000Z
 DTEND:20261219T210000Z
 SUMMARY:Franklin Pierce Ravens @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFranklin Pierce Ravens @ Delawar
- e State Hornets\nMemorial Hall (DE)\, Dover\, DE
+ e State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not
+  announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +211,14 @@ DTSTART:20261229T230000Z
 DTEND:20261230T020000Z
 SUMMARY:Delaware State Hornets @ Rutgers Scarlet Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ Rutgers
-  Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ
+  Scarlet Knights\nJersey Mike’s Arena\, Piscataway\, NJ\nBroadcast: Peac
+ ock (streaming)
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:Peacock (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925636@open-sports-cal
@@ -207,11 +226,12 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:Delaware State Hornets @ Coppin State Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ Coppin 
- State Eagles\nPhysical Education Complex\, Baltimore\, MD
+ State Eagles\nPhysical Education Complex\, Baltimore\, MD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Physical Education Complex\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +240,12 @@ DTSTART:20270109T213000Z
 DTEND:20270110T003000Z
 SUMMARY:Delaware State Hornets @ Norfolk State Spartans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ Norfolk
-  State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA
+  State Spartans\nJoseph G. Echols Hall\, Norfolk\, VA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Joseph G. Echols Hall\, Norfolk\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +254,11 @@ DTSTART:20270112T000000Z
 DTEND:20270112T030000Z
 SUMMARY:Howard Bison @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHoward Bison @ Delaware State Ho
- rnets\nMemorial Hall (DE)\, Dover\, DE
+ rnets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +267,12 @@ DTSTART:20270116T210000Z
 DTEND:20270117T000000Z
 SUMMARY:Delaware State Hornets @ Morgan State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ Morgan 
- State Bears\nHill Field House\, Baltimore\, MD
+ State Bears\nHill Field House\, Baltimore\, MD\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Hill Field House\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +281,12 @@ DTSTART:20270123T220000Z
 DTEND:20270124T010000Z
 SUMMARY:North Carolina Central Eagles @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Carolina Central Eagles @ 
- Delaware State Hornets\nMemorial Hall (DE)\, Dover\, DE
+ Delaware State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadc
+ ast not announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +295,12 @@ DTSTART:20270126T000000Z
 DTEND:20270126T030000Z
 SUMMARY:South Carolina State Bulldogs @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Carolina State Bulldogs @ 
- Delaware State Hornets\nMemorial Hall (DE)\, Dover\, DE
+ Delaware State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadc
+ ast not announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +309,12 @@ DTSTART:20270130T203000Z
 DTEND:20270130T233000Z
 SUMMARY:Delaware State Hornets @ Maryland Eastern Shore Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ Marylan
- d Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD
+ d Eastern Shore Hawks\nHytche Center\, Princess Anne\, MD\nBroadcast: Broa
+ dcast not announced
 LOCATION:Hytche Center\, Princess Anne\, MD
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +323,12 @@ DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:Coppin State Eagles @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCoppin State Eagles @ Delaware S
- tate Hornets\nMemorial Hall (DE)\, Dover\, DE
+ tate Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +337,12 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:Norfolk State Spartans @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorfolk State Spartans @ Delawar
- e State Hornets\nMemorial Hall (DE)\, Dover\, DE
+ e State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not
+  announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +351,12 @@ DTSTART:20270216T003000Z
 DTEND:20270216T033000Z
 SUMMARY:Delaware State Hornets @ Howard Bison
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ Howard 
- Bison\nBurr Gymnasium\, Washington\, DC
+ Bison\nBurr Gymnasium\, Washington\, DC\nBroadcast: Broadcast not announce
+ d
 LOCATION:Burr Gymnasium\, Washington\, DC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +365,12 @@ DTSTART:20270220T220000Z
 DTEND:20270221T010000Z
 SUMMARY:Morgan State Bears @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMorgan State Bears @ Delaware St
- ate Hornets\nMemorial Hall (DE)\, Dover\, DE
+ ate Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadcast not ann
+ ounced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +379,12 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:Delaware State Hornets @ North Carolina Central Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ North C
- arolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC
+ arolina Central Eagles\nMcDougald-McLendon Arena\, Durham\, NC\nBroadcast:
+  Broadcast not announced
 LOCATION:McDougald-McLendon Arena\, Durham\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +394,11 @@ DTEND;VALUE=DATE:20270302
 SUMMARY:Delaware State Hornets @ South Carolina State Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware State Hornets @ South C
  arolina State Bulldogs\nSmith-Hammond-Middleton Memorial Center\, Orangebu
- rg\, SC\nStart time TBD
+ rg\, SC\nStart time TBD\nBroadcast: Broadcast not announced
 LOCATION:Smith-Hammond-Middleton Memorial Center\, Orangeburg\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925856@open-sports-cal
@@ -376,11 +406,12 @@ DTSTART:20270305T003000Z
 DTEND:20270305T033000Z
 SUMMARY:Maryland Eastern Shore Hawks @ Delaware State Hornets
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMaryland Eastern Shore Hawks @ D
- elaware State Hornets\nMemorial Hall (DE)\, Dover\, DE
+ elaware State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: Broadca
+ st not announced
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

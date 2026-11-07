@@ -12,12 +12,14 @@ DTSTART:20261103T013000Z
 DTEND:20261103T043000Z
 SUMMARY:LaGrange Panthers @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLaGrange Panthers @ Jacksonville
-  State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+  State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadcast: ES
+ PN+ (streaming)
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926780@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261106T010000Z
 DTEND:20261106T040000Z
 SUMMARY:Jacksonville State Gamecocks @ South Alabama Jaguars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ S
- outh Alabama Jaguars\nMitchell Center\, Mobile\, AL
+ outh Alabama Jaguars\nMitchell Center\, Mobile\, AL\nBroadcast: ESPN+ (str
+ eaming)
 LOCATION:Mitchell Center\, Mobile\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925702@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261112T010000Z
 DTEND:20261112T040000Z
 SUMMARY:Jacksonville State Gamecocks @ Houston Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ H
- ouston Cougars\nFertitta Center\, Houston\, TX
+ ouston Cougars\nFertitta Center\, Houston\, TX\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Fertitta Center\, Houston\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919017@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:UAB Blazers @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUAB Blazers @ Jacksonville State
-  Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+  Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926781@open-sports-cal
@@ -64,12 +72,14 @@ DTSTART:20261118T003000Z
 DTEND:20261118T033000Z
 SUMMARY:Jacksonville State Gamecocks @ Louisiana Tech Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ L
- ouisiana Tech Bulldogs\nThomas Assembly Center\, Ruston\, LA
+ ouisiana Tech Bulldogs\nThomas Assembly Center\, Ruston\, LA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Thomas Assembly Center\, Ruston\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926782@open-sports-cal
@@ -77,12 +87,14 @@ DTSTART:20261121T000000Z
 DTEND:20261121T030000Z
 SUMMARY:Georgia State Panthers @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Jackson
- ville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ ville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadcas
+ t: ESPN+ (streaming)
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917544@open-sports-cal
@@ -90,11 +102,12 @@ DTSTART:20261126T033000Z
 DTEND:20261126T063000Z
 SUMMARY:Pacific Tigers @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nPacific Tigers @ Jacksonville St
- ate Gamecocks\nResorts World Event Center\, Las Vegas\, NV\nNeutral site
+ ate Gamecocks\nResorts World Event Center\, Las Vegas\, NV\nNeutral site\n
+ Broadcast: Broadcast not announced
 LOCATION:Resorts World Event Center\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -103,11 +116,12 @@ DTSTART:20261127T010000Z
 DTEND:20261127T040000Z
 SUMMARY:Jacksonville State Gamecocks @ UC Davis Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ U
- C Davis Aggies\nResorts World Event Center\, Las Vegas\, NV\nNeutral site
+ C Davis Aggies\nResorts World Event Center\, Las Vegas\, NV\nNeutral site\
+ nBroadcast: Broadcast not announced
 LOCATION:Resorts World Event Center\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -116,11 +130,12 @@ DTSTART:20261128T033000Z
 DTEND:20261128T063000Z
 SUMMARY:Jacksonville State Gamecocks @ Omaha Mavericks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ O
- maha Mavericks\nResorts World Event Center\, Las Vegas\, NV\nNeutral site
+ maha Mavericks\nResorts World Event Center\, Las Vegas\, NV\nNeutral site\
+ nBroadcast: Broadcast not announced
 LOCATION:Resorts World Event Center\, Las Vegas\, NV
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
 END:VEVENT
 BEGIN:VEVENT
@@ -129,12 +144,14 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Little Rock Trojans @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLittle Rock Trojans @ Jacksonvil
- le State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ le State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadcast: 
+ ESPN+ (streaming)
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926785@open-sports-cal
@@ -142,12 +159,14 @@ DTSTART:20261206T210000Z
 DTEND:20261207T000000Z
 SUMMARY:Louisiana Tech Bulldogs @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Tech Bulldogs @ Jackso
- nville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ nville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926109@open-sports-cal
@@ -155,12 +174,14 @@ DTSTART:20261212T220000Z
 DTEND:20261213T010000Z
 SUMMARY:East Tennessee State Buccaneers @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nEast Tennessee State Buccaneers 
- @ Jacksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ @ Jacksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\
+ nBroadcast: ESPN+ (streaming)
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926786@open-sports-cal
@@ -168,12 +189,14 @@ DTSTART:20261216T170000Z
 DTEND:20261216T200000Z
 SUMMARY:Reinhardt Eagles @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nReinhardt Eagles @ Jacksonville 
- State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919038@open-sports-cal
@@ -181,12 +204,14 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Jacksonville State Gamecocks @ Wichita State Shockers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ W
- ichita State Shockers\nCharles Koch Arena\, Wichita\, KS
+ ichita State Shockers\nCharles Koch Arena\, Wichita\, KS\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Charles Koch Arena\, Wichita\, KS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401905604@open-sports-cal
@@ -194,12 +219,14 @@ DTSTART:20261231T220000Z
 DTEND:20270101T010000Z
 SUMMARY:Middle Tennessee Blue Raiders @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMiddle Tennessee Blue Raiders @ 
- Jacksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ Jacksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nB
+ roadcast: ESPN+ (streaming)
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401905609@open-sports-cal
@@ -207,11 +234,12 @@ DTSTART:20270102T220000Z
 DTEND:20270103T010000Z
 SUMMARY:Western Kentucky Hilltoppers @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWestern Kentucky Hilltoppers @ J
- acksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ acksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBr
+ oadcast: Broadcast not announced
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +248,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Jacksonville State Gamecocks @ Kennesaw State Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ K
- ennesaw State Owls\nVyStar Arena\, Kennesaw\, GA
+ ennesaw State Owls\nVyStar Arena\, Kennesaw\, GA\nBroadcast: Broadcast not
+  announced
 LOCATION:VyStar Arena\, Kennesaw\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +262,12 @@ DTSTART:20270115T013000Z
 DTEND:20270115T043000Z
 SUMMARY:Jacksonville State Gamecocks @ New Mexico State Aggies
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ N
- ew Mexico State Aggies\nPan American Center\, Las Cruces\, NM
+ ew Mexico State Aggies\nPan American Center\, Las Cruces\, NM\nBroadcast: 
+ Broadcast not announced
 LOCATION:Pan American Center\, Las Cruces\, NM
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Denver
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +276,12 @@ DTSTART:20270116T203000Z
 DTEND:20270116T233000Z
 SUMMARY:Jacksonville State Gamecocks @ Sam Houston Bearkats
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ S
- am Houston Bearkats\nBernard G. Johnson Coliseum\, Huntsville\, TX
+ am Houston Bearkats\nBernard G. Johnson Coliseum\, Huntsville\, TX\nBroadc
+ ast: Broadcast not announced
 LOCATION:Bernard G. Johnson Coliseum\, Huntsville\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +290,12 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:Liberty Flames @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLiberty Flames @ Jacksonville St
- ate Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ ate Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadcast: Broad
+ cast not announced
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +304,12 @@ DTSTART:20270123T220000Z
 DTEND:20270124T010000Z
 SUMMARY:Delaware Blue Hens @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nDelaware Blue Hens @ Jacksonvill
- e State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ e State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadcast: B
+ roadcast not announced
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +318,12 @@ DTSTART:20270129T000000Z
 DTEND:20270129T030000Z
 SUMMARY:Jacksonville State Gamecocks @ Florida International Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ F
- lorida International Panthers\nOcean Bank Convocation Center\, Miami\, FL
+ lorida International Panthers\nOcean Bank Convocation Center\, Miami\, FL\
+ nBroadcast: Broadcast not announced
 LOCATION:Ocean Bank Convocation Center\, Miami\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +332,12 @@ DTSTART:20270130T200000Z
 DTEND:20270130T230000Z
 SUMMARY:Jacksonville State Gamecocks @ Missouri State Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ M
- issouri State Bears\nGreat Southern Bank Arena\, Springfield\, MO
+ issouri State Bears\nGreat Southern Bank Arena\, Springfield\, MO\nBroadca
+ st: Broadcast not announced
 LOCATION:Great Southern Bank Arena\, Springfield\, MO
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +346,12 @@ DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:Kennesaw State Owls @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nKennesaw State Owls @ Jacksonvil
- le State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ le State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadcast: 
+ Broadcast not announced
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +360,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Sam Houston Bearkats @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSam Houston Bearkats @ Jacksonvi
- lle State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ lle State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadcast:
+  Broadcast not announced
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +374,12 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:New Mexico State Aggies @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Mexico State Aggies @ Jackso
- nville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ nville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadca
+ st: Broadcast not announced
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +388,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Jacksonville State Gamecocks @ Delaware Blue Hens
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ D
- elaware Blue Hens\nBob Carpenter Center\, Newark\, DE
+ elaware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: Broadcas
+ t not announced
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +402,12 @@ DTSTART:20270220T230000Z
 DTEND:20270221T020000Z
 SUMMARY:Jacksonville State Gamecocks @ Liberty Flames
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ L
- iberty Flames\nLiberty Arena (VA)\, Lynchburg\, VA
+ iberty Flames\nLiberty Arena (VA)\, Lynchburg\, VA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Liberty Arena (VA)\, Lynchburg\, VA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +416,12 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Florida International Panthers @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida International Panthers @
-  Jacksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+  Jacksonville State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\n
+ Broadcast: Broadcast not announced
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +430,12 @@ DTSTART:20270227T220000Z
 DTEND:20270228T010000Z
 SUMMARY:Missouri State Bears @ Jacksonville State Gamecocks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMissouri State Bears @ Jacksonvi
- lle State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL
+ lle State Gamecocks\nPete Mathews Coliseum\, Jacksonville\, AL\nBroadcast:
+  Broadcast not announced
 LOCATION:Pete Mathews Coliseum\, Jacksonville\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +444,12 @@ DTSTART:20270305T003000Z
 DTEND:20270305T033000Z
 SUMMARY:Jacksonville State Gamecocks @ Western Kentucky Hilltoppers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ W
- estern Kentucky Hilltoppers\nE.A. Diddle Arena\, Bowling Green\, KY
+ estern Kentucky Hilltoppers\nE.A. Diddle Arena\, Bowling Green\, KY\nBroad
+ cast: Broadcast not announced
 LOCATION:E.A. Diddle Arena\, Bowling Green\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -415,11 +458,12 @@ DTSTART:20270306T200000Z
 DTEND:20270306T230000Z
 SUMMARY:Jacksonville State Gamecocks @ Middle Tennessee Blue Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville State Gamecocks @ M
- iddle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN
+ iddle Tennessee Blue Raiders\nMurphy Center\, Murfreesboro\, TN\nBroadcast
+ : Broadcast not announced
 LOCATION:Murphy Center\, Murfreesboro\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR

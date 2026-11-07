@@ -12,13 +12,15 @@ DTSTART:20261106T000000Z
 DTEND:20261106T030000Z
 SUMMARY:American University Eagles @ Georgetown Hoyas
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ G
- eorgetown Hoyas\nMcDonough Arena\, Washington\, DC
+ eorgetown Hoyas\nMcDonough Arena\, Washington\, DC\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:McDonough Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919464@open-sports-cal
@@ -26,13 +28,15 @@ DTSTART:20261113T160000Z
 DTEND:20261113T190000Z
 SUMMARY:American University Eagles @ Delaware State Hornets
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ D
- elaware State Hornets\nMemorial Hall (DE)\, Dover\, DE
+ elaware State Hornets\nMemorial Hall (DE)\, Dover\, DE\nBroadcast: MEAC Ne
+ twork (streaming) / YouTube (streaming)
 LOCATION:Memorial Hall (DE)\, Dover\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:MEAC Network (streaming) / YouTube (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919465@open-sports-cal
@@ -40,13 +44,15 @@ DTSTART:20261115T210000Z
 DTEND:20261116T000000Z
 SUMMARY:American University Eagles @ Delaware Blue Hens
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ D
- elaware Blue Hens\nBob Carpenter Center\, Newark\, DE
+ elaware Blue Hens\nBob Carpenter Center\, Newark\, DE\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Bob Carpenter Center\, Newark\, DE
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919466@open-sports-cal
@@ -54,13 +60,15 @@ DTSTART:20261118T230000Z
 DTEND:20261119T020000Z
 SUMMARY:Drexel Dragons @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nDrexel Dragons @ American Univ
- ersity Eagles\nBender Arena\, Washington\, DC
+ ersity Eagles\nBender Arena\, Washington\, DC\nBroadcast: ESPN+ (streaming
+ )
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919467@open-sports-cal
@@ -68,13 +76,15 @@ DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:La Salle Explorers @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLa Salle Explorers @ American 
- University Eagles\nBender Arena\, Washington\, DC
+ University Eagles\nBender Arena\, Washington\, DC\nBroadcast: ESPN+ (strea
+ ming)
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401917187@open-sports-cal
@@ -82,13 +92,15 @@ DTSTART:20261124T160000Z
 DTEND:20261124T190000Z
 SUMMARY:American University Eagles @ Yale Bulldogs
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ Y
- ale Bulldogs\nJohn J. Lee Amphitheater\, New Haven\, CT
+ ale Bulldogs\nJohn J. Lee Amphitheater\, New Haven\, CT\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:John J. Lee Amphitheater\, New Haven\, CT
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919468@open-sports-cal
@@ -96,13 +108,15 @@ DTSTART:20261130T230000Z
 DTEND:20261201T020000Z
 SUMMARY:Washington Adventist Shock @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nWashington Adventist Shock @ A
- merican University Eagles\nBender Arena\, Washington\, DC
+ merican University Eagles\nBender Arena\, Washington\, DC\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919469@open-sports-cal
@@ -110,12 +124,13 @@ DTSTART:20261204T000000Z
 DTEND:20261204T030000Z
 SUMMARY:American University Eagles @ William & Mary Tribe
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ W
- illiam & Mary Tribe\nKaplan Arena\, Williamsburg\, VA
+ illiam & Mary Tribe\nKaplan Arena\, Williamsburg\, VA\nBroadcast: Broadcas
+ t not announced
 LOCATION:Kaplan Arena\, Williamsburg\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -124,13 +139,15 @@ DTSTART:20261206T180000Z
 DTEND:20261206T210000Z
 SUMMARY:Long Island University Sharks @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLong Island University Sharks 
- @ American University Eagles\nBender Arena\, Washington\, DC
+ @ American University Eagles\nBender Arena\, Washington\, DC\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916010@open-sports-cal
@@ -138,13 +155,15 @@ DTSTART:20261209T230000Z
 DTEND:20261210T020000Z
 SUMMARY:American University Eagles @ Virginia Cavaliers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ V
- irginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA
+ irginia Cavaliers\nJohn Paul Jones Arena\, Charlottesville\, VA\nBroadcast
+ : ACCNX (streaming)
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401916043@open-sports-cal
@@ -152,13 +171,15 @@ DTSTART:20261221T170000Z
 DTEND:20261221T200000Z
 SUMMARY:American University Eagles @ UMBC Retrievers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ U
- MBC Retrievers\nChesapeake Employers Insurance Arena\, Baltimore\, MD
+ MBC Retrievers\nChesapeake Employers Insurance Arena\, Baltimore\, MD\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:Chesapeake Employers Insurance Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919471@open-sports-cal
@@ -166,13 +187,15 @@ DTSTART:20261230T190000Z
 DTEND:20261230T220000Z
 SUMMARY:American University Eagles @ Lehigh Mountain Hawks
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ L
- ehigh Mountain Hawks\nStabler Arena\, Bethlehem\, PA
+ ehigh Mountain Hawks\nStabler Arena\, Bethlehem\, PA\nBroadcast: ESPN+ (st
+ reaming)
 LOCATION:Stabler Arena\, Bethlehem\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-women-401919472@open-sports-cal
@@ -180,12 +203,13 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:American University Eagles @ Holy Cross Crusaders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ H
- oly Cross Crusaders\nHart Center Arena\, Worcester\, MA
+ oly Cross Crusaders\nHart Center Arena\, Worcester\, MA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Hart Center Arena\, Worcester\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -194,12 +218,13 @@ DTSTART:20270106T230000Z
 DTEND:20270107T020000Z
 SUMMARY:Colgate Raiders @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nColgate Raiders @ American Uni
- versity Eagles\nBender Arena\, Washington\, DC
+ versity Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +233,13 @@ DTSTART:20270109T180000Z
 DTEND:20270109T210000Z
 SUMMARY:American University Eagles @ Lafayette Leopards
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ L
- afayette Leopards\nKirby Sports Center\, Easton\, PA
+ afayette Leopards\nKirby Sports Center\, Easton\, PA\nBroadcast: Broadcast
+  not announced
 LOCATION:Kirby Sports Center\, Easton\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +248,13 @@ DTSTART:20270113T230000Z
 DTEND:20270114T020000Z
 SUMMARY:Loyola Maryland Greyhounds @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLoyola Maryland Greyhounds @ A
- merican University Eagles\nBender Arena\, Washington\, DC
+ merican University Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broa
+ dcast not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -236,12 +263,13 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Boston University Terriers @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBoston University Terriers @ A
- merican University Eagles\nBender Arena\, Washington\, DC
+ merican University Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broa
+ dcast not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -250,12 +278,13 @@ DTSTART:20270120T230000Z
 DTEND:20270121T020000Z
 SUMMARY:American University Eagles @ Navy Midshipmen
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ N
- avy Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD
+ avy Midshipmen\nAlumni Hall (Navy)\, Annapolis\, MD\nBroadcast: Broadcast 
+ not announced
 LOCATION:Alumni Hall (Navy)\, Annapolis\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +293,13 @@ DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Lafayette Leopards @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLafayette Leopards @ American 
- University Eagles\nBender Arena\, Washington\, DC
+ University Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broadcast no
+ t announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -278,12 +308,13 @@ DTSTART:20270127T230000Z
 DTEND:20270128T020000Z
 SUMMARY:American University Eagles @ Bucknell Bison
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ B
- ucknell Bison\nSojka Pavilion\, Lewisburg\, PA
+ ucknell Bison\nSojka Pavilion\, Lewisburg\, PA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Sojka Pavilion\, Lewisburg\, PA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -292,12 +323,13 @@ DTSTART:20270130T190000Z
 DTEND:20270130T220000Z
 SUMMARY:American University Eagles @ Boston University Terriers
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ B
- oston University Terriers\nCase Gym\, Boston\, MA
+ oston University Terriers\nCase Gym\, Boston\, MA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Case Gym\, Boston\, MA
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +338,13 @@ DTSTART:20270203T230000Z
 DTEND:20270204T020000Z
 SUMMARY:Army Black Knights @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nArmy Black Knights @ American 
- University Eagles\nBender Arena\, Washington\, DC
+ University Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broadcast no
+ t announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -320,12 +353,13 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:American University Eagles @ Loyola Maryland Greyhounds
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ L
- oyola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD
+ oyola Maryland Greyhounds\nReitz Arena\, Baltimore\, MD\nBroadcast: Broadc
+ ast not announced
 LOCATION:Reitz Arena\, Baltimore\, MD
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +368,13 @@ DTSTART:20270208T213000Z
 DTEND:20270209T003000Z
 SUMMARY:Lehigh Mountain Hawks @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nLehigh Mountain Hawks @ Americ
- an University Eagles\nBender Arena\, Washington\, DC
+ an University Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broadcast
+  not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -348,12 +383,13 @@ DTSTART:20270213T230000Z
 DTEND:20270214T020000Z
 SUMMARY:Navy Midshipmen @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nNavy Midshipmen @ American Uni
- versity Eagles\nBender Arena\, Washington\, DC
+ versity Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -362,12 +398,13 @@ DTSTART:20270217T230000Z
 DTEND:20270218T020000Z
 SUMMARY:American University Eagles @ Army Black Knights
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ A
- rmy Black Knights\nChristl Arena\, West Point\, NY
+ rmy Black Knights\nChristl Arena\, West Point\, NY\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Christl Arena\, West Point\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,12 +413,13 @@ DTSTART:20270220T190000Z
 DTEND:20270220T220000Z
 SUMMARY:American University Eagles @ Colgate Raiders
 DESCRIPTION:NCAA Women's Basketball 2026-27\nAmerican University Eagles @ C
- olgate Raiders\nCotterell Court\, Hamilton\, NY
+ olgate Raiders\nCotterell Court\, Hamilton\, NY\nBroadcast: Broadcast not 
+ announced
 LOCATION:Cotterell Court\, Hamilton\, NY
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +428,13 @@ DTSTART:20270223T230000Z
 DTEND:20270224T020000Z
 SUMMARY:Bucknell Bison @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nBucknell Bison @ American Univ
- ersity Eagles\nBender Arena\, Washington\, DC
+ ersity Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -404,12 +443,13 @@ DTSTART:20270226T220000Z
 DTEND:20270227T010000Z
 SUMMARY:Holy Cross Crusaders @ American University Eagles
 DESCRIPTION:NCAA Women's Basketball 2026-27\nHoly Cross Crusaders @ America
- n University Eagles\nBender Arena\, Washington\, DC
+ n University Eagles\nBender Arena\, Washington\, DC\nBroadcast: Broadcast 
+ not announced
 LOCATION:Bender Arena\, Washington\, DC
 CATEGORIES:Basketball,NCAA Women's Basketball,NCAA Women's Basketball 2026-
  27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

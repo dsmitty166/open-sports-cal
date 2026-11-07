@@ -12,12 +12,14 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Florida Gulf Coast Eagles @ UCF Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ UCF 
- Knights\nAddition Financial Arena\, Orlando\, FL
+ Knights\nAddition Financial Arena\, Orlando\, FL\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Addition Financial Arena\, Orlando\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922210@open-sports-cal
@@ -25,12 +27,14 @@ DTSTART:20261107T000000Z
 DTEND:20261107T030000Z
 SUMMARY:New College Mighty Banyans @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew College Mighty Banyans @ Flo
- rida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ rida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401906781@open-sports-cal
@@ -38,12 +42,14 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Florida Gulf Coast Eagles @ Georgia Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Geor
- gia Bulldogs\nStegeman Coliseum\, Athens\, GA
+ gia Bulldogs\nStegeman Coliseum\, Athens\, GA\nBroadcast: SECN+ (streaming
+ )
 LOCATION:Stegeman Coliseum\, Athens\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:SECN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922211@open-sports-cal
@@ -51,12 +57,14 @@ DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
 SUMMARY:Florida International Panthers @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida International Panthers @
-  Florida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+  Florida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN
+ + (streaming)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929458@open-sports-cal
@@ -64,12 +72,14 @@ DTSTART:20261115T170000Z
 DTEND:20261115T200000Z
 SUMMARY:Abraham Baldwin Agricultural Stallions @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbraham Baldwin Agricultural Sta
- llions @ Florida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ llions @ Florida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadca
+ st: ESPN+ (streaming)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922212@open-sports-cal
@@ -78,12 +88,13 @@ DTEND:20261119T030000Z
 SUMMARY:Florida Gulf Coast Eagles @ Florida Atlantic Owls
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Flor
  ida Atlantic Owls\nAbessinio Court at Eleanor R. Baldwin Arena\, Boca Rato
- n\, FL
+ n\, FL\nBroadcast: ESPN+ (streaming)
 LOCATION:Abessinio Court at Eleanor R. Baldwin Arena\, Boca Raton\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921701@open-sports-cal
@@ -91,11 +102,12 @@ DTSTART:20261123T183000Z
 DTEND:20261123T213000Z
 SUMMARY:Charlotte 49ers @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCharlotte 49ers @ Florida Gulf C
- oast Eagles\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site
+ oast Eagles\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral site\n
+ Broadcast: Broadcast not announced
 LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -105,11 +117,11 @@ DTEND:20261126T000000Z
 SUMMARY:Georgia State Panthers @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nGeorgia State Panthers @ Florida
   Gulf Coast Eagles\nSuncoast Credit Union Arena\, Fort Myers\, FL\nNeutral
-  site
+  site\nBroadcast: Broadcast not announced
 LOCATION:Suncoast Credit Union Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -118,12 +130,14 @@ DTSTART:20261129T220000Z
 DTEND:20261130T010000Z
 SUMMARY:Florida Gulf Coast Eagles @ LSU New Orleans Privateers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ LSU 
- New Orleans Privateers\nLakefront Arena\, New Orleans\, LA
+ New Orleans Privateers\nLakefront Arena\, New Orleans\, LA\nBroadcast: ESP
+ N+ (streaming)
 LOCATION:Lakefront Arena\, New Orleans\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917559@open-sports-cal
@@ -131,12 +145,14 @@ DTSTART:20261206T010000Z
 DTEND:20261206T040000Z
 SUMMARY:Florida Gulf Coast Eagles @ Pepperdine Waves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Pepp
- erdine Waves\nFirestone Fieldhouse\, Malibu\, CA
+ erdine Waves\nFirestone Fieldhouse\, Malibu\, CA\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Firestone Fieldhouse\, Malibu\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917562@open-sports-cal
@@ -144,12 +160,14 @@ DTSTART:20261208T003000Z
 DTEND:20261208T033000Z
 SUMMARY:Florida Gulf Coast Eagles @ Loyola Marymount Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Loyo
- la Marymount Lions\nGersten Pavilion\, Los Angeles\, CA
+ la Marymount Lions\nGersten Pavilion\, Los Angeles\, CA\nBroadcast: ESPN+ 
+ (streaming)
 LOCATION:Gersten Pavilion\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922214@open-sports-cal
@@ -157,12 +175,14 @@ DTSTART:20261213T170000Z
 DTEND:20261213T200000Z
 SUMMARY:Alcorn State Braves @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAlcorn State Braves @ Florida Gu
- lf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ lf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922215@open-sports-cal
@@ -170,12 +190,14 @@ DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
 SUMMARY:Tarleton State Texans @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTarleton State Texans @ Florida 
- Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917974@open-sports-cal
@@ -183,12 +205,14 @@ DTSTART:20261222T000000Z
 DTEND:20261222T030000Z
 SUMMARY:Abilene Christian Wildcats @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAbilene Christian Wildcats @ Flo
- rida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ rida Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922216@open-sports-cal
@@ -196,12 +220,14 @@ DTSTART:20261228T190000Z
 DTEND:20261228T220000Z
 SUMMARY:Florida Tech Panthers @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Tech Panthers @ Florida 
- Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: ESPN+ (stream
+ ing)
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401917947@open-sports-cal
@@ -209,12 +235,14 @@ DTSTART:20261231T190000Z
 DTEND:20261231T220000Z
 SUMMARY:Florida Gulf Coast Eagles @ Central Arkansas Bears
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Cent
- ral Arkansas Bears\nFarris Center\, Conway\, AR
+ ral Arkansas Bears\nFarris Center\, Conway\, AR\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Farris Center\, Conway\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401922217@open-sports-cal
@@ -222,11 +250,12 @@ DTSTART:20270103T010000Z
 DTEND:20270103T040000Z
 SUMMARY:Florida Gulf Coast Eagles @ Little Rock Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Litt
- le Rock Trojans\nJack Stephens Center\, Little Rock\, AR
+ le Rock Trojans\nJack Stephens Center\, Little Rock\, AR\nBroadcast: Broad
+ cast not announced
 LOCATION:Jack Stephens Center\, Little Rock\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -235,11 +264,12 @@ DTSTART:20270106T000000Z
 DTEND:20270106T030000Z
 SUMMARY:UT Arlington Mavericks @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUT Arlington Mavericks @ Florida
-  Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+  Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast no
+ t announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -248,11 +278,12 @@ DTSTART:20270109T190000Z
 DTEND:20270109T220000Z
 SUMMARY:Florida Gulf Coast Eagles @ Stetson Hatters
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Stet
- son Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL
+ son Hatters\nInsight Credit Union Arena at Edmunds Center\, DeLand\, FL\nB
+ roadcast: Broadcast not announced
 LOCATION:Insight Credit Union Arena at Edmunds Center\, DeLand\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -261,11 +292,12 @@ DTSTART:20270115T000000Z
 DTEND:20270115T030000Z
 SUMMARY:Florida Gulf Coast Eagles @ Bellarmine Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Bell
- armine Knights\nKnights Hall\, Louisville\, KY
+ armine Knights\nKnights Hall\, Louisville\, KY\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Knights Hall\, Louisville\, KY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -274,11 +306,12 @@ DTSTART:20270116T220000Z
 DTEND:20270117T010000Z
 SUMMARY:Florida Gulf Coast Eagles @ Lipscomb Bisons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Lips
- comb Bisons\nAllen Arena\, Nashville\, TN
+ comb Bisons\nAllen Arena\, Nashville\, TN\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Allen Arena\, Nashville\, TN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -287,11 +320,12 @@ DTSTART:20270122T000000Z
 DTEND:20270122T030000Z
 SUMMARY:West Florida Argonauts @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWest Florida Argonauts @ Florida
-  Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+  Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast no
+ t announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -300,11 +334,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Queens University Royals @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nQueens University Royals @ Flori
- da Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ da Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast 
+ not announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -313,11 +348,12 @@ DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:Florida Gulf Coast Eagles @ Jacksonville Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Jack
- sonville Dolphins\nSwisher Gymnasium\, Jacksonville\, FL\nStart time TBD
+ sonville Dolphins\nSwisher Gymnasium\, Jacksonville\, FL\nStart time TBD\n
+ Broadcast: Broadcast not announced
 LOCATION:Swisher Gymnasium\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401905428@open-sports-cal
@@ -325,11 +361,12 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:Florida Gulf Coast Eagles @ North Florida Ospreys
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Nort
- h Florida Ospreys\nUNF Arena\, Jacksonville\, FL
+ h Florida Ospreys\nUNF Arena\, Jacksonville\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:UNF Arena\, Jacksonville\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -338,11 +375,12 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Stetson Hatters @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStetson Hatters @ Florida Gulf C
- oast Eagles\nAlico Arena\, Fort Myers\, FL
+ oast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -351,11 +389,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Lipscomb Bisons @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLipscomb Bisons @ Florida Gulf C
- oast Eagles\nAlico Arena\, Fort Myers\, FL
+ oast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast not annou
+ nced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -364,11 +403,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Bellarmine Knights @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nBellarmine Knights @ Florida Gul
- f Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ f Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -377,11 +417,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Florida Gulf Coast Eagles @ Queens University Royals
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ Quee
- ns University Royals\nCurry Arena\, Charlotte\, NC
+ ns University Royals\nCurry Arena\, Charlotte\, NC\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Curry Arena\, Charlotte\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -390,11 +431,12 @@ DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Florida Gulf Coast Eagles @ West Florida Argonauts
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFlorida Gulf Coast Eagles @ West
-  Florida Argonauts\nUWF Field House\, Pensacola\, FL
+  Florida Argonauts\nUWF Field House\, Pensacola\, FL\nBroadcast: Broadcast
+  not announced
 LOCATION:UWF Field House\, Pensacola\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -403,11 +445,12 @@ DTSTART:20270226T003000Z
 DTEND:20270226T033000Z
 SUMMARY:North Florida Ospreys @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNorth Florida Ospreys @ Florida 
- Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -416,11 +459,12 @@ DTSTART:20270227T210000Z
 DTEND:20270228T000000Z
 SUMMARY:Jacksonville Dolphins @ Florida Gulf Coast Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJacksonville Dolphins @ Florida 
- Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL
+ Gulf Coast Eagles\nAlico Arena\, Fort Myers\, FL\nBroadcast: Broadcast not
+  announced
 LOCATION:Alico Arena\, Fort Myers\, FL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

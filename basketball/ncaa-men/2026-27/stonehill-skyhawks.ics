@@ -12,12 +12,13 @@ DTSTART:20261103T000000Z
 DTEND:20261103T030000Z
 SUMMARY:Curry Colonels @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCurry Colonels @ Stonehill Skyha
- wks\nMerkert Gymnasium\, South Easton\, MA
+ wks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: NEC Front Row
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:NEC Front Row
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911195@open-sports-cal
@@ -25,12 +26,13 @@ DTSTART:20261106T003000Z
 DTEND:20261106T033000Z
 SUMMARY:Stonehill Skyhawks @ Fordham Rams
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Fordham Ram
- s\nRose Hill Gym\, Bronx\, NY
+ s\nRose Hill Gym\, Bronx\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Rose Hill Gym\, Bronx\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919846@open-sports-cal
@@ -38,12 +40,13 @@ DTSTART:20261110T000000Z
 DTEND:20261110T030000Z
 SUMMARY:Stonehill Skyhawks @ Columbia Lions
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Columbia Li
- ons\nLevien Gymnasium\, New York\, NY
+ ons\nLevien Gymnasium\, New York\, NY\nBroadcast: ESPN+ (streaming)
 LOCATION:Levien Gymnasium\, New York\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919847@open-sports-cal
@@ -51,12 +54,14 @@ DTSTART:20261114T180000Z
 DTEND:20261114T210000Z
 SUMMARY:Stonehill Skyhawks @ Texas Tech Red Raiders
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Texas Tech 
- Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX
+ Red Raiders\nUnited Supermarkets Arena\, Lubbock\, TX\nBroadcast: ESPN+ (s
+ treaming)
 LOCATION:United Supermarkets Arena\, Lubbock\, TX
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919848@open-sports-cal
@@ -64,11 +69,12 @@ DTSTART:20261119T010000Z
 DTEND:20261119T040000Z
 SUMMARY:New Hampshire Wildcats @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Hampshire Wildcats @ Stonehi
- ll Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+ ll Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast n
+ ot announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -77,11 +83,12 @@ DTSTART:20261121T220000Z
 DTEND:20261122T010000Z
 SUMMARY:Northeastern Huskies @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNortheastern Huskies @ Stonehill
-  Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+  Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast not
+  announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -90,11 +97,12 @@ DTSTART:20261124T180000Z
 DTEND:20261124T210000Z
 SUMMARY:Vermont State Randolph Knights @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nVermont State Randolph Knights @
-  Stonehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+  Stonehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Bro
+ adcast not announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +111,14 @@ DTSTART:20261129T010000Z
 DTEND:20261129T040000Z
 SUMMARY:Stonehill Skyhawks @ Notre Dame Fighting Irish
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Notre Dame 
- Fighting Irish\nPurcell Pavilion\, South Bend\, IN
+ Fighting Irish\nPurcell Pavilion\, South Bend\, IN\nBroadcast: ACCNX (stre
+ aming)
 LOCATION:Purcell Pavilion\, South Bend\, IN
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401909537@open-sports-cal
@@ -116,12 +126,14 @@ DTSTART:20261202T000000Z
 DTEND:20261202T030000Z
 SUMMARY:Stonehill Skyhawks @ Providence Friars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Providence 
- Friars\nAmica Mutual Pavilion\, Providence\, RI
+ Friars\nAmica Mutual Pavilion\, Providence\, RI\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Amica Mutual Pavilion\, Providence\, RI
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919852@open-sports-cal
@@ -129,11 +141,12 @@ DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:Holy Cross Crusaders @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHoly Cross Crusaders @ Stonehill
-  Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+  Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast not
+  announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -142,12 +155,14 @@ DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
 SUMMARY:Stonehill Skyhawks @ UMass Lowell River Hawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ UMass Lowel
- l River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA
+ l River Hawks\nKennedy Family Athletic Complex\, Lowell\, MA\nBroadcast: E
+ SPN+ (streaming)
 LOCATION:Kennedy Family Athletic Complex\, Lowell\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919854@open-sports-cal
@@ -155,11 +170,12 @@ DTSTART:20261215T160000Z
 DTEND:20261215T190000Z
 SUMMARY:Regis College Pride @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nRegis College Pride @ Stonehill 
- Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+ Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -168,11 +184,12 @@ DTSTART:20261219T180000Z
 DTEND:20261219T210000Z
 SUMMARY:Stonehill Skyhawks @ Massachusetts Minutemen
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Massachuset
- ts Minutemen\nMullins Center\, Amherst\, MA
+ ts Minutemen\nMullins Center\, Amherst\, MA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Mullins Center\, Amherst\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -181,12 +198,13 @@ DTSTART:20261223T000000Z
 DTEND:20261223T030000Z
 SUMMARY:Stonehill Skyhawks @ Boston College Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Boston Coll
- ege Eagles\nConte Forum\, Chestnut Hill\, MA
+ ege Eagles\nConte Forum\, Chestnut Hill\, MA\nBroadcast: ACCNX (streaming)
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ACCNX (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919855@open-sports-cal
@@ -194,12 +212,13 @@ DTSTART:20261229T190000Z
 DTEND:20261229T220000Z
 SUMMARY:Stonehill Skyhawks @ Dartmouth Big Green
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Dartmouth B
- ig Green\nLeede Arena\, Hanover\, NH
+ ig Green\nLeede Arena\, Hanover\, NH\nBroadcast: ESPN+ (streaming)
 LOCATION:Leede Arena\, Hanover\, NH
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919856@open-sports-cal
@@ -207,11 +226,12 @@ DTSTART:20270102T190000Z
 DTEND:20270102T220000Z
 SUMMARY:Wagner Seahawks @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nWagner Seahawks @ Stonehill Skyh
- awks\nMerkert Gymnasium\, South Easton\, MA
+ awks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -220,11 +240,12 @@ DTSTART:20270105T000000Z
 DTEND:20270105T030000Z
 SUMMARY:Fairleigh Dickinson Knights @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nFairleigh Dickinson Knights @ St
- onehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+ onehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -233,11 +254,12 @@ DTSTART:20270109T000000Z
 DTEND:20270109T030000Z
 SUMMARY:Stonehill Skyhawks @ Mercyhurst Lakers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Mercyhurst 
- Lakers\nMercyhurst Athletic Center\, Erie\, PA
+ Lakers\nMercyhurst Athletic Center\, Erie\, PA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Mercyhurst Athletic Center\, Erie\, PA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -246,11 +268,12 @@ DTSTART:20270110T180000Z
 DTEND:20270110T210000Z
 SUMMARY:Stonehill Skyhawks @ Le Moyne Dolphins
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Le Moyne Do
- lphins\nTed Grant Court\, Syracuse\, NY
+ lphins\nTed Grant Court\, Syracuse\, NY\nBroadcast: Broadcast not announce
+ d
 LOCATION:Ted Grant Court\, Syracuse\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +282,12 @@ DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Stonehill Skyhawks @ Long Island University Sharks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Long Island
-  University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY
+  University Sharks\nBrooklyn Athletic Center\, Brooklyn\, NY\nBroadcast: B
+ roadcast not announced
 LOCATION:Brooklyn Athletic Center\, Brooklyn\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -272,11 +296,12 @@ DTSTART:20270121T000000Z
 DTEND:20270121T030000Z
 SUMMARY:Central Connecticut Blue Devils @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nCentral Connecticut Blue Devils 
- @ Stonehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+ @ Stonehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Br
+ oadcast not announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +310,12 @@ DTSTART:20270123T190000Z
 DTEND:20270123T220000Z
 SUMMARY:Stonehill Skyhawks @ Chicago State Cougars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Chicago Sta
- te Cougars\nJones Convocation Center\, Chicago\, IL
+ te Cougars\nJones Convocation Center\, Chicago\, IL\nBroadcast: Broadcast 
+ not announced
 LOCATION:Jones Convocation Center\, Chicago\, IL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +324,12 @@ DTSTART:20270128T000000Z
 DTEND:20270128T030000Z
 SUMMARY:New Haven Chargers @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nNew Haven Chargers @ Stonehill S
- kyhawks\nMerkert Gymnasium\, South Easton\, MA
+ kyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -311,11 +338,12 @@ DTSTART:20270130T220000Z
 DTEND:20270131T010000Z
 SUMMARY:Stonehill Skyhawks @ Fairleigh Dickinson Knights
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Fairleigh D
- ickinson Knights\nBogota Savings Bank Center\, Hackensack\, NJ
+ ickinson Knights\nBogota Savings Bank Center\, Hackensack\, NJ\nBroadcast:
+  Broadcast not announced
 LOCATION:Bogota Savings Bank Center\, Hackensack\, NJ
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -324,11 +352,12 @@ DTSTART:20270205T000000Z
 DTEND:20270205T030000Z
 SUMMARY:Stonehill Skyhawks @ Wagner Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Wagner Seah
- awks\nSpiro Sports Center\, Staten Island\, NY
+ awks\nSpiro Sports Center\, Staten Island\, NY\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Spiro Sports Center\, Staten Island\, NY
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -337,11 +366,12 @@ DTSTART:20270206T180000Z
 DTEND:20270206T210000Z
 SUMMARY:Stonehill Skyhawks @ Central Connecticut Blue Devils
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ Central Con
- necticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT
+ necticut Blue Devils\nDetrick Gymnasium\, New Britain\, CT\nBroadcast: Bro
+ adcast not announced
 LOCATION:Detrick Gymnasium\, New Britain\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -350,11 +380,12 @@ DTSTART:20270212T000000Z
 DTEND:20270212T030000Z
 SUMMARY:Mercyhurst Lakers @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMercyhurst Lakers @ Stonehill Sk
- yhawks\nMerkert Gymnasium\, South Easton\, MA
+ yhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -363,11 +394,12 @@ DTSTART:20270213T190000Z
 DTEND:20270213T220000Z
 SUMMARY:Le Moyne Dolphins @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLe Moyne Dolphins @ Stonehill Sk
- yhawks\nMerkert Gymnasium\, South Easton\, MA
+ yhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +408,12 @@ DTSTART:20270219T000000Z
 DTEND:20270219T030000Z
 SUMMARY:Long Island University Sharks @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLong Island University Sharks @ 
- Stonehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+ Stonehill Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broa
+ dcast not announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -389,11 +422,12 @@ DTSTART:20270226T000000Z
 DTEND:20270226T030000Z
 SUMMARY:Stonehill Skyhawks @ New Haven Chargers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nStonehill Skyhawks @ New Haven C
- hargers\nJeffery P. Hazell Athletics Center\, West Haven\, CT
+ hargers\nJeffery P. Hazell Athletics Center\, West Haven\, CT\nBroadcast: 
+ Broadcast not announced
 LOCATION:Jeffery P. Hazell Athletics Center\, West Haven\, CT
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -402,11 +436,12 @@ DTSTART:20270227T190000Z
 DTEND:20270227T220000Z
 SUMMARY:Chicago State Cougars @ Stonehill Skyhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nChicago State Cougars @ Stonehil
- l Skyhawks\nMerkert Gymnasium\, South Easton\, MA
+ l Skyhawks\nMerkert Gymnasium\, South Easton\, MA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Merkert Gymnasium\, South Easton\, MA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR

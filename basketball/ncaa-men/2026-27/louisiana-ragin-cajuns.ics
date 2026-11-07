@@ -12,12 +12,13 @@ DTSTART:20261103T010000Z
 DTEND:20261103T040000Z
 SUMMARY:Akron Zips @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nAkron Zips @ Louisiana Ragin' Ca
- juns\nCajundome\, Lafayette\, LA
+ juns\nCajundome\, Lafayette\, LA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925097@open-sports-cal
@@ -25,12 +26,14 @@ DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:Texas A&M-Corpus Christi Islanders @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTexas A&M-Corpus Christi Islande
- rs @ Louisiana Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ rs @ Louisiana Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: ESPN+
+  (streaming)
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929455@open-sports-cal
@@ -38,12 +41,14 @@ DTSTART:20261110T010000Z
 DTEND:20261110T040000Z
 SUMMARY:Southern New Orleans Knights @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern New Orleans Knights @ L
- ouisiana Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ ouisiana Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926864@open-sports-cal
@@ -51,12 +56,14 @@ DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:Louisiana Ragin' Cajuns @ UNC Wilmington Seahawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ UNC Wi
- lmington Seahawks\nTrask Coliseum\, Wilmington\, NC
+ lmington Seahawks\nTrask Coliseum\, Wilmington\, NC\nBroadcast: FloSports 
+ (streaming)
 LOCATION:Trask Coliseum\, Wilmington\, NC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:FloSports (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921064@open-sports-cal
@@ -64,11 +71,13 @@ DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Louisiana Ragin' Cajuns @ San Francisco Dons
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ San Fr
- ancisco Dons\nThe Sobrato Center\, San Francisco\, CA\nStart time TBD
+ ancisco Dons\nThe Sobrato Center\, San Francisco\, CA\nStart time TBD\nBro
+ adcast: ESPN+ (streaming)
 LOCATION:The Sobrato Center\, San Francisco\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401926774@open-sports-cal
@@ -76,12 +85,13 @@ DTSTART:20261123T010000Z
 DTEND:20261123T040000Z
 SUMMARY:Louisiana Ragin' Cajuns @ USC Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ USC Tr
- ojans\nGalen Center\, Los Angeles\, CA
+ ojans\nGalen Center\, Los Angeles\, CA\nBroadcast: B1G+ (streaming)
 LOCATION:Galen Center\, Los Angeles\, CA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Los_Angeles
+X-BROADCAST:B1G+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929456@open-sports-cal
@@ -89,12 +99,14 @@ DTSTART:20261125T013000Z
 DTEND:20261125T043000Z
 SUMMARY:Louisiana Christian Wildcats @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Christian Wildcats @ L
- ouisiana Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ ouisiana Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: ESPN+ (stre
+ aming)
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401925033@open-sports-cal
@@ -102,12 +114,13 @@ DTSTART:20261128T210000Z
 DTEND:20261129T000000Z
 SUMMARY:McNeese Cowboys @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMcNeese Cowboys @ Louisiana Ragi
- n' Cajuns\nCajundome\, Lafayette\, LA
+ n' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401924955@open-sports-cal
@@ -115,12 +128,14 @@ DTSTART:20261203T010000Z
 DTEND:20261203T040000Z
 SUMMARY:Houston Christian Huskies @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nHouston Christian Huskies @ Loui
- siana Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ siana Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: ESPN+ (streami
+ ng)
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401919009@open-sports-cal
@@ -129,13 +144,14 @@ DTEND:20261206T220000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Tulane Green Wave
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Tulane
   Green Wave\nAvron B. Fogelman Arena in the Devlin Fieldhouse\, New Orlean
- s\, LA
+ s\, LA\nBroadcast: ESPN+ (streaming)
 LOCATION:Avron B. Fogelman Arena in the Devlin Fieldhouse\, New Orleans\, L
  A
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401929401@open-sports-cal
@@ -143,11 +159,12 @@ DTSTART:20261212T200000Z
 DTEND:20261212T230000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Oral Roberts Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Oral R
- oberts Golden Eagles\nMabee Center\, Tulsa\, OK
+ oberts Golden Eagles\nMabee Center\, Tulsa\, OK\nBroadcast: Broadcast not 
+ announced
 LOCATION:Mabee Center\, Tulsa\, OK
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -156,12 +173,13 @@ DTSTART:20261217T010000Z
 DTEND:20261217T040000Z
 SUMMARY:UL Monroe Warhawks @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nUL Monroe Warhawks @ Louisiana R
- agin' Cajuns\nCajundome\, Lafayette\, LA
+ agin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: ESPN+ (streaming)
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911955@open-sports-cal
@@ -169,12 +187,14 @@ DTSTART:20261219T210000Z
 DTEND:20261220T000000Z
 SUMMARY:Marshall Thundering Herd @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nMarshall Thundering Herd @ Louis
- iana Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ iana Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: ESPN+ (streamin
+ g)
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401921813@open-sports-cal
@@ -182,12 +202,14 @@ DTSTART:20261222T230000Z
 DTEND:20261223T020000Z
 SUMMARY:Louisiana Ragin' Cajuns @ LSU Tigers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ LSU Ti
- gers\nPete Maravich Assembly Center\, Baton Rouge\, LA
+ gers\nPete Maravich Assembly Center\, Baton Rouge\, LA\nBroadcast: SEC Net
+ work
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
+X-BROADCAST:SEC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911959@open-sports-cal
@@ -196,12 +218,13 @@ DTEND:20261231T230000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Georgia Southern Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Georgi
  a Southern Eagles\nJack and Ruth Ann Hill Convocation Center\, Statesboro\
- , GA
+ , GA\nBroadcast: ESPN+ (streaming)
 LOCATION:Jack and Ruth Ann Hill Convocation Center\, Statesboro\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-men-401911967@open-sports-cal
@@ -209,11 +232,12 @@ DTSTART:20270102T180000Z
 DTEND:20270102T210000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Georgia State Panthers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Georgi
- a State Panthers\nGSU Convocation Center\, Atlanta\, GA
+ a State Panthers\nGSU Convocation Center\, Atlanta\, GA\nBroadcast: Broadc
+ ast not announced
 LOCATION:GSU Convocation Center\, Atlanta\, GA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -222,11 +246,12 @@ DTSTART:20270108T010000Z
 DTEND:20270108T040000Z
 SUMMARY:Old Dominion Monarchs @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nOld Dominion Monarchs @ Louisian
- a Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ a Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -235,11 +260,12 @@ DTSTART:20270109T210000Z
 DTEND:20270110T000000Z
 SUMMARY:James Madison Dukes @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nJames Madison Dukes @ Louisiana 
- Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: Broadcast not announ
+ ced
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -248,11 +274,12 @@ DTSTART:20270116T000000Z
 DTEND:20270116T030000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Coastal Carolina Chanticleers
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Coasta
- l Carolina Chanticleers\nThe HTC Center\, Conway\, SC
+ l Carolina Chanticleers\nThe HTC Center\, Conway\, SC\nBroadcast: Broadcas
+ t not announced
 LOCATION:The HTC Center\, Conway\, SC
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 BEGIN:VEVENT
@@ -261,11 +288,12 @@ DTSTART:20270122T013000Z
 DTEND:20270122T043000Z
 SUMMARY:South Alabama Jaguars @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouth Alabama Jaguars @ Louisian
- a Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ a Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: Broadcast not anno
+ unced
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -274,11 +302,11 @@ DTSTART:20270123T220000Z
 DTEND:20270124T010000Z
 SUMMARY:Troy Trojans @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nTroy Trojans @ Louisiana Ragin' 
- Cajuns\nCajundome\, Lafayette\, LA
+ Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: Broadcast not announced
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -287,11 +315,12 @@ DTSTART:20270128T010000Z
 DTEND:20270128T040000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Arkansas State Red Wolves
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Arkans
- as State Red Wolves\nFirst National Bank Arena\, Jonesboro\, AR
+ as State Red Wolves\nFirst National Bank Arena\, Jonesboro\, AR\nBroadcast
+ : Broadcast not announced
 LOCATION:First National Bank Arena\, Jonesboro\, AR
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -300,11 +329,12 @@ DTSTART:20270130T200000Z
 DTEND:20270130T230000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Southern Miss Golden Eagles
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Southe
- rn Miss Golden Eagles\nReed Green Coliseum\, Hattiesburg\, MS
+ rn Miss Golden Eagles\nReed Green Coliseum\, Hattiesburg\, MS\nBroadcast: 
+ Broadcast not announced
 LOCATION:Reed Green Coliseum\, Hattiesburg\, MS
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -313,11 +343,12 @@ DTSTART:20270204T010000Z
 DTEND:20270204T040000Z
 SUMMARY:Louisiana Tech Bulldogs @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Tech Bulldogs @ Louisi
- ana Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ ana Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: Broadcast not an
+ nounced
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -326,11 +357,11 @@ DTSTART:20270211T000000Z
 DTEND:20270211T030000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Troy Trojans
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Troy T
- rojans\nTrojan Arena\, Troy\, AL
+ rojans\nTrojan Arena\, Troy\, AL\nBroadcast: Broadcast not announced
 LOCATION:Trojan Arena\, Troy\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -339,11 +370,12 @@ DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:Southern Miss Golden Eagles @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nSouthern Miss Golden Eagles @ Lo
- uisiana Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ uisiana Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: Broadcast no
+ t announced
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -352,11 +384,12 @@ DTSTART:20270218T010000Z
 DTEND:20270218T040000Z
 SUMMARY:Arkansas State Red Wolves @ Louisiana Ragin' Cajuns
 DESCRIPTION:NCAA Men's Basketball 2026-27\nArkansas State Red Wolves @ Loui
- siana Ragin' Cajuns\nCajundome\, Lafayette\, LA
+ siana Ragin' Cajuns\nCajundome\, Lafayette\, LA\nBroadcast: Broadcast not 
+ announced
 LOCATION:Cajundome\, Lafayette\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -365,11 +398,12 @@ DTSTART:20270220T210000Z
 DTEND:20270221T000000Z
 SUMMARY:Louisiana Ragin' Cajuns @ South Alabama Jaguars
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ South 
- Alabama Jaguars\nMitchell Center\, Mobile\, AL
+ Alabama Jaguars\nMitchell Center\, Mobile\, AL\nBroadcast: Broadcast not a
+ nnounced
 LOCATION:Mitchell Center\, Mobile\, AL
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -378,11 +412,12 @@ DTSTART:20270225T003000Z
 DTEND:20270225T033000Z
 SUMMARY:Louisiana Ragin' Cajuns @ Louisiana Tech Bulldogs
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ Louisi
- ana Tech Bulldogs\nThomas Assembly Center\, Ruston\, LA
+ ana Tech Bulldogs\nThomas Assembly Center\, Ruston\, LA\nBroadcast: Broadc
+ ast not announced
 LOCATION:Thomas Assembly Center\, Ruston\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 BEGIN:VEVENT
@@ -391,11 +426,12 @@ DTSTART:20270227T003000Z
 DTEND:20270227T033000Z
 SUMMARY:Louisiana Ragin' Cajuns @ UL Monroe Warhawks
 DESCRIPTION:NCAA Men's Basketball 2026-27\nLouisiana Ragin' Cajuns @ UL Mon
- roe Warhawks\nb1Bank Fant Coliseum\, Monroe\, LA
+ roe Warhawks\nb1Bank Fant Coliseum\, Monroe\, LA\nBroadcast: Broadcast not
+  announced
 LOCATION:b1Bank Fant Coliseum\, Monroe\, LA
 CATEGORIES:Basketball,NCAA Men's Basketball,NCAA Men's Basketball 2026-27
 STATUS:CONFIRMED
-DTSTAMP:20261107T032649Z
+DTSTAMP:20261107T050014Z
 X-TIMEZONE:America/Chicago
 END:VEVENT
 END:VCALENDAR
