@@ -7,9 +7,9 @@
   <title>My Sports Calendar · open-sports-cal</title>
   <link rel="stylesheet" href="calendar.css?v=5">
   <script src="data.js" defer></script>
-  <script src="calendar-core.js?v=5" defer></script>
+  <script src="calendar-core.js?v=6" defer></script>
   <script src="calendar-storage.js?v=1" defer></script>
-  <script src="calendar.js?v=8" defer></script>
+  <script src="calendar.js?v=9" defer></script>
 </head>
 <body>
 <main id="calendar-app">
@@ -34,9 +34,9 @@
     </details>
     <p id="notice" class="notice" role="status" aria-live="polite"></p>
     <section id="filters" class="filters" aria-label="Temporary calendar filters" hidden>
-      <div class="filter-row"><label for="league-filter">Show league</label><select id="league-filter"><option value="">All leagues</option></select><button id="clear-filters" disabled>Clear filters</button></div>
+      <div class="filter-row"><label for="league-filter">Show league</label><select id="league-filter"><option value="">My calendar teams</option></select><button id="clear-filters" disabled>Clear filters</button></div>
       <details><summary>Filter teams <span id="filter-count"></span></summary><div id="team-filters" class="selector"></div></details>
-      <p class="filter-note">Temporary filters. Your saved calendar and shared link keep all selected teams.</p>
+      <p class="filter-note">Choose a league to temporarily see all its teams. Clear filters to return to your calendar. Saved teams and shared links stay unchanged.</p>
       <p id="filter-status" role="status" aria-live="polite"></p>
     </section>
     <section class="next-up" aria-labelledby="next-up-title">

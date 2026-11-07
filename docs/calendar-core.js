@@ -86,7 +86,8 @@
       })[0] || null;
   }
   function filterCalendarIds(selected, catalog, league, hiddenTeams) {
-    return selected.filter(id => (!league || catalog.get(id).league===league) && !hiddenTeams.has(id));
+    const candidates=league ? [...catalog.keys()].filter(id=>catalog.get(id).league===league) : selected;
+    return candidates.filter(id => !hiddenTeams.has(id));
   }
   function filterEvents(events, ids) {
     const visible=new Set(ids);

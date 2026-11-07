@@ -27,14 +27,15 @@
   let loading = false, incomplete = false;
   let leagueFilter = '', hiddenTeams = new Set(), filteredEvents = [];
   const visibleIds = () => core.filterCalendarIds(selected,byId,leagueFilter,hiddenTeams);
+  const scopeIds = () => core.filterCalendarIds(selected,byId,leagueFilter,new Set());
   function resetFilters() {leagueFilter='';hiddenTeams.clear();drawFilters();}
   function drawFilters() {
-    $('filters').hidden=!selected.length;
-    const leagues=[...new Set(selected.map(id=>byId.get(id).league))].sort();
-    $('league-filter').innerHTML='<option value="">All leagues</option>'+leagues.map(l=>`<option value="${esc(l)}">${esc(l)}</option>`).join('');
+    $('filters').hidden=false;
+    const leagues=[...new Set(catalog.map(item=>item.league))].sort();
+    $('league-filter').innerHTML='<option value="">My calendar teams</option>'+leagues.map(l=>`<option value="${esc(l)}">${esc(l)}</option>`).join('');
     $('league-filter').value=leagueFilter;
-    $('team-filters').innerHTML=selected.filter(id=>!leagueFilter || byId.get(id).league===leagueFilter).map(id=>`<label style="--event-color:${color(id)}"><input type="checkbox" value="${esc(id)}" ${hiddenTeams.has(id)?'':'checked'}><span class="key"></span>${esc(itemLabel(byId.get(id)))}</label>`).join('');
-    $('filter-count').textContent=`· Showing ${visibleIds().length} of ${selected.length}`;
+    $('team-filters').innerHTML=scopeIds().map(id=>`<label style="--event-color:${color(id)}"><input type="checkbox" value="${esc(id)}" ${hiddenTeams.has(id)?'':'checked'}><span class="key"></span>${esc(itemLabel(byId.get(id)))}</label>`).join('');
+    $('filter-count').textContent=`· Showing ${visibleIds().length} of ${scopeIds().length}`;
     $('filter-status').textContent=visibleIds().length?'':'No teams are visible. Enable a team or clear filters.';
     $('clear-filters').disabled=!leagueFilter && !hiddenTeams.size;
   }
@@ -197,13 +198,13 @@
     $('games').innerHTML = visible.length ? visible.map(e => {
       const date = e.localDay;
       return `<article class="game" style="--event-color:${color(e.calendars[0])}"><span class="stripe"></span><div class="info"><div class="category">${e.calendars.map(id=>esc(itemLabel(byId.get(id)))).join(' / ')}</div><div class="title">${esc(e.summary)}</div><div class="venue">${esc(e.location || 'Venue TBD')}</div><div class="broadcast">${e.broadcast?'TV / streaming: '+esc(e.broadcast):'Broadcast not announced'}</div></div><div class="time">${esc(eventTime(e))}<div class="date">${esc(new Date(date+'T12:00:00').toLocaleDateString(undefined,{month:'short',day:'numeric'}))}</div></div></article>`;
-    }).join('') : `<p class="notice">${selected.length?'No games for the selected calendars on '+(view==='month'?'this day.':'this month.'):'Choose calendars to see your combined schedule.'}</p>`;
+    }).join('') : `<p class="notice">${scopeIds().length?'No games match the current filters on '+(view==='month'?'this day.':'this month.'):'Choose calendars or a league to see a schedule.'}</p>`;
   }
   function drawNextUp() {
     if(loading)return;
     const e=core.nextEvent(filteredEvents,new Date(),zone), target=$('next-up-content');
     $('jump-next').disabled=!e;
-    if(!e) {target.textContent=!selected.length?'Choose calendars to see your next game.':!visibleIds().length?'No teams are visible. Clear filters to see your next game.':'No upcoming games match the current filters in the loaded schedules.';return;}
+    if(!e) {target.textContent=!scopeIds().length?'Choose calendars or a league to see your next game.':!visibleIds().length?'No teams are visible. Clear filters to see your next game.':'No upcoming games match the current filters in the loaded schedules.';return;}
     const date=new Date(core.dateKey(e,zone)+'T12:00:00').toLocaleDateString(undefined,{weekday:'long',month:'long',day:'numeric',year:'numeric'});
     target.innerHTML=`<article class="game" style="--event-color:${color(e.calendars[0])}"><span class="stripe"></span><div class="info"><div class="category">${e.calendars.map(id=>esc(itemLabel(byId.get(id)))).join(' / ')}</div><div class="title">${esc(e.summary)}</div><div class="venue">${esc(e.location || 'Venue TBD')}</div><div class="broadcast">${e.broadcast?'TV / streaming: '+esc(e.broadcast):'Broadcast not announced'}</div><div class="next-up-date">${esc(date)} · ${esc(eventTime(e))}${e.allDay?'':' · '+esc(zone)}</div></div></article>`;
     if(incomplete) target.insertAdjacentHTML('beforeend','<p class="notice">Some schedules are unavailable. Next up may be incomplete.</p>');
@@ -214,15 +215,25 @@
     return 'https://raw.githubusercontent.com/dsmitty166/open-sports-cal/main/';
   }
   async function load() {
-    const request = ++sequence, ids = [...selected];
+    const request = ++sequence, ids = scopeIds();
     loading = true;
     $('jump-next').disabled=true;
     $('next-up-content').textContent=ids.length?'Loading next game…':'Choose calendars to see your next game.';
     $('notice').classList.remove('error'); $('notice').textContent = ids.length?'Loading schedules…':'';
-    const results = await Promise.allSettled(ids.map(async id => {
+    // Large leagues can contain hundreds of teams. Limit concurrent downloads.
+    const results = new Array(ids.length);
+    let cursor=0;
+    async function fetchTeam(id) {
       const item = byId.get(id);
       if (!cache.has(id)) cache.set(id, fetch(core.feedUrl(baseUrl(),item.path,window.SPORTS_DATA.generated),{cache:'no-cache'}).then(r => {if(!r.ok) throw new Error(`HTTP ${r.status}`);return r.text();}).then(core.parseICS).then(list=>{if(!list.length) throw new Error('Empty calendar');return list;}).catch(error=>{cache.delete(id);throw error;}));
       return {id,events:await cache.get(id)};
+    }
+    await Promise.all(Array.from({length:Math.min(8,ids.length)},async()=>{
+      while(cursor<ids.length && request===sequence) {
+        const i=cursor++;
+        try {results[i]={status:'fulfilled',value:await fetchTeam(ids[i])};}
+        catch(reason) {results[i]={status:'rejected',reason};}
+      }
     }));
     if (request!==sequence) return;
     events = core.mergeEvents(results.filter(r=>r.status==='fulfilled').map(r=>r.value));
@@ -281,16 +292,16 @@
       $('storage-status').textContent='Saved calendars updated from another tab.';
     }catch(_){libraryWritable=false;drawSaved();$('storage-status').textContent='Saved data changed in another tab and could not be read. Existing data is untouched.';}
   });
-  $('league-filter').onchange=()=>{leagueFilter=$('league-filter').value;drawFilters();drawCalendar();};
+  $('league-filter').onchange=()=>{leagueFilter=$('league-filter').value;hiddenTeams.clear();drawFilters();events=[];drawCalendar();load();};
   $('team-filters').addEventListener('change',e=>{
     if(!e.target.matches('input'))return;
     if(e.target.checked)hiddenTeams.delete(e.target.value);else hiddenTeams.add(e.target.value);
     // Keep focus on the toggled checkbox while updating counts and results.
-    $('filter-count').textContent=`· Showing ${visibleIds().length} of ${selected.length}`;
+    $('filter-count').textContent=`· Showing ${visibleIds().length} of ${scopeIds().length}`;
     $('filter-status').textContent=visibleIds().length?'':'No teams are visible. Enable a team or clear filters.';
     $('clear-filters').disabled=!leagueFilter && !hiddenTeams.size;
     drawCalendar();
   });
-  $('clear-filters').onclick=()=>{resetFilters();drawCalendar();};
+  $('clear-filters').onclick=()=>{resetFilters();events=[];drawCalendar();load();};
   persist();drawSelections();drawFilters();drawCalendar();load();
 })();

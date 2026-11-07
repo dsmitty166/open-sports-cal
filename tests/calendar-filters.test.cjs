@@ -11,20 +11,25 @@ test('controller filters every view, preserves saved data and resets on calendar
  storage.write(localStorage,[{id:'saved',name:'My teams',teams:['nba:a','nfl:b'],view:'month'}]);
  localStorage.setItem('osc-my-calendar',JSON.stringify({teams:['nba:a','nfl:b'],view:'month',activeId:'saved'}));
  const data={leagues:['nba','nfl'].map((league,i)=>({path:`sport/${league}/2026`,season:'2026',name:league,sport:'Sport',teams:[{name:league,file:`${i?'b':'a'}.ics`}]}))};
+ data.leagues[1].teams.push({name:'Other NFL team',file:'c.ics'});
+ data.leagues.push({path:'sport/nhl/2026',season:'2026',name:'nhl',sport:'Sport',teams:[{name:'Hockey team',file:'d.ics'}]});
  function open(){
   const elements=new Map();
   function element(id){if(!elements.has(id))elements.set(id,{value:'',innerHTML:'',textContent:'',classList:{remove(){},toggle(){}},setAttribute(){},appendChild(){},addEventListener(name,fn){this[name]=fn;},focus(){},scrollIntoView(){}});return elements.get(id);}
-  const context={window:{SportsCalendar:core,CalendarStorage:storage,SPORTS_DATA:data,addEventListener(){}},document:{getElementById:element,createElement:()=>({setAttribute(){},addEventListener(){}}),addEventListener(){}},localStorage,location:{search:'',href:'https://example.com/calendar.html',hostname:'example.com'},history:{replaceState(){}},URL,URLSearchParams,Intl,Date,console,setInterval(){},fetch:async url=>({ok:true,text:async()=>`BEGIN:VEVENT\nUID:${url.includes('/a.ics')?'a':'b'}\nDTSTART:20990101T180000Z\nSUMMARY:${url.includes('/a.ics')?'Basketball':'Football'}\nEND:VEVENT`})};
+  const context={window:{SportsCalendar:core,CalendarStorage:storage,SPORTS_DATA:data,addEventListener(){}},document:{getElementById:element,createElement:()=>({setAttribute(){},addEventListener(){}}),addEventListener(){}},localStorage,location:{search:'',href:'https://example.com/calendar.html',hostname:'example.com'},history:{replaceState(){}},URL,URLSearchParams,Intl,Date,console,setInterval(){},fetch:async url=>({ok:true,text:async()=>{const id=url.match(/\/([abcd])\.ics/)[1];return `BEGIN:VEVENT\nUID:${id}\nDTSTART:20990101T180000Z\nSUMMARY:${{a:'Basketball',b:'Football',c:'Other football game',d:'Hockey'}[id]}\nEND:VEVENT`;}})};
   vm.runInNewContext(fs.readFileSync(require.resolve('../docs/calendar.js'),'utf8'),context);
   return element;
  }
  const el=open();await new Promise(setImmediate);
  const before=JSON.stringify([...values]);
  el('league-filter').value='nfl';el('league-filter').onchange();
+ await new Promise(setImmediate);
  el('agenda').onclick();
  assert.match(el('games').innerHTML,/No games/); // Current month differs from the future fixture.
  el('jump-next').onclick();
  assert.match(el('games').innerHTML,/Football/);
+ assert.match(el('games').innerHTML,/Other football game/);
+ assert.match(el('team-filters').innerHTML,/Other NFL team/);
  assert.doesNotMatch(el('games').innerHTML,/Basketball/);
  assert.match(el('next-up-content').innerHTML,/Football/);
  el('month').onclick();
@@ -32,10 +37,16 @@ test('controller filters every view, preserves saved data and resets on calendar
  assert.doesNotMatch(el('games').innerHTML,/Basketball/);
  assert.equal(JSON.stringify([...values]),before);
  el('team-filters').change({target:{matches:()=>true,value:'nfl:b',checked:false}});
+ el('team-filters').change({target:{matches:()=>true,value:'nfl:c',checked:false}});
  assert.equal(el('jump-next').disabled,true);
  assert.match(el('filter-status').textContent,/No teams/);
  el('clear-filters').onclick();
+ await new Promise(setImmediate);
  assert.match(el('filter-count').textContent,/Showing 2 of 2/);
+ assert.doesNotMatch(el('games').innerHTML,/Other football game/);
+ el('league-filter').value='nhl';el('league-filter').onchange();await new Promise(setImmediate);
+ assert.match(el('next-up-content').innerHTML,/Hockey/);
+ assert.equal(JSON.stringify([...values]),before);
  el('league-filter').value='nfl';el('league-filter').onchange();
  el('saved-calendar').value='saved';el('saved-calendar').onchange();await new Promise(setImmediate);
  assert.equal(el('league-filter').value,'');
