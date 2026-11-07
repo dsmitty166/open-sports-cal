@@ -121,7 +121,7 @@
       const imported=deviceStore.parseBackup(await file.text());
       const replacingUnreadable=!libraryWritable;
       if(replacingUnreadable && !confirm('Existing saved data cannot be read. Importing will REPLACE it. Export recovery data first if you need to keep it. Replace existing data?'))return;
-      const next=deviceStore.mergeImport(library,imported,()=>crypto.randomUUID());
+      const next=deviceStore.mergeImport(replacingUnreadable?[]:library,imported,()=>crypto.randomUUID());
       if(commitLibrary(next,replacingUnreadable)) {drawSaved();drawManage();$('manage-status').textContent=`Imported ${imported.length} calendars. ${replacingUnreadable?'Unreadable data was replaced with your approval.':'Existing saves were kept.'}`;$('storage-status').textContent='Backup restored on this device.';}
     }catch(error){$('manage-status').textContent=error.message+' No calendars were imported.';}
     finally{$('backup-file').value='';}
