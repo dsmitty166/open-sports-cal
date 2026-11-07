@@ -5,27 +5,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Your teams, one online calendar. Combine sports schedules in your timezone and share a permanent link.">
   <title>My Sports Calendar · open-sports-cal</title>
-  <link rel="stylesheet" href="calendar.css?v=6">
+  <link rel="stylesheet" href="calendar.css?v=7">
   <script src="data.js" defer></script>
   <script src="calendar-core.js?v=6" defer></script>
   <script src="calendar-storage.js?v=1" defer></script>
   <script src="calendar-cloud.js?v=1" defer></script>
   <script src="vendor/supabase-2.119.0.js" defer></script>
   <script src="calendar-account.js?v=1" defer></script>
-  <script src="calendar.js?v=10" defer></script>
+  <script src="calendar.js?v=11" defer></script>
 </head>
 <body>
 <main id="calendar-app">
   <nav class="nav" aria-label="Site"><a class="mark" href="./" aria-label="Browse calendars">o</a><a class="brand" href="./">open sports cal</a><a class="preview" href="./">Browse all calendars ↗</a></nav>
   <div class="content">
     <header class="head"><div><h1>Your teams. One calendar.</h1><p>A little less searching. A lot more game day.</p></div><button class="share" id="share">Share calendar ↗</button></header>
-    <section class="account-bar" aria-label="Account">
-      <div class="saved-row"><span id="account-name">Use without an account, or sync across devices.</span><button id="sign-in">Sign in with GitHub</button><button id="sign-out" hidden>Sign out</button><button id="sync-account" hidden>Sync now</button><button id="copy-device" hidden>Copy device calendars to account</button><button id="reload-account" hidden>Load account copy</button></div>
-      <p id="account-status" class="storage-status" role="status" aria-live="polite"></p>
-    </section>
     <section class="saved-bar" aria-label="Saved calendars">
-      <label id="saved-scope" class="label" for="saved-calendar">Saved on this device</label>
-      <div class="saved-row"><select id="saved-calendar" aria-label="Choose a saved calendar"><option value="">Unsaved calendar</option></select><button id="save-as">Save as…</button><button id="manage-saved">Manage</button></div>
+      <div class="saved-row"><select id="saved-calendar" aria-label="Choose a saved calendar"><option value="">Unsaved calendar</option></select><button id="open-settings" aria-haspopup="dialog" aria-controls="settings-dialog">Settings</button></div>
       <p id="storage-status" class="storage-status" role="status" aria-live="polite"></p>
     </section>
     <section class="linkbox" id="linkbox" aria-label="Share this calendar" hidden>
@@ -40,12 +35,15 @@
       </div>
     </details>
     <p id="notice" class="notice" role="status" aria-live="polite"></p>
-    <section id="filters" class="filters" aria-label="Temporary calendar filters" hidden>
+    <details id="filters" class="filters" hidden>
+      <summary><span>Filters</span><span class="filter-summary-note">League &amp; teams <span aria-hidden="true">⌄</span></span></summary>
+      <div class="filter-body">
       <div class="filter-row"><label for="league-filter">Show league</label><select id="league-filter"><option value="">My calendar teams</option></select><button id="clear-filters" disabled>Clear filters</button></div>
       <details><summary>Filter teams <span id="filter-count"></span></summary><div id="team-filters" class="selector"></div></details>
       <p class="filter-note">Choose a league to temporarily see all its teams. Clear filters to return to your calendar. Saved teams and shared links stay unchanged.</p>
       <p id="filter-status" role="status" aria-live="polite"></p>
-    </section>
+      </div>
+    </details>
     <section class="next-up" aria-labelledby="next-up-title">
       <h2 id="next-up-title">Next up</h2>
       <div id="next-up-content" aria-live="polite"></div>
@@ -59,6 +57,22 @@
     <section class="detail" id="game-details" tabindex="-1" aria-label="Game details"><div class="detailhead"><strong id="daytitle"></strong><span id="gamecount"></span></div><div id="games" aria-live="polite"></div></section>
     <footer class="bottom"><span class="live" id="updated"></span><span id="timezone"></span></footer>
   </div>
+  <dialog id="settings-dialog" class="settings-dialog" aria-labelledby="settings-title">
+    <div class="settings-head"><h2 id="settings-title">Settings</h2><button id="close-settings" autofocus>Done</button></div>
+    <div class="settings-body">
+      <section class="account-bar" aria-labelledby="account-heading">
+        <h3 id="account-heading">Account</h3>
+        <p id="account-name">Use without an account, or sync across devices.</p>
+        <div class="saved-row"><button id="sign-in">Sign in with GitHub</button><button id="sign-out" hidden>Sign out</button><button id="sync-account" hidden>Sync now</button><button id="copy-device" hidden>Copy device calendars to account</button><button id="reload-account" hidden>Load account copy</button></div>
+        <p id="account-status" class="storage-status" role="status" aria-live="polite"></p>
+      </section>
+      <section class="settings-library" aria-labelledby="saved-scope">
+        <h3 id="saved-scope">Saved on this device</h3>
+        <div class="saved-row"><button id="save-as">Save as…</button><button id="manage-saved">Manage</button></div>
+        <p>Changes to named calendars save automatically.</p>
+      </section>
+    </div>
+  </dialog>
 </main>
 <dialog id="picker" aria-labelledby="pickertitle">
   <div class="pickerhead"><h2 id="pickertitle">Choose your calendars</h2><button id="done">Done</button></div>

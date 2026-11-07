@@ -101,7 +101,14 @@
     $('manage-calendar').disabled=!library.length;$('saved-name').disabled=!library.length;
   }
   $('saved-calendar').onchange=()=>useCalendar(library.find(c=>c.id===$('saved-calendar').value));
-  $('save-as').onclick=()=>{$('new-calendar-name').value='';$('save-error').textContent='';$('save-dialog').showModal();$('new-calendar-name').focus();};
+  $('open-settings').onclick=()=>{$('open-settings').focus();$('settings-dialog').showModal();};
+  $('close-settings').onclick=()=>{$('settings-dialog').close();};
+  $('settings-dialog').onclick=e=>{
+    if(e.target!==$('settings-dialog'))return;
+    const rect=$('settings-dialog').getBoundingClientRect();
+    if(e.clientX<rect.left || e.clientX>rect.right || e.clientY<rect.top || e.clientY>rect.bottom)$('settings-dialog').close();
+  };
+  $('save-as').onclick=()=>{$('settings-dialog').close();$('new-calendar-name').value='';$('save-error').textContent='';$('save-dialog').showModal();$('new-calendar-name').focus();};
   $('cancel-save').onclick=()=>{$('save-dialog').close();};
   $('save-form').onsubmit=e=>{
     e.preventDefault();const name=$('new-calendar-name').value.trim();
@@ -110,7 +117,7 @@
     if(!commitLibrary([...library,record])) {$('save-error').textContent='Could not save. Check the device storage message.';return;}
     activeId=record.id;persist();$('save-dialog').close();$('storage-status').textContent=`${name} is saved${accountUser?' to your account library on this device':' on this device'}. Changes save automatically.`;
   };
-  $('manage-saved').onclick=()=>{drawManage();$('manage-status').textContent='';$('saved-dialog').showModal();};
+  $('manage-saved').onclick=()=>{$('settings-dialog').close();drawManage();$('manage-status').textContent='';$('saved-dialog').showModal();};
   $('manage-calendar').onchange=()=>drawManage($('manage-calendar').value);
   $('close-saved').onclick=()=>{$('saved-dialog').close();};
   $('rename-calendar').onclick=()=>{

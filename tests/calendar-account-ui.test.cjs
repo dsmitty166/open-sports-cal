@@ -6,7 +6,7 @@ const core=require('../docs/calendar-core.js');
 const store=require('../docs/calendar-storage.js');
 const cloud=require('../docs/calendar-cloud.js');
 
-test('signout clears account selections and open dialogs even if device storage is corrupt',async()=>{
+test('settings dialog hands off actions and signout clears account data even if device storage is corrupt',async()=>{
  const elements=new Map(),disk=new Map();let authChange;
  function element(){return {value:'',textContent:'',innerHTML:'',hidden:false,open:false,style:{},classList:{remove(){},toggle(){}},setAttribute(){},addEventListener(){},appendChild(){},focus(){},select(){},close(){this.open=false;},showModal(){this.open=true;},querySelector(){return element();}};}
  const get=id=>{if(!elements.has(id))elements.set(id,element());return elements.get(id);};
@@ -27,7 +27,17 @@ test('signout clears account selections and open dialogs even if device storage 
    CalendarAccount:{ready:Promise.resolve({data:{session:{user}}}),client:{from:()=>query,auth:{onAuthStateChange:fn=>{authChange=fn;}}}},addEventListener(){}};
  context.window=context;
  await vm.runInNewContext(fs.readFileSync(require.resolve('../docs/calendar.js'),'utf8'),context);
+ get('settings-dialog').getBoundingClientRect=()=>({left:10,right:300,top:100,bottom:600});
+ get('open-settings').onclick();assert.equal(get('settings-dialog').open,true);
+ get('close-settings').onclick();assert.equal(get('settings-dialog').open,false);
+ get('open-settings').onclick();get('settings-dialog').onclick({target:get('account-name')});assert.equal(get('settings-dialog').open,true);
+ get('settings-dialog').onclick({target:get('settings-dialog'),clientX:20,clientY:120});assert.equal(get('settings-dialog').open,true);
+ get('settings-dialog').onclick({target:get('settings-dialog'),clientX:0,clientY:0});assert.equal(get('settings-dialog').open,false);
+ get('open-settings').onclick();get('save-as').onclick();assert.equal(get('settings-dialog').open,false);assert.equal(get('save-dialog').open,true);
+ get('cancel-save').onclick();
+ get('open-settings').onclick();
  get('manage-calendar').value='secret';get('manage-saved').onclick();assert.equal(get('saved-name').value,'Private name');
+ assert.equal(get('settings-dialog').open,false);
  disk.set('osc-saved-calendars','corrupt');authChange('SIGNED_OUT',null);timers.splice(0).forEach(fn=>fn());
  assert.equal(get('saved-dialog').open,false);assert.equal(get('saved-name').value,'');
  assert.equal(get('manage-calendar').innerHTML,'');assert.equal(get('selections').innerHTML,'');
