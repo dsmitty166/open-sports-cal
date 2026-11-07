@@ -191,7 +191,7 @@
     $('notice').classList.remove('error'); $('notice').textContent = ids.length?'Loading schedules…':'';
     const results = await Promise.allSettled(ids.map(async id => {
       const item = byId.get(id);
-      if (!cache.has(id)) cache.set(id, fetch(baseUrl()+item.path,{cache:'no-cache'}).then(r => {if(!r.ok) throw new Error(`HTTP ${r.status}`);return r.text();}).then(core.parseICS).then(list=>{if(!list.length) throw new Error('Empty calendar');return list;}).catch(error=>{cache.delete(id);throw error;}));
+      if (!cache.has(id)) cache.set(id, fetch(core.feedUrl(baseUrl(),item.path,window.SPORTS_DATA.generated),{cache:'no-cache'}).then(r => {if(!r.ok) throw new Error(`HTTP ${r.status}`);return r.text();}).then(core.parseICS).then(list=>{if(!list.length) throw new Error('Empty calendar');return list;}).catch(error=>{cache.delete(id);throw error;}));
       return {id,events:await cache.get(id)};
     }));
     if (request!==sequence) return;

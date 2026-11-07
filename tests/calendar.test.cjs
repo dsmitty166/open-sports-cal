@@ -1,6 +1,11 @@
 const {test} = require('node:test');
 const assert = require('node:assert/strict');
 const cal = require('../docs/calendar-core.js');
+
+test('published feeds use the explicit branch ref and manifest version',()=>{
+ assert.equal(cal.feedUrl('https://raw.githubusercontent.com/dsmitty166/open-sports-cal/main/','basketball/nba/2026-27/a.ics','2026-11-07T01:00:00Z'), 'https://raw.githubusercontent.com/dsmitty166/open-sports-cal/refs/heads/main/basketball/nba/2026-27/a.ics?v=2026-11-07T01%3A00%3A00Z');
+ assert.equal(cal.feedUrl('http://localhost:8767/','a.ics','today'),'http://localhost:8767/a.ics?v=today');
+});
 test('broadcast metadata unfolds and unescapes for display',()=>{
  const [e]=cal.parseICS('BEGIN:VEVENT\nUID:tv\nDTSTART:20261107T180000Z\nSUMMARY:A @ B\nX-BROADCAST:ESPN / ABC\\,\n  local\nEND:VEVENT');
  assert.equal(e.broadcast,'ESPN / ABC, local');

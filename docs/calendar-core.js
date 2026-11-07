@@ -71,7 +71,12 @@
     // When a league has team calendars, do not crowd the picker with aggregates.
     return [...result.values()].filter(item => !item.id.endsWith(':all-teams'));
   }
-  const api = {parseICS, dateKey, occursOn, mergeEvents, buildCatalog};
+  function feedUrl(base, path, version) {
+    // Explicit refs avoid stale responses cached under GitHub's short branch URL.
+    const url = base.replace(/^(https:\/\/raw\.githubusercontent\.com\/[^/]+\/[^/]+\/)main\/$/, '$1refs/heads/main/') + path;
+    return url + '?v=' + encodeURIComponent(version || '');
+  }
+  const api = {parseICS, dateKey, occursOn, mergeEvents, buildCatalog, feedUrl};
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   else root.SportsCalendar = api;
 })(typeof globalThis !== 'undefined' ? globalThis : this);
