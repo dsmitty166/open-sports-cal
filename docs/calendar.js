@@ -24,6 +24,7 @@
   const today = core.dateKey({start:new Date()}, zone);
   let year = +today.slice(0,4), month = +today.slice(5,7)-1, day = +today.slice(8,10);
   let events = [], sequence = 0, lastFetch = 0, dayEvents = new Map();
+  let loading = false, incomplete = false;
   const cache = new Map(), colors = ['#c6a340','#79a5db','#ba97cc','#7cbe99','#e59b83','#8fbfc4'];
   const colorAssignments = new Map(Object.values(aliases).map((id,i)=>[id,colors[i]]));
   const color = id => { if(!colorAssignments.has(id)) colorAssignments.set(id,colors[colorAssignments.size % colors.length]); return colorAssignments.get(id); };
@@ -153,6 +154,7 @@
     }
   }
   function drawCalendar() {
+    drawNextUp();
     $('monthtitle').textContent = new Date(year,month,1).toLocaleDateString(undefined,{month:'long',year:'numeric'});
     $('monthview').hidden = view !== 'month';
     $('month').setAttribute('aria-pressed',String(view==='month')); $('agenda').setAttribute('aria-pressed',String(view==='agenda'));
@@ -181,6 +183,15 @@
       return `<article class="game" style="--event-color:${color(e.calendars[0])}"><span class="stripe"></span><div class="info"><div class="category">${e.calendars.map(id=>esc(itemLabel(byId.get(id)))).join(' / ')}</div><div class="title">${esc(e.summary)}</div><div class="venue">${esc(e.location || 'Venue TBD')}</div><div class="broadcast">${e.broadcast?'TV / streaming: '+esc(e.broadcast):'Broadcast not announced'}</div></div><div class="time">${esc(eventTime(e))}<div class="date">${esc(new Date(date+'T12:00:00').toLocaleDateString(undefined,{month:'short',day:'numeric'}))}</div></div></article>`;
     }).join('') : `<p class="notice">${selected.length?'No games for the selected calendars on '+(view==='month'?'this day.':'this month.'):'Choose calendars to see your combined schedule.'}</p>`;
   }
+  function drawNextUp() {
+    if(loading)return;
+    const e=core.nextEvent(events,new Date(),zone), target=$('next-up-content');
+    $('jump-next').disabled=!e;
+    if(!e) {target.textContent=selected.length?'No upcoming games in the loaded schedules.':'Choose calendars to see your next game.';return;}
+    const date=new Date(core.dateKey(e,zone)+'T12:00:00').toLocaleDateString(undefined,{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+    target.innerHTML=`<article class="game" style="--event-color:${color(e.calendars[0])}"><span class="stripe"></span><div class="info"><div class="category">${e.calendars.map(id=>esc(itemLabel(byId.get(id)))).join(' / ')}</div><div class="title">${esc(e.summary)}</div><div class="venue">${esc(e.location || 'Venue TBD')}</div><div class="broadcast">${e.broadcast?'TV / streaming: '+esc(e.broadcast):'Broadcast not announced'}</div><div class="next-up-date">${esc(date)} · ${esc(eventTime(e))}${e.allDay?'':' · '+esc(zone)}</div></div></article>`;
+    if(incomplete) target.insertAdjacentHTML('beforeend','<p class="notice">Some schedules are unavailable. Next up may be incomplete.</p>');
+  }
   function baseUrl() {
     if (location.hostname.endsWith('.github.io')) return `https://raw.githubusercontent.com/${location.hostname.split('.')[0]}/open-sports-cal/main/`;
     if (['localhost','127.0.0.1'].includes(location.hostname)) return new URL('../',location.href).href;
@@ -188,6 +199,9 @@
   }
   async function load() {
     const request = ++sequence, ids = [...selected];
+    loading = true;
+    $('jump-next').disabled=true;
+    $('next-up-content').textContent=ids.length?'Loading next game…':'Choose calendars to see your next game.';
     $('notice').classList.remove('error'); $('notice').textContent = ids.length?'Loading schedules…':'';
     const results = await Promise.allSettled(ids.map(async id => {
       const item = byId.get(id);
@@ -200,6 +214,7 @@
     const failed = results.flatMap((r,i)=>r.status==='rejected'?[itemLabel(byId.get(ids[i]))]:[]);
     $('notice').textContent = failed.length ? `Could not load ${failed.join('; ')}. Check your connection and use Refresh schedules below.` : missing.length ? `Some shared calendars are unavailable: ${missing.join(', ')}. You can replace them using Add calendars.` : '';
     $('notice').classList.toggle('error',failed.length>0);
+    loading = false; incomplete = failed.length>0;
     lastFetch = Date.now(); drawCalendar();
   }
   function changeSelection(id,checked) {
@@ -219,11 +234,25 @@
   function move(delta) { const date = new Date(year,month+delta,1);year=date.getFullYear();month=date.getMonth();day=1;drawCalendar(); }
   $('previous').onclick=()=>move(-1);$('next').onclick=()=>move(1);
   $('today').onclick=()=>{year=+today.slice(0,4);month=+today.slice(5,7)-1;day=+today.slice(8,10);drawCalendar();};
+  $('jump-next').onclick=()=>{
+    if(loading)return;
+    const now=new Date(), e=core.nextEvent(events,now,zone);
+    if(!e){drawNextUp();return;}
+    let key=core.dateKey(e,zone);
+    // An ongoing multi-day event should open today's date, not its past start.
+    const currentDay=core.dateKey({start:now},zone);
+    if(e.allDay && key<currentDay)key=currentDay;
+    year=+key.slice(0,4);month=+key.slice(5,7)-1;day=+key.slice(8,10);
+    drawCalendar();
+    $('game-details').focus({preventScroll:true});
+    $('game-details').scrollIntoView({block:'start'});
+  };
   $('share').onclick=()=>{persist();$('linkbox').hidden=!$('linkbox').hidden;if(!$('linkbox').hidden)$('sharelink').select();};
   $('copylink').onclick=async()=>{try{await navigator.clipboard.writeText(url().href);$('copylink').textContent='Copied';}catch(_){$('sharelink').select();$('copylink').textContent='Select link above to copy';}};
   $('updated').innerHTML = '● Schedules checked daily · <button id="refresh">Refresh schedules</button>';
   $('refresh').onclick=()=>{cache.clear();load();};
   $('timezone').textContent=`Times shown in ${zone}. Source times may change.`;
+  setInterval(()=>{if(!document.hidden)drawNextUp();},60000);
   document.addEventListener('visibilitychange',()=>{if(!document.hidden && Date.now()-lastFetch>15*60000){cache.clear();load();}});
   window.addEventListener('storage',event=>{
     if(event.key!=='osc-saved-calendars')return;

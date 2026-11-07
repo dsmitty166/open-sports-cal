@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Your teams, one online calendar. Combine sports schedules in your timezone and share a permanent link.">
   <title>My Sports Calendar · open-sports-cal</title>
-  <link rel="stylesheet" href="calendar.css?v=3">
+  <link rel="stylesheet" href="calendar.css?v=4">
   <script src="data.js" defer></script>
-  <script src="calendar-core.js?v=3" defer></script>
+  <script src="calendar-core.js?v=4" defer></script>
   <script src="calendar-storage.js?v=1" defer></script>
-  <script src="calendar.js?v=5" defer></script>
+  <script src="calendar.js?v=7" defer></script>
 </head>
 <body>
 <main id="calendar-app">
@@ -33,12 +33,17 @@
       </div>
     </details>
     <p id="notice" class="notice" role="status" aria-live="polite"></p>
+    <section class="next-up" aria-labelledby="next-up-title">
+      <h2 id="next-up-title">Next up</h2>
+      <div id="next-up-content" aria-live="polite"></div>
+      <button id="jump-next" disabled>Jump to next game</button>
+    </section>
     <div class="tools">
       <div class="monthnav"><button id="previous" aria-label="Previous month">‹</button><strong id="monthtitle"></strong><button id="next" aria-label="Next month">›</button><button id="today">Today</button></div>
       <div class="switch" aria-label="Calendar view"><button id="month" aria-pressed="true">Month</button><button id="agenda" aria-pressed="false">Agenda</button></div>
     </div>
     <section id="monthview" aria-label="Monthly calendar"><div class="weekdays"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div><div class="grid" id="grid"></div></section>
-    <section class="detail" aria-label="Game details"><div class="detailhead"><strong id="daytitle"></strong><span id="gamecount"></span></div><div id="games" aria-live="polite"></div></section>
+    <section class="detail" id="game-details" tabindex="-1" aria-label="Game details"><div class="detailhead"><strong id="daytitle"></strong><span id="gamecount"></span></div><div id="games" aria-live="polite"></div></section>
     <footer class="bottom"><span class="live" id="updated"></span><span id="timezone"></span></footer>
   </div>
 </main>
