@@ -39,7 +39,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Validation
 
-The static website also includes `docs/calendar.html`, `calendar.css`, `calendar.js`, and `calendar-core.js` for a combined online calendar. It fetches selected hosted ICS files directly, without a backend. Run `node --test tests/calendar.test.cjs` for calendar parsing, timezone, duplicate, and latest-season behavior. The existing calendar validation command below remains required.
+The static website also includes `docs/calendar.html`, `calendar.css`, `calendar.js`, `calendar-core.js`, and `calendar-storage.js` for a combined online calendar. It fetches selected hosted ICS files directly, without a backend. Named calendars use versioned device-only storage, with additive JSON backup import/export. Run `node --test tests/calendar*.test.cjs` for calendar parsing, timezone, duplicate, latest-season, and saved-calendar behavior. The existing calendar validation command below remains required.
 
 Always run before committing:
 

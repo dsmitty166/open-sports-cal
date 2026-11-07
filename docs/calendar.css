@@ -37,3 +37,24 @@
 #calendar-app .builder:not([open])>.builder-body{display:none}
 #calendar-app .notice:empty{display:none}
 @media(prefers-reduced-motion:reduce){#calendar-app .builder-chevron{transition:none}}
+
+#calendar-app .saved-bar{margin-bottom:18px}
+#calendar-app .saved-row{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-top:8px}
+#calendar-app .saved-row select{flex:1;min-width:150px;max-width:100%;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:9px;padding:10px;font:inherit}
+#calendar-app .storage-status{font-size:12px;padding-top:8px}
+#calendar-app .storage-status:empty{display:none}
+#calendar-app button:disabled{opacity:.5;cursor:default}
+.saved-dialog{box-sizing:border-box;width:520px;max-width:calc(100% - 28px);max-height:80%;overflow:auto;border:1px solid #606954;border-radius:16px;background:light-dark(#fafaf7,#1b1e1b);color:light-dark(#20251f,#eff2e9);padding:22px;font:14px/1.5 system-ui,sans-serif}
+.saved-dialog::backdrop{background:#0009}
+.saved-dialog h2{font-size:23px;margin:0 0 16px}
+.saved-dialog label{display:block;margin:12px 0 5px}
+.saved-dialog input:not([type=file]),.saved-dialog select{box-sizing:border-box;width:100%;padding:11px;font:inherit;font-size:16px;border:1px solid #727a68;border-radius:8px;background:transparent;color:inherit}
+.saved-dialog p{font-size:12px;opacity:.8;margin:12px 0}
+.saved-dialog button{font:inherit;padding:10px 13px;min-height:44px;border:1px solid #727a68;border-radius:8px;background:transparent;color:inherit;cursor:pointer}
+.saved-dialog button:disabled{opacity:.5;cursor:default}
+.saved-dialog .dialog-actions{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 0}
+.saved-dialog .dialog-error{color:light-dark(#a02c1c,#ffb6a7)}
+.saved-dialog hr{border:0;border-top:1px solid #727a6860;margin-top:20px}
+@media(max-width:500px){#calendar-app .saved-row select{flex-basis:100%;font-size:16px}}
+
+#picker{box-sizing:border-box}

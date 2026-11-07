@@ -7,7 +7,7 @@ on:
       - "**/README.md"
       - "validate.py"
       - "docs/calendar*.js"
-      - "tests/calendar.test.cjs"
+      - "tests/calendar*.test.cjs"
       - ".github/workflows/validate.yml"
   push:
     branches:
@@ -22,7 +22,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - run: node --test tests/calendar.test.cjs
+      - run: node --test tests/calendar*.test.cjs
 
   check-structure:
     name: "Check: VCALENDAR structure & PRODID"
