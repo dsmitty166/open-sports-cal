@@ -16,7 +16,7 @@ DESCRIPTION:NCAA FBS Football 2026\nLouisville Cardinals @ Ole Miss Rebels\
 LOCATION:Nissan Stadium\, Nashville\, TN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/Chicago
 X-BROADCAST:ABC
 END:VEVENT
@@ -31,7 +31,7 @@ DESCRIPTION:NCAA FBS Football 2026\nVillanova Wildcats @ Louisville Cardina
 LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ACC Network
 END:VEVENT
@@ -45,7 +45,7 @@ DESCRIPTION:NCAA FBS Football 2026\nSMU Mustangs @ Louisville Cardinals\nL&
 LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ESPN2
 END:VEVENT
@@ -60,7 +60,7 @@ DESCRIPTION:NCAA FBS Football 2026\nWake Forest Demon Deacons @ Louisville
 LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ESPN / Disney+ (streaming)
 END:VEVENT
@@ -74,7 +74,7 @@ DESCRIPTION:NCAA FBS Football 2026\nLouisville Cardinals @ NC State Wolfpac
 LOCATION:Carter-Finley Stadium\, Raleigh\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ACC Network
 END:VEVENT
@@ -89,7 +89,7 @@ DESCRIPTION:NCAA FBS Football 2026\nFlorida State Seminoles @ Louisville Ca
 LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ESPN
 END:VEVENT
@@ -103,7 +103,7 @@ DESCRIPTION:NCAA FBS Football 2026\nLouisville Cardinals @ Syracuse Orange\
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ACC Network
 END:VEVENT
@@ -118,7 +118,7 @@ DESCRIPTION:NCAA FBS Football 2026\nStanford Cardinal @ Louisville Cardinal
 LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ACC Network
 END:VEVENT
@@ -132,22 +132,23 @@ DESCRIPTION:NCAA FBS Football 2026\nLouisville Cardinals @ Georgia Tech Yel
 LOCATION:Bobby Dodd Stadium\, Atlanta\, GA
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ACC Network
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858298@open-sports-cal
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261115T000000Z
+DTEND:20261115T030000Z
 SUMMARY:Louisville Cardinals @ North Carolina Tar Heels
 DESCRIPTION:NCAA FBS Football 2026\nLouisville Cardinals @ North Carolina T
- ar Heels\nKenan Stadium\, Chapel Hill\, NC\nStart time TBD\nBroadcast: Bro
- adcast not announced
+ ar Heels\nKenan Stadium\, Chapel Hill\, NC\nBroadcast: ESPN2
 LOCATION:Kenan Stadium\, Chapel Hill\, NC
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
+X-TIMEZONE:America/New_York
+X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401858306@open-sports-cal
@@ -160,7 +161,7 @@ DESCRIPTION:NCAA FBS Football 2026\nPittsburgh Panthers @ Louisville Cardin
 LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856761@open-sports-cal
@@ -173,6 +174,6 @@ DESCRIPTION:NCAA FBS Football 2026\nLouisville Cardinals @ Kentucky Wildcat
 LOCATION:Kroger Field\, Lexington\, KY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 END:VEVENT
 END:VCALENDAR

@@ -17,7 +17,7 @@ DESCRIPTION:NCAA FBS Football 2026\nLong Island University Sharks @ Kansas
 LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/Chicago
 X-BROADCAST:ESPNU
 END:VEVENT
@@ -31,7 +31,7 @@ DESCRIPTION:NCAA FBS Football 2026\nMissouri Tigers @ Kansas Jayhawks\nDavi
 LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/Chicago
 X-BROADCAST:Fox
 END:VEVENT
@@ -45,7 +45,7 @@ DESCRIPTION:NCAA FBS Football 2026\nArizona State Sun Devils @ Kansas Jayha
 LOCATION:Wembley Stadium\, London
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:Europe/London
 X-BROADCAST:FS1
 END:VEVENT
@@ -60,7 +60,7 @@ DESCRIPTION:NCAA FBS Football 2026\nMiddle Tennessee Blue Raiders @ Kansas
 LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/Chicago
 X-BROADCAST:ESPNU
 END:VEVENT
@@ -74,7 +74,7 @@ DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ Utah Utes\nRice-Eccle
 LOCATION:Rice-Eccles Stadium\, Salt Lake City\, UT
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/Denver
 X-BROADCAST:ESPN
 END:VEVENT
@@ -88,7 +88,7 @@ DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ Kansas State Wildcats
 LOCATION:Bill Snyder Family Stadium\, Manhattan\, KS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/Chicago
 X-BROADCAST:FS1
 END:VEVENT
@@ -102,7 +102,7 @@ DESCRIPTION:NCAA FBS Football 2026\nBaylor Bears @ Kansas Jayhawks\nDavid B
 LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/Chicago
 X-BROADCAST:TNT
 END:VEVENT
@@ -116,7 +116,7 @@ DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ TCU Horned Frogs\nAmo
 LOCATION:Amon G. Carter Stadium\, Fort Worth\, TX
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/Chicago
 X-BROADCAST:FS1
 END:VEVENT
@@ -130,22 +130,23 @@ DESCRIPTION:NCAA FBS Football 2026\nUCF Knights @ Kansas Jayhawks\nDavid Bo
 LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/Chicago
 X-BROADCAST:ESPN2
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856861@open-sports-cal
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART:20261114T223000Z
+DTEND:20261115T013000Z
 SUMMARY:Kansas Jayhawks @ West Virginia Mountaineers
 DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ West Virginia Mountai
- neers\nMilan Puskar Stadium\, Morgantown\, WV\nStart time TBD\nBroadcast: 
- Broadcast not announced
+ neers\nMilan Puskar Stadium\, Morgantown\, WV\nBroadcast: ESPNU
 LOCATION:Milan Puskar Stadium\, Morgantown\, WV
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
+X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856866@open-sports-cal
@@ -158,7 +159,7 @@ DESCRIPTION:NCAA FBS Football 2026\nBYU Cougars @ Kansas Jayhawks\nDavid Bo
 LOCATION:David Booth Kansas Memorial Stadium\, Lawrence\, KS
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401856877@open-sports-cal
@@ -171,6 +172,6 @@ DESCRIPTION:NCAA FBS Football 2026\nKansas Jayhawks @ Oklahoma State Cowboy
 LOCATION:Boone Pickens Stadium\, Stillwater\, OK
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 END:VEVENT
 END:VCALENDAR

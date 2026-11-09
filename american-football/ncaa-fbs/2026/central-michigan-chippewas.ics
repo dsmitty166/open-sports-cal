@@ -16,7 +16,7 @@ DESCRIPTION:NCAA FBS Football 2026\nCentral Michigan Chippewas @ New Mexico
 LOCATION:University Stadium (NM)\, Albuquerque\, NM
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/Denver
 X-BROADCAST:FS1
 END:VEVENT
@@ -31,7 +31,7 @@ DESCRIPTION:NCAA FBS Football 2026\nColgate Raiders @ Central Michigan Chip
 LOCATION:Kelly/Shorts Stadium\, Mount Pleasant\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
@@ -46,7 +46,7 @@ DESCRIPTION:NCAA FBS Football 2026\nWyoming Cowboys @ Central Michigan Chip
 LOCATION:Kelly/Shorts Stadium\, Mount Pleasant\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
@@ -60,7 +60,7 @@ DESCRIPTION:NCAA FBS Football 2026\nCentral Michigan Chippewas @ Miami Hurr
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:CW
 END:VEVENT
@@ -74,7 +74,7 @@ DESCRIPTION:NCAA FBS Football 2026\nAkron Zips @ Central Michigan Chippewas
 LOCATION:Kelly/Shorts Stadium\, Mount Pleasant\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
@@ -88,7 +88,7 @@ DESCRIPTION:NCAA FBS Football 2026\nCentral Michigan Chippewas @ Ohio Bobca
 LOCATION:Peden Stadium\, Athens\, OH
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
@@ -103,7 +103,7 @@ DESCRIPTION:NCAA FBS Football 2026\nWestern Michigan Broncos @ Central Mich
 LOCATION:Kelly/Shorts Stadium\, Mount Pleasant\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
@@ -118,7 +118,7 @@ DESCRIPTION:NCAA FBS Football 2026\nMiami (OH) RedHawks @ Central Michigan
 LOCATION:Kelly/Shorts Stadium\, Mount Pleasant\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ESPN+ (streaming)
 END:VEVENT
@@ -132,7 +132,7 @@ DESCRIPTION:NCAA FBS Football 2026\nCentral Michigan Chippewas @ Eastern Mi
 LOCATION:Ford Field\, Detroit\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ESPN2
 END:VEVENT
@@ -147,22 +147,23 @@ DESCRIPTION:NCAA FBS Football 2026\nSacramento State Hornets @ Central Mich
 LOCATION:Kelly/Shorts Stadium\, Mount Pleasant\, MI
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866469@open-sports-cal
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
+DTSTART:20261119T003000Z
+DTEND:20261119T033000Z
 SUMMARY:Central Michigan Chippewas @ Buffalo Bulls
 DESCRIPTION:NCAA FBS Football 2026\nCentral Michigan Chippewas @ Buffalo Bu
- lls\nBroadview Stadium\, Buffalo\, NY\nStart time TBD\nBroadcast: Broadcas
- t not announced
+ lls\nBroadview Stadium\, Buffalo\, NY\nBroadcast: ESPNU
 LOCATION:Broadview Stadium\, Buffalo\, NY
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
+X-TIMEZONE:America/New_York
+X-BROADCAST:ESPNU
 END:VEVENT
 BEGIN:VEVENT
 UID:ncaa-fbs-401866474@open-sports-cal
@@ -175,7 +176,7 @@ DESCRIPTION:NCAA FBS Football 2026\nCentral Michigan Chippewas @ Ball State
 LOCATION:Scheumann Stadium\, Muncie\, IN
 CATEGORIES:American Football,NCAA FBS Football,NCAA FBS Football 2026
 STATUS:CONFIRMED
-DTSTAMP:20261107T121242Z
+DTSTAMP:20261109T144937Z
 X-TIMEZONE:America/New_York
 END:VEVENT
 END:VCALENDAR
